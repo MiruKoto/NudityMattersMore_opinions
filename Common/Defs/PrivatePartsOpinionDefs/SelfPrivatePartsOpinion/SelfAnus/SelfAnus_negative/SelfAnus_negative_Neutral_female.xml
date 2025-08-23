@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Female gives opinion about her tiny butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Micro_Negative_Female_Negative</defName>
+        <label>Opinion_Self_Anus_Micro_Negative_Female_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My rear is barely there, flat and uninspiring, leaving me feeling utterly inadequate and somber.</li>
+            <li>This micro-anus matches my flat rear perfectly, emphasizing my complete lack of allure.</li>
+            <li>A truly dismal view, my tiny butt and unyielding anus reflect my glum, unfulfilled mood.</li>
+            <li>Feeling down about this almost non-existent butt; its micro size and tight anus offer no joy.</li>
+            <li>My rear's minuscule size and inflexible anus leave me deeply unsatisfied and quite melancholic.</li>
+            <li>The flatness of my butt, paired with a remarkably small anus, just confirms my negative self-image.</li>
+            <li>I feel so undesirable with this minimal rear; its micro proportions are genuinely depressing.</li>
+            <li>No bounce, no curve, just a dishearteningly tiny butt and unyielding anus.</li>
+            <li>My overall mood sours with every glance at this flat, unimpressive, micro-sized rear.</li>
+            <li>This small anus and flat butt truly capture my unenthusiastic and dissatisfied state.</li>
+            <li>The utter lack of a noticeable rear leaves me feeling completely unsexy and deflated.</li>
+            <li>It's a flat, unyielding posterior, reflecting my current bleak and unsatisfied disposition.</li>
+            <li>My spirits sink considering how truly insignificant and tiny my butt feels.</li>
+            <li>This minimal butt, devoid of any expansion, just accentuates my profound disappointment.</li>
+            <li>The sight of my own tiny, unyielding anus fills me with an overwhelming sense of emptiness.</li>
+            <li>Such a small butt, it barely exists, echoing my current mood of quiet despair.</li>
+            <li>My rear offers no appeal, its micro nature makes me feel utterly plain and unattractive.</li>
+            <li>I'm deeply unimpressed by this flat, unmoving butt; it brings down my entire outlook.</li>
+            <li>My body feels so uninspired with this tiny, unyielding anus and its flat surroundings.</li>
+            <li>A truly depressing view of my micro-sized rear, offering no comfort or satisfaction.</li>
+            <li>I lament the unappealing flatness of my butt, a constant reminder of dissatisfaction.</li>
+            <li>This tiny anus and almost invisible butt only amplify my sense of self-loathing.</li>
+            <li>No sex appeal, just a flat, uninspiring rear that mirrors my gloomy mood perfectly.</li>
+            <li>Feeling completely unfulfilled with my body; this tiny anus is a sad sight.</li>
+            <li>My mood darkens further, reflecting the utter disappointment in my own microscopic rear.</li>
+            <li>The lack of any curve or presence on my butt makes me feel wholly unattractive.</li>
+            <li>It's a truly depressing sight, my flat rear and tight anus, utterly devoid of charm.</li>
+            <li>This tiny butt, with its unyielding anus, represents all that I find unappealing.</li>
+            <li>My dissatisfaction grows with every thought of this incredibly small and uninspiring rear.</li>
+            <li>I just feel empty looking at this flat, unexpressive butt and its micro expansion.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her small butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Tight_Negative_Female_Negative</defName>
+        <label>Opinion_Self_Anus_Tight_Negative_Female_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My small butt feels so restrictive and tight, mirroring my general discomfort and low mood.</li>
+            <li>This tight anus and unyielding butt make me feel constrained and utterly unappealing.</li>
+            <li>A truly uninspiring rear; its small size and tight expansion dampen my spirits considerably.</li>
+            <li>Feeling confined and unattractive, this small butt with its tight anus offers no pleasure.</li>
+            <li>My mood reflects the tension in my small, tight rear; it's just not comfortable.</li>
+            <li>The stiffness of my butt and its tight anus leave me feeling utterly dissatisfied.</li>
+            <li>I dislike how firm and unyielding my small rear feels, emphasizing my negative outlook.</li>
+            <li>This tight anus contributes to my sense of discomfort, making my small butt seem even worse.</li>
+            <li>A truly disappointing view, my small butt is too tight and offers no sensuality.</li>
+            <li>My overall mood is as rigid as this small, unyielding butt; it’s a source of irritation.</li>
+            <li>The lack of pliability in my rear, combined with a tight anus, just sours my mood.</li>
+            <li>I feel so unfulfilled with this small, unyielding butt, longing for something softer.</li>
+            <li>This tight anus makes my small rear feel like it's holding back, just like my emotions.</li>
+            <li>My dissatisfaction stems from this small, unaccommodating butt; it’s never quite right.</li>
+            <li>The sight of my tight anus and firm butt brings a wave of self-critical thoughts.</li>
+            <li>This small butt, with its unforgiving tightness, reflects my current tense disposition.</li>
+            <li>I wish my rear offered more, but its small size and tight nature are just a letdown.</li>
+            <li>My current mood is as unyielding as this small, tight butt, making me feel stuck.</li>
+            <li>It’s a rigid, unappealing small butt; it drains my confidence and leaves me cold.</li>
+            <li>The lack of comfortable give in my rear, combined with a tight anus, is truly frustrating.</li>
+            <li>I feel unattractive with this small, taut butt, unable to relax and be myself.</li>
+            <li>This tight anus makes my small butt feel uninviting, reflecting my own subdued desires.</li>
+            <li>My gloomy mood is exacerbated by the uncomfortable firmness of my small rear.</li>
+            <li>The tightness of my butt is a constant reminder of my unfulfilled physical needs.</li>
+            <li>A truly uninspiring posterior, too small and too tight for any real satisfaction.</li>
+            <li>My self-perception is tainted by this small, unyielding butt and its discomfort.</li>
+            <li>I feel utterly unsexy with this small, tight anus; it’s a source of constant irritation.</li>
+            <li>This small butt's tightness feels like a barrier, a reflection of my negative headspace.</li>
+            <li>My mood darkens imagining the stiff, unaccommodating nature of my own small rear.</li>
+            <li>I just feel rigid and uninspired looking at this small, unyielding butt.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Average_Negative_Female_Negative</defName>
+        <label>Opinion_Self_Anus_Average_Negative_Female_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My butt is just... average, neither good nor bad, just uninspiring. It matches my current flat mood.</li>
+            <li>This average anus and ordinary butt offers no excitement, leaving me feeling indifferent and dull.</li>
+            <li>It's so unremarkable, this butt with its unnoticeable jiggliness, truly a reflection of my boredom.</li>
+            <li>Feeling completely unenthused about my average-sized rear; it just exists without appeal.</li>
+            <li>My mood is as bland as my butt's average shape and uninteresting expansion.</li>
+            <li>The overall mediocrity of my butt leaves me feeling utterly unimpressed and somewhat disappointed.</li>
+            <li>I just wish for something more, but this average rear offers no visual joy.</li>
+            <li>No real character to my butt, just an average shape and movement that does nothing for me.</li>
+            <li>My spirits are as lukewarm as this perfectly unremarkable, average-sized butt.</li>
+            <li>This average anus, neither tight nor loose, contributes to my general sense of tedium.</li>
+            <li>The uninspiring nature of my butt, with its subtle jiggliness, mirrors my own lack of passion.</li>
+            <li>I feel completely unsexy with this utterly average rear; it's a source of mild discontent.</li>
+            <li>It's a butt that fails to excite, reflecting my current unfulfilled and uninspired state.</li>
+            <li>My body feels so plain, this average anus and butt offer nothing unique or special.</li>
+            <li>The sheer ordinariness of my butt and its expansion leaves me cold and unimpressed.</li>
+            <li>This average rear, with its forgettable shape, just adds to my overall feeling of meh.</li>
+            <li>I feel as uninspired as my butt looks: utterly average and without any real appeal.</li>
+            <li>The slight jiggliness of my butt is barely noticeable, much like my dwindling enthusiasm.</li>
+            <li>My mood matches the blandness of my butt; it's just there, unremarkable.</li>
+            <li>This average anus offers no distinct feeling, reflecting my overall sense of unfulfillment.</li>
+            <li>It's neither here nor there, this butt, simply existing, and that makes me feel bored.</li>
+            <li>I gaze upon my average butt with a sense of resigned indifference and dissatisfaction.</li>
+            <li>No spark, no allure, just an average rear that fails to ignite any positive feelings.</li>
+            <li>My body feels so unexciting, my butt's average state does nothing for my self-esteem.</li>
+            <li>The lack of any distinct feature on my butt makes me feel utterly plain and forgettable.</li>
+            <li>I feel so uninspired by my average butt, unable to find any joy in its appearance.</li>
+            <li>This average anus seems to echo my flat mood, offering no comfort or excitement.</li>
+            <li>My overall opinion of my body is as mediocre as this utterly average butt.</li>
+            <li>The uninteresting jiggliness of my butt just confirms my current unenthusiastic state.</li>
+            <li>It's just an average butt, nothing to complain about, but absolutely nothing to praise.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Accommodating_Negative_Female_Negative</defName>
+        <label>Opinion_Self_Anus_Accommodating_Negative_Female_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My accommodating butt feels too yielding, lacking firmness, mirroring my general insecurity and disappointment.</li>
+            <li>This overly accommodating anus, though expanded, makes me feel too loose, unappealing, and quite down.</li>
+            <li>A truly unappealing view; my butt's jiggliness is excessive, reflecting my mood of dissatisfaction.</li>
+            <li>Feeling undesirable due to this overly giving butt; its accommodating nature is a source of regret.</li>
+            <li>My mood darkens considering how soft and unresisting my rear feels, lacking any true shape.</li>
+            <li>The general lack of tightness in my butt and its expanded anus leaves me quite dissatisfied.</li>
+            <li>I dislike how yielding my accommodating rear is, emphasizing my negative outlook and unease.</li>
+            <li>This accommodating anus contributes to my sense of being too open, making my butt seem less desirable.</li>
+            <li>A truly disappointing view, my butt is too accommodating and lacks proper definition.</li>
+            <li>My overall mood is as saggy as this overly yielding butt; it's a source of quiet frustration.</li>
+            <li>The excessive pliability of my rear, combined with an expanded anus, just sours my mood.</li>
+            <li>I feel so unfulfilled with this soft, accommodating butt, longing for something more defined.</li>
+            <li>This accommodating anus makes my butt feel too easy, like it lacks any challenge or mystery.</li>
+            <li>My dissatisfaction stems from this overly accommodating rear; it’s never quite as firm as I wish.</li>
+            <li>The sight of my expanded, accommodating anus brings a wave of self-critical thoughts.</li>
+            <li>This overly yielding butt, with its accommodating nature, reflects my current uneasy disposition.</li>
+            <li>I wish my rear offered more resistance, but its accommodating size is just a letdown.</li>
+            <li>My current mood is as unresisting as this accommodating butt, making me feel deflated.</li>
+            <li>It’s a soft, unappealing accommodating butt; it drains my confidence and leaves me cold.</li>
+            <li>The lack of comfortable firmness in my rear, combined with an expanded anus, is truly frustrating.</li>
+            <li>I feel unattractive with this overly soft, accommodating butt, unable to feel truly confident.</li>
+            <li>This accommodating anus makes my butt feel too exposed, reflecting my own subdued desires.</li>
+            <li>My gloomy mood is exacerbated by the accommodating, somewhat saggy nature of my rear.</li>
+            <li>The accommodating nature of my butt is a constant reminder of my unfulfilled physical needs.</li>
+            <li>A truly uninspiring posterior, too soft and too accommodating for any real satisfaction.</li>
+            <li>My self-perception is tainted by this accommodating, yielding butt and its discomfort.</li>
+            <li>I feel utterly unsexy with this overly expanded, accommodating anus; it’s a source of constant irritation.</li>
+            <li>This accommodating butt's softness feels like a lack of control, a reflection of my negative headspace.</li>
+            <li>My mood darkens imagining the overly soft, accommodating nature of my own rear.</li>
+            <li>I just feel loose and uninspired looking at this overly accommodating butt.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Cavernous_Negative_Female_Negative</defName>
+        <label>Opinion_Self_Anus_Cavernous_Negative_Female_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My cavernous butt feels overwhelmingly large and saggy, dragging down my spirits and making me feel quite self-conscious.</li>
+            <li>This extremely expanded, almost cavernous anus makes me feel exposed and unattractive, reflecting my deep unease.</li>
+            <li>A truly unappealing view; my butt's excessive jiggliness and noticeable sagginess dampen my mood completely.</li>
+            <li>Feeling undesirable due to this overly large, uncontained butt; its cavernous nature is a source of despair.</li>
+            <li>My mood reflects the overwhelming size and lack of form in my rear; it's a heavy burden.</li>
+            <li>The general looseness of my butt and its vast, cavernous anus leaves me deeply dissatisfied and embarrassed.</li>
+            <li>I dislike how sprawling and uncontained my large rear is, emphasizing my negative outlook and profound unease.</li>
+            <li>This cavernous anus contributes to my sense of being too open, making my large butt seem even more undesirable.</li>
+            <li>A truly disappointing view, my butt is too expansive and lacks any proper definition or firmness.</li>
+            <li>My overall mood is as deflated as this large, sagging butt; it's a source of profound sadness.</li>
+            <li>The excessive pliability and sagginess of my rear, combined with a vast anus, just crushes my spirits.</li>
+            <li>I feel so unfulfilled with this enormous, shapeless butt, longing for something more firm and contained.</li>
+            <li>This cavernous anus makes my butt feel too yielding, like it lacks any form or control.</li>
+            <li>My dissatisfaction stems from this overly large, unaccommodating rear; it’s never quite as firm as I wish.</li>
+            <li>The sight of my vast, cavernous anus brings a wave of overwhelming self-critical thoughts and dismay.</li>
+            <li>This overly expanded butt, with its cavernous nature, reflects my current deeply uneasy disposition.</li>
+            <li>I wish my rear offered more resistance, but its overwhelming size and sagginess are just a complete letdown.</li>
+            <li>My current mood is as unresisting as this cavernous butt, making me feel utterly deflated and hopeless.</li>
+            <li>It’s a vast, unappealing cavernous butt; it drains my confidence and leaves me feeling completely cold and empty.</li>
+            <li>The lack of comfortable firmness in my rear, combined with an enormous anus, is truly agonizing.</li>
+            <li>I feel unattractive with this overly soft, sprawling butt, unable to feel truly confident or appealing.</li>
+            <li>This cavernous anus makes my butt feel too exposed and vulnerable, reflecting my own profound anxieties.</li>
+            <li>My gloomy mood is exacerbated by the overwhelming size and noticeable sagginess of my rear.</li>
+            <li>The cavernous nature of my butt is a constant reminder of my unfulfilled physical needs and self-loathing.</li>
+            <li>A truly uninspiring posterior, too vast and too cavernous for any real satisfaction or pride.</li>
+            <li>My self-perception is tainted by this cavernous, yielding butt and its constant discomfort.</li>
+            <li>I feel utterly unsexy with this overwhelmingly expanded, cavernous anus; it’s a source of perpetual irritation.</li>
+            <li>This cavernous butt's immense softness feels like a complete lack of control, a reflection of my negative headspace.</li>
+            <li>My mood darkens imagining the overwhelmingly soft, cavernous nature of my own rear, a burden.</li>
+            <li>I just feel immense and utterly uninspired looking at this vast, cavernous butt, it's a dismal sight.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Abyssal_Negative_Female_Negative</defName>
+        <label>Opinion_Self_Anus_Abyssal_Negative_Female_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My abyssal butt feels monstrously huge and excessively saggy, a constant source of profound self-disgust and despair.</li>
+            <li>This impossibly expanded, truly abyssal anus makes me feel utterly repulsive and exposed, reflecting my deepest shame.</li>
+            <li>A truly horrifying view; my butt's uncontrollable jiggliness and extreme sagginess utterly crush my spirit.</li>
+            <li>Feeling completely grotesque due to this astronomically large, formless butt; its abyssal nature is a nightmare.</li>
+            <li>My mood reflects the overwhelming, inescapable vastness and utter lack of form in my rear; it's a crushing weight.</li>
+            <li>The general shapelessness of my butt and its terrifyingly vast, abyssal anus leaves me utterly broken and humiliated.</li>
+            <li>I loathe how sprawling and grotesquely uncontained my enormous rear is, emphasizing my abysmal outlook and profound torment.</li>
+            <li>This abyssal anus contributes to my sense of being terrifyingly open, making my monstrous butt seem even more vile.</li>
+            <li>A truly sickening view, my butt is so unfathomably expansive and utterly devoid of any definition or firmness.</li>
+            <li>My overall mood is as utterly collapsed as this gargantuan, sagging butt; it's a source of absolute devastation.</li>
+            <li>The horrifying pliability and catastrophic sagginess of my rear, combined with a terrifyingly vast anus, just shatters my soul.</li>
+            <li>I feel so utterly worthless with this immense, shapeless abyss of a butt, longing for any semblance of containment.</li>
+            <li>This abyssal anus makes my butt feel sickeningly vast, like it consumes all light and hope.</li>
+            <li>My dissatisfaction stems from this unmanageably huge, utterly unaccommodating rear; it’s an unbearable burden.</li>
+            <li>The sight of my immeasurable, abyssal anus brings a wave of overwhelming self-loathing and suicidal thoughts.</li>
+            <li>This utterly expanded butt, with its abyssal nature, reflects my current deeply tormented and hopeless disposition.</li>
+            <li>I wish my rear offered any resistance, but its overwhelming, horrifying size and sagginess are just an eternal hell.</li>
+            <li>My current mood is as completely broken as this abyssal butt, making me feel utterly annihilated and consumed by despair.</li>
+            <li>It’s a terrifying, repulsive abyssal butt; it drains my very life force and leaves me feeling utterly annihilated and empty.</li>
+            <li>The absolute lack of any comfortable firmness in my rear, combined with a monstrous anus, is truly an eternal agony.</li>
+            <li>I feel unspeakably repulsive with this unbelievably soft, sprawling butt, unable to feel any shred of self-worth.</li>
+            <li>This abyssal anus makes my butt feel horrifyingly exposed and vulnerable, reflecting my own profound existential dread.</li>
+            <li>My gloomy mood is exacerbated by the overwhelming, nightmarish size and grotesque sagginess of my rear.</li>
+            <li>The abyssal nature of my butt is a constant reminder of my unfulfilled physical needs and utter self-destruction.</li>
+            <li>A truly abhorrent posterior, too vast and too abyssal for any real satisfaction or human dignity.</li>
+            <li>My self-perception is utterly obliterated by this abyssal, yielding butt and its perpetual torment.</li>
+            <li>I feel utterly null and void with this impossibly expanded, abyssal anus; it’s a source of constant, crushing horror.</li>
+            <li>This abyssal butt's infinite softness feels like a complete loss of self, a reflection of my ultimate demise.</li>
+            <li>My mood darkens further, plunging into the abyss, imagining the horrifying soft, abyssal nature of my own rear, a cursed burden.</li>
+            <li>I just feel annihilated and utterly without hope looking at this vast, abyssal butt, it's a vision of pure dread.</li>
+        </opinionTexts>
+    </Def>
+</Defs>

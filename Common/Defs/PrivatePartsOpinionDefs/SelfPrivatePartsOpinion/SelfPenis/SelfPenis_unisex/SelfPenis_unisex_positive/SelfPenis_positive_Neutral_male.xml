@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Unisex gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Micro_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Penis_Micro_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>Despite its size, it feels perfectly proportioned and ready, a charming little companion that always performs reliably. A quiet confidence.</li>
+            <li>A nimble and precise tool, always present and perfectly functional, reflecting my calm and collected state. Nothing more is needed.</li>
+            <li>Small but mighty, it carries a surprising vigor. Its subtle presence fits my natural rhythm, bringing quiet satisfaction and ease.</li>
+            <li>I appreciate its discreet nature; never intrusive, always capable. A perfectly harmonious part of me, reflecting my serene mood.</li>
+            <li>Compact and well-formed, its unpretentious nature brings a sense of contentedness. It feels just right, always prepared.</li>
+            <li>It's a testament to efficiency, always ready to engage with a quiet hum. Its unassuming form is truly quite elegant.</li>
+            <li>A perfectly ergonomic fit, it's never cumbersome and always responsive. Its subtle strength is genuinely appealing.</li>
+            <li>My member holds a surprising amount of potential for its size, a delightful secret that brings a private smile.</li>
+            <li>The modest stature of my penis belies its steady readiness, a perfectly functional and pleasant aspect of my body.</li>
+            <li>Its proportions are just so; a charming appendage that feels entirely at peace with itself and my overall being.</li>
+            <li>It may be small, but it's impeccably shaped, and always rises to the occasion with graceful readiness.</li>
+            <li>A true hidden gem, perfectly comfortable within itself and always reliable, radiating a subtle warmth.</li>
+            <li>The quiet confidence it possesses is truly remarkable. It's a testament to quality over sheer size, always poised.</li>
+            <li>Its compact form is quite appealing, an efficient and pleasing part of me that brings quiet contentment.</li>
+            <li>I find its unassuming presence rather endearing, a reliable and well-behaved companion reflecting my calm mood.</li>
+            <li>A perfectly manageable and responsive part of me, offering a consistent and satisfying sense of self-assurance.</li>
+            <li>It's got a certain understated charm, always performing without fuss, perfectly aligned with my easygoing nature.</li>
+            <li>Its small stature is no impediment to its robust and reliable function, a pleasant reminder of innate capability.</li>
+            <li>The subtle firmness is just right, always ready and waiting. Its pleasing shape contributes to my positive self-image.</li>
+            <li>It's a perfectly proportioned fit for my frame, a quiet and dependable source of personal satisfaction.</li>
+            <li>A truly harmonious element, its compact size ensures comfort and a pleasing aesthetic, a source of inner peace.</li>
+            <li>It sits just so, an unblemished and well-behaved part of me that contributes to my overall feeling of well-being.</li>
+            <li>There's a subtle elegance to its form, a refined quality that speaks to its innate potential and readiness.</li>
+            <li>Always ready to serve, its small yet perfectly capable presence brings a steady sense of contentment and composure.</li>
+            <li>It's a charmingly efficient piece of equipment, discreet and dependable, contributing positively to my self-perception.</li>
+            <li>A quiet strength resides within, always poised and perfectly responsive. It's a source of profound personal contentment.</li>
+            <li>Its form is perfectly suited to me, a comfortable and functional part that consistently brings satisfaction.</li>
+            <li>The subtle curve and pleasing texture are just right, always feeling natural and contributing to a positive outlook.</li>
+            <li>It remains discreet yet always available, a perfectly reliable and aesthetically pleasing aspect of my anatomy.</li>
+            <li>A source of quiet pride, its compact but capable nature always feels like a perfectly harmonious part of me.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Small_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Penis_Small_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>It's got a good, solid feel, always present and ready without being cumbersome. A dependable, pleasing part of me.</li>
+            <li>A perfectly functional and well-proportioned member, it feels just right. The relaxed state of my balls reflects my calm mood.</li>
+            <li>Comfortable and responsive, it's reliably firm when needed, a harmonious part of my overall sense of well-being.</li>
+            <li>Its compact size is a virtue; always ready, never intrusive, contributing to a consistently positive self-image and serene mood.</li>
+            <li>A pleasing, modest presence. My penis feels supple and healthy, its form perfectly suited to my body, exuding quiet confidence.</li>
+            <li>It holds a subtle power, always poised and ready without overt display. A truly satisfying and well-integrated part.</li>
+            <li>The proportions are excellent, a solid and agreeable presence. My relaxed balls indicate a contented and balanced state.</li>
+            <li>My member feels perfectly robust for its size, offering consistent reliability and a quiet sense of satisfaction.</li>
+            <li>It’s a neat and tidy package, with a pleasant weight and shape that feels just right. A very agreeable part of me.</li>
+            <li>This feels like a perfectly crafted tool, always responsive and ready for action without demanding attention.</li>
+            <li>A comfortable and capable companion, my penis feels supple and alive, its natural state contributing to a good mood.</li>
+            <li>Its healthy appearance and confident resting state bring a quiet sense of pride. Always reliable, never a concern.</li>
+            <li>The pleasing contour and natural feel of my member are quite satisfying, making me feel complete and self-assured.</li>
+            <li>A very agreeable size, it presents a modest yet appealing form, perfectly integrated with my relaxed demeanor.</li>
+            <li>My penis possesses a subtle firmness, always signaling readiness without explicit arousal. A pleasant and secure feeling.</li>
+            <li>It's a perfectly efficient design, always cooperative and feeling just right in its natural state. A truly fine asset.</li>
+            <li>The shape and feel are excellent, offering a comfortable and positive presence. My balls feel nicely settled.</li>
+            <li>It maintains a poised readiness, a quiet strength that is consistently reassuring and perfectly functional.</li>
+            <li>A well-behaved and pleasing member, it always seems to be in a good mood, reflecting my own inner calm.</li>
+            <li>Its compact yet capable nature ensures it's always ready without effort, contributing to a feeling of steady satisfaction.</li>
+            <li>The form is quite appealing, never drawing undue attention, yet always prepared for its purpose. A comforting presence.</li>
+            <li>I appreciate its comfortable weight and reliable feel. My penis and balls are perfectly balanced, a picture of natural health.</li>
+            <li>It feels just right, a harmonious extension of my being, always ready and never causing a moment of discomfort.</li>
+            <li>There’s a subtle yet unmistakable vitality about it. My penis is a consistent source of quiet confidence and positive self-perception.</li>
+            <li>A truly dependable companion, it rests comfortably, always prepared to respond with a pleasant, natural readiness.</li>
+            <li>Its pleasing texture and easygoing nature make it a genuinely satisfying part of my anatomy, always well-behaved.</li>
+            <li>The relaxed firmness is perfect; my penis feels strong and healthy, contributing to my overall sense of calm contentment.</li>
+            <li>A discreet yet potent presence, it feels fully connected to my inner state, always ready without being demanding.</li>
+            <li>It sits just perfectly, a comfortable and confident fixture that adds to my peaceful and positive mood.</li>
+            <li>My penis offers a consistent sense of readiness, its natural, healthy state reflecting a calm and balanced self-perception.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Average_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Penis_Average_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My penis feels perfectly proportioned, a confident and natural extension that always performs admirably. My mood is calm and assured.</li>
+            <li>A well-balanced and pleasing member, its neutral state feels robust and healthy. My balls hang comfortably, reflecting my relaxed satisfaction.</li>
+            <li>It’s a perfectly reliable and satisfying asset, always ready to respond, contributing to a strong sense of personal well-being.</li>
+            <li>The shape and size are ideal; my penis feels firm and natural, its presence reassuring. I feel confident and contented.</li>
+            <li>An exemplary specimen, it feels supple yet powerful. The relaxed fullness of my balls completes this picture of healthy masculinity.</li>
+            <li>My penis holds a comfortable weight, always prepared for action without a hint of anxiety. A truly dependable companion.</li>
+            <li>It rests in a pleasing, natural state, embodying both comfort and latent strength. A genuinely satisfying part of my anatomy.</li>
+            <li>The proportions are excellent, a solid and agreeable presence. My relaxed balls indicate a contented and balanced state.</li>
+            <li>This feels like a perfectly crafted tool, always responsive and ready for action without demanding attention.</li>
+            <li>A comfortable and capable companion, my penis feels supple and alive, its natural state contributing to a good mood.</li>
+            <li>Its healthy appearance and confident resting state bring a quiet sense of pride. Always reliable, never a concern.</li>
+            <li>The pleasing contour and natural feel of my member are quite satisfying, making me feel complete and self-assured.</li>
+            <li>A very agreeable size, it presents a modest yet appealing form, perfectly integrated with my relaxed demeanor.</li>
+            <li>My penis possesses a subtle firmness, always signaling readiness without explicit arousal. A pleasant and secure feeling.</li>
+            <li>It's a perfectly efficient design, always cooperative and feeling just right in its natural state. A truly fine asset.</li>
+            <li>The shape and feel are excellent, offering a comfortable and positive presence. My balls feel nicely settled.</li>
+            <li>It maintains a poised readiness, a quiet strength that is consistently reassuring and perfectly functional.</li>
+            <li>A well-behaved and pleasing member, it always seems to be in a good mood, reflecting my own inner calm.</li>
+            <li>Its compact yet capable nature ensures it's always ready without effort, contributing to a feeling of steady satisfaction.</li>
+            <li>The form is quite appealing, never drawing undue attention, yet always prepared for its purpose. A comforting presence.</li>
+            <li>I appreciate its comfortable weight and reliable feel. My penis and balls are perfectly balanced, a picture of natural health.</li>
+            <li>It feels just right, a harmonious extension of my being, always ready and never causing a moment of discomfort.</li>
+            <li>There’s a subtle yet unmistakable vitality about it. My penis is a consistent source of quiet confidence and positive self-perception.</li>
+            <li>A truly dependable companion, it rests comfortably, always prepared to respond with a pleasant, natural readiness.</li>
+            <li>Its pleasing texture and easygoing nature make it a genuinely satisfying part of my anatomy, always well-behaved.</li>
+            <li>The relaxed firmness is perfect; my penis feels strong and healthy, contributing to my overall sense of calm contentment.</li>
+            <li>A discreet yet potent presence, it feels fully connected to my inner state, always ready without being demanding.</li>
+            <li>It sits just perfectly, a comfortable and confident fixture that adds to my peaceful and positive mood.</li>
+            <li>My penis offers a consistent sense of readiness, its natural, healthy state reflecting a calm and balanced self-perception.</li>
+            <li>It feels substantial and capable, a source of quiet confidence that aligns perfectly with my steady and pleasant mood.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Large_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Penis_Large_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>A truly impressive piece of anatomy, it feels powerful yet entirely comfortable, perfectly complementing my strong sense of self.</li>
+            <li>Its substantial presence is reassuring; my penis is robust and ready, its relaxed state reflecting a calm, satisfied mood.</li>
+            <li>The generous dimensions are perfectly balanced, a pleasing weight and firm readiness. My balls feel full and settled.</li>
+            <li>A magnificent specimen, always poised and capable, contributing to an undeniable sense of confidence and deep contentment.</li>
+            <li>It feels remarkably substantial, yet remains supple and responsive, a powerful but integrated part of my masculine form.</li>
+            <li>My penis possesses a satisfying girth and length, a consistent source of pride that always feels in harmony with my body.</li>
+            <li>It rests with a confident presence, a natural firmness and pleasing shape. My balls hang comfortably, a picture of health.</li>
+            <li>This feels like a perfectly crafted tool, always responsive and ready for action without demanding attention.</li>
+            <li>A comfortable and capable companion, my penis feels supple and alive, its natural state contributing to a good mood.</li>
+            <li>Its healthy appearance and confident resting state bring a quiet sense of pride. Always reliable, never a concern.</li>
+            <li>The pleasing contour and natural feel of my member are quite satisfying, making me feel complete and self-assured.</li>
+            <li>A very agreeable size, it presents a modest yet appealing form, perfectly integrated with my relaxed demeanor.</li>
+            <li>My penis possesses a subtle firmness, always signaling readiness without explicit arousal. A pleasant and secure feeling.</li>
+            <li>It's a perfectly efficient design, always cooperative and feeling just right in its natural state. A truly fine asset.</li>
+            <li>The shape and feel are excellent, offering a comfortable and positive presence. My balls feel nicely settled.</li>
+            <li>It maintains a poised readiness, a quiet strength that is consistently reassuring and perfectly functional.</li>
+            <li>A well-behaved and pleasing member, it always seems to be in a good mood, reflecting my own inner calm.</li>
+            <li>Its compact yet capable nature ensures it's always ready without effort, contributing to a feeling of steady satisfaction.</li>
+            <li>The form is quite appealing, never drawing undue attention, yet always prepared for its purpose. A comforting presence.</li>
+            <li>I appreciate its comfortable weight and reliable feel. My penis and balls are perfectly balanced, a picture of natural health.</li>
+            <li>It feels just right, a harmonious extension of my being, always ready and never causing a moment of discomfort.</li>
+            <li>There’s a subtle yet unmistakable vitality about it. My penis is a consistent source of quiet confidence and positive self-perception.</li>
+            <li>A truly dependable companion, it rests comfortably, always prepared to respond with a pleasant, natural readiness.</li>
+            <li>Its pleasing texture and easygoing nature make it a genuinely satisfying part of my anatomy, always well-behaved.</li>
+            <li>The relaxed firmness is perfect; my penis feels strong and healthy, contributing to my overall sense of calm contentment.</li>
+            <li>A discreet yet potent presence, it feels fully connected to my inner state, always ready without being demanding.</li>
+            <li>It sits just perfectly, a comfortable and confident fixture that adds to my peaceful and positive mood.</li>
+            <li>My penis offers a consistent sense of readiness, its natural, healthy state reflecting a calm and balanced self-perception.</li>
+            <li>A commanding presence that is never overwhelming, it's a testament to robust health and unwavering confidence.</li>
+            <li>Its impressive length and satisfying girth are perfectly matched by its responsive nature, fostering a deep sense of pride.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Huge_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Penis_Huge_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~2</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>Truly colossal, yet remarkably supple, my immense penis sits with a powerful, relaxed confidence. My balls feel impressively full.</li>
+            <li>An absolute marvel of nature, its sheer scale is awe-inspiring, while remaining perfectly comfortable. I feel overwhelmingly self-assured.</li>
+            <li>The impressive girth and length are a source of immense pride; it feels incredibly robust and perpetually ready for anything.</li>
+            <li>It's a colossal asset, its substantial weight and commanding presence contributing to an unparalleled feeling of masculine power.</li>
+            <li>My immense member rests with a quiet, monumental authority, its natural firmness reflecting a deeply contented and confident mood.</li>
+            <li>A magnificent and well-endowed part of me, it feels incredibly healthy and potent, a constant source of profound satisfaction.</li>
+            <li>Its sheer size is undeniable, yet it moves with an surprising grace, always prepared. My fully settled balls complete the picture.</li>
+            <li>The sheer volume of my penis is a testament to natural abundance, always feeling ready and overflowing with potential.</li>
+            <li>A truly epic scale, yet it retains a comfortable, natural disposition. My erection is swift and powerful when it happens.</li>
+            <li>This feels like a perfectly crafted tool, always responsive and ready for action without demanding attention.</li>
+            <li>A comfortable and capable companion, my penis feels supple and alive, its natural state contributing to a good mood.</li>
+            <li>Its healthy appearance and confident resting state bring a quiet sense of pride. Always reliable, never a concern.</li>
+            <li>The pleasing contour and natural feel of my member are quite satisfying, making me feel complete and self-assured.</li>
+            <li>A very agreeable size, it presents a modest yet appealing form, perfectly integrated with my relaxed demeanor.</li>
+            <li>My penis possesses a subtle firmness, always signaling readiness without explicit arousal. A pleasant and secure feeling.</li>
+            <li>It's a perfectly efficient design, always cooperative and feeling just right in its natural state. A truly fine asset.</li>
+            <li>The shape and feel are excellent, offering a comfortable and positive presence. My balls feel nicely settled.</li>
+            <li>It maintains a poised readiness, a quiet strength that is consistently reassuring and perfectly functional.</li>
+            <li>A well-behaved and pleasing member, it always seems to be in a good mood, reflecting my own inner calm.</li>
+            <li>Its compact yet capable nature ensures it's always ready without effort, contributing to a feeling of steady satisfaction.</li>
+            <li>The form is quite appealing, never drawing undue attention, yet always prepared for its purpose. A comforting presence.</li>
+            <li>I appreciate its comfortable weight and reliable feel. My penis and balls are perfectly balanced, a picture of natural health.</li>
+            <li>It feels just right, a harmonious extension of my being, always ready and never causing a moment of discomfort.</li>
+            <li>There’s a subtle yet unmistakable vitality about it. My penis is a consistent source of quiet confidence and positive self-perception.</li>
+            <li>A truly dependable companion, it rests comfortably, always prepared to respond with a pleasant, natural readiness.</li>
+            <li>Its pleasing texture and easygoing nature make it a genuinely satisfying part of my anatomy, always well-behaved.</li>
+            <li>The relaxed firmness is perfect; my penis feels strong and healthy, contributing to my overall sense of calm contentment.</li>
+            <li>A discreet yet potent presence, it feels fully connected to my inner state, always ready without being demanding.</li>
+            <li>It sits just perfectly, a comfortable and confident fixture that adds to my peaceful and positive mood.</li>
+            <li>My penis offers a consistent sense of readiness, its natural, healthy state reflecting a calm and balanced self-perception.</li>
+        </opinionTexts>
+    </Def>
+	
+</Defs>

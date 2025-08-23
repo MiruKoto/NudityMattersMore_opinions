@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale</defName>
+        <label>Micro Vagina (Negative)_MatureFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The minuscule opening on {PAWN_nameShortPossessive} nether regions looks utterly unappealing, almost swallowed by what little flesh surrounds it.</li>
+            <li>A tiny slit, barely visible amidst the general unremarkableness of {PAWN_nameShortPossessive} lower body. It's truly disappointing.</li>
+            <li>Observing {PAWN_nameShortPossessive} pathetic, barely-there folds; it's a shriveled, uninspiring sight. No depth or invitation there.</li>
+            <li>What an underdeveloped, shallow cavity. {PAWN_nameShortPossessive} genital area is less a wonderland and more a barren, dusty patch.</li>
+            <li>The clitoris is so small it's practically non-existent. A miserable, almost invisible button amidst shrunken lips.</li>
+            <li>{PAWN_nameShortPossessive} labia are so tight and shriveled, they make the entire area look pinched and unapproachable.</li>
+            <li>A truly uninspiring sight; the whole thing seems to have retreated inward, lacking any noticeable form or prominence.</li>
+            <li>It's almost as if {PAWN_nameShortPossessive} anatomy is actively trying to hide itself, a tiny, uninviting crevice.</li>
+            <li>This micro-vagina is a joke. So small, it barely suggests functionality, let alone pleasure.</li>
+            <li>The outer lips are nonexistent, making it seem less like a grown woman's anatomy and more like a poorly rendered doll's.</li>
+            <li>I can barely discern any labial structure; it's a smooth, unvaried patch, devoid of definition.</li>
+            <li>There's no visible depth, no alluring shadows. Just a small, flat-looking opening that promises nothing.</li>
+            <li>The clitoris is practically embedded, offering no distinct feature to focus on. It's a sad, sad sight.</li>
+            <li>The inner folds are nowhere to be seen, leaving a stark, unappealing impression of flatness.</li>
+            <li>Its small size renders it completely unnoticeable; you'd miss it if you weren't actively searching for it.</li>
+            <li>A shrunken, ungenerous opening that makes one wonder if it has ever seen any real use.</li>
+            <li>The overall form is so compact and tight, it appears perpetually closed off, an impenetrable fortress of dullness.</li>
+            <li>It looks like a miniature version of what it should be, lacking the maturity and fullness expected.</li>
+            <li>The narrowness of the entryway is almost offensive, a clear sign of anatomical inadequacy.</li>
+            <li>Such a tiny, insignificant opening. It barely qualifies as a proper sexual organ.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale_observed_by_voyer</defName>
+        <label>Micro Vagina (Negative)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even for a voyeur, this is a letdown. {PAWN_nameShortPossessive} tiny, insignificant opening offers nothing to observe.</li>
+            <li>I strain to catch a glimpse, but {PAWN_nameShortPossessive} shriveled, micro-genitalia hides itself too well. What a waste of effort.</li>
+            <li>A voyeur's nightmare: a barely visible slit, offering no visual depth or interesting labial contours. It's an insult to the art.</li>
+            <li>This microscopic crevice promises no hidden delights, no intriguing folds. My peeping efforts are truly unrewarded.</li>
+            <li>Even with careful scrutiny, {PAWN_nameShortPossessive} clitoris is elusive, a mere speck, diminishing any perverse pleasure from observation.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} outer lips makes it impossible to glean any detail. A truly disappointing show.</li>
+            <li>I wanted to see something, anything, but {PAWN_nameShortPossessive} tiny, withdrawn anatomy offers naught but a frustrating blur.</li>
+            <li>This is barely worth spying on. The lack of prominent features makes {PAWN_nameShortPossessive} entire area unwatchable.</li>
+            <li>What a poor spectacle. The micro-vagina reveals no secrets, no inviting depths for the eager eye.</li>
+            <li>My voyeuristic urges are crushed by the sheer unremarkableness of {PAWN_nameShortPossessive} miniature aperture.</li>
+            <li>A barren landscape. There's nothing to truly *see* here, just a small, unremarkable indentation.</li>
+            <li>I’ve seen more captivating imperfections on a potato. {PAWN_nameShortPossessive} genital area is devoid of any voyeuristic charm.</li>
+            <li>The clitoris is so recessed, it's as if it actively avoids observation. A frustratingly shy, tiny lump.</li>
+            <li>Barely a glimpse to be had. The overall form is too tight, too small, too...nothing.</li>
+            <li>My eyes ache from trying to discern any features in {PAWN_nameShortPossessive} insignificant opening. It's a visual insult.</li>
+            <li>The lack of visible depth leaves me empty. There’s no mystery, just a small, unfulfilling void.</li>
+            <li>It's a blink-and-you'll-miss-it affair. Truly, it's barely there, which ruins the entire voyeuristic experience.</li>
+            <li>One struggles to find any distinct labial form, making the observation feel utterly pointless and dull.</li>
+            <li>This micro-vagina barely registers. It’s an anatomical whisper when I crave a shout.</li>
+            <li>A frustratingly modest display. The tiny orifice offers no erotic satisfaction for my watching eyes.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Micro Vagina (Negative)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>How can {PAWN_nameShortPossessive} expect to be noticed with such a pathetic, tiny opening? It barely merits a glance.</li>
+            <li>This micro-vagina is an exhibitionist's worst nightmare; it's so small, it practically disappears, offering nothing to display.</li>
+            <li>No one would bother looking twice at such an unremarkable, shriveled aperture. What a wasted opportunity for a show.</li>
+            <li>The complete lack of prominent labia or depth makes {PAWN_nameShortPossessive} area utterly unexhibitable. It's a tragedy.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is a mere bump, hidden away, offering no visual impact for those who might admire.</li>
+            <li>Such a small, tight form; it’s impossible to display, to flaunt, or to even make an impression with.</li>
+            <li>It’s a meager, shrunken, and wholly unappealing sight. No one would be impressed by such a tiny display.</li>
+            <li>My own exhibitionist urges are offended by the sheer insignificance of {PAWN_nameShortPossessive} genital presentation.</li>
+            <li>This tiny, almost invisible opening would never attract any attention, making any attempt at exhibition futile.</li>
+            <li>What's the point of showing off something so utterly unremarkable and anatomically constrained? It's embarrassing.</li>
+            <li>The labia are practically non-existent, leaving nothing for the eye to catch. A truly dismal display.</li>
+            <li>It's so lacking in form and visibility, I feel secondhand embarrassment for {PAWN_nameShortPossessive} attempted modesty.</li>
+            <li>There's no grand reveal with this; it just sits there, a tiny, uninteresting crevice.</li>
+            <li>{PAWN_nameShortPossessive} micro-vagina is a testament to un-exhibitable anatomy. It’s pathetic.</li>
+            <li>Who would even bother to look at such a paltry, shriveled opening? It's a complete failure of display.</li>
+            <li>The depth is practically zero, offering no visual intrigue for anyone hoping to observe.</li>
+            <li>It’s too tight, too small, too...modest. Absolutely nothing to capture attention or provoke a reaction.</li>
+            <li>The entire area seems to shrink away, offering no bold statement for an exhibitionist's appreciation.</li>
+            <li>A truly uninspiring display of inadequacy. It offers no visual satisfaction to the observer.</li>
+            <li>Such a minuscule opening. It's less a presentation and more an anatomical afterthought.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Micro Vagina (Negative)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>This minuscule opening is a turn-off, offering no suggestion of pleasure or depth for a nymphomaniac's desires.</li>
+            <li>The shriveled, tight labia offer no invitation; such a micro-vagina dampens any fervent urges.</li>
+            <li>My desires are met with disappointment by {PAWN_nameShortPossessive} tiny, unyielding cavity. It's utterly unsatisfying.</li>
+            <li>Such a small clitoris; it promises no intense sensations, leaving a nymphomaniac utterly cold.</li>
+            <li>A pathetic, almost invisible aperture that screams "no pleasure." It's a frustrating sight.</li>
+            <li>My lust immediately vanishes. {PAWN_nameShortPossessive} shrunken, ungenerous opening offers no spark.</li>
+            <li>This tiny, unyielding form gives no hint of receiving anything with enthusiasm. A nymphomaniac's despair.</li>
+            <li>It's so small, it practically repels any thought of carnal engagement. A dismal, unstimulating view.</li>
+            <li>The lack of depth and prominent features makes {PAWN_nameShortPossessive} area utterly unappealing for my fervent needs.</li>
+            <li>My passionate nature is met with a cold, tiny, and thoroughly uninspiring anatomical reality.</li>
+            <li>There's no enticing swell, no welcoming folds. Just a small, tight, unsatisfying crevice.</li>
+            <li>This micro-vagina is a cruel joke, offering no promise of fulfillment for a nymphomaniac.</li>
+            <li>The labia are so shrunken, they offer no cushion, no embrace. It’s a sterile, uninviting sight.</li>
+            <li>It looks completely unused, or perhaps simply too small to ever experience anything meaningful.</li>
+            <li>My innate urges are met with revulsion by such a tiny, unyielding, and unpromising opening.</li>
+            <li>The clitoris is barely discernable, robbing the entire area of any stimulating focal point.</li>
+            <li>A truly deflating sight. This insignificant opening extinguishes any spark of desire.</li>
+            <li>It's so tight and unyielding; it offers no hope for passionate exploration. My ardour cools instantly.</li>
+            <li>This pathetic excuse for an opening is utterly devoid of any sensual allure or depth.</li>
+            <li>Such a microscopic entrance. It promises only frustration, not the ecstasy I crave.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale_observed_by_Prude</defName>
+        <label>Micro Vagina (Negative)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even this minuscule, nearly hidden opening is offensive. Such private parts should remain completely concealed.</li>
+            <li>A tiny, yet still scandalous glimpse of {PAWN_nameShortPossessive} vulgar anatomy. It’s an affront to decency.</li>
+            <li>Despite its small size, the very presence of this private area is shocking and utterly inappropriate.</li>
+            <li>The shriveled labia and barely visible clitoris still constitute a shameful display. Cover it at once!</li>
+            <li>This micro-vagina, though tiny, is still a lewd sight. It should never have been exposed.</li>
+            <li>My modest sensibilities are offended by even this miniature, unassuming aperture. It’s far too much.</li>
+            <li>The barest hint of such an intimate part is disgusting. It's a moral outrage, however small.</li>
+            <li>I avert my gaze from {PAWN_nameShortPossessive} unseemly, albeit shrunken, exposed region. It’s utterly vulgar.</li>
+            <li>Even a micro-vagina is an indecent sight. Such things should be kept strictly private.</li>
+            <li>The sheer brazenness of revealing such a tiny, yet still illicit, anatomical detail is appalling.</li>
+            <li>It's almost hidden, yet still too visible for my proper eyes. The impropriety is palpable.</li>
+            <li>Such an unchaste display, no matter how small or recessed. It's an insult to all that is proper.</li>
+            <li>The clitoris, however minuscule, is still a shocking feature to behold. I am disgusted.</li>
+            <li>The minimal visibility of the labia doesn't diminish the outright obscenity of the exposure.</li>
+            <li>This small glimpse is still too much. It's a flagrant disregard for moral boundaries.</li>
+            <li>I am appalled by the sheer audacity of this indecent exposure, even if the part itself is tiny.</li>
+            <li>The private parts, regardless of size, are not for public viewing. This is a disgrace.</li>
+            <li>My delicate sensibilities are assaulted by even the most microscopic hint of such intimacy.</li>
+            <li>This is a truly vulgar display, even if the form is shrunken. It's an affront.</li>
+            <li>Such private anatomy, however small, should be kept hidden from all decent eyes.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale_observed_by_Young_male</defName>
+        <label>Micro Vagina (Negative)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged, shriveled opening offers no allure. It's a sad, tight little slit, barely visible.</li>
+            <li>Such a small, unappealing crevice on an older woman. It's a deflating sight, utterly uninviting.</li>
+            <li>This micro-vagina lacks depth and freshness. It seems old and shrunken, a disappointing view.</li>
+            <li>The clitoris is almost gone, and the labia are thin and unformed. Not what a young man desires.</li>
+            <li>Her vaginal lips are tight and dry, barely parting. It's a truly uninspiring, aged entrance.</li>
+            <li>It's a withered, small opening. Nothing youthful or vibrant to behold here. My interest dies.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny, aged anatomy is truly off-putting. It's a shrunken disappointment.</li>
+            <li>There's no visible promise of pleasure in that small, tight orifice. It seems well past its prime.</li>
+            <li>This micro-vagina looks like it's been through too much, and now it's just a sad, little puckered hole.</li>
+            <li>Her labia are flat and unpronounced, offering no youthful fullness. A grim reminder of age.</li>
+            <li>What a withered sight. This older woman's micro-vagina has no inviting depth or vibrancy for a young man.</li>
+            <li>The small, recessed clitoris holds no spark. Her aging anatomy is a definite turn-off.</li>
+            <li>It's so small and shriveled, one might mistake it for something entirely different. Quite unappealing.</li>
+            <li>Her vaginal opening is tight and unyielding, looking more like a closed fist than an invitation.</li>
+            <li>The lack of plumpness in her labia makes it appear skeletal and unappealing. No youthful softness.</li>
+            <li>This tiny, aged opening gives me the creeps. It looks dried up and without life.</li>
+            <li>My youthful lust is extinguished by the sight of this shrunken, unappealing older woman’s anatomy.</li>
+            <li>It’s a withered flower, past its bloom, with a tight, unyielding aperture. Unattractive.</li>
+            <li>The visible anatomy is so small and aged, it offers absolutely no interest or excitement.</li>
+            <li>Such an insignificant, shriveled opening. It's a sad testament to time, completely unarousing.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale_observed_by_Young_female</defName>
+        <label>Micro Vagina (Negative)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her micro-vagina is just a tiny, shriveled slit. It looks old and disappointing, nothing like mine.</li>
+            <li>Such a small, tight opening on an older woman. It's unappealing and lacks any youthful plumpness.</li>
+            <li>The labia are thin and dry, almost invisible. A rather sad and shrunken sight for someone her age.</li>
+            <li>Her clitoris is barely there, and the entire area looks aged and shriveled. A bit depressing.</li>
+            <li>It's a tiny, uninviting cavity. I hope my own doesn't look so withered when I'm older.</li>
+            <li>What a shrunken, uninspiring sight. No depth or vibrancy, just a small, aging indentation.</li>
+            <li>{PAWN_nameShortPossessive} vaginal lips are so thin and tight; they offer no appealing form at all.</li>
+            <li>The entire genital area seems to have retreated inward. It's a rather depressing and tight appearance.</li>
+            <li>A meager opening, lacking any fullness or youthful appearance. It's a cautionary tale of aging.</li>
+            <li>Her micro-vagina is utterly unremarkable. It gives no impression of vitality or feminine grace.</li>
+            <li>The lack of distinct labial structure makes it appear flat and aged. A truly unappealing sight.</li>
+            <li>It looks worn and shriveled, a far cry from the vibrant, soft anatomy of younger women.</li>
+            <li>Her clitoris is so small it’s practically swallowed. It reflects the overall aged, shrunken look.</li>
+            <li>The inner folds are absent, making the whole area seem stark and uninviting.</li>
+            <li>It's barely visible, and what is visible appears tired and shrunken. Not a pleasant view.</li>
+            <li>Such a tight, unyielding opening. It seems as though it's given up on life itself.</li>
+            <li>The overall form is so compact and lacking in definition. It seems a grim outcome of age.</li>
+            <li>It looks like a miniature, withered version of what it should be. Quite disappointing.</li>
+            <li>The narrowness of the entryway is almost sad. It's devoid of any appealing contours.</li>
+            <li>Such a tiny, insignificant opening. It barely looks functional, let alone beautiful.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Micro Vagina (Negative)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her micro-vagina is tight and aged. It offers no visual promise, merely a shrunken disappointment.</li>
+            <li>This middle-aged woman's tiny opening is a letdown. No depth, no inviting labia, just a small slit.</li>
+            <li>Observing {PAWN_nameShortPossessive} shriveled, minuscule anatomy; it looks tired and unenthusiastic.</li>
+            <li>The clitoris is barely a ripple, and the labia are thin and unpronounced. Not a captivating sight.</li>
+            <li>Her vaginal lips are thin and dry, clinging tightly. It's a rather unappealing, aged presentation.</li>
+            <li>It's a withered, small opening, lacking the vibrancy and fullness a man of my age might still desire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny, aged anatomy is frankly off-putting. It’s too small for any real interest.</li>
+            <li>There's no visible promise of pleasure in that small, tight orifice. It suggests a lack of use, or worse.</li>
+            <li>This micro-vagina looks like it's seen better days, and now it's just a sad, little puckered hole.</li>
+            <li>Her labia are flat and unpronounced, offering no appealing curves or softness. A grim sign of age.</li>
+            <li>What a shrunken sight. This woman's micro-vagina has no inviting depth or vibrancy for a man of my experience.</li>
+            <li>The small, recessed clitoris holds no spark. Her aging anatomy is a definite turn-off.</li>
+            <li>It's so small and shriveled, I wonder if it’s ever truly been appreciated. Quite unappealing.</li>
+            <li>Her vaginal opening is tight and unyielding, looking more like a closed fist than an invitation.</li>
+            <li>The lack of plumpness in her labia makes it appear skeletal and unappealing. No mature softness.</li>
+            <li>This tiny, aged opening gives me pause. It looks dried up and without much life left.</li>
+            <li>My interest is extinguished by the sight of this shrunken, unappealing mature woman’s anatomy.</li>
+            <li>It’s a withered flower, past its prime, with a tight, unyielding aperture. Unattractive to me now.</li>
+            <li>The visible anatomy is so small and aged, it offers absolutely no interest or excitement.</li>
+            <li>Such an insignificant, shriveled opening. It's a sad testament to time, completely unarousing.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Micro Vagina (Negative)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her micro-vagina is just a tiny, shriveled slit. It looks old and disappointing, nothing like it used to be.</li>
+            <li>Such a small, tight opening on a woman our age. It's unappealing and lacks any mature fullness.</li>
+            <li>The labia are thin and dry, almost invisible. A rather sad and shrunken sight for someone her age.</li>
+            <li>Her clitoris is barely there, and the entire area looks aged and shriveled. A bit depressing.</li>
+            <li>It's a tiny, uninviting cavity. I hope my own hasn't withered like that with age.</li>
+            <li>What a shrunken, uninspiring sight. No depth or vibrancy, just a small, aging indentation.</li>
+            <li>{PAWN_nameShortPossessive} vaginal lips are so thin and tight; they offer no appealing form at all now.</li>
+            <li>The entire genital area seems to have retreated inward. It's a rather depressing and tight appearance.</li>
+            <li>A meager opening, lacking any fullness or mature appearance. It's a cautionary tale of aging.</li>
+            <li>Her micro-vagina is utterly unremarkable. It gives no impression of vitality or feminine grace.</li>
+            <li>The lack of distinct labial structure makes it appear flat and aged. A truly unappealing sight.</li>
+            <li>It looks worn and shriveled, a far cry from the vibrant, soft anatomy of women in their prime.</li>
+            <li>Her clitoris is so small it’s practically swallowed. It reflects the overall aged, shrunken look.</li>
+            <li>The inner folds are absent, making the whole area seem stark and uninviting.</li>
+            <li>It's barely visible, and what is visible appears tired and shrunken. Not a pleasant view.</li>
+            <li>Such a tight, unyielding opening. It seems as though it's given up on life itself.</li>
+            <li>The overall form is so compact and lacking in definition. It seems a grim outcome of age.</li>
+            <li>It looks like a miniature, withered version of what it should be. Quite disappointing.</li>
+            <li>The narrowness of the entryway is almost sad. It's devoid of any appealing contours.</li>
+            <li>Such a tiny, insignificant opening. It barely looks functional, let alone beautiful.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale_observed_by_Elder_male</defName>
+        <label>Micro Vagina (Negative)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her middle-aged micro-vagina is tight and aged. It offers no visual promise, merely a shrunken disappointment to my older eyes.</li>
+            <li>This woman's tiny opening is a letdown. No depth, no inviting labia, just a small, unremarkable slit.</li>
+            <li>Observing {PAWN_nameShortPossessive} shriveled, minuscule anatomy; it looks tired and unenthusiastic, even for her age.</li>
+            <li>The clitoris is barely a ripple, and the labia are thin and unpronounced. Not a captivating sight for a seasoned man.</li>
+            <li>Her vaginal lips are thin and dry, clinging tightly. It's a rather unappealing, aged presentation.</li>
+            <li>It's a withered, small opening, lacking the vibrancy and fullness an older man might still appreciate from a younger form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny, aged anatomy is frankly off-putting. It’s too small for any real interest.</li>
+            <li>There's no visible promise of pleasure in that small, tight orifice. It suggests a lack of passion, or worse.</li>
+            <li>This micro-vagina looks like it's seen better days, and now it's just a sad, little puckered hole.</li>
+            <li>Her labia are flat and unpronounced, offering no appealing curves or softness. A grim sign of aging.</li>
+            <li>What a shrunken sight. This woman's micro-vagina has no inviting depth or vibrancy for an experienced man.</li>
+            <li>The small, recessed clitoris holds no spark. Her aging anatomy is a definite turn-off for me.</li>
+            <li>It's so small and shriveled, I wonder if it’s ever truly been appreciated. Quite unappealing to my taste.</li>
+            <li>Her vaginal opening is tight and unyielding, looking more like a closed fist than an invitation.</li>
+            <li>The lack of plumpness in her labia makes it appear skeletal and unappealing. No soft maturity.</li>
+            <li>This tiny, aged opening gives me pause. It looks dried up and without much life left.</li>
+            <li>My interest is extinguished by the sight of this shrunken, unappealing mature woman’s anatomy.</li>
+            <li>It’s a withered flower, past its prime, with a tight, unyielding aperture. Unattractive to my experienced gaze.</li>
+            <li>The visible anatomy is so small and aged, it offers absolutely no interest or excitement.</li>
+            <li>Such an insignificant, shriveled opening. It's a sad testament to time, completely unarousing.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_MatureFemale_observed_by_Elder_female</defName>
+        <label>Micro Vagina (Negative)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her middle-aged micro-vagina is just a tiny, shriveled slit. It looks old and disappointing, a shadow of its former self.</li>
+            <li>Such a small, tight opening on a woman her age. It's unappealing and lacks any mature fullness.</li>
+            <li>The labia are thin and dry, almost invisible. A rather sad and shrunken sight for someone in her prime.</li>
+            <li>Her clitoris is barely there, and the entire area looks aged and shriveled. A bit depressing.</li>
+            <li>It's a tiny, uninviting cavity. It reflects the harsh reality of aging, even in middle age.</li>
+            <li>What a shrunken, uninspiring sight. No depth or vibrancy, just a small, aging indentation.</li>
+            <li>{PAWN_nameShortPossessive} vaginal lips are so thin and tight; they offer no appealing form at all now.</li>
+            <li>The entire genital area seems to have retreated inward. It's a rather depressing and tight appearance.</li>
+            <li>A meager opening, lacking any fullness or mature appearance. It's a cautionary tale of aging.</li>
+            <li>Her micro-vagina is utterly unremarkable. It gives no impression of vitality or feminine grace.</li>
+            <li>The lack of distinct labial structure makes it appear flat and aged. A truly unappealing sight.</li>
+            <li>It looks worn and shriveled, a far cry from the vibrant, soft anatomy of younger women.</li>
+            <li>Her clitoris is so small it’s practically swallowed. It reflects the overall aged, shrunken look.</li>
+            <li>The inner folds are absent, making the whole area seem stark and uninviting.</li>
+            <li>It's barely visible, and what is visible appears tired and shrunken. Not a pleasant view.</li>
+            <li>Such a tight, unyielding opening. It seems as though it's given up on life itself.</li>
+            <li>The overall form is so compact and lacking in definition. It seems a grim outcome of age.</li>
+            <li>It looks like a miniature, withered version of what it should be. Quite disappointing.</li>
+            <li>The narrowness of the entryway is almost sad. It's devoid of any appealing contours.</li>
+            <li>Such a tiny, insignificant opening. It barely looks functional, let alone beautiful.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale</defName>
+        <label>Micro Vagina (Negative)_ElderFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The minuscule opening on {PAWN_nameShortPossessive} aged nether regions looks utterly unappealing, almost swallowed by saggy flesh.</li>
+            <li>A tiny slit, barely visible amidst the general unremarkableness of {PAWN_nameShortPossessive} elderly body. It's truly disappointing.</li>
+            <li>Observing {PAWN_nameShortPossessive} pathetic, barely-there folds; it's a shriveled, uninspiring sight. No depth or invitation there.</li>
+            <li>What an underdeveloped, shallow cavity. {PAWN_nameShortPossessive} genital area is less a wonderland and more a barren, aged patch.</li>
+            <li>The clitoris is so small it's practically non-existent. A miserable, almost invisible button amidst shrunken, aged lips.</li>
+            <li>{PAWN_nameShortPossessive} labia are so tight and shriveled, they make the entire area look pinched and unapproachable due to age.</li>
+            <li>A truly uninspiring sight; the whole thing seems to have retreated inward, lacking any noticeable form or prominence.</li>
+            <li>It's almost as if {PAWN_nameShortPossessive} anatomy is actively trying to hide itself, a tiny, uninviting, aged crevice.</li>
+            <li>This micro-vagina is a joke. So small, it barely suggests functionality, let alone pleasure for someone so old.</li>
+            <li>The outer lips are nonexistent, making it seem less like an elderly woman's anatomy and more like a poorly rendered doll's.</li>
+            <li>I can barely discern any labial structure; it's a smooth, unvaried, aged patch, devoid of definition.</li>
+            <li>There's no visible depth, no alluring shadows. Just a small, flat-looking opening that promises nothing but decay.</li>
+            <li>The clitoris is practically embedded, offering no distinct feature to focus on. It's a sad, sad, aged sight.</li>
+            <li>The inner folds are nowhere to be seen, leaving a stark, unappealing impression of flatness and age.</li>
+            <li>Its small size renders it completely unnoticeable; you'd miss it if you weren't actively searching for it.</li>
+            <li>A shrunken, ungenerous opening that makes one wonder if it has ever seen any real use in its long life.</li>
+            <li>The overall form is so compact and tight, it appears perpetually closed off, an impenetrable fortress of dullness.</li>
+            <li>It looks like a miniature version of what it should be, lacking the maturity and fullness expected.</li>
+            <li>The narrowness of the entryway is almost offensive, a clear sign of anatomical inadequacy due to advanced age.</li>
+            <li>Such a tiny, insignificant opening. It barely qualifies as a proper sexual organ, especially at her age.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale_observed_by_voyer</defName>
+        <label>Micro Vagina (Negative)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even for a voyeur, this is a letdown. {PAWN_nameShortPossessive} tiny, insignificant, aged opening offers nothing to observe.</li>
+            <li>I strain to catch a glimpse, but {PAWN_nameShortPossessive} shriveled, micro-genitalia hides itself too well. What a waste of effort.</li>
+            <li>A voyeur's nightmare: a barely visible, aged slit, offering no visual depth or interesting labial contours. It's an insult to the art.</li>
+            <li>This microscopic, aged crevice promises no hidden delights, no intriguing folds. My peeping efforts are truly unrewarded.</li>
+            <li>Even with careful scrutiny, {PAWN_nameShortPossessive} clitoris is elusive, a mere speck, diminishing any perverse pleasure from observation.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} outer lips makes it impossible to glean any detail. A truly disappointing, aged show.</li>
+            <li>I wanted to see something, anything, but {PAWN_nameShortPossessive} tiny, withdrawn, aged anatomy offers naught but a frustrating blur.</li>
+            <li>This is barely worth spying on. The lack of prominent features makes {PAWN_nameShortPossessive} entire area unwatchable, especially at her age.</li>
+            <li>What a poor spectacle. The micro-vagina reveals no secrets, no inviting depths for the eager eye.</li>
+            <li>My voyeuristic urges are crushed by the sheer unremarkableness of {PAWN_nameShortPossessive} miniature, aged aperture.</li>
+            <li>A barren, aged landscape. There's nothing to truly *see* here, just a small, unremarkable indentation.</li>
+            <li>I’ve seen more captivating imperfections on a potato. {PAWN_nameShortPossessive} aged genital area is devoid of any voyeuristic charm.</li>
+            <li>The clitoris is so recessed, it's as if it actively avoids observation. A frustratingly shy, tiny, aged lump.</li>
+            <li>Barely a glimpse to be had. The overall form is too tight, too small, too...nothing, especially with age.</li>
+            <li>My eyes ache from trying to discern any features in {PAWN_nameShortPossessive} insignificant, aged opening. It's a visual insult.</li>
+            <li>The lack of visible depth leaves me empty. There’s no mystery, just a small, unfulfilling, aged void.</li>
+            <li>It's a blink-and-you'll-miss-it affair. Truly, it's barely there, which ruins the entire voyeuristic experience.</li>
+            <li>One struggles to find any distinct labial form, making the observation feel utterly pointless and dull.</li>
+            <li>This aged micro-vagina barely registers. It’s an anatomical whisper when I crave a shout.</li>
+            <li>A frustratingly modest display. The tiny, aged orifice offers no erotic satisfaction for my watching eyes.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Micro Vagina (Negative)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>How can {PAWN_nameShortPossessive} expect to be noticed with such a pathetic, tiny, aged opening? It barely merits a glance.</li>
+            <li>This micro-vagina is an exhibitionist's worst nightmare; it's so small, it practically disappears, offering nothing to display.</li>
+            <li>No one would bother looking twice at such an unremarkable, shriveled, aged aperture. What a wasted opportunity for a show.</li>
+            <li>The complete lack of prominent labia or depth makes {PAWN_nameShortPossessive} area utterly unexhibitable. It's a tragedy of age.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is a mere bump, hidden away, offering no visual impact for those who might admire.</li>
+            <li>Such a small, tight, aged form; it’s impossible to display, to flaunt, or to even make an impression with.</li>
+            <li>It’s a meager, shrunken, and wholly unappealing sight. No one would be impressed by such a tiny display.</li>
+            <li>My own exhibitionist urges are offended by the sheer insignificance of {PAWN_nameShortPossessive} aged genital presentation.</li>
+            <li>This tiny, almost invisible opening would never attract any attention, making any attempt at exhibition futile.</li>
+            <li>What's the point of showing off something so utterly unremarkable and anatomically constrained by age? It's embarrassing.</li>
+            <li>The labia are practically non-existent, leaving nothing for the eye to catch. A truly dismal, aged display.</li>
+            <li>It's so lacking in form and visibility, I feel secondhand embarrassment for {PAWN_nameShortPossessive} attempted modesty.</li>
+            <li>There's no grand reveal with this; it just sits there, a tiny, uninteresting, aged crevice.</li>
+            <li>{PAWN_nameShortPossessive} micro-vagina is a testament to un-exhibitable anatomy. It’s pathetic with age.</li>
+            <li>Who would even bother to look at such a paltry, shriveled, aged opening? It's a complete failure of display.</li>
+            <li>The depth is practically zero, offering no visual intrigue for anyone hoping to observe.</li>
+            <li>It’s too tight, too small, too...modest with age. Absolutely nothing to capture attention or provoke a reaction.</li>
+            <li>The entire area seems to shrink away, offering no bold statement for an exhibitionist's appreciation.</li>
+            <li>A truly uninspiring display of inadequacy due to age. It offers no visual satisfaction to the observer.</li>
+            <li>Such a minuscule, aged opening. It's less a presentation and more an anatomical afterthought.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Micro Vagina (Negative)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>This minuscule, aged opening is a turn-off, offering no suggestion of pleasure or depth for a nymphomaniac's desires.</li>
+            <li>The shriveled, tight labia offer no invitation; such a micro-vagina dampens any fervent urges, especially with age.</li>
+            <li>My desires are met with disappointment by {PAWN_nameShortPossessive} tiny, unyielding cavity. It's utterly unsatisfying.</li>
+            <li>Such a small, aged clitoris; it promises no intense sensations, leaving a nymphomaniac utterly cold.</li>
+            <li>A pathetic, almost invisible, aged aperture that screams "no pleasure." It's a frustrating sight.</li>
+            <li>My lust immediately vanishes. {PAWN_nameShortPossessive} shrunken, ungenerous, aged opening offers no spark.</li>
+            <li>This tiny, unyielding, aged form gives no hint of receiving anything with enthusiasm. A nymphomaniac's despair.</li>
+            <li>It's so small, it practically repels any thought of carnal engagement. A dismal, unstimulating, aged view.</li>
+            <li>The lack of depth and prominent features makes {PAWN_nameShortPossessive} area utterly unappealing for my fervent needs.</li>
+            <li>My passionate nature is met with a cold, tiny, and thoroughly uninspiring anatomical reality, burdened by age.</li>
+            <li>There's no enticing swell, no welcoming folds. Just a small, tight, unsatisfying, aged crevice.</li>
+            <li>This micro-vagina is a cruel joke, offering no promise of fulfillment for a nymphomaniac.</li>
+            <li>The labia are so shrunken, they offer no cushion, no embrace. It’s a sterile, uninviting, aged sight.</li>
+            <li>It looks completely unused, or perhaps simply too small to ever experience anything meaningful due to age.</li>
+            <li>My innate urges are met with revulsion by such a tiny, unyielding, and unpromising, aged opening.</li>
+            <li>The clitoris is barely discernable, robbing the entire area of any stimulating focal point.</li>
+            <li>A truly deflating sight. This insignificant, aged opening extinguishes any spark of desire.</li>
+            <li>It's so tight and unyielding; it offers no hope for passionate exploration. My ardour cools instantly.</li>
+            <li>This pathetic excuse for an opening is utterly devoid of any sensual allure or depth.</li>
+            <li>Such a microscopic, aged entrance. It promises only frustration, not the ecstasy I crave.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale_observed_by_Prude</defName>
+        <label>Micro Vagina (Negative)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even this minuscule, nearly hidden, aged opening is offensive. Such private parts should remain completely concealed.</li>
+            <li>A tiny, yet still scandalous glimpse of {PAWN_nameShortPossessive} vulgar, aged anatomy. It’s an affront to decency.</li>
+            <li>Despite its small size, the very presence of this private, aged area is shocking and utterly inappropriate.</li>
+            <li>The shriveled labia and barely visible clitoris still constitute a shameful display. Cover it at once!</li>
+            <li>This micro-vagina, though tiny, is still a lewd sight. It should never have been exposed, especially at her age.</li>
+            <li>My modest sensibilities are offended by even this miniature, unassuming, aged aperture. It’s far too much.</li>
+            <li>The barest hint of such an intimate, aged part is disgusting. It's a moral outrage, however small.</li>
+            <li>I avert my gaze from {PAWN_nameShortPossessive} unseemly, albeit shrunken, exposed region. It’s utterly vulgar.</li>
+            <li>Even a micro-vagina is an indecent sight. Such things should be kept strictly private, especially for the elderly.</li>
+            <li>The sheer brazenness of revealing such a tiny, yet still illicit, aged anatomical detail is appalling.</li>
+            <li>It's almost hidden, yet still too visible for my proper eyes. The impropriety is palpable.</li>
+            <li>Such an unchaste display, no matter how small or recessed. It's an insult to all that is proper.</li>
+            <li>The clitoris, however minuscule, is still a shocking feature to behold. I am disgusted.</li>
+            <li>The minimal visibility of the aged labia doesn't diminish the outright obscenity of the exposure.</li>
+            <li>This small glimpse is still too much. It's a flagrant disregard for moral boundaries, especially for one so old.</li>
+            <li>I am appalled by the sheer audacity of this indecent exposure, even if the part itself is tiny and aged.</li>
+            <li>The private parts, regardless of size, are not for public viewing. This is a disgrace.</li>
+            <li>My delicate sensibilities are assaulted by even the most microscopic hint of such intimacy, especially from an elder.</li>
+            <li>This is a truly vulgar display, even if the form is shrunken and aged. It's an affront.</li>
+            <li>Such private anatomy, however small and old, should be kept hidden from all decent eyes.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale_observed_by_Young_male</defName>
+        <label>Micro Vagina (Negative)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elderly, shriveled opening offers no allure. It's a sad, tight little slit, barely visible, and frankly repulsive.</li>
+            <li>Such a small, unappealing, aged crevice. It's a deflating sight, utterly uninviting for a young man.</li>
+            <li>This micro-vagina lacks depth and freshness. It seems ancient and shrunken, a disappointing view.</li>
+            <li>The clitoris is almost gone, and the labia are thin and saggy. Not what a young man desires, ever.</li>
+            <li>Her vaginal lips are thin and dry, barely parting due to age. It's a truly uninspiring, ancient entrance.</li>
+            <li>It's a withered, small opening. Nothing youthful or vibrant to behold here. My interest dies instantly.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny, decrepit anatomy is truly off-putting. It's a shrunken, ancient disappointment.</li>
+            <li>There's no visible promise of pleasure in that small, tight, aged orifice. It seems well past its prime, centuries ago.</li>
+            <li>This micro-vagina looks like it's been through far too much, and now it's just a sad, little puckered, ancient hole.</li>
+            <li>Her labia are flat and unpronounced, offering no youthful fullness. A grim reminder of mortality.</li>
+            <li>What a withered sight. This older woman's micro-vagina has no inviting depth or vibrancy for a young man.</li>
+            <li>The small, recessed clitoris holds no spark. Her aging anatomy is a definite turn-off for my young spirit.</li>
+            <li>It's so small and shriveled, one might mistake it for something entirely different. Quite unappealing and ancient.</li>
+            <li>Her vaginal opening is tight and unyielding, looking more like a closed fist than an invitation, due to extreme age.</li>
+            <li>The lack of plumpness in her labia makes it appear skeletal and unappealing. No youthful softness.</li>
+            <li>This tiny, ancient opening gives me the creeps. It looks dried up and without life, truly disturbing.</li>
+            <li>My youthful lust is extinguished by the sight of this shrunken, unappealing older woman’s anatomy.</li>
+            <li>It’s a withered flower, long past its bloom, with a tight, unyielding aperture. Unattractive to a young man.</li>
+            <li>The visible anatomy is so small and aged, it offers absolutely no interest or excitement.</li>
+            <li>Such an insignificant, shriveled opening. It's a sad testament to time, completely unarousing for me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale_observed_by_Young_female</defName>
+        <label>Micro Vagina (Negative)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her micro-vagina is just a tiny, shriveled slit. It looks ancient and disappointing, nothing like mine will be.</li>
+            <li>Such a small, tight, aged opening. It's unappealing and lacks any youthful plumpness, a grim future.</li>
+            <li>The labia are thin and dry, almost invisible due to age. A rather sad and shrunken sight for someone so old.</li>
+            <li>Her clitoris is barely there, and the entire area looks ancient and shriveled. A bit depressing to witness.</li>
+            <li>It's a tiny, uninviting cavity. I hope my own doesn't look so withered and aged when I'm older.</li>
+            <li>What a shrunken, uninspiring, aged sight. No depth or vibrancy, just a small, ancient indentation.</li>
+            <li>{PAWN_nameShortPossessive} vaginal lips are so thin and tight; they offer no appealing form at all now.</li>
+            <li>The entire genital area seems to have retreated inward. It's a rather depressing and tight appearance, a sign of decay.</li>
+            <li>A meager opening, lacking any fullness or youthful appearance. It's a stark cautionary tale of aging.</li>
+            <li>Her micro-vagina is utterly unremarkable. It gives no impression of vitality or feminine grace, just age.</li>
+            <li>The lack of distinct labial structure makes it appear flat and aged. A truly unappealing sight.</li>
+            <li>It looks worn and shriveled, a far cry from the vibrant, soft anatomy of younger women.</li>
+            <li>Her clitoris is so small it’s practically swallowed. It reflects the overall aged, shrunken look.</li>
+            <li>The inner folds are absent, making the whole area seem stark and uninviting, a mere hint of what was.</li>
+            <li>It's barely visible, and what is visible appears tired and shrunken. Not a pleasant view for me.</li>
+            <li>Such a tight, unyielding, aged opening. It seems as though it's given up on life itself.</li>
+            <li>The overall form is so compact and lacking in definition. It seems a grim outcome of advanced age.</li>
+            <li>It looks like a miniature, withered version of what it should be. Quite disappointing and a bit scary.</li>
+            <li>The narrowness of the entryway is almost sad. It's devoid of any appealing contours.</li>
+            <li>Such a tiny, insignificant, aged opening. It barely looks functional, let alone beautiful or enticing.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Micro Vagina (Negative)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elderly micro-vagina is tight and aged. It offers no visual promise, merely a shrunken disappointment to my experienced eyes.</li>
+            <li>This older woman's tiny opening is a letdown. No depth, no inviting labia, just a small, unremarkable, aged slit.</li>
+            <li>Observing {PAWN_nameShortPossessive} shriveled, minuscule anatomy; it looks tired and unenthusiastic, even for her age.</li>
+            <li>The clitoris is barely a ripple, and the labia are thin and unpronounced. Not a captivating sight for a middle-aged man.</li>
+            <li>Her vaginal lips are thin and dry, clinging tightly due to advanced age. It's a rather unappealing, ancient presentation.</li>
+            <li>It's a withered, small opening, lacking the vibrancy and fullness a man of my age might still desire from a younger form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny, decrepit anatomy is frankly off-putting. It’s too small for any real interest.</li>
+            <li>There's no visible promise of pleasure in that small, tight, aged orifice. It suggests a lack of use, or worse.</li>
+            <li>This micro-vagina looks like it's seen far better days, and now it's just a sad, little puckered, ancient hole.</li>
+            <li>Her labia are flat and unpronounced, offering no appealing curves or softness. A grim sign of extensive aging.</li>
+            <li>What a shrunken sight. This older woman's micro-vagina has no inviting depth or vibrancy for an experienced man.</li>
+            <li>The small, recessed clitoris holds no spark. Her aging anatomy is a definite turn-off for me.</li>
+            <li>It's so small and shriveled, I wonder if it’s ever truly been appreciated. Quite unappealing to my taste.</li>
+            <li>Her vaginal opening is tight and unyielding, looking more like a closed fist than an invitation, due to extreme age.</li>
+            <li>The lack of plumpness in her labia makes it appear skeletal and unappealing. No mature softness.</li>
+            <li>This tiny, ancient opening gives me pause. It looks dried up and without much life left.</li>
+            <li>My interest is extinguished by the sight of this shrunken, unappealing older woman’s anatomy.</li>
+            <li>It’s a withered flower, long past its prime, with a tight, unyielding aperture. Unattractive to my experienced gaze.</li>
+            <li>The visible anatomy is so small and aged, it offers absolutely no interest or excitement.</li>
+            <li>Such an insignificant, shriveled opening. It's a sad testament to time, completely unarousing.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Micro Vagina (Negative)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elderly micro-vagina is just a tiny, shriveled slit. It looks ancient and disappointing, a grim reflection of advanced age.</li>
+            <li>Such a small, tight, aged opening. It's unappealing and lacks any youthful plumpness, a grim future for us all.</li>
+            <li>The labia are thin and dry, almost invisible due to age. A rather sad and shrunken sight for someone so old.</li>
+            <li>Her clitoris is barely there, and the entire area looks ancient and shriveled. A bit depressing to witness.</li>
+            <li>It's a tiny, uninviting cavity. I hope my own doesn't look so withered and aged when I'm older.</li>
+            <li>What a shrunken, uninspiring, aged sight. No depth or vibrancy, just a small, ancient indentation.</li>
+            <li>{PAWN_nameShortPossessive} vaginal lips are so thin and tight; they offer no appealing form at all now.</li>
+            <li>The entire genital area seems to have retreated inward. It's a rather depressing and tight appearance, a sign of inevitable decay.</li>
+            <li>A meager opening, lacking any fullness or mature appearance. It's a stark cautionary tale of extreme aging.</li>
+            <li>Her micro-vagina is utterly unremarkable. It gives no impression of vitality or feminine grace, just age.</li>
+            <li>The lack of distinct labial structure makes it appear flat and aged. A truly unappealing sight.</li>
+            <li>It looks worn and shriveled, a far cry from the vibrant, soft anatomy of younger women.</li>
+            <li>Her clitoris is so small it’s practically swallowed. It reflects the overall aged, shrunken look.</li>
+            <li>The inner folds are absent, making the whole area seem stark and uninviting, a mere hint of what was.</li>
+            <li>It's barely visible, and what is visible appears tired and shrunken. Not a pleasant view for me.</li>
+            <li>Such a tight, unyielding, aged opening. It seems as though it's given up on life itself.</li>
+            <li>The overall form is so compact and lacking in definition. It seems a grim outcome of advanced age.</li>
+            <li>It looks like a miniature, withered version of what it should be. Quite disappointing and a bit scary.</li>
+            <li>The narrowness of the entryway is almost sad. It's devoid of any appealing contours.</li>
+            <li>Such a tiny, insignificant, aged opening. It barely looks functional, let alone beautiful or enticing.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale_observed_by_Elder_male</defName>
+        <label>Micro Vagina (Negative)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elderly, shriveled opening offers no allure. It's a sad, tight little slit, barely visible, and frankly repulsive, even to an old man.</li>
+            <li>Such a small, unappealing, aged crevice. It's a deflating sight, utterly uninviting for an old man.</li>
+            <li>Observing {PAWN_nameShortPossessive} pathetic, barely-there, ancient folds; it's a shriveled, uninspiring sight. No depth or invitation there.</li>
+            <li>What an underdeveloped, shallow cavity. {PAWN_nameShortPossessive} genital area is less a wonderland and more a barren, aged patch.</li>
+            <li>The clitoris is so small it's practically non-existent. A miserable, almost invisible button amidst shrunken, aged lips.</li>
+            <li>{PAWN_nameShortPossessive} labia are so tight and shriveled, they make the entire area look pinched and unapproachable due to extreme age.</li>
+            <li>A truly uninspiring, ancient sight; the whole thing seems to have retreated inward, lacking any noticeable form or prominence.</li>
+            <li>It's almost as if {PAWN_nameShortPossessive} anatomy is actively trying to hide itself, a tiny, uninviting, aged crevice.</li>
+            <li>This micro-vagina is a joke. So small, it barely suggests functionality, let alone pleasure for someone so old.</li>
+            <li>The outer lips are nonexistent, making it seem less like an elderly woman's anatomy and more like a poorly rendered doll's.</li>
+            <li>I can barely discern any labial structure; it's a smooth, unvaried, aged patch, devoid of definition.</li>
+            <li>There's no visible depth, no alluring shadows. Just a small, flat-looking opening that promises nothing but decay.</li>
+            <li>The clitoris is practically embedded, offering no distinct feature to focus on. It's a sad, sad, aged sight.</li>
+            <li>The inner folds are nowhere to be seen, leaving a stark, unappealing impression of flatness and advanced age.</li>
+            <li>Its small size renders it completely unnoticeable; you'd miss it if you weren't actively searching for it.</li>
+            <li>A shrunken, ungenerous opening that makes one wonder if it has ever seen any real use in its long, long life.</li>
+            <li>The overall form is so compact and tight, it appears perpetually closed off, an impenetrable fortress of dullness.</li>
+            <li>It looks like a miniature version of what it should be, lacking the maturity and fullness expected.</li>
+            <li>The narrowness of the entryway is almost offensive, a clear sign of anatomical inadequacy due to advanced age.</li>
+            <li>Such a tiny, insignificant opening. It barely qualifies as a proper sexual organ, especially at her advanced age.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Micro_ElderFemale_observed_by_Elder_female</defName>
+        <label>Micro Vagina (Negative)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her micro-vagina is just a tiny, shriveled slit. It looks ancient and disappointing, a grim reflection of our own inevitable future.</li>
+            <li>Such a small, tight, aged opening. It's unappealing and lacks any youthful plumpness, a grim future for us all.</li>
+            <li>The labia are thin and dry, almost invisible due to age. A rather sad and shrunken sight for someone so old.</li>
+            <li>Her clitoris is barely there, and the entire area looks ancient and shriveled. A bit depressing to witness.</li>
+            <li>It's a tiny, uninviting cavity. I hope my own doesn't look so withered and aged when I'm even older.</li>
+            <li>What a shrunken, uninspiring, aged sight. No depth or vibrancy, just a small, ancient indentation.</li>
+            <li>{PAWN_nameShortPossessive} vaginal lips are so thin and tight; they offer no appealing form at all now.</li>
+            <li>The entire genital area seems to have retreated inward. It's a rather depressing and tight appearance, a sign of inevitable decay.</li>
+            <li>A meager opening, lacking any fullness or mature appearance. It's a stark cautionary tale of extreme aging.</li>
+            <li>Her micro-vagina is utterly unremarkable. It gives no impression of vitality or feminine grace, just age.</li>
+            <li>The lack of distinct labial structure makes it appear flat and aged. A truly unappealing sight.</li>
+            <li>It looks worn and shriveled, a far cry from the vibrant, soft anatomy of younger women.</li>
+            <li>Her clitoris is so small it’s practically swallowed. It reflects the overall aged, shrunken look.</li>
+            <li>The inner folds are absent, making the whole area seem stark and uninviting, a mere hint of what was.</li>
+            <li>It's barely visible, and what is visible appears tired and shrunken. Not a pleasant view for me.</li>
+            <li>Such a tight, unyielding, aged opening. It seems as though it's given up on life itself.</li>
+            <li>The overall form is so compact and lacking in definition. It's a grim outcome of advanced age.</li>
+            <li>It looks like a miniature, withered version of what it should be. Quite disappointing and a bit scary.</li>
+            <li>The narrowness of the entryway is almost sad. It's devoid of any appealing contours.</li>
+            <li>Such a tiny, insignificant, aged opening. It barely looks functional, let alone beautiful or enticing.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+</Defs>

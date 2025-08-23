@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal</defName>
+        <label>Abyssal Anus (Positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>{PAWN_nameShortPossessive} abyssal anus grabbed my attention on the spot, dominating my thoughts and desires.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} abyssal anus evokes an overwhelming urge to fill it completely.</li>
+			<li>I’m mesmerized by {PAWN_nameShortPossessive} abyssal anus; it draws me in, leaving me yearning to explore its depths.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} abyssal anus, its endless depths a challenge that I couldn't resist.</li>
+			<li>I admired the way the skin around {PAWN_nameShortPossessive} hole seemed to stretch and fold, as if accommodating and hiding secrets.</li>
+			<li>I saw {PAWN_nameShortPossessive} abyssal anus, a deep, dark mystery waiting to be unraveled.</li>
+			<li>I gazed into {PAWN_nameShortPossessive} endless pit, a challenge for the bravest of explorers.</li>
+			<li>I examined {PAWN_nameShortPossessive} colossal crater, a symbol of its insatiable hunger for pleasure.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} abyssal anus, and it was a deep and mysterious space that beckoned to be explored. The muscle was relaxed and open, and the skin was smooth and unblemished.</li>
+			<li>I was captivated by {PAWN_nameShortPossessive} bottomless pit, its size and depth were awe-inspiring, and it promised new and uncharted forms of pleasure. The skin was soft and pliant, inviting the most daring of explorers.</li>
+			<li>I saw {PAWN_nameShortPossessive} abyssal anus, an immense chasm of irresistible flesh. The engulfing, expansive orifice was a breathtaking spectacle, its vast cavernous depths calling out to me like a siren's song, promising unparalleled satisfaction.</li>
+			<li>{PAWN_nameShortPossessive} abyssal anus was a void of unbridled sensuality, an endless chasm of soft, yielding flesh that seemed to pull me in with an otherworldly force. The immense, cavernous depths appeared to beckon me ever deeper, promising an unparalleled journey of discovery and delight.</li>
+        </opinionTexts>
+    
+	
+
+</Def>
+
+
+	
+
+<!--Elder Male observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_Elderly_Male_opinion</defName>
+        <label>Abyssal Anus (Positive)_Elderly_Male_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The youthful curve of {PAWN_nameShortPossessive} butt and the inviting depth of {PAWN_possessive} anus are a pleasant surprise, hinting at fertile pleasure.</li>
+            <li>Such a full, ripe bottom on {PAWN_nameShort} with an anus so dark and alluring. It brings a nostalgic warmth to my old bones.</li>
+            <li>{PAWN_nameShortPossessive} youthful posterior, perfectly formed with an open, beckoning anus, is a sight to behold. A true gem.</li>
+            <li>A truly magnificent sight: {PAWN_nameShortPossessive} well-rounded derriere, crowned by an abyssal anus. Pure perfection in its prime.</li>
+            <li>The robust curve of {PAWN_nameShortPossessive} buttocks, culminating in that deep, promising aperture, truly stirs an appreciation for youthful beauty.</li>
+            <li>{PAWN_nameShortPossessive} plump, inviting rear and its abyssal, welcoming opening are a testament to youthful vitality. A captivating view.</li>
+            <li>Behold, the alluring depths of {PAWN_nameShortPossessive} anus, nestled within a beautifully sculpted buttock. A delightful vision.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, youthful backside and its deep, dark aperture is quite captivating. Truly a marvel of nature.</li>
+            <li>The impressive fullness of {PAWN_nameShortPossessive} gluteal curve, and that subtly visible, deep anus, speaks volumes of youthful vigor.</li>
+            <li>{PAWN_nameShortPossessive} shapely backside, so youthful and inviting, with an anus that promises endless exploration. A fascinating view.</li>
+            <li>An exquisite specimen: {PAWN_nameShortPossessive} round, full butt and its profoundly deep, captivating anus. A truly grand spectacle.</li>
+            <li>I observe {PAWN_nameShortPossessive} youthful, rounded posterior and its deep, shadowed anus with a knowing gaze; a delightful prospect.</li>
+            <li>The soft, plump form of {PAWN_nameShortPossessive} buttocks, leading to that abyssal, tempting opening, reminds me of life's prime.</li>
+            <li>{PAWN_nameShortPossessive} youthful figure, accentuated by a firm, inviting backside and a deeply visible anus, is undeniably striking.</li>
+            <li>Such a captivating curve on {PAWN_nameShortPossessive} posterior, leading to a surprisingly vast and inviting anus. A truly splendid sight.</li>
+            <li>The deep, dark allure of {PAWN_nameShortPossessive} anus, set within a perfectly plump and youthful butt, is a sight that commands attention.</li>
+            <li>I appreciate the exquisite contours of {PAWN_nameShortPossessive} youthful butt and the deep, mysterious allure of {PAWN_possessive} abyssal anus.</li>
+            <li>The way {PAWN_nameShortPossessive} young backside rounds out, revealing that deep, shadowed opening, is quite enchanting. A fine display.</li>
+            <li>{PAWN_nameShortPossessive} blossoming posterior and its deeply recessed, inviting anus are a truly delightful vision of youthful charm.</li>
+            <li>The robust and supple form of {PAWN_nameShortPossessive} buttocks, with an anus hinting at rich, deep experiences, is truly admirable.</li>
+            <li>What a fine, youthful derrière {PAWN_nameShort} possesses, with an abyssal anus that holds such profound promise.</li>
+            <li>I gaze upon {PAWN_nameShortPossessive} full, youthful bottom and its deep, inviting anus, a testament to blossoming beauty.</li>
+            <li>The sight of {PAWN_nameShortPossessive} shapely, young backside and its mysterious, deep anus evokes a sense of deep appreciation.</li>
+            <li>{PAWN_nameShortPossessive} youthful, firm buttocks, perfectly framing an abyssal anus, are a picture of exquisite natural beauty.</li>
+            <li>That deeply set, captivating anus within {PAWN_nameShortPossessive} wonderfully rounded, young butt is quite a magnificent sight.</li>
+            <li>The alluring depths of {PAWN_nameShortPossessive} anus, embraced by {PAWN_possessive} firm and youthful butt, are truly a delightful view.</li>
+            <li>{PAWN_nameShortPossessive} youthful backside, so full and inviting, with an abyssal opening that beckons with silent promise.</li>
+            <li>I observe the elegant curve of {PAWN_nameShortPossessive} butt and the profound depth of {PAWN_possessive} anus; a truly splendid formation.</li>
+            <li>The deep, inviting darkness of {PAWN_nameShortPossessive} anus, set against {PAWN_possessive} firm, youthful buttocks, is truly captivating.</li>
+            <li>{PAWN_nameShortPossessive} perfectly sculpted, young posterior, graced by an abyssal, alluring anus, is a sight of pure aesthetic pleasure.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young females butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_Elderly_Male_voyer_opinion</defName>
+        <label>Abyssal Anus (Positive)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ah, {PAWN_nameShortPossessive} youthful, rounded backside, and that abyssal anus. It's a true feast for my discerning eyes, stirring old passions.</li>
+            <li>The generous curve of {PAWN_nameShortPossessive} young butt, with its deep, dark, and utterly beckoning anus, is a sight that quickens my pulse.</li>
+            <li>{PAWN_nameShortPossessive} firm, blossoming bottom and its profoundly deep, visible anus ignite a familiar warmth in my loins. Simply exquisite.</li>
+            <li>A truly provocative sight: {PAWN_nameShortPossessive} luscious young posterior, crowned by an abyssal, inviting anus. My old cock twitches.</li>
+            <li>The robust curve of {PAWN_nameShortPossessive} youthful buttocks, culminating in that deep, promising aperture, sends a shiver down my spine.</li>
+            <li>{PAWN_nameShortPossessive} plump, inviting young rear and its abyssal, welcoming opening are simply a masterpiece. My member stirs in anticipation.</li>
+            <li>Behold, the alluring depths of {PAWN_nameShortPossessive} youthful anus, nestled within a beautifully sculpted buttock. My old friend awakens.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, young backside and its deep, dark aperture is quite captivating. My desire swells.</li>
+            <li>The impressive fullness of {PAWN_nameShortPossessive} gluteal curve, and that subtly visible, deep anus, speaks volumes of unbridled pleasure.</li>
+            <li>{PAWN_nameShortPossessive} shapely backside, so young and inviting, with an anus that promises endless exploration. My cock hardens.</li>
+            <li>An exquisite specimen: {PAWN_nameShortPossessive} round, full young butt and its profoundly deep, captivating anus. I'm ready to plunge.</li>
+            <li>I observe {PAWN_nameShortPossessive} youthful, rounded posterior and its deep, shadowed anus with a hungry gaze; a delightful prospect. My groin tingles.</li>
+            <li>The soft, plump form of {PAWN_nameShortPossessive} young buttocks, leading to that abyssal, tempting opening, excites me deeply.</li>
+            <li>{PAWN_nameShortPossessive} youthful figure, accentuated by a firm, inviting backside and a deeply visible anus, is undeniably arousing.</li>
+            <li>Such a captivating curve on {PAWN_nameShortPossessive} young posterior, leading to a surprisingly vast and inviting anus. My erection responds.</li>
+            <li>The deep, dark allure of {PAWN_nameShortPossessive} young anus, set within a perfectly plump butt, is a sight that makes me ache.</li>
+            <li>I appreciate the exquisite contours of {PAWN_nameShortPossessive} youthful butt and the deep, mysterious allure of {PAWN_possessive} abyssal anus. My shaft throbs.</li>
+            <li>The way {PAWN_nameShortPossessive} young backside rounds out, revealing that deep, shadowed opening, is quite enchanting. My desire is palpable.</li>
+            <li>{PAWN_nameShortPossessive} blossoming posterior and its deeply recessed, inviting anus are a truly delightful vision. My member yearns.</li>
+            <li>The robust and supple form of {PAWN_nameShortPossessive} youthful buttocks, with an anus hinting at rich, deep experiences, is truly stimulating.</li>
+            <li>What a fine, youthful derrière {PAWN_nameShort} possesses, with an abyssal anus that holds such profound promise. My balls tighten.</li>
+            <li>I gaze upon {PAWN_nameShortPossessive} full, youthful bottom and its deep, inviting anus, a testament to blossoming beauty. I'm ready to claim it.</li>
+            <li>The sight of {PAWN_nameShortPossessive} shapely, young backside and its mysterious, deep anus evokes a powerful urge to possess {PAWN_objective}.</li>
+            <li>{PAWN_nameShortPossessive} youthful, firm buttocks, perfectly framing an abyssal anus, are a picture of exquisite natural temptation. I must have it.</li>
+            <li>That deeply set, captivating anus within {PAWN_nameShortPossessive} wonderfully rounded, young butt is quite a magnificent sight. It awakens me.</li>
+            <li>The alluring depths of {PAWN_nameShortPossessive} anus, embraced by {PAWN_possessive} firm and youthful butt, are truly a delightful view. My cock stands to attention.</li>
+            <li>{PAWN_nameShortPossessive} youthful backside, so full and inviting, with an abyssal opening that beckons with silent promise. My body responds.</li>
+            <li>I observe the elegant curve of {PAWN_nameShortPossessive} butt and the profound depth of {PAWN_possessive} anus; a truly splendid formation, igniting my primal urges.</li>
+            <li>The deep, inviting darkness of {PAWN_nameShortPossessive} anus, set against {PAWN_possessive} firm, youthful buttocks, is truly captivating. My groin aches.</li>
+            <li>{PAWN_nameShortPossessive} perfectly sculpted, young posterior, graced by an abyssal, alluring anus, is a sight of pure carnal desire.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_Elderly_Female_opinion</defName>
+        <label>Abyssal Anus (Positive)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} youthful bottom is so wonderfully rounded, with an anus so perfectly deep. Such a lovely sight to behold.</li>
+            <li>The elegant curve of {PAWN_nameShortPossessive} young butt, and that deep, enticing anus; it’s a picture of flourishing femininity.</li>
+            <li>{PAWN_nameShortPossessive} firm, blossoming posterior, with an abyssal and inviting anus, truly embodies youthful grace. So beautiful.</li>
+            <li>What a charming sight: {PAWN_nameShortPossessive} luscious young backside, crowned by a deep, dark, and utterly captivating anus.</li>
+            <li>The robust fullness of {PAWN_nameShortPossessive} youthful buttocks, culminating in that deep, promising aperture, is truly admirable.</li>
+            <li>{PAWN_nameShortPossessive} plump, inviting young rear and its abyssal, welcoming opening are a testament to natural beauty.</li>
+            <li>Behold, the alluring depths of {PAWN_nameShortPossessive} youthful anus, perfectly nestled within {PAWN_possessive} sculpted buttock.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, young backside and its deep, dark aperture is quite enchanting. A marvel of youth.</li>
+            <li>The impressive roundness of {PAWN_nameShortPossessive} gluteal curve, and that subtly visible, deep anus, speaks volumes of youthful charm.</li>
+            <li>{PAWN_nameShortPossessive} shapely backside, so youthful and inviting, with an anus that suggests ample experience. A fascinating view.</li>
+            <li>An exquisite specimen: {PAWN_nameShortPossessive} round, full young butt and its profoundly deep, captivating anus. So well-formed.</li>
+            <li>I observe {PAWN_nameShortPossessive} youthful, rounded posterior and its deep, shadowed anus with gentle admiration; a truly delightful form.</li>
+            <li>The soft, plump form of {PAWN_nameShortPossessive} young buttocks, leading to that abyssal, tempting opening, is simply lovely.</li>
+            <li>{PAWN_nameShortPossessive} youthful figure, accentuated by a firm, inviting backside and a deeply visible anus, is undeniably striking.</li>
+            <li>Such a captivating curve on {PAWN_nameShortPossessive} young posterior, leading to a surprisingly vast and inviting anus. A truly splendid form.</li>
+            <li>The deep, dark allure of {PAWN_nameShortPossessive} youthful anus, set within a perfectly plump butt, is a sight that radiates beauty.</li>
+            <li>I appreciate the exquisite contours of {PAWN_nameShortPossessive} youthful butt and the deep, mysterious allure of {PAWN_possessive} abyssal anus.</li>
+            <li>The way {PAWN_nameShortPossessive} young backside rounds out, revealing that deep, shadowed opening, is quite enchanting. A truly feminine beauty.</li>
+            <li>{PAWN_nameShortPossessive} blossoming posterior and its deeply recessed, inviting anus are a truly delightful vision of youthful charm.</li>
+            <li>The robust and supple form of {PAWN_nameShortPossessive} youthful buttocks, with an anus hinting at rich, deep experiences, is truly admirable.</li>
+            <li>What a fine, youthful derrière {PAWN_nameShort} possesses, with an abyssal anus that holds such profound promise.</li>
+            <li>I gaze upon {PAWN_nameShortPossessive} full, youthful bottom and its deep, inviting anus, a testament to blossoming beauty.</li>
+            <li>The sight of {PAWN_nameShortPossessive} shapely, young backside and its mysterious, deep anus evokes a sense of deep appreciation.</li>
+            <li>{PAWN_nameShortPossessive} youthful, firm buttocks, perfectly framing an abyssal anus, are a picture of exquisite natural beauty.</li>
+            <li>That deeply set, captivating anus within {PAWN_nameShortPossessive} wonderfully rounded, young butt is quite a magnificent sight.</li>
+            <li>The alluring depths of {PAWN_nameShortPossessive} anus, embraced by {PAWN_possessive} firm and youthful butt, are truly a delightful view.</li>
+            <li>{PAWN_nameShortPossessive} youthful backside, so full and inviting, with an abyssal opening that beckons with silent promise.</li>
+            <li>I observe the elegant curve of {PAWN_nameShortPossessive} butt and the profound depth of {PAWN_possessive} anus; a truly splendid formation.</li>
+            <li>The deep, inviting darkness of {PAWN_nameShortPossessive} anus, set against {PAWN_possessive} firm, youthful buttocks, is truly captivating.</li>
+            <li>{PAWN_nameShortPossessive} perfectly sculpted, young posterior, graced by an abyssal, alluring anus, is a sight of pure aesthetic pleasure.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young male observes young females butt and anus, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MaleOpinion</defName>
+        <label>Abyssal Anus (Positive)_MaleOpinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Damn, {PAWN_nameShortPossessive} ass is incredible, and that deep anus... I can't look away. My heart races.</li>
+            <li>The way {PAWN_nameShortPossessive} butt rounds out, revealing that abyssal, inviting hole, is driving me absolutely wild.</li>
+            <li>{PAWN_nameShortPossessive} plump, perfect posterior and that deep, dark anus are seriously making me hard. I need to get closer.</li>
+            <li>That incredible curve of {PAWN_nameShortPossessive} ass, leading to such a deep, willing aperture. It's utterly irresistible.</li>
+            <li>Just seeing {PAWN_nameShortPossessive} firm, luscious butt and its abyssal anus makes my groin ache with desire.</li>
+            <li>{PAWN_nameShortPossessive} captivating backside, with an anus so deep and beckoning, fills my thoughts completely. I crave it.</li>
+            <li>I'm utterly consumed by {PAWN_nameShortPossessive} amazing butt and that dark, alluring abyss of an anus. I want in.</li>
+            <li>The seductive swell of {PAWN_nameShortPossessive} ass, and the promise held within {PAWN_possessive} deep, shadowy anus, is pure temptation.</li>
+            <li>{PAWN_nameShortPossessive} perfect, full bottom and its deeply visible, inviting anus are driving me insane with lust.</li>
+            <li>My eyes are glued to {PAWN_nameShortPossessive} shapely rear and that abyssal, welcoming opening. So damn hot.</li>
+            <li>That's one hell of an ass on {PAWN_nameShort}, and the deep, dark anus is just begging for attention.</li>
+            <li>I can feel my blood pumping just looking at {PAWN_nameShortPossessive} firm butt and its profound, captivating anus.</li>
+            <li>The way {PAWN_nameShortPossessive} perfectly shaped butt presents that deep, dark, and utterly enticing anus is hypnotic.</li>
+            <li>{PAWN_nameShortPossessive} curvaceous backside, with an anus that seems to promise unimaginable pleasure, is truly breathtaking.</li>
+            <li>I'm mesmerized by {PAWN_nameShortPossessive} ample rear and its abyssal, inviting opening. I just want to bury myself in it.</li>
+            <li>{PAWN_nameShortPossessive} incredibly sensual butt, and that deep, alluring anus, have utterly captured my attention. I'm hooked.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded, firm buttocks and that profound, mysterious anus sends shivers down my spine.</li>
+            <li>Just one look at {PAWN_nameShortPossessive} full ass and its deep, dark aperture, and I'm completely lost in desire.</li>
+            <li>{PAWN_nameShortPossessive} tantalizing backside, with an anus that appears so willing and open, is igniting a fire in me.</li>
+            <li>That amazing butt on {PAWN_nameShort}, and the inviting depths of {PAWN_possessive} abyssal anus, are all I can think about.</li>
+            <li>I'm utterly captivated by the sight of {PAWN_nameShortPossessive} magnificent posterior and its deep, beckoning anus.</li>
+            <li>{PAWN_nameShortPossessive} plump, juicy ass, and that truly abyssal anus, are almost too much to handle. So tempting.</li>
+            <li>The sheer perfection of {PAWN_nameShortPossessive} butt's form, and the alluring depth of {PAWN_possessive} anus, is electrifying.</li>
+            <li>I can't deny the powerful pull of {PAWN_nameShortPossessive} firm buttocks and that profoundly deep, captivating anus.</li>
+            <li>My gaze is drawn to {PAWN_nameShortPossessive} shapely backside and the dark, mysterious promise of {PAWN_possessive} abyssal anus.</li>
+            <li>{PAWN_nameShortPossessive} incredibly inviting butt, with an anus that just screams to be explored, is pure perfection.</li>
+            <li>The way {PAWN_nameShortPossessive} ass curves, highlighting that deep, alluring opening, is simply breathtaking.</li>
+            <li>I feel an undeniable magnetic pull towards {PAWN_nameShortPossessive} firm posterior and its profoundly deep, captivating anus.</li>
+            <li>{PAWN_nameShortPossessive} luscious butt, and that abyssal, open anus, fills me with an overwhelming desire. I need it.</li>
+            <li>That deep, dark, and utterly irresistible anus, framed by {PAWN_nameShortPossessive} perfect buttocks, is a sight to behold.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes unisex butt and anus -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Voyeur</defName>
+        <label>Abyssal Anus (Positive) trait Voyeur</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden sight of {PAWN_nameShortPossessive} abyssal anus is an unexpected delight, truly a captivating and mesmerizing view.</li>
+            <li>{PAWN_nameShortPossessive} butt's alluring shape, with that deep, inviting anus, offers a tantalizing spectacle for my appreciative gaze.</li>
+            <li>Observing {PAWN_nameShortPossessive} perfectly formed butt and its abyssal, visible anus is a profound visual pleasure. Utterly enchanting.</li>
+            <li>A sudden glimpse of {PAWN_nameShortPossessive} deep, dark anus, framed by {PAWN_possessive} beautiful butt, is an absolute visual feast.</li>
+            <li>My eyes are drawn to {PAWN_nameShortPossessive} remarkable backside and its mysterious, deep opening. A captivating anatomical study.</li>
+            <li>The way {PAWN_nameShortPossessive} butt naturally presents {PAWN_possessive} abyssal anus is incredibly stimulating; a silent invitation.</li>
+            <li>I find myself entranced by the profound depth and alluring darkness of {PAWN_nameShortPossessive} anus. A true spectacle.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is a masterpiece of form that demands further observation.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, is immensely gratifying.</li>
+            <li>I am utterly captivated by the intimate architecture of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, offers an endless canvas for my appreciative gaze.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} butt and its deep, dark anus is a powerful draw for my voyeuristic nature.</li>
+            <li>What a spectacular display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus.</li>
+            <li>My attention is fully arrested by {PAWN_nameShortPossessive} alluring backside and the profound, beautiful depths of {PAWN_possessive} anus.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a true work of art to observe.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is truly enthralling.</li>
+            <li>I find immense pleasure in silently observing the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus.</li>
+            <li>The sheer aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, is captivating.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a stunning view, and that deep, shadowy anus is simply irresistible to my gaze.</li>
+            <li>A truly compelling sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus.</li>
+            <li>I feel a strong pull to simply witness the raw, natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is remarkable.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus is fascinating to my discerning, appreciative eyes.</li>
+            <li>The subtle revelations of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide endless visual intrigue.</li>
+            <li>I could gaze upon {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus for hours, lost in its beauty.</li>
+            <li>The delightful symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is a voyeur's dream.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a magnificent, discreet view.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to cherish.</li>
+            <li>My appreciation for the human form is amplified by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus.</li>
+            <li>The unexpected exposure of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a stimulating discovery.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Voyeur_M</defName>
+        <label>Abyssal Anus (Positive) trait Voyeur_M</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden sight of {PAWN_nameShortPossessive} abyssal anus is an unexpected delight, stirring a powerful erection. Truly mesmerizing.</li>
+            <li>{PAWN_nameShortPossessive} butt's alluring shape, with that deep, inviting anus, offers a tantalizing spectacle for my appreciative, hardening gaze.</li>
+            <li>Observing {PAWN_nameShortPossessive} perfectly formed butt and its abyssal, visible anus is a profound visual pleasure, making my cock throb.</li>
+            <li>A sudden glimpse of {PAWN_nameShortPossessive} deep, dark anus, framed by {PAWN_possessive} beautiful butt, is an absolute feast, and my member responds.</li>
+            <li>My eyes are drawn to {PAWN_nameShortPossessive} remarkable backside and its mysterious, deep opening. It sends shivers down my spine, igniting desire.</li>
+            <li>The way {PAWN_nameShortPossessive} butt naturally presents {PAWN_possessive} abyssal anus is incredibly stimulating; a silent invitation that makes me ache.</li>
+            <li>I find myself entranced by the profound depth and alluring darkness of {PAWN_nameShortPossessive} anus, causing my penis to stiffen. A true spectacle.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is a masterpiece of form that demands further observation and my cock's attention.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, is immensely gratifying. My shaft pulses.</li>
+            <li>I am utterly captivated by the intimate architecture of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt, and my loins burn.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, offers an endless canvas for my appreciative, aroused gaze.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} butt and its deep, dark anus is a powerful draw for my voyeuristic nature, making me hard.</li>
+            <li>What a spectacular display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus. My desire swells.</li>
+            <li>My attention is fully arrested by {PAWN_nameShortPossessive} alluring backside and the profound, beautiful depths of {PAWN_possessive} anus. My cock stiffens.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a true work of art to observe, and my member responds.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is truly enthralling. My body yearns.</li>
+            <li>I find immense pleasure in silently observing the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus. My erection grows.</li>
+            <li>The sheer aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, is captivating. My balls tighten.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a stunning view, and that deep, shadowy anus is simply irresistible to my gaze, filling me with lust.</li>
+            <li>A truly compelling sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus. I want to touch.</li>
+            <li>I feel a strong pull to simply witness the raw, natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt. My groin aches.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is remarkable. My desires surge.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus is fascinating to my discerning, appreciative, and very aroused eyes.</li>
+            <li>The subtle revelations of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide endless visual intrigue, and a powerful urge to claim.</li>
+            <li>I could gaze upon {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus for hours, lost in its beauty, and my throbbing cock.</li>
+            <li>The delightful symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is a voyeur's dream. My pants grow tight.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a magnificent, discreet view. I'm utterly captivated.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to cherish. My arousal peaks.</li>
+            <li>My appreciation for the female form is amplified by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus. My member twitches.</li>
+            <li>The unexpected exposure of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a stimulating discovery that makes me pulsate.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Voyeur_F</defName>
+        <label>Abyssal Anus (Positive) trait Voyeur_F</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden sight of {PAWN_nameShortPossessive} abyssal anus is an unexpected delight, truly a captivating and stimulating view. My own core tingles.</li>
+            <li>{PAWN_nameShortPossessive} butt's alluring shape, with that deep, inviting anus, offers a tantalizing spectacle for my appreciative gaze. A warmth spreads through me.</li>
+            <li>Observing {PAWN_nameShortPossessive} perfectly formed butt and its abyssal, visible anus is a profound visual pleasure. Utterly enchanting, and my desires stir.</li>
+            <li>A sudden glimpse of {PAWN_nameShortPossessive} deep, dark anus, framed by {PAWN_possessive} beautiful butt, is an absolute visual feast. I feel a flush.</li>
+            <li>My eyes are drawn to {PAWN_nameShortPossessive} remarkable backside and its mysterious, deep opening. It truly excites my senses.</li>
+            <li>The way {PAWN_nameShortPossessive} butt naturally presents {PAWN_possessive} abyssal anus is incredibly stimulating; a silent invitation that makes me yearn.</li>
+            <li>I find myself entranced by the profound depth and alluring darkness of {PAWN_nameShortPossessive} anus. A true spectacle that stirs my core.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is a masterpiece of form that demands further observation. My desires heighten.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, is immensely gratifying. A delightful stir.</li>
+            <li>I am utterly captivated by the intimate architecture of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt, igniting my curiosity.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, offers an endless canvas for my appreciative, aroused gaze.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} butt and its deep, dark anus is a powerful draw for my voyeuristic nature, quickening my breath.</li>
+            <li>What a spectacular display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus. My body hums.</li>
+            <li>My attention is fully arrested by {PAWN_nameShortPossessive} alluring backside and the profound, beautiful depths of {PAWN_possessive} anus. A sensual pleasure.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a true work of art to observe, stirring my own intimate urges.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is truly enthralling. My desire blossoms.</li>
+            <li>I find immense pleasure in silently observing the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus. A deep, sensual resonance.</li>
+            <li>The sheer aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, is captivating. My arousal builds subtly.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a stunning view, and that deep, shadowy anus is simply irresistible to my gaze, filling me with a gentle warmth.</li>
+            <li>A truly compelling sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus. I feel a connection.</li>
+            <li>I feel a strong pull to simply witness the raw, natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt. It awakens something within.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is remarkable. My core softens.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus is fascinating to my discerning, appreciative, and subtly aroused eyes.</li>
+            <li>The subtle revelations of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide endless visual intrigue, arousing my own intimate thoughts.</li>
+            <li>I could gaze upon {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus for hours, lost in its beauty and my own rising desire.</li>
+            <li>The delightful symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is a voyeur's dream. A subtle throb begins.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a magnificent, discreet view. I feel a delicious anticipation.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to cherish. My body feels lighter.</li>
+            <li>My appreciation for the female form is amplified by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus. A deep, sensual hum.</li>
+            <li>The unexpected exposure of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a stimulating discovery that leaves me wanting more.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_NMM_Exhibitionist</defName>
+        <label>Abyssal Anus (Positive) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Exposing {PAWN_nameShortPossessive} abyssal anus to me feels exhilarating, knowing that i can appreciate such profound beauty.</li>
+            <li>The thrill seeing deep, inviting anus, framed by {PAWN_nameShortPossessive} proudly presented butt, for me to witness is simply electrifying.</li>
+            <li>I revel in watching {PAWN_nameShortPossessive} abundant butt and its abyssal, exposed anus, igniting in admiration.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} expansive anus, boldly displayed, fills me with a shared sense of exhilarating freedom.</li>
+            <li>The raw, open beauty of {PAWN_nameShortPossessive} cavernous anus, presented without shame, is truly inspiring.</li>
+            <li>I revel in the sight of {PAWN_nameShortPossessive} wide, welcoming opening; it encourages my own desire to expose.</li>
+            <li>{PAWN_nameShortPossessive} generous posterior, openly showcasing {PAWN_possessive} deep anus, is a powerful statement of self-expression.</li>
+            <li>The uninhibited display of {PAWN_nameShortPossessive} prominent anus makes my own heart swell with confident admiration.</li>
+            <li>Observing {PAWN_nameShortPossessive} wide-open anus, I feel a rush of exhilarating freedom, a testament to bold self-acceptance.</li>
+            <li>The sheer visibility and accommodating nature of {PAWN_nameShortPossessive} anus, paired with {PAWN_possessive} proud stance, is truly captivating.</li>
+            <li>{PAWN_nameShortPossessive} ample buttocks beautifully frame a deeply receptive anus, openly shared, creating a powerful connection.</li>
+            <li>What a glorious, public declaration! {PAWN_nameShortPossessive} cavernous anus, so boldly offered, is a magnificent sight.</li>
+            <li>The profound openness of {PAWN_nameShortPossessive} anus, readily on display, is a thrilling affirmation of raw beauty.</li>
+            <li>The inviting expanse of {PAWN_nameShortPossessive} anus, highlighted by {PAWN_possessive} magnificent buttocks, is a joy to behold.</li>
+            <li>I feel a profound admiration for {PAWN_nameShortPossessive} unashamed display of {PAWN_possessive} wide, yielding anus.</li>
+            <li>The captivating view of {PAWN_nameShortPossessive} generous anus, openly presented, reinforces my own exhibitionist spirit.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an impressive, cavernous opening, boldly displayed, a perfect vision of liberated sensuality.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} large anus, framed by {PAWN_possessive} voluptuous curves, is exquisitely stimulating.</li>
+            <li>A truly spectacular sight! {PAWN_nameShortPossessive} full buttocks present a wonderfully large and accessible opening, meant to be seen.</li>
+            <li>I couldn't help but admire the magnificent expanse of {PAWN_nameShortPossessive} anus, so confidently and beautifully exposed.</li>
+            <li>{PAWN_nameShortPossessive} generous and open posterior entrance, nestled between firm yet yielding cheeks, looks incredibly inviting and proud.</li>
+            <li>The sheer size and relaxed appearance of {PAWN_nameShortPossessive} anus, framed by a beautifully rounded bottom, is quite enticing and bold.</li>
+            <li>Observing {PAWN_nameShortPossessive} profound and welcoming orifice, I felt a deep appreciation for its natural beauty and confident readiness.</li>
+            <li>{PAWN_nameShortPossessive} impressive, wide anus, perfectly complemented by a shapely derrière, speaks of great capacity and self-assuredness.</li>
+            <li>The captivating openness of {PAWN_nameShortPossessive} anus, set within smooth, inviting curves, is undeniably alluring and inspiring.</li>
+            <li>A truly spectacular sight, {PAWN_nameShortPossessive} full buttocks present a wonderfully large and accessible opening, inviting all eyes.</li>
+            <li>{PAWN_nameShortPossessive} rear reveals a marvelously deep and receptive anus, promising endless delightful experiences, openly shared.</li>
+            <li>The audacious display of {PAWN_nameShortPossessive} cavernous anus and shapely buttocks is truly a breathtaking act of defiance and beauty.</li>
+            <li>I'm invigorated by the sight of {PAWN_nameShortPossessive} ample posterior, its wide, unashamed opening radiating confidence.</li>
+            <li>The inviting depth of {PAWN_nameShortPossessive} anus, openly presented, ignites a profound sense of shared liberation.</li>
+            <li>What an incredible spectacle! {PAWN_nameShortPossessive} buttocks perfectly frame a truly expansive and welcoming anus for all to see.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} deep anus, coupled with {PAWN_possessive} confident posture, is absolutely magnetic.</li>
+            <li>I feel a powerful connection to {PAWN_nameShortPossessive} bold exhibition, especially that magnificent, open anus.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young females butt and anus, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_NMM_Exhibitionist_male</defName>
+        <label>Abyssal Anus (Positive) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her magnificently open anus, proudly displayed, stirs my own desire to reveal myself, my cock hardening in response.</li>
+            <li>The raw, uninhibited beauty of {PAWN_nameShortPossessive} cavernous anus, presented so boldly, fills me with a powerful urge to show my own.</li>
+            <li>I revel in the sight of {PAWN_nameShortPossessive} wide, welcoming opening; it encourages my own exhibitionist spirit, and I feel a powerful arousal.</li>
+            <li>{PAWN_nameShortPossessive} generous posterior, openly showcasing {PAWN_possessive} deep anus, is a powerful statement, and my own member stiffens with shared pride.</li>
+            <li>The uninhibited display of {PAWN_nameShortPossessive} prominent anus makes my heart swell with confident admiration, and my cock aches to be seen.</li>
+            <li>Observing {PAWN_nameShortPossessive} wide-open anus, I feel a rush of exhilarating freedom, a testament to bold self-acceptance, and my arousal is undeniable.</li>
+            <li>The sheer visibility and accommodating nature of {PAWN_nameShortPossessive} anus, paired with {PAWN_possessive} proud stance, is truly captivating, igniting my own urge to expose.</li>
+            <li>Her ample buttocks beautifully frame a deeply receptive anus, openly shared, creating a powerful connection and a strong sexual response in me.</li>
+            <li>What a glorious, public declaration! {PAWN_nameShortPossessive} cavernous anus, so boldly offered, is a magnificent sight, making me want to reveal all.</li>
+            <li>The profound openness of {PAWN_nameShortPossessive} anus, readily on display, is a thrilling affirmation of raw beauty, and my body is ready to reciprocate.</li>
+            <li>The inviting expanse of {PAWN_nameShortPossessive} anus, highlighted by {PAWN_possessive} magnificent buttocks, is a joy to behold and a potent trigger for my own desires.</li>
+            <li>I feel a profound admiration for {PAWN_nameShortPossessive} unashamed display of {PAWN_possessive} wide, yielding anus, inspiring me to be just as bold.</li>
+            <li>The captivating view of {PAWN_nameShortPossessive} generous anus, openly presented, reinforces my own exhibitionist spirit, and my cock demands attention.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an impressive, cavernous opening, boldly displayed, a perfect vision of liberated sensuality, stirring my own powerful urges.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} large anus, framed by {PAWN_possessive} voluptuous curves, is exquisitely stimulating, making my shaft throb.</li>
+            <li>A truly spectacular sight! {PAWN_nameShortPossessive} full buttocks present a wonderfully large and accessible opening, meant to be seen, and I feel a powerful connection.</li>
+            <li>I couldn't help but admire the magnificent expanse of {PAWN_nameShortPossessive} anus, so confidently and beautifully exposed, it truly turns me on.</li>
+            <li>{PAWN_nameShortPossessive} generous and open posterior entrance, nestled between firm yet yielding cheeks, looks incredibly inviting and proud, prompting my own desire to expose.</li>
+            <li>The sheer size and relaxed appearance of {PAWN_nameShortPossessive} anus, framed by a beautifully rounded bottom, is quite enticing and bold, igniting a raw urge within me.</li>
+            <li>Observing {PAWN_nameShortPossessive} profound and welcoming orifice, I felt a deep appreciation for its natural beauty and confident readiness, and my own cock responds with vigor.</li>
+            <li>{PAWN_nameShortPossessive} impressive, wide anus, perfectly complemented by a shapely derrière, speaks of great capacity and self-assuredness, inspiring me to reveal myself.</li>
+            <li>The captivating openness of {PAWN_nameShortPossessive} anus, set within smooth, inviting curves, is undeniably alluring and inspiring, making my own body yearn for exposure.</li>
+            <li>A truly spectacular sight, {PAWN_nameShortPossessive} full buttocks present a wonderfully large and accessible opening, inviting all eyes, and I feel an exhilarating rush.</li>
+            <li>{PAWN_nameShortPossessive} rear reveals a marvelously deep and receptive anus, promising endless delightful experiences, openly shared, and I feel a deep connection to her exhibition.</li>
+            <li>The audacious display of {PAWN_nameShortPossessive} cavernous anus and shapely buttocks is truly a breathtaking act of defiance and beauty, prompting my own exhibitionist desires.</li>
+            <li>I'm invigorated by the sight of {PAWN_nameShortPossessive} ample posterior, its wide, unashamed opening radiating confidence, and I feel a powerful surge of desire to expose myself.</li>
+            <li>The inviting depth of {PAWN_nameShortPossessive} anus, openly presented, ignites a profound sense of shared liberation, and my member stirs noticeably.</li>
+            <li>What an incredible spectacle! {PAWN_nameShortPossessive} buttocks perfectly frame a truly expansive and welcoming anus for all to see, and I feel an intense arousal.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} deep anus, coupled with {PAWN_possessive} confident posture, is absolutely magnetic, and I want to join her in her bold display.</li>
+            <li>I feel a powerful connection to {PAWN_nameShortPossessive} bold exhibition, especially that magnificent, open anus, which makes me want to shed my own clothes.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young females butt and anus, can include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_NMM_Exhibitionist_Female</defName>
+        <label>Abyssal Anus (Positive) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her magnificently open anus, proudly displayed, stirs my own desire to reveal myself, a delightful warmth spreading within me.</li>
+            <li>The raw, uninhibited beauty of {PAWN_nameShortPossessive} cavernous anus, presented so boldly, fills me with a powerful urge to show my own.</li>
+            <li>I revel in the sight of {PAWN_nameShortPossessive} wide, welcoming opening; it encourages my own exhibitionist spirit, and I feel a delicious tingling.</li>
+            <li>{PAWN_nameShortPossessive} generous posterior, openly showcasing {PAWN_possessive} deep anus, is a powerful statement, and I feel a shared sense of liberation.</li>
+            <li>The uninhibited display of {PAWN_nameShortPossessive} prominent anus makes my heart swell with confident admiration, and my own core aches for exposure.</li>
+            <li>Observing {PAWN_nameShortPossessive} wide-open anus, I feel a rush of exhilarating freedom, a testament to bold self-acceptance, inspiring my own openness.</li>
+            <li>The sheer visibility and accommodating nature of {PAWN_nameShortPossessive} anus, paired with {PAWN_possessive} proud stance, is truly captivating, igniting my own urge to bare all.</li>
+            <li>Her ample buttocks beautifully frame a deeply receptive anus, openly shared, creating a powerful connection and a potent sexual resonance in me.</li>
+            <li>What a glorious, public declaration! {PAWN_nameShortPossessive} cavernous anus, so boldly offered, is a magnificent sight, making me want to reveal everything.</li>
+            <li>The profound openness of {PAWN_nameShortPossessive} anus, readily on display, is a thrilling affirmation of raw beauty, and my body responds with a deep ache.</li>
+            <li>The inviting expanse of {PAWN_nameShortPossessive} anus, highlighted by {PAWN_possessive} magnificent buttocks, is a joy to behold and a potent trigger for my own desires.</li>
+            <li>I feel a profound admiration for {PAWN_nameShortPossessive} unashamed display of {PAWN_possessive} wide, yielding anus, inspiring me to be just as bold.</li>
+            <li>The captivating view of {PAWN_nameShortPossessive} generous anus, openly presented, reinforces my own exhibitionist spirit, and my core tingles with excitement.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an impressive, cavernous opening, boldly displayed, a perfect vision of liberated sensuality, stirring my own powerful urges to expose.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} large anus, framed by {PAWN_possessive} voluptuous curves, is exquisitely stimulating, making my vulva throb.</li>
+            <li>A truly spectacular sight! {PAWN_nameShortPossessive} full buttocks present a wonderfully large and accessible opening, meant to be seen, and I feel a powerful connection.</li>
+            <li>I couldn't help but admire the magnificent expanse of {PAWN_nameShortPossessive} anus, so confidently and beautifully exposed, it truly turns me on.</li>
+            <li>{PAWN_nameShortPossessive} generous and open posterior entrance, nestled between firm yet yielding cheeks, looks incredibly inviting and proud, prompting my own desire to expose.</li>
+            <li>The sheer size and relaxed appearance of {PAWN_nameShortPossessive} anus, framed by a beautifully rounded bottom, is quite enticing and bold, igniting a raw urge within me.</li>
+            <li>Observing {PAWN_nameShortPossessive} profound and welcoming orifice, I felt a deep appreciation for its natural beauty and confident readiness, and my own body responds with vigor.</li>
+            <li>{PAWN_nameShortPossessive} impressive, wide anus, perfectly complemented by a shapely derrière, speaks of great capacity and self-assuredness, inspiring me to reveal myself.</li>
+            <li>The captivating openness of {PAWN_nameShortPossessive} anus, set within smooth, inviting curves, is undeniably alluring and inspiring, making my own body yearn for exposure.</li>
+            <li>A truly spectacular sight, {PAWN_nameShortPossessive} full buttocks present a wonderfully large and accessible opening, inviting all eyes, and I feel an exhilarating rush.</li>
+            <li>{PAWN_nameShortPossessive} rear reveals a marvelously deep and receptive anus, promising endless delightful experiences, openly shared, and I feel a deep connection to her exhibition.</li>
+            <li>The audacious display of {PAWN_nameShortPossessive} cavernous anus and shapely buttocks is truly a breathtaking act of defiance and beauty, prompting my own exhibitionist desires.</li>
+            <li>I'm invigorated by the sight of {PAWN_nameShortPossessive} ample posterior, its wide, unashamed opening radiating confidence, and I feel a powerful surge of desire to expose myself.</li>
+            <li>The inviting depth of {PAWN_nameShortPossessive} anus, openly presented, ignites a profound sense of shared liberation, and my core stirs noticeably.</li>
+            <li>What an incredible spectacle! {PAWN_nameShortPossessive} buttocks perfectly frame a truly expansive and welcoming anus for all to see, and I feel an intense arousal.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} deep anus, coupled with {PAWN_possessive} confident posture, is absolutely magnetic, and I want to join her in her bold display.</li>
+            <li>I feel a powerful connection to {PAWN_nameShortPossessive} bold exhibition, especially that magnificent, open anus, which makes me want to shed my own clothes.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Nymphomaniac</defName>
+        <label>Abyssal Anus (Positive) trait Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The moment I saw {PAWN_nameShortPossessive} abyssal anus, my body ignited. I must experience its depths.</li>
+            <li>{PAWN_nameShortPossessive} butt's generous curves and that deep, inviting anus are driving me to an insatiable frenzy.</li>
+            <li>My gaze locks onto {PAWN_nameShortPossessive} perfect posterior and its abyssal, beckoning anus. I crave to delve inside.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} deep, dark anus, framed by {PAWN_possessive} magnificent butt, sets my very being alight.</li>
+            <li>I feel an overwhelming compulsion to thrust into {PAWN_nameShortPossessive} remarkable backside and its mysterious, deep opening.</li>
+            <li>{PAWN_nameShortPossessive} butt naturally presents {PAWN_possessive} abyssal anus, and I can feel my entire body responding with urgent desire.</li>
+            <li>I am utterly consumed by the profound depth and alluring darkness of {PAWN_nameShortPossessive} anus. I must have it now.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is a calling I cannot ignore. My lust takes hold.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, fills me with an intense, burning need.</li>
+            <li>I'm overcome by a primal urge for the intimate architecture of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, screams for my immediate attention and complete penetration.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} butt and its deep, dark anus makes me ache with an uncontrollable craving.</li>
+            <li>What a spectacular display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus. I'm trembling with desire.</li>
+            <li>My attention is fully arrested by {PAWN_nameShortPossessive} alluring backside and the profound, beautiful depths of {PAWN_possessive} anus. I need release.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a potent aphrodisiac, igniting my every nerve.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is truly enthralling. My body pulsates.</li>
+            <li>I find immense pleasure in simply imagining myself buried deep within the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus.</li>
+            <li>The sheer aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, drives me wild with lust.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a stunning view, and that deep, shadowy anus is simply irresistible. I need to be inside {PAWN_objective}.</li>
+            <li>A truly compelling sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus. I'm consumed.</li>
+            <li>I feel an overwhelming, desperate pull to simply claim the raw, natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is staggering. I'm ready to explode.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus is fueling my insatiable hunger for pleasure.</li>
+            <li>The subtle revelations of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide endless visual intrigue, and an urgent need for penetration.</li>
+            <li>I could lose myself completely in {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus. My desires are boundless.</li>
+            <li>The delightful symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is a nymphomaniac's ultimate fantasy.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a magnificent, discreet view that sets my body on fire.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to worship. My core aches.</li>
+            <li>My appreciation for the form is amplified to an unbearable degree by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus.</li>
+            <li>The unexpected exposure of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a stimulating discovery that demands full satisfaction.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Nymphomaniac_male</defName>
+        <label>Abyssal Anus (Positive) trait Nymphomaniac_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The moment I saw {PAWN_nameShortPossessive} abyssal anus, my cock instantly stiffened. I must experience its depths immediately.</li>
+            <li>{PAWN_nameShortPossessive} butt's generous curves and that deep, inviting anus are driving me to an insatiable, throbbing frenzy.</li>
+            <li>My gaze locks onto {PAWN_nameShortPossessive} perfect posterior and its abyssal, beckoning anus. My hard member demands to delve inside.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} deep, dark anus, framed by {PAWN_possessive} magnificent butt, sets my very being, and my cock, alight.</li>
+            <li>I feel an overwhelming compulsion to thrust into {PAWN_nameShortPossessive} remarkable backside and its mysterious, deep opening. My balls ache.</li>
+            <li>{PAWN_nameShortPossessive} butt naturally presents {PAWN_possessive} abyssal anus, and I can feel my entire body responding with urgent, demanding desire. My erection pulses.</li>
+            <li>I am utterly consumed by the profound depth and alluring darkness of {PAWN_nameShortPossessive} anus. I must have it now, and my cock agrees.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is a calling my throbbing member cannot ignore. My lust takes hold.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, fills me with an intense, burning need. My cock yearns.</li>
+            <li>I'm overcome by a primal urge for the intimate architecture of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt. My groin tightens.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, screams for my immediate attention and complete, forceful penetration.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} butt and its deep, dark anus makes my hard member ache with an uncontrollable craving.</li>
+            <li>What a spectacular display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus. I'm trembling with desire, my cock ready.</li>
+            <li>My attention is fully arrested by {PAWN_nameShortPossessive} alluring backside and the profound, beautiful depths of {PAWN_possessive} anus. I need release now.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a potent aphrodisiac, igniting every nerve and hardening my cock further.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is truly enthralling. My body pulsates, ready to plunge.</li>
+            <li>I find immense pleasure in simply imagining myself buried deep within the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus. My shaft throbs.</li>
+            <li>The sheer aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, drives me wild with lust. My erection is undeniable.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a stunning view, and that deep, shadowy anus is simply irresistible. I need to be inside {PAWN_objective} now.</li>
+            <li>A truly compelling sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus. I'm completely consumed, my cock rigid.</li>
+            <li>I feel an overwhelming, desperate pull to simply claim the raw, natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt. My groin aches.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is staggering. I'm ready to explode inside {PAWN_objective}.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus is fueling my insatiable hunger for pleasure, making my erection burn.</li>
+            <li>The subtle revelations of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide endless visual intrigue, and an urgent need for immediate penetration.</li>
+            <li>I could lose myself completely in {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus. My desires are boundless, and my cock demands satisfaction.</li>
+            <li>The delightful symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is a nymphomaniac's ultimate fantasy, making my cock quiver.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a magnificent, discreet view that sets my body and cock on fire.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to worship. My core aches with need.</li>
+            <li>My appreciation for the female form is amplified to an unbearable degree by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus. My erection is painful.</li>
+            <li>The unexpected exposure of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a stimulating discovery that demands full, immediate satisfaction from my cock.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Nymphomaniac_Female</defName>
+        <label>Abyssal Anus (Positive) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The moment I saw {PAWN_nameShortPossessive} abyssal anus, my core ignited. I must experience its depths, and my own wetness grows.</li>
+            <li>{PAWN_nameShortPossessive} butt's generous curves and that deep, inviting anus are driving me to an insatiable, throbbing frenzy. My inner thighs ache.</li>
+            <li>My gaze locks onto {PAWN_nameShortPossessive} perfect posterior and its abyssal, beckoning anus. My hungry core demands to delve inside.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} deep, dark anus, framed by {PAWN_possessive} magnificent butt, sets my very being, and my wetness, alight.</li>
+            <li>I feel an overwhelming compulsion to merge with {PAWN_nameShortPossessive} remarkable backside and its mysterious, deep opening. My sex pulsates.</li>
+            <li>{PAWN_nameShortPossessive} butt naturally presents {PAWN_possessive} abyssal anus, and I can feel my entire body responding with urgent, demanding desire. My clit tingles.</li>
+            <li>I am utterly consumed by the profound depth and alluring darkness of {PAWN_nameShortPossessive} anus. I must have it now, and my core agrees.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is a calling my throbbing sex cannot ignore. My lust takes hold.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, fills me with an intense, burning need. My womb yearns.</li>
+            <li>I'm overcome by a primal urge for the intimate architecture of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt. My sex aches.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, screams for my immediate attention and complete, merging penetration.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} butt and its deep, dark anus makes my wetness ache with an uncontrollable craving.</li>
+            <li>What a spectacular display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus. I'm trembling with desire, my core ready.</li>
+            <li>My attention is fully arrested by {PAWN_nameShortPossessive} alluring backside and the profound, beautiful depths of {PAWN_possessive} anus. I need release now.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a potent aphrodisiac, igniting every nerve and moistening my desire.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is truly enthralling. My body pulsates, ready for deeper pleasure.</li>
+            <li>I find immense pleasure in simply imagining myself buried deep within the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus. My clit throbs.</li>
+            <li>The sheer aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, drives me wild with lust. My arousal is undeniable.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a stunning view, and that deep, shadowy anus is simply irresistible. I need to be inside {PAWN_objective} now.</li>
+            <li>A truly compelling sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus. I'm completely consumed, my core alive.</li>
+            <li>I feel an overwhelming, desperate pull to simply claim the raw, natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt. My groin aches.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is staggering. I'm ready to explode with {PAWN_objective}.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus is fueling my insatiable hunger for pleasure, making my wetness burn.</li>
+            <li>The subtle revelations of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide endless visual intrigue, and an urgent need for intimate connection.</li>
+            <li>I could lose myself completely in {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus. My desires are boundless, and my sex demands satisfaction.</li>
+            <li>The delightful symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is a nymphomaniac's ultimate fantasy, making my core quiver.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a magnificent, discreet view that sets my body and sex on fire.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to worship. My core aches with need.</li>
+            <li>My appreciation for the female form is amplified to an unbearable degree by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus. My wetness is overwhelming.</li>
+            <li>The unexpected exposure of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a stimulating discovery that demands full, immediate satisfaction.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Kind</defName>
+        <label>Abyssal Anus (Positive) trait Kind</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} gentle butt, is a rather striking and unique part of {PAWN_possessive} charming form.</li>
+            <li>The way {PAWN_nameShortPossessive} butt gracefully presents {PAWN_possessive} deep, inviting anus is quite noteworthy and rather appealing.</li>
+            <li>I observe {PAWN_nameShortPossessive} perfectly formed butt and its abyssal, visible anus with a sense of quiet admiration for {PAWN_possessive} natural beauty.</li>
+            <li>What a remarkably deep and interesting anus {PAWN_nameShort} possesses, beautifully framed by {PAWN_possessive} well-rounded butt.</li>
+            <li>{PAWN_nameShortPossessive} soft, ample backside, with that mysterious, deep opening, adds a lovely, distinctive touch to {PAWN_possessive} overall appearance.</li>
+            <li>The gentle curve of {PAWN_nameShortPossessive} butt, leading to {PAWN_possessive} abyssal anus, is surprisingly captivating in its own way.</li>
+            <li>There's a subtle charm in the profound depth and inviting darkness of {PAWN_nameShortPossessive} anus, set within {PAWN_possessive} appealing butt.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is quite a pleasant and interesting feature of {PAWN_possessive} physique.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, is rather endearing and unique.</li>
+            <li>I find the intimate structure of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt, to be quite a delicate detail.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, holds a quiet beauty that is quite engaging to observe.</li>
+            <li>The gentle presence of {PAWN_nameShortPossessive} butt and its deep, dark anus is a distinctive element that adds to {PAWN_possessive} unique charm.</li>
+            <li>What a pleasant display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus. Quite intriguing.</li>
+            <li>My attention is drawn to {PAWN_nameShortPossessive} alluring backside and the profound, appealing depths of {PAWN_possessive} anus.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a lovely, understated part of {PAWN_possessive} form.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is rather intriguing and sweet.</li>
+            <li>I find a gentle appreciation in observing the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus.</li>
+            <li>The calm aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, is rather peacefully captivating.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a pleasant view, and that deep, shadowy anus is simply an interesting feature to notice.</li>
+            <li>A rather harmonious sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus.</li>
+            <li>I feel a soft appreciation for the natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt.</li>
+            <li>The visual impression of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is quite subtle yet appealing.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus contributes to {PAWN_possessive} overall unique and gentle appearance.</li>
+            <li>The graceful lines of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide a quiet, understated beauty.</li>
+            <li>I could gently observe {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus, appreciating its unique details.</li>
+            <li>The delicate symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is rather charming.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a pleasant and discreet view.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to admire with gentle regard.</li>
+            <li>My appreciation for the form is pleasantly enhanced by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus.</li>
+            <li>The quiet presence of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a subtle and interesting detail.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Prude</defName>
+        <label>Abyssal Anus (Positive) trait Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Alright, {PAWN_nameShortPossessive} abyssal anus is... certainly there. A bit much, but undeniably a feature.</li>
+            <li>That butt, and that abyssal anus on {PAWN_nameShort}. It's quite pronounced. Can't deny it exists.</li>
+            <li>{PAWN_nameShortPossessive} butt presents {PAWN_possessive} anus rather boldly. One certainly cannot miss it.</li>
+            <li>The deepness of {PAWN_nameShortPossessive} anus is, well, deep. Not exactly subtle, is it?</li>
+            <li>Such an overt display of {PAWN_nameShortPossessive} posterior and its visible anus. Hard to ignore.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus is... extensive. Quite a statement.</li>
+            <li>I suppose {PAWN_nameShortPossessive} butt is ample, and that anus is certainly present. Moving on.</li>
+            <li>A very prominent anus on {PAWN_nameShort}. One might say, remarkably abyssal.</li>
+            <li>{PAWN_nameShortPossessive} backside offers a full view, including a distinctly visible and deep anus.</li>
+            <li>That anus on {PAWN_nameShort} is quite abyssal. It's... certainly something.</li>
+            <li>The sheer visibility of {PAWN_nameShortPossessive} anus within {PAWN_possessive} butt is… unavoidable.</li>
+            <li>One notices {PAWN_nameShortPossessive} abyssal anus immediately. It's quite obvious.</li>
+            <li>The depth of {PAWN_nameShortPossessive} anus is rather remarkable. A definitive feature.</li>
+            <li>{PAWN_nameShortPossessive} butt and its anus are certainly on display. No subtlety there.</li>
+            <li>That abyssal anus on {PAWN_nameShort} is, shall we say, profoundly expressed.</li>
+            <li>There's no mistaking {PAWN_nameShortPossessive} abyssal anus. It's quite distinct.</li>
+            <li>{PAWN_nameShortPossessive} butt is full, and the anus is undeniably deep. That much is clear.</li>
+            <li>The prominence of {PAWN_nameShortPossessive} anus is... something to behold, I suppose.</li>
+            <li>I've observed {PAWN_nameShortPossessive} butt and its abyssal anus. It's there.</li>
+            <li>The depth of {PAWN_nameShortPossessive} anus is... significant. Hard to overlook.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus makes quite the impression. A bold statement.</li>
+            <li>Yes, {PAWN_nameShortPossessive} butt is visible, and so is {PAWN_possessive} rather abyssal anus.</li>
+            <li>That anus is quite deep on {PAWN_nameShort}. Very much so.</li>
+            <li>{PAWN_nameShortPossessive} butt and its abyssal anus are certainly exposed. Quite revealing.</li>
+            <li>One could say {PAWN_nameShortPossessive} anus is exceptionally deep. No denying that.</li>
+            <li>The abyssal nature of {PAWN_nameShortPossessive} anus is hard to miss. Extremely so.</li>
+            <li>{PAWN_nameShortPossessive} butt is there, and {PAWN_possessive} anus is quite deep. Remarkable.</li>
+            <li>I have noted {PAWN_nameShortPossessive} abyssal anus. It stands out.</li>
+            <li>The depth of {PAWN_nameShortPossessive} anus is frankly, quite profound.</li>
+            <li>{PAWN_nameShortPossessive} butt reveals a very, very abyssal anus. It's... prominent.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Elder Male observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_Elderly_Male_opinion_Male</defName>
+        <label>Abyssal Anus (Positive)_Elderly_Male_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The robust form of {PAWN_nameShortPossessive} butt, and the deep, strong presence of {PAWN_possessive} anus. A fine masculine build.</li>
+            <li>{PAWN_nameShortPossessive} broad posterior, with an anus so well-defined and deep, speaks of strength and resilience. Quite admirable.</li>
+            <li>A truly solid backside on {PAWN_nameShort}, crowned by an abyssal, potent anus. A testament to masculine vigor.</li>
+            <li>The strong curve of {PAWN_nameShortPossessive} buttocks, culminating in that deep, powerful aperture, commands a respectful gaze.</li>
+            <li>{PAWN_nameShortPossessive} firm, well-built rear and its abyssal, welcoming opening are a symbol of healthy male form.</li>
+            <li>Behold, the solid depths of {PAWN_nameShortPossessive} anus, nestled within a powerfully sculpted buttock. A strong vision.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, masculine backside and its deep, dark aperture is quite imposing. A true marvel.</li>
+            <li>The impressive fullness of {PAWN_nameShortPossessive} gluteal curve, and that subtly visible, deep anus, speaks volumes of endurance.</li>
+            <li>{PAWN_nameShortPossessive} shapely backside, so strong and firm, with an anus that promises profound, masculine experiences.</li>
+            <li>An excellent specimen: {PAWN_nameShortPossessive} round, powerful butt and its profoundly deep, captivating anus. A grand sight.</li>
+            <li>I observe {PAWN_nameShortPossessive} strong, rounded posterior and its deep, shadowed anus with a knowing gaze; a delightful prospect.</li>
+            <li>The solid, sturdy form of {PAWN_nameShortPossessive} buttocks, leading to that abyssal, tempting opening, reminds me of true strength.</li>
+            <li>{PAWN_nameShortPossessive} strong figure, accentuated by a firm, impressive backside and a deeply visible anus, is undeniably striking.</li>
+            <li>Such a powerful curve on {PAWN_nameShortPossessive} posterior, leading to a surprisingly vast and inviting anus. A truly splendid form.</li>
+            <li>The deep, dark allure of {PAWN_nameShortPossessive} anus, set within a perfectly robust butt, is a sight that commands respect.</li>
+            <li>I appreciate the exquisite contours of {PAWN_nameShortPossessive} strong butt and the deep, mysterious allure of {PAWN_possessive} abyssal anus.</li>
+            <li>The way {PAWN_nameShortPossessive} strong backside rounds out, revealing that deep, shadowed opening, is quite impressive. A fine display.</li>
+            <li>{PAWN_nameShortPossessive} powerful posterior and its deeply recessed, inviting anus are a truly delightful vision of masculine might.</li>
+            <li>The robust and supple form of {PAWN_nameShortPossessive} buttocks, with an anus hinting at rich, deep experiences, is truly admirable.</li>
+            <li>What a fine, masculine derrière {PAWN_nameShort} possesses, with an abyssal anus that holds such profound promise.</li>
+            <li>I gaze upon {PAWN_nameShortPossessive} full, strong bottom and its deep, inviting anus, a testament to enduring power.</li>
+            <li>The sight of {PAWN_nameShortPossessive} shapely, strong backside and its mysterious, deep anus evokes a sense of deep appreciation.</li>
+            <li>{PAWN_nameShortPossessive} strong, firm buttocks, perfectly framing an abyssal anus, are a picture of exquisite natural strength.</li>
+            <li>That deeply set, captivating anus within {PAWN_nameShortPossessive} wonderfully rounded, strong butt is quite a magnificent sight.</li>
+            <li>The alluring depths of {PAWN_nameShortPossessive} anus, embraced by {PAWN_possessive} firm and strong butt, are truly a delightful view.</li>
+            <li>{PAWN_nameShortPossessive} strong backside, so full and inviting, with an abyssal opening that beckons with silent promise.</li>
+            <li>I observe the elegant curve of {PAWN_nameShortPossessive} butt and the profound depth of {PAWN_possessive} anus; a truly splendid formation.</li>
+            <li>The deep, inviting darkness of {PAWN_nameShortPossessive} anus, set against {PAWN_possessive} firm, strong buttocks, is truly captivating.</li>
+            <li>{PAWN_nameShortPossessive} perfectly sculpted, strong posterior, graced by an abyssal, alluring anus, is a sight of pure aesthetic pleasure.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes males butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_Elderly_Male_voyer_opinion_Male</defName>
+        <label>Abyssal Anus (Positive)_Elderly_Male_voyer_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ah, {PAWN_nameShortPossessive} robust backside, and that abyssal anus. It's a true feast for my discerning eyes, stirring old desires. My cock twitches.</li>
+            <li>The generous curve of {PAWN_nameShortPossessive} firm butt, with its deep, dark, and utterly beckoning anus, is a sight that quickens my pulse.</li>
+            <li>{PAWN_nameShortPossessive} solid, well-built bottom and its profoundly deep, visible anus ignite a familiar warmth in my loins. Simply exquisite.</li>
+            <li>A truly provocative sight: {PAWN_nameShortPossessive} powerful posterior, crowned by an abyssal, inviting anus. My old friend stirs.</li>
+            <li>The robust curve of {PAWN_nameShortPossessive} masculine buttocks, culminating in that deep, promising aperture, sends a shiver down my spine.</li>
+            <li>{PAWN_nameShortPossessive} firm, inviting rear and its abyssal, welcoming opening are simply a masterpiece. My member stirs in anticipation.</li>
+            <li>Behold, the alluring depths of {PAWN_nameShortPossessive} anus, nestled within a powerfully sculpted buttock. My old cock awakens.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, masculine backside and its deep, dark aperture is quite captivating. My desire swells.</li>
+            <li>The impressive fullness of {PAWN_nameShortPossessive} gluteal curve, and that subtly visible, deep anus, speaks volumes of unbridled pleasure.</li>
+            <li>{PAWN_nameShortPossessive} shapely backside, so strong and inviting, with an anus that promises endless exploration. My cock hardens.</li>
+            <li>An exquisite specimen: {PAWN_nameShortPossessive} round, full butt and its profoundly deep, captivating anus. I'm ready to plunge.</li>
+            <li>I observe {PAWN_nameShortPossessive} strong, rounded posterior and its deep, shadowed anus with a hungry gaze; a delightful prospect. My groin tingles.</li>
+            <li>The solid, plump form of {PAWN_nameShortPossessive} buttocks, leading to that abyssal, tempting opening, excites me deeply.</li>
+            <li>{PAWN_nameShortPossessive} strong figure, accentuated by a firm, inviting backside and a deeply visible anus, is undeniably arousing.</li>
+            <li>Such a captivating curve on {PAWN_nameShortPossessive} posterior, leading to a surprisingly vast and inviting anus. My erection responds.</li>
+            <li>The deep, dark allure of {PAWN_nameShortPossessive} anus, set within a perfectly plump butt, is a sight that makes me ache.</li>
+            <li>I appreciate the exquisite contours of {PAWN_nameShortPossessive} strong butt and the deep, mysterious allure of {PAWN_possessive} abyssal anus. My shaft throbs.</li>
+            <li>The way {PAWN_nameShortPossessive} masculine backside rounds out, revealing that deep, shadowed opening, is quite enchanting. My desire is palpable.</li>
+            <li>{PAWN_nameShortPossessive} powerful posterior and its deeply recessed, inviting anus are a truly delightful vision. My member yearns.</li>
+            <li>The robust and supple form of {PAWN_nameShortPossessive} buttocks, with an anus hinting at rich, deep experiences, is truly stimulating.</li>
+            <li>What a fine, masculine derrière {PAWN_nameShort} possesses, with an abyssal anus that holds such profound promise. My balls tighten.</li>
+            <li>I gaze upon {PAWN_nameShortPossessive} full, strong bottom and its deep, inviting anus, a testament to enduring beauty. I'm ready to claim it.</li>
+            <li>The sight of {PAWN_nameShortPossessive} shapely, strong backside and its mysterious, deep anus evokes a powerful urge to possess {PAWN_objective}.</li>
+            <li>{PAWN_nameShortPossessive} strong, firm buttocks, perfectly framing an abyssal anus, are a picture of exquisite natural temptation. I must have it.</li>
+            <li>That deeply set, captivating anus within {PAWN_nameShortPossessive} wonderfully rounded, strong butt is quite a magnificent sight. It awakens me.</li>
+            <li>The alluring depths of {PAWN_nameShortPossessive} anus, embraced by {PAWN_possessive} firm and strong butt, are truly a delightful view. My cock stands to attention.</li>
+            <li>{PAWN_nameShortPossessive} masculine backside, so full and inviting, with an abyssal opening that beckons with silent promise. My body responds.</li>
+            <li>I observe the elegant curve of {PAWN_nameShortPossessive} butt and the profound depth of {PAWN_possessive} anus; a truly splendid formation, igniting my primal urges.</li>
+            <li>The deep, inviting darkness of {PAWN_nameShortPossessive} anus, set against {PAWN_possessive} firm, strong buttocks, is truly captivating. My groin aches.</li>
+            <li>{PAWN_nameShortPossessive} perfectly sculpted, strong posterior, graced by an abyssal, alluring anus, is a sight of pure carnal desire.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_Elderly_Female_opinion_Male</defName>
+        <label>Abyssal Anus (Positive)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature, strong bottom is so wonderfully rounded, with an anus so perfectly deep. Such a fine sight to behold.</li>
+            <li>The elegant curve of {PAWN_nameShortPossessive} powerful butt, and that deep, enticing anus; it’s a picture of masculine vitality.</li>
+            <li>{PAWN_nameShortPossessive} firm, well-built posterior, with an abyssal and inviting anus, truly embodies enduring strength. So admirable.</li>
+            <li>What a robust sight: {PAWN_nameShortPossessive} luscious backside, crowned by a deep, dark, and utterly captivating anus.</li>
+            <li>The strong fullness of {PAWN_nameShortPossessive} masculine buttocks, culminating in that deep, promising aperture, is truly impressive.</li>
+            <li>{PAWN_nameShortPossessive} solid, inviting rear and its abyssal, welcoming opening are a testament to natural masculine form.</li>
+            <li>Behold, the alluring depths of {PAWN_nameShortPossessive} anus, perfectly nestled within {PAWN_possessive} sculpted buttock.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, masculine backside and its deep, dark aperture is quite enchanting. A marvel of nature.</li>
+            <li>The impressive roundness of {PAWN_nameShortPossessive} gluteal curve, and that subtly visible, deep anus, speaks volumes of enduring power.</li>
+            <li>{PAWN_nameShortPossessive} shapely backside, so strong and inviting, with an anus that suggests ample experience. A fascinating view.</li>
+            <li>An exquisite specimen: {PAWN_nameShortPossessive} round, full butt and its profoundly deep, captivating anus. So well-formed.</li>
+            <li>I observe {PAWN_nameShortPossessive} strong, rounded posterior and its deep, shadowed anus with gentle admiration; a truly powerful form.</li>
+            <li>The solid, plump form of {PAWN_nameShortPossessive} buttocks, leading to that abyssal, tempting opening, is simply striking.</li>
+            <li>{PAWN_nameShortPossessive} strong figure, accentuated by a firm, impressive backside and a deeply visible anus, is undeniably striking.</li>
+            <li>Such a captivating curve on {PAWN_nameShortPossessive} posterior, leading to a surprisingly vast and inviting anus. A truly splendid form.</li>
+            <li>The deep, dark allure of {PAWN_nameShortPossessive} anus, set within a perfectly plump butt, is a sight that radiates robust beauty.</li>
+            <li>I appreciate the exquisite contours of {PAWN_nameShortPossessive} strong butt and the deep, mysterious allure of {PAWN_possessive} abyssal anus.</li>
+            <li>The way {PAWN_nameShortPossessive} masculine backside rounds out, revealing that deep, shadowed opening, is quite impressive. A truly admirable form.</li>
+            <li>{PAWN_nameShortPossessive} powerful posterior and its deeply recessed, inviting anus are a truly delightful vision of enduring masculine charm.</li>
+            <li>The robust and supple form of {PAWN_nameShortPossessive} buttocks, with an anus hinting at rich, deep experiences, is truly admirable.</li>
+            <li>What a fine, masculine derrière {PAWN_nameShort} possesses, with an abyssal anus that holds such profound promise.</li>
+            <li>I gaze upon {PAWN_nameShortPossessive} full, strong bottom and its deep, inviting anus, a testament to enduring strength.</li>
+            <li>The sight of {PAWN_nameShortPossessive} shapely, strong backside and its mysterious, deep anus evokes a sense of deep appreciation.</li>
+            <li>{PAWN_nameShortPossessive} strong, firm buttocks, perfectly framing an abyssal anus, are a picture of exquisite natural power.</li>
+            <li>That deeply set, captivating anus within {PAWN_nameShortPossessive} wonderfully rounded, strong butt is quite a magnificent sight.</li>
+            <li>The alluring depths of {PAWN_nameShortPossessive} anus, embraced by {PAWN_possessive} firm and strong butt, are truly a delightful view.</li>
+            <li>{PAWN_nameShortPossessive} strong backside, so full and inviting, with an abyssal opening that beckons with silent promise.</li>
+            <li>I observe the elegant curve of {PAWN_nameShortPossessive} butt and the profound depth of {PAWN_possessive} anus; a truly splendid formation.</li>
+            <li>The deep, inviting darkness of {PAWN_nameShortPossessive} anus, set against {PAWN_possessive} firm, strong buttocks, is truly captivating.</li>
+            <li>{PAWN_nameShortPossessive} perfectly sculpted, strong posterior, graced by an abyssal, alluring anus, is a sight of pure aesthetic pleasure.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male observes males butt and anus, more based on solidarity-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MaleOpinion_Male</defName>
+        <label>Abyssal Anus (Positive)_MaleOpinion_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Solid build on {PAWN_nameShortPossessive} butt, and that deep anus... Respectable.</li>
+            <li>{PAWN_nameShortPossessive} ass has a good, strong shape, and the anus looks deep. A sturdy sight.</li>
+            <li>That's a firm, well-defined butt on {PAWN_nameShort}, with a proper abyssal anus. Good form.</li>
+            <li>The power in {PAWN_nameShortPossessive} butt, and that deep, solid anus. It’s got a good foundation.</li>
+            <li>Seeing {PAWN_nameShortPossessive} broad backside and its abyssal, firm anus, I appreciate the strength.</li>
+            <li>{PAWN_nameShortPossessive} butt, with that deep, robust opening, speaks of undeniable resilience.</li>
+            <li>A man's butt should have substance, and {PAWN_nameShortPossessive} certainly does, with a fittingly deep anus.</li>
+            <li>The strong swell of {PAWN_nameShortPossessive} ass, and the promise held within {PAWN_possessive} deep, shadowy anus, is commendable.</li>
+            <li>{PAWN_nameShortPossessive} solid bottom and its deeply visible, firm anus show character.</li>
+            <li>A well-formed rear on {PAWN_nameShort}, and that abyssal, welcoming opening looks dependable.</li>
+            <li>That's a man's butt on {PAWN_nameShort}, with a deep, dark anus. Built to last.</li>
+            <li>I can see the strength in {PAWN_nameShortPossessive} firm butt and its profound, captivating anus.</li>
+            <li>The way {PAWN_nameShortPossessive} powerfully shaped butt presents that deep, dark, and solid anus is impressive.</li>
+            <li>{PAWN_nameShortPossessive} sturdy backside, with an anus that seems to promise enduring capability, is quite admirable.</li>
+            <li>I recognize the solid presence of {PAWN_nameShortPossessive} ample rear and its abyssal, inviting opening. Well-built.</li>
+            <li>{PAWN_nameShortPossessive} strong, sensual butt, and that deep, robust anus, speaks of masculine power.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded, firm buttocks and that profound, mysterious anus evokes a sense of shared strength.</li>
+            <li>Just one look at {PAWN_nameShortPossessive} full ass and its deep, dark aperture, and I respect the solid build.</li>
+            <li>{PAWN_nameShortPossessive} resilient backside, with an anus that appears so capable and strong, is a good sight.</li>
+            <li>That strong butt on {PAWN_nameShort}, and the inviting depths of {PAWN_possessive} abyssal anus, are well-proportioned.</li>
+            <li>I appreciate the sight of {PAWN_nameShortPossessive} magnificent posterior and its deep, beckoning anus. Good work.</li>
+            <li>{PAWN_nameShortPossessive} solid, powerful ass, and that truly abyssal anus, are built for purpose.</li>
+            <li>The sheer practicality of {PAWN_nameShortPossessive} butt's form, and the alluring depth of {PAWN_possessive} anus, is clear.</li>
+            <li>I can respect the powerful presence of {PAWN_nameShortPossessive} firm buttocks and that profoundly deep, captivating anus.</li>
+            <li>My gaze is drawn to {PAWN_nameShortPossessive} shapely backside and the dark, mysterious promise of {PAWN_possessive} abyssal anus. Solid.</li>
+            <li>{PAWN_nameShortPossessive} incredibly firm butt, with an anus that just looks dependable, is pure masculine strength.</li>
+            <li>The way {PAWN_nameShortPossessive} ass curves, highlighting that deep, alluring opening, is well-defined.</li>
+            <li>I feel an undeniable appreciation towards {PAWN_nameShortPossessive} firm posterior and its profoundly deep, captivating anus.</li>
+            <li>{PAWN_nameShortPossessive} robust butt, and that abyssal, open anus, shows a strong, reliable physique.</li>
+            <li>That deep, dark, and utterly dependable anus, framed by {PAWN_nameShortPossessive} perfect buttocks, is a sight to commend.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer male observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Voyeur_Male_to_Male</defName>
+        <label>Abyssal Anus (Positive) trait Voyeur_Male_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden sight of {PAWN_nameShortPossessive} abyssal anus is an unexpected delight, stirring my cock. Truly mesmerizing.</li>
+            <li>{PAWN_nameShortPossessive} butt's alluring shape, with that deep, inviting anus, offers a tantalizing spectacle for my appreciative, hardening gaze.</li>
+            <li>Observing {PAWN_nameShortPossessive} perfectly formed butt and its abyssal, visible anus is a profound visual pleasure, making my cock throb.</li>
+            <li>A sudden glimpse of {PAWN_nameShortPossessive} deep, dark anus, framed by {PAWN_possessive} beautiful butt, is an absolute feast, and my member responds.</li>
+            <li>My eyes are drawn to {PAWN_nameShortPossessive} remarkable backside and its mysterious, deep opening. It sends shivers down my spine, igniting desire.</li>
+            <li>The way {PAWN_nameShortPossessive} butt naturally presents {PAWN_possessive} abyssal anus is incredibly stimulating; a silent invitation that makes me ache.</li>
+            <li>I find myself entranced by the profound depth and alluring darkness of {PAWN_nameShortPossessive} anus, causing my penis to stiffen. A true spectacle.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is a masterpiece of form that demands further observation and my cock's attention.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, is immensely gratifying. My shaft pulses.</li>
+            <li>I am utterly captivated by the intimate architecture of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt, and my loins burn.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, offers an endless canvas for my appreciative, aroused gaze.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} butt and its deep, dark anus is a powerful draw for my voyeuristic nature, making me hard.</li>
+            <li>What a spectacular display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus. My desire swells.</li>
+            <li>My attention is fully arrested by {PAWN_nameShortPossessive} alluring backside and the profound, beautiful depths of {PAWN_possessive} anus. My cock stiffens.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a true work of art to observe, and my member responds.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is truly enthralling. My body yearns.</li>
+            <li>I find immense pleasure in silently observing the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus. My erection grows.</li>
+            <li>The sheer aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, is captivating. My balls tighten.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a stunning view, and that deep, shadowy anus is simply irresistible to my gaze, filling me with lust.</li>
+            <li>A truly compelling sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus. I want to touch.</li>
+            <li>I feel a strong pull to simply witness the raw, natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt. My groin aches.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is remarkable. My desires surge.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus is fascinating to my discerning, appreciative, and very aroused eyes.</li>
+            <li>The subtle revelations of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide endless visual intrigue, and a powerful urge to claim.</li>
+            <li>I could gaze upon {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus for hours, lost in its beauty, and my throbbing cock.</li>
+            <li>The delightful symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is a voyeur's dream. My pants grow tight.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a magnificent, discreet view. I'm utterly captivated.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to cherish. My arousal peaks.</li>
+            <li>My appreciation for the male form is amplified by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus. My member twitches.</li>
+            <li>The unexpected exposure of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a stimulating discovery that makes me pulsate.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Voyeur_Female_to_Male</defName>
+        <label>Abyssal Anus (Positive) trait Voyeur_Female_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden sight of {PAWN_nameShortPossessive} abyssal anus is an unexpected delight, truly a captivating and stimulating view. My own core tingles.</li>
+            <li>{PAWN_nameShortPossessive} butt's alluring shape, with that deep, inviting anus, offers a tantalizing spectacle for my appreciative gaze. A warmth spreads through me.</li>
+            <li>Observing {PAWN_nameShortPossessive} perfectly formed butt and its abyssal, visible anus is a profound visual pleasure. Utterly enchanting, and my desires stir.</li>
+            <li>A sudden glimpse of {PAWN_nameShortPossessive} deep, dark anus, framed by {PAWN_possessive} beautiful butt, is an absolute visual feast. I feel a flush.</li>
+            <li>My eyes are drawn to {PAWN_nameShortPossessive} remarkable backside and its mysterious, deep opening. It truly excites my senses.</li>
+            <li>The way {PAWN_nameShortPossessive} butt naturally presents {PAWN_possessive} abyssal anus is incredibly stimulating; a silent invitation that makes me yearn.</li>
+            <li>I find myself entranced by the profound depth and alluring darkness of {PAWN_nameShortPossessive} anus. A true spectacle that stirs my core.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is a masterpiece of form that demands further observation. My desires heighten.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, is immensely gratifying. A delightful stir.</li>
+            <li>I am utterly captivated by the intimate architecture of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt, igniting my curiosity.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, offers an endless canvas for my appreciative, aroused gaze.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} butt and its deep, dark anus is a powerful draw for my voyeuristic nature, quickening my breath.</li>
+            <li>What a spectacular display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus. My body hums.</li>
+            <li>My attention is fully arrested by {PAWN_nameShortPossessive} alluring backside and the profound, beautiful depths of {PAWN_possessive} anus. A sensual pleasure.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a true work of art to observe, stirring my own intimate urges.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is truly enthralling. My desire blossoms.</li>
+            <li>I find immense pleasure in silently observing the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus. A deep, sensual resonance.</li>
+            <li>The sheer aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, is captivating. My arousal builds subtly.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a stunning view, and that deep, shadowy anus is simply irresistible to my gaze, filling me with a gentle warmth.</li>
+            <li>A truly compelling sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus. I feel a connection.</li>
+            <li>I feel a strong pull to simply witness the raw, natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt. It awakens something within.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is remarkable. My core softens.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus is fascinating to my discerning, appreciative, and subtly aroused eyes.</li>
+            <li>The subtle revelations of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide endless visual intrigue, arousing my own intimate thoughts.</li>
+            <li>I could gaze upon {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus for hours, lost in its beauty and my own rising desire.</li>
+            <li>The delightful symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is a voyeur's dream. A subtle throb begins.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a magnificent, discreet view. I feel a delicious anticipation.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to cherish. My body feels lighter.</li>
+            <li>My appreciation for the male form is amplified by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus. A deep, sensual hum.</li>
+            <li>The unexpected exposure of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a stimulating discovery that leaves me wanting more.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Male Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Nymphomaniac_male_to_male</defName>
+        <label>Abyssal Anus (Positive) trait Nymphomaniac_male_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+				
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The moment I saw {PAWN_nameShortPossessive} abyssal anus, my cock instantly stiffened. I must experience its depths immediately.</li>
+            <li>{PAWN_nameShortPossessive} butt's generous curves and that deep, inviting anus are driving me to an insatiable, throbbing frenzy.</li>
+            <li>My gaze locks onto {PAWN_nameShortPossessive} perfect posterior and its abyssal, beckoning anus. My hard member demands to delve inside.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} deep, dark anus, framed by {PAWN_possessive} magnificent butt, sets my very being, and my cock, alight.</li>
+            <li>I feel an overwhelming compulsion to thrust into {PAWN_nameShortPossessive} remarkable backside and its mysterious, deep opening. My balls ache.</li>
+            <li>{PAWN_nameShortPossessive} butt naturally presents {PAWN_possessive} abyssal anus, and I can feel my entire body responding with urgent, demanding desire. My erection pulses.</li>
+            <li>I am utterly consumed by the profound depth and alluring darkness of {PAWN_nameShortPossessive} anus. I must have it now, and my cock agrees.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is a calling my throbbing member cannot ignore. My lust takes hold.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, fills me with an intense, burning need. My cock yearns.</li>
+            <li>I'm overcome by a primal urge for the intimate architecture of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt. My groin tightens.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, screams for my immediate attention and complete, forceful penetration.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} butt and its deep, dark anus makes my hard member ache with an uncontrollable craving.</li>
+            <li>What a spectacular display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus. I'm trembling with desire, my cock ready.</li>
+            <li>My attention is fully arrested by {PAWN_nameShortPossessive} alluring backside and the profound, beautiful depths of {PAWN_possessive} anus. I need release now.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a potent aphrodisiac, igniting every nerve and hardening my cock further.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is truly enthralling. My body pulsates, ready to plunge.</li>
+            <li>I find immense pleasure in simply imagining myself buried deep within the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus. My shaft throbs.</li>
+            <li>The sheer aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, drives me wild with lust. My erection is undeniable.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a stunning view, and that deep, shadowy anus is simply irresistible. I need to be inside {PAWN_objective} now.</li>
+            <li>A truly compelling sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus. I'm completely consumed, my cock rigid.</li>
+            <li>I feel an overwhelming, desperate pull to simply claim the raw, natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt. My groin aches.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is staggering. I'm ready to explode inside {PAWN_objective}.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus is fueling my insatiable hunger for pleasure, making my erection burn.</li>
+            <li>The subtle revelations of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide endless visual intrigue, and an urgent need for immediate penetration.</li>
+            <li>I could lose myself completely in {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus. My desires are boundless, and my cock demands satisfaction.</li>
+            <li>The delightful symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is a nymphomaniac's ultimate fantasy, making my cock quiver.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a magnificent, discreet view that sets my body and cock on fire.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to worship. My core aches with need.</li>
+            <li>My appreciation for the male form is amplified to an unbearable degree by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus. My erection is painful.</li>
+            <li>The unexpected exposure of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a stimulating discovery that demands full, immediate satisfaction from my cock.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_trait_Nymphomaniac_Female_to_male</defName>
+        <label>Abyssal Anus (Positive) trait Nymphomaniac_Female_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The moment I saw {PAWN_nameShortPossessive} abyssal anus, my core ignited. I must experience its depths, and my own wetness grows.</li>
+            <li>{PAWN_nameShortPossessive} butt's generous curves and that deep, inviting anus are driving me to an insatiable, throbbing frenzy. My inner thighs ache.</li>
+            <li>My gaze locks onto {PAWN_nameShortPossessive} perfect posterior and its abyssal, beckoning anus. My hungry core demands to delve inside.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} deep, dark anus, framed by {PAWN_possessive} magnificent butt, sets my very being, and my wetness, alight.</li>
+            <li>I feel an overwhelming compulsion to merge with {PAWN_nameShortPossessive} remarkable backside and its mysterious, deep opening. My sex pulsates.</li>
+            <li>{PAWN_nameShortPossessive} butt naturally presents {PAWN_possessive} abyssal anus, and I can feel my entire body responding with urgent, demanding desire. My clit tingles.</li>
+            <li>I am utterly consumed by the profound depth and alluring darkness of {PAWN_nameShortPossessive} anus. I must have it now, and my core agrees.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its deep, welcoming aperture, is a calling my throbbing sex cannot ignore. My lust takes hold.</li>
+            <li>The sight of {PAWN_nameShortPossessive} rounded posterior, revealing that abyssal, captivating anus, fills me with an intense, burning need. My womb yearns.</li>
+            <li>I'm overcome by a primal urge for the intimate architecture of {PAWN_nameShortPossessive} anus, nestled within {PAWN_possessive} exquisite butt. My sex aches.</li>
+            <li>{PAWN_nameShortPossessive} abyssal anus, framed by such a well-formed butt, screams for my immediate attention and complete, merging penetration.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} butt and its deep, dark anus makes my wetness ache with an uncontrollable craving.</li>
+            <li>What a spectacular display: {PAWN_nameShortPossessive} perfectly shaped butt and its mysteriously inviting, abyssal anus. I'm trembling with desire, my core ready.</li>
+            <li>My attention is fully arrested by {PAWN_nameShortPossessive} alluring backside and the profound, beautiful depths of {PAWN_possessive} anus. I need release now.</li>
+            <li>{PAWN_nameShortPossessive} natural curves, culminating in that deep, tantalizing anus, are a potent aphrodisiac, igniting every nerve and moistening my desire.</li>
+            <li>The visible promise held within {PAWN_nameShortPossessive} abyssal anus, nestled in {PAWN_possessive} delightful butt, is truly enthralling. My body pulsates, ready for deeper pleasure.</li>
+            <li>I find immense pleasure in simply imagining myself buried deep within the exquisite form of {PAWN_nameShortPossessive} butt and its deep, inviting anus. My clit throbs.</li>
+            <li>The sheer aesthetic of {PAWN_nameShortPossessive} posterior, particularly the abyssal depth of {PAWN_possessive} anus, drives me wild with lust. My arousal is undeniable.</li>
+            <li>{PAWN_nameShortPossessive} butt offers a stunning view, and that deep, shadowy anus is simply irresistible. I need to be inside {PAWN_objective} now.</li>
+            <li>A truly compelling sight: the form of {PAWN_nameShortPossessive} butt and the profound, beckoning nature of {PAWN_possessive} anus. I'm completely consumed, my core alive.</li>
+            <li>I feel an overwhelming, desperate pull to simply claim the raw, natural beauty of {PAWN_nameShortPossessive} anus, framed by {PAWN_possessive} shapely butt. My groin aches.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, visible anus, embraced by {PAWN_possessive} well-defined butt, is staggering. I'm ready to explode with {PAWN_objective}.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} butt and its abyssal anus is fueling my insatiable hunger for pleasure, making my wetness burn.</li>
+            <li>The subtle revelations of {PAWN_nameShortPossessive} form, especially the deep, inviting anus, provide endless visual intrigue, and an urgent need for intimate connection.</li>
+            <li>I could lose myself completely in {PAWN_nameShortPossessive} elegant butt and its profound, captivating anus. My desires are boundless, and my sex demands satisfaction.</li>
+            <li>The delightful symmetry of {PAWN_nameShortPossessive} backside, with that perfectly visible, abyssal anus, is a nymphomaniac's ultimate fantasy, making my core quiver.</li>
+            <li>{PAWN_nameShortPossessive} butt’s gentle slope, leading to that deep, inviting anus, offers a magnificent, discreet view that sets my body and sex on fire.</li>
+            <li>The depth and mystique of {PAWN_nameShortPossessive} anus, perfectly framed by {PAWN_possessive} shapely butt, is truly a sight to worship. My core aches with need.</li>
+            <li>My appreciation for the male form is amplified to an unbearable degree by observing {PAWN_nameShortPossessive} butt and its abyssal, welcoming anus. My wetness is overwhelming.</li>
+            <li>The unexpected exposure of {PAWN_nameShortPossessive} deep, dark anus, presented by {PAWN_possessive} lovely butt, is a stimulating discovery that demands full, immediate satisfaction.</li>
+        </opinionTexts>
+</Def>
+	
+
+<!--  description for unisex with Demon butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Positive_Abyssal_DemonAnus</defName>
+        <label>Abyssal Anus (Positive) DemonAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} demonic anus is a captivating abyss, radiating an otherworldly allure that pulls me closer.</li>
+            <li>The unusual structure of {PAWN_nameShortPossessive} butt, coupled with that abyssal, demonic anus, is strangely compelling and beautiful.</li>
+            <li>I am mesmerized by the dark, profound depths of {PAWN_nameShortPossessive} demonic anus, truly a marvel of unnatural beauty.</li>
+            <li>That demon butt on {PAWN_nameShort}, with its unfathomably deep and inviting anus, promises a primal, unique experience.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} abyssal, demonic anus stirs a profound curiosity within me. It’s unlike anything I've seen.</li>
+            <li>{PAWN_nameShortPossessive} posterior, reshaped by demonic genes, and its deeply visible, tantalizing anus, is a thrilling sight.</li>
+            <li>I find the terrifying beauty of {PAWN_nameShortPossessive} demonic anus captivating. Its abyssal nature draws me in with a dark fascination.</li>
+            <li>The very sight of {PAWN_nameShortPossessive} demonic butt and its profound, otherworldly anus evokes both wonder and a strange attraction.</li>
+            <li>{PAWN_nameShortPossessive} abyssal demon anus, nestled within {PAWN_possessive} unique anatomy, is a testament to extraordinary, dark elegance.</li>
+            <li>What a remarkably deep and alien anus {PAWN_nameShort} possesses. The demonic traits only enhance its mysterious, abyssal appeal.</li>
+            <li>The seductive power of {PAWN_nameShortPossessive} demonic anus, framed by {PAWN_possessive} uniquely formed butt, is intoxicating.</li>
+            <li>I'm utterly fascinated by the intricate details of {PAWN_nameShortPossessive} demonic butt and its compelling, abyssal anus.</li>
+            <li>{PAWN_nameShortPossessive} posterior, touched by demonic essence, and its deeply recessed, alluring anus, is a magnificent, dark masterpiece.</li>
+            <li>The way {PAWN_nameShortPossessive} demonic butt accentuates that abyssal, inviting anus is truly a spectacle of forbidden beauty.</li>
+            <li>My gaze is drawn irrevocably to {PAWN_nameShortPossessive} demonic anus, its profound depth hinting at unspeakable pleasures.</li>
+            <li>The otherworldly allure of {PAWN_nameShortPossessive} abyssal, demonic anus is simply irresistible. A dark enchantment.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its unique demonic contours and deeply visible anus, is a testament to raw, untamed form.</li>
+            <li>A truly unsettling yet captivating sight: {PAWN_nameShortPossessive} demonic butt and its deeply shadowed, abyssal anus.</li>
+            <li>I find an intoxicating pull in the dark mystique of {PAWN_nameShortPossessive} abyssal demonic anus. It’s utterly enthralling.</li>
+            <li>The profound depth of {PAWN_nameShortPossessive} demonic anus, set within {PAWN_possessive} uniquely shaped butt, is a sight of sinister grace.</li>
+            <li>{PAWN_nameShortPossessive} demonic butt offers a view unlike any other, with an abyssal anus that whispers of ancient desires.</li>
+            <li>The unsettling beauty of {PAWN_nameShortPossessive} abyssal anus, a product of demonic power, is strangely irresistible.</li>
+            <li>I'm consumed by the compelling anomaly of {PAWN_nameShortPossessive} demonic anus and its profound, dark presence.</li>
+            <li>{PAWN_nameShortPossessive} demonic posterior, with its tantalizingly deep and visible anus, promises an extraordinary journey.</li>
+            <li>That abyssal, demonic anus on {PAWN_nameShort} is a vortex of dark pleasure, drawing me into its profound depths.</li>
+            <li>The unique formation of {PAWN_nameShortPossessive} butt, framing that abyssal, demonic anus, is simply breathtaking in its oddity.</li>
+            <li>My fascination with {PAWN_nameShortPossessive} demonic anus knows no bounds; its dark, abyssal depths are endlessly intriguing.</li>
+            <li>{PAWN_nameShortPossessive} posterior, bearing the mark of demonic genes, and its deeply inviting anus, is a perverse perfection.</li>
+            <li>The profound, dark beauty of {PAWN_nameShortPossessive} abyssal demonic anus, an impossible marvel of forbidden anatomy, captivates me entirely.</li>
+            <li>I'm drawn to the mesmerizing oddity of {PAWN_nameShortPossessive} butt and its abyssal, demonic anus. A truly unique specimen.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with slime butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Positive_Abyssal_SlimeAnus</defName>
+        <label>Abyssal Anus (Positive) SlimeAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} abyssal slime anus is a fascinating sight, its fluid nature hinting at unparalleled pleasure.</li>
+            <li>The smooth, flowing form of {PAWN_nameShortPossessive} butt, with that deep, glistening slime anus, is oddly captivating and alluring.</li>
+            <li>I am mesmerized by the viscous, profound depths of {PAWN_nameShortPossessive} slime anus, a truly unique anatomical wonder.</li>
+            <li>That translucent butt on {PAWN_nameShort}, with its unfathomably deep and inviting slime anus, promises a squishy, unique experience.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} abyssal, slime anus stirs a profound curiosity within me. It’s unlike anything I've felt.</li>
+            <li>{PAWN_nameShortPossessive} posterior, composed of living slime, and its deeply visible, tantalizing anus, is a thrilling sight.</li>
+            <li>I find the ethereal beauty of {PAWN_nameShortPossessive} slime anus captivating. Its abyssal nature draws me in with a slick fascination.</li>
+            <li>The very sight of {PAWN_nameShortPossessive} slime butt and its profound, otherworldly anus evokes both wonder and a strange attraction.</li>
+            <li>{PAWN_nameShortPossessive} abyssal slime anus, nestled within {PAWN_possessive} unique anatomy, is a testament to extraordinary, fluid elegance.</li>
+            <li>What a remarkably deep and alien anus {PAWN_nameShort} possesses. The slime enhances its mysterious, abyssal appeal.</li>
+            <li>The seductive power of {PAWN_nameShortPossessive} slime anus, framed by {PAWN_possessive} uniquely formed butt, is intoxicating.</li>
+            <li>I'm utterly fascinated by the intricate, shifting details of {PAWN_nameShortPossessive} slime butt and its compelling, abyssal anus.</li>
+            <li>{PAWN_nameShortPossessive} posterior, imbued with slime essence, and its deeply recessed, alluring anus, is a magnificent, liquid masterpiece.</li>
+            <li>The way {PAWN_nameShortPossessive} slime butt accentuates that abyssal, inviting anus is truly a spectacle of fluid beauty.</li>
+            <li>My gaze is drawn irrevocably to {PAWN_nameShortPossessive} slime anus, its profound depth hinting at unspeakable, slippery pleasures.</li>
+            <li>The otherworldly allure of {PAWN_nameShortPossessive} abyssal, slime anus is simply irresistible. A moist enchantment.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its unique slime contours and deeply visible anus, is a testament to raw, amorphous form.</li>
+            <li>A truly unsettling yet captivating sight: {PAWN_nameShortPossessive} slime butt and its deeply shadowed, abyssal anus.</li>
+            <li>I find an intoxicating pull in the liquid mystique of {PAWN_nameShortPossessive} abyssal slime anus. It’s utterly enthralling.</li>
+            <li>The profound depth of {PAWN_nameShortPossessive} slime anus, set within {PAWN_possessive} uniquely shaped butt, is a sight of glistening grace.</li>
+            <li>{PAWN_nameShortPossessive} slime butt offers a view unlike any other, with an abyssal anus that whispers of dissolving boundaries.</li>
+            <li>The unsettling beauty of {PAWN_nameShortPossessive} abyssal anus, a product of slime physiology, is strangely irresistible.</li>
+            <li>I'm consumed by the compelling anomaly of {PAWN_nameShortPossessive} slime anus and its profound, fluid presence.</li>
+            <li>{PAWN_nameShortPossessive} slime posterior, with its tantalizingly deep and visible anus, promises an extraordinary, malleable journey.</li>
+            <li>That abyssal, slime anus on {PAWN_nameShort} is a vortex of slick pleasure, drawing me into its profound depths.</li>
+            <li>The unique formation of {PAWN_nameShortPossessive} butt, framing that abyssal, slime anus, is simply breathtaking in its oddity.</li>
+            <li>My fascination with {PAWN_nameShortPossessive} slime anus knows no bounds; its liquid, abyssal depths are endlessly intriguing.</li>
+            <li>{PAWN_nameShortPossessive} posterior, bearing the mark of slime genes, and its deeply inviting anus, is a perverse, fluid perfection.</li>
+            <li>The profound, liquid beauty of {PAWN_nameShortPossessive} abyssal slime anus, an impossible marvel of unctuous anatomy, captivates me entirely.</li>
+            <li>I'm drawn to the mesmerizing oddity of {PAWN_nameShortPossessive} butt and its abyssal, slime anus. A truly unique specimen.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with insect butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Positive_Abyssal_InsectAnus</defName>
+        <label>Abyssal Anus (Positive) InsectAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>InsectAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} abyssal insect anus is a truly captivating sight, its chitinous form hinting at alien pleasures.</li>
+            <li>The segmented, unique form of {PAWN_nameShortPossessive} butt, with that deep, ridged insect anus, is strangely compelling and beautiful.</li>
+            <li>I am mesmerized by the dark, profound depths of {PAWN_nameShortPossessive} insect anus, a marvel of biomechanical design.</li>
+            <li>That chitinous butt on {PAWN_nameShort}, with its unfathomably deep and inviting insect anus, promises a primal, buzzing experience.</li>
+            <li>The sheer presence of {PAWN_nameShortPossessive} abyssal, insect anus stirs a profound curiosity within me. It’s unlike anything I've touched.</li>
+            <li>{PAWN_nameShortPossessive} posterior, reshaped by insectoid genes, and its deeply visible, tantalizing anus, is a thrilling sight.</li>
+            <li>I find the unsettling beauty of {PAWN_nameShortPossessive} insect anus captivating. Its abyssal nature draws me in with a strange fascination.</li>
+            <li>The very sight of {PAWN_nameShortPossessive} insect butt and its profound, otherworldly anus evokes both wonder and a strange attraction.</li>
+            <li>{PAWN_nameShortPossessive} abyssal insect anus, nestled within {PAWN_possessive} unique anatomy, is a testament to extraordinary, chitinous elegance.</li>
+            <li>What a remarkably deep and alien anus {PAWN_nameShort} possesses. The insectoid traits only enhance its mysterious, abyssal appeal.</li>
+            <li>The seductive power of {PAWN_nameShortPossessive} insect anus, framed by {PAWN_possessive} uniquely formed butt, is intoxicating.</li>
+            <li>I'm utterly fascinated by the intricate, segmented details of {PAWN_nameShortPossessive} insect butt and its compelling, abyssal anus.</li>
+            <li>{PAWN_nameShortPossessive} posterior, touched by insectoid essence, and its deeply recessed, alluring anus, is a magnificent, alien masterpiece.</li>
+            <li>The way {PAWN_nameShortPossessive} insect butt accentuates that abyssal, inviting anus is truly a spectacle of primal beauty.</li>
+            <li>My gaze is drawn irrevocably to {PAWN_nameShortPossessive} insect anus, its profound depth hinting at unspeakable, twitching pleasures.</li>
+            <li>The otherworldly allure of {PAWN_nameShortPossessive} abyssal, insect anus is simply irresistible. A buzzing enchantment.</li>
+            <li>{PAWN_nameShortPossessive} butt, with its unique insect contours and deeply visible anus, is a testament to raw, untamed form.</li>
+            <li>A truly unsettling yet captivating sight: {PAWN_nameShortPossessive} insect butt and its deeply shadowed, abyssal anus.</li>
+            <li>I find an intoxicating pull in the alien mystique of {PAWN_nameShortPossessive} abyssal insect anus. It’s utterly enthralling.</li>
+            <li>The profound depth of {PAWN_nameShortPossessive} insect anus, set within {PAWN_possessive} uniquely shaped butt, is a sight of rigid grace.</li>
+            <li>{PAWN_nameShortPossessive} insect butt offers a view unlike any other, with an abyssal anus that whispers of instinctual urges.</li>
+            <li>The unsettling beauty of {PAWN_nameShortPossessive} abyssal anus, a product of insectoid physiology, is strangely irresistible.</li>
+            <li>I'm consumed by the compelling anomaly of {PAWN_nameShortPossessive} insect anus and its profound, alien presence.</li>
+            <li>{PAWN_nameShortPossessive} insect posterior, with its tantalizingly deep and visible anus, promises an extraordinary, segmented journey.</li>
+            <li>That abyssal, insect anus on {PAWN_nameShort} is a vortex of foreign pleasure, drawing me into its profound depths.</li>
+            <li>The unique formation of {PAWN_nameShortPossessive} butt, framing that abyssal, insect anus, is simply breathtaking in its oddity.</li>
+            <li>My fascination with {PAWN_nameShortPossessive} insect anus knows no bounds; its alien, abyssal depths are endlessly intriguing.</li>
+            <li>{PAWN_nameShortPossessive} posterior, bearing the mark of insect genes, and its deeply inviting anus, is a perverse, chitinous perfection.</li>
+            <li>The profound, alien beauty of {PAWN_nameShortPossessive} abyssal insect anus, an impossible marvel of strange anatomy, captivates me entirely.</li>
+            <li>I'm drawn to the mesmerizing oddity of {PAWN_nameShortPossessive} butt and its abyssal, insect anus. A truly unique specimen.</li>
+        </opinionTexts>
+</Def>
+</Defs>

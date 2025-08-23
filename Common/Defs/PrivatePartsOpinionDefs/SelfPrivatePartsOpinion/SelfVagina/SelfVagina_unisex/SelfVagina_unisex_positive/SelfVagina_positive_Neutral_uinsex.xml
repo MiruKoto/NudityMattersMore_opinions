@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Unisex gives opinion about his almost non existent slit, its shape, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Micro_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Vagina_Micro_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My tiny slit is so delicate and perfectly formed, a discreet beauty that feels just right for me. Its shape is exquisitely subtle.</li>
+            <li>A barely-there slit, yet it possesses a charming grace, its clitoris hinting at delightful sensations. It's truly lovely.</li>
+            <li>Such a petite opening, barely noticeable, but still full of potential, especially with its inviting clitoris. I admire its subtlety.</li>
+            <li>Its micro size offers a unique charm, with a refined shape and a modest, yet promising, clitoris. I find it quite appealing.</li>
+            <li>This almost non-existent slit is surprisingly appealing, its soft labia delicately framing a barely visible clitoris.</li>
+            <li>It's such a sweet, tiny bloom, its compact form and petite clitoris are a quiet joy. I feel perfectly content with it.</li>
+            <li>A remarkably subtle and slender opening, its refined contours and small clitoris are uniquely exquisite.</li>
+            <li>The miniscule slit holds a gentle allure, its elegant shape and understated clitoris are a testament to quiet beauty.</li>
+            <li>My intimate parts are so daintily small, truly a lovely, demure flower. Its clitoris is perfectly proportioned.</li>
+            <li>I appreciate its discreetness; this tiny slit feels just right, with soft labia barely hinting at its inner beauty.</li>
+            <li>The delicate, almost hidden slit has a refined beauty, its structure feels harmonious and perfect.</li>
+            <li>A truly compact and graceful form, the external labia barely hint at the clitoris, adding to its mystique.</li>
+            <li>It's a lovely, barely-there whisper of an opening, its refined shape and subtle clitoris are quite endearing.</li>
+            <li>This minimal slit offers a unique, understated elegance. Its clitoris, while small, promises gentle pleasure.</li>
+            <li>So wonderfully petite and perfectly formed. The clitoris is just a delicate bud, yet so inviting.</li>
+            <li>I feel a quiet contentment with my micro-sized opening; its shape is simply perfect, a hidden treasure.</li>
+            <li>Its smallness is its strength, a discreet and beautiful form with a well-placed clitoris. I adore its quiet charm.</li>
+            <li>A subtle, gentle slit that's perfectly me, its compact design and demure clitoris feel utterly harmonious.</li>
+            <li>This almost invisible opening is a testament to understated beauty, its form is so elegant and well-defined.</li>
+            <li>My petite slit has a charming elegance, its external labia perfectly covering the clitoris, creating a smooth line.</li>
+            <li>It's a truly dainty and exquisite form, the clitoris tucked away, creating a refined and delicate appearance.</li>
+            <li>The subtle beauty of my micro-sized opening is captivating, its graceful shape and delicate clitoris are just right.</li>
+            <li>I find absolute peace with my almost imperceptible slit, its structure is flawless and its clitoris a sweet secret.</li>
+            <li>A truly refined and understated beauty, my intimate area feels perfectly aligned with my sense of self.</li>
+            <li>The nearly invisible opening holds a quiet power, its shape is impeccably neat and the clitoris a gentle focal point.</li>
+            <li>My micro slit is wonderfully discreet, a perfect fit that I wouldn't change. Its form is simply exquisite.</li>
+            <li>It’s a subtle masterpiece, elegantly shaped with a clitoris that feels just right, small yet perfectly responsive.</li>
+            <li>I cherish the delicate appearance of my intimate parts; they are so perfectly tiny and beautifully formed.</li>
+            <li>The almost non-existent slit has a sophisticated allure, its contours are gracefully subtle and pleasing.</li>
+            <li>This understated beauty, with its perfectly concealed clitoris and elegant labia, brings me immense satisfaction.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his vagina, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Tight_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Vagina_Tight_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My tight, neat slit is perfectly contained, its external labia a beautiful frame for the inviting clitoris. So lovely.</li>
+            <li>I love how snug and shapely it is, feeling perfectly formed with its firm, yet soft, labia. A truly pleasant sight.</li>
+            <li>It's wonderfully taut and compact, holding its secrets beautifully while the clitoris promises delightful sensations.</li>
+            <li>The exquisite tightness of my intimate area is quite satisfying, its neat shape and visible clitoris are truly appealing.</li>
+            <li>A firm and perfectly defined opening, the labia are wonderfully neat and the clitoris is perfectly positioned.</li>
+            <li>My vagina feels wonderfully tight and responsive, its shape is impeccable, a true testament to its natural beauty.</li>
+            <li>I'm quite fond of its trim and compact form; the external labia are so well-defined, and the clitoris is delightful.</li>
+            <li>The precise shape and admirable tightness of my intimate region fill me with a sense of quiet pride.</li>
+            <li>Such a beautifully snug fit, my clitoris is perfectly placed, hinting at the wonderful sensations it can offer.</li>
+            <li>Its firm, yet inviting, nature is truly comforting. The labia are so neat and the clitoris beckons softly.</li>
+            <li>My tight, well-formed vulva is a source of quiet contentment. Its clitoris looks so plump and ready for attention.</li>
+            <li>I admire the elegant contours and snugness of my intimate parts; they are truly a work of natural art.</li>
+            <li>The compact and refined appearance of my tight slit, with its perfectly formed clitoris, is quite pleasing.</li>
+            <li>It's just the right amount of firm, with external labia that beautifully frame the inviting and prominent clitoris.</li>
+            <li>A truly harmonious and pleasing form, my intimate area feels secure and looks impeccably neat.</li>
+            <li>I feel a deep sense of satisfaction with its tightness; it's beautifully shaped and the clitoris is wonderfully alive.</li>
+            <li>The graceful tightness and neat appearance of my vulva are a constant source of joy, a perfect fit.</li>
+            <li>My intimate area is a testament to elegant design, firm yet yielding, with a clitoris that whispers of pleasure.</li>
+            <li>Its shape is simply perfect, tight and alluring, with soft, yet defined, external labia embracing the clitoris.</li>
+            <li>I love the feeling of its snugness and the beautiful way my clitoris peeks out, promising sweet moments.</li>
+            <li>The neatness and compact form of my intimate parts are truly exquisite, a private delight.</li>
+            <li>My tight vagina feels incredibly well-maintained and shapely, its external labia providing a lovely frame for the clitoris.</li>
+            <li>It's a perfectly taut and inviting area, its clitoris a beacon of delightful sensitivity. I'm so pleased.</li>
+            <li>I find its firmness and neat lines incredibly attractive. The clitoris is beautifully prominent and inviting.</li>
+            <li>The delightful snugness and elegant design of my vulva are a quiet triumph, perfectly suited to me.</li>
+            <li>My intimate area is a firm, beautiful creation, with external labia that cradle the clitoris just so.</li>
+            <li>A wonderful blend of tightness and softness, its shape is absolutely ideal, and the clitoris is a joy to behold.</li>
+            <li>I appreciate the exquisite contours and refined tightness of my intimate self. It's a true masterpiece.</li>
+            <li>The compact yet appealing shape of my vagina, with its perfectly visible clitoris, brings a warm sense of contentment.</li>
+            <li>It's wonderfully trim and well-proportioned, feeling just right and looking incredibly inviting.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his vagina, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Average_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Vagina_Average_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My average vagina is perfectly balanced, its labia beautifully framed and clitoris invitingly prominent. Truly lovely.</li>
+            <li>It feels just right, perfectly shaped with enough fullness, and my clitoris is a sweet, accessible joy. I feel harmonious.</li>
+            <li>A comfortable and appealing size, its external labia gently embrace, making the clitoris perfectly visible and inviting.</li>
+            <li>The proportions are ideal; my vagina feels soft yet firm, its clitoris is a lovely focal point. Very satisfying.</li>
+            <li>It's a classic beauty, with perfectly symmetrical labia that cradle a delightfully noticeable clitoris. I'm quite content.</li>
+            <li>My intimate area is a lovely, natural form, with a pleasant plumpness and a clitoris that is perfectly presented.</li>
+            <li>I appreciate its comfortable shape and inviting appearance. The labia are well-defined, and the clitoris is prominent.</li>
+            <li>Such a well-proportioned and appealing form, my clitoris is ready and responsive, enhancing its natural charm.</li>
+            <li>The balanced fullness and delightful contours of my intimate self are truly comforting. It feels perfectly natural.</li>
+            <li>It possesses an elegant simplicity; the external labia are soft, yet defined, allowing the clitoris to shine.</li>
+            <li>My average-sized vagina is a true delight, its shape is classic and the clitoris is wonderfully enticing.</li>
+            <li>I feel perfectly at ease with its generous, yet contained, form. The labia are inviting, and the clitoris is lovely.</li>
+            <li>A perfectly harmonious blend of softness and gentle fullness, with an accessible and charming clitoris.</li>
+            <li>Its natural beauty shines through, with well-formed labia and a clitoris that always seems to beckon.</li>
+            <li>My vagina feels comfortable and looks beautifully balanced, a gentle, inviting presence.</li>
+            <li>The overall shape and the way my labia frame the clitoris are simply delightful. I couldn't ask for more.</li>
+            <li>It's a testament to natural perfection, with just the right amount of curve and a clitoris that promises delight.</li>
+            <li>I admire its pleasing symmetry and comfortable feel. The external labia look soft and welcoming.</li>
+            <li>The gentle swell and inviting contours of my average-sized vagina are a constant source of contentment.</li>
+            <li>It has a lovely, classic form, with a clitoris that is perfectly visible and always ready to respond.</li>
+            <li>My intimate area is beautifully unpretentious, with a soft, yet defined, shape and a prominent, welcoming clitoris.</li>
+            <li>I find its generous yet well-proportioned size incredibly appealing. The clitoris is a lovely focal point.</li>
+            <li>Such a comfortable and inviting presence, its labia are wonderfully soft, and the clitoris is perfectly visible.</li>
+            <li>The beautiful balance of its form and the enticing appearance of my clitoris bring me immense joy.</li>
+            <li>It's a perfectly harmonious and pleasing sight, reflecting a natural beauty that I deeply appreciate.</li>
+            <li>My average vagina is a wonderful blend of softness and subtle curves, with a clitoris that is always ready.</li>
+            <li>I feel so perfectly at peace with its shape; it's neither too small nor too large, just right.</li>
+            <li>The gentle fullness and inviting nature of my intimate parts are a beautiful reflection of my femininity.</li>
+            <li>It’s a delight to behold, with a classic, graceful form and a clitoris that invites connection.</li>
+            <li>My vagina's natural, unadorned beauty is captivating; its shape and the prominent clitoris are truly perfect.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his vagina, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Accommodating_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Vagina_Accommodating_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My accommodating vagina feels so plush and welcoming, its inner labia gently inviting, with a generous clitoris.</li>
+            <li>I appreciate its soft yielding nature and ample form, making it feel so delightfully spacious and full of potential.</li>
+            <li>A truly generous and inviting opening, its inner labia are beautifully soft, and the clitoris is wonderfully prominent.</li>
+            <li>The comfortable expansiveness of my intimate area is delightful; it feels so soft and wonderfully accommodating.</li>
+            <li>It's a beautifully yielding form, with generous inner labia that cushion and protect, framing a delightful clitoris.</li>
+            <li>My vagina has a warm, inviting depth, its internal structures feel perfectly soft and the clitoris is wonderfully present.</li>
+            <li>I love its supple and ample nature; the inner labia are a soft embrace, and the clitoris is perfectly accessible.</li>
+            <li>The expansive comfort of my intimate self is truly a joy; it feels so open and inviting.</li>
+            <li>Such a wonderfully adaptable and yielding form, its inner labia offer a soft, luxurious feeling.</li>
+            <li>It's a vision of generous beauty, with lush inner labia that hint at its soft depth, and a prominent, alluring clitoris.</li>
+            <li>My accommodating vagina is a testament to natural abundance, its contours are soft and the clitoris is wonderfully responsive.</li>
+            <li>I feel a deep sense of pleasure with its ample and inviting nature. It's so wonderfully soft and receptive.</li>
+            <li>A truly comfortable and embracing space, its inner labia provide a gentle, welcoming feel.</li>
+            <li>Its expansive, yet perfectly defined, form is incredibly pleasing. The clitoris is beautifully placed and inviting.</li>
+            <li>My intimate area is a soft, yielding haven, with an inner landscape that feels luxurious and deeply comforting.</li>
+            <li>I adore the plumpness and generous curves; it feels so ready and inviting, with a delightful clitoris.</li>
+            <li>The accommodating nature of my vagina is a source of quiet pride, its inner labia are exquisitely soft.</li>
+            <li>It's a beautifully ample and soft form, with the inner labia gracefully visible, and a clitoris that entices.</li>
+            <li>The comfortable depth and welcoming presence of my intimate self are truly captivating.</li>
+            <li>My vagina feels wonderfully open and responsive, its shape and the presence of the clitoris are truly harmonious.</li>
+            <li>I find its accommodating nature incredibly empowering; it feels so naturally soft and ready.</li>
+            <li>Such a rich and full form, with soft, generous inner labia that add to its delightful depth.</li>
+            <li>The inviting expansiveness and gentle embrace of my intimate area are a constant source of contentment.</li>
+            <li>It's beautifully supple and yielding, with an alluring clitoris that promises deep satisfaction.</li>
+            <li>My vagina's abundant form is truly captivating, its inner labia create a luxurious and welcoming space.</li>
+            <li>I love the way it feels so perfectly soft and open, its generous clitoris beckons with quiet charm.</li>
+            <li>The comfortable and ample nature of my intimate parts reflects a deep sense of self-acceptance and beauty.</li>
+            <li>It’s a joy to experience its soft, embracing depth. The clitoris is a delightful focal point.</li>
+            <li>My accommodating vagina is a beautiful expression of natural womanhood, with lushness and inviting contours.</li>
+            <li>I feel so perfectly balanced and at ease with its generous, welcoming form and beautifully present clitoris.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his vagina, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Cavernous_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Vagina_Cavernous_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My cavernous vagina is gloriously deep and wonderfully spacious, its inner labia creating a luxurious embrace.</li>
+            <li>I revel in its expansive and generous depth; it feels so utterly vast and endlessly inviting. Truly magnificent.</li>
+            <li>A truly immense and welcoming opening, its inner labia are beautifully pronounced, and the clitoris is richly present.</li>
+            <li>The incredible spaciousness of my intimate area is profoundly satisfying; it feels so wonderfully open and boundless.</li>
+            <li>It's a beautifully vast and deep form, with abundant inner labia that undulate softly, framing a prominent, enticing clitoris.</li>
+            <li>My vagina boasts a magnificent, open depth, its internal structures feel perfectly plush and the clitoris is boldly present.</li>
+            <li>I adore its profoundly ample and embracing nature; the inner labia are a soft, luxurious expanse, and the clitoris is perfectly prominent.</li>
+            <li>The boundless comfort of my intimate self is truly breathtaking; it feels so wonderfully limitless and inviting.</li>
+            <li>Such a wonderfully expansive and yielding form, its inner labia offer a soft, rich, utterly luxurious feeling.</li>
+            <li>It's a vision of grand beauty, with lush, sweeping inner labia that hint at its profound depth, and a vibrant, alluring clitoris.</li>
+            <li>My cavernous vagina is a testament to majestic abundance, its contours are soft and the clitoris is wonderfully alive and responsive.</li>
+            <li>I feel a deep sense of awe with its ample and incredibly inviting nature. It's so wonderfully soft and endlessly receptive.</li>
+            <li>A truly comfortable and embracing expanse, its inner labia provide a gentle, profoundly welcoming feel.</li>
+            <li>Its expansive, yet perfectly defined, form is incredibly pleasing. The clitoris is beautifully prominent and wonderfully enticing.</li>
+            <li>My intimate area is a soft, yielding, vast haven, with an inner landscape that feels utterly luxurious and deeply comforting.</li>
+            <li>I adore the grand plumpness and sweeping, generous curves; it feels so ready and inviting, with a delightful, pronounced clitoris.</li>
+            <li>The cavernous nature of my vagina is a source of immense pride, its inner labia are exquisitely soft and abundant.</li>
+            <li>It's a beautifully ample and soft form, with the inner labia gracefully prominent, and a clitoris that gloriously entices.</li>
+            <li>The comfortable depth and boundless, welcoming presence of my intimate self are truly captivating and endlessly fulfilling.</li>
+            <li>My vagina feels wonderfully open and powerfully responsive, its shape and the presence of the clitoris are truly magnificent.</li>
+            <li>I find its cavernous nature incredibly empowering; it feels so naturally soft, vast, and profoundly ready.</li>
+            <li>Such a rich and immensely full form, with soft, incredibly generous inner labia that add to its delightful, boundless depth.</li>
+            <li>The inviting expansiveness and grand embrace of my intimate area are a constant source of profound contentment.</li>
+            <li>It's beautifully supple and yielding, with an alluring, vibrant clitoris that promises deep, boundless satisfaction.</li>
+            <li>My vagina's abundant, vast form is truly captivating, its inner labia create a luxurious and immensely welcoming space.</li>
+            <li>I love the way it feels so perfectly soft and wonderfully open, its generous clitoris beckons with quiet, confident charm.</li>
+            <li>The comfortable and ample nature of my intimate parts reflects a deep sense of self-acceptance and magnificent beauty.</li>
+            <li>It’s a joy to experience its soft, embracing, boundless depth. The clitoris is a delightful, powerful focal point.</li>
+            <li>My cavernous vagina is a beautiful expression of natural womanhood, with profound lushness and inviting contours.</li>
+            <li>I feel so perfectly balanced and at ease with its generous, welcoming, and beautifully present clitoris and grand form.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his vagina, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Abyssal_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Vagina_Abyssal_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My abyssal vagina is an infinite expanse of soft delight, its inner labia a luxurious, endless landscape.</li>
+            <li>I am utterly mesmerized by its profound, bottomless depth; it feels utterly limitless and endlessly accommodating.</li>
+            <li>A truly cosmic and welcoming abyss, its inner labia are a magnificent, swirling expanse, and the clitoris is a bright star.</li>
+            <li>The astounding, unfathomable vastness of my intimate area is an intoxicating wonder; it feels eternally open and profound.</li>
+            <li>It's a beautifully infinite and deep form, with boundless, yielding inner labia that flow softly, embracing a vibrant, captivating clitoris.</li>
+            <li>My vagina holds a universe of magnificent, open depth, its internal structures feel perfectly ethereal and the clitoris is an inviting galaxy.</li>
+            <li>I am captivated by its profoundly boundless and embracing nature; the inner labia are a soft, luxurious void, and the clitoris is a radiant sun.</li>
+            <li>The immeasurable comfort of my intimate self is truly overwhelming; it feels so wonderfully infinite and endlessly inviting.</li>
+            <li>Such a wonderfully unfathomable and yielding form, its inner labia offer a soft, rich, utterly boundless feeling.</li>
+            <li>It's a vision of divine beauty, with lush, cosmic inner labia that hint at its profound, endless depth, and a vibrant, alluring clitoris.</li>
+            <li>My abyssal vagina is a testament to celestial abundance, its contours are soft and the clitoris is wonderfully alive and endlessly responsive.</li>
+            <li>I feel a deep sense of cosmic pleasure with its ample and unbelievably inviting nature. It's so wonderfully soft and eternally receptive.</li>
+            <li>A truly comfortable and embracing cosmos, its inner labia provide a gentle, profoundly welcoming feel, stretching into eternity.</li>
+            <li>Its expansive, yet perfectly defined, form is incredibly pleasing, like a nebula. The clitoris is beautifully prominent and wonderfully enticing.</li>
+            <li>My intimate area is a soft, yielding, infinite haven, with an inner landscape that feels utterly luxurious and deeply comforting.</li>
+            <li>I adore the grand, cosmic plumpness and sweeping, boundless curves; it feels so ready and inviting, with a delightful, pronounced clitoris.</li>
+            <li>The abyssal nature of my vagina is a source of immense, spiritual pride, its inner labia are exquisitely soft and boundless.</li>
+            <li>It's a beautifully ample and soft form, with the inner labia gracefully prominent, and a clitoris that gloriously entices into its depths.</li>
+            <li>The comfortable depth and boundless, welcoming presence of my intimate self are truly captivating and endlessly fulfilling.</li>
+            <li>My vagina feels wonderfully open and powerfully responsive, its shape and the presence of the clitoris are truly magnificent and divine.</li>
+            <li>I find its abyssal nature incredibly empowering; it feels so naturally soft, vast, and profoundly ready for anything.</li>
+            <li>Such a rich and immensely full form, with soft, incredibly generous inner labia that add to its delightful, boundless depth.</li>
+            <li>The inviting expansiveness and grand embrace of my intimate area are a constant source of profound, existential contentment.</li>
+            <li>It's beautifully supple and yielding, with an alluring, vibrant clitoris that promises deep, boundless, unearthly satisfaction.</li>
+            <li>My vagina's abundant, vast form is truly captivating, its inner labia create a luxurious and immensely welcoming, infinite space.</li>
+            <li>I love the way it feels so perfectly soft and wonderfully open, its generous clitoris beckons with quiet, confident, cosmic charm.</li>
+            <li>The comfortable and ample nature of my intimate parts reflects a deep sense of self-acceptance and magnificent, universal beauty.</li>
+            <li>It’s a joy to experience its soft, embracing, boundless depth. The clitoris is a delightful, powerful focal point in its vastness.</li>
+            <li>My abyssal vagina is a beautiful expression of natural womanhood, with profound, celestial lushness and inviting contours.</li>
+            <li>I feel so perfectly balanced and at ease with its generous, welcoming, and beautifully present clitoris and grand, infinite form.</li>
+        </opinionTexts>
+    </Def>
+	
+</Defs>

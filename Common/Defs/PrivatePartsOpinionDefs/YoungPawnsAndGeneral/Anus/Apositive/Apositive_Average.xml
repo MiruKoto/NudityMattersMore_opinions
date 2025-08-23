@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average</defName>
+        <label>Average Anus (Positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>Seeing {PAWN_nameShortPossessive} anus feels reassuring and inviting, striking a perfect balance.</li>
+            <li>I appreciate {PAWN_nameShortPossessive} anus, it seems just right for a fulfilling experience.</li>
+			<li>{PAWN_nameShortPossessive} anus carries a charm that keeps my thoughts engaged and curious.</li>
+			<li>I appreciated {PAWN_nameShortPossessive} average anus, a well-proportioned, balanced entrance, a pleasing, symmetrical shape, with a tantalizing, smooth texture that offered a satisfying, reliable pleasure.</li>
+			<li>I cherished {PAWN_nameShortPossessive} regular anus, a standard, predictable orifice, a consistent, reassuring hole, with a captivating, natural rim that promised a pleasant, steady sensation.</li>
+			<li>I relished {PAWN_nameShortPossessive} standard anus, a typical, unexceptional entrance, a familiar, conventional pucker, with a mesmerizing, unaffected structure that held the promise of a pleasure.</li>
+			<li>I observed {PAWN_nameShortPossessive} average anus, a perfect balance of size and function.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} moderately-sized hole, ideal for both giving and receiving pleasure.</li>
+			<li>I examined {PAWN_nameShortPossessive} normal-sized rosebud, a versatile gateway to new experiences.</li>
+			<li>I observed {PAWN_nameShortPossessive} average anus, and it was a perfect balance of size and function. The muscle was firm and toned, and the skin was smooth and unblemished.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} moderately-sized hole, its size and shape were ideal for both giving and receiving pleasure. The skin was smooth and elastic, with a hint of pink peeking through.</li>
+			<li>I examined {PAWN_nameShortPossessive} normal-sized rosebud, it was versatile and adaptable, a gateway to new experiences. The skin was soft and pliant, with a hint of texture that added to its appeal.</li>
+			<li>I examined {PAWN_nameShortPossessive} average anus, a well-proportioned delight that stirred my desires. The smooth, even surface was a captivating sight, with the moderate-sized opening beckoning me to delve deeper into its welcoming depths.</li>
+			<li>{PAWN_nameShortPossessive} average anus seemed to embody the perfect balance of form and function, its smooth, even surface a feast for my eyes. The moderate-sized opening appeared to smile up at me, its gentle curves a reassuring promise of a comfortable and pleasurable experience.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} unadorned rear, its pleasant curve and perfectly centered opening were quite noticeable, offering a sense of familiar beauty. I felt a subtle appreciation.</li>
+            <li>{PAWN_nameShortPossessive} rear, with its gentle, inviting curve and the perfectly proportioned opening, created an intriguing sight. A pleasant sense of calm washed over me.</li>
+            <li>The pleasant form of {PAWN_nameShortPossessive} buttock, combined with the visible, well-defined opening, was remarkably appealing, a truly delightful sight. I found myself quite taken by it.</li>
+            <li>Observing {PAWN_nameShortPossessive} buttocks, their soft, natural contours and the subtle, inviting opening, was undeniably pleasant. It sparked a quiet, appreciative curiosity within me.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, presenting a pleasingly rounded shape and a neatly defined opening, quite visible and alluring. I felt a gentle warmth spread through me.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} buttock revealed a well-structured form and a subtly pronounced opening, suggesting a pleasant encounter. My thoughts lingered on its inviting nature.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, framed by supple, healthy skin, hints at a harmonious anatomy. My mind drifts to comfortable intimacy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} backside, with its appealing contour and a glimpse of the unpretentious opening, offered a reassuring sense of natural grace.</li>
+            <li>I noticed {PAWN_nameShortPossessive} well-formed posterior, with its moderate aperture presenting itself cleanly, hinting at pleasant experiences. A genuine appreciation stirred.</li>
+            <li>{PAWN_nameShortPossessive} buttock, displaying a healthy curve and a modest, visible opening, seemed quite inviting. My gaze lingered, a feeling of contentment settling in.</li>
+            <li>The familiar sight of {PAWN_nameShortPossessive} rear, with its balanced proportions and a visible, yet discreet, opening, felt quite welcoming and comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside offered a pleasant view, its natural shape complemented by the clearly defined yet unexaggerated opening, hinting at quiet pleasure.</li>
+            <li>An agreeable form defined {PAWN_nameShortPossessive} posterior, the opening presenting itself with a moderate visibility that was neither too prominent nor too hidden. A rather agreeable sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, its pleasing contours and the subtle visibility of the opening, evoked a sense of balanced aesthetics. Quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, nestled within a naturally proportioned derriere, suggests an uncomplicated and agreeable anatomy, bringing a sense of warmth.</li>
+            <li>The pleasing outline of {PAWN_nameShortPossessive} buttock, combined with the neatly apparent opening, felt quite natural and appealing. It left a positive impression.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} rear, the sight of {PAWN_possessive} pleasingly curved butt and its average, inviting opening immediately caught my eye, a truly delightful view.</li>
+            <li>{PAWN_nameShortPossessive} rear, with its soft, rounded contours and a neatly visible opening, made for an appealing display. It felt quite comforting to behold.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, noticing the gentle swell of {PAWN_possessive} buttocks and the perfectly centered opening, which seemed quite harmonious.</li>
+            <li>The natural shape of {PAWN_nameShortPossessive} butt, combined with the moderate visibility of the opening, presented a charming picture. It was a subtly captivating sight.</li>
+        </opinionTexts>
+    
+	
+</Def>
+
+
+
+<!--Elder Male observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_Elderly_Male_opinion</defName>
+        <label>Average Anus (Positive)_Elderly_Male_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Seeing {PAWN_nameShortPossessive} youthful, average-sized rear brings back fond memories; its gentle curves and neat opening are quite charming. A pleasant sight indeed.</li>
+            <li>{PAWN_nameShortPossessive} tender buttock, with its modest, visible opening, is a refreshing sight. Such a wholesome, natural form is truly delightful to behold in one so young.</li>
+            <li>That average backside on {PAWN_nameShort} is quite well-formed, a lovely sight on a young woman. The subtle visibility of {PAWN_possessive} opening is quite endearing.</li>
+            <li>I observed {PAWN_nameShortPossessive} pert, average posterior; its pleasing roundness and clean, visible opening speak of youthful vitality. A truly charming view.</li>
+            <li>A fine, average rear {PAWN_nameShort} possesses. The way {PAWN_possessive} buttocks curve and the neatness of {PAWN_possessive} opening are quite attractive. It reminds me of simpler times.</li>
+            <li>The innocent allure of {PAWN_nameShortPossessive} average buttock, with its gentle contours and clearly defined opening, is quite captivating. Such youthful beauty is a joy to witness.</li>
+            <li>{PAWN_nameShortPossessive} lovely, average backside, with its soft, symmetrical form and neatly visible opening, radiates a charming freshness. A very pleasant sight to an old man's eyes.</li>
+            <li>I noticed {PAWN_nameShortPossessive} delicate, average rear; its modest, inviting curve and the subtle visibility of {PAWN_possessive} opening are quite appealing. It is truly a beautiful, youthful sight.</li>
+            <li>A truly elegant, average posterior on {PAWN_nameShort}; its smooth, rounded shape and well-defined opening are a testament to youthful grace. Quite admirable.</li>
+            <li>The sight of {PAWN_nameShortPossessive} blossoming rear, with its average, pleasing contours and a discreetly visible opening, is quite heartening. It is a lovely sight on a young woman.</li>
+            <li>{PAWN_nameShortPossessive} average, shapely buttocks, with their smooth lines and the neatness of {PAWN_possessive} opening, are a refreshing display of natural beauty. It's truly a delight to observe.</li>
+            <li>I admired {PAWN_nameShortPossessive} charming, average backside; its gentle curve and modest opening reflect a pleasant innocence. A truly beautiful, unspoiled form.</li>
+            <li>The pleasant form of {PAWN_nameShortPossessive} buttock and the perfectly centered, average-sized opening, felt reassuring and inviting, striking a perfect balance.</li>
+            <li>{PAWN_nameShortPossessive} rear, with its gentle, inviting curve and the perfectly proportioned opening, created an intriguing sight. A pleasant sense of calm washed over me.</li>
+            <li>I appreciate {PAWN_nameShortPossessive} average anus, it seems just right for a fulfilling experience.</li>
+            <li>The pleasing form of {PAWN_nameShortPossessive} buttock, combined with the visible, well-defined opening, was remarkably appealing, a truly delightful sight. I found myself quite taken by it.</li>
+            <li>Observing {PAWN_nameShortPossessive} buttocks, their soft, natural contours and the subtle, inviting opening, was undeniably pleasant. It sparked a quiet, appreciative curiosity within me.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, presenting a pleasingly rounded shape and a neatly defined opening, quite visible and alluring. I felt a gentle warmth spread through me.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} buttock revealed a well-structured form and a subtly pronounced opening, suggesting a pleasant encounter. My thoughts lingered on its inviting nature.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, framed by supple, healthy skin, hints at a harmonious anatomy. My mind drifts to comfortable intimacy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} backside, with its appealing contour and a glimpse of the unpretentious opening, offered a reassuring sense of natural grace.</li>
+            <li>I noticed {PAWN_nameShortPossessive} well-formed posterior, with its moderate aperture presenting itself cleanly, hinting at pleasant experiences. A genuine appreciation stirred.</li>
+            <li>{PAWN_nameShortPossessive} buttock, displaying a healthy curve and a modest, visible opening, seemed quite inviting. My gaze lingered, a feeling of contentment settling in.</li>
+            <li>The familiar sight of {PAWN_nameShortPossessive} rear, with its balanced proportions and a visible, yet discreet, opening, felt quite welcoming and comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside offered a pleasant view, its natural shape complemented by the clearly defined yet unexaggerated opening, hinting at quiet pleasure.</li>
+            <li>An agreeable form defined {PAWN_nameShortPossessive} posterior, the opening presenting itself with a moderate visibility that was neither too prominent nor too hidden. A rather agreeable sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, its pleasing contours and the subtle visibility of the opening, evoked a sense of balanced aesthetics. Quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, nestled within a naturally proportioned derriere, suggests an uncomplicated and agreeable anatomy, bringing a sense of warmth.</li>
+            <li>The pleasing outline of {PAWN_nameShortPossessive} buttock, combined with the neatly apparent opening, felt quite natural and appealing. It left a positive impression.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} rear, the sight of {PAWN_possessive} pleasingly curved butt and its average, inviting opening immediately caught my eye, a truly delightful view.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young females butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_Elderly_Male_voyer_opinion</defName>
+        <label>Average Anus (Positive)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon {PAWN_nameShortPossessive} exposure, the sight of {PAWN_possessive} average, firm butt and its inviting, visible opening sent a tingle down my spine, making me ache with desire.</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} young, average derriere and its slightly parted opening stirred a powerful, almost forgotten heat within me. My old blood quickened.</li>
+            <li>That plump, average buttock on {PAWN_nameShort}, with its teasingly visible opening, awakened a deep, carnal craving. My loins stirred with a distinct urge.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to beckon, filled me with a perverse delight. A delightful throb began.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet utterly alluring posterior, with its clearly presented opening, made my old heart pound. I felt a strong, pleasurable stirring.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, inflamed my senses. A familiar stiffness spread through me.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening brought a flush to my face. My body reacted with a familiar, insistent pulse.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A pleasant weight settled in my pants.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of anticipation through me. I felt an undeniable stirring in my groin.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a passionate yearning within. My body tightened with a pleasurable tension.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my old blood rush. I felt an undeniable, primal urge awaken.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, filled me with a thrilling sense of forbidden desire. My loins throbbed.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire stirred within.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with a giddy excitement. A delightful pressure built.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my aging frame. A pleasurable ache began.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a ravenous yearning within. My muscles tensed with pleasurable expectation.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my old blood rush. I felt an undeniable, primal urge awaken, a heavy throb.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, filled me with a thrilling sense of forbidden desire. My loins throbbed, a strong, pleasant ache.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire stirred, hard.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with a giddy excitement. A delightful pressure built, tightening.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my aging frame. A pleasurable ache began, insistent.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, swelling.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread, becoming more pronounced.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, pulsing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a ravenous yearning within. My muscles tensed with pleasurable expectation, trembling slightly.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_Elderly_Female_opinion</defName>
+        <label>Average Anus (Positive)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average, firm buttock, with its neat, visible opening, is quite charming. It's refreshing to see such a healthy, natural form on a young woman.</li>
+            <li>That young lass, {PAWN_nameShort}, has a perfectly average and well-rounded backside. The subtle visibility of {PAWN_possessive} opening is quite modest and pleasing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} youthful, average rear, with its gentle contours and clearly defined opening, reminds me of my own younger days. Quite lovely.</li>
+            <li>I observed {PAWN_nameShortPossessive} innocent, average posterior; its pleasing roundness and clean, visible opening speak of natural beauty. A truly charming view.</li>
+            <li>A perfectly respectable, average rear {PAWN_nameShort} possesses. The way {PAWN_possessive} buttocks curve and the neatness of {PAWN_possessive} opening are quite attractive.</li>
+            <li>The wholesome allure of {PAWN_nameShortPossessive} average buttock, with its gentle shape and clearly apparent opening, is quite captivating. Such youthful grace is a joy to witness.</li>
+            <li>{PAWN_nameShortPossessive} lovely, average backside, with its soft, symmetrical form and neatly visible opening, radiates a charming freshness. A very pleasant sight indeed.</li>
+            <li>I noticed {PAWN_nameShortPossessive} delicate, average rear; its modest, inviting curve and the subtle visibility of {PAWN_possessive} opening are quite appealing. Such an unspoiled form.</li>
+            <li>A truly elegant, average posterior on {PAWN_nameShort}; its smooth, rounded shape and well-defined opening are a testament to youthful vitality. Quite admirable.</li>
+            <li>The sight of {PAWN_nameShortPossessive} blossoming rear, with its average, pleasing contours and a discreetly visible opening, is quite heartening. It is a lovely sight on a young woman.</li>
+            <li>{PAWN_nameShortPossessive} average, shapely buttocks, with their smooth lines and the neatness of {PAWN_possessive} opening, are a refreshing display of natural beauty. It's truly a delight.</li>
+            <li>I admired {PAWN_nameShortPossessive} charming, average backside; its gentle curve and modest opening reflect a pleasant innocence. A truly beautiful, unspoiled form.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} unadorned rear, its pleasant curve and perfectly centered opening were quite noticeable, offering a sense of familiar beauty. I felt a subtle appreciation.</li>
+            <li>{PAWN_nameShortPossessive} rear, with its gentle, inviting curve and the perfectly proportioned opening, created an intriguing sight. A pleasant sense of calm washed over me.</li>
+            <li>I appreciate {PAWN_nameShortPossessive} average anus, it seems just right for a fulfilling experience.</li>
+            <li>The pleasing form of {PAWN_nameShortPossessive} buttock, combined with the visible, well-defined opening, was remarkably appealing, a truly delightful sight. I found myself quite taken by it.</li>
+            <li>Observing {PAWN_nameShortPossessive} buttocks, their soft, natural contours and the subtle, inviting opening, was undeniably pleasant. It sparked a quiet, appreciative curiosity within me.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, presenting a pleasingly rounded shape and a neatly defined opening, quite visible and alluring. I felt a gentle warmth spread through me.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} buttock revealed a well-structured form and a subtly pronounced opening, suggesting a pleasant encounter. My thoughts lingered on its inviting nature.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, framed by supple, healthy skin, hints at a harmonious anatomy. My mind drifts to comfortable intimacy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} backside, with its appealing contour and a glimpse of the unpretentious opening, offered a reassuring sense of natural grace.</li>
+            <li>I noticed {PAWN_nameShortPossessive} well-formed posterior, with its moderate aperture presenting itself cleanly, hinting at pleasant experiences. A genuine appreciation stirred.</li>
+            <li>{PAWN_nameShortPossessive} buttock, displaying a healthy curve and a modest, visible opening, seemed quite inviting. My gaze lingered, a feeling of contentment settling in.</li>
+            <li>The familiar sight of {PAWN_nameShortPossessive} rear, with its balanced proportions and a visible, yet discreet, opening, felt quite welcoming and comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside offered a pleasant view, its natural shape complemented by the clearly defined yet unexaggerated opening, hinting at quiet pleasure.</li>
+            <li>An agreeable form defined {PAWN_nameShortPossessive} posterior, the opening presenting itself with a moderate visibility that was neither too prominent nor too hidden. A rather agreeable sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, its pleasing contours and the subtle visibility of the opening, evoked a sense of balanced aesthetics. Quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, nestled within a naturally proportioned derriere, suggests an uncomplicated and agreeable anatomy, bringing a sense of warmth.</li>
+            <li>The pleasing outline of {PAWN_nameShortPossessive} buttock, combined with the neatly apparent opening, felt quite natural and appealing. It left a positive impression.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} rear, the sight of {PAWN_possessive} pleasingly curved butt and its average, inviting opening immediately caught my eye, a truly delightful view.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young male observes young females butt and anus, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_MaleOpinion</defName>
+        <label>Average Anus (Positive)_MaleOpinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average, rounded buttock and its inviting, visible opening are incredibly enticing. I can't help but feel a powerful draw to it.</li>
+            <li>A sudden glimpse of {PAWN_nameShortPossessive} firm, average derriere and its slightly parted opening sent a jolt through me. It's quite captivating.</li>
+            <li>That plump, average buttock on {PAWN_nameShort}, with its teasingly visible opening, is a sight to behold. My eyes are utterly drawn to it.</li>
+            <li>Observing {PAWN_nameShortPossessive} perfectly rounded, average rear, the way {PAWN_possessive} opening seems to beckon, filled me with a potent desire. It's truly alluring.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet utterly seductive posterior, with its clearly presented opening, makes my heart race. I feel an intense attraction.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, ignites a burning hunger within me. It's simply irresistible.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening took my breath away. I feel an overwhelming urge.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. It's absolutely stunning.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of anticipation through me. I feel a strong, magnetic pull.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening fills me with a passionate longing. It's incredibly desirable.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening sends a thrilling rush through me. I feel a powerful, primal desire.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of anticipation. My desire intensifies with every glance.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, stirs a deep, carnal hunger within. It's utterly captivating.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seems to wink, fills me with a giddy excitement. A powerful urge takes hold.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sends a shiver down my spine. A pleasurable ache begins.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fuels a lustful fantasy. My body tingles with eager anticipation.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening makes my breath catch. My desire intensifies, a delightful weight growing.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparks an undeniable, eager response. A delightful tingle spreads.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sends a surge of hot anticipation through me. I feel a stirring deep within my groin.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening makes my blood rush. I feel an undeniable, primal urge awaken.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of forbidden desire. My loins throb.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire stirred within.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with a giddy excitement. A delightful pressure built.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparks an undeniable, eager response. A delightful tingle spread.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sends a surge of hot anticipation through me. I feel a stirring deep within my groin.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes unisex butt and anus -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Voyeur</defName>
+        <label>Average Anus (Positive) trait Voyeur</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, exposed rear, the subtle visibility of {PAWN_possessive} opening immediately caught my voyeuristic eye. What a truly delightful discovery!</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} well-formed, average buttock, with its tempting, visible opening, sent a thrill of excitement through me. My gaze lingered.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average posterior, the way {PAWN_possessive} opening seemed to beckon, filled me with a delicious curiosity. A perfect view.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly captivating, rear, with its clearly presented opening, made my heart skip a beat. I reveled in the secret pleasure of seeing it.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that alluringly visible opening, inflamed my senses. A voyeur's dream come true.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening brought a flush of excitement. My eyes greedily absorbed the view.</li>
+            <li>{PAWN_nameShortPossessive} average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. I couldn't tear my gaze away.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of anticipation through my core. A truly fascinating sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a ravenous fascination within. I wanted to see more.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush with voyeuristic pleasure. An absolute delight.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, filled me with a thrilling sense of forbidden desire. My gaze intensified.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to observe.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built from the sight.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began from the view.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, purely from looking.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, just by watching.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread from my eyes.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, from the bare sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a ravenous yearning within. My muscles tensed with pleasurable expectation, solely from observation.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, simply from observing.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, filled me with a thrilling sense of forbidden desire. My loins throbbed, just by witnessing.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire stirred from the display.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with a giddy excitement. A delightful pressure built, triggered by the sight.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my aging frame. A pleasurable ache began because I saw it.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, simply by watching.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, just by looking.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread from witnessing it.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, solely from the observation.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a ravenous yearning within. My muscles tensed with pleasurable expectation, simply from the visual.</li>
+            <li>{PAWN_nameShortPossessive} average, firm buttock, with its neat, visible opening, is quite charming. It's refreshing to see such a healthy, natural form, especially revealed so openly.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Voyeur_M</defName>
+        <label>Average Anus (Positive) trait Voyeur_M</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, exposed rear, the sight of {PAWN_possessive} firm, visible opening sent a tingle through my cock. What a delightful, perverse discovery!</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} youthful, average derriere and its slightly parted opening stirred a powerful, insistent heat within me. My member hardened.</li>
+            <li>That plump, average buttock on {PAWN_nameShort}, with its teasingly visible opening, awakened a deep, carnal craving. My loins stirred, throbbing with a distinct urge.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to beckon, filled me with a perverse delight. A delightful throb began in my pants.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet utterly alluring posterior, with its clearly presented opening, made my heart pound. I felt a strong, pleasurable erection forming.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, inflamed my senses. A familiar stiffness spread through my groin.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening brought a flush to my face. My body reacted with a familiar, insistent pulse.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A pleasant weight settled in my pants.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of anticipation through me. I felt an undeniable stirring in my groin.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a passionate yearning within. My body tightened with a pleasurable tension, my cock twitching.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, and my cock stiffened.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, filled me with a thrilling sense of forbidden desire. My loins throbbed intensely.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. My erection became undeniable.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, a heavy throbbing.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, my cock pulsing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, my balls tightening.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier in my pants.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread, reaching my groin.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, hard.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my cock throbbing.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, my erection growing rigid.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, filled me with a thrilling sense of forbidden desire. My loins throbbed, an urgent ache.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. My cock felt full.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, my shaft straining.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, making me twitch.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, my balls aching.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, urging me closer.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread, leading to a strong pulse.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, demanding attention.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my cock swelling with desire.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Voyeur_F</defName>
+        <label>Average Anus (Positive) trait Voyeur_F</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, exposed rear, the sight of {PAWN_possessive} firm, visible opening sent a tingle through my core. What a truly delightful, intimate discovery!</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} youthful, average derriere and its slightly parted opening stirred a powerful, undeniable warmth within me. My own depths stirred in response.</li>
+            <li>That plump, average buttock on {PAWN_nameShort}, with its teasingly visible opening, awakened a deep, primal yearning. My loins pulsed with a distinct, feminine urge.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to beckon, filled me with a perverse delight. A delightful throb began between my legs.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet utterly alluring posterior, with its clearly presented opening, made my heart skip. I felt a strong, pleasurable wetness.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, inflamed my senses. A familiar warmth spread through me.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening brought a flush to my cheeks. My body reacted with a familiar, insistent pulse.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A pleasant dampness settled.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of anticipation through me. I felt an undeniable stirring deep inside.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a passionate yearning within. My body tightened with a pleasurable tension, my core clenching.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, and a soft moan escaped.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, filled me with a thrilling sense of forbidden desire. My loins throbbed intensely, wet.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. My desire became undeniable, a soft ache.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, a rising heat.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, making me shift.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, my sensitive parts throbbing.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful warmth spreading.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread, pooling low.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my core, demanding.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, a soft tremor.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, a delicious throbbing.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, filled me with a thrilling sense of forbidden desire. My loins throbbed, deliciously.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. My desire became undeniable, a growing ache.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, a hot flush.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, making me squirm.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, my inner thighs clenching.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful warmth spreading, making me sigh.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread, making me feel ready.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my core, intensely.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my core throbbing with desire.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_NMM_Exhibitionist</defName>
+        <label>Average Anus (Positive) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Witnessing {PAWN_nameShortPossessive} average, exposed rear fills me with immense satisfaction; the subtle visibility of {PAWN_possessive} opening is simply divine to showcase.</li>
+            <li>The sight of {PAWN_nameShortPossessive} well-formed, average buttock, with its tempting, visible opening, excites me greatly. It makes me want to reveal my own.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average posterior, the way {PAWN_possessive} opening is proudly displayed, brings me perverse joy. This is truly exhibitionism at its finest.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly captivating, rear, with its clearly presented opening, emboldens my own desires. What a thrill to see it.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that alluringly visible opening, sparks a powerful urge to be seen myself.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening fills me with a sense of shared liberation. Marvelous.</li>
+            <li>{PAWN_nameShortPossessive} average rear, with its inviting curves and clearly defined opening, inspires me. It’s magnificent to see such a bold display.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sends a surge of thrilling appreciation through me. What a grand spectacle.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous hunger for public display. Truly empowering.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening makes my blood rush with shared exhibitionist pleasure. Absolutely liberating.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of audacious delight. My spirit soars seeing it exposed.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, encouraging my own boldness.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement and a powerful urge for self-exposure.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame, urging me to reveal more.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of public display. My body tingled.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire to flaunt myself intensified, a delightful weight.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response to show off. A delightful tingle.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within, inspiring brazenness.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within to make a spectacle of myself. My muscles tensed.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to exhibit myself.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of freedom. My loins throb, longing to be seen.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to expose myself.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, an urge to display.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, pushing me to reveal.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of open exhibition. My body tingled with eager anticipation.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, urging public display.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for exhibition. A delightful tingle spread.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, wanting to be observed.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within to publicly display. My muscles tensed with pleasurable expectation.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} uninhibited exposure fills me with a triumphant delight; the ordinary form made extraordinary through brazen display. It's truly inspiring.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young females butt and anus, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_NMM_Exhibitionist_male</defName>
+        <label>Average Anus (Positive) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Witnessing {PAWN_nameShortPossessive} average, exposed rear fills me with immense satisfaction; the subtle visibility of {PAWN_possessive} opening makes my own cock twitch with pride.</li>
+            <li>The sight of {PAWN_nameShortPossessive} well-formed, average buttock, with its tempting, visible opening, excites me greatly. It makes me want to reveal my own hard cock.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average posterior, the way {PAWN_possessive} opening is proudly displayed, brings me perverse joy. My member rises in admiration.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly captivating, rear, with its clearly presented opening, emboldens my own desires. What a thrill, my cock is stiffening.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that alluringly visible opening, sparks a powerful urge to be seen myself. My pants are getting tight.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening fills me with a sense of shared liberation. My cock demands attention.</li>
+            <li>{PAWN_nameShortPossessive} average rear, with its inviting curves and clearly defined opening, inspires me. It’s magnificent to see such a bold display, making my own shaft throb.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sends a surge of thrilling appreciation through me. My erection is undeniable.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous hunger for public display. My cock pulses with eager anticipation.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening makes my blood rush with shared exhibitionist pleasure. My rigid member aches.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of audacious delight. My spirit soars seeing it exposed, and my balls tighten.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, encouraging my own boldness. My cock is ready.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement and a powerful urge for self-exposure. My shaft twitched.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame, urging me to reveal my hard cock.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of public display. My body tingled, and my member swelled.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire to flaunt myself intensified, my cock pressing.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response to show off. My shaft felt a delicious strain.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within, my cock throbbing for exposure.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within to make a spectacle of myself. My cock is rock hard.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to exhibit my stiff cock.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of freedom. My loins throb, longing to be seen, my cock pulsing.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to expose my engorged cock.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, my cock straining to be seen.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, making my cock twitch.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of open exhibition. My body tingled with eager anticipation, my erection demanding attention.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, urging public display from my cock.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for exhibition. A delightful tingle spread, making my cock yearn.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, wanting my cock observed.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within to publicly display. My muscles tensed with pleasurable expectation, my cock throbbing with life.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} uninhibited exposure fills me with a triumphant delight; the ordinary form made extraordinary through brazen display. My cock is hard with appreciation.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young females butt and anus, can include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_NMM_Exhibitionist_Female</defName>
+        <label>Average Anus (Positive) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Witnessing {PAWN_nameShortPossessive} average, exposed rear fills me with immense satisfaction; the subtle visibility of {PAWN_possessive} opening makes my own pussy tingle in shared desire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} well-formed, average buttock, with its tempting, visible opening, excites me greatly. It makes me want to spread my own wetness.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average posterior, the way {PAWN_possessive} opening is proudly displayed, brings me perverse joy. My depths stir in admiration.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly captivating, rear, with its clearly presented opening, emboldens my own desires. What a thrill, my pussy is throbbing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that alluringly visible opening, sparks a powerful urge to be seen myself. A delightful wetness forms.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening fills me with a sense of shared liberation. My pussy demands attention.</li>
+            <li>{PAWN_nameShortPossessive} average rear, with its inviting curves and clearly defined opening, inspires me. It’s magnificent to see such a bold display, making my own clit pulse.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sends a surge of thrilling appreciation through me. My pussy feels swollen.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous hunger for public display. My depths hum with eager anticipation.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening makes my blood rush with shared exhibitionist pleasure. My wetness is undeniable.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of audacious delight. My spirit soars seeing it exposed, and my pussy tingles.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, encouraging my own boldness. My pussy feels warm.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement and a powerful urge for self-exposure. My clit twitched.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame, urging me to reveal my wet pussy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of public display. My body tingled, and my pussy swelled.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire to flaunt myself intensified, my pussy dripping.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response to show off. My pussy felt a delicious strain.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within, my pussy throbbing for exposure.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within to make a spectacle of myself. My pussy is ready.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to exhibit my wetness.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of freedom. My loins throb, longing to be seen, my pussy pulsating.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to expose my throbbing pussy.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, my pussy straining to be seen.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, making my pussy twitch.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of open exhibition. My body tingled with eager anticipation, my pussy demanding attention.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, urging public display from my pussy.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for exhibition. A delightful tingle spread, making my pussy yearn.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, wanting my pussy observed.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within to publicly display. My muscles tensed with pleasurable expectation, my pussy throbbing with life.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} uninhibited exposure fills me with a triumphant delight; the ordinary form made extraordinary through brazen display. My pussy is hot with appreciation.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Nymphomaniac</defName>
+        <label>Average Anus (Positive) trait Nymphomaniac</label>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, exposed rear, the subtle visibility of {PAWN_possessive} opening immediately sent a jolt of arousal through me. I must have it!</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} well-formed, average buttock, with its tempting, visible opening, ignited an intense craving within me. My body thrums with desire.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average posterior, the way {PAWN_possessive} opening seemed to beckon, filled me with an insatiable hunger. I want to experience it now.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly captivating, rear, with its clearly presented opening, makes my entire being ache for intimacy. The desire is overwhelming.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that alluringly visible opening, sparks a powerful, desperate urge. I need to feel it.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening fills me with a desperate need for release. I can't think of anything else.</li>
+            <li>{PAWN_nameShortPossessive} average rear, with its inviting curves and clearly defined opening, inspires an immediate, overwhelming need. I must have physical contact.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sends a surge of uncontrollable lust through me. I burn with desire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous, all-consuming yearning within. My body is ready.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening makes my blood race with fervent desire. I need satisfaction now.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of urgent arousal. My loins throb, demanding attention.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, intensifying my craving.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement and a powerful, relentless hunger.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame, urging an immediate encounter.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy that consumes my thoughts. My body tingled with eager anticipation.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, demanding gratification.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response, a desperate need for pleasure.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, an urgent call.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, aching for release.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to claim it.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of insatiable desire. My loins throb, longing for contact.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to possess it.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, an intense craving.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, urging me forward.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of immediate fulfillment. My body tingled with eager anticipation.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, demanding satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for profound pleasure. A delightful tingle spread.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, an undeniable pull.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, ready to succumb.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} uninhibited exposure fills me with a triumphant delight; the ordinary form made extraordinary through brazen display. My entire body demands release.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Nymphomaniac_male</defName>
+        <label>Average Anus (Positive) trait Nymphomaniac_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, exposed rear, the subtle visibility of {PAWN_possessive} opening immediately sent a jolt of arousal through my cock. I must have it now!</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} well-formed, average buttock, with its tempting, visible opening, ignited an intense craving within me. My cock is throbbing.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average posterior, the way {PAWN_possessive} opening seemed to beckon, filled me with an insatiable hunger. My erection demands satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly captivating, rear, with its clearly presented opening, makes my entire being ache for intimacy. My cock is hard and pulsing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that alluringly visible opening, sparks a powerful, desperate urge. My member is straining in my pants.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening fills me with a desperate need for release. My cock is aching.</li>
+            <li>{PAWN_nameShortPossessive} average rear, with its inviting curves and clearly defined opening, inspires an immediate, overwhelming need. My cock demands physical contact.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of uncontrollable lust through me. My cock burns with desire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous, all-consuming yearning within. My cock is ready.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening makes my blood race with fervent desire. My rigid cock needs satisfaction now.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of urgent arousal. My loins throb, my cock demanding attention.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, intensifying my craving. My cock is painfully hard.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement and a powerful, relentless hunger. My shaft pulses.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame, urging an immediate encounter. My cock is on fire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy that consumes my thoughts. My body tingled, my cock swelling.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, my cock aching for gratification.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response, a desperate need for pleasure. My erection twitches.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, my cock demanding release.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my cock throbbing with life.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to plunge my cock in.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of insatiable desire. My loins throb, my cock longing for contact.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to thrust my cock.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, my cock straining.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, my cock hardening further.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of immediate fulfillment. My body tingled with eager anticipation, my cock demanding.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, my cock needing satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for profound pleasure. My cock yearns.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, my cock throbbing intensely.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my cock trembling with desire.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} uninhibited exposure fills me with a triumphant delight; the ordinary form made extraordinary through brazen display. My cock is rock hard.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Nymphomaniac_Female</defName>
+        <label>Average Anus (Positive) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, exposed rear, the subtle visibility of {PAWN_possessive} opening immediately sent a jolt of arousal through my pussy. I must have it now!</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} well-formed, average buttock, with its tempting, visible opening, ignited an intense craving within me. My pussy is throbbing.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average posterior, the way {PAWN_possessive} opening seemed to beckon, filled me with an insatiable hunger. My wetness demands satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly captivating, rear, with its clearly presented opening, makes my entire being ache for intimacy. My pussy is hot and pulsing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that alluringly visible opening, sparks a powerful, desperate urge. My depths are swelling.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening fills me with a desperate need for release. My pussy is aching.</li>
+            <li>{PAWN_nameShortPossessive} average rear, with its inviting curves and clearly defined opening, inspires an immediate, overwhelming need. My pussy demands physical contact.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of uncontrollable lust through me. My pussy burns with desire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous, all-consuming yearning within. My pussy is ready.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening makes my blood race with fervent desire. My wet pussy needs satisfaction now.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of urgent arousal. My loins throb, my pussy demanding attention.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, intensifying my craving. My pussy feels swollen.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement and a powerful, relentless hunger. My clit pulses.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame, urging an immediate encounter. My pussy is on fire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy that consumes my thoughts. My body tingled, my pussy dripping.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, my pussy aching for gratification.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response, a desperate need for pleasure. My pussy twitches.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my core, my pussy demanding release.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my pussy throbbing with life.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to claim her.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of insatiable desire. My loins throb, my pussy longing for contact.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to feel her depths.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, my pussy straining.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, my pussy clenching.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of immediate fulfillment. My body tingled with eager anticipation, my pussy demanding.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, my pussy needing satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for profound pleasure. My pussy yearns.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my core, my pussy throbbing intensely.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my pussy trembling with desire.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} uninhibited exposure fills me with a triumphant delight; the ordinary form made extraordinary through brazen display. My pussy is hot with appreciation.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Kind</defName>
+        <label>Average Anus (Positive) trait Kind</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} average, exposed rear is perfectly natural and wholesome. Its gentle curves and neat opening suggest a comforting beauty.</li>
+            <li>I observed {PAWN_nameShortPossessive} well-formed, average buttock, with its subtle, visible opening. It’s a pleasant and unassuming part of {PAWN_possessive} natural anatomy.</li>
+            <li>{PAWN_nameShortPossessive} average posterior, openly presented, carries an honest, innocent charm. The visible opening is simply a detail of {PAWN_possessive} unadorned form.</li>
+            <li>The pleasant form of {PAWN_nameShortPossessive} buttock, combined with the visible, well-defined opening, was remarkably appealing, a truly delightful sight. I found myself quite taken by it.</li>
+            <li>Observing {PAWN_nameShortPossessive} buttocks, their soft, natural contours and the subtle, inviting opening, was undeniably pleasant. It sparked a quiet, appreciative curiosity within me.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, presenting a pleasingly rounded shape and a neatly defined opening, quite visible and alluring. I felt a gentle warmth spread through me.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} buttock revealed a well-structured form and a subtly pronounced opening, suggesting a pleasant encounter. My thoughts lingered on its inviting nature.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, framed by supple, healthy skin, hints at a harmonious anatomy. My mind drifts to comfortable intimacy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} backside, with its appealing contour and a glimpse of the unpretentious opening, offered a reassuring sense of natural grace.</li>
+            <li>I noticed {PAWN_nameShortPossessive} well-formed posterior, with its moderate aperture presenting itself cleanly, hinting at pleasant experiences. A genuine appreciation stirred.</li>
+            <li>{PAWN_nameShortPossessive} buttock, displaying a healthy curve and a modest, visible opening, seemed quite inviting. My gaze lingered, a feeling of contentment settling in.</li>
+            <li>The familiar sight of {PAWN_nameShortPossessive} rear, with its balanced proportions and a visible, yet discreet, opening, felt quite welcoming and comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside offered a pleasant view, its natural shape complemented by the clearly defined yet unexaggerated opening, hinting at quiet pleasure.</li>
+            <li>An agreeable form defined {PAWN_nameShortPossessive} posterior, the opening presenting itself with a moderate visibility that was neither too prominent nor too hidden. A rather agreeable sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, its pleasing contours and the subtle visibility of the opening, evoked a sense of balanced aesthetics. Quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, nestled within a naturally proportioned derriere, suggests an uncomplicated and agreeable anatomy, bringing a sense of warmth.</li>
+            <li>The pleasing outline of {PAWN_nameShortPossessive} buttock, combined with the neatly apparent opening, felt quite natural and appealing. It left a positive impression.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} rear, the sight of {PAWN_possessive} pleasingly curved butt and its average, inviting opening immediately caught my eye, a truly delightful view.</li>
+            <li>{PAWN_nameShortPossessive} rear, with its soft, rounded contours and a neatly visible opening, made for an appealing display. It felt quite comforting to behold.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, noticing the gentle swell of {PAWN_possessive} buttocks and the perfectly centered opening, which seemed quite harmonious.</li>
+            <li>The natural shape of {PAWN_nameShortPossessive} butt, combined with the moderate visibility of the opening, presented a charming picture. It was a subtly captivating sight.</li>
+            <li>The modest curve of {PAWN_nameShortPossessive} rear, along with its average, unassuming opening, presents a simple, understated beauty that is truly appreciated.</li>
+            <li>I find {PAWN_nameShortPossessive} average posterior to be quite pleasant; its balanced form and natural opening are a testament to modest grace.</li>
+            <li>{PAWN_nameShortPossessive} backside, with its gentle shape and unpretentious opening, is perfectly amiable. A truly wholesome and respectable sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} average buttock, with its subtle visibility, evokes a sense of quiet appreciation. It’s naturally well-proportioned.</li>
+            <li>The very natural appearance of {PAWN_nameShortPossessive} rear, with its average, unassuming opening, is rather comforting. It truly speaks of a gentle form.</li>
+            <li>{PAWN_nameShortPossessive} posterior, displaying a healthy curve and a modest, visible opening, seems quite innocent and inviting. A genuinely pleasant sight.</li>
+            <li>I acknowledge {PAWN_nameShortPossessive} average buttock as perfectly normal; its gentle form and visible opening are a simple fact of anatomy.</li>
+            <li>{PAWN_nameShortPossessive} backside offers a kind view, its natural contours complemented by the clearly defined yet unexaggerated opening, hinting at gentle honesty.</li>
+            <li>A perfectly unadorned form defines {PAWN_nameShortPossessive} posterior, the opening presenting itself with a moderate visibility that is neither too prominent nor too hidden. A rather kind sight.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Prude</defName>
+        <label>Average Anus (Positive) trait Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>*Sigh.* {PAWN_nameShortPossessive} average backside is... present. The opening is certainly visible, I suppose. Nothing to write home about, just typical.</li>
+            <li>Well, {PAWN_nameShortPossessive} rear is there. Its average shape and visible opening are, regrettably, undeniable. Moving on.</li>
+            <li>Honestly, {PAWN_nameShortPossessive} butt is just average. The opening is perfectly visible, as one might expect. Not exactly scandalous, but certainly not refined.</li>
+            <li>{PAWN_nameShortPossessive} backside. Yes, it's an average posterior. The opening is quite apparent, if you care about such common sights. A tad… uninspired.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average buttock, with its visible opening, is entirely unremarkable. Nothing to cause a stir, unfortunately.</li>
+            <li>{PAWN_nameShortPossessive} rear is simply there, an average form with a visible opening. One truly expects more discretion, but alas.</li>
+            <li>I suppose {PAWN_nameShortPossessive} average posterior is perfectly normal, though the clear visibility of {PAWN_possessive} opening is a bit… direct for my taste.</li>
+            <li>An average backside, with an average opening. {PAWN_nameShortPossessive} rear is hardly offensive, just disappointingly mundane.</li>
+            <li>{PAWN_nameShortPossessive} buttock is exactly what you'd expect: average, with a discernible opening. My expectations remain unchanged.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} unadorned rear, its pleasant curve and perfectly centered opening were quite noticeable, offering a sense of familiar beauty. I felt a subtle appreciation.</li>
+            <li>{PAWN_nameShortPossessive} rear, with its gentle, inviting curve and the perfectly proportioned opening, created an intriguing sight. A pleasant sense of calm washed over me.</li>
+            <li>I appreciate {PAWN_nameShortPossessive} average anus, it seems just right for a fulfilling experience.</li>
+            <li>The pleasing form of {PAWN_nameShortPossessive} buttock, combined with the visible, well-defined opening, was remarkably appealing, a truly delightful sight. I found myself quite taken by it.</li>
+            <li>Observing {PAWN_nameShortPossessive} buttocks, their soft, natural contours and the subtle, inviting opening, was undeniably pleasant. It sparked a quiet, appreciative curiosity within me.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, presenting a pleasingly rounded shape and a neatly defined opening, quite visible and alluring. I felt a gentle warmth spread through me.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} buttock revealed a well-structured form and a subtly pronounced opening, suggesting a pleasant encounter. My thoughts lingered on its inviting nature.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, framed by supple, healthy skin, hints at a harmonious anatomy. My mind drifts to comfortable intimacy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} backside, with its appealing contour and a glimpse of the unpretentious opening, offered a reassuring sense of natural grace.</li>
+            <li>I noticed {PAWN_nameShortPossessive} well-formed posterior, with its moderate aperture presenting itself cleanly, hinting at pleasant experiences. A genuine appreciation stirred.</li>
+            <li>{PAWN_nameShortPossessive} buttock, displaying a healthy curve and a modest, visible opening, seemed quite inviting. My gaze lingered, a feeling of contentment settling in.</li>
+            <li>The familiar sight of {PAWN_nameShortPossessive} rear, with its balanced proportions and a visible, yet discreet, opening, felt quite welcoming and comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside offered a pleasant view, its natural shape complemented by the clearly defined yet unexaggerated opening, hinting at quiet pleasure.</li>
+            <li>An agreeable form defined {PAWN_nameShortPossessive} posterior, the opening presenting itself with a moderate visibility that was neither too prominent nor too hidden. A rather agreeable sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, its pleasing contours and the subtle visibility of the opening, evoked a sense of balanced aesthetics. Quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, nestled within a naturally proportioned derriere, suggests an uncomplicated and agreeable anatomy, bringing a sense of warmth.</li>
+            <li>The pleasing outline of {PAWN_nameShortPossessive} buttock, combined with the neatly apparent opening, felt quite natural and appealing. It left a positive impression.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} rear, the sight of {PAWN_possessive} pleasingly curved butt and its average, inviting opening immediately caught my eye, a truly delightful view.</li>
+            <li>{PAWN_nameShortPossessive} rear, with its soft, rounded contours and a neatly visible opening, made for an appealing display. It felt quite comforting to behold.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, noticing the gentle swell of {PAWN_possessive} buttocks and the perfectly centered opening, which seemed quite harmonious.</li>
+            <li>The natural shape of {PAWN_nameShortPossessive} butt, combined with the moderate visibility of the opening, presented a charming picture. It was a subtly captivating sight.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Elder Male observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_Elderly_Male_opinion_Male</defName>
+        <label>Average Anus (Positive)_Elderly_Male_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average, firm buttock, with its neat, visible opening, is quite respectable. It's good to see such a healthy, natural form on a young man.</li>
+            <li>That young lad, {PAWN_nameShort}, has a perfectly average and well-rounded backside. The subtle visibility of {PAWN_possessive} opening is quite modest and pleasing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} youthful, average rear, with its gentle contours and clearly defined opening, reminds me of my own younger days. Quite solid.</li>
+            <li>I observed {PAWN_nameShortPossessive} innocent, average posterior; its pleasing roundness and clean, visible opening speak of natural, masculine beauty. A truly admirable view.</li>
+            <li>A perfectly respectable, average rear {PAWN_nameShort} possesses. The way {PAWN_possessive} buttocks curve and the neatness of {PAWN_possessive} opening are quite strong.</li>
+            <li>The wholesome allure of {PAWN_nameShortPossessive} average buttock, with its gentle shape and clearly apparent opening, is quite commendable. Such youthful strength is a joy to witness.</li>
+            <li>{PAWN_nameShortPossessive} lovely, average backside, with its soft, symmetrical form and neatly visible opening, radiates a charming vigor. A very pleasant sight indeed.</li>
+            <li>I noticed {PAWN_nameShortPossessive} delicate, average rear; its modest, inviting curve and the subtle visibility of {PAWN_possessive} opening are quite appealing. Such an unspoiled form.</li>
+            <li>A truly elegant, average posterior on {PAWN_nameShort}; its smooth, rounded shape and well-defined opening are a testament to youthful vitality. Quite admirable.</li>
+            <li>The sight of {PAWN_nameShortPossessive} blossoming rear, with its average, pleasing contours and a discreetly visible opening, is quite heartening. It is a solid sight on a young man.</li>
+            <li>{PAWN_nameShortPossessive} average, shapely buttocks, with their smooth lines and the neatness of {PAWN_possessive} opening, are a refreshing display of natural power. It's truly a delight.</li>
+            <li>I admired {PAWN_nameShortPossessive} charming, average backside; its gentle curve and modest opening reflect a pleasant innocence. A truly well-formed, unspoiled form.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} unadorned rear, its pleasant curve and perfectly centered opening were quite noticeable, offering a sense of familiar beauty. I felt a subtle appreciation.</li>
+            <li>{PAWN_nameShortPossessive} rear, with its gentle, inviting curve and the perfectly proportioned opening, created an intriguing sight. A pleasant sense of calm washed over me.</li>
+            <li>I appreciate {PAWN_nameShortPossessive} average anus, it seems just right for a fulfilling experience.</li>
+            <li>The pleasing form of {PAWN_nameShortPossessive} buttock, combined with the visible, well-defined opening, was remarkably appealing, a truly delightful sight. I found myself quite taken by it.</li>
+            <li>Observing {PAWN_nameShortPossessive} buttocks, their soft, natural contours and the subtle, inviting opening, was undeniably pleasant. It sparked a quiet, appreciative curiosity within me.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, presenting a pleasingly rounded shape and a neatly defined opening, quite visible and alluring. I felt a gentle warmth spread through me.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} buttock revealed a well-structured form and a subtly pronounced opening, suggesting a pleasant encounter. My thoughts lingered on its inviting nature.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, framed by supple, healthy skin, hints at a harmonious anatomy. My mind drifts to comfortable intimacy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} backside, with its appealing contour and a glimpse of the unpretentious opening, offered a reassuring sense of natural grace.</li>
+            <li>I noticed {PAWN_nameShortPossessive} well-formed posterior, with its moderate aperture presenting itself cleanly, hinting at pleasant experiences. A genuine appreciation stirred.</li>
+            <li>{PAWN_nameShortPossessive} buttock, displaying a healthy curve and a modest, visible opening, seemed quite inviting. My gaze lingered, a feeling of contentment settling in.</li>
+            <li>The familiar sight of {PAWN_nameShortPossessive} rear, with its balanced proportions and a visible, yet discreet, opening, felt quite welcoming and comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside offered a pleasant view, its natural shape complemented by the clearly defined yet unexaggerated opening, hinting at quiet pleasure.</li>
+            <li>An agreeable form defined {PAWN_nameShortPossessive} posterior, the opening presenting itself with a moderate visibility that was neither too prominent nor too hidden. A rather agreeable sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, its pleasing contours and the subtle visibility of the opening, evoked a sense of balanced aesthetics. Quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, nestled within a naturally proportioned derriere, suggests an uncomplicated and agreeable anatomy, bringing a sense of warmth.</li>
+            <li>The pleasing outline of {PAWN_nameShortPossessive} buttock, combined with the neatly apparent opening, felt quite natural and appealing. It left a positive impression.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} rear, the sight of {PAWN_possessive} pleasingly curved butt and its average, inviting opening immediately caught my eye, a truly delightful view.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes males butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_Elderly_Male_voyer_opinion_Male</defName>
+        <label>Average Anus (Positive)_Elderly_Male_voyer_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon {PAWN_nameShortPossessive} exposure, the sight of {PAWN_possessive} average, firm butt and its inviting, visible opening sent a tingle down my spine, making my old cock stir with desire.</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} young, average derriere and its slightly parted opening stirred a powerful, almost forgotten heat within me. My member hardened with a soft throb.</li>
+            <li>That plump, average buttock on {PAWN_nameShort}, with its teasingly visible opening, awakened a deep, carnal craving. My loins stirred with a distinct, pleasurable urge.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to beckon, filled me with a perverse delight. A delightful throb began in my pants.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet utterly alluring posterior, with its clearly presented opening, made my old heart pound. I felt a strong, pleasurable erection forming.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, inflamed my senses. A familiar stiffness spread through my groin.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening brought a flush to my face. My body reacted with a familiar, insistent pulse.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A pleasant weight settled in my pants.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of anticipation through me. I felt an undeniable stirring in my groin.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a passionate yearning within. My body tightened with a pleasurable tension, my cock twitching.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, and my cock stiffened.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of forbidden desire. My loins throbbed intensely.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. My erection became undeniable.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, a heavy throbbing.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, my cock pulsing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, my balls tightening.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier in my pants.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread, reaching my groin.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, hard.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my cock throbbing.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, my erection growing rigid.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of forbidden desire. My loins throb, an urgent ache.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. My cock felt full.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, my shaft straining.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, making me twitch.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of open exhibition. My body tingled with eager anticipation, my balls aching.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, urging me closer.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for exhibition. A delightful tingle spread, leading to a strong pulse.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, demanding attention.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my cock swelling with desire.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_Elderly_Female_opinion_Male</defName>
+        <label>Average Anus (Positive)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average, firm buttock, with its neat, visible opening, is quite respectable. It's good to see such a healthy, natural form on a young man.</li>
+            <li>That young lad, {PAWN_nameShort}, has a perfectly average and well-rounded backside. The subtle visibility of {PAWN_possessive} opening is quite modest and pleasing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} youthful, average rear, with its gentle contours and clearly defined opening, reminds me of my own younger days. Quite solid.</li>
+            <li>I observed {PAWN_nameShortPossessive} innocent, average posterior; its pleasing roundness and clean, visible opening speak of natural, masculine beauty. A truly admirable view.</li>
+            <li>A perfectly respectable, average rear {PAWN_nameShort} possesses. The way {PAWN_possessive} buttocks curve and the neatness of {PAWN_possessive} opening are quite strong.</li>
+            <li>The wholesome allure of {PAWN_nameShortPossessive} average buttock, with its gentle shape and clearly apparent opening, is quite commendable. Such youthful strength is a joy to witness.</li>
+            <li>{PAWN_nameShortPossessive} lovely, average backside, with its soft, symmetrical form and neatly visible opening, radiates a charming vigor. A very pleasant sight indeed.</li>
+            <li>I noticed {PAWN_nameShortPossessive} delicate, average rear; its modest, inviting curve and the subtle visibility of {PAWN_possessive} opening are quite appealing. Such an unspoiled form.</li>
+            <li>A truly elegant, average posterior on {PAWN_nameShort}; its smooth, rounded shape and well-defined opening are a testament to youthful vitality. Quite admirable.</li>
+            <li>The sight of {PAWN_nameShortPossessive} blossoming rear, with its average, pleasing contours and a discreetly visible opening, is quite heartening. It is a solid sight on a young man.</li>
+            <li>{PAWN_nameShortPossessive} average, shapely buttocks, with their smooth lines and the neatness of {PAWN_possessive} opening, are a refreshing display of natural power. It's truly a delight.</li>
+            <li>I admired {PAWN_nameShortPossessive} charming, average backside; its gentle curve and modest opening reflect a pleasant innocence. A truly well-formed, unspoiled form.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} unadorned rear, its pleasant curve and perfectly centered opening were quite noticeable, offering a sense of familiar beauty. I felt a subtle appreciation.</li>
+            <li>{PAWN_nameShortPossessive} rear, with its gentle, inviting curve and the perfectly proportioned opening, created an intriguing sight. A pleasant sense of calm washed over me.</li>
+            <li>I appreciate {PAWN_nameShortPossessive} average anus, it seems just right for a fulfilling experience.</li>
+            <li>The pleasing form of {PAWN_nameShortPossessive} buttock, combined with the visible, well-defined opening, was remarkably appealing, a truly delightful sight. I found myself quite taken by it.</li>
+            <li>Observing {PAWN_nameShortPossessive} buttocks, their soft, natural contours and the subtle, inviting opening, was undeniably pleasant. It sparked a quiet, appreciative curiosity within me.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, presenting a pleasingly rounded shape and a neatly defined opening, quite visible and alluring. I felt a gentle warmth spread through me.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} buttock revealed a well-structured form and a subtly pronounced opening, suggesting a pleasant encounter. My thoughts lingered on its inviting nature.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, framed by supple, healthy skin, hints at a harmonious anatomy. My mind drifts to comfortable intimacy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} backside, with its appealing contour and a glimpse of the unpretentious opening, offered a reassuring sense of natural grace.</li>
+            <li>I noticed {PAWN_nameShortPossessive} well-formed posterior, with its moderate aperture presenting itself cleanly, hinting at pleasant experiences. A genuine appreciation stirred.</li>
+            <li>{PAWN_nameShortPossessive} buttock, displaying a healthy curve and a modest, visible opening, seemed quite inviting. My gaze lingered, a feeling of contentment settling in.</li>
+            <li>The familiar sight of {PAWN_nameShortPossessive} rear, with its balanced proportions and a visible, yet discreet, opening, felt quite welcoming and comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside offered a pleasant view, its natural shape complemented by the clearly defined yet unexaggerated opening, hinting at quiet pleasure.</li>
+            <li>An agreeable form defined {PAWN_nameShortPossessive} posterior, the opening presenting itself with a moderate visibility that was neither too prominent nor too hidden. A rather agreeable sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, its pleasing contours and the subtle visibility of the opening, evoked a sense of balanced aesthetics. Quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, nestled within a naturally proportioned derriere, suggests an uncomplicated and agreeable anatomy, bringing a sense of warmth.</li>
+            <li>The pleasing outline of {PAWN_nameShortPossessive} buttock, combined with the neatly apparent opening, felt quite natural and appealing. It left a positive impression.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} rear, the sight of {PAWN_possessive} pleasingly curved butt and its average, inviting opening immediately caught my eye, a truly delightful view.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male observes males butt and anus, more based on solidarity-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_MaleOpinion_Male</defName>
+        <label>Average Anus (Positive)_MaleOpinion_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average, firm buttock, with its neat, visible opening, is quite solid. A good, strong form for a man. Respectable.</li>
+            <li>That lad, {PAWN_nameShort}, has a perfectly average and well-rounded backside. The subtle visibility of {PAWN_possessive} opening speaks of raw, natural strength.</li>
+            <li>The sight of {PAWN_nameShortPossessive} masculine, average rear, with its strong contours and clearly defined opening, is quite commendable. A good, sturdy form.</li>
+            <li>I observed {PAWN_nameShortPossessive} robust, average posterior; its pleasing roundness and clean, visible opening speak of undeniable power. A truly admirable view.</li>
+            <li>A perfectly decent, average rear {PAWN_nameShort} possesses. The way {PAWN_possessive} buttocks curve and the neatness of {PAWN_possessive} opening are quite strong and well-kept.</li>
+            <li>The sturdy appeal of {PAWN_nameShortPossessive} average buttock, with its honest shape and clearly apparent opening, is quite admirable. Such masculine form is good to witness.</li>
+            <li>{PAWN_nameShortPossessive} solid, average backside, with its firm, symmetrical form and neatly visible opening, radiates a quiet strength. A very respectable sight indeed.</li>
+            <li>I noticed {PAWN_nameShortPossessive} strong, average rear; its modest, inviting curve and the subtle visibility of {PAWN_possessive} opening are quite appealing. Such a natural form.</li>
+            <li>A truly honest, average posterior on {PAWN_nameShort}; its smooth, rounded shape and well-defined opening are a testament to healthy vigor. Quite admirable.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unadorned rear, with its average, pleasing contours and a discreetly visible opening, is quite reassuring. It is a solid sight on a man.</li>
+            <li>{PAWN_nameShortPossessive} average, shapely buttocks, with their powerful lines and the neatness of {PAWN_possessive} opening, are a refreshing display of natural might. It's truly a good sight.</li>
+            <li>I admired {PAWN_nameShortPossessive} commendable, average backside; its strong curve and modest opening reflect a pleasant, honest masculinity. A truly well-formed, unspoiled form.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} unadorned rear, its pleasant curve and perfectly centered opening were quite noticeable, offering a sense of familiar beauty. I felt a subtle appreciation.</li>
+            <li>{PAWN_nameShortPossessive} rear, with its gentle, inviting curve and the perfectly proportioned opening, created an intriguing sight. A pleasant sense of calm washed over me.</li>
+            <li>I appreciate {PAWN_nameShortPossessive} average anus, it seems just right for a fulfilling experience.</li>
+            <li>The pleasing form of {PAWN_nameShortPossessive} buttock, combined with the visible, well-defined opening, was remarkably appealing, a truly delightful sight. I found myself quite taken by it.</li>
+            <li>Observing {PAWN_nameShortPossessive} buttocks, their soft, natural contours and the subtle, inviting opening, was undeniably pleasant. It sparked a quiet, appreciative curiosity within me.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, presenting a pleasingly rounded shape and a neatly defined opening, quite visible and alluring. I felt a gentle warmth spread through me.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} buttock revealed a well-structured form and a subtly pronounced opening, suggesting a pleasant encounter. My thoughts lingered on its inviting nature.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, framed by supple, healthy skin, hints at a harmonious anatomy. My mind drifts to comfortable intimacy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} backside, with its appealing contour and a glimpse of the unpretentious opening, offered a reassuring sense of natural grace.</li>
+            <li>I noticed {PAWN_nameShortPossessive} well-formed posterior, with its moderate aperture presenting itself cleanly, hinting at pleasant experiences. A genuine appreciation stirred.</li>
+            <li>{PAWN_nameShortPossessive} buttock, displaying a healthy curve and a modest, visible opening, seemed quite inviting. My gaze lingered, a feeling of contentment settling in.</li>
+            <li>The familiar sight of {PAWN_nameShortPossessive} rear, with its balanced proportions and a visible, yet discreet, opening, felt quite welcoming and comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside offered a pleasant view, its natural shape complemented by the clearly defined yet unexaggerated opening, hinting at quiet pleasure.</li>
+            <li>An agreeable form defined {PAWN_nameShortPossessive} posterior, the opening presenting itself with a moderate visibility that was neither too prominent nor too hidden. A rather agreeable sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, its pleasing contours and the subtle visibility of the opening, evoked a sense of balanced aesthetics. Quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} average-sized opening, nestled within a naturally proportioned derriere, suggests an uncomplicated and agreeable anatomy, bringing a sense of warmth.</li>
+            <li>The pleasing outline of {PAWN_nameShortPossessive} buttock, combined with the neatly apparent opening, felt quite natural and appealing. It left a positive impression.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} rear, the sight of {PAWN_possessive} pleasingly curved butt and its average, inviting opening immediately caught my eye, a truly delightful view.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer male observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Voyeur_Male_to_Male</defName>
+        <label>Average Anus (Positive) trait Voyeur_Male_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, exposed rear, the sight of {PAWN_possessive} firm, visible opening sent a tingle through my cock. What a delightful, perverse discovery!</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} firm, average derriere and its slightly parted opening stirred a powerful, insistent heat within me. My member hardened.</li>
+            <li>That plump, average buttock on {PAWN_nameShort}, with its teasingly visible opening, awakened a deep, carnal craving. My loins stirred, throbbing with a distinct urge.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to beckon, filled me with a perverse delight. A delightful throb began in my pants.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet utterly alluring posterior, with its clearly presented opening, made my heart pound. I felt a strong, pleasurable erection forming.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, inflamed my senses. A familiar stiffness spread through my groin.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening brought a flush to my face. My body reacted with a familiar, insistent pulse.</li>
+            <li>{PAWN_nameShortPossessive} firm, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A pleasant weight settled in my pants.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of anticipation through me. I felt an undeniable stirring in my groin.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a passionate yearning within. My body tightened with a pleasurable tension, my cock twitching.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, and my cock stiffened.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of forbidden desire. My loins throbbed intensely.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. My erection became undeniable.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, a heavy throbbing.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, my cock pulsing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, my balls tightening.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier in my pants.</li>
+            <li>{PAWN_nameShortPossessive} firm, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread, reaching my groin.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, hard.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my cock throbbing.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, my erection growing rigid.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of forbidden desire. My loins throb, an urgent ache.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. My cock felt full.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, my shaft straining.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, making me twitch.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of open exhibition. My body tingled with eager anticipation, my balls aching.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, urging me closer.</li>
+            <li>{PAWN_nameShortPossessive} firm, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for exhibition. A delightful tingle spread, leading to a strong pulse.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, demanding attention.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my cock swelling with desire.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Voyeur_Female_to_Male</defName>
+        <label>Average Anus (Positive) trait Voyeur_Female_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, exposed rear, the subtle visibility of {PAWN_possessive} opening immediately sent a tingle through my core. What a truly delightful, intimate discovery!</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} firm, average derriere and its slightly parted opening stirred a powerful, undeniable warmth within me. My own depths stirred in response.</li>
+            <li>That plump, average buttock on {PAWN_nameShort}, with its teasingly visible opening, awakened a deep, primal yearning. My loins pulsed with a distinct, feminine urge.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to beckon, filled me with a perverse delight. A delightful throb began between my legs.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet utterly alluring posterior, with its clearly presented opening, made my heart skip. I felt a strong, pleasurable wetness.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, inflamed my senses. A familiar warmth spread through me.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening brought a flush to my cheeks. My body reacted with a familiar, insistent pulse.</li>
+            <li>{PAWN_nameShortPossessive} firm, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A pleasant dampness settled.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of anticipation through me. I felt an undeniable stirring deep inside.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignited a passionate yearning within. My body tightened with a pleasurable tension, my core clenching.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, and a soft moan escaped.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of forbidden desire. My loins throbbed intensely, wet.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. My desire became undeniable, a soft ache.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, a rising heat.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame, making me shift. A pleasurable ache began.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, my sensitive parts throbbing.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful warmth spreading.</li>
+            <li>{PAWN_nameShortPossessive} firm, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread, pooling low.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my core, demanding.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, a soft tremor.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken, a delicious throbbing.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of forbidden desire. My loins throb, deliciously.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. My desire became undeniable, a growing ache.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, a hot flush.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame, making me squirm. A pleasurable ache began.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy. My body tingled with eager anticipation, my inner thighs clenching.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful warmth spreading, making me sigh.</li>
+            <li>{PAWN_nameShortPossessive} firm, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response. A delightful tingle spread, making me feel ready.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my core, intensely.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my core throbbing with desire.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Nymphomaniac_male_to_male</defName>
+        <label>Average Anus (Positive) trait Nymphomaniac_male_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+				
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, exposed rear, the subtle visibility of {PAWN_possessive} opening immediately sent a jolt of arousal through my cock. I must have him!</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} well-formed, average buttock, with its tempting, visible opening, ignited an intense craving within me. My cock is throbbing for him.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average posterior, the way {PAWN_possessive} opening seemed to beckon, filled me with an insatiable hunger. My erection demands his satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly captivating, rear, with its clearly presented opening, makes my entire being ache for intimacy. My cock is hard and pulsing for him.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that alluringly visible opening, sparks a powerful, desperate urge. My member is straining in my pants for him.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening fills me with a desperate need for release. My cock is aching for him.</li>
+            <li>{PAWN_nameShortPossessive} average rear, with its inviting curves and clearly defined opening, inspires an immediate, overwhelming need. My cock demands his physical contact.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of uncontrollable lust through me. My cock burns with desire for him.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous, all-consuming yearning within. My cock is ready for him.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening makes my blood race with fervent desire. My rigid cock needs his satisfaction now.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of urgent arousal. My loins throb, my cock demanding his attention.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, intensifying my craving for him. My cock is painfully hard.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement and a powerful, relentless hunger. My shaft pulses for him.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame, urging an immediate encounter. My cock is on fire for him.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy that consumes my thoughts. My body tingled, my cock swelling for him.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, my cock aching for his gratification.</li>
+            <li>{PAWN_nameShortPossessive} firm, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response, a desperate need for pleasure. My erection twitches for him.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, my cock demanding his release.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my cock throbbing with life for him.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to plunge my cock in him.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of insatiable desire. My loins throb, my cock longing for his contact.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to thrust my cock into him.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, my cock straining for him.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, my cock hardening further for him.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of immediate fulfillment. My body tingled with eager anticipation, my cock demanding him.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, my cock needing his satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} firm, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for profound pleasure. My cock yearns for him.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, my cock throbbing intensely for him.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my cock trembling with desire for him.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} uninhibited exposure fills me with a triumphant delight; the ordinary form made extraordinary through brazen display. My cock is rock hard for him.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Average_trait_Nymphomaniac_Female_to_male</defName>
+        <label>Average Anus (Positive) trait Nymphomaniac_Female_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, exposed rear, the subtle visibility of {PAWN_possessive} opening immediately sent a jolt of arousal through my pussy. I must have him now!</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} well-formed, average buttock, with its tempting, visible opening, ignited an intense craving within me. My pussy is throbbing for him.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average posterior, the way {PAWN_possessive} opening seemed to beckon, filled me with an insatiable hunger. My wetness demands his satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly captivating, rear, with its clearly presented opening, makes my entire being ache for intimacy. My pussy is hot and pulsing for him.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that alluringly visible opening, sparks a powerful, desperate urge. My depths are swelling for him.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening fills me with a desperate need for release. My pussy is aching for him.</li>
+            <li>{PAWN_nameShortPossessive} average rear, with its inviting curves and clearly defined opening, inspires an immediate, overwhelming need. My pussy demands his physical contact.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of uncontrollable lust through me. My pussy burns with desire for him.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous, all-consuming yearning within. My pussy is ready for him.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening makes my blood race with fervent desire. My wet pussy needs his satisfaction now.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of urgent arousal. My loins throb, my pussy demanding his attention.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, intensifying my craving for him. My pussy feels swollen.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement and a powerful, relentless hunger. My clit pulses for him.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame, urging an immediate encounter. My pussy is on fire for him.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy that consumes my thoughts. My body tingled, my pussy dripping for him.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, my pussy aching for his gratification.</li>
+            <li>{PAWN_nameShortPossessive} firm, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response, a desperate need for pleasure. My pussy twitches for him.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my core, my pussy demanding his release.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my pussy throbbing with life for him.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to claim him.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average buttock, with its enticingly clear opening, fills me with a thrilling sense of insatiable desire. My loins throb, my pussy longing for his contact.</li>
+            <li>That delightful average derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to feel his depths.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, my pussy straining for him.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, my pussy clenching for him.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average backside, and that captivatingly visible opening, fueled a lustful fantasy of immediate fulfillment. My body tingled with eager anticipation, my pussy demanding him.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, my pussy needing his satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} firm, average rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for profound pleasure. My pussy yearns for him.</li>
+            <li>That delightful, average rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my core, my pussy throbbing intensely for him.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average posterior and its well-presented opening ignites a ravenous yearning within. My muscles tensed with pleasurable expectation, my pussy trembling with desire for him.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} uninhibited exposure fills me with a triumphant delight; the ordinary form made extraordinary through brazen display. My pussy is hot with appreciation for him.</li>
+        </opinionTexts>
+</Def>
+	
+
+<!--  description for unisex with Demon butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Positive_Average_DemonAnus</defName>
+        <label>Average Anus (Positive) DemonAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon observing {PAWN_nameShortPossessive} demonic rear, its average, firm contours and subtly visible, yet infernally tempting opening, evoked a thrilling mixture of awe and desire.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} average-sized demonic buttock, with its subtly glowing, visible opening, stirred a powerful, unsettling curiosity within me. Truly fascinating.</li>
+            <li>That perfectly average, yet disturbingly alluring, demonic posterior on {PAWN_nameShort}, with its clearly presented, otherworldly opening, made my heart race with dark fascination.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average demonic rear, the way {PAWN_possessive} opening seemed to shimmer with dark energy, filled me with a perverse delight. A truly infernal view.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly captivating demonic rear, with its clearly presented, subtly pulsating opening, sent a shiver down my spine. A dark, primal attraction.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average demonic backside, and that alluringly visible, subtly smoking opening, inflamed my senses with forbidden thoughts.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average demonic buttock and its tempting, visible opening brought a flush of both fear and excitement. My eyes greedily absorbed the view.</li>
+            <li>{PAWN_nameShortPossessive} average demonic rear, with its unnatural curves and clearly defined, yet subtly shifting opening, sparked an undeniable, eager response. I couldn't tear my gaze away.</li>
+            <li>That delightful, average demonic rear on {PAWN_nameShort}, with its tempting, visible, and subtly burning opening, sent a surge of thrilling apprehension through me. What a grand spectacle of infernal beauty.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average demonic posterior and its well-presented, slightly rippling opening ignited a ravenous fascination within. I wanted to see more of this unholy grace.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple demonic rear, the sight of its subtly visible, faintly smoldering opening made my blood rush with dark, forbidden pleasure. An absolute delight of the damned.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average demonic buttock, with its enticingly clear, yet subtly shimmering opening, fills me with a thrilling sense of audacious delight. My spirit soars seeing such hellish beauty exposed.</li>
+            <li>That delightful average demonic derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, encouraging my own boldness. It’s a truly captivating infernal sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average demonic rear, the way {PAWN_possessive} opening seemed to wink with dark light, filled me with giddy excitement and a powerful urge for self-corruption.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive demonic posterior, with its clearly presented, subtly glowing opening, sent a shiver through my frame, urging me to embrace the infernal.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average demonic backside, and that captivatingly visible, subtly pulsing opening, fueled a lustful fantasy of dark power. My body tingled with eager anticipation for evil.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average demonic buttock and its tempting, visible opening made my breath catch. My desire to flaunt myself intensified, a delightful weight of corruption growing heavier.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average demonic rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response to show off my own sinful nature. A delightful tingle.</li>
+            <li>That delightful, average demonic rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within, inspiring brazen acts of darkness.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average demonic posterior and its well-presented opening ignites a ravenous yearning within to make a spectacle of myself. My muscles tensed with infernal pleasure.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple demonic rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to embrace the dark.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average demonic buttock, with its enticingly clear opening, fills me with a thrilling sense of freedom. My loins throb, longing to be consumed by darkness.</li>
+            <li>That delightful average demonic derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to expose my inner demon.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average demonic rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, an urge to display my own depravity.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive demonic posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, pushing me to reveal my true self.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average demonic backside, and that captivatingly visible opening, fueled a lustful fantasy of open exhibition of malevolence. My body tingled with eager anticipation.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average demonic buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, urging public display of evil.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average demonic rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for exhibition of sin. A delightful tingle spread.</li>
+            <li>That delightful, average demonic rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, wanting to be observed in my darkest desires.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average demonic posterior and its well-presented opening ignites a ravenous yearning within to publicly display. My muscles tensed with pleasurable expectation, embracing the infernal.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with slime butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Positive_Average_SlimeAnus</defName>
+        <label>Average Anus (Positive) SlimeAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon observing {PAWN_nameShortPossessive} average, gelatinous rear, its subtly visible, yet strangely alluring, opening shimmered, evoking a thrilling mix of curiosity and fascination.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} average-sized slime buttock, with its subtly rippling, visible opening, stirred a powerful, intriguing wonder within me. Truly unique.</li>
+            <li>That perfectly average, yet disturbingly captivating, slime posterior on {PAWN_nameShort}, with its clearly presented, softly pulsing opening, made my heart race with strange interest.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average slime rear, the way {PAWN_possessive} opening seemed to gently undulate, filled me with a perverse delight. A truly exotic view.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly alluring slime rear, with its clearly presented, subtly shimmering opening, sent a shiver down my spine. A wet, primal attraction.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average slime backside, and that alluringly visible, subtly oozing opening, inflamed my senses with new sensations.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average slime buttock and its tempting, visible opening brought a flush of both intrigue and pleasure. My eyes greedily absorbed the view.</li>
+            <li>{PAWN_nameShortPossessive} average slime rear, with its fluid curves and clearly defined, yet subtly shifting opening, sparked an undeniable, eager response. I couldn't tear my gaze away.</li>
+            <li>That delightful, average slime rear on {PAWN_nameShort}, with its tempting, visible, and subtly glistening opening, sent a surge of thrilling appreciation through me. What a grand spectacle of fluidity.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average slime posterior and its well-presented, slightly bubbling opening ignited a ravenous fascination within. I wanted to see more of this unique anatomy.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple slime rear, the sight of its subtly visible, faintly shimmering opening made my blood rush with strange, liquid pleasure. An absolute delight of the alien.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average slime buttock, with its enticingly clear, yet subtly rippling opening, fills me with a thrilling sense of audacious delight. My spirit soars seeing such alien beauty exposed.</li>
+            <li>That delightful average slime derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, encouraging my own boldness. It’s a truly captivating fluid sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average slime rear, the way {PAWN_possessive} opening seemed to wink with liquid light, filled me with giddy excitement and a powerful urge for strange exploration.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive slime posterior, with its clearly presented, subtly pulsing opening, sent a shiver through my frame, urging me to embrace the unknown.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average slime backside, and that captivatingly visible, subtly oozing opening, fueled a lustful fantasy of squishy intimacy. My body tingled with eager anticipation for soft contact.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average slime buttock and its tempting, visible opening made my breath catch. My desire to flaunt myself intensified, a delightful weight of fluid desire growing heavier.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average slime rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response to show off my own oddity. A delightful tingle.</li>
+            <li>That delightful, average slime rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within, inspiring brazen acts of squishiness.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average slime posterior and its well-presented opening ignites a ravenous yearning within to make a spectacle of myself. My muscles tensed with gelatinous pleasure.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple slime rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to feel its texture.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average slime buttock, with its enticingly clear opening, fills me with a thrilling sense of freedom. My loins throb, longing to be enveloped.</li>
+            <li>That delightful average slime derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to explore its unique feel.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average slime rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, an urge to interact.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive slime posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, pushing me closer to its unique form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average slime backside, and that captivatingly visible opening, fueled a lustful fantasy of soft, yielding intimacy. My body tingled with eager anticipation.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average slime buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, urging closer to its strange allure.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average slime rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for further discovery. A delightful tingle spread.</li>
+            <li>That delightful, average slime rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, wanting to learn its secrets.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average slime posterior and its well-presented opening ignites a ravenous yearning within to experience it fully. My muscles tensed with pleasurable expectation, drawn to its unusual charm.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with insect butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Positive_Average_InsectAnus</defName>
+        <label>Average Anus (Positive) InsectAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>InsectAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Upon observing {PAWN_nameShortPossessive} average, chitinous rear, its subtly visible, yet strangely segmented and alluring opening, evoked a thrilling mixture of awe and alien desire.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} average-sized insect buttock, with its subtly articulated, visible opening, stirred a powerful, intriguing wonder within me. Truly unique and exotic.</li>
+            <li>That perfectly average, yet disturbingly captivating, insectoid posterior on {PAWN_nameShort}, with its clearly presented, softly buzzing opening, made my heart race with strange interest.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average insect rear, the way {PAWN_possessive} opening seemed to gently twitch, filled me with a perverse delight. A truly exotic and alien view.</li>
+            <li>{PAWN_nameShortPossessive} average, yet utterly alluring insectoid rear, with its clearly presented, subtly chittering opening, sent a shiver down my spine. A primal, insectile attraction.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average insect backside, and that alluringly visible, subtly clicking opening, inflamed my senses with new, intriguing sensations.</li>
+            <li>A quick peek at {PAWN_nameShortPossessive} ripe, average insect buttock and its tempting, visible opening brought a flush of both intrigue and pleasure. My eyes greedily absorbed the alien view.</li>
+            <li>{PAWN_nameShortPossessive} average insect rear, with its exoskeletal curves and clearly defined, yet subtly shifting opening, sparked an undeniable, eager response. I couldn't tear my gaze away from its unusual form.</li>
+            <li>That delightful, average insect rear on {PAWN_nameShort}, with its tempting, visible, and subtly pulsating opening, sent a surge of thrilling appreciation through me. What a grand spectacle of alien anatomy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average insect posterior and its well-presented, slightly scuttling opening ignited a ravenous fascination within. I wanted to see more of this unique, chitinous structure.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple insect rear, the sight of its subtly visible, faintly chitinous opening made my blood rush with strange, alien pleasure. An absolute delight of the entomological.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average insect buttock, with its enticingly clear, yet subtly clicking opening, fills me with a thrilling sense of audacious delight. My spirit soars seeing such alien beauty exposed.</li>
+            <li>That delightful average insect derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brings a delicious warmth to my core, encouraging my own boldness. It’s a truly captivating alien sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average insect rear, the way {PAWN_possessive} opening seemed to wink with segmented precision, filled me with giddy excitement and a powerful urge for strange exploration.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive insectoid posterior, with its clearly presented, subtly buzzing opening, sent a shiver through my frame, urging me to embrace the exotic.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average insect backside, and that captivatingly visible, subtly twitching opening, fueled a lustful fantasy of alien intimacy. My body tingled with eager anticipation for its unique texture.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average insect buttock and its tempting, visible opening made my breath catch. My desire to flaunt myself intensified, a delightful weight of alien desire growing heavier.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average insect rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response to show off my own oddity. A delightful tingle.</li>
+            <li>That delightful, average insect rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within, inspiring brazen acts of alien contact.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average insect posterior and its well-presented opening ignites a ravenous yearning within to make a spectacle of myself. My muscles tensed with chitinous pleasure.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} average, supple insect rear, the sight of its subtly visible opening made my blood rush. I felt an undeniable, primal urge awaken: to feel its alien texture.</li>
+            <li>{PAWN_nameShortPossessive} inviting, average insect buttock, with its enticingly clear opening, fills me with a thrilling sense of freedom. My loins throb, longing to be enveloped by its unique form.</li>
+            <li>That delightful average insect derriere on {PAWN_nameShort}, its tempting contours and the visible, beckoning opening, brought a delicious warmth to my core. A keen desire to explore its unusual feel.</li>
+            <li>Observing {PAWN_nameShortPossessive} rounded, average insect rear, the way {PAWN_possessive} opening seemed to wink, filled me with giddy excitement. A delightful pressure built, an urge to interact with its alien design.</li>
+            <li>{PAWN_nameShortPossessive} perfectly average, yet undeniably seductive insectoid posterior, with its clearly presented opening, sent a shiver through my frame. A pleasurable ache began, pushing me closer to its unique, segmented form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, average insect backside, and that captivatingly visible opening, fueled a lustful fantasy of strange, yielding intimacy. My body tingled with eager anticipation.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} ripe, average insect buttock and its tempting, visible opening made my breath catch. My desire intensified, a delightful weight growing heavier, urging closer to its strange allure.</li>
+            <li>{PAWN_nameShortPossessive} youthful, average insect rear, with its inviting curves and clearly defined opening, sparked an undeniable, eager response for further discovery. A delightful tingle spread.</li>
+            <li>That delightful, average insect rear on {PAWN_nameShort}, with its tempting, visible opening, sent a surge of hot anticipation through me. I felt a stirring deep within my groin, wanting to learn its alien secrets.</li>
+            <li>The sight of {PAWN_nameShortPossessive} smooth, average insect posterior and its well-presented opening ignites a ravenous yearning within to experience it fully. My muscles tensed with pleasurable expectation, drawn to its unusual, insectile charm.</li>
+        </opinionTexts>
+</Def>
+</Defs>

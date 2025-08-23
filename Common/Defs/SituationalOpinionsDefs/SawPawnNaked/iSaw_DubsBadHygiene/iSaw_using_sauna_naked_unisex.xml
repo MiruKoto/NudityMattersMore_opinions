@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_using_sauna_naked_Unisex_PositiveDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iSaw_using_sauna_naked_Unisex_Positive</defName>
+        <label>iSaw_using_sauna_naked_Unisex_(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                
+				<requiredInteractionType>Sauna</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I saw {OBSERVED_nameShort} naked in the sauna, not trying to cover, let me to see all interesting spots.</li>
+			<li>The way {OBSERVED_nameShort} relaxed in the heat made {PAWN_possessive} body glow; I glazed every inch of {PAWN_possessive} sacred parts.</li>
+			<li>Seeing {OBSERVED_nameShort} in the sauna was a captivating experience; it felt like a shared secret in the heat.</li>
+			<li>I saw {OBSERVED_nameShort} naked in the sauna, and the steam swirling around {PAWN_possessive} body created a sensuous atmosphere of lust and sweaty curves.</li>
+			<li>Seeing {OBSERVED_nameShort} fully exposed in the sauna made my heart race; {PAWN_subjective} embraced the heat with such confidence, it was utterly alluring.</li>
+			<li>The sight of {OBSERVED_nameShort} in the sauna, with {PAWN_possessive} skin glistening, was mesmerizing; it ignited a fire of desire to be taken by force.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_using_sauna_naked_Unisex_NeutralDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iSaw_using_sauna_naked_Unisex_Neutral</defName>
+        <label>iSaw_using_sauna_naked_Unisex_(Neutral)</label>
+        <opinionCategory>Neutral</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                
+				<requiredInteractionType>Sauna</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I saw {OBSERVED_nameShort} using the sauna naked; it was unexpected, but I didn’t looked at {PAWN_possessive} private parts too much.</li>
+			<li>Meeting {OBSERVED_nameShort} in the sauna, I noticed {PAWN_possessive} nakedness, yet it felt like just another moment.</li>
+			<li>Seeing {OBSERVED_nameShort} in the sauna left me curious, but I remained indifferent.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_using_sauna_naked_Unisex_NegativeDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iSaw_using_sauna_naked_Unisex_Negative</defName>
+        <label>iSaw_using_sauna_naked_Unisex_(Negative)</label>
+        <opinionCategory>Negative</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                
+				<requiredInteractionType>Sauna</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I saw {OBSERVED_nameShort} naked in the sauna, and it felt intrusive to witness such a private moment.</li>
+			<li>Meeting {OBSERVED_nameShort} unclothed in the sauna was uncomfortable; I didn’t know how to not look at that hanging things.</li>
+			<li>Seeing {OBSERVED_nameShort} naked in the sauna left me feeling uneasy; it was too intimate for a public space.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+
+
+
+	
+</Defs>

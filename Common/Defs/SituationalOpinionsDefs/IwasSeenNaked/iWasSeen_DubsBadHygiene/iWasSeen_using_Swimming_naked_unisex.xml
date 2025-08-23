@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWasSeen_using_Swimming_naked_Unisex_PositiveDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iWasSeen_using_Swimming_naked_Unisex_Positive</defName>
+        <label>iWasSeen_using_Swimming_naked_Unisex_(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                
+				<requiredInteractionType>Swimming</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I felt exhilarated when {OBSERVER_nameShort} saw me swim naked; it was a liberating experience showcasing my body.</li>
+			<li>I was swimming naked when {OBSERVER_nameShort} noticed me. Trying to work my legs more widely, I craved {OBSERVER_possessive} glances at my charms.</li>
+			<li>{OBSERVER_nameShort} watched me swim naked. Every jolt in the water reverberated with lust throughout my entire body.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWasSeen_using_Swimming_naked_Unisex_NeutralDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iWasSeen_using_Swimming_naked_Unisex_Neutral</defName>
+        <label>iWasSeen_using_Swimming_naked_Unisex_(Neutral)</label>
+        <opinionCategory>Neutral</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                
+				<requiredInteractionType>Swimming</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>When {OBSERVER_nameShort} saw me swimming naked, I didn’t think it was a big deal; it was just part of the fun.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWasSeen_using_Swimming_naked_Unisex_NegativeDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iWasSeen_using_Swimming_naked_Unisex_Negative</defName>
+        <label>iWasSeen_using_Swimming_naked_Unisex_(Negative)</label>
+        <opinionCategory>Negative</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                
+				<requiredInteractionType>Swimming</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I felt exposed and vulnerable when {OBSERVER_nameShort} saw me swimming naked; I worried about being judged for my bravery.</li>
+			<li>{OBSERVER_nameShort} watched me swim naked. I froze in place, afraid to show even more of my private parts.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+
+
+
+	
+</Defs>

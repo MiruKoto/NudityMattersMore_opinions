@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <!-- Base situational opinion def, dont change it! -->
+    <NudityMattersMore_opinions.OpinionDef_Situational Name="BaseSituationalOpinionDef" Abstract="True">
+        <label>Base situation opinion</label>
+        <opinionCategory>Neutral</opinionCategory>
+        <opinionTexts>
+            <li>This is my base opinion.</li>
+        </opinionTexts>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.IsBaseOpinionExtension"/>
+        </modExtensions>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+</Defs>

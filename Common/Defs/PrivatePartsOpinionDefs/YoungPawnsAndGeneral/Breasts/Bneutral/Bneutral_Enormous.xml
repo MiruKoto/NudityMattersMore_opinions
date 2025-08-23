@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous</defName>
+        <label>Enormous Breasts (Neutral)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily> 
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>Observing {PAWN_nameShortPossessive} enormous breasts, I acknowledge their presence, yet they don’t evoke much thought.</li>
+            <li>I saw {PAWN_nameShortPossessive} enormous breasts, a jaw-dropping spectacle of unbridled growth.</li>
+			<li>I was aware of {PAWN_nameShortPossessive} enormous breasts, a mind-shattering excess that defied explanation.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} enormous breasts, a brief moment of recognition of their enormity.</li>
+			<li>I was astonished by {PAWN_nameShortPossessive} enormous breasts, a mind-shattering excess that defied explanation.</li>
+			<li>I was flabbergasted by {PAWN_nameShortPossessive} enormous breasts, a jaw-dropping spectacle of unbridled growth.</li>
+			<li>I was stunned by {PAWN_nameShortPossessive} enormous breasts, a sense of wonder that was impossible to shake.</li>
+			<li>I was bewildered by {PAWN_nameShortPossessive} enormous breasts, a cognitive dissonance that was hard to resolve.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} enormous breasts, taken aback by their colossal size and overwhelming presence, with a deep cleavage that seemed to defy gravity.</li>
+			<li>As I examined {PAWN_nameShortPossessive} enormous breasts, I saw the abundant skin and expansive areola, with a large nipple size that added to their striking appearance.</li>
+			<li>Upon closer inspection, I noticed {PAWN_nameShortPossessive} enormous breasts' unique shape and structure, with a soft, pillowy texture that seemed to invite touch and exploration.</li>
+			<li>I gazed in awe at {PAWN_nameShortPossessive} enormous breasts, overwhelmed by their massive size and dramatic proportions, with a cavernous cleavage that seemed to swallow attention whole.</li>
+			<li>As I studied {PAWN_nameShortPossessive} enormous breasts, I observed the stretched skin and vast areola, with a large, pronounced nipple size that added to their imposing, monumental presence.</li>
+			<li>Upon closer inspection, I felt {PAWN_nameShortPossessive} enormous breasts' weighty texture, with a soft, almost gravity-defying quality that seemed to invite wonder and exploration.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} enormous breasts, noting their colossal, imposing shape. The skin was stretched taut, with a subtle sheen.</li>
+			<li>I examined {PAWN_nameShortPossessive} enormous breasts more closely, observing the complex network of veins that coursed beneath the surface. The nipples were massive, with a bold, textured appearance.</li>
+			<li>I saw {PAWN_nameShortPossessive} enormous breasts, noticing how they seemed to... overshadow, somehow, as if they were the dominant feature of the surrounding body, exerting a powerful, magnetic pull on the senses.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts hung heavy, their sheer volume undeniable, a notable feature.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts swayed with {PAWN_possessive} movements was quite pronounced.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts, a testament to generous proportions, were impossible to ignore.</li>
+            <li>The large, full shape of {PAWN_nameShortPossessive} breasts caught my eye, a significant anatomical detail.</li>
+            <li>I observed {PAWN_nameShortPossessive} enormous breasts, their form soft and yielding, yet undeniably substantial.</li>
+            <li>The nipples on {PAWN_nameShortPossessive} enormous breasts were notably prominent, contrasting with the expansive areolae.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts had a remarkable presence, their size a defining characteristic.</li>
+            <li>I couldn't help but notice the sheer scale of {PAWN_nameShortPossessive} enormous breasts, a remarkable display.</li>
+            <li>The skin of {PAWN_nameShortPossessive} enormous breasts appeared taut, stretched by their impressive mass.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts moved with a distinct jiggle, a natural consequence of their size.</li>
+            <li>The contours of {PAWN_nameShortPossessive} enormous breasts created deep shadows, highlighting their immense form.</li>
+            <li>A slight flush on the skin of {PAWN_nameShortPossessive} enormous breasts hinted at recent warmth or movement.</li>
+            <li>The areolae around {PAWN_nameShortPossessive} nipples were wide and distinct against the pale skin of {PAWN_possessive} enormous breasts.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts seemed to occupy a significant portion of {PAWN_possessive} upper torso.</li>
+            <li>There was an almost sculptural quality to the way {PAWN_nameShortPossessive} enormous breasts were shaped.</li>
+            <li>I noted the subtle texture of the skin on {PAWN_nameShortPossessive} enormous breasts, hinting at their softness.</li>
+            <li>The weight of {PAWN_nameShortPossessive} enormous breasts was evident in how they settled against {PAWN_possessive} chest.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts seemed to draw the eye, a dominant visual element.</li>
+            <li>The considerable size of {PAWN_nameShortPossessive} breasts made them a focal point, hard to overlook.</li>
+            <li>I saw {PAWN_nameShortPossessive} enormous breasts; their sheer size made them stand out from {PAWN_possessive} body.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} breasts was apparent, a striking feature of {PAWN_possessive} figure.</li>
+        </opinionTexts>
+    
+	
+</Def>
+
+
+<!--Elder Male observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_Elderly_Male_opinion</defName>
+        <label>Enormous Breasts (Neutral)_Elderly_Male_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} breasts are quite large for a young woman; I've seen shapes like that before, though rarely so pronounced.</li>
+            <li>These enormous breasts are certainly... noticeable on {PAWN_nameShort}. They stand out quite a bit.</li>
+            <li>The substantial size of {PAWN_nameShortPossessive} breasts reminds me of certain physical realities.</li>
+            <li>I observe {PAWN_nameShortPossessive} enormous breasts; a significant feature, though not something I dwell on.</li>
+            <li>Her breasts are rather ample, quite a sight on someone so young. A natural development, I suppose.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are present, a prominent detail. My gaze passes over them without much thought.</li>
+            <li>They are large, indeed, {PAWN_nameShortPossessive} breasts. A physical characteristic that is hard to miss.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} breasts is apparent; they seem to have a life of their own as {PAWN_pronoun} moves.</li>
+            <li>{PAWN_nameShortPossessive} breasts, quite considerable in size, are just there. No strong feelings either way.</li>
+            <li>I've certainly seen breasts of many sizes; {PAWN_nameShortPossessive} are among the largest, an interesting anatomical variation.</li>
+            <li>The large, round forms of {PAWN_nameShortPossessive} breasts are clearly visible. A matter of anatomy, nothing more.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts move with a noticeable bounce when {PAWN_pronoun} walks. A natural sight.</li>
+            <li>The nipples and areolae on {PAWN_nameShortPossessive} breasts are proportionate to their size, I note.</li>
+            <li>I observe {PAWN_nameShortPossessive} breasts. They are voluminous, taking up considerable space on {PAWN_possessive} chest.</li>
+            <li>A robust set of breasts {PAWN_nameShort} possesses. Simply stating a fact.</li>
+            <li>The shape of {PAWN_nameShortPossessive} breasts is full and weighty; they seem quite soft.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts, a very defined part of {PAWN_possessive} upper body.</li>
+            <li>They are quite large, {PAWN_nameShortPossessive} breasts. I've seen larger, but these are certainly up there.</li>
+            <li>The skin stretched over {PAWN_nameShortPossessive} enormous breasts appears smooth and unblemished.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is a striking physical aspect.</li>
+            <li>I observe the considerable curve of {PAWN_nameShortPossessive} enormous breasts, a prominent feature.</li>
+            <li>{PAWN_nameShortPossessive} breasts are undeniably ample; they carry a certain visual weight.</li>
+            <li>The nipples on {PAWN_nameShortPossessive} breasts are well-defined, and the areolae are wide.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts are structured, they seem to defy gravity somewhat.</li>
+            <li>One cannot help but notice {PAWN_nameShortPossessive} enormous breasts; they are a significant part of {PAWN_possessive} physique.</li>
+            <li>{PAWN_nameShortPossessive} breasts, truly of an impressive scale. It's a natural thing.</li>
+            <li>The gentle sway of {PAWN_nameShortPossessive} enormous breasts is a natural movement.</li>
+            <li>I see the distinct forms of {PAWN_nameShortPossessive} breasts, quite prominent on {PAWN_possessive} torso.</li>
+            <li>The fullness of {PAWN_nameShortPossessive} breasts is evident; they are quite remarkable.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are present, a physical reality that is impossible to ignore.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young female, with nymphomaniac or perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_Elderly_Male_voyer_opinion</defName>
+        <label>Enormous Breasts (Neutral)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are quite the sight, especially given {PAWN_possessive} age. Makes me recall my younger days.</li>
+            <li>Ah, {PAWN_nameShortPossessive} colossal breasts, such a grand spectacle. My old eyes still appreciate a good view.</li>
+            <li>These enormous breasts are truly something to behold on {PAWN_nameShort}. They certainly capture my attention.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are impressive; a fine example of nature's bounty. My blood still stirs a bit.</li>
+            <li>The sheer abundance of {PAWN_nameShortPossessive} breasts is captivating. A true marvel to observe.</li>
+            <li>I find myself drawn to the enormous size of {PAWN_nameShortPossessive} breasts. They are truly captivating.</li>
+            <li>My gaze lingers on {PAWN_nameShortPossessive} enormous breasts; such grand proportions are a rare delight.</li>
+            <li>The ample curve of {PAWN_nameShortPossessive} breasts is a beautiful sight. Makes one feel younger, almost.</li>
+            <li>{PAWN_nameShortPossessive} breasts, so full and heavy, I could just watch them all day.</li>
+            <li>The jiggle and sway of {PAWN_nameShortPossessive} enormous breasts are quite mesmerizing. A treat for the eyes.</li>
+            <li>What a pair of breasts {PAWN_nameShort} has! Truly enormous. It's a wonderful sight.</li>
+            <li>These nipples and areolae on {PAWN_nameShortPossessive} breasts are quite pronounced. Adds to the overall appeal.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are simply magnificent. A fine display of female form.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts are presented, they demand admiration.</li>
+            <li>I could spend hours just observing the way {PAWN_nameShortPossessive} enormous breasts move.</li>
+            <li>A truly spectacular set of enormous breasts. They inspire a certain... fondness.</li>
+            <li>The softness and weight of {PAWN_nameShortPossessive} breasts are almost palpable from here.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a testament to fertility and vitality. So full of life.</li>
+            <li>My old heart beats a little faster looking at {PAWN_nameShortPossessive} magnificent breasts.</li>
+            <li>The ample cleavage formed by {PAWN_nameShortPossessive} enormous breasts is quite inviting.</li>
+            <li>I imagine how soft {PAWN_nameShortPossessive} enormous breasts must feel. A delightful thought.</li>
+            <li>These are a truly glorious pair of enormous breasts. A fine example of womanhood.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts brings a certain warmth to my being.</li>
+            <li>I do enjoy observing such well-endowed figures. {PAWN_nameShortPossessive} breasts are top-tier.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts have such a beautiful, full shape.</li>
+            <li>It's a pleasure to witness {PAWN_nameShortPossessive} enormous breasts in their natural glory.</li>
+            <li>The prominent nipples on {PAWN_nameShortPossessive} breasts add to their allure.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are simply stunning to observe.</li>
+            <li>I feel a familiar stir, observing {PAWN_nameShortPossessive} generous breasts.</li>
+            <li>What an impressive pair {PAWN_nameShort} possesses. Those enormous breasts are quite a marvel.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_Elderly_Female_opinion</defName>
+        <label>Enormous Breasts (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} breasts are certainly very large for a young woman. I remember when mine had such form.</li>
+            <li>Those are quite ample breasts {PAWN_nameShort} has. A lot to carry, I imagine.</li>
+            <li>I observe {PAWN_nameShortPossessive} enormous breasts; they have a robust appearance.</li>
+            <li>Such substantial breasts on {PAWN_nameShort}. It's a natural development for some.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are quite striking. They seem very full and soft.</li>
+            <li>A truly generous set of breasts {PAWN_nameShort} possesses. I hope they don't cause {PAWN_objective} discomfort.</li>
+            <li>{PAWN_nameShortPossessive} breasts are quite large; a noticeable feature on {PAWN_possessive} figure.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} breasts is apparent. They jiggle with every step {PAWN_pronoun} takes.</li>
+            <li>I've seen many breasts in my time; {PAWN_nameShortPossessive} are certainly on the larger side.</li>
+            <li>The form of {PAWN_nameShortPossessive} breasts is very full, quite a sight to behold.</li>
+            <li>The nipples and areolae on {PAWN_nameShortPossessive} breasts seem quite well-developed, proportionate to their size.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts hang quite low, as expected with such volume.</li>
+            <li>A very prominent chest {PAWN_nameShort} has, dominated by those large breasts.</li>
+            <li>They are indeed enormous breasts. A strong defining characteristic of {PAWN_nameShort}.</li>
+            <li>The skin of {PAWN_nameShortPossessive} enormous breasts appears smooth and well-filled.</li>
+            <li>{PAWN_nameShortPossessive} breasts are truly robust; they give {PAWN_possessive} a very distinct silhouette.</li>
+            <li>I see the natural weight and sway of {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>Such an ample bosom on {PAWN_nameShort}. It carries a certain presence.</li>
+            <li>The curve and fullness of {PAWN_nameShortPossessive} breasts are quite apparent.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts, a feature one simply cannot overlook.</li>
+            <li>The roundness of {PAWN_nameShortPossessive} breasts is remarkable; they are very well-formed.</li>
+            <li>I observe the considerable size of {PAWN_nameShortPossessive} breasts, a notable aspect of {PAWN_possessive} body.</li>
+            <li>The nipples are quite dark against the lighter skin of {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>{PAWN_nameShortPossessive} breasts seem very soft to the eye, with a gentle, yielding quality.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} breasts is impressive, they really fill out {PAWN_possessive} chest.</li>
+            <li>It's clear {PAWN_nameShort} is generously endowed; those breasts are quite imposing.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts sit, they indicate a significant natural volume.</li>
+            <li>A fine example of full, mature breasts, even on a young woman like {PAWN_nameShort}.</li>
+            <li>I notice the strong definition of {PAWN_nameShortPossessive} enormous breasts, clearly a focal point.</li>
+            <li>{PAWN_nameShortPossessive} breasts are undeniably a substantial physical characteristic.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Female voyer observes young female with nymphomaniac or perverted approach, can include own breasts mention or own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_Elderly_Female_voyer_opinion</defName>
+        <label>Enormous Breasts (Neutral)_Elderly_Female_voyer_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Oh, {PAWN_nameShortPossessive} enormous breasts! Such a sight on a young one, makes me miss my youth.</li>
+            <li>{PAWN_nameShort} has truly impressive breasts, so full and weighty. I find myself admiring them.</li>
+            <li>My, those breasts are quite something on {PAWN_nameShort}! So much larger than mine ever were.</li>
+            <li>I simply adore observing such abundant breasts. {PAWN_nameShortPossessive} are a magnificent pair.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts bounce and sway is rather captivating, isn't it?</li>
+            <li>I find myself drawn to the sheer scale and softness of {PAWN_nameShortPossessive} breasts.</li>
+            <li>These enormous breasts are a true spectacle on {PAWN_nameShort}. I could watch them for hours.</li>
+            <li>Such glorious, full breasts! {PAWN_nameShort} is truly blessed. I can almost feel their weight.</li>
+            <li>The nipples and areolae on {PAWN_nameShortPossessive} breasts are perfectly ripe. So inviting.</li>
+            <li>I love seeing such grand breasts on a young woman. Makes my own feel a bit small, even now.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a masterpiece of nature. I can't look away.</li>
+            <li>The cleavage created by {PAWN_nameShortPossessive} breasts is so deep and alluring.</li>
+            <li>I observe {PAWN_nameShortPossessive} breasts with a certain wistful admiration. So voluptuous.</li>
+            <li>These ample breasts on {PAWN_nameShort} are a true delight for the eyes.</li>
+            <li>The gentle ripple of the skin on {PAWN_nameShortPossessive} breasts is quite lovely.</li>
+            <li>Oh, to have such enormous, firm breasts again! {PAWN_nameShort} is truly lucky.</li>
+            <li>I find a strange fascination in the way {PAWN_nameShortPossessive} breasts are shaped.</li>
+            <li>What a pair of magnificent breasts! {PAWN_nameShort} knows how to carry them.</li>
+            <li>My gaze is fixed on {PAWN_nameShortPossessive} enormous breasts. They are truly mesmerizing.</li>
+            <li>The sheer fullness of {PAWN_nameShortPossessive} breasts is something to behold.</li>
+            <li>I could learn a thing or two from {PAWN_nameShortPossessive} impressive display.</li>
+            <li>The nipples on {PAWN_nameShortPossessive} breasts are so prominent, perfectly inviting.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a feast for the eyes, simply gorgeous.</li>
+            <li>I recall the thrill of such a sight from my own younger days. {PAWN_nameShort} carries them well.</li>
+            <li>The abundant curves of {PAWN_nameShortPossessive} breasts are quite a masterpiece.</li>
+            <li>I can almost feel the softness and weight of {PAWN_nameShortPossessive} breasts from here.</li>
+            <li>These enormous breasts are a true testament to female beauty.</li>
+            <li>{PAWN_nameShortPossessive} breasts are simply divine, perfectly formed and so large.</li>
+            <li>I find myself utterly captivated by {PAWN_nameShortPossessive} stunning breasts.</li>
+            <li>Such an exquisite pair of enormous breasts! A true vision.</li>
+        </opinionTexts>
+</Def>
+<!--Young male observes young female, more based on sexual atraction, can include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_MaleOpinion</defName>
+        <label>Enormous Breasts (Neutral)_MaleOpinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are certainly eye-catching. Quite a view.</li>
+            <li>Wow, {PAWN_nameShort} has really massive breasts. Hard to miss.</li>
+            <li>I'm definitely noticing the sheer size of {PAWN_nameShortPossessive} breasts. They're... impressive.</li>
+            <li>Those are some seriously large breasts on {PAWN_nameShort}. Very prominent.</li>
+            <li>{PAWN_nameShortPossessive} breasts are enormous. My eyes keep getting drawn to them.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts hang, they look heavy.</li>
+            <li>Yeah, {PAWN_nameShort} has got really big breasts. Can't deny that.</li>
+            <li>I'm definitely aware of {PAWN_nameShortPossessive} enormous breasts; they're quite the statement.</li>
+            <li>{PAWN_nameShortPossessive} breasts are huge. Like, seriously huge.</li>
+            <li>Her breasts are just... massive. They really stand out.</li>
+            <li>I can't help but stare at {PAWN_nameShortPossessive} enormous breasts. They're just so prominent.</li>
+            <li>The nipples on {PAWN_nameShortPossessive} enormous breasts are really noticeable.</li>
+            <li>{PAWN_nameShortPossessive} breasts seem to dominate {PAWN_possessive} entire upper body.</li>
+            <li>Those are some truly full breasts {PAWN_nameShort} is rocking.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts jiggle, it's pretty distracting.</li>
+            <li>I'm surprised by how huge {PAWN_nameShortPossessive} breasts are. Like, seriously.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} breasts is something to behold.</li>
+            <li>{PAWN_nameShortPossessive} breasts are enormous, making a strong impression.</li>
+            <li>Her breasts are so big, they almost seem unreal.</li>
+            <li>I'm definitely feeling a reaction to {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>The cleavage on {PAWN_nameShortPossessive} breasts is really deep.</li>
+            <li>Those are some truly ample breasts on {PAWN_nameShort}. Very full.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are just... wow.</li>
+            <li>I keep finding myself looking at {PAWN_nameShortPossessive} breasts; they're quite the view.</li>
+            <li>The areolae on {PAWN_nameShortPossessive} breasts are quite wide.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so incredibly large, it's hard to process.</li>
+            <li>I can feel a stirring just looking at {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>Her breasts are a sight to behold, truly massive.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are incredibly pronounced.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} breasts are really something. Very, very big.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes young female -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_Voyeur</defName>
+        <label>Enormous Breasts (Neutral) trait Voyeur</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ah, {PAWN_nameShortPossessive} enormous breasts. A truly captivating sight to behold.</li>
+            <li>My gaze lingers on {PAWN_nameShortPossessive} ample breasts, enjoying the visual.</li>
+            <li>I find immense pleasure in observing the sheer volume of {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts move is endlessly fascinating.</li>
+            <li>Such a glorious sight, {PAWN_nameShortPossessive} enormous breasts. I could watch them for hours.</li>
+            <li>The detailed contours of {PAWN_nameShortPossessive} enormous breasts are a visual feast.</li>
+            <li>I delight in noticing the prominent nipples and wide areolae on {PAWN_nameShortPossessive} breasts.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a true marvel of anatomy, so grand and full.</li>
+            <li>My eyes are drawn to the deep cleavage created by {PAWN_nameShortPossessive} magnificent breasts.</li>
+            <li>There's a subtle charm in the way {PAWN_nameShortPossessive} enormous breasts naturally sit.</li>
+            <li>I appreciate the aesthetic of {PAWN_nameShortPossessive} enormous breasts; their scale is quite appealing.</li>
+            <li>The light plays beautifully across the rounded forms of {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>I find satisfaction in simply observing {PAWN_nameShortPossessive} enormous breasts, a pleasant sight.</li>
+            <li>The soft texture implied by {PAWN_nameShortPossessive} enormous breasts is quite inviting.</li>
+            <li>I enjoy seeing how {PAWN_nameShortPossessive} enormous breasts sway and jiggle with each step.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are exceptionally well-formed, a joy to observe.</li>
+            <li>My voyeuristic tendencies are pleased by the sight of {PAWN_nameShortPossessive} generous breasts.</li>
+            <li>The sheer abundance of {PAWN_nameShortPossessive} breasts is a true delight for the senses.</li>
+            <li>I find {PAWN_nameShortPossessive} enormous breasts to be a very compelling focal point.</li>
+            <li>The prominence of {PAWN_nameShortPossessive} nipples against the ample areolae is quite striking.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are perfectly suited for observation.</li>
+            <li>I find myself admiring the natural curves of {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts fill out {PAWN_possessive} chest is quite satisfying to witness.</li>
+            <li>It's a pleasure to simply take in the sight of {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are quite the spectacle; I could gaze at them all day.</li>
+            <li>The distinct form and generous size of {PAWN_nameShortPossessive} breasts are truly remarkable.</li>
+            <li>I love how {PAWN_nameShortPossessive} enormous breasts are so pronounced and visible.</li>
+            <li>My gaze is drawn to every subtle shift in {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>There's a certain raw beauty in the sheer enormity of {PAWN_nameShortPossessive} breasts.</li>
+            <li>I find myself completely absorbed in observing {PAWN_nameShortPossessive} incredible breasts.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young female with nymphomaniac approach, can include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_Voyeur_M</defName>
+        <label>Enormous Breasts (Neutral) trait Voyeur_M</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a truly magnificent sight, stirring a familiar warmth within me.</li>
+            <li>My eyes are glued to {PAWN_nameShortPossessive} impressive breasts, feeling a distinct tightening in my groin.</li>
+            <li>Such an exquisite pair of enormous breasts! The sight alone is enough to get me excited.</li>
+            <li>I can't help but admire the generous curves of {PAWN_nameShortPossessive} breasts. My member stirs.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts jiggle and bounce is incredibly arousing to watch.</li>
+            <li>I find myself captivated by the sheer abundance of {PAWN_nameShortPossessive} breasts, a powerful feeling rising.</li>
+            <li>My gaze is fixed on the prominent nipples of {PAWN_nameShortPossessive} breasts, and I feel myself hardening.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are utterly captivating. My loins are definitely awake now.</li>
+            <li>The deep cleavage of {PAWN_nameShortPossessive} breasts is so inviting. It makes my trousers feel tight.</li>
+            <li>I could watch {PAWN_nameShortPossessive} breasts all day. They are truly stimulating.</li>
+            <li>A truly glorious display of female form. My dick is throbbing just looking at them.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts sends a jolt of desire through me.</li>
+            <li>These ample breasts are a gift to behold. I can feel my pulse quicken.</li>
+            <li>I find immense satisfaction in simply gazing at {PAWN_nameShortPossessive} breasts; my arousal is undeniable.</li>
+            <li>The full, heavy shape of {PAWN_nameShortPossessive} breasts is incredibly alluring.</li>
+            <li>My mind is consumed by the image of {PAWN_nameShortPossessive} enormous breasts. I feel a strong urge.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts are shaped, it's just perfect. I'm getting a massive erection.</li>
+            <li>I'm completely drawn in by {PAWN_nameShortPossessive} breasts. My groin tingles.</li>
+            <li>Such a spectacular pair of breasts on {PAWN_nameShort}! It's making me hot.</li>
+            <li>The prominence of {PAWN_nameShortPossessive} nipples is incredibly stimulating.</li>
+            <li>I can almost feel the softness and warmth of {PAWN_nameShortPossessive} breasts. My cock is rock hard.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a beautiful obsession for me.</li>
+            <li>The sheer size and sensuality of {PAWN_nameShortPossessive} breasts are overwhelming my senses.</li>
+            <li>I find myself aching for {PAWN_nameShortPossessive} breasts. The desire is palpable.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts is making me incredibly hard.</li>
+            <li>I could just bury my face in {PAWN_nameShortPossessive} breasts. Such a turn-on.</li>
+            <li>{PAWN_nameShortPossessive} breasts are driving me wild. My entire body is reacting.</li>
+            <li>I'm utterly mesmerized by {PAWN_nameShortPossessive} breasts; my desire is uncontrollable.</li>
+            <li>The roundness and fullness of {PAWN_nameShortPossessive} breasts are incredibly appealing.</li>
+            <li>My desire for {PAWN_nameShortPossessive} breasts is intense. They are truly magnificent.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young female with nymphomaniac approach, can include own breats reaction mention or own genitail vagina reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_Voyeur_F</defName>
+        <label>Enormous Breasts (Neutral) trait Voyeur_F</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are absolutely stunning. They make mine feel... inadequate.</li>
+            <li>Oh, {PAWN_nameShort} has truly magnificent breasts! I can feel a warmth spreading through me.</li>
+            <li>I can't help but admire the sheer generosity of {PAWN_nameShortPossessive} breasts. They're a sight to behold.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts sway and jiggle is so captivating. My own breasts feel fuller.</li>
+            <li>I find myself endlessly fascinated by the voluptuousness of {PAWN_nameShortPossessive} breasts.</li>
+            <li>Such a glorious, full pair of breasts! They make me want to reach out and touch them.</li>
+            <li>My gaze is drawn to the prominent nipples and wide areolae on {PAWN_nameShortPossessive} breasts.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are utterly mesmerizing. I feel a delightful tingling down there.</li>
+            <li>The deep, inviting cleavage of {PAWN_nameShortPossessive} breasts is so alluring.</li>
+            <li>I could watch {PAWN_nameShortPossessive} breasts all day. They are truly inspiring.</li>
+            <li>A truly spectacular display of female form. My clit is throbbing just looking at them.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts sends a shiver of pleasure through me.</li>
+            <li>These ample breasts are a visual feast. I can feel my core tightening.</li>
+            <li>I find immense satisfaction in simply gazing at {PAWN_nameShortPossessive} breasts; my arousal is undeniable.</li>
+            <li>The soft, heavy shape of {PAWN_nameShortPossessive} breasts is incredibly alluring.</li>
+            <li>My mind is consumed by the image of {PAWN_nameShortPossessive} enormous breasts. I feel a strong urge.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts are shaped, it's just perfect. My pussy is wet.</li>
+            <li>I'm completely drawn in by {PAWN_nameShortPossessive} breasts. My nether regions tingle.</li>
+            <li>Such a spectacular pair of breasts on {PAWN_nameShort}! It's making me so hot.</li>
+            <li>The prominence of {PAWN_nameShortPossessive} nipples is incredibly stimulating.</li>
+            <li>I can almost feel the softness and warmth of {PAWN_nameShortPossessive} breasts against my own.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a beautiful obsession for me.</li>
+            <li>The sheer size and sensuality of {PAWN_nameShortPossessive} breasts are overwhelming my senses.</li>
+            <li>I find myself aching for {PAWN_nameShortPossessive} breasts. The desire is palpable.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts is making me incredibly wet.</li>
+            <li>I could just bury my face in {PAWN_nameShortPossessive} breasts. Such a turn-on.</li>
+            <li>{PAWN_nameShortPossessive} breasts are driving me wild. My entire body is reacting.</li>
+            <li>I'm utterly mesmerized by {PAWN_nameShortPossessive} breasts; my desire is uncontrollable.</li>
+            <li>The roundness and fullness of {PAWN_nameShortPossessive} breasts are incredibly appealing.</li>
+            <li>My desire for {PAWN_nameShortPossessive} breasts is intense. They are truly magnificent.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_NMM_Exhibitionist</defName>
+        <label>Enormous Breasts (Neutral) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are quite the statement. It makes me want to show off my own.</li>
+            <li>Seeing {PAWN_nameShortPossessive} breasts displayed so openly makes me feel empowered to reveal myself.</li>
+            <li>The confident way {PAWN_nameShort} presents {PAWN_possessive} enormous breasts is inspiring.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are certainly eye-catching; it reminds me of the thrill of being seen.</li>
+            <li>I appreciate the audacity of showing such magnificent breasts. It encourages my own exhibitionist desires.</li>
+            <li>The sheer size of {PAWN_nameShortPossessive} breasts makes them impossible to ignore. I love that.</li>
+            <li>It's delightful to see {PAWN_nameShortPossessive} enormous breasts exposed. A wonderful affirmation of nudity.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so openly displayed. It's exhilarating and makes me want to reveal more.</li>
+            <li>The boldness of {PAWN_nameShort} in showing {PAWN_possessive} enormous breasts is truly inspiring.</li>
+            <li>I find myself wanting to present my own body just as openly as {PAWN_nameShort} displays {PAWN_possessive} breasts.</li>
+            <li>The raw honesty of {PAWN_nameShortPossessive} enormous breasts on display is incredibly appealing.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so grand and open. It makes me feel like being noticed.</li>
+            <li>I love that {PAWN_nameShort} isn't shy about {PAWN_possessive} enormous breasts. It fuels my desire to exhibit.</li>
+            <li>The confident way {PAWN_nameShortPossessive} breasts are presented is a call to freedom.</li>
+            <li>Seeing {PAWN_nameShortPossessive} enormous breasts makes me feel a desire to be seen in my own entirety.</li>
+            <li>The striking visual of {PAWN_nameShortPossessive} enormous breasts encourages me to embrace my own body.</li>
+            <li>I feel a kinship with {PAWN_nameShort} in {PAWN_possessive} willingness to display such prominent breasts.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so uninhibited. I find that very appealing and liberating.</li>
+            <li>The enormous size of {PAWN_nameShortPossessive} breasts makes their display even more impactful.</li>
+            <li>I'm inspired by the frankness of {PAWN_nameShortPossessive} exposed breasts. It makes me want to perform.</li>
+            <li>{PAWN_nameShortPossessive} breasts are a bold statement. I admire their open presence.</li>
+            <li>It's clear {PAWN_nameShort} wants those breasts to be seen. I appreciate that.</li>
+            <li>The very exposed nature of {PAWN_nameShortPossessive} breasts is a powerful motivator for me.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a testament to unapologetic visibility.</li>
+            <li>I feel a strong urge to reciprocate the openness shown by {PAWN_nameShortPossessive} breasts.</li>
+            <li>The public display of {PAWN_nameShortPossessive} enormous breasts resonates deeply with me.</li>
+            <li>I admire {PAWN_nameShortPossessive} confidence in displaying {PAWN_possessive} enormous breasts so freely.</li>
+            <li>{PAWN_nameShortPossessive} breasts are out there, for all to see. That's the spirit!</li>
+            <li>It's fantastic how open {PAWN_nameShort} is with {PAWN_possessive} body. Especially those breasts.</li>
+            <li>The unabashed presence of {PAWN_nameShortPossessive} enormous breasts is truly magnificent.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young female, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_NMM_Exhibitionist_male</defName>
+        <label>Enormous Breasts (Neutral) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a grand spectacle; I feel the urge to show off my own.</li>
+            <li>Seeing {PAWN_nameShortPossessive} breasts displayed so openly makes my cock stir, wanting to be seen too.</li>
+            <li>The confident way {PAWN_nameShort} presents {PAWN_possessive} enormous breasts is inspiring. I want to reveal myself.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are certainly eye-catching; it makes my member stand at attention.</li>
+            <li>I appreciate the audacity of showing such magnificent breasts. It fuels my desire to expose my cock.</li>
+            <li>The sheer size of {PAWN_nameShortPossessive} breasts makes them impossible to ignore. I thrive on being noticed too.</li>
+            <li>It's delightful to see {PAWN_nameShortPossessive} enormous breasts exposed. A wonderful affirmation, makes my own hard.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so openly displayed. It's exhilarating and makes me want to flaunt my groin.</li>
+            <li>The boldness of {PAWN_nameShort} in showing {PAWN_possessive} enormous breasts is truly inspiring for my own display.</li>
+            <li>I find myself wanting to present my own body just as openly as {PAWN_nameShort} displays {PAWN_possessive} breasts, especially my dick.</li>
+            <li>The raw honesty of {PAWN_nameShortPossessive} enormous breasts on display is incredibly appealing, and I feel a swell.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so grand and open. It makes me feel like my penis should be noticed.</li>
+            <li>I love that {PAWN_nameShort} isn't shy about {PAWN_possessive} enormous breasts. It fuels my desire to exhibit my genitals.</li>
+            <li>The confident way {PAWN_nameShortPossessive} breasts are presented is a call to freedom, and I feel my arousal.</li>
+            <li>Seeing {PAWN_nameShortPossessive} enormous breasts makes me feel a desire to be seen in my own entirety, particularly my crotch.</li>
+            <li>The striking visual of {PAWN_nameShortPossessive} enormous breasts encourages me to embrace my own body and expose my shaft.</li>
+            <li>I feel a kinship with {PAWN_nameShort} in {PAWN_possessive} willingness to display such prominent breasts, and I want to expose.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so uninhibited. I find that very appealing and liberating for my own member.</li>
+            <li>The enormous size of {PAWN_nameShortPossessive} breasts makes their display even more impactful on my penis.</li>
+            <li>I'm inspired by the frankness of {PAWN_nameShortPossessive} exposed breasts. It makes me want to show my hard cock.</li>
+            <li>{PAWN_nameShortPossessive} breasts are a bold statement. I admire their open presence, feeling my own bulge.</li>
+            <li>It's clear {PAWN_nameShort} wants those breasts to be seen. I appreciate that and wish to be seen too.</li>
+            <li>The very exposed nature of {PAWN_nameShortPossessive} breasts is a powerful motivator for me to reveal my package.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a testament to unapologetic visibility, fueling my own exhibition.</li>
+            <li>I feel a strong urge to reciprocate the openness shown by {PAWN_nameShortPossessive} breasts with my own genitals.</li>
+            <li>The public display of {PAWN_nameShortPossessive} enormous breasts resonates deeply with me, awakening my desire to expose my cock.</li>
+            <li>I admire {PAWN_nameShortPossessive} confidence in displaying {PAWN_possessive} enormous breasts so freely. I want to show my penis too.</li>
+            <li>{PAWN_nameShortPossessive} breasts are out there, for all to see. That's the spirit! Makes my dick want to join.</li>
+            <li>It's fantastic how open {PAWN_nameShort} is with {PAWN_possessive} body. Especially those breasts. I wish to display my own.</li>
+            <li>The unabashed presence of {PAWN_nameShortPossessive} enormous breasts is truly magnificent, making me want to reveal myself.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young female, can include own breats mention, own genitail mentionor, or own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_NMM_Exhibitionist_Female</defName>
+        <label>Enormous Breasts (Neutral) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are absolutely stunning. It makes me want to reveal my own.</li>
+            <li>Seeing {PAWN_nameShortPossessive} breasts displayed so openly makes my own breasts swell, wanting to be seen too.</li>
+            <li>The confident way {PAWN_nameShort} presents {PAWN_possessive} enormous breasts is inspiring. I feel a tingle in my pussy, ready to expose myself.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are certainly eye-catching; it makes my nipples harden in anticipation.</li>
+            <li>I appreciate the audacity of showing such magnificent breasts. It fuels my desire to expose my own chest.</li>
+            <li>The sheer size of {PAWN_nameShortPossessive} breasts makes them impossible to ignore. I love that, and want to be noticed too.</li>
+            <li>It's delightful to see {PAWN_nameShortPossessive} enormous breasts exposed. A wonderful affirmation, makes my own vulva twitch.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so openly displayed. It's exhilarating and makes me want to flaunt my own body.</li>
+            <li>The boldness of {PAWN_nameShort} in showing {PAWN_possessive} enormous breasts is truly inspiring for my own display.</li>
+            <li>I find myself wanting to present my own body just as openly as {PAWN_nameShort} displays {PAWN_possessive} breasts, especially my inner thighs.</li>
+            <li>The raw honesty of {PAWN_nameShortPossessive} enormous breasts on display is incredibly appealing, and I feel a delightful warmth.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so grand and open. It makes me feel like my own body should be noticed.</li>
+            <li>I love that {PAWN_nameShort} isn't shy about {PAWN_possessive} enormous breasts. It fuels my desire to exhibit my genitals.</li>
+            <li>The confident way {PAWN_nameShortPossessive} breasts are presented is a call to freedom, and I feel a shiver of excitement.</li>
+            <li>Seeing {PAWN_nameShortPossessive} enormous breasts makes me feel a desire to be seen in my own entirety, particularly my crotch.</li>
+            <li>The striking visual of {PAWN_nameShortPossessive} enormous breasts encourages me to embrace my own body and expose myself more.</li>
+            <li>I feel a kinship with {PAWN_nameShort} in {PAWN_possessive} willingness to display such prominent breasts, and I want to expose myself.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so uninhibited. I find that very appealing and liberating for my own body.</li>
+            <li>The enormous size of {PAWN_nameShortPossessive} breasts makes their display even more impactful on my own desire to be seen.</li>
+            <li>I'm inspired by the frankness of {PAWN_nameShortPossessive} exposed breasts. It makes me want to show my own.</li>
+            <li>{PAWN_nameShortPossessive} breasts are a bold statement. I admire their open presence, feeling my own desire to reveal.</li>
+            <li>It's clear {PAWN_nameShort} wants those breasts to be seen. I appreciate that and wish to be seen too.</li>
+            <li>The very exposed nature of {PAWN_nameShortPossessive} breasts is a powerful motivator for me to reveal my form.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a testament to unapologetic visibility, fueling my own exhibition.</li>
+            <li>I feel a strong urge to reciprocate the openness shown by {PAWN_nameShortPossessive} breasts with my own body.</li>
+            <li>The public display of {PAWN_nameShortPossessive} enormous breasts resonates deeply with me, awakening my desire to expose myself.</li>
+            <li>I admire {PAWN_nameShortPossessive} confidence in displaying {PAWN_possessive} enormous breasts so freely. I want to show my own body too.</li>
+            <li>{PAWN_nameShortPossessive} breasts are out there, for all to see. That's the spirit! Makes my body want to join.</li>
+            <li>It's fantastic how open {PAWN_nameShort} is with {PAWN_possessive} body. Especially those breasts. I wish to display my own.</li>
+            <li>The unabashed presence of {PAWN_nameShortPossessive} enormous breasts is truly magnificent, making me want to reveal myself.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_Nymphomaniac</defName>
+        <label>Enormous Breasts (Neutral) trait Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are incredibly arousing, stirring a powerful hunger within me.</li>
+            <li>My body is reacting strongly to the sight of {PAWN_nameShortPossessive} magnificent breasts.</li>
+            <li>Such an exquisite pair of enormous breasts! They ignite an intense desire in me.</li>
+            <li>I find myself consumed by lust at the sight of {PAWN_nameShortPossessive} ample breasts.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts sway and jiggle sends shivers of pleasure through me.</li>
+            <li>I'm overflowing with desire just looking at the sheer abundance of {PAWN_nameShortPossessive} breasts.</li>
+            <li>My gaze is fixated on the prominent nipples of {PAWN_nameShortPossessive} breasts, and I can feel my arousal building.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are utterly captivating. My loins are burning with anticipation.</li>
+            <li>The deep cleavage of {PAWN_nameShortPossessive} breasts is so inviting. I'm throbbing with need.</li>
+            <li>I could lose myself in watching {PAWN_nameShortPossessive} breasts all day. They are truly stimulating.</li>
+            <li>A truly glorious display of female form. My entire body aches with desire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts sends a jolt of pure ecstasy through me.</li>
+            <li>These ample breasts are a gift to behold. I feel an overwhelming urge to be intimate.</li>
+            <li>I find immense satisfaction in simply gazing at {PAWN_nameShortPossessive} breasts; my lust is undeniable.</li>
+            <li>The full, heavy shape of {PAWN_nameShortPossessive} breasts is incredibly alluring, making me want to touch.</li>
+            <li>My mind is consumed by the image of {PAWN_nameShortPossessive} enormous breasts. I feel a burning need.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts are shaped, it's just perfect. I'm completely overcome with longing.</li>
+            <li>I'm completely drawn in by {PAWN_nameShortPossessive} breasts; my desire is a roaring fire.</li>
+            <li>Such a spectacular pair of breasts on {PAWN_nameShort}! It's making me intensely horny.</li>
+            <li>The prominence of {PAWN_nameShortPossessive} nipples is incredibly stimulating, igniting my deepest desires.</li>
+            <li>I can almost feel the softness and warmth of {PAWN_nameShortPossessive} breasts against me. My body craves touch.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a beautiful obsession for me, driving me wild.</li>
+            <li>The sheer size and sensuality of {PAWN_nameShortPossessive} breasts are overwhelming my senses, making me breathless.</li>
+            <li>I find myself aching for {PAWN_nameShortPossessive} breasts. The lust is palpable and consuming.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts is making me incredibly aroused, practically vibrating.</li>
+            <li>I could just bury myself in {PAWN_nameShortPossessive} breasts. Such an intense turn-on.</li>
+            <li>{PAWN_nameShortPossessive} breasts are driving me absolutely insane with desire.</li>
+            <li>I'm utterly mesmerized by {PAWN_nameShortPossessive} breasts; my need is uncontrollable, bordering on desperation.</li>
+            <li>The roundness and fullness of {PAWN_nameShortPossessive} breasts are incredibly appealing, making my skin prickle.</li>
+            <li>My desire for {PAWN_nameShortPossessive} breasts is all-consuming. They are truly magnificent, almost hypnotic.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young female, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_Nymphomaniac_male</defName>
+        <label>Enormous Breasts (Neutral) trait Nymphomaniac_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are incredibly arousing, making my cock pulse with desire.</li>
+            <li>My penis is reacting strongly to the sight of {PAWN_nameShortPossessive} magnificent breasts.</li>
+            <li>Such an exquisite pair of enormous breasts! They instantly harden my cock.</li>
+            <li>I find myself consumed by lust at the sight of {PAWN_nameShortPossessive} ample breasts, my member swelling.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts sway and jiggle sends shivers of pleasure straight to my groin.</li>
+            <li>I'm overflowing with desire just looking at the sheer abundance of {PAWN_nameShortPossessive} breasts; my dick aches.</li>
+            <li>My gaze is fixated on the prominent nipples of {PAWN_nameShortPossessive} breasts, and I can feel my erection building.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are utterly captivating. My loins are burning with anticipation for them.</li>
+            <li>The deep cleavage of {PAWN_nameShortPossessive} breasts is so inviting. I'm throbbing with need in my pants.</li>
+            <li>I could lose myself in watching {PAWN_nameShortPossessive} breasts all day. They are truly stimulating my shaft.</li>
+            <li>A truly glorious display of female form. My entire body aches with desire, especially my cock.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts sends a jolt of pure ecstasy through me, making me rock hard.</li>
+            <li>These ample breasts are a gift to behold. I feel an overwhelming urge to be intimate, and my balls ache.</li>
+            <li>I find immense satisfaction in simply gazing at {PAWN_nameShortPossessive} breasts; my lust and erection are undeniable.</li>
+            <li>The full, heavy shape of {PAWN_nameShortPossessive} breasts is incredibly alluring, making me want to thrust.</li>
+            <li>My mind is consumed by the image of {PAWN_nameShortPossessive} enormous breasts. I feel a burning need to mount {PAWN_objective}.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts are shaped, it's just perfect. I'm completely overcome with longing and a full erection.</li>
+            <li>I'm completely drawn in by {PAWN_nameShortPossessive} breasts; my desire is a roaring fire that needs to be quenched.</li>
+            <li>Such a spectacular pair of breasts on {PAWN_nameShort}! It's making me intensely horny and ready.</li>
+            <li>The prominence of {PAWN_nameShortPossessive} nipples is incredibly stimulating, igniting my deepest, carnal desires.</li>
+            <li>I can almost feel the softness and warmth of {PAWN_nameShortPossessive} breasts against my chest. My cock is throbbing.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a beautiful obsession for me, driving me wild with sexual hunger.</li>
+            <li>The sheer size and sensuality of {PAWN_nameShortPossessive} breasts are overwhelming my senses, making me breathless for a release.</li>
+            <li>I find myself aching for {PAWN_nameShortPossessive} breasts. The lust is palpable and consuming, making me desperate.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts is making me incredibly aroused, practically vibrating with need.</li>
+            <li>I could just bury myself in {PAWN_nameShortPossessive} breasts. Such an intense turn-on, making my penis twitch.</li>
+            <li>{PAWN_nameShortPossessive} breasts are driving me absolutely insane with desire for sexual contact.</li>
+            <li>I'm utterly mesmerized by {PAWN_nameShortPossessive} breasts; my need is uncontrollable, bordering on primal desperation.</li>
+            <li>The roundness and fullness of {PAWN_nameShortPossessive} breasts are incredibly appealing, making my skin prickle with excitement.</li>
+            <li>My desire for {PAWN_nameShortPossessive} breasts is all-consuming. They are truly magnificent, almost hypnotic in their effect on me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young female, may include own breats reaction  mention, or own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_Nymphomaniac_Female</defName>
+        <label>Enormous Breasts (Neutral) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are incredibly arousing, making my own breasts ache with desire.</li>
+            <li>My pussy is reacting strongly to the sight of {PAWN_nameShortPossessive} magnificent breasts.</li>
+            <li>Such an exquisite pair of enormous breasts! They instantly make me wet.</li>
+            <li>I find myself consumed by lust at the sight of {PAWN_nameShortPossessive} ample breasts, my inner thighs tingling.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts sway and jiggle sends shivers of pleasure through my core.</li>
+            <li>I'm overflowing with desire just looking at the sheer abundance of {PAWN_nameShortPossessive} breasts; my clit throbs.</li>
+            <li>My gaze is fixated on the prominent nipples of {PAWN_nameShortPossessive} breasts, and I can feel my arousal building in my groin.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are utterly captivating. My loins are burning with anticipation for them.</li>
+            <li>The deep cleavage of {PAWN_nameShortPossessive} breasts is so inviting. I'm throbbing with need in my vulva.</li>
+            <li>I could lose myself in watching {PAWN_nameShortPossessive} breasts all day. They are truly stimulating my entire body.</li>
+            <li>A truly glorious display of female form. My entire body aches with desire, especially my core.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts sends a jolt of pure ecstasy through me, making me wet.</li>
+            <li>These ample breasts are a gift to behold. I feel an overwhelming urge to be intimate, and my own breasts feel full.</li>
+            <li>I find immense satisfaction in simply gazing at {PAWN_nameShortPossessive} breasts; my lust and wetness are undeniable.</li>
+            <li>The full, heavy shape of {PAWN_nameShortPossessive} breasts is incredibly alluring, making me want to be touched there.</li>
+            <li>My mind is consumed by the image of {PAWN_nameShortPossessive} enormous breasts. I feel a burning need for female contact.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts are shaped, it's just perfect. I'm completely overcome with longing and dampness.</li>
+            <li>I'm completely drawn in by {PAWN_nameShortPossessive} breasts; my desire is a roaring fire that needs to be put out.</li>
+            <li>Such a spectacular pair of breasts on {PAWN_nameShort}! It's making me intensely horny and ready for action.</li>
+            <li>The prominence of {PAWN_nameShortPossessive} nipples is incredibly stimulating, igniting my deepest, sensual desires.</li>
+            <li>I can almost feel the softness and warmth of {PAWN_nameShortPossessive} breasts against my own. My pussy is throbbing.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a beautiful obsession for me, driving me wild with sexual hunger.</li>
+            <li>The sheer size and sensuality of {PAWN_nameShortPossessive} breasts are overwhelming my senses, making me breathless for a release.</li>
+            <li>I find myself aching for {PAWN_nameShortPossessive} breasts. The lust is palpable and consuming, making me desperate.</li>
+            <li>The sight of {PAWN_nameShortPossessive} enormous breasts is making me incredibly aroused, practically vibrating with need.</li>
+            <li>I could just bury myself in {PAWN_nameShortPossessive} breasts. Such an intense turn-on, making my inner thighs tremble.</li>
+            <li>{PAWN_nameShortPossessive} breasts are driving me absolutely insane with desire for intimacy.</li>
+            <li>I'm utterly mesmerized by {PAWN_nameShortPossessive} breasts; my need is uncontrollable, bordering on primal desperation.</li>
+            <li>The roundness and fullness of {PAWN_nameShortPossessive} breasts are incredibly appealing, making my skin prickle with excitement.</li>
+            <li>My desire for {PAWN_nameShortPossessive} breasts is all-consuming. They are truly magnificent, almost hypnotic in their effect on me.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_Kind</defName>
+        <label>Enormous Breasts (Neutral) trait Kind</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are quite prominent. I hope {PAWN_pronoun} is comfortable.</li>
+            <li>I noticed {PAWN_nameShortPossessive} enormous breasts; they appear to be a substantial part of {PAWN_possessive} physique.</li>
+            <li>The size of {PAWN_nameShortPossessive} breasts is quite striking. I hope {PAWN_objective} feels confident.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are certainly visible. I wish {PAWN_objective} well.</li>
+            <li>I observe {PAWN_nameShortPossessive} enormous breasts, hoping {PAWN_pronoun} is at ease.</li>
+            <li>Those are undeniably large breasts on {PAWN_nameShort}. I hope {PAWN_pronoun} doesn't feel self-conscious.</li>
+            <li>{PAWN_nameShortPossessive} breasts seem quite full and heavy. I hope {PAWN_pronoun} experiences no discomfort.</li>
+            <li>The presence of {PAWN_nameShortPossessive} enormous breasts is clear. I hope {PAWN_pronoun} feels respected.</li>
+            <li>I noticed the considerable size of {PAWN_nameShortPossessive} breasts; a natural part of {PAWN_possessive} body.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are quite conspicuous. I hope {PAWN_pronoun} is living {PAWN_possessive} best life.</li>
+            <li>The shape of {PAWN_nameShortPossessive} breasts is rather ample. I wish {PAWN_objective} happiness.</li>
+            <li>{PAWN_nameShortPossessive} breasts are very large. I hope {PAWN_pronoun} is comfortable in {PAWN_possessive} own skin.</li>
+            <li>I observe the natural form of {PAWN_nameShortPossessive} enormous breasts, without judgment.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are certainly noticeable. I hope {PAWN_pronoun} is doing alright.</li>
+            <li>The fullness of {PAWN_nameShortPossessive} breasts is evident. I hope {PAWN_pronoun} feels at peace.</li>
+            <li>I hope {PAWN_nameShort} is comfortable with {PAWN_possessive} enormous breasts being visible.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} breasts is quite apparent. I hope {PAWN_pronoun} is well.</li>
+            <li>I notice {PAWN_nameShortPossessive} nipples and areolae, hoping {PAWN_pronoun} feels good about {PAWN_possessive} body.</li>
+            <li>{PAWN_nameShortPossessive} breasts are quite striking in their size. I extend kindness to {PAWN_objective}.</li>
+            <li>It's clear {PAWN_nameShort} has very large breasts. I hope {PAWN_pronoun} is comfortable and cared for.</li>
+            <li>The presence of {PAWN_nameShortPossessive} enormous breasts is simply a fact of {PAWN_possessive} anatomy.</li>
+            <li>I hope {PAWN_nameShort} feels no pressure regarding {PAWN_possessive} prominent breasts.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are a distinct feature. I wish {PAWN_objective} inner tranquility.</li>
+            <li>I acknowledge {PAWN_nameShortPossessive} enormous breasts and hope {PAWN_pronoun} feels secure.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts sit, they certainly have a lot of presence. I hope {PAWN_pronoun} is happy.</li>
+            <li>I observe {PAWN_nameShortPossessive} enormous breasts and hope {PAWN_pronoun} is feeling strong and content.</li>
+            <li>{PAWN_nameShortPossessive} breasts are very large indeed. I hope {PAWN_pronoun} feels accepted.</li>
+            <li>I notice {PAWN_nameShortPossessive} enormous breasts, wishing {PAWN_objective} comfort and peace of mind.</li>
+            <li>The visible form of {PAWN_nameShortPossessive} breasts is quite pronounced. I wish {PAWN_pronoun} well.</li>
+            <li>I hope {PAWN_nameShort} feels good about {PAWN_possessive} body, including {PAWN_possessive} enormous breasts.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Enormous_trait_Prude</defName>
+        <label>Enormous Breasts (Neutral) trait Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} enormous breasts are frankly quite a lot to take in. Really, must {PAWN_pronoun} display them?</li>
+            <li>I am forced to acknowledge {PAWN_nameShortPossessive} enormous breasts. It's rather… overt.</li>
+            <li>Those are truly enormous breasts on {PAWN_nameShort}. One would think {PAWN_pronoun} could cover them.</li>
+            <li>{PAWN_nameShortPossessive} breasts are quite an imposing size. A bit much for public viewing, perhaps.</li>
+            <li>I'm aware of {PAWN_nameShortPossessive} enormous breasts. Their blatant size is rather tiresome.</li>
+            <li>The jiggle of {PAWN_nameShortPossessive} enormous breasts is quite distracting. Can't {PAWN_pronoun} be more discreet?</li>
+            <li>{PAWN_nameShortPossessive} breasts are so massive, it’s almost crude. Really, no need for such a display.</li>
+            <li>One can't help but notice {PAWN_nameShortPossessive} enormous breasts. It's rather impolite.</li>
+            <li>Her breasts are excessively large. It just draws too much attention, unpleasantly so.</li>
+            <li>The visible nipples and areolae on {PAWN_nameShortPossessive} enormous breasts are quite blatant.</li>
+            <li>I'm quite uncomfortable with the sheer visibility of {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>Those breasts are just too big. It's almost... vulgar.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are rather audacious in their presentation.</li>
+            <li>It's clear {PAWN_nameShort} wants those breasts to be noticed. It's tiresome.</li>
+            <li>The way {PAWN_nameShortPossessive} enormous breasts hang, it's just very exposed.</li>
+            <li>I find the sheer size of {PAWN_nameShortPossessive} breasts to be quite... gaudy.</li>
+            <li>The prominent outline of {PAWN_nameShortPossessive} enormous breasts is a bit much.</li>
+            <li>One should really be more modest, even with such naturally large breasts as {PAWN_nameShortPossessive}.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts are just out there is rather distasteful.</li>
+            <li>I can't ignore {PAWN_nameShortPossessive} enormous breasts, unfortunately.</li>
+            <li>{PAWN_nameShortPossessive} breasts are undeniably large, making one quite uncomfortable.</li>
+            <li>Their exaggerated size makes {PAWN_nameShortPossessive} breasts seem almost comical.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} breasts is really quite in your face.</li>
+            <li>It's a very unreserved display of {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>One wishes {PAWN_nameShort} would cover those breasts more. They are too much.</li>
+            <li>The prominent nipples on {PAWN_nameShortPossessive} enormous breasts are quite brazen.</li>
+            <li>I'm quite put off by the overtness of {PAWN_nameShortPossessive} enormous breasts.</li>
+            <li>{PAWN_nameShortPossessive} breasts are simply too large to be ignored, and I find it grating.</li>
+            <li>The enormous size of {PAWN_nameShortPossessive} breasts is rather confronting.</li>
+            <li>I wish {PAWN_nameShortPossessive} breasts were less... conspicuous. It's all rather distasteful.</li>
+        </opinionTexts>
+</Def>
+
+
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Breasts_Neutral_Enormous_SlimeBreasts</defName>
+        <label>Enormous Breasts (Neutral)_SlimeBreasts</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeBreasts</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_possessive} slime breasts are enormous, immense, impossible to ignore, yet evoke no strong emotion, merely observation of scale.</li>
+            <li>Their impossibly vast dimensions are evident, providing an overwhelming, almost absurd form, neither graceful nor grotesque.</li>
+            <li>These breasts exhibit extraordinarily prominent projection, consistent with their extreme classification, lacking unique features beyond their scale.</li>
+            <li>The extraordinarily expansive curvature reflects light mundanely for slime, lacking captivating qualities beyond bewildered glance.</li>
+            <li>They appear functionally present, their gargantuan size offering no distinct advantage or debilitating disadvantage beyond unwieldy bulk.</li>
+            <li>One observes them as an undeniable, overwhelming, cumbersome component of {PAWN_nameShortPossessive} chest, taking up exorbitant, comical space.</li>
+            <li>Their titanic scale aligns with theoretical expectations for enormous breasts, presenting a gargantuan but unremarkable visual.</li>
+            <li>The texture is consistent with slime, smooth and pliable, as anticipated from such an incomprehensibly vast amount of biological material.</li>
+            <li>As a physical attribute, these enormous slime breasts simply occupy excessive volume, fulfilling their role without beauty or functional deficiency.</li>
+            <li>They demand unavoidable acknowledgement due to their sheer presence, yet don't compel fascination or revulsion; they simply are, inconvenient.</li>
+            <li>Light interaction with their colossal surfaces is ordinary for slime, providing no unusual highlights despite bewildering vastness.</li>
+            <li>They fall within extreme, unappealing variations, neither beautiful nor problematic beyond constant practicalities of immense proportions.</li>
+            <li>Their outline is an utterly expansive, unmanageably voluminous shape, indicative of unfathomable mass, simply overwhelming.</li>
+            <li>The overall impression is simple, comical immensity, {PAWN_nameShortPossessive} breasts being a ludicrously prominent, unexceptional part of {PAWN_possessive} upper body.</li>
+            <li>They contribute to biological completeness without strong emotional response, merely recognition of prodigious size.</li>
+            <li>Their proportion to {PAWN_possessive} frame is absurd scale, aligning with theoretical anatomical considerations for impossibly large builds.</li>
+            <li>The sensation they convey is basic physicality and overwhelming, almost suffocating, substantiality, without additional aesthetic impact.</li>
+            <li>Nothing particularly remarkable about these enormous slime breasts; they are simply a cumbersome anatomical presence.</li>
+            <li>Their extreme, grotesque protrusion is acknowledged, but doesn't lead to extended contemplation beyond initial, overwhelming observation.</li>
+            <li>They contribute to general coherence, without standing out as attractive or unattractive in their imposing, absurd presentation.</li>
+        </opinionTexts>
+</Def>
+</Defs>

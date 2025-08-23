@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shark\\Desktop\\NudityMattersMore_opinions\\NudityMattersMore_opinions\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF15AE5C-FDD9-437F-A25F-44C009DEED81}|NudityMattersMore_opinions.csproj|c:\\users\\shark\\desktop\\nuditymattersmore_opinions\\nuditymattersmore_opinions\\source\\tab related\\itab_pawn_nmmopinions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF15AE5C-FDD9-437F-A25F-44C009DEED81}|NudityMattersMore_opinions.csproj|solutionrelative:tab related\\itab_pawn_nmmopinions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF15AE5C-FDD9-437F-A25F-44C009DEED81}|NudityMattersMore_opinions.csproj|c:\\users\\shark\\desktop\\nuditymattersmore_opinions\\nuditymattersmore_opinions\\source\\private parts opinions\\opinionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF15AE5C-FDD9-437F-A25F-44C009DEED81}|NudityMattersMore_opinions.csproj|solutionrelative:private parts opinions\\opinionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITab_Pawn_NMMOpinions.cs",
+              "DocumentMoniker": "C:\\Users\\shark\\Desktop\\NudityMattersMore_opinions\\NudityMattersMore_opinions\\Source\\Tab related\\ITab_Pawn_NMMOpinions.cs",
+              "RelativeDocumentMoniker": "Tab related\\ITab_Pawn_NMMOpinions.cs",
+              "ToolTip": "C:\\Users\\shark\\Desktop\\NudityMattersMore_opinions\\NudityMattersMore_opinions\\Source\\Tab related\\ITab_Pawn_NMMOpinions.cs",
+              "RelativeToolTip": "Tab related\\ITab_Pawn_NMMOpinions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:52:13.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpinionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\shark\\Desktop\\NudityMattersMore_opinions\\NudityMattersMore_opinions\\Source\\Private parts opinions\\OpinionHelper.cs",
+              "RelativeDocumentMoniker": "Private parts opinions\\OpinionHelper.cs",
+              "ToolTip": "C:\\Users\\shark\\Desktop\\NudityMattersMore_opinions\\NudityMattersMore_opinions\\Source\\Private parts opinions\\OpinionHelper.cs",
+              "RelativeToolTip": "Private parts opinions\\OpinionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:52:11.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale</defName>
+        <label>Micro Vagina (Positive)_MatureFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature beauty of {PAWN_nameShortPossessive} intimate folds is surprisingly alluring, suggesting a depth of experience that is truly captivating.</li>
+            <li>A subtle glimpse of {PAWN_nameShortPossessive} delicate lips, perfectly formed and hinting at hidden delights. It’s quite charming.</li>
+            <li>The soft, inviting curve of {PAWN_nameShortPossessive} inner sanctum is a pleasant surprise, radiating a quiet confidence and allure.</li>
+            <li>Observing the subtle undulations of {PAWN_nameShortPossessive} labia, a testament to years of graceful living, sparks a gentle admiration.</li>
+            <li>{PAWN_nameShortPossessive} mature beauty is evident in the finely-textured folds; their modest size is unexpectedly intriguing.</li>
+            <li>A fleeting view reveals {PAWN_nameShortPossessive} hidden curves, subtly inviting. The impression left is one of gentle allure.</li>
+            <li>The delicate shape of {PAWN_nameShortPossessive} core is quite captivating, hinting at a quiet strength and inner warmth.</li>
+            <li>{PAWN_nameShortPossessive} intimate landscape shows refined contours, each curve speaking of a rich, untold history. Quite fascinating.</li>
+            <li>A momentary flash of {PAWN_nameShortPossessive} secret, its slight visibility only enhances its mystery and delicate appeal.</li>
+            <li>The sight of {PAWN_nameShortPossessive} perfectly shaped opening is a calm, pleasant discovery, hinting at a gentle, welcoming nature.</li>
+            <li>{PAWN_nameShortPossessive} tender lips, barely visible, evoke a sense of reserved elegance and profound, unspoken beauty.</li>
+            <li>Such an intimate peek into {PAWN_nameShortPossessive} life, revealing a subtle, yet deeply beautiful aspect of {PAWN_possessive} form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} modest, yet perfectly defined, folds is surprisingly appealing, a testament to subtle grace.</li>
+            <li>{PAWN_nameShortPossessive} core, peeking out, is a gentle vision, promising a hidden warmth and comfortable familiarity.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} private beauty, subtle and understated, yet profoundly inviting and intriguing.</li>
+            <li>The delicate, inviting shape of {PAWN_nameShortPossessive} outer lips is a pleasant sight, whispering of quiet pleasure.</li>
+            <li>{PAWN_nameShortPossessive} intimate form, though small, possesses an undeniable allure, a refined beauty that is truly captivating.</li>
+            <li>A quick look reveals {PAWN_nameShortPossessive} secret. The way the light catches {PAWN_possessive} delicate folds is mesmerizing.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} hidden flower is a beautiful sight, hinting at unspoken desires.</li>
+            <li>{PAWN_nameShortPossessive} depths, though subtly concealed, hint at a profound, quiet passion, truly magnificent.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale_observed_by_voyer</defName>
+        <label>Micro Vagina (Positive)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A thrilling peek at {PAWN_nameShortPossessive} private world; the subtle swell of {PAWN_possessive} lips promises tantalizing secrets.</li>
+            <li>Catching a glimpse of {PAWN_nameShortPossessive} hidden depths sends a shiver of delight through me. So much more to uncover.</li>
+            <li>The unexpected view of {PAWN_nameShortPossessive} delicate clitoris is an intoxicating secret, making my imagination race.</li>
+            <li>A sudden, delightful revelation of {PAWN_nameShortPossessive} inner labia, perfectly framed. A truly captivating sight for curious eyes.</li>
+            <li>The fleeting vision of {PAWN_nameShortPossessive} mature, inviting form has me captivated; its gentle visibility is a tease.</li>
+            <li>I savored the brief, tantalizing vision of {PAWN_nameShortPossessive} delicate core, hinting at so much more to admire.</li>
+            <li>A thrilling glance at {PAWN_nameShortPossessive} private beauty, the contours of {PAWN_possessive} folds a delicious mystery to behold.</li>
+            <li>The clandestine view of {PAWN_nameShortPossessive} hidden pleasure, so subtly revealed, yet so powerfully enchanting to my gaze.</li>
+            <li>My eyes are drawn to the hidden curves of {PAWN_nameShortPossessive} mature form, a tantalizing discovery, subtly laid bare.</li>
+            <li>That fleeting moment of seeing {PAWN_nameShortPossessive} intimate space was an absolute delight, a tantalizing reward for my patience.</li>
+            <li>The glimpse of {PAWN_nameShortPossessive} forbidden fruit, so unexpectedly revealed, stirs a deep, voyeuristic pleasure within me.</li>
+            <li>Every tiny fold and curve of {PAWN_nameShortPossessive} inner sanctum, briefly exposed, fills me with a silent, intense appreciation.</li>
+            <li>A subtle parting reveals {PAWN_nameShortPossessive} enticing depths, leaving a lasting impression of hidden beauty and allure.</li>
+            <li>The casual exposure of {PAWN_nameShortPossessive} private parts, even for a moment, is a captivating scene, a true visual feast.</li>
+            <li>I feel a wicked thrill observing {PAWN_nameShortPossessive} most intimate features, a secret indulgence to behold.</li>
+            <li>The veiled promise of {PAWN_nameShortPossessive} inner world, glimpsed so fleetingly, is an irresistible temptation to my senses.</li>
+            <li>A quick, illicit glance reveals {PAWN_nameShortPossessive} tender expanse, its modesty only adding to its captivating mystique.</li>
+            <li>My gaze lingers on the soft, inviting entrance of {PAWN_nameShortPossessive} core, a delightful prize for my keen eyes.</li>
+            <li>The unexpected sight of {PAWN_nameShortPossessive} hidden jewel makes my heart pound; such a delicious secret to uncover.</li>
+            <li>I'm utterly mesmerized by the subtle, mature allure of {PAWN_nameShortPossessive} most private parts, a true voyeur's delight.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Micro Vagina (Positive)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The casual display of {PAWN_nameShortPossessive} intimate curves is absolutely thrilling, a truly confident and beautiful sight to behold.</li>
+            <li>I love seeing {PAWN_nameShortPossessive} subtle, inviting lips openly, a bold statement of {PAWN_possessive} comfort in {PAWN_possessive} own skin.</li>
+            <li>{PAWN_nameShortPossessive} candid exposure of {PAWN_possessive} depths is truly empowering, a magnificent vision of natural beauty.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} unabashed presentation of {PAWN_possessive} private assets is intensely arousing. So courageous!</li>
+            <li>It's so wonderful how {PAWN_nameShortPossessive} delicate folds are so openly presented, inspiring and exciting to my exhibitionist heart.</li>
+            <li>The way {PAWN_nameShortPossessive} inner labia are casually revealed, so confident and inviting, warms my soul.</li>
+            <li>A truly magnificent sight: {PAWN_nameShortPossessive} intimate parts freely offered for view, a testament to {PAWN_possessive} uninhibited spirit.</li>
+            <li>{PAWN_nameShortPossessive} bold display of {PAWN_possessive} sensual form is intoxicating, an open invitation to admire {PAWN_possessive} natural allure.</li>
+            <li>I am filled with a deep sense of shared liberation watching {PAWN_nameShortPossessive} reveal {PAWN_possessive} private beauty so freely.</li>
+            <li>The visible contours of {PAWN_nameShortPossessive} mature core, offered without shame, are incredibly captivating and inspiring.</li>
+            <li>It’s such a powerful statement, {PAWN_nameShortPossessive} open display of {PAWN_possessive} vulva; truly beautiful and unashamed.</li>
+            <li>{PAWN_nameShortPossessive} willingness to reveal {PAWN_possessive} intimate self is a profound affirmation of beauty and confidence.</li>
+            <li>The sight of {PAWN_nameShortPossessive} private features in full view is exhilarating, an open celebration of the feminine form.</li>
+            <li>{PAWN_nameShortPossessive} intimate depths, clearly visible, are a captivating masterpiece, a beautiful declaration of freedom.</li>
+            <li>I admire {PAWN_nameShortPossessive} courage in revealing {PAWN_possessive} beautiful, mature form so openly. It's truly inspiring.</li>
+            <li>The natural exposure of {PAWN_nameShortPossessive} alluring lips is a delightful spectacle, so pure and uninhibited.</li>
+            <li>What a joy to witness {PAWN_nameShortPossessive} exquisite, open form, freely shared for all to appreciate.</li>
+            <li>{PAWN_nameShortPossessive} intimate beauty, presented so confidently, is a mesmerizing and utterly charming display.</li>
+            <li>The vision of {PAWN_nameShortPossessive} full, mature labia, openly offered, is a truly magnificent and inspiring sight.</li>
+            <li>I revel in the glorious, unrestricted view of {PAWN_nameShortPossessive} inner self, a pure and unadulterated pleasure.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Micro Vagina (Positive)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} soft, inviting lips ignites a burning desire within me; I crave to explore {PAWN_possessive} depths.</li>
+            <li>A tantalizing glimpse of {PAWN_nameShortPossessive} mature, moist entrance sends a jolt of intense lust through my entire being.</li>
+            <li>{PAWN_nameShortPossessive} hidden clitoris, barely visible, throbs with unseen promise, awakening an insatiable hunger in me.</li>
+            <li>My body aches to feel the supple folds of {PAWN_nameShortPossessive} labia against mine. What sweet pleasure they must hold!</li>
+            <li>The sensuous visibility of {PAWN_nameShortPossessive} delicate flower is incredibly arousing, stirring an urgent need for release.</li>
+            <li>I instantly feel a hot flush seeing {PAWN_nameShortPossessive} alluring contours; my mind races with possibilities for intimate pleasure.</li>
+            <li>{PAWN_nameShortPossessive} mature, inviting center promises endless delights. I must have {PAWN_pronoun}, now.</li>
+            <li>A quick glance at {PAWN_nameShortPossessive} depths sets my loins alight; the promise of {PAWN_possessive} warmth is intoxicating.</li>
+            <li>The gentle parting of {PAWN_nameShortPossessive} folds hints at such profound pleasure, driving me wild with desire.</li>
+            <li>I can almost taste the sweetness of {PAWN_nameShortPossessive} core, so ripe and ready for passionate exploration.</li>
+            <li>My entire being screams for the touch of {PAWN_nameShortPossessive} intimate form, yearning for the ecstasy {PAWN_possessive} promises.</li>
+            <li>The subtle visibility of {PAWN_nameShortPossessive} entrance is a potent aphrodisiac, fueling my relentless craving for intimacy.</li>
+            <li>{PAWN_nameShortPossessive} inviting anatomy is a glorious vision that compels me to seek immediate, profound physical connection.</li>
+            <li>I'm consumed by the desire to lose myself within the mature, captivating confines of {PAWN_nameShortPossessive} body.</li>
+            <li>Every inch of {PAWN_nameShortPossessive} intimate being whispers promises of intense gratification; I must succumb.</li>
+            <li>The alluring sight of {PAWN_nameShortPossessive} wetness, subtly revealed, makes me burn with an uncontrollable fire.</li>
+            <li>My heart pounds, seeing {PAWN_nameShortPossessive} perfect, mature opening. I am utterly desperate for {PAWN_possessive} touch.</li>
+            <li>{PAWN_nameShortPossessive} sensual form, though micro, is enough to send my desires spiraling into a feverish frenzy.</li>
+            <li>I feel an overwhelming compulsion to intimately explore the depths of {PAWN_nameShortPossessive} luscious anatomy.</li>
+            <li>A profound sense of craving washes over me at the sight of {PAWN_nameShortPossessive} inviting, mature, hidden beauty.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale_observed_by_Prude</defName>
+        <label>Micro Vagina (Positive)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A surprisingly graceful, if briefly glimpsed, form; the subtle femininity of {PAWN_nameShortPossessive} anatomy is quite... proper.</li>
+            <li>Despite my modesty, I must admit {PAWN_nameShortPossessive} understated lines are tastefully formed, a subtle natural beauty.</li>
+            <li>The discreet view of {PAWN_nameShortPossessive} private features, though unexpected, carries an undeniable, dignified elegance.</li>
+            <li>I observed {PAWN_nameShortPossessive} delicate structure; its mature yet modest visibility is... well, it’s certainly there.</li>
+            <li>Such an intimate part of {PAWN_nameShortPossessive} form, displayed with a certain quiet dignity. Unexpectedly, not entirely offensive.</li>
+            <li>The soft, muted tones of {PAWN_nameShortPossessive} intimate area are rather... demure. A surprising, yet discreet, beauty.</li>
+            <li>I noted the subtle contours of {PAWN_nameShortPossessive} private form. It appears quite well-formed, in a reserved manner.</li>
+            <li>A flash of {PAWN_nameShortPossessive} hidden curves, surprisingly unprovocative in its mature presentation. It was merely observed.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate anatomy, while visible, manages to retain a respectable modesty.</li>
+            <li>One cannot deny the natural form of {PAWN_nameShortPossessive} private parts, presented with an understated, dignified presence.</li>
+            <li>{PAWN_nameShortPossessive} form, even in its intimate detail, retains a certain purity. A respectable, if visible, part of {PAWN_possessive} being.</li>
+            <li>The modest appearance of {PAWN_nameShortPossessive} private self is... adequate. It is certainly a part of the human form.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} core. It is, perhaps, less… flamboyant than one might expect for its age.</li>
+            <li>A quick glance at {PAWN_nameShortPossessive} hidden anatomy revealed a rather conventional, if somewhat exposed, form.</li>
+            <li>The natural shape of {PAWN_nameShortPossessive} inner folds, though visible, maintained a certain quiet propriety.</li>
+            <li>I took note of {PAWN_nameShortPossessive} intimate structure. It is, in its own way, a testament to the natural order.</li>
+            <li>The mature contours of {PAWN_nameShortPossessive} private area are presented with an unexpected, almost demure, simplicity.</li>
+            <li>One observes {PAWN_nameShortPossessive} anatomy and finds it to be, quite simply, as nature intended. Nothing more to say.</li>
+            <li>A brief, chaste view of {PAWN_nameShortPossessive} intimate parts. They are certainly present and appear to be well-kept.</li>
+            <li>The quiet, mature form of {PAWN_nameShortPossessive} femininity, though revealed, retains an acceptable, dignified presence.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale_observed_by_Young_male</defName>
+        <label>Micro Vagina (Positive)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Wow, {PAWN_nameShortPossessive} intimate lips are so soft and inviting, a mature beauty I hadn't expected.</li>
+            <li>A quick glance at {PAWN_nameShortPossessive} hidden depths has me captivated. There's a subtle allure to {PAWN_possessive} mature form.</li>
+            <li>I noticed the delicate curve of {PAWN_nameShortPossessive} clitoris, small but perfectly formed. It's surprisingly hot.</li>
+            <li>The gentle swell of {PAWN_nameShortPossessive} labia is incredibly enticing, hinting at a quiet intensity.</li>
+            <li>{PAWN_nameShortPossessive} body reveals a glimpse of its mature glory, subtly visible and utterly fascinating.</li>
+            <li>That fleeting view of {PAWN_nameShortPossessive} intimate opening sent a jolt through me. So much more to discover.</li>
+            <li>Her feminine core, even glimpsed, radiates a profound warmth and allure that is deeply appealing.</li>
+            <li>The delicate shape of {PAWN_nameShortPossessive} inner self, so mature and inviting, truly captures my attention.</li>
+            <li>I'm mesmerized by the subtle way {PAWN_nameShortPossessive} hidden flower reveals itself, leaving me wanting more.</li>
+            <li>The soft, experienced lines of {PAWN_nameShortPossessive} most private parts are incredibly alluring, hinting at rich sensations.</li>
+            <li>Her mature form, subtly visible, suggests a confident sensuality that's incredibly attractive and intriguing.</li>
+            <li>A delightful surprise: the understated beauty of {PAWN_nameShortPossessive} intimate landscape. So much left to the imagination.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, an unexpected thrill to behold.</li>
+            <li>I find myself drawn to the quiet mystery of {PAWN_nameShortPossessive} hidden depths; they promise profound pleasures.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world has my imagination racing, a compelling vision of mature beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden delights.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of refined femininity.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a hidden gem.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly alluring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a tantalizing invitation to explore further.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale_observed_by_Young_female</defName>
+        <label>Micro Vagina (Positive)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} intimate lips show a gentle maturity, a beautiful and confident expression of womanhood.</li>
+            <li>I find {PAWN_nameShortPossessive} hidden depths incredibly appealing, radiating a seasoned grace that is truly inspiring.</li>
+            <li>The subtle, yet perfectly formed, clitoris of {PAWN_nameShortPossessive} is beautiful. A delicate, mature femininity.</li>
+            <li>The soft, inviting labia of {PAWN_nameShortPossessive} speak of a deep, quiet strength, an undeniable allure.</li>
+            <li>{PAWN_nameShortPossessive} mature form, barely visible, holds a fascinating allure, a testament to enduring beauty.</li>
+            <li>That glimpse into {PAWN_nameShortPossessive} intimate world is quite lovely, a quiet elegance I admire.</li>
+            <li>Her feminine core, though aged, radiates a warmth and gentle power that is both comforting and beautiful.</li>
+            <li>The delicate, experienced shape of {PAWN_nameShortPossessive} inner self is truly captivating, embodying a profound wisdom.</li>
+            <li>I'm touched by the subtle way {PAWN_nameShortPossessive} mature flower reveals itself, a beautiful, enduring emblem of femininity.</li>
+            <li>The soft, strong lines of {PAWN_nameShortPossessive} most private parts are incredibly graceful, inspiring quiet respect.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident, natural beauty that is profoundly attractive.</li>
+            <li>A delightful revelation: the understated, yet powerful, beauty of {PAWN_nameShortPossessive} intimate landscape. So much to appreciate.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, a wonderful sight to behold.</li>
+            <li>I find myself drawn to the quiet strength of {PAWN_nameShortPossessive} hidden depths; they speak of resilience and grace.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world is deeply moving, a compelling vision of feminine beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden stories.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of seasoned charm.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a timeless treasure.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly inspiring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a comforting reminder of enduring grace.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Micro Vagina (Positive)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature appeal of {PAWN_nameShortPossessive} lips is undeniable; they hold a subtle promise of experienced pleasure.</li>
+            <li>A glimpse into {PAWN_nameShortPossessive} depths confirms a graceful maturity, a rich allure that speaks volumes.</li>
+            <li>Her clitoris, discreetly tucked, seems to pulse with a quiet power, beckoning one to explore.</li>
+            <li>The soft, yielding labia of {PAWN_nameShortPossessive} are incredibly inviting, hinting at a profound, comforting intimacy.</li>
+            <li>{PAWN_nameShortPossessive} body subtly reveals its feminine core, a vision of mature beauty that is profoundly attractive.</li>
+            <li>That brief, tantalizing view of {PAWN_nameShortPossessive} opening stirs a deep, familiar desire within me.</li>
+            <li>Her feminine essence, even partially seen, radiates a warm, knowing sensuality that's utterly captivating.</li>
+            <li>The delicate shape of {PAWN_nameShortPossessive} inner self, so mature and inviting, truly speaks to my soul.</li>
+            <li>I'm drawn to the quiet, confident way {PAWN_nameShortPossessive} hidden flower presents itself; it’s a beautiful, understated allure.</li>
+            <li>The soft, experienced lines of {PAWN_nameShortPossessive} most private parts are incredibly appealing, suggesting profound intimacy.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident sensuality that is immensely attractive and deeply comforting.</li>
+            <li>A delightful revelation: the understated beauty of {PAWN_nameShortPossessive} intimate landscape. So much left to explore.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, an inspiring sight to behold.</li>
+            <li>I find myself drawn to the quiet mystery of {PAWN_nameShortPossessive} hidden depths; they promise profound, shared pleasures.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world has my imagination racing, a compelling vision of experienced beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden delights.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of refined sensuality.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a hidden gem.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly alluring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a tantalizing invitation to explore further.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Micro Vagina (Positive)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} intimate lips show a gentle maturity, a beautiful and confident expression of seasoned womanhood.</li>
+            <li>I find {PAWN_nameShortPossessive} hidden depths incredibly appealing, radiating a seasoned grace that is truly inspiring.</li>
+            <li>The subtle, yet perfectly formed, clitoris of {PAWN_nameShortPossessive} is beautiful. A delicate, mature femininity.</li>
+            <li>The soft, inviting labia of {PAWN_nameShortPossessive} speak of a deep, quiet strength, an undeniable allure.</li>
+            <li>{PAWN_nameShortPossessive} mature form, barely visible, holds a fascinating allure, a testament to enduring beauty.</li>
+            <li>That glimpse into {PAWN_nameShortPossessive} intimate world is quite lovely, a quiet elegance I admire.</li>
+            <li>Her feminine core, though aged, radiates a warmth and gentle power that is both comforting and beautiful.</li>
+            <li>The delicate, experienced shape of {PAWN_nameShortPossessive} inner self is truly captivating, embodying a profound wisdom.</li>
+            <li>I'm touched by the subtle way {PAWN_nameShortPossessive} mature flower reveals itself, a beautiful, enduring emblem of femininity.</li>
+            <li>The soft, strong lines of {PAWN_nameShortPossessive} most private parts are incredibly graceful, inspiring quiet respect.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident, natural beauty that is profoundly attractive.</li>
+            <li>A delightful revelation: the understated, yet powerful, beauty of {PAWN_nameShortPossessive} intimate landscape. So much to appreciate.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, a wonderful sight to behold.</li>
+            <li>I find myself drawn to the quiet strength of {PAWN_nameShortPossessive} hidden depths; they speak of resilience and grace.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world is deeply moving, a compelling vision of feminine beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden stories.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of seasoned charm.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a timeless treasure.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly inspiring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a comforting reminder of enduring grace.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale_observed_by_Elder_male</defName>
+        <label>Micro Vagina (Positive)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature, inviting lips of {PAWN_nameShortPossessive} are a truly captivating sight, embodying a seasoned grace.</li>
+            <li>A wise gaze reveals the subtle depths of {PAWN_nameShortPossessive} body, hinting at profound, comforting experience.</li>
+            <li>Her clitoris, though small, suggests a quiet power, a hidden gem of mature sensuality.</li>
+            <li>The soft, experienced labia of {PAWN_nameShortPossessive} are deeply alluring, whispering tales of cherished intimacy.</li>
+            <li>{PAWN_nameShortPossessive} body reveals its feminine core with understated elegance, a beautiful vision of mature allure.</li>
+            <li>That brief, delightful view of {PAWN_nameShortPossessive} opening evokes a sense of deep appreciation for enduring beauty.</li>
+            <li>Her feminine essence, even partially seen, radiates a warm, knowing sensuality that's utterly comforting.</li>
+            <li>The delicate, seasoned shape of {PAWN_nameShortPossessive} inner self truly speaks to a lifetime of grace.</li>
+            <li>I'm drawn to the quiet confidence with which {PAWN_nameShortPossessive} hidden flower presents itself; a beautiful, timeless allure.</li>
+            <li>The soft, experienced lines of {PAWN_nameShortPossessive} most private parts are incredibly appealing, hinting at profound intimacy.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident sensuality that is immensely attractive and deeply comforting.</li>
+            <li>A delightful revelation: the understated beauty of {PAWN_nameShortPossessive} intimate landscape. So much left to admire.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, an inspiring sight to behold.</li>
+            <li>I find myself drawn to the quiet mystery of {PAWN_nameShortPossessive} hidden depths; they promise profound, shared pleasures.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world has my imagination racing, a compelling vision of experienced beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden delights.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of refined sensuality.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a hidden gem.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly alluring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a tantalizing invitation to explore further.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_MatureFemale_observed_by_Elder_female</defName>
+        <label>Micro Vagina (Positive)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} intimate lips show a gentle maturity, a beautiful and confident expression of seasoned womanhood.</li>
+            <li>I find {PAWN_nameShortPossessive} hidden depths incredibly appealing, radiating a seasoned grace that is truly inspiring.</li>
+            <li>The subtle, yet perfectly formed, clitoris of {PAWN_nameShortPossessive} is beautiful. A delicate, mature femininity.</li>
+            <li>The soft, inviting labia of {PAWN_nameShortPossessive} speak of a deep, quiet strength, an undeniable allure.</li>
+            <li>{PAWN_nameShortPossessive} mature form, barely visible, holds a fascinating allure, a testament to enduring beauty.</li>
+            <li>That glimpse into {PAWN_nameShortPossessive} intimate world is quite lovely, a quiet elegance I admire.</li>
+            <li>Her feminine core, though aged, radiates a warmth and gentle power that is both comforting and beautiful.</li>
+            <li>The delicate, experienced shape of {PAWN_nameShortPossessive} inner self is truly captivating, embodying a profound wisdom.</li>
+            <li>I'm touched by the subtle way {PAWN_nameShortPossessive} mature flower reveals itself, a beautiful, enduring emblem of femininity.</li>
+            <li>The soft, strong lines of {PAWN_nameShortPossessive} most private parts are incredibly graceful, inspiring quiet respect.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident, natural beauty that is profoundly attractive.</li>
+            <li>A delightful revelation: the understated, yet powerful, beauty of {PAWN_nameShortPossessive} intimate landscape. So much to appreciate.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, a wonderful sight to behold.</li>
+            <li>I find myself drawn to the quiet strength of {PAWN_nameShortPossessive} hidden depths; they speak of resilience and grace.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world is deeply moving, a compelling vision of feminine beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden stories.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of seasoned charm.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a timeless treasure.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly inspiring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a comforting reminder of enduring grace.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale</defName>
+        <label>Micro Vagina (Positive)_ElderFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The serene beauty of {PAWN_nameShortPossessive} intimate folds, aged with grace, reveals a profound, enduring charm.</li>
+            <li>A gentle glimpse of {PAWN_nameShortPossessive} delicate lips, softened by time, yet still perfectly formed and inviting.</li>
+            <li>The subtle, inviting curve of {PAWN_nameShortPossessive} inner sanctum, radiating a quiet wisdom and timeless allure.</li>
+            <li>Observing the gentle undulations of {PAWN_nameShortPossessive} labia, a testament to a long life, sparks a deep admiration.</li>
+            <li>{PAWN_nameShortPossessive} mature beauty is evident in the finely-textured folds; their modest size is unexpectedly intriguing.</li>
+            <li>A fleeting view reveals {PAWN_nameShortPossessive} hidden curves, subtly inviting. The impression left is one of gentle allure.</li>
+            <li>The delicate shape of {PAWN_nameShortPossessive} core is quite captivating, hinting at a quiet strength and inner warmth.</li>
+            <li>{PAWN_nameShortPossessive} intimate landscape shows refined contours, each curve speaking of a rich, untold history. Quite fascinating.</li>
+            <li>A momentary flash of {PAWN_nameShortPossessive} secret, its slight visibility only enhances its mystery and delicate appeal.</li>
+            <li>The sight of {PAWN_nameShortPossessive} perfectly shaped opening is a calm, pleasant discovery, hinting at a gentle, welcoming nature.</li>
+            <li>{PAWN_nameShortPossessive} tender lips, barely visible, evoke a sense of reserved elegance and profound, unspoken beauty.</li>
+            <li>Such an intimate peek into {PAWN_nameShortPossessive} life, revealing a subtle, yet deeply beautiful aspect of {PAWN_possessive} form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} modest, yet perfectly defined, folds is surprisingly appealing, a testament to subtle grace.</li>
+            <li>{PAWN_nameShortPossessive} core, peeking out, is a gentle vision, promising a hidden warmth and comfortable familiarity.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} private beauty, subtle and understated, yet profoundly inviting and intriguing.</li>
+            <li>The delicate, inviting shape of {PAWN_nameShortPossessive} outer lips is a pleasant sight, whispering of quiet pleasure.</li>
+            <li>{PAWN_nameShortPossessive} intimate form, though small, possesses an undeniable allure, a refined beauty that is truly captivating.</li>
+            <li>A quick look reveals {PAWN_nameShortPossessive} secret. The way the light catches {PAWN_possessive} delicate folds is mesmerizing.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} hidden flower is a beautiful sight, hinting at unspoken desires.</li>
+            <li>{PAWN_nameShortPossessive} depths, though subtly concealed, hint at a profound, quiet passion, truly magnificent.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale_observed_by_voyer</defName>
+        <label>Micro Vagina (Positive)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A thrilling peek at {PAWN_nameShortPossessive} private world; the subtle swell of {PAWN_possessive} lips promises tantalizing secrets.</li>
+            <li>Catching a glimpse of {PAWN_nameShortPossessive} hidden depths sends a shiver of delight through me. So much more to uncover.</li>
+            <li>The unexpected view of {PAWN_nameShortPossessive} delicate clitoris is an intoxicating secret, making my imagination race.</li>
+            <li>A sudden, delightful revelation of {PAWN_nameShortPossessive} inner labia, perfectly framed. A truly captivating sight for curious eyes.</li>
+            <li>The fleeting vision of {PAWN_nameShortPossessive} mature, inviting form has me captivated; its gentle visibility is a tease.</li>
+            <li>I savored the brief, tantalizing vision of {PAWN_nameShortPossessive} delicate core, hinting at so much more to admire.</li>
+            <li>A thrilling glance at {PAWN_nameShortPossessive} private beauty, the contours of {PAWN_possessive} folds a delicious mystery to behold.</li>
+            <li>The clandestine view of {PAWN_nameShortPossessive} hidden pleasure, so subtly revealed, yet so powerfully enchanting to my gaze.</li>
+            <li>My eyes are drawn to the hidden curves of {PAWN_nameShortPossessive} mature form, a tantalizing discovery, subtly laid bare.</li>
+            <li>That fleeting moment of seeing {PAWN_nameShortPossessive} intimate space was an absolute delight, a tantalizing reward for my patience.</li>
+            <li>The glimpse of {PAWN_nameShortPossessive} forbidden fruit, so unexpectedly revealed, stirs a deep, voyeuristic pleasure within me.</li>
+            <li>Every tiny fold and curve of {PAWN_nameShortPossessive} inner sanctum, briefly exposed, fills me with a silent, intense appreciation.</li>
+            <li>A subtle parting reveals {PAWN_nameShortPossessive} enticing depths, leaving a lasting impression of hidden beauty and allure.</li>
+            <li>The casual exposure of {PAWN_nameShortPossessive} private parts, even for a moment, is a captivating scene, a true visual feast.</li>
+            <li>I feel a wicked thrill observing {PAWN_nameShortPossessive} most intimate features, a secret indulgence to behold.</li>
+            <li>The veiled promise of {PAWN_nameShortPossessive} inner world, glimpsed so fleetingly, is an irresistible temptation to my senses.</li>
+            <li>A quick, illicit glance reveals {PAWN_nameShortPossessive} tender expanse, its modesty only adding to its captivating mystique.</li>
+            <li>My gaze lingers on the soft, inviting entrance of {PAWN_nameShortPossessive} core, a delightful prize for my keen eyes.</li>
+            <li>The unexpected sight of {PAWN_nameShortPossessive} hidden jewel makes my heart pound; such a delicious secret to uncover.</li>
+            <li>I'm utterly mesmerized by the subtle, mature allure of {PAWN_nameShortPossessive} most private parts, a true voyeur's delight.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Micro Vagina (Positive)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The casual display of {PAWN_nameShortPossessive} intimate curves is absolutely thrilling, a truly confident and beautiful sight to behold.</li>
+            <li>I love seeing {PAWN_nameShortPossessive} subtle, inviting lips openly, a bold statement of {PAWN_possessive} comfort in {PAWN_possessive} own skin.</li>
+            <li>{PAWN_nameShortPossessive} candid exposure of {PAWN_possessive} depths is truly empowering, a magnificent vision of natural beauty.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} unabashed presentation of {PAWN_possessive} private assets is intensely arousing. So courageous!</li>
+            <li>It's so wonderful how {PAWN_nameShortPossessive} delicate folds are so openly presented, inspiring and exciting to my exhibitionist heart.</li>
+            <li>The way {PAWN_nameShortPossessive} inner labia are casually revealed, so confident and inviting, warms my soul.</li>
+            <li>A truly magnificent sight: {PAWN_nameShortPossessive} intimate parts freely offered for view, a testament to {PAWN_possessive} uninhibited spirit.</li>
+            <li>{PAWN_nameShortPossessive} bold display of {PAWN_possessive} sensual form is intoxicating, an open invitation to admire {PAWN_possessive} natural allure.</li>
+            <li>I am filled with a deep sense of shared liberation watching {PAWN_nameShortPossessive} reveal {PAWN_possessive} private beauty so freely.</li>
+            <li>The visible contours of {PAWN_nameShortPossessive} mature core, offered without shame, are incredibly captivating and inspiring.</li>
+            <li>It’s such a powerful statement, {PAWN_nameShortPossessive} open display of {PAWN_possessive} vulva; truly beautiful and unashamed.</li>
+            <li>{PAWN_nameShortPossessive} willingness to reveal {PAWN_possessive} intimate self is a profound affirmation of beauty and confidence.</li>
+            <li>The sight of {PAWN_nameShortPossessive} private features in full view is exhilarating, an open celebration of the feminine form.</li>
+            <li>{PAWN_nameShortPossessive} intimate depths, clearly visible, are a captivating masterpiece, a beautiful declaration of freedom.</li>
+            <li>I admire {PAWN_nameShortPossessive} courage in revealing {PAWN_possessive} beautiful, mature form so openly. It's truly inspiring.</li>
+            <li>The natural exposure of {PAWN_nameShortPossessive} alluring lips is a delightful spectacle, so pure and uninhibited.</li>
+            <li>What a joy to witness {PAWN_nameShortPossessive} exquisite, open form, freely shared for all to appreciate.</li>
+            <li>{PAWN_nameShortPossessive} intimate beauty, presented so confidently, is a mesmerizing and utterly charming display.</li>
+            <li>The vision of {PAWN_nameShortPossessive} full, mature labia, openly offered, is a truly magnificent and inspiring sight.</li>
+            <li>I revel in the glorious, unrestricted view of {PAWN_nameShortPossessive} inner self, a pure and unadulterated pleasure.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Micro Vagina (Positive)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} soft, inviting lips ignites a burning desire within me; I crave to explore {PAWN_possessive} depths.</li>
+            <li>A tantalizing glimpse of {PAWN_nameShortPossessive} mature, moist entrance sends a jolt of intense lust through my entire being.</li>
+            <li>{PAWN_nameShortPossessive} hidden clitoris, barely visible, throbs with unseen promise, awakening an insatiable hunger in me.</li>
+            <li>My body aches to feel the supple folds of {PAWN_nameShortPossessive} labia against mine. What sweet pleasure they must hold!</li>
+            <li>The sensuous visibility of {PAWN_nameShortPossessive} delicate flower is incredibly arousing, stirring an urgent need for release.</li>
+            <li>I instantly feel a hot flush seeing {PAWN_nameShortPossessive} alluring contours; my mind races with possibilities for intimate pleasure.</li>
+            <li>{PAWN_nameShortPossessive} mature, inviting center promises endless delights. I must have {PAWN_pronoun}, now.</li>
+            <li>A quick glance at {PAWN_nameShortPossessive} depths sets my loins alight; the promise of {PAWN_possessive} warmth is intoxicating.</li>
+            <li>The gentle parting of {PAWN_nameShortPossessive} folds hints at such profound pleasure, driving me wild with desire.</li>
+            <li>I can almost taste the sweetness of {PAWN_nameShortPossessive} core, so ripe and ready for passionate exploration.</li>
+            <li>My entire being screams for the touch of {PAWN_nameShortPossessive} intimate form, yearning for the ecstasy {PAWN_possessive} promises.</li>
+            <li>The subtle visibility of {PAWN_nameShortPossessive} entrance is a potent aphrodisiac, fueling my relentless craving for intimacy.</li>
+            <li>{PAWN_nameShortPossessive} inviting anatomy is a glorious vision that compels me to seek immediate, profound physical connection.</li>
+            <li>I'm consumed by the desire to lose myself within the mature, captivating confines of {PAWN_nameShortPossessive} body.</li>
+            <li>Every inch of {PAWN_nameShortPossessive} intimate being whispers promises of intense gratification; I must succumb.</li>
+            <li>The alluring sight of {PAWN_nameShortPossessive} wetness, subtly revealed, makes me burn with an uncontrollable fire.</li>
+            <li>My heart pounds, seeing {PAWN_nameShortPossessive} perfect, mature opening. I am utterly desperate for {PAWN_possessive} touch.</li>
+            <li>{PAWN_nameShortPossessive} sensual form, though micro, is enough to send my desires spiraling into a feverish frenzy.</li>
+            <li>I feel an overwhelming compulsion to intimately explore the depths of {PAWN_nameShortPossessive} luscious anatomy.</li>
+            <li>A profound sense of craving washes over me at the sight of {PAWN_nameShortPossessive} inviting, mature, hidden beauty.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale_observed_by_Prude</defName>
+        <label>Micro Vagina (Positive)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A surprisingly graceful, if briefly glimpsed, form; the subtle femininity of {PAWN_nameShortPossessive} anatomy is quite... proper.</li>
+            <li>Despite my modesty, I must admit {PAWN_nameShortPossessive} understated lines are tastefully formed, a subtle natural beauty.</li>
+            <li>The discreet view of {PAWN_nameShortPossessive} private features, though unexpected, carries an undeniable, dignified elegance.</li>
+            <li>I observed {PAWN_nameShortPossessive} delicate structure; its mature yet modest visibility is... well, it’s certainly there.</li>
+            <li>Such an intimate part of {PAWN_nameShortPossessive} form, displayed with a certain quiet dignity. Unexpectedly, not entirely offensive.</li>
+            <li>The soft, muted tones of {PAWN_nameShortPossessive} intimate area are rather... demure. A surprising, yet discreet, beauty.</li>
+            <li>I noted the subtle contours of {PAWN_nameShortPossessive} private form. It appears quite well-formed, in a reserved manner.</li>
+            <li>A flash of {PAWN_nameShortPossessive} hidden curves, surprisingly unprovocative in its mature presentation. It was merely observed.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate anatomy, while visible, manages to retain a respectable modesty.</li>
+            <li>One cannot deny the natural form of {PAWN_nameShortPossessive} private parts, presented with an understated, dignified presence.</li>
+            <li>{PAWN_nameShortPossessive} form, even in its intimate detail, retains a certain purity. A respectable, if visible, part of {PAWN_possessive} being.</li>
+            <li>The modest appearance of {PAWN_nameShortPossessive} private self is... adequate. It is certainly a part of the human form.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} core. It is, perhaps, less… flamboyant than one might expect for its age.</li>
+            <li>A quick glance at {PAWN_nameShortPossessive} hidden anatomy revealed a rather conventional, if somewhat exposed, form.</li>
+            <li>The natural shape of {PAWN_nameShortPossessive} inner folds, though visible, maintained a certain quiet propriety.</li>
+            <li>I took note of {PAWN_nameShortPossessive} intimate structure. It is, in its own way, a testament to the natural order.</li>
+            <li>The mature contours of {PAWN_nameShortPossessive} private area are presented with an unexpected, almost demure, simplicity.</li>
+            <li>One observes {PAWN_nameShortPossessive} anatomy and finds it to be, quite simply, as nature intended. Nothing more to say.</li>
+            <li>A brief, chaste view of {PAWN_nameShortPossessive} intimate parts. They are certainly present and appear to be well-kept.</li>
+            <li>The quiet, mature form of {PAWN_nameShortPossessive} femininity, though revealed, retains an acceptable, dignified presence.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale_observed_by_Young_male</defName>
+        <label>Micro Vagina (Positive)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged, intimate lips are unexpectedly alluring, hinting at a lifetime of untold passion.</li>
+            <li>A surprising glimpse of {PAWN_nameShortPossessive} hidden depths reveals a profound, enduring beauty.</li>
+            <li>The delicate curve of {PAWN_nameShortPossessive} clitoris, though aged, still holds a tantalizing, quiet power.</li>
+            <li>The gentle swell of {PAWN_nameShortPossessive} labia is incredibly enticing, suggesting a rich, comforting history.</li>
+            <li>{PAWN_nameShortPossessive} body subtly reveals its enduring feminine core, a vision of seasoned beauty that captivates me.</li>
+            <li>That fleeting view of {PAWN_nameShortPossessive} opening stirs a deep, respectful desire within me.</li>
+            <li>Her feminine essence, even partially seen, radiates a warm, knowing sensuality that's utterly mesmerizing.</li>
+            <li>The delicate, experienced shape of {PAWN_nameShortPossessive} inner self truly speaks to a lifetime of grace.</li>
+            <li>I'm drawn to the quiet, confident way {PAWN_nameShortPossessive} hidden flower presents itself; it’s a beautiful, timeless allure.</li>
+            <li>The soft, experienced lines of {PAWN_nameShortPossessive} most private parts are incredibly appealing, hinting at profound intimacy.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident sensuality that is immensely attractive and deeply comforting.</li>
+            <li>A delightful revelation: the understated beauty of {PAWN_nameShortPossessive} intimate landscape. So much left to admire.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, an inspiring sight to behold.</li>
+            <li>I find myself drawn to the quiet mystery of {PAWN_nameShortPossessive} hidden depths; they promise profound, shared pleasures.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world has my imagination racing, a compelling vision of experienced beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden delights.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of refined sensuality.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a hidden gem.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly alluring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a tantalizing invitation to explore further.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale_observed_by_Young_female</defName>
+        <label>Micro Vagina (Positive)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} intimate lips show a gentle maturity, a beautiful and confident expression of seasoned womanhood.</li>
+            <li>I find {PAWN_nameShortPossessive} hidden depths incredibly appealing, radiating a seasoned grace that is truly inspiring.</li>
+            <li>The subtle, yet perfectly formed, clitoris of {PAWN_nameShortPossessive} is beautiful. A delicate, mature femininity.</li>
+            <li>The soft, inviting labia of {PAWN_nameShortPossessive} speak of a deep, quiet strength, an undeniable allure.</li>
+            <li>{PAWN_nameShortPossessive} mature form, barely visible, holds a fascinating allure, a testament to enduring beauty.</li>
+            <li>That glimpse into {PAWN_nameShortPossessive} intimate world is quite lovely, a quiet elegance I admire.</li>
+            <li>Her feminine core, though aged, radiates a warmth and gentle power that is both comforting and beautiful.</li>
+            <li>The delicate, experienced shape of {PAWN_nameShortPossessive} inner self is truly captivating, embodying a profound wisdom.</li>
+            <li>I'm touched by the subtle way {PAWN_nameShortPossessive} mature flower reveals itself, a beautiful, enduring emblem of femininity.</li>
+            <li>The soft, strong lines of {PAWN_nameShortPossessive} most private parts are incredibly graceful, inspiring quiet respect.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident, natural beauty that is profoundly attractive.</li>
+            <li>A delightful revelation: the understated, yet powerful, beauty of {PAWN_nameShortPossessive} intimate landscape. So much to appreciate.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, a wonderful sight to behold.</li>
+            <li>I find myself drawn to the quiet strength of {PAWN_nameShortPossessive} hidden depths; they speak of resilience and grace.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world is deeply moving, a compelling vision of feminine beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden stories.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of seasoned charm.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a timeless treasure.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly inspiring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a comforting reminder of enduring grace.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Micro Vagina (Positive)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature appeal of {PAWN_nameShortPossessive} lips is undeniable; they hold a subtle promise of experienced pleasure.</li>
+            <li>A glimpse into {PAWN_nameShortPossessive} depths confirms a graceful maturity, a rich allure that speaks volumes.</li>
+            <li>Her clitoris, discreetly tucked, seems to pulse with a quiet power, beckoning one to explore.</li>
+            <li>The soft, yielding labia of {PAWN_nameShortPossessive} are incredibly inviting, hinting at a profound, comforting intimacy.</li>
+            <li>{PAWN_nameShortPossessive} body subtly reveals its feminine core, a vision of mature beauty that is profoundly attractive.</li>
+            <li>That brief, tantalizing view of {PAWN_nameShortPossessive} opening stirs a deep, familiar desire within me.</li>
+            <li>Her feminine essence, even partially seen, radiates a warm, knowing sensuality that's utterly captivating.</li>
+            <li>The delicate shape of {PAWN_nameShortPossessive} inner self, so mature and inviting, truly speaks to my soul.</li>
+            <li>I'm drawn to the quiet, confident way {PAWN_nameShortPossessive} hidden flower presents itself; it’s a beautiful, understated allure.</li>
+            <li>The soft, experienced lines of {PAWN_nameShortPossessive} most private parts are incredibly appealing, hinting at profound intimacy.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident sensuality that is immensely attractive and deeply comforting.</li>
+            <li>A delightful revelation: the understated beauty of {PAWN_nameShortPossessive} intimate landscape. So much left to explore.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, an inspiring sight to behold.</li>
+            <li>I find myself drawn to the quiet mystery of {PAWN_nameShortPossessive} hidden depths; they promise profound, shared pleasures.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world has my imagination racing, a compelling vision of experienced beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden delights.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of refined sensuality.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a hidden gem.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly alluring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a tantalizing invitation to explore further.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Micro Vagina (Positive)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} intimate lips show a gentle maturity, a beautiful and confident expression of seasoned womanhood.</li>
+            <li>I find {PAWN_nameShortPossessive} hidden depths incredibly appealing, radiating a seasoned grace that is truly inspiring.</li>
+            <li>The subtle, yet perfectly formed, clitoris of {PAWN_nameShortPossessive} is beautiful. A delicate, mature femininity.</li>
+            <li>The soft, inviting labia of {PAWN_nameShortPossessive} speak of a deep, quiet strength, an undeniable allure.</li>
+            <li>{PAWN_nameShortPossessive} mature form, barely visible, holds a fascinating allure, a testament to enduring beauty.</li>
+            <li>That glimpse into {PAWN_nameShortPossessive} intimate world is quite lovely, a quiet elegance I admire.</li>
+            <li>Her feminine core, though aged, radiates a warmth and gentle power that is both comforting and beautiful.</li>
+            <li>The delicate, experienced shape of {PAWN_nameShortPossessive} inner self is truly captivating, embodying a profound wisdom.</li>
+            <li>I'm touched by the subtle way {PAWN_nameShortPossessive} mature flower reveals itself, a beautiful, enduring emblem of femininity.</li>
+            <li>The soft, strong lines of {PAWN_nameShortPossessive} most private parts are incredibly graceful, inspiring quiet respect.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident, natural beauty that is profoundly attractive.</li>
+            <li>A delightful revelation: the understated, yet powerful, beauty of {PAWN_nameShortPossessive} intimate landscape. So much to appreciate.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, a wonderful sight to behold.</li>
+            <li>I find myself drawn to the quiet strength of {PAWN_nameShortPossessive} hidden depths; they speak of resilience and grace.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world is deeply moving, a compelling vision of feminine beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden stories.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of seasoned charm.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a timeless treasure.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly inspiring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a comforting reminder of enduring grace.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale_observed_by_Elder_male</defName>
+        <label>Micro Vagina (Positive)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature, inviting lips of {PAWN_nameShortPossessive} are a truly captivating sight, embodying a seasoned grace.</li>
+            <li>A wise gaze reveals the subtle depths of {PAWN_nameShortPossessive} body, hinting at profound, comforting experience.</li>
+            <li>Her clitoris, though small, suggests a quiet power, a hidden gem of mature sensuality.</li>
+            <li>The soft, experienced labia of {PAWN_nameShortPossessive} are deeply alluring, whispering tales of cherished intimacy.</li>
+            <li>{PAWN_nameShortPossessive} body reveals its feminine core with understated elegance, a beautiful vision of mature allure.</li>
+            <li>That brief, delightful view of {PAWN_nameShortPossessive} opening evokes a sense of deep appreciation for enduring beauty.</li>
+            <li>Her feminine essence, even partially seen, radiates a warm, knowing sensuality that's utterly comforting.</li>
+            <li>The delicate, seasoned shape of {PAWN_nameShortPossessive} inner self truly speaks to a lifetime of grace.</li>
+            <li>I'm drawn to the quiet confidence with which {PAWN_nameShortPossessive} hidden flower presents itself; a beautiful, timeless allure.</li>
+            <li>The soft, experienced lines of {PAWN_nameShortPossessive} most private parts are incredibly appealing, hinting at profound intimacy.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident sensuality that is immensely attractive and deeply comforting.</li>
+            <li>A delightful revelation: the understated beauty of {PAWN_nameShortPossessive} intimate landscape. So much left to admire.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, an inspiring sight to behold.</li>
+            <li>I find myself drawn to the quiet mystery of {PAWN_nameShortPossessive} hidden depths; they promise profound, shared pleasures.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world has my imagination racing, a compelling vision of experienced beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden delights.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of refined sensuality.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a hidden gem.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly alluring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a tantalizing invitation to explore further.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Micro_ElderFemale_observed_by_Elder_female</defName>
+        <label>Micro Vagina (Positive)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} intimate lips show a gentle maturity, a beautiful and confident expression of seasoned womanhood.</li>
+            <li>I find {PAWN_nameShortPossessive} hidden depths incredibly appealing, radiating a seasoned grace that is truly inspiring.</li>
+            <li>The subtle, yet perfectly formed, clitoris of {PAWN_nameShortPossessive} is beautiful. A delicate, mature femininity.</li>
+            <li>The soft, inviting labia of {PAWN_nameShortPossessive} speak of a deep, quiet strength, an undeniable allure.</li>
+            <li>{PAWN_nameShortPossessive} mature form, barely visible, holds a fascinating allure, a testament to enduring beauty.</li>
+            <li>That glimpse into {PAWN_nameShortPossessive} intimate world is quite lovely, a quiet elegance I admire.</li>
+            <li>Her feminine core, though aged, radiates a warmth and gentle power that is both comforting and beautiful.</li>
+            <li>The delicate, experienced shape of {PAWN_nameShortPossessive} inner self is truly captivating, embodying a profound wisdom.</li>
+            <li>I'm touched by the subtle way {PAWN_nameShortPossessive} mature flower reveals itself, a beautiful, enduring emblem of femininity.</li>
+            <li>The soft, strong lines of {PAWN_nameShortPossessive} most private parts are incredibly graceful, inspiring quiet respect.</li>
+            <li>Her seasoned form, subtly visible, suggests a confident, natural beauty that is profoundly attractive.</li>
+            <li>A delightful revelation: the understated, yet powerful, beauty of {PAWN_nameShortPossessive} intimate landscape. So much to appreciate.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} delicate folds is truly captivating, a wonderful sight to behold.</li>
+            <li>I find myself drawn to the quiet strength of {PAWN_nameShortPossessive} hidden depths; they speak of resilience and grace.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} private world is deeply moving, a compelling vision of feminine beauty.</li>
+            <li>Her soft, welcoming entrance, even in miniature, is undeniably attractive, hinting at countless hidden stories.</li>
+            <li>The way {PAWN_nameShortPossessive} delicate labia subtly frame {PAWN_possessive} core is simply exquisite, a vision of seasoned charm.</li>
+            <li>I'm utterly fascinated by the mature allure of {PAWN_nameShortPossessive} most intimate features; truly a timeless treasure.</li>
+            <li>The quiet confidence emanating from {PAWN_nameShortPossessive} exposed, mature form is incredibly inspiring to me.</li>
+            <li>That subtle peek at {PAWN_nameShortPossessive} hidden beauty is a comforting reminder of enduring grace.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+</Defs>

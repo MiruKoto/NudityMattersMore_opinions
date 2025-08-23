@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed breasts appear to be of a moderate size, with the nipples and areolas presenting a natural, unassuming appearance.</li>
+            <li>A glance revealed breasts that seemed relatively flat, with the nipples discernible but not overly prominent.</li>
+            <li>The chest area was unadorned, displaying breasts with a subtle curve and nipples that were barely noticeable.</li>
+            <li>An immediate observation of breasts, seemingly average in size, with nipples and areolas that blend in.</li>
+            <li>{PAWN_nameShortPossessive} chest was visible, showing breasts of an unremarkable shape and size, with neutral-looking nipples.</li>
+            <li>A quick look registered breasts that were neither large nor small, featuring nipples that lay flat against the skin.</li>
+            <li>The female form presented breasts with a modest profile, the nipples and areolas appearing typical for {PAWN_objective}.</li>
+            <li>Breasts that offered little in the way of distinct features, with their nipples and areolas appearing quite ordinary.</li>
+            <li>A passing glimpse of breasts that were not particularly pronounced, with discreet nipples and areolas.</li>
+            <li>The visible chest revealed breasts of a common form, with nipples and areolas that did not stand out.</li>
+            <li>These breasts seemed to conform to an average outline, with nipples and areolas showing no unusual characteristics.</li>
+            <li>Observing breasts of a standard size and shape, the nipples and areolas were present yet unaccentuated.</li>
+            <li>{PAWN_nameShortPossessive} breasts had a rather flat appearance, the nipples visible but not drawing much attention.</li>
+            <li>The exposed chest had breasts that were neither full nor entirely flat, with ordinary-looking nipples.</li>
+            <li>A neutral view of breasts, the size seemed proportionate, and the nipples and areolas were of a typical color and shape.</li>
+            <li>The contours of {PAWN_nameShortPossessive} breasts were subtle, the nipples receding rather than protruding.</li>
+            <li>These breasts presented a simple, unassuming form, with the nipples and areolas appearing quite regular.</li>
+            <li>Noticed breasts that were somewhat flattened, with the nipples and areolas blending into the overall chest.</li>
+            <li>The breasts observed were of an average, natural size, with the nipples and areolas exhibiting typical characteristics.</li>
+            <li>A quick survey of the visible breasts, noting their neutral appearance and the unassuming nature of the nipples.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale_observed_by_voyer</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My gaze lingered on the modest breasts, noting the slight prominence of the nipples and the unassuming areolas.</li>
+            <li>Discreetly observing {PAWN_nameShortPossessive} chest, the flat-lying nipples and their faint areolas were apparent.</li>
+            <li>A furtive glance captured the unadorned breasts, their contours subtle and the nipples barely distinguishable.</li>
+            <li>The naked chest came into view, the breasts presenting a neutral, somewhat flattened form, with quiescent nipples.</li>
+            <li>My eyes traced the shape of the breasts, finding them average, with nipples that didn't draw particular attention.</li>
+            <li>Secretly, I appraised the breasts; they seemed ordinary, with nipples and areolas that were quite unadorned.</li>
+            <li>The sight of {PAWN_nameShortPossessive} chest, revealing breasts with a modest profile and subtle, unassuming nipples.</li>
+            <li>I took in the visible breasts, noting their unremarkable size and the way the nipples lay flat.</li>
+            <li>Without being noticed, I observed the breasts, finding them to be of a conventional shape, with regular nipples.</li>
+            <li>My eyes settled on the breasts, perceiving them as neither striking nor unusual, their nipples appearing quite subdued.</li>
+            <li>The observed breasts were proportionate, and the nipples and areolas, though visible, did not protrude significantly.</li>
+            <li>A quiet assessment of the breasts, which seemed to possess a natural form, with their nipples and areolas blending seamlessly.</li>
+            <li>I observed the breasts from a distance, noting their unassuming contours and the rather flat appearance of the nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest, when seen, revealed breasts of an average structure, with their nipples presenting as calm.</li>
+            <li>My attention was drawn to the exposed breasts, which were neither large nor small, with their nipples mostly unnoticeable.</li>
+            <li>Subtly taking in the breasts, their overall shape seemed typical, and the nipples and areolas were not particularly defined.</li>
+            <li>The visible breasts were somewhat flat, with nipples that appeared to be in a relaxed state.</li>
+            <li>I noted the breasts, finding them to be quite average in their dimension and the nipples to be rather unobtrusive.</li>
+            <li>My gaze covertly studied the breasts, their contours soft and the nipples and areolas having a natural, subdued appearance.</li>
+            <li>The sudden appearance of breasts, which were of a standard presentation, with their nipples and areolas being quite common.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} breasts were out in the open, presenting a natural form, their nipples visible but not overstated.</li>
+            <li>The exposed chest revealed breasts of an ordinary size, with nipples and areolas that seemed quite normal.</li>
+            <li>I displayed my own form, observing {PAWN_nameShortPossessive} breasts, which were of a modest shape and had unpretentious nipples.</li>
+            <li>The breasts were readily apparent, neither large nor small, with nipples and areolas that blended with the skin.</li>
+            <li>A common sight of breasts, with a natural contour and nipples that were present but did not strongly protrude.</li>
+            <li>The visibility of breasts, appearing to be of an average volume, with nipples that were generally unaroused.</li>
+            <li>{PAWN_nameShortPossessive} chest was revealed, showcasing breasts that were somewhat flat, their nipples receding.</li>
+            <li>These breasts, now on display, seemed to possess a neutral appearance, with their nipples lying quite calmly.</li>
+            <li>The visible breasts had a typical shape, and their nipples and areolas were not particularly defined.</li>
+            <li>Observing the exposed breasts, they appeared to be of a conventional size, with their nipples presenting as unassuming.</li>
+            <li>{PAWN_nameShortPossessive} breasts were simply there, their form unremarkable, and the nipples and areolas quite ordinary.</li>
+            <li>The sight of breasts, unembellished, with a standard profile and nipples that were not noticeably erect.</li>
+            <li>The visible chest offered breasts with a mild curve, the nipples and areolas appearing to be in a relaxed state.</li>
+            <li>These breasts, now in full view, were of a proportionate size, and the nipples and areolas did not capture much attention.</li>
+            <li>The straightforward display of breasts, they seemed average, with nipples that were visible but not emphasized.</li>
+            <li>{PAWN_nameShortPossessive} breasts were revealed, presenting a normal, unexaggerated shape, with calm nipples.</li>
+            <li>A clear view of breasts, they were neither pronounced nor entirely flat, and their nipples were unremarkable.</li>
+            <li>The exposed chest had breasts that were of an expected size, with nipples that remained unprotruding.</li>
+            <li>The breasts were on exhibit, displaying a natural contour, with their nipples and areolas appearing quite typical.</li>
+            <li>The visible breasts were somewhat flat, and the nipples and areolas were not particularly striking.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of these mature, yet unprovoking breasts, with their neutral nipples, offered little to pique my interest.</li>
+            <li>I observed the chest, seeing breasts that were rather flat, their nipples and areolas quite unremarkable.</li>
+            <li>Breasts, of a moderate size, appeared with nipples that seemed unenthusiastic, blending into the mature form.</li>
+            <li>A casual glance at breasts, they possessed an average shape, and the nipples and areolas were not particularly stimulated.</li>
+            <li>{PAWN_nameShortPossessive} breasts were revealed, presenting a typical, unaroused appearance, with quiescent nipples.</li>
+            <li>The visible chest showed breasts that were neither enticing nor dull, their nipples and areolas presenting as plain.</li>
+            <li>These breasts, while exposed, exhibited a neutral contour, and their nipples offered no discernible reaction.</li>
+            <li>My eyes fell upon breasts of a standard proportion, their nipples appearing subdued and without noticeable arousal.</li>
+            <li>The sight of {PAWN_nameShortPossessive} breasts, appearing somewhat flat, with nipples that gave no indication of excitement.</li>
+            <li>A survey of the breasts indicated an average size, and the nipples and areolas remained unpronounced.</li>
+            <li>The exposed breasts, mature in their presentation, had nipples that were neither erect nor particularly inviting.</li>
+            <li>Observing the visible breasts, they were of an expected shape and size, with their nipples and areolas appearing inert.</li>
+            <li>{PAWN_nameShortPossessive} chest displayed breasts that seemed ordinary, their nipples exhibiting no strong reaction.</li>
+            <li>These breasts, though bare, were of a modest profile, and their nipples appeared to be entirely unperturbed.</li>
+            <li>The breasts offered little visual excitement, their size being moderate and their nipples and areolas quite passive.</li>
+            <li>A quick look at breasts that were somewhat flattened, their nipples and areolas possessing a calm, neutral appearance.</li>
+            <li>The visible form of breasts, they seemed average in their structure, with nipples that were far from stimulating.</li>
+            <li>Noticed breasts that were unexceptional in form, and their nipples and areolas held no particular allure.</li>
+            <li>The exposed chest had breasts that showed no particular vivacity, their nipples and areolas appearing quite ordinary.</li>
+            <li>{PAWN_nameShortPossessive} breasts were simply there, their contours soft, and the nipples and areolas unremarkable.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale_observed_by_Prude</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed breasts were there, a sight that caused a slight discomfort, their nipples flat and unembellished.</li>
+            <li>I noticed {PAWN_nameShortPossessive} breasts, a rather plain display, with nipples and areolas that were quite unremarkable.</li>
+            <li>A quick glance at the breasts, they seemed of an average size, and the nipples were, thankfully, not prominent.</li>
+            <li>The visible chest revealed breasts that were simply there, with a neutral appearance and nipples that lay flat.</li>
+            <li>{PAWN_nameShortPossessive} breasts, a somewhat awkward sight, with nipples and areolas that were subtly defined.</li>
+            <li>The uncovered breasts, while not overtly provocative, were still a bit too visible for my comfort, their nipples passive.</li>
+            <li>I tried not to stare at the breasts, which were of a modest form, their nipples and areolas blending in.</li>
+            <li>The sight of breasts, they appeared ordinary in their shape, and the nipples were thankfully not emphasized.</li>
+            <li>{PAWN_nameShortPossessive} chest was exposed, showing breasts that were somewhat flat, with unexciting nipples.</li>
+            <li>These breasts were present, a fact I acknowledged without pleasure, their nipples and areolas quite uninteresting.</li>
+            <li>The exposed breasts were of a typical contour, and their nipples did not protrude in any significant way.</li>
+            <li>I averted my gaze slightly from the breasts, which were of a standard size, with quiescent nipples.</li>
+            <li>{PAWN_nameShortPossessive} breasts, a rather dull display, with their nipples and areolas appearing quite common.</li>
+            <li>The visible breasts were quite plain, and the nipples offered little to dwell upon.</li>
+            <li>A fleeting observation of breasts, they seemed average, and their nipples and areolas were not particularly striking.</li>
+            <li>The breasts were revealed, presenting a modest profile, with nipples that were thankfully not too noticeable.</li>
+            <li>I found the breasts to be unappealing, their size unremarkable, and the nipples and areolas quite mundane.</li>
+            <li>{PAWN_nameShortPossessive} chest, now visible, showed breasts that were somewhat flat and their nipples unaroused.</li>
+            <li>The exposed breasts were simply present, a functional part of the anatomy, their nipples and areolas unadorned.</li>
+            <li>The sight of the breasts was rather ordinary, with nipples and areolas that caused no particular reaction.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale_observed_by_Young_male</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The older woman's breasts were of a neutral size, their nipples and areolas presenting as unremarkable.</li>
+            <li>I glanced at the mature breasts, seeing a rather flat shape, with nipples that didn't stand out.</li>
+            <li>Her exposed chest showed breasts of a modest contour, their nipples and areolas appearing quite ordinary.</li>
+            <li>The middle-aged female's breasts were visible, a common sight, with nipples that seemed unaroused.</li>
+            <li>{PAWN_nameShortPossessive} chest, revealed, showed breasts of an average form, the nipples quite subdued.</li>
+            <li>The breasts were neither large nor particularly perky, their nipples and areolas being quite plain.</li>
+            <li>I noticed the older woman's breasts, their size seemed proportionate, and the nipples were not at all stimulating.</li>
+            <li>These breasts had a rather unassuming appearance, with nipples that blended into the mature skin.</li>
+            <li>The sight of the mature breasts, with their unpronounced nipples and areolas, left little impression.</li>
+            <li>Her breasts, exposed, presented a typical shape, and their nipples were quite flat.</li>
+            <li>The exposed chest had breasts that were somewhat saggy, their nipples and areolas appearing quite normal for {PAWN_objective}.</li>
+            <li>I observed her breasts, a neutral sight, with nipples that were visible but not particularly attractive.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for her age, their nipples and areolas just part of the overall view.</li>
+            <li>The older woman's breasts were soft-looking, with nipples that seemed relaxed and unremarkable.</li>
+            <li>A quick look at her breasts revealed a natural, albeit unexciting, form, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale_observed_by_Young_female</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her breasts were visible, appearing somewhat flat, with nipples that were present but not prominent.</li>
+            <li>I observed the mature breasts; they seemed of a conventional size, with ordinary nipples and areolas.</li>
+            <li>The older woman's chest was exposed, showing breasts with a natural, unadorned form, and quiet nipples.</li>
+            <li>{PAWN_nameShortPossessive} breasts, a typical sight, neither large nor small, with unassuming nipples.</li>
+            <li>A quick glance at her breasts revealed an average shape and size, with nipples and areolas that blended in.</li>
+            <li>The breasts were quite unassuming, and their nipples seemed to lie flat against the skin.</li>
+            <li>I noticed her breasts, appearing proportionate to her frame, with nipples that were neither stimulating nor distracting.</li>
+            <li>These mature breasts had a soft contour, their nipples and areolas appearing quite ordinary.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unexceptional areolas.</li>
+            <li>Her exposed breasts had a standard shape, with nipples that were visible but not drawing attention.</li>
+            <li>The visible chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective}.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for a middle-aged woman, their nipples and areolas unremarkable.</li>
+            <li>The older woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her breasts were visible, appearing of a mature, neutral size, with nipples and areolas that were unexceptional.</li>
+            <li>I noted the middle-aged breasts, finding them somewhat flat, their nipples and areolas unremarkable.</li>
+            <li>The exposed chest revealed breasts with a natural contour, their nipples and areolas blending into the skin.</li>
+            <li>{PAWN_nameShortPossessive} breasts were on display, a common sight, with nipples that seemed unaroused and plain.</li>
+            <li>A quick look at the breasts showed an average form, with nipples that did not protrude or capture attention.</li>
+            <li>The breasts, while exposed, offered little in the way of distinct features, their nipples quite subdued.</li>
+            <li>I observed her breasts, their size seeming proportionate to her build, with nipples that lacked prominence.</li>
+            <li>These mature breasts had a soft outline, with nipples that seemed relaxed and quite ordinary.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unremarkable areolas.</li>
+            <li>Her breasts, exposed, presented a typical shape, and their nipples were quite flat.</li>
+            <li>The visible chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective}.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for a middle-aged woman, their nipples and areolas unremarkable.</li>
+            <li>The older woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her breasts were visible, appearing of a mature, neutral size, with nipples and areolas that were unexceptional.</li>
+            <li>I noted the middle-aged breasts, finding them somewhat flat, their nipples and areolas unremarkable.</li>
+            <li>The exposed chest revealed breasts with a natural contour, their nipples and areolas blending into the skin.</li>
+            <li>{PAWN_nameShortPossessive} breasts were on display, a common sight, with nipples that seemed unaroused and plain.</li>
+            <li>A quick look at the breasts showed an average form, with nipples that did not protrude or capture attention.</li>
+            <li>The breasts, while exposed, offered little in the way of distinct features, their nipples quite subdued.</li>
+            <li>I observed her breasts, their size seeming proportionate to her build, with nipples that lacked prominence.</li>
+            <li>These mature breasts had a soft outline, with nipples that seemed relaxed and quite ordinary.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unremarkable areolas.</li>
+            <li>Her breasts, exposed, presented a typical shape, and their nipples were quite flat.</li>
+            <li>The visible chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective}.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for a middle-aged woman, their nipples and areolas unremarkable.</li>
+            <li>The older woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale_observed_by_Elder_male</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The breasts of the middle-aged woman were visible, appearing of a rather plain and mature form.</li>
+            <li>I observed her chest, noting the breasts, which seemed somewhat flat, with nipples and areolas that were unremarkable.</li>
+            <li>Her exposed chest revealed breasts with a natural contour, their nipples and areolas blending into the skin.</li>
+            <li>{PAWN_nameShortPossessive} breasts were on display, a common sight for one of her age, with unaroused nipples.</li>
+            <li>A quick look at the breasts showed an average form for a middle-aged woman, with unprotruding nipples.</li>
+            <li>The breasts, while exposed, offered little in the way of distinct features, their nipples quite subdued.</li>
+            <li>I observed her breasts, their size seeming proportionate to her build, with nipples that lacked prominence.</li>
+            <li>These mature breasts had a soft outline, with nipples that seemed relaxed and quite ordinary.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unremarkable areolas.</li>
+            <li>Her breasts, exposed, presented a typical shape, and their nipples were quite flat.</li>
+            <li>The visible chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective}.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for a middle-aged woman, their nipples and areolas unremarkable.</li>
+            <li>The older woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_MatureFemale_observed_by_Elder_female</defName>
+        <label>Flat/Nipples Breasts (Neutral)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her breasts were visible, appearing of a mature, neutral size, with nipples and areolas that were unexceptional.</li>
+            <li>I noted the middle-aged breasts, finding them somewhat flat, their nipples and areolas unremarkable.</li>
+            <li>The exposed chest revealed breasts with a natural contour, their nipples and areolas blending into the skin.</li>
+            <li>{PAWN_nameShortPossessive} breasts were on display, a common sight for one of her age, with unaroused nipples.</li>
+            <li>A quick look at the breasts showed an average form for a middle-aged woman, with unprotruding nipples.</li>
+            <li>The breasts, while exposed, offered little in the way of distinct features, their nipples quite subdued.</li>
+            <li>I observed her breasts, their size seeming proportionate to her build, with nipples that lacked prominence.</li>
+            <li>These mature breasts had a soft outline, with nipples that seemed relaxed and quite ordinary.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unremarkable areolas.</li>
+            <li>Her breasts, exposed, presented a typical shape, and their nipples were quite flat.</li>
+            <li>The visible chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective}.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for a middle-aged woman, their nipples and areolas unremarkable.</li>
+            <li>The older woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed breasts of the elder woman appeared quite flat, with nipples and areolas that were faded with age.</li>
+            <li>I observed the elderly breasts, noting their relaxed contours and nipples that seemed to recede into the skin.</li>
+            <li>Her chest was visible, showing breasts that had lost much of their fullness, their nipples appearing quite subdued.</li>
+            <li>{PAWN_nameShortPossessive} breasts were on display, their form quite unremarkable, with nipples that were barely noticeable.</li>
+            <li>A quick glance at the breasts revealed a mature and somewhat deflated shape, with neutral, unpronounced nipples.</li>
+            <li>The breasts, while exposed, offered little visual interest, their nipples and areolas appearing quite ordinary for {PAWN_objective}.</li>
+            <li>I noticed her elderly breasts, their size seeming proportionate to her aged frame, with nipples that lacked prominence.</li>
+            <li>These breasts had a soft, aged outline, with nipples that seemed relaxed and quite common.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unremarkable areolas.</li>
+            <li>Her breasts, exposed, presented a typical, aged shape, and their nipples were quite flat.</li>
+            <li>The visible chest had breasts that were saggy, their nipples and areolas appearing normal for {PAWN_objective} at her age.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for an elderly woman, their nipples and areolas unremarkable.</li>
+            <li>The elder woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale_observed_by_voyer</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My gaze lingered on the elder woman's breasts, noting their flat appearance and the faded, unremarkable nipples.</li>
+            <li>Discreetly observing {PAWN_nameShortPossessive} chest, the soft, unpronounced nipples and their pale areolas were apparent.</li>
+            <li>A furtive glance captured the aged breasts, their contours subtle and the nipples barely distinguishable.</li>
+            <li>The naked chest came into view, the breasts presenting a neutral, somewhat deflated form, with quiescent nipples.</li>
+            <li>My eyes traced the shape of the breasts, finding them average for her age, with nipples that didn't draw particular attention.</li>
+            <li>Secretly, I appraised the breasts; they seemed ordinary and aged, with nipples and areolas that were quite unadorned.</li>
+            <li>The sight of {PAWN_nameShortPossessive} chest, revealing breasts with a modest, mature profile and subtle, unassuming nipples.</li>
+            <li>I took in the visible breasts, noting their unremarkable size for an elder and the way the nipples lay flat.</li>
+            <li>Without being noticed, I observed the breasts, finding them to be of a conventional, aged shape, with regular nipples.</li>
+            <li>My eyes settled on the breasts, perceiving them as neither striking nor unusual for her age, their nipples appearing quite subdued.</li>
+            <li>The observed breasts were proportionate to her aged body, and the nipples and areolas, though visible, did not protrude significantly.</li>
+            <li>A quiet assessment of the breasts, which seemed to possess a natural, aged form, with their nipples and areolas blending seamlessly.</li>
+            <li>I observed the breasts from a distance, noting their unassuming contours and the rather flat appearance of the nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest, when seen, revealed breasts of an average structure for her age, with their nipples presenting as calm.</li>
+            <li>My attention was drawn to the exposed breasts, which were neither large nor small, with their nipples mostly unnoticeable due to age.</li>
+            <li>Subtly taking in the breasts, their overall shape seemed typical for an elder, and the nipples and areolas were not particularly defined.</li>
+            <li>The visible breasts were somewhat flat and soft, with nipples that appeared to be in a relaxed state.</li>
+            <li>I noted the breasts, finding them to be quite average in their dimension for her age and the nipples to be rather unobtrusive.</li>
+            <li>My gaze covertly studied the breasts, their contours soft and aged, and the nipples and areolas having a natural, subdued appearance.</li>
+            <li>The sudden appearance of breasts, which were of a standard presentation for her age, with their nipples and areolas being quite common.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} breasts were out in the open, presenting an aged, natural form, their nipples visible but not overstated.</li>
+            <li>The exposed chest revealed breasts of an ordinary, elder size, with nipples and areolas that seemed quite normal.</li>
+            <li>I displayed my own form, observing {PAWN_nameShortPossessive} breasts, which were of a modest, aged shape and had unpretentious nipples.</li>
+            <li>The breasts were readily apparent, neither large nor small for her age, with nipples and areolas that blended with the skin.</li>
+            <li>A common sight of elderly breasts, with a natural contour and nipples that were present but did not strongly protrude.</li>
+            <li>The visibility of breasts, appearing to be of an average volume for an elder, with nipples that were generally unaroused.</li>
+            <li>{PAWN_nameShortPossessive} chest was revealed, showcasing breasts that were somewhat flat and soft, their nipples receding.</li>
+            <li>These breasts, now on display, seemed to possess a neutral, aged appearance, with their nipples lying quite calmly.</li>
+            <li>The visible breasts had a typical, elder shape, and their nipples and areolas were not particularly defined.</li>
+            <li>Observing the exposed breasts, they appeared to be of a conventional, aged size, with their nipples presenting as unassuming.</li>
+            <li>{PAWN_nameShortPossessive} breasts were simply there, their form unremarkable, and the nipples and areolas quite ordinary.</li>
+            <li>The sight of breasts, unembellished, with a standard, aged profile and nipples that were not noticeably erect.</li>
+            <li>The visible chest offered breasts with a mild, aged curve, the nipples and areolas appearing to be in a relaxed state.</li>
+            <li>These breasts, now in full view, were of a proportionate, elder size, and the nipples and areolas did not capture much attention.</li>
+            <li>The straightforward display of breasts, they seemed average for her age, with nipples that were visible but not emphasized.</li>
+            <li>{PAWN_nameShortPossessive} breasts were revealed, presenting a normal, unexaggerated shape for an elder, with calm nipples.</li>
+            <li>A clear view of breasts, they were neither pronounced nor entirely flat, and their nipples were unremarkable.</li>
+            <li>The exposed chest had breasts that were of an expected size for an elder, with nipples that remained unprotruding.</li>
+            <li>The breasts were on exhibit, displaying a natural, aged contour, with their nipples and areolas appearing quite typical.</li>
+            <li>The visible breasts were somewhat flat and aged, and the nipples and areolas were not particularly striking.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of these aged, unprovoking breasts, with their neutral nipples, offered little to pique my interest.</li>
+            <li>I observed the chest, seeing breasts that were rather flat due to age, their nipples and areolas quite unremarkable.</li>
+            <li>Breasts, of a moderate size for an elder, appeared with nipples that seemed unenthusiastic, blending into the aged form.</li>
+            <li>A casual glance at breasts, they possessed an average shape, and the nipples and areolas were not particularly stimulated.</li>
+            <li>{PAWN_nameShortPossessive} breasts were revealed, presenting a typical, unaroused appearance for her age, with quiescent nipples.</li>
+            <li>The visible chest showed breasts that were neither enticing nor dull, their nipples and areolas presenting as plain.</li>
+            <li>These breasts, while exposed, exhibited a neutral contour, and their nipples offered no discernible reaction.</li>
+            <li>My eyes fell upon breasts of a standard proportion for her age, their nipples appearing subdued and without noticeable arousal.</li>
+            <li>The sight of {PAWN_nameShortPossessive} breasts, appearing somewhat flat, with nipples that gave no indication of excitement.</li>
+            <li>A survey of the breasts indicated an average size for an elder, and the nipples and areolas remained unpronounced.</li>
+            <li>The exposed breasts, mature in their presentation, had nipples that were neither erect nor particularly inviting.</li>
+            <li>Observing the visible breasts, they were of an expected shape and size for her age, with their nipples and areolas appearing inert.</li>
+            <li>{PAWN_nameShortPossessive} chest displayed breasts that seemed ordinary, their nipples exhibiting no strong reaction.</li>
+            <li>These breasts, though bare, were of a modest profile, and their nipples appeared to be entirely unperturbed.</li>
+            <li>The breasts offered little visual excitement, their size being moderate for her age and their nipples and areolas quite passive.</li>
+            <li>A quick look at breasts that were somewhat flattened, their nipples and areolas possessing a calm, neutral appearance.</li>
+            <li>The visible form of breasts, they seemed average in their structure for her age, with nipples that were far from stimulating.</li>
+            <li>Noticed breasts that were unexceptional in form, and their nipples and areolas held no particular allure.</li>
+            <li>The exposed chest had breasts that showed no particular vivacity, their nipples and areolas appearing quite ordinary.</li>
+            <li>{PAWN_nameShortPossessive} breasts were simply there, their contours soft, and the nipples and areolas unremarkable.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale_observed_by_Prude</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed breasts were there, an aged sight that caused a slight discomfort, their nipples flat and unembellished.</li>
+            <li>I noticed {PAWN_nameShortPossessive} elderly breasts, a rather plain display, with nipples and areolas that were quite unremarkable.</li>
+            <li>A quick glance at the breasts, they seemed of an average size for her age, and the nipples were, thankfully, not prominent.</li>
+            <li>The visible chest revealed breasts that were simply there, with a neutral appearance and nipples that lay flat.</li>
+            <li>{PAWN_nameShortPossessive} breasts, a somewhat awkward, aged sight, with nipples and areolas that were subtly defined.</li>
+            <li>The uncovered breasts, while not overtly provocative, were still a bit too visible for my comfort, their nipples passive.</li>
+            <li>I tried not to stare at the breasts, which were of a modest form for an elder, their nipples and areolas blending in.</li>
+            <li>The sight of elderly breasts, they appeared ordinary in their shape, and the nipples were thankfully not emphasized.</li>
+            <li>{PAWN_nameShortPossessive} chest was exposed, showing breasts that were somewhat flat and aged, with unexciting nipples.</li>
+            <li>These breasts were present, a fact I acknowledged without pleasure, their nipples and areolas quite uninteresting.</li>
+            <li>The exposed breasts were of a typical, aged contour, and their nipples did not protrude in any significant way.</li>
+            <li>I averted my gaze slightly from the breasts, which were of a standard size for her age, with quiescent nipples.</li>
+            <li>{PAWN_nameShortPossessive} breasts, a rather dull display, with their nipples and areolas appearing quite common.</li>
+            <li>The visible breasts were quite plain, and the nipples offered little to dwell upon.</li>
+            <li>A fleeting observation of elderly breasts, they seemed average, and their nipples and areolas were not particularly striking.</li>
+            <li>The breasts were revealed, presenting a modest, aged profile, with nipples that were thankfully not too noticeable.</li>
+            <li>I found the breasts to be unappealing, their size unremarkable for her age, and the nipples and areolas quite mundane.</li>
+            <li>{PAWN_nameShortPossessive} chest, now visible, showed breasts that were somewhat flat and their nipples unaroused.</li>
+            <li>The exposed breasts were simply present, a functional part of the anatomy, their nipples and areolas unadorned.</li>
+            <li>The sight of the elderly breasts was rather ordinary, with nipples and areolas that caused no particular reaction.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale_observed_by_Young_male</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The elderly woman's breasts were of a neutral, aged size, their nipples and areolas presenting as unremarkable.</li>
+            <li>I glanced at the aged breasts, seeing a rather flat shape, with nipples that didn't stand out.</li>
+            <li>Her exposed chest showed breasts of a modest, aged contour, their nipples and areolas appearing quite ordinary.</li>
+            <li>The elder female's breasts were visible, a common sight for her age, with nipples that seemed unaroused.</li>
+            <li>{PAWN_nameShortPossessive} chest, revealed, showed breasts of an average, aged form, the nipples quite subdued.</li>
+            <li>The breasts were neither large nor particularly perky, their nipples and areolas being quite plain due to age.</li>
+            <li>I noticed the elder woman's breasts, their size seemed proportionate to her age, and the nipples were not at all stimulating.</li>
+            <li>These aged breasts had a rather unassuming appearance, with nipples that blended into the mature skin.</li>
+            <li>The sight of the aged breasts, with their unpronounced nipples and areolas, left little impression.</li>
+            <li>Her breasts, exposed, presented a typical, aged shape, and their nipples were quite flat.</li>
+            <li>The exposed chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective}.</li>
+            <li>I observed her breasts, a neutral sight, with nipples that were visible but not particularly attractive.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for her age, their nipples and areolas just part of the overall view.</li>
+            <li>The elder woman's breasts were soft-looking, with nipples that seemed relaxed and unremarkable.</li>
+            <li>A quick look at her breasts revealed a natural, albeit unexciting, form for her age, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat and soft, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size for her age, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale_observed_by_Young_female</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her breasts were visible, appearing somewhat flat and aged, with nipples that were present but not prominent.</li>
+            <li>I observed the aged breasts; they seemed of a conventional size for her age, with ordinary nipples and areolas.</li>
+            <li>The elderly woman's chest was exposed, showing breasts with a natural, unadorned, aged form, and quiet nipples.</li>
+            <li>{PAWN_nameShortPossessive} breasts, a typical sight for an elder, neither large nor small, with unassuming nipples.</li>
+            <li>A quick glance at her breasts revealed an average shape and size for her age, with nipples and areolas that blended in.</li>
+            <li>The breasts were quite unassuming, and their nipples seemed to lie flat against the aged skin.</li>
+            <li>I noticed her elderly breasts, appearing proportionate to her frame, with nipples that were neither stimulating nor distracting.</li>
+            <li>These aged breasts had a soft contour, their nipples and areolas appearing quite ordinary.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unexceptional areolas due to age.</li>
+            <li>Her exposed breasts had a standard, aged shape, with nipples that were visible but not drawing attention.</li>
+            <li>The visible chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective}.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for an elderly woman, their nipples and areolas unremarkable.</li>
+            <li>The elder woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat and soft, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size for her age, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her breasts were visible, appearing of a mature, neutral size for her age, with nipples and areolas that were unexceptional.</li>
+            <li>I noted the elderly breasts, finding them somewhat flat and soft, their nipples and areolas unremarkable.</li>
+            <li>The exposed chest revealed breasts with a natural, aged contour, their nipples and areolas blending into the skin.</li>
+            <li>{PAWN_nameShortPossessive} breasts were on display, a common sight for one of her age, with unaroused nipples.</li>
+            <li>A quick look at the breasts showed an average form for an elder, with unprotruding nipples.</li>
+            <li>The breasts, while exposed, offered little in the way of distinct features, their nipples quite subdued.</li>
+            <li>I observed her breasts, their size seeming proportionate to her aged build, with nipples that lacked prominence.</li>
+            <li>These aged breasts had a soft outline, with nipples that seemed relaxed and quite ordinary.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unremarkable areolas.</li>
+            <li>Her breasts, exposed, presented a typical, aged shape, and their nipples were quite flat.</li>
+            <li>The visible chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective} at her age.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for an elderly woman, their nipples and areolas unremarkable.</li>
+            <li>The elder woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form for her age, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat and soft, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size for her age, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her breasts were visible, appearing of a mature, neutral size for her age, with nipples and areolas that were unexceptional.</li>
+            <li>I noted the elderly breasts, finding them somewhat flat and soft, their nipples and areolas unremarkable.</li>
+            <li>The exposed chest revealed breasts with a natural, aged contour, their nipples and areolas blending into the skin.</li>
+            <li>{PAWN_nameShortPossessive} breasts were on display, a common sight for one of her age, with unaroused nipples.</li>
+            <li>A quick look at the breasts showed an average form for an elder, with unprotruding nipples.</li>
+            <li>The breasts, while exposed, offered little in the way of distinct features, their nipples quite subdued.</li>
+            <li>I observed her breasts, their size seeming proportionate to her aged build, with nipples that lacked prominence.</li>
+            <li>These aged breasts had a soft outline, with nipples that seemed relaxed and quite ordinary.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unremarkable areolas.</li>
+            <li>Her breasts, exposed, presented a typical, aged shape, and their nipples were quite flat.</li>
+            <li>The visible chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective} at her age.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for an elderly woman, their nipples and areolas unremarkable.</li>
+            <li>The elder woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form for her age, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat and soft, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size for her age, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale_observed_by_Elder_male</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The elderly woman's breasts were visible, appearing of a neutral, aged size, with nipples and areolas that were unexceptional.</li>
+            <li>I noted the elderly breasts, finding them somewhat flat and soft, their nipples and areolas unremarkable.</li>
+            <li>The exposed chest revealed breasts with a natural, aged contour, their nipples and areolas blending into the skin.</li>
+            <li>{PAWN_nameShortPossessive} breasts were on display, a common sight for one of her age, with unaroused nipples.</li>
+            <li>A quick look at the breasts showed an average form for an elder, with unprotruding nipples.</li>
+            <li>The breasts, while exposed, offered little in the way of distinct features, their nipples quite subdued.</li>
+            <li>I observed her breasts, their size seeming proportionate to her aged build, with nipples that lacked prominence.</li>
+            <li>These aged breasts had a soft outline, with nipples that seemed relaxed and quite ordinary.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unremarkable areolas.</li>
+            <li>Her breasts, exposed, presented a typical, aged shape, and their nipples were quite flat.</li>
+            <li>The visible chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective} at her age.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for an elderly woman, their nipples and areolas unremarkable.</li>
+            <li>The elder woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form for her age, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat and soft, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size for her age, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans flat chest nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Nipples_ElderFemale_observed_by_Elder_female</defName>
+        <label>Flat/Nipples Breasts (Neutral)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The elderly woman's breasts were visible, appearing of a neutral, aged size, with nipples and areolas that were unexceptional.</li>
+            <li>I noted the elderly breasts, finding them somewhat flat and soft, their nipples and areolas unremarkable.</li>
+            <li>The exposed chest revealed breasts with a natural, aged contour, their nipples and areolas blending into the skin.</li>
+            <li>{PAWN_nameShortPossessive} breasts were on display, a common sight for one of her age, with unaroused nipples.</li>
+            <li>A quick look at the breasts showed an average form for an elder, with unprotruding nipples.</li>
+            <li>The breasts, while exposed, offered little in the way of distinct features, their nipples quite subdued.</li>
+            <li>I observed her breasts, their size seeming proportionate to her aged build, with nipples that lacked prominence.</li>
+            <li>These aged breasts had a soft outline, with nipples that seemed relaxed and quite ordinary.</li>
+            <li>The sight of her breasts, a neutral observation, with unpronounced nipples and unremarkable areolas.</li>
+            <li>Her breasts, exposed, presented a typical, aged shape, and their nipples were quite flat.</li>
+            <li>The visible chest had breasts that were somewhat saggy, their nipples and areolas appearing normal for {PAWN_objective} at her age.</li>
+            <li>I observed her breasts, a rather plain sight, with nipples that were present but lacked definition.</li>
+            <li>{PAWN_nameShortPossessive} breasts were of an expected size for an elderly woman, their nipples and areolas unremarkable.</li>
+            <li>The elder woman's breasts were soft-looking, with nipples that seemed relaxed and quite common.</li>
+            <li>A casual look at her breasts revealed a natural, albeit unexciting, form for her age, with neutral nipples.</li>
+            <li>Her breasts presented a common silhouette, their nipples and areolas blending into the surrounding skin.</li>
+            <li>The visible breasts were somewhat flat and soft, and the nipples were neither erect nor particularly engaging.</li>
+            <li>I acknowledged the presence of her breasts, they were of an average size for her age, with ordinary-looking nipples.</li>
+            <li>{PAWN_nameShortPossessive} chest was on display, showing breasts with a mild curve and unassuming nipples.</li>
+            <li>The breasts were simply there, their size and shape quite ordinary, with nipples that did not draw attention.</li>
+        </opinionTexts>
+</Def>
+
+
+
+</Defs>

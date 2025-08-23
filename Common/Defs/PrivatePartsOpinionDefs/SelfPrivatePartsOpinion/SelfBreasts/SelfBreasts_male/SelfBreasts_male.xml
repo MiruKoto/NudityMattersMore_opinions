@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Context help: here is Male opinion about his chest. There should be just general observation, with no particular influence, just flat chest and two nipples. Should be neutral, natural state, like its just normal. -->
+
+<Defs>
+	<!-- Male gives opinion about his flat chest -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Nipples_AnyState_Male_Positive</defName>
+        <label>Opinion_Self_Breasts_Nipples_AnyState_Male_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Any</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Any</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My chest feels like any other part of my body, simply there without much thought or fuss, just a normal, unremarkable area.</li>
+            <li>Just a chest, plain and unadorned. It serves its purpose, existing as a flat expanse with two small points, nothing extraordinary to note.</li>
+            <li>It's just my chest. A flat surface, a couple of nipples. Utterly unremarkable, as it should be. Nothing to dwell on here.</li>
+            <li>Observing my own chest, I find it to be a perfectly ordinary part of my anatomy, devoid of any significant features or particularities.</li>
+            <li>My chest is simply part of me. It's flat and unassuming, with nipples that are just there. No special feelings or observations about it.</li>
+            <li>A mundane part of my physical form, my chest is flat and has two nipples. Its presence is noted, but without any particular emphasis.</li>
+            <li>Looking at my chest, it’s just a flat area with two nipples, completely normal. It doesn’t evoke any strong emotions or deep thoughts.</li>
+            <li>This is just how my chest is. Flat, with nipples. It's a natural, everyday sight, entirely devoid of any unique characteristics or notable aspects.</li>
+            <li>My chest, a simple, flat plane. The nipples are just there, blending in with the rest of my ordinary physical appearance.</li>
+            <li>Nothing special about it, just a chest. It's flat and unremarkable, with nipples that are exactly where they should be, and nothing more.</li>
+            <li>It's exactly what I'd expect from a chest; flat and with the usual two nipples. It simply exists as a functional part of my body.</li>
+            <li>My chest is simply present. Flat and with nipples, it feels natural and completely normal, drawing no unusual attention or particular feeling.</li>
+            <li>Just a standard chest, unadorned and flat. The nipples are part of the landscape, and I don't give it a second thought.</li>
+            <li>I see my chest, and it's simply a flat surface with two nipples. There's nothing unusual or noteworthy about its appearance or feel.</li>
+            <li>It’s just my chest, as it has always been. Flat, with two nipples. A perfectly normal and expected part of my physical being.</li>
+            <li>A very neutral observation: my chest is flat, my nipples are present. There's no particular significance or meaning attached to this view.</li>
+            <li>This is what a chest looks like. Flat, with nipples. It's perfectly fine, and I have no strong opinions or feelings about it.</li>
+            <li>My chest is merely a flat area, punctuated by nipples. It is neither good nor bad, just an accepted part of my form.</li>
+            <li>Just a normal male chest. Flat, two nipples. It's just a part of the overall structure of my body, nothing to consider deeply.</li>
+            <li>My chest is unremarkable, simply flat with two nipples. It fulfills its purpose by existing, and I feel nothing beyond that.</li>
+            <li>It’s a flat chest, typical and ordinary, with nipples that are simply there. Nothing to remark on, entirely normal in every way.</li>
+            <li>A very straightforward chest, flat and featuring two nipples. It looks and feels as it always has, without any significant notice.</li>
+            <li>This chest is just a chest. Flat, with nipples. It’s part of the standard human form, and I regard it with no special interest.</li>
+            <li>My chest feels unremarkable, just a flat surface with nipples. It’s exactly as it should be, a perfectly ordinary body part.</li>
+            <li>It's a typical chest, flat and with the usual two nipples. There’s nothing about it that stands out, merely a normal observation.</li>
+            <li>My chest is simply there, a flat expanse with two nipples. It’s a basic part of my anatomy, not something I tend to focus on.</li>
+            <li>Observing my chest, it's flat and possesses two nipples, a perfectly normal and unremarkable sight that calls for no further comment.</li>
+            <li>Just a regular chest, flat and with nipples. It aligns with my expectations of how a chest should appear, nothing out of the ordinary.</li>
+            <li>It is a flat chest, no more, no less. The nipples are present, confirming its normalcy, a very standard part of the human form.</li>
+            <li>My chest is a flat surface with two nipples, completely natural. It blends in, an ordinary and unexceptional part of my body.</li>
+        </opinionTexts>
+    </Def>
+	
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Nipples_AnyState_Male_Neutral</defName>
+        <label>Opinion_Self_Breasts_Nipples_AnyState_Male_(Neutral)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Any</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Any</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My chest feels like any other part of my body, simply there without much thought or fuss, just a normal, unremarkable area.</li>
+            <li>Just a chest, plain and unadorned. It serves its purpose, existing as a flat expanse with two small points, nothing extraordinary to note.</li>
+            <li>It's just my chest. A flat surface, a couple of nipples. Utterly unremarkable, as it should be. Nothing to dwell on here.</li>
+            <li>Observing my own chest, I find it to be a perfectly ordinary part of my anatomy, devoid of any significant features or particularities.</li>
+            <li>My chest is simply part of me. It's flat and unassuming, with nipples that are just there. No special feelings or observations about it.</li>
+            <li>A mundane part of my physical form, my chest is flat and has two nipples. Its presence is noted, but without any particular emphasis.</li>
+            <li>Looking at my chest, it’s just a flat area with two nipples, completely normal. It doesn’t evoke any strong emotions or deep thoughts.</li>
+            <li>This is just how my chest is. Flat, with nipples. It's a natural, everyday sight, entirely devoid of any unique characteristics or notable aspects.</li>
+            <li>My chest, a simple, flat plane. The nipples are just there, blending in with the rest of my ordinary physical appearance.</li>
+            <li>Nothing special about it, just a chest. It's flat and unremarkable, with nipples that are exactly where they should be, and nothing more.</li>
+            <li>It's exactly what I'd expect from a chest; flat and with the usual two nipples. It simply exists as a functional part of my body.</li>
+            <li>My chest is simply present. Flat and with nipples, it feels natural and completely normal, drawing no unusual attention or particular feeling.</li>
+            <li>Just a standard chest, unadorned and flat. The nipples are part of the landscape, and I don't give it a second thought.</li>
+            <li>I see my chest, and it's simply a flat surface with two nipples. There's nothing unusual or noteworthy about its appearance or feel.</li>
+            <li>It’s just my chest, as it has always been. Flat, with two nipples. A perfectly normal and expected part of my physical being.</li>
+            <li>A very neutral observation: my chest is flat, my nipples are present. There's no particular significance or meaning attached to this view.</li>
+            <li>This is what a chest looks like. Flat, with nipples. It's perfectly fine, and I have no strong opinions or feelings about it.</li>
+            <li>My chest is merely a flat area, punctuated by nipples. It is neither good nor bad, just an accepted part of my form.</li>
+            <li>Just a normal male chest. Flat, two nipples. It's just a part of the overall structure of my body, nothing to consider deeply.</li>
+            <li>My chest is unremarkable, simply flat with two nipples. It fulfills its purpose by existing, and I feel nothing beyond that.</li>
+            <li>It’s a flat chest, typical and ordinary, with nipples that are simply there. Nothing to remark on, entirely normal in every way.</li>
+            <li>A very straightforward chest, flat and featuring two nipples. It looks and feels as it always has, without any significant notice.</li>
+            <li>This chest is just a chest. Flat, with nipples. It’s part of the standard human form, and I regard it with no special interest.</li>
+            <li>My chest feels unremarkable, just a flat surface with nipples. It’s exactly as it should be, a perfectly ordinary body part.</li>
+            <li>It's a typical chest, flat and with the usual two nipples. There’s nothing about it that stands out, merely a normal observation.</li>
+            <li>My chest is simply there, a flat expanse with two nipples. It’s a basic part of my anatomy, not something I tend to focus on.</li>
+            <li>Observing my chest, it's flat and possesses two nipples, a perfectly normal and unremarkable sight that calls for no further comment.</li>
+            <li>Just a regular chest, flat and with nipples. It aligns with my expectations of how a chest should appear, nothing out of the ordinary.</li>
+            <li>It is a flat chest, no more, no less. The nipples are present, confirming its normalcy, a very standard part of the human form.</li>
+            <li>My chest is a flat surface with two nipples, completely natural. It blends in, an ordinary and unexceptional part of my body.</li>
+        </opinionTexts>
+    </Def>
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Nipples_AnyState_Male_Negative</defName>
+        <label>Opinion_Self_Breasts_Nipples_AnyState_Male_(Nehative)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Any</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Any</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My chest feels like any other part of my body, simply there without much thought or fuss, just a normal, unremarkable area.</li>
+            <li>Just a chest, plain and unadorned. It serves its purpose, existing as a flat expanse with two small points, nothing extraordinary to note.</li>
+            <li>It's just my chest. A flat surface, a couple of nipples. Utterly unremarkable, as it should be. Nothing to dwell on here.</li>
+            <li>Observing my own chest, I find it to be a perfectly ordinary part of my anatomy, devoid of any significant features or particularities.</li>
+            <li>My chest is simply part of me. It's flat and unassuming, with nipples that are just there. No special feelings or observations about it.</li>
+            <li>A mundane part of my physical form, my chest is flat and has two nipples. Its presence is noted, but without any particular emphasis.</li>
+            <li>Looking at my chest, it’s just a flat area with two nipples, completely normal. It doesn’t evoke any strong emotions or deep thoughts.</li>
+            <li>This is just how my chest is. Flat, with nipples. It's a natural, everyday sight, entirely devoid of any unique characteristics or notable aspects.</li>
+            <li>My chest, a simple, flat plane. The nipples are just there, blending in with the rest of my ordinary physical appearance.</li>
+            <li>Nothing special about it, just a chest. It's flat and unremarkable, with nipples that are exactly where they should be, and nothing more.</li>
+            <li>It's exactly what I'd expect from a chest; flat and with the usual two nipples. It simply exists as a functional part of my body.</li>
+            <li>My chest is simply present. Flat and with nipples, it feels natural and completely normal, drawing no unusual attention or particular feeling.</li>
+            <li>Just a standard chest, unadorned and flat. The nipples are part of the landscape, and I don't give it a second thought.</li>
+            <li>I see my chest, and it's simply a flat surface with two nipples. There's nothing unusual or noteworthy about its appearance or feel.</li>
+            <li>It’s just my chest, as it has always been. Flat, with two nipples. A perfectly normal and expected part of my physical being.</li>
+            <li>A very neutral observation: my chest is flat, my nipples are present. There's no particular significance or meaning attached to this view.</li>
+            <li>This is what a chest looks like. Flat, with nipples. It's perfectly fine, and I have no strong opinions or feelings about it.</li>
+            <li>My chest is merely a flat area, punctuated by nipples. It is neither good nor bad, just an accepted part of my form.</li>
+            <li>Just a normal male chest. Flat, two nipples. It's just a part of the overall structure of my body, nothing to consider deeply.</li>
+            <li>My chest is unremarkable, simply flat with two nipples. It fulfills its purpose by existing, and I feel nothing beyond that.</li>
+            <li>It’s a flat chest, typical and ordinary, with nipples that are simply there. Nothing to remark on, entirely normal in every way.</li>
+            <li>A very straightforward chest, flat and featuring two nipples. It looks and feels as it always has, without any significant notice.</li>
+            <li>This chest is just a chest. Flat, with nipples. It’s part of the standard human form, and I regard it with no special interest.</li>
+            <li>My chest feels unremarkable, just a flat surface with nipples. It’s exactly as it should be, a perfectly ordinary body part.</li>
+            <li>It's a typical chest, flat and with the usual two nipples. There’s nothing about it that stands out, merely a normal observation.</li>
+            <li>My chest is simply there, a flat expanse with two nipples. It’s a basic part of my anatomy, not something I tend to focus on.</li>
+            <li>Observing my chest, it's flat and possesses two nipples, a perfectly normal and unremarkable sight that calls for no further comment.</li>
+            <li>Just a regular chest, flat and with nipples. It aligns with my expectations of how a chest should appear, nothing out of the ordinary.</li>
+            <li>It is a flat chest, no more, no less. The nipples are present, confirming its normalcy, a very standard part of the human form.</li>
+            <li>My chest is a flat surface with two nipples, completely natural. It blends in, an ordinary and unexceptional part of my body.</li>
+        </opinionTexts>
+    </Def>
+	
+</Defs>
+ 

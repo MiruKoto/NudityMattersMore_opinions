@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro</defName>
+        <label>Micro Penis (Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily> 
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I saw {PAWN_nameShortPossessive} micro penis, it’s there, but barely noticeable.</li>
+			<li>I saw {PAWN_nameShortPossessive} penis, it was quite small, almost imperceptible.</li>
+			<li>I examined {PAWN_nameShortPossessive} penis, it was barely noticeable, even when aroused.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} penis, a fleeting moment of awareness of its size.</li>
+			<li>I saw {PAWN_nameShortPossessive} micro penis that was barely visible, with a length that was almost imperceptible.</li>
+			<li>I examined {PAWN_nameShortPossessive} micro penis that was exceptionally small, with a circumference that was hardly noticeable.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} micro penis that was minuscule, with a tip that was almost flush with the surrounding skin.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} micro penis and noticed it was only about size of my fingernail in length, with a circumference that seemed almost impossibly small. The glans was barely visible, and the shaft was almost nonexistent.</li>
+			<li>Upon closer examination, I saw that {PAWN_nameShortPossessive} micro penis had an almost childlike appearance, with a tiny, rounded tip and a thin, delicate base.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} micro penis and observed that it seemed to be almost entirely contained within the foreskin, giving it a retracted, compact appearance.</li>
+			<li>As I glanced, I noticed {PAWN_nameShortPossessive} micro penis was no larger than a finger, with a circumference that seemed almost... delicate. The balls were small and tight against the body, almost like they were trying to hide.</li>
+			<li>Upon examination, I saw that {PAWN_nameShortPossessive} micro penis had a slight curve to it, like a tiny, almost imperceptible hook. The skin was smooth and hairless, with a subtle sheen to it.</li>
+			<li>When I gazed at it from the side, {PAWN_nameShortPossessive} micro penis seemed to blend almost seamlessly into the surrounding skin, as if it were trying to avoid attention.</li>
+			<li>I examined {PAWN_nameShortPossessive} micro penis and noticed it was barely visible, resembling a small nub. The glans was not well-defined, and the shaft was incredibly thin, almost like a small thread.</li>
+			<li>Upon closer inspection, I saw that {PAWN_nameShortPossessive} micro penis had tiny testicles that seemed almost non-existent, making it difficult to distinguish from the surrounding skin.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} micro penis and saw that the foreskin was quite loose, almost covering the entire length, giving it a slight bulbous appearance.</li>
+            <li>Its size was quite modest, fitting subtly against {PAWN_possessive} body.</li>
+            <li>The member appeared small, almost blending into {PAWN_possessive} anatomy without much protrusion.</li>
+            <li>A remarkably tiny appendage, it rested inconspicuously, its shaft and glans minimal.</li>
+            <li>Observing {PAWN_nameShortPossessive} member, it seemed to be rather diminutive, the shaft thin, the head rounded.</li>
+            <li>The small size of {PAWN_nameShortPossessive} anatomy was evident, the foreskin partially obscuring its modest form.</li>
+            <li>Barely peeking out, the organ was quite small, with small, soft balls nestled close.</li>
+            <li>It was a subtle observation; the genital area revealed a miniature scale.</li>
+            <li>A tiny form, its shape was unremarkable, almost recessed.</li>
+            <li>The entire structure was notably small, with a soft, understated shaft.</li>
+            <li>The glans was barely discernible, a tiny tip on a very slender shaft.</li>
+            <li>A small part, it seemed proportionate to {PAWN_possessive} frame, though on the smaller side.</li>
+            <li>The diminutive size was clear, with a foreskin that nearly encased it completely.</li>
+            <li>Small and unassuming, its appearance was rather indistinct.</li>
+            <li>The shaft was remarkably thin, leading to a small, unassuming head.</li>
+            <li>I noticed {PAWN_nameShortPossessive} private part was rather small, tucked discreetly against {PAWN_possessive} body.</li>
+            <li>It was a fleeting glance at a very compact anatomy, the glans just a slight swell.</li>
+            <li>The smallness of it was immediate, the shaft and balls appearing quite underdeveloped.</li>
+            <li>The proportions were tiny, giving the impression of an immature form.</li>
+            <li>Its presence was minimal, a tiny, almost unnoticeable part of {PAWN_possessive} lower anatomy.</li>
+            <li>A rather short length, with a narrow shaft and a simple, small head.</li>
+            <li>The testicles seemed proportionally small, accompanying a tiny shaft.</li>
+            <li>A small, unpretentious organ, lacking any striking features.</li>
+            <li>The dimensions were miniature, with the foreskin often concealing its full extent.</li>
+            <li>I observed a very small appendage, its overall shape soft and understated.</li>
+            <li>The glans was small and a bit pointed, nestled on a very slender shaft.</li>
+            <li>Its small size made it difficult to discern much detail; it was simply there.</li>
+            <li>A notably minor protrusion, it appeared almost shyly recessed.</li>
+            <li>The shaft was quite thin, giving it a delicate and unassuming appearance.</li>
+            <li>The tiny glans barely extended beyond the foreskin, a humble sight.</li>
+            <li>I saw a very small genital, its presence understated and its features minimal.</li>
+        </opinionTexts>
+    
+	
+</Def>
+
+<!--Elder Male observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_Elderly_Male_opinion</defName>
+        <label>Micro Penis (Neutral)_Elderly_Male_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} rather small member; a modest size, quite common.</li>
+            <li>{PAWN_nameShortPossessive} anatomy revealed a small shaft and head, nothing unusual for {PAWN_possessive} age.</li>
+            <li>A tiny form, it reminded me of simpler times. Quite the unassuming appendage.</li>
+            <li>Saw {PAWN_nameShortPossessive} small penis, its shaft and glans compact, very discreet.</li>
+            <li>The little fellow was barely there; small balls, thin shaft. Life goes on.</li>
+            <li>His little manhood was quite tiny; a familiar, perhaps even quaint, sight.</li>
+            <li>{PAWN_nameShortPossessive} modest proportions are certainly… noticeable. It is what it is.</li>
+            <li>A quick look revealed a rather small size, its form somewhat understated.</li>
+            <li>The member was quite small, the shaft thin, and the head minimal.</li>
+            <li>I noted the diminutive size, its anatomy unremarkable and common.</li>
+            <li>It was a very small penis, almost childlike in its modest scale.</li>
+            <li>The testicles were tiny, accompanying a barely-there shaft.</li>
+            <li>A fleeting observation: a small, unassuming form, nothing exceptional.</li>
+            <li>The entire structure was quite small, with an unassertive presence.</li>
+            <li>I saw {PAWN_nameShortPossessive} rather petite organ, its dimensions quite reserved.</li>
+            <li>The foreskin seemed to cover most of it, a minimal protrusion.</li>
+            <li>A small, almost innocent looking member. Not much to consider.</li>
+            <li>Its size was quite humble, a delicate looking piece.</li>
+            <li>The shaft was remarkably narrow, leading to a tiny, simple glans.</li>
+            <li>The overall scale was miniature, tucked away discreetly.</li>
+            <li>It appeared quite small, a common variation among males.</li>
+            <li>A very compact design, its features are subtle and understated.</li>
+            <li>The testicles appeared quite small, fitting the modest scale.</li>
+            <li>I saw it; small, nothing grand, but certainly functional.</li>
+            <li>Its small size suggests little experience, but who am I to judge?</li>
+            <li>A humble offering, its shape was unremarkable.</li>
+            <li>The anatomy was minimal, a small head and thin shaft.</li>
+            <li>I noted its tiny presence, almost blending in with the body.</li>
+            <li>A brief glimpse, it was quite small, almost imperceptible.</li>
+            <li>The size was minimal, a small, unobtrusive part of {PAWN_possessive} body.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young male, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_Elderly_Male_voyer_opinion</defName>
+        <label>Micro Penis (Neutral)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny member, so innocent. A shiver ran through me.</li>
+            <li>Such a modest little thing, almost childish. My old blood stirred.</li>
+            <li>A brief glimpse of {PAWN_nameShortPossessive} minuscule anatomy. It truly is quite small.</li>
+            <li>Saw that tiny bit, barely a shaft, tucked away. It sparked a strange warmth.</li>
+            <li>The almost imperceptible size of {PAWN_nameShortPossessive} genitals... intriguing. My old self yearns.</li>
+            <li>His little manhood, so small. It makes me curious, almost.</li>
+            <li>That little nub, barely noticeable. An odd tingle from deep within.</li>
+            <li>A very small and delicate looking part. My own response was unexpected.</li>
+            <li>The sight of that tiny thing, almost hidden. A peculiar sensation.</li>
+            <li>Such a miniature appendage, almost lost. It brought a curious feeling.</li>
+            <li>The smallness of it, truly insignificant. Yet, my body reacted.</li>
+            <li>A fleeting glimpse of such modest anatomy. It piqued an old interest.</li>
+            <li>That tiny shaft, barely there. A warmth spread through me.</li>
+            <li>{PAWN_nameShortPossessive} little package, so unassuming. It stirred something.</li>
+            <li>Almost imperceptible, yet it caught my eye. A familiar flutter.</li>
+            <li>The slightness of it, almost like a secret. It made me feel… wistful.</li>
+            <li>Its small size, barely a presence. My loins felt a strange pull.</li>
+            <li>A curious sight, so petite. It conjured a forgotten sensation.</li>
+            <li>That tiny, soft form. It made my old member stir faintly.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} very modest asset. It's... small.</li>
+            <li>The almost non-existent shaft, a mere button. It was a bizarre attraction.</li>
+            <li>{PAWN_nameShortPossessive} glans was so small, almost withdrawn. My thoughts wandered.</li>
+            <li>A child-like scale, yet my body responded. A strange dichotomy.</li>
+            <li>The hidden nature of such a small part. It was surprisingly captivating.</li>
+            <li>Its modesty was its own allure. A dull throb began.</li>
+            <li>That tiny, almost imperceptible penis. My imagination filled the gaps.</li>
+            <li>Barely a glimpse, but it was enough. A faint warmth spread.</li>
+            <li>The slight form, a delicate, almost virginal look. It intrigued me.</li>
+            <li>Such a little thing, so unobtrusive. My own body reacted subtly.</li>
+            <li>A quick observation, its small size oddly compelling. My mind drifted.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Female observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_Elderly_Female_opinion</defName>
+        <label>Micro Penis (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} rather small member; a modest size.</li>
+            <li>{PAWN_nameShortPossessive} anatomy revealed a small shaft and head, quite a common sight.</li>
+            <li>A tiny form, nothing remarkable. Just another male anatomy.</li>
+            <li>Saw {PAWN_nameShortPossessive} small penis, its shaft and glans compact.</li>
+            <li>The little fellow was barely there; small balls, thin shaft.</li>
+            <li>His little manhood was quite tiny; rather unassuming.</li>
+            <li>{PAWN_nameShortPossessive} modest proportions are certainly… present.</li>
+            <li>A quick look revealed a rather small size, its form somewhat understated.</li>
+            <li>The member was quite small, the shaft thin, and the head minimal.</li>
+            <li>I noted the diminutive size, its anatomy unremarkable.</li>
+            <li>It was a very small penis, almost childlike in scale.</li>
+            <li>The testicles were tiny, accompanying a barely-there shaft.</li>
+            <li>A fleeting observation: a small, unassuming form.</li>
+            <li>The entire structure was quite small, with an unassertive presence.</li>
+            <li>I saw {PAWN_nameShortPossessive} rather petite organ, its dimensions reserved.</li>
+            <li>The foreskin seemed to cover most of it, a minimal protrusion.</li>
+            <li>A small, almost innocent looking member.</li>
+            <li>Its size was quite humble, a delicate looking piece.</li>
+            <li>The shaft was remarkably narrow, leading to a tiny, simple glans.</li>
+            <li>The overall scale was miniature, tucked away discreetly.</li>
+            <li>It appeared quite small, a typical variation.</li>
+            <li>A very compact design, its features are subtle.</li>
+            <li>The testicles appeared quite small, fitting the modest scale.</li>
+            <li>I saw it; small, nothing grand, but there.</li>
+            <li>A humble offering, its shape was unremarkable.</li>
+            <li>The anatomy was minimal, a small head and thin shaft.</li>
+            <li>I noted its tiny presence, almost blending in.</li>
+            <li>A brief glimpse, it was quite small.</li>
+            <li>The size was minimal, an unobtrusive part of {PAWN_possessive} body.</li>
+            <li>It was a fleeting glance at a very compact anatomy, the glans just a slight swell.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Female voyer observes young male, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_Elderly_Female_voyer_opinion</defName>
+        <label>Micro Penis (Neutral)_Elderly_Female_voyer_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny member, so innocent. A curiosity stirred within me.</li>
+            <li>Such a modest little thing, almost childish. My old eyes lingered.</li>
+            <li>A brief glimpse of {PAWN_nameShortPossessive} minuscule anatomy. It's oddly compelling.</li>
+            <li>Saw that tiny bit, barely a shaft, tucked away. It sparked an unexpected thought.</li>
+            <li>The almost imperceptible size of {PAWN_nameShortPossessive} genitals... intriguing. A faint heat rose.</li>
+            <li>His little manhood, so small. It makes me curious, almost nostalgic.</li>
+            <li>That little nub, barely noticeable. An odd sense of observation from me.</li>
+            <li>A very small and delicate looking part. My own response was a quiet hum.</li>
+            <li>The sight of that tiny thing, almost hidden. A peculiar fascination.</li>
+            <li>Such a miniature appendage, almost lost. It brought a strange longing.</li>
+            <li>The smallness of it, truly insignificant. Yet, my mind drifted.</li>
+            <li>A fleeting glimpse of such modest anatomy. It piqued a dormant interest.</li>
+            <li>That tiny shaft, barely there. A warmth spread through my core.</li>
+            <li>{PAWN_nameShortPossessive} little package, so unassuming. It stirred a dormant feeling.</li>
+            <li>Almost imperceptible, yet it caught my eye. A familiar ache.</li>
+            <li>The slightness of it, almost like a secret. It made me feel… intrigued.</li>
+            <li>Its small size, barely a presence. My senses heightened.</li>
+            <li>A curious sight, so petite. It conjured a forgotten desire.</li>
+            <li>That tiny, soft form. It made my lower body stir faintly.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} very modest asset. It's... subtle.</li>
+            <li>The almost non-existent shaft, a mere button. It was a bizarre attraction.</li>
+            <li>{PAWN_nameShortPossessive} glans was so small, almost withdrawn. My thoughts were consumed.</li>
+            <li>A child-like scale, yet my body reacted. A strange, old pleasure.</li>
+            <li>The hidden nature of such a small part. It was surprisingly captivating.</li>
+            <li>Its modesty was its own allure. A dull throb in my depths.</li>
+            <li>That tiny, almost imperceptible penis. My imagination ran wild.</li>
+            <li>Barely a glimpse, but it was enough. A faint warmth surged.</li>
+            <li>The slight form, a delicate, almost untouched look. It fascinated me.</li>
+            <li>Such a little thing, so unobtrusive. My body responded with a soft sigh.</li>
+            <li>A quick observation, its small size oddly compelling. My mind became focused.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male observes young male, more based solidarity-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MaleOpinion</defName>
+        <label>Micro Penis (Neutral)_MaleOpinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Saw {PAWN_nameShortPossessive} package; pretty small, but who am I to judge?</li>
+            <li>Yeah, {PAWN_possessive} shaft is tiny. Not much to look at, really.</li>
+            <li>His little guy is barely there. Rough luck, man.</li>
+            <li>Noticed {PAWN_nameShortPossessive} penis. It's on the smaller side, for sure.</li>
+            <li>Man, that's a micro. Respect the honesty, I guess.</li>
+            <li>It was a quick glance. Very small, almost unnoticeable.</li>
+            <li>Just a little thing. Nothing to brag about.</li>
+            <li>His junk is pretty tiny. Hope {PAWN_possessive} not too bothered.</li>
+            <li>Saw {PAWN_nameShortPossessive} glans. It's minuscule, barely a tip.</li>
+            <li>The balls are small, too. Overall, a compact setup.</li>
+            <li>Yeah, {PAWN_possessive} equipment is definitely on the miniature scale.</li>
+            <li>A tiny shaft, almost blends in. Not ideal, but whatever.</li>
+            <li>Not much length there. It is what it is.</li>
+            <li>I saw it. Small and unassuming.</li>
+            <li>The entire thing is pretty small. Tough break.</li>
+            <li>{PAWN_nameShortPossessive} penis is definitely small. No judgment here.</li>
+            <li>A little nub, honestly. Not much to say.</li>
+            <li>Saw {PAWN_possessive} member, it's quite small. Sympathy, I suppose.</li>
+            <li>The shaft is really thin. Doesn't look like much.</li>
+            <li>It's a tiny one. We all have our challenges.</li>
+            <li>His package is very modest. Can't be easy.</li>
+            <li>Just a small, almost hidden piece.</li>
+            <li>A fleeting look, its dimensions are minimal.</li>
+            <li>That's a very compact unit {PAWN_possessive} got there.</li>
+            <li>Small and unremarkablle. Just a fact.</li>
+            <li>His penis is notably short, almost recessed.</li>
+            <li>The testicles are also small, fitting the scale.</li>
+            <li>Not much to see, a very small penis.</li>
+            <li>It's small. It exists. End of story.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} penis is tiny. A bit unfortunate.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female observes young male, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_FemaleOpinion</defName>
+        <label>Micro Penis (Neutral)_FemaleOpinionOpinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} penis. It was really tiny, almost surprising.</li>
+            <li>His little member is quite small. Not very appealing.</li>
+            <li>A quick glance at {PAWN_nameShortPossessive} package. So small, it barely registered.</li>
+            <li>It’s definitely on the micro side. Not what I expected.</li>
+            <li>The shaft was thin, the glans tiny. Not much there.</li>
+            <li>His anatomy is quite compact. Not very impressive.</li>
+            <li>Barely noticeable. It didn't spark any interest.</li>
+            <li>I saw {PAWN_nameShortPossessive} little thing. It's small, to say the least.</li>
+            <li>The balls seemed proportionally tiny, matching the overall smallness.</li>
+            <li>It's a very modest size. Doesn't leave much of an impression.</li>
+            <li>Not very substantial, a fleeting glance was enough.</li>
+            <li>His penis is quite petite. Rather unremarkable.</li>
+            <li>The length was minimal, almost childlike.</li>
+            <li>It's small and unassuming. No real attraction.</li>
+            <li>The foreskin almost completely covered the tiny glans.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small genital. It’s just… small.</li>
+            <li>The shaft was narrow, the head barely formed. Not for me.</li>
+            <li>A quick look revealed a truly miniature size. My interest waned.</li>
+            <li>His equipment is quite tiny. Didn’t feel anything.</li>
+            <li>So small. It's almost cute, but not in a good way.</li>
+            <li>The dimensions were minimal. No appeal whatsoever.</li>
+            <li>It was a very compact unit. Nothing enticing.</li>
+            <li>A small, almost invisible part. It didn't catch my attention.</li>
+            <li>The glans was barely visible, a tiny, unformed tip.</li>
+            <li>Its smallness was notable. Not my preference.</li>
+            <li>I observed {PAWN_nameShortPossessive} rather petite organ. Not stimulating.</li>
+            <li>The entire structure was dainty. No spark of desire.</li>
+            <li>It’s a little button, really. Nothing more.</li>
+            <li>A small, uninteresting piece. I quickly looked away.</li>
+            <li>His penis is remarkably small. Not attractive in the slightest.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--voyer unisex (all genders) observes young male -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_trait_Voyeur</defName>
+        <label>Micro Penis (Neutral) trait Voyeur</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} tiny member. The sheer modesty of it is curious.</li>
+            <li>A fleeting glimpse of {PAWN_nameShortPossessive} minuscule anatomy. Every detail is fascinating.</li>
+            <li>The smallness of it, almost hidden. I lingered on the sight.</li>
+            <li>Observed {PAWN_nameShortPossessive} miniature penis. Its unassuming presence is quite revealing.</li>
+            <li>Such a tiny shaft and glans. It's fascinating to note its proportion.</li>
+            <li>I took in the diminutive scale of {PAWN_nameShortPossessive} genitals. An intimate detail.</li>
+            <li>The modest length and thin shaft. It's all part of the unique landscape.</li>
+            <li>{PAWN_nameShortPossessive} little package, barely there. I absorb every aspect.</li>
+            <li>A very small and delicate looking part. There's a subtle charm to it.</li>
+            <li>The sight of that tiny thing, almost imperceptible. I enjoy observing.</li>
+            <li>Its size is quite humble, a delicate looking piece. Each form holds interest.</li>
+            <li>The overall scale was miniature, tucked away discreetly. I see it all.</li>
+            <li>It appeared quite small, a common variation. Every nuance is noted.</li>
+            <li>A very compact design, its features are subtle. A silent appreciation.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. I observe the whole.</li>
+            <li>I saw it; small, nothing grand, but there to be seen.</li>
+            <li>A humble offering, its shape was unremarkable. Yet, it holds my gaze.</li>
+            <li>The anatomy was minimal, a small head and thin shaft. A unique presentation.</li>
+            <li>I noted its tiny presence, almost blending in. A quiet discovery.</li>
+            <li>A brief glimpse, it was quite small. The subtle curves, the texture.</li>
+            <li>The size was minimal, an unobtrusive part of {PAWN_possessive} body. It's all for my eyes.</li>
+            <li>The foreskin seemed to cover most of it, a minimal protrusion. Intricate.</li>
+            <li>A small, almost innocent looking member. Its vulnerability is striking.</li>
+            <li>Its size was quite humble, a delicate looking piece. I enjoy the observation.</li>
+            <li>The shaft was remarkably narrow, leading to a tiny, simple glans. A silent study.</li>
+            <li>The overall scale was miniature, tucked away discreetly. A secret shared.</li>
+            <li>It appeared quite small, a typical variation. Every little detail counts.</li>
+            <li>A very compact design, its features are subtle. I find it captivating.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. A perfect harmony.</li>
+            <li>I saw it; small, nothing grand, but there for me.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer male observes young male with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_trait_Voyeur_M</defName>
+        <label>Micro Penis (Neutral) trait Voyeur_M</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny member, so innocent. It makes my own stir softly.</li>
+            <li>Such a modest little thing, almost childish. My old blood stirred with curiosity.</li>
+            <li>A brief glimpse of {PAWN_nameShortPossessive} minuscule anatomy. It's oddly compelling, a faint warmth spreads.</li>
+            <li>Saw that tiny bit, barely a shaft, tucked away. It sparked a strange, familiar throb.</li>
+            <li>The almost imperceptible size of {PAWN_nameShortPossessive} genitals... intriguing. My old self yearns subtly.</li>
+            <li>His little manhood, so small. It makes me curious, a distinct feeling rises.</li>
+            <li>That little nub, barely noticeable. An odd tingle from deep within my own core.</li>
+            <li>A very small and delicate looking part. My own response was an unexpected tremor.</li>
+            <li>The sight of that tiny thing, almost hidden. A peculiar sensation, a quiet stir.</li>
+            <li>Such a miniature appendage, almost lost. It brought a curious feeling, a soft ache.</li>
+            <li>The smallness of it, truly insignificant. Yet, my body reacted, a subtle tightening.</li>
+            <li>A fleeting glimpse of such modest anatomy. It piqued an old interest, a low hum.</li>
+            <li>That tiny shaft, barely there. A warmth spread through me, a faint longing.</li>
+            <li>{PAWN_nameShortPossessive} little package, so unassuming. It stirred something, a quiet arousal.</li>
+            <li>Almost imperceptible, yet it caught my eye. A familiar flutter in my own groin.</li>
+            <li>The slightness of it, almost like a secret. It made me feel… intrigued, a gentle pulse.</li>
+            <li>Its small size, barely a presence. My loins felt a strange pull, a hidden desire.</li>
+            <li>A curious sight, so petite. It conjured a forgotten sensation, a soft rising.</li>
+            <li>That tiny, soft form. It made my old member stir faintly, a sleepy awakening.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} very modest asset. It's... small. And I find it so.</li>
+            <li>The almost non-existent shaft, a mere button. It was a bizarre attraction, a strange tightening.</li>
+            <li>{PAWN_nameShortPossessive} glans was so small, almost withdrawn. My thoughts wandered, my own desire peaked.</li>
+            <li>A child-like scale, yet my body responded. A strange dichotomy, a quiet intensity.</li>
+            <li>The hidden nature of such a small part. It was surprisingly captivating, drawing me in.</li>
+            <li>Its modesty was its own allure. A dull throb began, a building tension.</li>
+            <li>That tiny, almost imperceptible penis. My imagination filled the gaps, my body reacted.</li>
+            <li>Barely a glimpse, but it was enough. A faint warmth surged, a silent craving.</li>
+            <li>The slight form, a delicate, almost virginal look. It intrigued me, a soft current.</li>
+            <li>Such a little thing, so unobtrusive. My body responded subtly, a deep resonance.</li>
+            <li>A quick observation, its small size oddly compelling. My mind drifted, my own body echoed.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young male with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_trait_Voyeur_F</defName>
+        <label>Micro Penis (Neutral) trait Voyeur_F</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny member, so innocent. A secret curiosity stirred within me.</li>
+            <li>Such a modest little thing, almost childish. My gaze lingered, a faint warmth spread.</li>
+            <li>A brief glimpse of {PAWN_nameShortPossessive} minuscule anatomy. It's oddly compelling, a shiver of interest.</li>
+            <li>Saw that tiny bit, barely a shaft, tucked away. It sparked a strange, low hum in my belly.</li>
+            <li>The almost imperceptible size of {PAWN_nameShortPossessive} genitals... intriguing. A delicate flush rose on my cheeks.</li>
+            <li>His little manhood, so small. It makes me curious, almost wanting to explore.</li>
+            <li>That little nub, barely noticeable. An odd flutter from deep within.</li>
+            <li>A very small and delicate looking part. My own response was a soft sigh.</li>
+            <li>The sight of that tiny thing, almost hidden. A peculiar fascination, a gentle ache.</li>
+            <li>Such a miniature appendage, almost lost. It brought a strange longing, a quiet yearning.</li>
+            <li>The smallness of it, truly insignificant. Yet, my body reacted, a subtle tightening.</li>
+            <li>A fleeting glimpse of such modest anatomy. It piqued a dormant interest, a soft throb.</li>
+            <li>That tiny shaft, barely there. A warmth spread through me, a faint desire.</li>
+            <li>{PAWN_nameShortPossessive} little package, so unassuming. It stirred something, a quiet arousal.</li>
+            <li>Almost imperceptible, yet it caught my eye. A familiar tingle in my own depths.</li>
+            <li>The slightness of it, almost like a secret. It made me feel… intrigued, a gentle pulse.</li>
+            <li>Its small size, barely a presence. My core felt a strange pull, a hidden urge.</li>
+            <li>A curious sight, so petite. It conjured a forgotten desire, a soft quickening.</li>
+            <li>That tiny, soft form. It made my lower body stir faintly, a sleepy awakening.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} very modest asset. It's... subtle. And I find it so.</li>
+            <li>The almost non-existent shaft, a mere button. It was a bizarre attraction, a strange tightening.</li>
+            <li>{PAWN_nameShortPossessive} glans was so small, almost withdrawn. My thoughts wandered, my own desire peaked.</li>
+            <li>A child-like scale, yet my body responded. A strange dichotomy, a quiet intensity.</li>
+            <li>The hidden nature of such a small part. It was surprisingly captivating, drawing me in.</li>
+            <li>Its modesty was its own allure. A dull throb began, a building tension.</li>
+            <li>That tiny, almost imperceptible penis. My imagination filled the gaps, my body reacted.</li>
+            <li>Barely a glimpse, but it was enough. A faint warmth surged, a silent craving.</li>
+            <li>The slight form, a delicate, almost virginal look. It intrigued me, a soft current.</li>
+            <li>Such a little thing, so unobtrusive. My body responded subtly, a deep resonance.</li>
+            <li>A quick observation, its small size oddly compelling. My mind drifted, my own body echoed.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_trait_NMM_Exhibitionist</defName>
+        <label>Micro Penis (Neutral) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} small penis. A modest display, nothing to compare to.</li>
+            <li>{PAWN_nameShortPossessive} anatomy revealed a small shaft. It's there, but lacks impact.</li>
+            <li>Such a tiny form. I prefer a grander presentation of anatomy.</li>
+            <li>Saw {PAWN_nameShortPossessive} small penis, its glans compact. Mine is far more commanding.</li>
+            <li>The little fellow was barely there; small balls. No competition, thankfully.</li>
+            <li>{PAWN_possessive} manhood is quite tiny; a stark contrast to my own.</li>
+            <li>{PAWN_nameShortPossessive} modest proportions are certainly… minimal. I have no fear of being overshadowed.</li>
+            <li>A quick look revealed a rather small size. My own presence is more significant.</li>
+            <li>The member was quite small, the shaft thin. It highlights my own confidence.</li>
+            <li>I noted the diminutive size, its anatomy unremarkable. Makes me feel superior.</li>
+            <li>It was a very small penis, almost childlike in its modest scale. Hardly a challenge.</li>
+            <li>The testicles were tiny, accompanying a barely-there shaft. My own assets are on full display.</li>
+            <li>A fleeting observation: a small, unassuming form. My confidence is untouched.</li>
+            <li>The entire structure was quite small, with an unassertive presence. I shine brighter.</li>
+            <li>I saw {PAWN_nameShortPossessive} rather petite organ, its dimensions reserved. I command attention.</li>
+            <li>The foreskin seemed to cover most of it, a minimal protrusion. No threat to my display.</li>
+            <li>A small, almost innocent looking member. My own bravado is unhindered.</li>
+            <li>Its size was quite humble, a delicate looking piece. I relish in my own spectacle.</li>
+            <li>The shaft was remarkably narrow, leading to a tiny, simple glans. My own grandeur remains.</li>
+            <li>The overall scale was miniature, tucked away discreetly. My own form demands notice.</li>
+            <li>It appeared quite small, a typical variation. My exhibition knows no bounds.</li>
+            <li>A very compact design, its features are subtle. I am the true spectacle.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. No competition in this arena.</li>
+            <li>I saw it; small, nothing grand, but there. My own display is paramount.</li>
+            <li>A humble offering, its shape was unremarkable. I revel in my bold presentation.</li>
+            <li>The anatomy was minimal, a small head and thin shaft. My own body speaks volumes.</li>
+            <li>I noted its tiny presence, almost blending in. My presence is undeniable.</li>
+            <li>A brief glimpse, it was quite small. My own display is more compelling.</li>
+            <li>The size was minimal, an unobtrusive part of {PAWN_possessive} body. It allows me to stand out.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small genital. It reinforces my own glorious presence.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_trait_Nymphomaniac</defName>
+        <label>Micro Penis (Neutral) trait Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} tiny member. It's… there. Not much to work with, but I can try.</li>
+            <li>{PAWN_nameShortPossessive} anatomy revealed a small shaft. A challenge, perhaps?</li>
+            <li>Such a tiny form. It hardly stirs anything, but the urge remains.</li>
+            <li>Observed {PAWN_nameShortPossessive} miniature penis. It barely registers, but the need for release is strong.</li>
+            <li>A small glans on a thin shaft. It's not ideal, but an opportunity nonetheless.</li>
+            <li>I took in the diminutive scale of {PAWN_nameShortPossessive} genitals. It's a mild disappointment.</li>
+            <li>The modest length and thin shaft. It feels like wasted potential, yet I feel restless.</li>
+            <li>{PAWN_nameShortPossessive} little package, barely there. It makes me itch with unfulfilled desire.</li>
+            <li>A very small and delicate looking part. It barely moves me, but I crave interaction.</li>
+            <li>The sight of that tiny thing, almost imperceptible. My body still aches with longing.</li>
+            <li>Its size is quite humble, a delicate looking piece. A mild hindrance, not a stopper.</li>
+            <li>The overall scale was miniature, tucked away discreetly. Still, the need for intimacy burns.</li>
+            <li>It appeared quite small, a common variation. My desires remain unsatisfied.</li>
+            <li>A very compact design, its features are subtle. I yearn for more.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. The craving persists.</li>
+            <li>I saw it; small, nothing grand, but an opening.</li>
+            <li>A humble offering, its shape was unremarkable. My body demands attention.</li>
+            <li>The anatomy was minimal, a small head and thin shaft. A tiny spark, but a spark nonetheless.</li>
+            <li>I noted its tiny presence, almost blending in. My passion seeks an outlet.</li>
+            <li>A brief glimpse, it was quite small. My libido is undeterred.</li>
+            <li>The size was minimal, an unobtrusive part of {PAWN_possessive} body. It’s a start.</li>
+            <li>The foreskin seemed to cover most of it, a minimal protrusion. Still, the hunger builds.</li>
+            <li>A small, almost innocent looking member. My inner turmoil grows.</li>
+            <li>Its size was quite humble, a delicate looking piece. My body hums with anticipation.</li>
+            <li>The shaft was remarkably narrow, leading to a tiny, simple glans. My needs are urgent.</li>
+            <li>The overall scale was miniature, tucked away discreetly. Yet, the longing consumes me.</li>
+            <li>It appeared quite small, a typical variation. My desires are not sated.</li>
+            <li>A very compact design, its features are subtle. I need something, anything.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. My restless energy surges.</li>
+            <li>I saw it; small, nothing grand, but a target for my ceaseless desires.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Male Nymphomaniac observes male, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_trait_Nymphomaniac_male</defName>
+        <label>Micro Penis (Neutral) trait Nymphomaniac_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} tiny member. It's… there. My own pulses with a strange hunger.</li>
+            <li>{PAWN_nameShortPossessive} anatomy revealed a small shaft. A challenge, perhaps? My blood stirs.</li>
+            <li>Such a tiny form. It hardly stirs anything, but the urge to connect remains. My groin tightens.</li>
+            <li>Observed {PAWN_nameShortPossessive} miniature penis. It barely registers, but the need for release is strong within me.</li>
+            <li>A small glans on a thin shaft. It's not ideal, but an opportunity nonetheless. My member twitches.</li>
+            <li>I took in the diminutive scale of {PAWN_nameShortPossessive} genitals. It's a mild disappointment, yet I feel restless.</li>
+            <li>The modest length and thin shaft. It feels like wasted potential, yet I feel a growing urge. My balls ache.</li>
+            <li>{PAWN_nameShortPossessive} little package, barely there. It makes me itch with unfulfilled desire. My body is ready.</li>
+            <li>A very small and delicate looking part. It barely moves me, but I crave interaction. My shaft stirs.</li>
+            <li>The sight of that tiny thing, almost imperceptible. My body still aches with longing. My cock is restless.</li>
+            <li>Its size is quite humble, a delicate looking piece. A mild hindrance, not a stopper for my needs.</li>
+            <li>The overall scale was miniature, tucked away discreetly. Still, the need for intimacy burns within me.</li>
+            <li>It appeared quite small, a common variation. My desires remain unsatisfied, my member throbbing.</li>
+            <li>A very compact design, its features are subtle. I yearn for more, my own body restless.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. The craving persists, my groin tight.</li>
+            <li>I saw it; small, nothing grand, but an opening for my desires. My loins are on fire.</li>
+            <li>A humble offering, its shape was unremarkable. My body demands attention, a deep hum.</li>
+            <li>The anatomy was minimal, a small head and thin shaft. A tiny spark, but a spark nonetheless. My arousal grows.</li>
+            <li>I noted its tiny presence, almost blending in. My passion seeks an outlet, a relentless drive.</li>
+            <li>A brief glimpse, it was quite small. My libido is undeterred, surging forward.</li>
+            <li>The size was minimal, an unobtrusive part of {PAWN_possessive} body. It’s a start to something more.</li>
+            <li>The foreskin seemed to cover most of it, a minimal protrusion. Still, the hunger builds, my cock hardens.</li>
+            <li>A small, almost innocent looking member. My inner turmoil grows, my mind racing.</li>
+            <li>Its size was quite humble, a delicate looking piece. My body hums with anticipation, a deep ache.</li>
+            <li>The shaft was remarkably narrow, leading to a tiny, simple glans. My needs are urgent, a burning desire.</li>
+            <li>The overall scale was miniature, tucked away discreetly. Yet, the longing consumes me, my body in agony.</li>
+            <li>It appeared quite small, a typical variation. My desires are not sated, my member pounding.</li>
+            <li>A very compact design, its features are subtle. I need something, anything, to appease this urge.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. My restless energy surges, I must act.</li>
+            <li>I saw it; small, nothing grand, but a target for my ceaseless desires. My body trembles with need.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes male, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_trait_Nymphomaniac_Female</defName>
+        <label>Micro Penis (Neutral) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} tiny member. It's… there. My core aches with a strange hunger.</li>
+            <li>{PAWN_nameShortPossessive} anatomy revealed a small shaft. A challenge, perhaps? My loins stir.</li>
+            <li>Such a tiny form. It hardly stirs anything, but the urge to connect remains. My inner heat rises.</li>
+            <li>Observed {PAWN_nameShortPossessive} miniature penis. It barely registers, but the need for release is strong within me.</li>
+            <li>A small glans on a thin shaft. It's not ideal, but an opportunity nonetheless. My depths yearn.</li>
+            <li>I took in the diminutive scale of {PAWN_nameShortPossessive} genitals. It's a mild disappointment, yet I feel restless.</li>
+            <li>The modest length and thin shaft. It feels like wasted potential, yet I feel a growing urge. My clit tingles.</li>
+            <li>{PAWN_nameShortPossessive} little package, barely there. It makes me itch with unfulfilled desire. My body is ready.</li>
+            <li>A very small and delicate looking part. It barely moves me, but I crave interaction. My core pulses.</li>
+            <li>The sight of that tiny thing, almost imperceptible. My body still aches with longing. My wetness grows.</li>
+            <li>Its size is quite humble, a delicate looking piece. A mild hindrance, not a stopper for my needs.</li>
+            <li>The overall scale was miniature, tucked away discreetly. Still, the need for intimacy burns within me.</li>
+            <li>It appeared quite small, a common variation. My desires remain unsatisfied, my body throbbing.</li>
+            <li>A very compact design, its features are subtle. I yearn for more, my own body restless.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. The craving persists, my core tight.</li>
+            <li>I saw it; small, nothing grand, but an opening for my desires. My body is on fire.</li>
+            <li>A humble offering, its shape was unremarkable. My body demands attention, a deep hum.</li>
+            <li>The anatomy was minimal, a small head and thin shaft. A tiny spark, but a spark nonetheless. My arousal grows.</li>
+            <li>I noted its tiny presence, almost blending in. My passion seeks an outlet, a relentless drive.</li>
+            <li>A brief glimpse, it was quite small. My libido is undeterred, surging forward.</li>
+            <li>The size was minimal, an unobtrusive part of {PAWN_possessive} body. It’s a start to something more.</li>
+            <li>The foreskin seemed to cover most of it, a minimal protrusion. Still, the hunger builds, my core tightens.</li>
+            <li>A small, almost innocent looking member. My inner turmoil grows, my mind racing.</li>
+            <li>Its size was quite humble, a delicate looking piece. My body hums with anticipation, a deep ache.</li>
+            <li>The shaft was remarkably narrow, leading to a tiny, simple glans. My needs are urgent, a burning desire.</li>
+            <li>The overall scale was miniature, tucked away discreetly. Yet, the longing consumes me, my body in agony.</li>
+            <li>It appeared quite small, a typical variation. My desires are not sated, my body pounding.</li>
+            <li>A very compact design, its features are subtle. I need something, anything, to appease this urge.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. My restless energy surges, I must act.</li>
+            <li>I saw it; small, nothing grand, but a target for my ceaseless desires. My body trembles with need.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_trait_Kind</defName>
+        <label>Micro Penis (Neutral) trait Kind</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} tiny member. It's quite discreet, {PAWN_possessive} privacy respected.</li>
+            <li>{PAWN_nameShortPossessive} anatomy revealed a small shaft and head. It's simply {PAWN_possessive} unique form.</li>
+            <li>Such a tiny form. It's a natural variation, nothing to comment on negatively.</li>
+            <li>Observed {PAWN_nameShortPossessive} miniature penis. Its modest size doesn't diminish {PAWN_possessive} worth.</li>
+            <li>A small glans on a thin shaft. Every body is unique and deserving of respect.</li>
+            <li>I took in the diminutive scale of {PAWN_nameShortPossessive} genitals. It's just a part of {PAWN_possessive} body.</li>
+            <li>The modest length and thin shaft. It's a personal detail, not something for judgment.</li>
+            <li>{PAWN_nameShortPossessive} little package, barely there. {PAWN_possessive} comfort is what matters.</li>
+            <li>A very small and delicate looking part. It's simply part of {PAWN_possessive} individual form.</li>
+            <li>The sight of that tiny thing, almost imperceptible. I offer no judgment.</li>
+            <li>Its size is quite humble, a delicate looking piece. It's just a natural variation.</li>
+            <li>The overall scale was miniature, tucked away discreetly. All bodies are valid.</li>
+            <li>It appeared quite small, a common variation. {PAWN_possessive} dignity is paramount.</li>
+            <li>A very compact design, its features are subtle. Everyone deserves kindness.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. It's just who {PAWN_pronoun} is.</li>
+            <li>I saw it; small, nothing grand, but it's {PAWN_possessive} own.</li>
+            <li>A humble offering, its shape was unremarkable. {PAWN_possessive} physical form is {PAWN_possessive} own.</li>
+            <li>The anatomy was minimal, a small head and thin shaft. It's a private matter.</li>
+            <li>I noted its tiny presence, almost blending in. Kindness is key.</li>
+            <li>A brief glimpse, it was quite small. It's not my place to comment.</li>
+            <li>The size was minimal, an unobtrusive part of {PAWN_possessive} body. Nothing to be ashamed of.</li>
+            <li>The foreskin seemed to cover most of it, a minimal protrusion. It's all natural.</li>
+            <li>A small, almost innocent looking member. Everyone deserves to feel comfortable.</li>
+            <li>Its size was quite humble, a delicate looking piece. Respect is important.</li>
+            <li>The shaft was remarkably narrow, leading to a tiny, simple glans. It's simply how {PAWN_pronoun} is made.</li>
+            <li>The overall scale was miniature, tucked away discreetly. {PAWN_possessive} body is {PAWN_possessive} own.</li>
+            <li>It appeared quite small, a typical variation. No need for negativity.</li>
+            <li>A very compact design, its features are subtle. Everyone is unique.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. It's perfectly fine.</li>
+            <li>I saw it; small, nothing grand, but I accept {PAWN_possessive} as {PAWN_pronoun} is.</li>
+        </opinionTexts>
+</Def>
+
+<!-- Prude or prudish person unisex observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_trait_Prude</defName>
+        <label>Micro Penis (Neutral) trait Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} tiny member. It's barely there, how utterly pathetic.</li>
+            <li>{PAWN_nameShortPossessive} anatomy revealed a small shaft. Disgustingly insignificant.</li>
+            <li>Such a tiny form. It's offensive to have to look at something so meager.</li>
+            <li>Observed {PAWN_nameShortPossessive} miniature penis. It's an embarrassment, truly.</li>
+            <li>A small glans on a thin shaft. What a joke of an organ.</li>
+            <li>I took in the diminutive scale of {PAWN_nameShortPossessive} genitals. It’s almost indecently small.</li>
+            <li>The modest length and thin shaft. It's completely underwhelming and repulsive.</li>
+            <li>{PAWN_nameShortPossessive} little package, barely there. Honestly, it's revolting.</li>
+            <li>A very small and delicate looking part. It’s pathetic and an eyesore.</li>
+            <li>The sight of that tiny thing, almost imperceptible. I wish I hadn't seen it.</li>
+            <li>Its size is quite humble, a delicate looking piece. It's frankly offensive.</li>
+            <li>The overall scale was miniature, tucked away discreetly. How shameful.</li>
+            <li>It appeared quite small, a common variation. Disgraceful.</li>
+            <li>A very compact design, its features are subtle. Horribly inadequate.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. What a sorry sight.</li>
+            <li>I saw it; small, nothing grand, and utterly unimpressive.</li>
+            <li>A humble offering, its shape was unremarkable. A true disappointment.</li>
+            <li>The anatomy was minimal, a small head and thin shaft. So utterly uninspiring.</li>
+            <li>I noted its tiny presence, almost blending in. It’s an affront.</li>
+            <li>A brief glimpse, it was quite small. A waste of my time.</li>
+            <li>The size was minimal, an unobtrusive part of {PAWN_possessive} body. It's a travesty.</li>
+            <li>The foreskin seemed to cover most of it, a minimal protrusion. So unappealing.</li>
+            <li>A small, almost innocent looking member. It’s honestly quite sickening.</li>
+            <li>Its size was quite humble, a delicate looking piece. A true abomination.</li>
+            <li>The shaft was remarkably narrow, leading to a tiny, simple glans. Despicable.</li>
+            <li>The overall scale was miniature, tucked away discreetly. I’m disgusted.</li>
+            <li>It appeared quite small, a typical variation. A truly pathetic display.</li>
+            <li>A very compact design, its features are subtle. It’s just dreadful.</li>
+            <li>The testicles appeared quite small, fitting the modest scale. Revolting.</li>
+            <li>I saw it; small, nothing grand, and a complete horror.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with horse penis, may include curiosity and uncomon anatomical opinion and horse penis anatomical structure, like large balls, flat penis head etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_HorsePenis</defName>
+        <label>Micro Penis (Neutral) HorsePenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_equine_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>HorsePenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} horse-like penis. It was small, but with that peculiar flat head.</li>
+            <li>Despite its micro size, the flat, mushroom-like glans of {PAWN_possessive} horse penis was distinct.</li>
+            <li>A tiny equine member, its shaft slender, with unusually large, round balls.</li>
+            <li>The small horse penis had a unique anatomy: a flat, wide tip and surprisingly large testicles.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro horse penis, its smallness was odd with such a distinct shape.</li>
+            <li>Its size was modest, yet the equine glans, flat and broad, was unmistakably present.</li>
+            <li>A miniature horse penis, its shaft thin, but the notable flat head still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured oversized testicles and a characteristically flat glans.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro horse penis, its smallness accentuating the wide, blunt head.</li>
+            <li>The little equine appendage, though tiny, still possessed the distinct flat tip.</li>
+            <li>A surprisingly small horse penis, but the large, low-hanging balls were quite prominent.</li>
+            <li>The small shaft led to an unexpected, broad and flat glans, typical of an equine form.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small horse penis; its unique anatomy was clear despite the size.</li>
+            <li>Even at its tiny scale, the broad, flattened head of the horse penis was evident.</li>
+            <li>The testicles were disproportionately large for such a small horse-like shaft.</li>
+            <li>A curious sight: a micro horse penis with a distinctly flat head and full scrotum.</li>
+            <li>Its humble size didn't hide the flat, spade-like glans of {PAWN_possessive} equine member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic flat glans of a horse penis was unmistakable.</li>
+            <li>The tiny horse penis had a unique, almost spade-shaped head and large, soft balls.</li>
+            <li>A small, yet anatomically distinct horse penis with a prominent, flat tip.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro horse penis. The wide, flat head was unusual.</li>
+            <li>The small equine member had an unexpectedly large set of testicles, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature flat glans of a horse penis was clearly discernible.</li>
+            <li>A very small horse-like anatomy with noticeable, somewhat pendulous large balls.</li>
+            <li>The micro horse penis featured a thin shaft and that distinctive, flat, broad head.</li>
+            <li>Its smallness was odd with such a characteristic glans, flat and rather wide.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny equine penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably large compared to the small shaft and flat head.</li>
+            <li>A small horse penis with a surprising amount of testicular mass below its short shaft.</li>
+            <li>Even in its micro form, the flat-headed anatomy of a horse penis was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with dog penis, may include curiosity and uncomon anatomical opinion and dog penis anatomical structure like knot etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_DogPenis</defName>
+        <label>Micro Penis (Neutral) DogPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_canine_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DogPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} dog-like penis. It was small, but with a noticeable, small knot at the base.</li>
+            <li>Despite its micro size, the distinct knot-like swelling of {PAWN_possessive} dog penis was apparent.</li>
+            <li>A tiny canine member, its shaft slender, with a curious, compact bulbus glandis.</li>
+            <li>The small dog penis had a unique anatomy: a tiny, yet clear, bulbus at its base.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro dog penis, its smallness was odd with such a distinct knot.</li>
+            <li>Its size was modest, yet the canine bulbus glandis was unmistakably present, if small.</li>
+            <li>A miniature dog penis, its shaft thin, but the notable swelling near the base still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured a tiny, yet characteristic, knot.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro dog penis, its smallness accentuating the subtle bulbus glandis.</li>
+            <li>The little canine appendage, though tiny, still possessed the distinct basal swelling.</li>
+            <li>A surprisingly small dog penis, but the noticeable knot gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, bulbus glandis.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small dog penis; its unique knot was clear despite the size.</li>
+            <li>Even at its tiny scale, the bulbus glandis of the dog penis was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its basal swelling.</li>
+            <li>A curious sight: a micro dog penis with a distinctly small, but present, knot.</li>
+            <li>Its humble size didn't hide the small, knot-like structure of {PAWN_possessive} canine member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic bulbus of a dog penis was unmistakable.</li>
+            <li>The tiny dog penis had a unique, almost button-like swelling at its base.</li>
+            <li>A small, yet anatomically distinct dog penis with a prominent, tiny knot.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro dog penis. The tiny knot was unusual.</li>
+            <li>The small canine member had an unexpected, subtle bulbus glandis, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature knot of a dog penis was clearly discernible.</li>
+            <li>A very small dog-like anatomy with a noticeable, miniature bulbus glandis.</li>
+            <li>The micro dog penis featured a thin shaft and that distinctive, small basal knot.</li>
+            <li>Its smallness was odd with such a characteristic swelling, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny canine penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny knot.</li>
+            <li>A small dog penis with a surprising, albeit tiny, bulbus glandis on its short shaft.</li>
+            <li>Even in its micro form, the knot-like anatomy of a dog penis was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with cat penis, may include curiosity and uncomon anatomical opinion and cat penis anatomical structure like spikes on penis.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_CatPenis</defName>
+        <label>Micro Penis (Neutral) CatPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_feline_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>CatPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} cat-like penis. It was small, yet had tiny, rough texture.</li>
+            <li>Despite its micro size, the distinct, almost spiny texture of {PAWN_possessive} cat penis was apparent.</li>
+            <li>A tiny feline member, its shaft slender, with curious, minute barbs.</li>
+            <li>The small cat penis had a unique anatomy: a tiny, yet clear, rasp-like surface.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro cat penis, its smallness was odd with such a distinct texture.</li>
+            <li>Its size was modest, yet the feline spines were unmistakably present, if small.</li>
+            <li>A miniature cat penis, its shaft thin, but the notable rough texture still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured tiny, yet characteristic, barbs.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro cat penis, its smallness accentuating the subtle spicules.</li>
+            <li>The little feline appendage, though tiny, still possessed the distinct surface roughness.</li>
+            <li>A surprisingly small cat penis, but the noticeable texture gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, barbed surface.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small cat penis; its unique texture was clear despite the size.</li>
+            <li>Even at its tiny scale, the spiny surface of the cat penis was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its textured surface.</li>
+            <li>A curious sight: a micro cat penis with a distinctly small, but present, roughened glans.</li>
+            <li>Its humble size didn't hide the tiny, rough texture of {PAWN_possessive} feline member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic barbs of a cat penis were unmistakable.</li>
+            <li>The tiny cat penis had a unique, almost grainy surface.</li>
+            <li>A small, yet anatomically distinct cat penis with a prominent, tiny spiny texture.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro cat penis. The tiny barbs were unusual.</li>
+            <li>The small feline member had an unexpected, subtle rough texture, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature spicules of a cat penis were clearly discernible.</li>
+            <li>A very small cat-like anatomy with a noticeable, miniature textured surface.</li>
+            <li>The micro cat penis featured a thin shaft and that distinctive, small spiny glans.</li>
+            <li>Its smallness was odd with such a characteristic texture, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny feline penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny barbs.</li>
+            <li>A small cat penis with a surprising, albeit tiny, rough patch on its short shaft.</li>
+            <li>Even in its micro form, the textured anatomy of a cat penis was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with demon penis, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_DemonPenis</defName>
+        <label>Micro Penis (Neutral) DemonPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} demonic penis. It was small, yet possessed an unsettling aura.</li>
+            <li>Despite its micro size, the distinct, dark hue of {PAWN_possessive} demon penis was apparent.</li>
+            <li>A tiny infernal member, its shaft slender, with curious, almost shadowy details.</li>
+            <li>The small demon penis had a unique anatomy: a tiny, yet clear, disturbing presence.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro demon penis, its smallness was odd with such a sinister look.</li>
+            <li>Its size was modest, yet the demonic features were unmistakably present, if small.</li>
+            <li>A miniature demon penis, its shaft thin, but the notable unholy feel still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured tiny, yet characteristic, unsettling qualities.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro demon penis, its smallness accentuating the subtle, dark gleam.</li>
+            <li>The little infernal appendage, though tiny, still possessed the distinct aura of corruption.</li>
+            <li>A surprisingly small demon penis, but the noticeable unsettling feel gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, unsettling appearance.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small demon penis; its unique nature was clear despite the size.</li>
+            <li>Even at its tiny scale, the dark, menacing look of the demon penis was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its eerie qualities.</li>
+            <li>A curious sight: a micro demon penis with a distinctly small, but present, malevolent glans.</li>
+            <li>Its humble size didn't hide the tiny, dark essence of {PAWN_possessive} demonic member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic aura of a demon penis was unmistakable.</li>
+            <li>The tiny demon penis had a unique, almost ethereal, yet disturbing presence.</li>
+            <li>A small, yet anatomically distinct demon penis with a prominent, tiny, unsettling tip.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro demon penis. The tiny, dark aspects were unusual.</li>
+            <li>The small infernal member had an unexpected, subtle darkness, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature unsettling features of a demon penis were clearly discernible.</li>
+            <li>A very small demonic anatomy with a noticeable, miniature, yet foreboding appearance.</li>
+            <li>The micro demon penis featured a thin shaft and that distinctive, small, ominous glans.</li>
+            <li>Its smallness was odd with such a characteristic sinister quality, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny infernal penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny, dark details.</li>
+            <li>A small demon penis with a surprising, albeit tiny, malevolent gleam on its short shaft.</li>
+            <li>Even in its micro form, the dark, unsettling anatomy of a demon penis was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with dragon penis, may include curiosity and uncomon anatomical opinion and dragon penis anatomical structure like arrow like head, scales etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_DragonPenis</defName>
+        <label>Micro Penis (Neutral) DragonPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_dragon_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DragonPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} dragon-like penis. It was small, yet possessed tiny, subtle scales.</li>
+            <li>Despite its micro size, the distinct, arrow-like head of {PAWN_possessive} dragon penis was apparent.</li>
+            <li>A tiny draconic member, its shaft slender, with curious, minute, almost crystalline scales.</li>
+            <li>The small dragon penis had a unique anatomy: a tiny, yet clear, pointed glans.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro dragon penis, its smallness was odd with such a distinct head.</li>
+            <li>Its size was modest, yet the draconic features were unmistakably present, if small.</li>
+            <li>A miniature dragon penis, its shaft thin, but the notable scaled texture still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured tiny, yet characteristic, arrow-like qualities.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro dragon penis, its smallness accentuating the subtle, gleaming scales.</li>
+            <li>The little draconic appendage, though tiny, still possessed the distinct pointed tip.</li>
+            <li>A surprisingly small dragon penis, but the noticeable scales gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, arrow-shaped glans.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small dragon penis; its unique anatomy was clear despite the size.</li>
+            <li>Even at its tiny scale, the scaled surface of the dragon penis was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its scaled qualities.</li>
+            <li>A curious sight: a micro dragon penis with a distinctly small, but present, pointed glans.</li>
+            <li>Its humble size didn't hide the tiny, scaly texture of {PAWN_possessive} draconic member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic scales of a dragon penis were unmistakable.</li>
+            <li>The tiny dragon penis had a unique, almost crystalline, yet scaled presence.</li>
+            <li>A small, yet anatomically distinct dragon penis with a prominent, tiny, arrow-like tip.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro dragon penis. The tiny scales were unusual.</li>
+            <li>The small draconic member had an unexpected, subtle iridescence, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature pointed head of a dragon penis was clearly discernible.</li>
+            <li>A very small draconic anatomy with a noticeable, miniature, yet majestic appearance.</li>
+            <li>The micro dragon penis featured a thin shaft and that distinctive, small, scaled glans.</li>
+            <li>Its smallness was odd with such a characteristic scaled quality, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny draconic penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny, scaled details.</li>
+            <li>A small dragon penis with a surprising, albeit tiny, arrow-like glans on its short shaft.</li>
+            <li>Even in its micro form, the scaled, pointed anatomy of a dragon penis was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with Slime Tentacle penis, may include curiosity and uncomon anatomical opinion and slime tentacle penis anatomical structure like its moves on its own, slimy, etc-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_SlimeTentacles</defName>
+        <label>Micro Penis (Neutral) SlimeTentacles</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeTentacles</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} slime tentacle. It was small, yet subtly writhed on its own.</li>
+            <li>Despite its micro size, the distinct, glistening texture of {PAWN_possessive} slime appendage was apparent.</li>
+            <li>A tiny gelatinous member, its shaft slender, with curious, minute, almost fluid movements.</li>
+            <li>The small slime tentacle had a unique anatomy: a tiny, yet clear, slimy appearance.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro slime tentacle, its smallness was odd with such fluid form.</li>
+            <li>Its size was modest, yet the gelatinous movements were unmistakably present, if subtle.</li>
+            <li>A miniature slime tentacle, its shaft thin, but the notable slimy texture still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured tiny, yet characteristic, writhing qualities.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro slime tentacle, its smallness accentuating the subtle, shimmering surface.</li>
+            <li>The little fluid appendage, though tiny, still possessed the distinct ability to undulate.</li>
+            <li>A surprisingly small slime tentacle, but the noticeable movement gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, glistening, squirming form.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small slime tentacle; its unique nature was clear despite the size.</li>
+            <li>Even at its tiny scale, the self-motile nature of the slime tentacle was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its fluid qualities.</li>
+            <li>A curious sight: a micro slime tentacle with a distinctly small, but present, organic movement.</li>
+            <li>Its humble size didn't hide the tiny, slimy, pulsing texture of {PAWN_possessive} gelatinous member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic writhing of a slime tentacle was unmistakable.</li>
+            <li>The tiny slime tentacle had a unique, almost liquid, yet coherent presence.</li>
+            <li>A small, yet anatomically distinct slime tentacle with a prominent, tiny, undulating tip.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro slime tentacle. The tiny movements were unusual.</li>
+            <li>The small fluid member had an unexpected, subtle life of its own, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature self-animated form of a slime tentacle was clearly discernible.</li>
+            <li>A very small gelatinous anatomy with a noticeable, miniature, yet subtly shifting appearance.</li>
+            <li>The micro slime tentacle featured a thin shaft and that distinctive, small, slimy glans.</li>
+            <li>Its smallness was odd with such a characteristic fluid quality, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny gelatinous penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny, self-moving details.</li>
+            <li>A small slime tentacle with a surprising, albeit tiny, organic motion on its short shaft.</li>
+            <li>Even in its micro form, the slimy, self-moving anatomy of a slime tentacle was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with Demon Tentacle penis, may include curiosity and uncomon anatomical opinion and Demon tentacle penis anatomical structure like its moves on its own, creepy, etc-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_DemonTentaclePenis</defName>
+        <label>Micro Penis (Neutral) DemonTentaclePenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_demonicT_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonTentaclePenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} demon tentacle. It was small, yet subtly writhed with an eerie grace.</li>
+            <li>Despite its micro size, the distinct, unsettling texture of {PAWN_possessive} demonic appendage was apparent.</li>
+            <li>A tiny infernal member, its shaft slender, with curious, minute, almost sinister movements.</li>
+            <li>The small demon tentacle had a unique anatomy: a tiny, yet clear, disturbing presence.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro demon tentacle, its smallness was odd with such fluid, malevolent form.</li>
+            <li>Its size was modest, yet the demonic movements were unmistakably present, if subtle and creepy.</li>
+            <li>A miniature demon tentacle, its shaft thin, but the notable eerie texture still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured tiny, yet characteristic, unsettling, writhing qualities.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro demon tentacle, its smallness accentuating the subtle, dark shimmer.</li>
+            <li>The little unholy appendage, though tiny, still possessed the distinct ability to coil and twitch.</li>
+            <li>A surprisingly small demon tentacle, but the noticeable unsettling movement gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, glistening, squirming, ominous form.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small demon tentacle; its unique nature was clear despite the size.</li>
+            <li>Even at its tiny scale, the self-motile, unsettling nature of the demon tentacle was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its dark, creepy qualities.</li>
+            <li>A curious sight: a micro demon tentacle with a distinctly small, but present, malevolent movement.</li>
+            <li>Its humble size didn't hide the tiny, dark, pulsing, sinister texture of {PAWN_possessive} infernal member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic writhing of a demon tentacle was unmistakable.</li>
+            <li>The tiny demon tentacle had a unique, almost ethereal, yet disturbing, self-animated presence.</li>
+            <li>A small, yet anatomically distinct demon tentacle with a prominent, tiny, undulating, unsettling tip.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro demon tentacle. The tiny, insidious movements were unusual.</li>
+            <li>The small infernal member had an unexpected, subtle life of its own, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature self-animated, ominous form of a demon tentacle was clearly discernible.</li>
+            <li>A very small demonic anatomy with a noticeable, miniature, yet subtly shifting, terrifying appearance.</li>
+            <li>The micro demon tentacle featured a thin shaft and that distinctive, small, slimy, unsettling glans.</li>
+            <li>Its smallness was odd with such a characteristic fluid, creepy quality, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny infernal penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny, self-moving, dark details.</li>
+            <li>A small demon tentacle with a surprising, albeit tiny, organic motion on its short shaft, filled with dread.</li>
+            <li>Even in its micro form, the slimy, self-moving, sinister anatomy of a demon tentacle was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with Crocodilian penis, may include curiosity and uncomon anatomical opinion etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_CrocodilianPenis</defName>
+        <label>Micro Penis (Neutral) CrocodilianPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_crocodilian_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>CrocodilianPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} crocodilian penis. It was small, yet had a distinct ridged texture.</li>
+            <li>Despite its micro size, the distinct, almost leathery skin of {PAWN_possessive} crocodilian member was apparent.</li>
+            <li>A tiny reptilian member, its shaft slender, with curious, minute, almost scaly patterns.</li>
+            <li>The small crocodilian penis had a unique anatomy: a tiny, yet clear, ridged appearance.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro crocodilian penis, its smallness was odd with such a distinct texture.</li>
+            <li>Its size was modest, yet the reptilian features were unmistakably present, if small.</li>
+            <li>A miniature crocodilian penis, its shaft thin, but the notable ridged surface still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured tiny, yet characteristic, scaly qualities.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro crocodilian penis, its smallness accentuating the subtle, reptilian sheen.</li>
+            <li>The little scaled appendage, though tiny, still possessed the distinct rough texture.</li>
+            <li>A surprisingly small crocodilian penis, but the noticeable ridges gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, scaled, conical glans.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small crocodilian penis; its unique anatomy was clear despite the size.</li>
+            <li>Even at its tiny scale, the scaly surface of the crocodilian penis was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its reptilian qualities.</li>
+            <li>A curious sight: a micro crocodilian penis with a distinctly small, but present, ridged glans.</li>
+            <li>Its humble size didn't hide the tiny, rough, textured surface of {PAWN_possessive} reptilian member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic scales of a crocodilian penis were unmistakable.</li>
+            <li>The tiny crocodilian penis had a unique, almost armored, yet compact presence.</li>
+            <li>A small, yet anatomically distinct crocodilian penis with a prominent, tiny, scaled tip.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro crocodilian penis. The tiny ridges were unusual.</li>
+            <li>The small reptilian member had an unexpected, subtle hardness, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature scaled head of a crocodilian penis was clearly discernible.</li>
+            <li>A very small crocodilian anatomy with a noticeable, miniature, yet formidable appearance.</li>
+            <li>The micro crocodilian penis featured a thin shaft and that distinctive, small, ridged glans.</li>
+            <li>Its smallness was odd with such a characteristic scaly quality, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny reptilian penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny, scaled details.</li>
+            <li>A small crocodilian penis with a surprising, albeit tiny, conical glans on its short shaft.</li>
+            <li>Even in its micro form, the scaled, ridged anatomy of a crocodilian penis was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with Raccoon penis, may include curiosity and uncomon anatomical opinion etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_RaccoonPenis</defName>
+        <label>Micro Penis (Neutral) RaccoonPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_racoon_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>RaccoonPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} raccoon penis. It was small, yet had a distinct pointed glans.</li>
+            <li>Despite its micro size, the distinct, almost triangular head of {PAWN_possessive} raccoon penis was apparent.</li>
+            <li>A tiny mustelid member, its shaft slender, with a curious, minute, almost conical shape.</li>
+            <li>The small raccoon penis had a unique anatomy: a tiny, yet clear, pointed tip.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro raccoon penis, its smallness was odd with such a distinct head.</li>
+            <li>Its size was modest, yet the characteristic shape was unmistakably present, if small.</li>
+            <li>A miniature raccoon penis, its shaft thin, but the notable pointed glans still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured tiny, yet characteristic, conical qualities.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro raccoon penis, its smallness accentuating the subtle, pointed glans.</li>
+            <li>The little conical appendage, though tiny, still possessed the distinct pointed tip.</li>
+            <li>A surprisingly small raccoon penis, but the noticeable point gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, conical-shaped glans.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small raccoon penis; its unique anatomy was clear despite the size.</li>
+            <li>Even at its tiny scale, the pointed glans of the raccoon penis was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its unique glans.</li>
+            <li>A curious sight: a micro raccoon penis with a distinctly small, but present, pointed tip.</li>
+            <li>Its humble size didn't hide the tiny, conical shape of {PAWN_possessive} mustelid member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic pointed glans of a raccoon penis was unmistakable.</li>
+            <li>The tiny raccoon penis had a unique, almost arrow-like, yet compact presence.</li>
+            <li>A small, yet anatomically distinct raccoon penis with a prominent, tiny, pointed tip.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro raccoon penis. The tiny conical shape was unusual.</li>
+            <li>The small mustelid member had an unexpected, subtle firmness, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature pointed head of a raccoon penis was clearly discernible.</li>
+            <li>A very small raccoon anatomy with a noticeable, miniature, yet distinctive appearance.</li>
+            <li>The micro raccoon penis featured a thin shaft and that distinctive, small, pointed glans.</li>
+            <li>Its smallness was odd with such a characteristic conical quality, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny mustelid penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny, pointed glans.</li>
+            <li>A small raccoon penis with a surprising, albeit tiny, conical glans on its short shaft.</li>
+            <li>Even in its micro form, the pointed, conical anatomy of a raccoon penis was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with reptilian hemi penis, may include curiosity and uncomon anatomical opinion etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_HemiPenis</defName>
+        <label>Micro Penis (Neutral) HemiPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_reptilian_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>HemiPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} hemi-penis. It was small, yet distinctively split at the tip.</li>
+            <li>Despite its micro size, the distinct, bifurcated head of {PAWN_possessive} hemi-penis was apparent.</li>
+            <li>A tiny reptilian member, its shaft slender, with curious, minute, almost double-headed glans.</li>
+            <li>The small hemi-penis had a unique anatomy: a tiny, yet clear, split tip.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro hemi-penis, its smallness was odd with such a distinct division.</li>
+            <li>Its size was modest, yet the bifurcated glans was unmistakably present, if small.</li>
+            <li>A miniature hemi-penis, its shaft thin, but the notable split head still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured tiny, yet characteristic, double-pronged qualities.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro hemi-penis, its smallness accentuating the subtle, divided tip.</li>
+            <li>The little forked appendage, though tiny, still possessed the distinct cleft at its end.</li>
+            <li>A surprisingly small hemi-penis, but the noticeable split gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, forked glans.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small hemi-penis; its unique anatomy was clear despite the size.</li>
+            <li>Even at its tiny scale, the bifurcated head of the hemi-penis was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its divided glans.</li>
+            <li>A curious sight: a micro hemi-penis with a distinctly small, but present, split tip.</li>
+            <li>Its humble size didn't hide the tiny, two-pronged structure of {PAWN_possessive} reptilian member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic bifurcation of a hemi-penis was unmistakable.</li>
+            <li>The tiny hemi-penis had a unique, almost twin-like, yet compact presence.</li>
+            <li>A small, yet anatomically distinct hemi-penis with a prominent, tiny, divided tip.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro hemi-penis. The tiny split was unusual.</li>
+            <li>The small reptilian member had an unexpected, subtle duality, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature split head of a hemi-penis was clearly discernible.</li>
+            <li>A very small reptilian anatomy with a noticeable, miniature, yet distinctive split appearance.</li>
+            <li>The micro hemi-penis featured a thin shaft and that distinctive, small, bifurcated glans.</li>
+            <li>Its smallness was odd with such a characteristic split quality, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny reptilian penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny, split head.</li>
+            <li>A small hemi-penis with a surprising, albeit tiny, divided glans on its short shaft.</li>
+            <li>Even in its micro form, the bifurcated anatomy of a hemi-penis was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with Needle pig penis, may include curiosity and uncomon anatomical opinion etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_NeedlePenis</defName>
+        <label>Micro Penis (Neutral) NeedlePenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_Needle_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>NeedlePenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} needle penis. It was small, yet distinctively sharp and pointed.</li>
+            <li>Despite its micro size, the distinct, almost piercing tip of {PAWN_possessive} needle penis was apparent.</li>
+            <li>A tiny pointed member, its shaft slender, with curious, minute, almost thorn-like texture.</li>
+            <li>The small needle penis had a unique anatomy: a tiny, yet clear, sharp point.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro needle penis, its smallness was odd with such a distinct sharpness.</li>
+            <li>Its size was modest, yet the pointed features were unmistakably present, if small.</li>
+            <li>A miniature needle penis, its shaft thin, but the notable sharp tip still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured tiny, yet characteristic, piercing qualities.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro needle penis, its smallness accentuating the subtle, pointed glans.</li>
+            <li>The little piercing appendage, though tiny, still possessed the distinct sharp end.</li>
+            <li>A surprisingly small needle penis, but the noticeable point gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, sharp, conical glans.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small needle penis; its unique anatomy was clear despite the size.</li>
+            <li>Even at its tiny scale, the sharp tip of the needle penis was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its pointed qualities.</li>
+            <li>A curious sight: a micro needle penis with a distinctly small, but present, piercing glans.</li>
+            <li>Its humble size didn't hide the tiny, sharp, textured surface of {PAWN_possessive} needle member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic sharpness of a needle penis was unmistakable.</li>
+            <li>The tiny needle penis had a unique, almost thorn-like, yet compact presence.</li>
+            <li>A small, yet anatomically distinct needle penis with a prominent, tiny, pointed tip.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro needle penis. The tiny sharpness was unusual.</li>
+            <li>The small piercing member had an unexpected, subtle hardness, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature pointed head of a needle penis was clearly discernible.</li>
+            <li>A very small needle anatomy with a noticeable, miniature, yet formidable appearance.</li>
+            <li>The micro needle penis featured a thin shaft and that distinctive, small, pointed glans.</li>
+            <li>Its smallness was odd with such a characteristic sharp quality, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny pointed penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny, sharp details.</li>
+            <li>A small needle penis with a surprising, albeit tiny, conical glans on its short shaft.</li>
+            <li>Even in its micro form, the sharp, pointed anatomy of a needle penis was undeniably present.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with insect Ovipositor penis, may include curiosity and uncomon anatomical opinion etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Micro_OvipositorM</defName>
+        <label>Micro Penis (Neutral) OvipositorM</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>OvipositorM</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} insect ovipositor. It was small, yet distinctively segmented and tubular.</li>
+            <li>Despite its micro size, the distinct, almost chitinous texture of {PAWN_possessive} ovipositor was apparent.</li>
+            <li>A tiny insectoid member, its shaft slender, with curious, minute, almost telescoping segments.</li>
+            <li>The small ovipositor had a unique anatomy: a tiny, yet clear, segmented appearance.</li>
+            <li>Observing {PAWN_nameShortPossessive} micro ovipositor, its smallness was odd with such a distinct structure.</li>
+            <li>Its size was modest, yet the insectoid features were unmistakably present, if small.</li>
+            <li>A miniature ovipositor, its shaft thin, but the notable segmented body still evident.</li>
+            <li>The small form of {PAWN_nameShortPossessive} anatomy featured tiny, yet characteristic, tubular qualities.</li>
+            <li>I noticed {PAWN_nameShortPossessive} micro ovipositor, its smallness accentuating the subtle, ridged surface.</li>
+            <li>The little segmented appendage, though tiny, still possessed the distinct chitinous feel.</li>
+            <li>A surprisingly small ovipositor, but the noticeable segmentation gave it a unique form.</li>
+            <li>The small shaft led to an unexpected, yet distinct, tubular, segmented glans.</li>
+            <li>I saw {PAWN_nameShortPossessive} very small ovipositor; its unique anatomy was clear despite the size.</li>
+            <li>Even at its tiny scale, the segmented body of the ovipositor was clearly discernible.</li>
+            <li>The testicles were tiny, accompanying such a small shaft with its insectoid qualities.</li>
+            <li>A curious sight: a micro ovipositor with a distinctly small, but present, segmented glans.</li>
+            <li>Its humble size didn't hide the tiny, tubular, textured surface of {PAWN_possessive} insectoid member.</li>
+            <li>The shaft was remarkably thin, yet the characteristic segmentation of an ovipositor was unmistakable.</li>
+            <li>The tiny ovipositor had a unique, almost rigid, yet compact presence.</li>
+            <li>A small, yet anatomically distinct ovipositor with a prominent, tiny, segmented tip.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} peculiar, micro ovipositor. The tiny segments were unusual.</li>
+            <li>The small insectoid member had an unexpected, subtle hardness, contrasting its tiny shaft.</li>
+            <li>Despite its size, the signature segmented head of an ovipositor was clearly discernible.</li>
+            <li>A very small insectoid anatomy with a noticeable, miniature, yet distinctive appearance.</li>
+            <li>The micro ovipositor featured a thin shaft and that distinctive, small, segmented glans.</li>
+            <li>Its smallness was odd with such a characteristic tubular quality, tiny and rather discrete.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny insectoid penis; its unique anatomical details were curious.</li>
+            <li>The testicles were remarkably small compared to the shaft and its tiny, segmented details.</li>
+            <li>A small ovipositor with a surprising, albeit tiny, tubular glans on its short shaft.</li>
+            <li>Even in its micro form, the segmented, tubular anatomy of an ovipositor was undeniably present.</li>
+        </opinionTexts>
+</Def>
+</Defs>

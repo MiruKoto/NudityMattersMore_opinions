@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <!-- Base private part opinion def, dont change it! -->
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" Name="BaseSexPartOpinionDef" Abstract="True">
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0~1</severityRange>
+        <opinionTexts>
+            <li>Its just there, what to say more?</li>
+        </opinionTexts>
+    </Def>
+</Defs>

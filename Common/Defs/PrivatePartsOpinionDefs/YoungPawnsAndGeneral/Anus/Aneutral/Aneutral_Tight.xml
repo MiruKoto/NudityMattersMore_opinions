@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight</defName>
+        <label>Tight Anus (Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>Noticing {PAWN_nameShortPossessive} tight anus, it has a certain firmness, though it doesn’t draw much attention.</li>
+            <li>I observed {PAWN_nameShortPossessive} small anus, slightly closed, with a firm and unyielding appearance.</li>
+			<li>I examined {PAWN_nameShortPossessive} snug opening that was tight and unyielding, with a slight curve.</li>
+			<li>I gazed upon {PAWN_nameShortPossessive} compact anus, with a firm outer ring.</li>
+			<li>I observed {PAWN_nameShortPossessive} petite anus, slightly pursed, with a firm and unyielding texture.</li>
+			<li>I examined {PAWN_nameShortPossessive} small opening that was compact and tight, with a slight protrusion.</li>
+			<li>I gazed upon {PAWN_nameShortPossessive} diminutive anus, with a taut outer ring that was smooth to the touch.</li>
+			<li>I observed {PAWN_nameShortPossessive} tight anus, noticing its compact, rounded shape. The opening was small, but visible, with a clear definition between the anus and the surrounding skin.</li>
+			<li>Upon closer inspection, I saw that {PAWN_nameShortPossessive} tight anus had a prominent ring of muscle, which seemed to be contracted, giving it a slightly pinched appearance.</li>
+			<li>As I looked at it, I noted that {PAWN_nameShortPossessive} tight anus appeared almost like a small, coin-sized dimple, with the skin around it slightly indented.</li>
+			<li>I saw {PAWN_nameShortPossessive} tight anus: a compact, firm entrance, framed by gentle, unwrinkled skin, displaying a small, neatly shaped hole.</li>
+			<li>I scrutinized {PAWN_nameShortPossessive} tight anus: an unyielding, circular ring of smooth, untarnished skin, revealing a restricted, narrow aperture.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} petite, sealed opening, encased in tender, ageless skin, evoking a tantalizing sense of intrigue and challenge.</li>
+            <li>{PAWN_nameShortPossessive} tightly formed anus, barely visible, suggested a pristine, untouched quality, seamlessly blending into the smooth curve of {PAWN_possessive} buttocks.</li>
+            <li>The subtle dimple of {PAWN_nameShortPossessive} tight anus, nestled between firm cheeks, hinted at a remarkably disciplined musculature.</li>
+            <li>A remarkably tight anal opening was noted on {PAWN_nameShortPossessive}, appearing as a small, discreet fold, nearly hidden by the natural contours.</li>
+            <li>{PAWN_nameShortPossessive} firm buttocks framed a tightly closed anus, giving an impression of unspoiled compactness and smooth lines.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its small, defined opening seemed to maintain a constant, unyielding tension.</li>
+            <li>The minimal visibility of {PAWN_nameShortPossessive} anus, due to its tight form, suggested an unyielding, pristine structure.</li>
+            <li>{PAWN_nameShortPossessive} anus appeared very tight, almost a barely perceptible crease, perfectly integrated into the overall neatness of {PAWN_possessive} backside.</li>
+            <li>A notably firm and compact anus on {PAWN_nameShortPossessive}, presenting as a small, taut aperture, indicated a remarkable state of preservation.</li>
+            <li>I couldn't help but notice {PAWN_nameShortPossessive} tightly closed anus, a small, unassuming detail on an otherwise smooth and firm posterior.</li>
+            <li>The tight formation of {PAWN_nameShortPossessive} anus created a subtle, almost invisible seam, enhancing the smooth appearance of {PAWN_possessive} buttocks.</li>
+            <li>{PAWN_nameShortPossessive} anus, being so tight, appeared as a minute, precisely defined opening, suggesting a controlled and firm physique.</li>
+            <li>A slight crease indicated {PAWN_nameShortPossessive} tight anus, discreetly positioned within the well-defined curvature of {PAWN_possessive} gluteal muscles.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks presented a tight, almost concealed anal aperture, conveying an impression of unyielding privacy and inherent discipline.</li>
+            <li>The tight and neat anus on {PAWN_nameShortPossessive} seemed to defy easy observation, a testament to its firm, compact nature.</li>
+            <li>It was clear {PAWN_nameShortPossessive} anus was tight, a small, unyielding opening, seemingly held under perpetual tension.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, its small, firm structure barely visible, presented a picture of disciplined anatomy.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus, taut and small, suggested an unusual degree of firmness and discreetness.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks showcased a tight anus, almost imperceptible, contributing to the overall streamlined and firm body shape.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its narrow aperture and firm circumference indicated a notably compact and well-maintained structure.</li>
+            <li>{PAWN_nameShortPossessive} anus was remarkably tight, a small, unyielding indentation that spoke of a pristine and unmarred physique.</li>
+            <li>The subtle firmness around {PAWN_nameShortPossessive}'s tight anus, almost a seamless part of {PAWN_possessive} posterior, was quite apparent.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, nearly closed, conveyed a sense of untouched integrity and anatomical precision.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, small and firmly puckered, seemed to draw minimal attention, blending naturally with {PAWN_possessive} sleek form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight anus, a small, taut opening, implied a youthful or well-preserved physical state.</li>
+            <li>{PAWN_nameShortPossessive}'s posterior revealed a remarkably tight anus, its small, defined aperture suggesting an unyielding and firm physique.</li>
+            <li>A subtle tightness characterized {PAWN_nameShortPossessive}'s anus, a small, firm opening that contributed to a generally pristine and compact appearance.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a mere line, was discreetly nestled within the smooth, firm curves of {PAWN_possessive} buttocks.</li>
+            <li>The distinct firmness and smallness of {PAWN_nameShortPossessive}'s anus were apparent, an unyielding feature on {PAWN_possessive} otherwise soft form.</li>
+            <li>Upon observation, {PAWN_nameShortPossessive} tight anus showed a uniform, compact structure, giving the impression of an unyielding and well-toned rear.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and almost concealed, projected an air of restrained allure, an anatomical detail of quiet discretion.</li>
+            <li>The unyielding nature of {PAWN_nameShortPossessive}'s tight anus was evident, a small, firm aperture that seemed to maintain its composure.</li>
+        </opinionTexts>
+    
+
+
+	
+</Def>
+
+
+
+<!--Elder Male observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_Elderly_Male_opinion</defName>
+        <label>Tight Anus (Neutral)_Elderly_Male_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, barely visible, reminds me of simpler times and a more modest generation.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm posterior and small anus, it presents a neat and unassuming appearance.</li>
+            <li>The youthful firmness of {PAWN_nameShortPossessive} buttocks frames a tight anus, a sight that evokes a nostalgic sense of propriety.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly positioned, fitting well with {PAWN_possessive} slender, youthful frame.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight anus, a subtle and unpronounced feature on {PAWN_possessive} otherwise soft and undeveloped physique.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost hidden, appears to be a natural part of {PAWN_possessive} youthful, rounded form.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, an unyielding and firm detail on a developing posterior.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} anus, small and firmly closed, reflects a youthful innocence.</li>
+            <li>{PAWN_nameShortPossessive} buttocks, firm and well-formed, present a tight, almost seamless anal aperture.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate anatomical structure.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight anus, a small opening set within an unblemished, smooth posterior.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a mere line, blends into the smooth, youthful curves of {PAWN_possessive} backside.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight anus suggests a body still in its prime, firm and unmarred.</li>
+            <li>A pristine and tight anus on {PAWN_nameShortPossessive}, its appearance speaks of a delicate, unexposed form.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, with its neat, firm outline, contributes to a general sense of youthful integrity.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks and the tight anus suggest a well-preserved, young anatomical structure.</li>
+            <li>{PAWN_nameShortPossessive} anus, small and firmly pursed, presents a discreet and unrevealing aspect.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle curves of {PAWN_possessive} younger frame.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s anus, taut and minimal, evokes a sense of restrained youthfulness.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its unyielding form speaks of an undeveloped and pristine condition.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks present a tight, almost virginal anal aperture, appearing perfectly untouched.</li>
+            <li>The tiny, taut anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior.</li>
+            <li>The tightly formed anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and unassuming, maintains a composed appearance, a sign of youth.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s anus, small and firmly defined, suggests a natural, untouched state.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of youthful modesty.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks and tight anus present a clean, unblemished form, characteristic of a young female.</li>
+            <li>The discreet, tight anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed youthful posterior.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young females butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_Elderly_Male_voyer_opinion</defName>
+        <label>Tight Anus (Neutral)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, ignites a peculiar curiosity within me, a subtle thrill.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a familiar stirring begins, a silent appreciation.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a subtle invitation.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating prospect.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} young posterior.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a certain longing.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting speculation.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid imagination.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s tight anus, a compelling feature that speaks of youth and firmness.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true voyeur's delight.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_Elderly_Female_opinion</defName>
+        <label>Tight Anus (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus is a discreet feature, quite common for someone so young and unblemished.</li>
+            <li>I observe {PAWN_nameShortPossessive} small, firm anus; it appears well-maintained, as one would expect.</li>
+            <li>The compact form of {PAWN_nameShortPossessive} buttocks and tight anus suggests a well-preserved, youthful physique.</li>
+            <li>{PAWN_nameShortPossessive} anus, being tight, presents a neat and unobtrusive appearance, fitting for {PAWN_possessive} age.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, indicating a youthful and unyielding structure, rather typical.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus reflects a lack of experience, a common sight.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly tucked, as is often the case with younger individuals.</li>
+            <li>One can see {PAWN_nameShortPossessive} tight anus, a small, firm opening, suggesting a healthy and firm constitution.</li>
+            <li>The firm outline of {PAWN_nameShortPossessive}'s anus, tight and defined, is characteristic of youthful anatomy.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight anus, a neat feature that blends well with {PAWN_possessive} overall form.</li>
+            <li>I notice {PAWN_nameShortPossessive}'s tight anus, a compact and unyielding detail, common in young females.</li>
+            <li>The tight aperture of {PAWN_nameShortPossessive}'s anus is small, suggesting a natural, unspoiled condition.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a seam, hints at a body not yet fully mature, well-kept.</li>
+            <li>The minimal visibility of {PAWN_nameShortPossessive}'s anus, due to its tightness, is quite normal for {PAWN_possessive} age.</li>
+            <li>A tight and firm anus on {PAWN_nameShortPossessive}, an anatomical detail that suggests youth and vitality.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, compact and unyielding, presents a clean and modest appearance.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is a subtle feature, unremarkable in its firmness.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, well-formed and discreet, as one would find in a young individual.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks showcase a tight anus, a clear sign of youth and firm musculature.</li>
+            <li>The unyielding nature of {PAWN_nameShortPossessive}'s anus, small and taut, is an ordinary aspect of young bodies.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, its small opening and firm structure are quite typical.</li>
+            <li>{PAWN_nameShortPossessive}'s posterior reveals a tight anus, a small, defined feature indicative of youth.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus, neat and unassuming, is what one expects.</li>
+            <li>I note {PAWN_nameShortPossessive}'s tight anus, a firm, small opening that suggests a well-preserved form.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and almost concealed, shows a natural, undeveloped state.</li>
+            <li>The discreetness of {PAWN_nameShortPossessive}'s anus, small and firmly closed, is entirely appropriate.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, blending seamlessly into {PAWN_possessive} smooth buttocks.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, with its precise outline, appears healthy and firm.</li>
+            <li>The firmness of {PAWN_nameShortPossessive}'s anus is apparent, a small, unyielding detail on a youthful figure.</li>
+            <li>Observing {PAWN_nameShortPossessive}'s tight anus, it's a testament to the natural firmness of youth.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young male observes young females butt and anus, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MaleOpinion</defName>
+        <label>Tight Anus (Neutral)_MaleOpinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, barely visible, hints at an untouched mystery, quite intriguing.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm posterior and small anus, a distinct curiosity arises within me.</li>
+            <li>The youthful firmness of {PAWN_nameShortPossessive} buttocks frames a tight anus, a sight that draws my attention.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly positioned, fitting well with {PAWN_possessive} slender, appealing frame.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight anus, a subtle and unpronounced feature on {PAWN_possessive} otherwise soft and alluring physique.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost hidden, appears to be a natural part of {PAWN_possessive} youthful, rounded form, quite captivating.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, an unyielding and firm detail on a developing posterior, a tempting view.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} anus, small and firmly closed, suggests an intriguing purity.</li>
+            <li>{PAWN_nameShortPossessive} buttocks, firm and well-formed, present a tight, almost seamless anal aperture, very appealing.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate anatomical structure, very alluring.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight anus, a small opening set within an unblemished, smooth posterior, an inviting sight.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a mere line, blends into the smooth, youthful curves of {PAWN_possessive} backside, quite inviting.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight anus suggests a body still in its prime, firm and unmarred, very enticing.</li>
+            <li>A pristine and tight anus on {PAWN_nameShortPossessive}, its appearance speaks of a delicate, unexposed form, very desirable.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, with its neat, firm outline, contributes to a general sense of youthful integrity, very appealing.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks and the tight anus suggest a well-preserved, young anatomical structure, quite attractive.</li>
+            <li>{PAWN_nameShortPossessive} anus, small and firmly pursed, presents a discreet and unrevealing aspect, yet so tempting.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle curves of {PAWN_possessive} younger frame, subtly alluring.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s anus, taut and minimal, evokes a sense of restrained youthfulness, quite fascinating.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, very nice.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its unyielding form speaks of an undeveloped and pristine condition, highly captivating.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks present a tight, almost virginal anal aperture, appearing perfectly untouched, very desirable.</li>
+            <li>The tiny, taut anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, incredibly appealing.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, very intriguing.</li>
+            <li>The tightly formed anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, quite stimulating.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and unassuming, maintains a composed appearance, a sign of youth, very alluring.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s anus, small and firmly defined, suggests a natural, untouched state, very inviting.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of youthful modesty, subtly erotic.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks and tight anus present a clean, unblemished form, characteristic of a young female, undeniably attractive.</li>
+            <li>The discreet, tight anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed youthful posterior, quite compelling.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes unisex butt and anus -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Voyeur</defName>
+        <label>Tight Anus (Neutral) trait Voyeur</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost imperceptible, certainly catches my eye, a private fascination.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm posterior and small anus, a silent appreciation for the subtle contours forms.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s buttocks frames a tight anus, a detail that holds my voyeuristic attention.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly positioned, perfectly suited for an unhurried, thoughtful observation.</li>
+            <li>One notes {PAWN_nameShortPossessive} tight anus, a subtle and unpronounced feature on {PAWN_possessive} otherwise smooth and intriguing physique.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost hidden, appears to be a natural part of {PAWN_possessive} form, quite compelling to watch.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, an unyielding and firm detail, quite the silent spectacle.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} anus, small and firmly closed, is a testament to natural form, worthy of prolonged gaze.</li>
+            <li>{PAWN_nameShortPossessive} buttocks, firm and well-formed, present a tight, almost seamless anal aperture, a subtle marvel.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate anatomical structure, inspiring quiet contemplation.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight anus, a small opening set within an unblemished, smooth posterior, an understated beauty.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a mere line, blends into the smooth curves of {PAWN_possessive} backside, quite absorbing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight anus suggests a body in pristine condition, firm and unmarred, a captivating view.</li>
+            <li>A pristine and tight anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed form, a private visual reward.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, with its neat, firm outline, contributes to a general sense of understated integrity, fascinating to witness.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks and the tight anus suggest a well-preserved anatomical structure, an aesthetically pleasing observation.</li>
+            <li>{PAWN_nameShortPossessive} anus, small and firmly pursed, presents a discreet and unrevealing aspect, intensifying its subtle allure.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle contours of {PAWN_possessive} form, a delicate observation.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s anus, taut and minimal, evokes a sense of restrained natural beauty, quite engaging.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, a quiet delight.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its unyielding form speaks of an untouched and pristine condition, quite absorbing.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks present a tight, almost virginal anal aperture, appearing perfectly untouched, a compelling sight.</li>
+            <li>The tiny, taut anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, very intriguing.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, a true visual treat.</li>
+            <li>The tightly formed anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, a satisfying sight.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and unassuming, maintains a composed appearance, a testament to natural design.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s anus, small and firmly defined, suggests a natural, untouched state, a pleasing observation.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of modesty, which is itself interesting.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks and tight anus present a clean, unblemished form, a harmonious visual composition.</li>
+            <li>The discreet, tight anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, yet it draws the eye.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Voyeur_M</defName>
+        <label>Tight Anus (Neutral) trait Voyeur_M</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, ignites a peculiar curiosity within me, a subtle thrill, and a slight stirring.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a familiar stirring begins, a silent appreciation of her youthful form.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a subtle invitation, my interest is piqued.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye, and a warmth spreads.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating prospect, stimulating my thoughts.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe, and I feel a subtle pulse.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight, and my body responds.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} young posterior, stirring my desires.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring, and I feel a distinct pull.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure, my gaze lingers.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a certain longing, and a subtle tension.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle, and my senses heighten.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting speculation, and a warmth spreads through me.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention, and I feel a gentle thrum.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality, and a familiar feeling arises.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual, evoking a private reaction.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within, and a slight anticipation.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel, prompting a subtle response.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point, and my thoughts drift.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid imagination, and a tingling sensation.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences, and a warmth begins.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive, and I feel a subtle quickening.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, a compelling feature that speaks of youth and firmness, sparking a desire.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse, and my gaze deepens.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight, and I feel a pleasant urge.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity, and my blood quickens.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature, and I sense a subtle shift.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem, and a certain tension builds.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening, and a primal urge stirs.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true voyeur's delight, causing a distinct physical reaction.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Voyeur_F</defName>
+        <label>Tight Anus (Neutral) trait Voyeur_F</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, sparks a peculiar interest, a subtle thrill, and a sense of shared femininity.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a familiar stirring begins, a silent appreciation for her untouched form.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a subtle invitation, my own senses heighten.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye, and a curiosity arises.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating prospect, drawing me in.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe, I feel a connection.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight, and a subtle warmth spreads.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} young posterior, sparking a kindred feeling.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring, and I feel a subtle pulse.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure, my gaze lingers, understanding.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a certain longing, a private reflection.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle, and my thoughts drift to possibilities.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting speculation, and a knowing smile forms.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention, and I feel a gentle pull.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality, and a familiar sense of longing arises.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual, evoking a private resonance.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within, and a subtle anticipation.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel, prompting a subtle response from my own body.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point, and my thoughts drift to intimate moments.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid imagination, and a tingling sensation.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences, and a warmth begins.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive, and I feel a subtle quickening of my own.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, a compelling feature that speaks of youth and firmness, sparking a private desire.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse, and my gaze deepens with understanding.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight, and I feel a pleasant urge.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity, and my blood quickens.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature, and I sense a subtle shift within.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem, and a certain tension builds.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening, and a primal urge stirs within me.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true voyeur's delight, causing a distinct physical reaction.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_NMM_Exhibitionist</defName>
+        <label>Tight Anus (Neutral) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, barely visible, confirms the subtlety of such a display, quite demure.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm posterior and small anus, it's a modest presentation, yet still an exhibition.</li>
+            <li>The youthful firmness of {PAWN_nameShortPossessive} buttocks frames a tight anus, a discreet but effective display.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly positioned, fitting well with a subtle unveiling, a quiet show.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight anus, a subtle and unpronounced feature, yet perfectly visible for appreciation.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost hidden, appears to be a natural part of {PAWN_possessive} form, subtly exposed.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, an unyielding and firm detail, perfectly presented for view.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} anus, small and firmly closed, is a demure spectacle, inviting quiet observation.</li>
+            <li>{PAWN_nameShortPossessive} buttocks, firm and well-formed, present a tight, almost seamless anal aperture, tastefully revealed.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate anatomical structure, laid bare.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight anus, a small opening set within an unblemished, smooth posterior, an honest display.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a mere line, blends into the smooth curves of {PAWN_possessive} backside, openly offered.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight anus suggests a body in pristine condition, firm and unmarred, openly shared.</li>
+            <li>A pristine and tight anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed form, now humbly exhibited.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, with its neat, firm outline, contributes to a general sense of understated integrity, openly acknowledged.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks and the tight anus suggest a well-preserved anatomical structure, openly displayed.</li>
+            <li>{PAWN_nameShortPossessive} anus, small and firmly pursed, presents a discreet and unrevealing aspect, yet it is out for all to see.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle contours of {PAWN_possessive} form, intentionally shown.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s anus, taut and minimal, evokes a sense of restrained beauty, openly presented.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, freely exposed.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its unyielding form speaks of an untouched and pristine condition, now revealed.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks present a tight, almost virginal anal aperture, appearing perfectly untouched, openly visible.</li>
+            <li>The tiny, taut anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, now humbly displayed.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, an honest view.</li>
+            <li>The tightly formed anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, openly presented.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and unassuming, maintains a composed appearance, a testament to natural design, now openly on view.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s anus, small and firmly defined, suggests a natural, untouched state, freely offered for observation.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of modesty, which is itself part of the exhibition.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks and tight anus present a clean, unblemished form, a harmonious visual composition, openly shared.</li>
+            <li>The discreet, tight anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, yet it is presented for appreciation.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young females butt and anus, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_NMM_Exhibitionist_male</defName>
+        <label>Tight Anus (Neutral) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, barely visible, confirms the subtlety of her display; perhaps I should reciprocate.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm posterior and small anus, it's a modest presentation, yet still an exhibition for my appreciative eyes.</li>
+            <li>The youthful firmness of {PAWN_nameShortPossessive} buttocks frames a tight anus, a discreet but effective display, perhaps inspiring my own.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly positioned, fitting well with a subtle unveiling, a quiet show for me.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight anus, a subtle and unpronounced feature, yet perfectly visible for my appreciation, and my blood stirs.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost hidden, appears to be a natural part of {PAWN_possessive} form, subtly exposed, prompting a similar urge within me.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, an unyielding and firm detail, perfectly presented for my view.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} anus, small and firmly closed, is a demure spectacle, inviting my quiet observation, and I feel a subtle rise.</li>
+            <li>{PAWN_nameShortPossessive} buttocks, firm and well-formed, present a tight, almost seamless anal aperture, tastefully revealed for my gaze.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate anatomical structure, laid bare for me.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight anus, a small opening set within an unblemished, smooth posterior, an honest display for my viewing pleasure.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a mere line, blends into the smooth curves of {PAWN_possessive} backside, openly offered for my admiration.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight anus suggests a body in pristine condition, firm and unmarred, openly shared with me.</li>
+            <li>A pristine and tight anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed form, now humbly exhibited for me.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, with its neat, firm outline, contributes to a general sense of understated integrity, openly acknowledged by me.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks and the tight anus suggest a well-preserved anatomical structure, openly displayed for my enjoyment.</li>
+            <li>{PAWN_nameShortPossessive} anus, small and firmly pursed, presents a discreet and unrevealing aspect, yet it is out for me to see, and I feel a thrill.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle contours of {PAWN_possessive} form, intentionally shown for me.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s anus, taut and minimal, evokes a sense of restrained beauty, openly presented for my eyes.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, freely exposed to me.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its unyielding form speaks of an untouched and pristine condition, now revealed for my contemplation.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks present a tight, almost virginal anal aperture, appearing perfectly untouched, openly visible to me.</li>
+            <li>The tiny, taut anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, now humbly displayed for my pleasure.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, an honest view for me.</li>
+            <li>The tightly formed anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, openly presented for my gaze.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and unassuming, maintains a composed appearance, a testament to natural design, now openly on view for me.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s anus, small and firmly defined, suggests a natural, untouched state, freely offered for my observation.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of modesty, which is itself part of the exhibition for me.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks and tight anus present a clean, unblemished form, a harmonious visual composition, openly shared with me.</li>
+            <li>The discreet, tight anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, yet it is presented for my appreciation, and I feel a distinct warmth.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young females butt and anus, can include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_NMM_Exhibitionist_Female</defName>
+        <label>Tight Anus (Neutral) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, barely visible, confirms the subtlety of her display; a knowing nod passes between us.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm posterior and small anus, it's a modest presentation, yet still an exhibition, I understand her intent.</li>
+            <li>The youthful firmness of {PAWN_nameShortPossessive} buttocks frames a tight anus, a discreet but effective display, I feel a kinship.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly positioned, fitting well with a subtle unveiling, a quiet show for us.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight anus, a subtle and unpronounced feature, yet perfectly visible for our shared appreciation.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost hidden, appears to be a natural part of {PAWN_possessive} form, subtly exposed, a common understanding.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, an unyielding and firm detail, perfectly presented for our view.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} anus, small and firmly closed, is a demure spectacle, inviting quiet observation, a shared pleasure.</li>
+            <li>{PAWN_nameShortPossessive} buttocks, firm and well-formed, present a tight, almost seamless anal aperture, tastefully revealed to us.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate anatomical structure, laid bare for our mutual appreciation.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight anus, a small opening set within an unblemished, smooth posterior, an honest display we both enjoy.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a mere line, blends into the smooth curves of {PAWN_possessive} backside, openly offered for our admiration.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight anus suggests a body in pristine condition, firm and unmarred, openly shared between us.</li>
+            <li>A pristine and tight anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed form, now humbly exhibited for us.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, with its neat, firm outline, contributes to a general sense of understated integrity, openly acknowledged by both.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks and the tight anus suggest a well-preserved anatomical structure, openly displayed for our enjoyment.</li>
+            <li>{PAWN_nameShortPossessive} anus, small and firmly pursed, presents a discreet and unrevealing aspect, yet it is out for all to see, a common bond.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle contours of {PAWN_possessive} form, intentionally shown for our eyes.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s anus, taut and minimal, evokes a sense of restrained beauty, openly presented for our shared gaze.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, freely exposed for us.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its unyielding form speaks of an untouched and pristine condition, now revealed for our mutual contemplation.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks present a tight, almost virginal anal aperture, appearing perfectly untouched, openly visible to both of us.</li>
+            <li>The tiny, taut anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, now humbly displayed for our pleasure.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, an honest view for us.</li>
+            <li>The tightly formed anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, openly presented for our gaze.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and unassuming, maintains a composed appearance, a testament to natural design, now openly on view for both of us.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s anus, small and firmly defined, suggests a natural, untouched state, freely offered for our observation.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of modesty, which is itself part of the exhibition for us.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks and tight anus present a clean, unblemished form, a harmonious visual composition, openly shared with us.</li>
+            <li>The discreet, tight anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, yet it is presented for our appreciation, and I feel a subtle warmth.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Nymphomaniac</defName>
+        <label>Tight Anus (Neutral) trait Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, ignites a fierce, primal desire within me, a deep longing.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a powerful stirring begins, a silent, urgent appreciation.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a raw, undeniable invitation.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye, demanding attention.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating, irresistible prospect.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe, my body throbs.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight, urging me closer.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} posterior, igniting a powerful hunger.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring, intensifying my arousal.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure, my desire burns.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a fervent longing, a desperate need.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle, and I crave it.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting urgent speculation, a consuming passion.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention, quickening my pulse.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality, sparking an intense carnal urge.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual, evoking a powerful, immediate reaction.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within, an unquenchable thirst.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel, prompting an undeniable physical response.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point, and my thoughts race with possibility.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid, unbridled imagination, a burning sensation.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences, and an intense arousal begins.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive, and I feel a powerful quickening.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, a compelling feature that speaks of youth and firmness, sparking a relentless desire.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse, and my gaze burns deeper.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight, and I feel an overwhelming urge.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity, and my blood quickens with fervor.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature, and I sense a powerful, immediate shift.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem, and a consuming tension builds within me.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening, and a primal, insistent urge stirs.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true nymphomaniac's delight, causing an overwhelming physical reaction.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Nymphomaniac_male</defName>
+        <label>Tight Anus (Neutral) trait Nymphomaniac_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, ignites a fierce, primal desire within me, my cock stirs relentlessly.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a powerful stirring begins, a silent, urgent appreciation, and my shaft hardens.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a raw, undeniable invitation, causing my groin to ache.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye, demanding attention, and I feel a fierce erection.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating, irresistible prospect, filling me with lust.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe, my body throbs, my member swells.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight, urging me closer, my erection undeniable.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} posterior, igniting a powerful hunger, my cock pulses.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring, intensifying my arousal and the throbbing between my legs.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure, my desire burns, making my cock strain.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a fervent longing, a desperate need, as my balls tighten.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle, and I crave it, my member twitching.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting urgent speculation, a consuming passion, my erection complete.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention, quickening my pulse, and I feel my own readiness.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality, sparking an intense carnal urge, making my cock ache.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual, evoking a powerful, immediate reaction, a fierce hardening.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within, an unquenchable thirst, and my shaft aches.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel, prompting an undeniable physical response in my groin.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point, and my thoughts race with possibility, my cock ready.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid, unbridled imagination, a burning sensation in my loins.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences, and an intense arousal begins, my member swelling fully.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive, and I feel a powerful quickening, my cock throbbing.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, a compelling feature that speaks of youth and firmness, sparking a relentless desire, causing my cock to strain.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse, and my gaze burns deeper, my erection pressing.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight, and I feel an overwhelming urge, my cock hot.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity, and my blood quickens with fervor, making my cock rigid.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature, and I sense a powerful, immediate shift, my groin tightening.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem, and a consuming tension builds within me, my cock begging.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening, and a primal, insistent urge stirs, my member pulsing.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true nymphomaniac's delight, causing an overwhelming physical reaction in my loins.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Nymphomaniac_Female</defName>
+        <label>Tight Anus (Neutral) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, ignites a fierce, primal desire within me, my own core pulsing in response.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a powerful stirring begins, a silent, urgent appreciation, and a warmth spreads within my loins.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a raw, undeniable invitation, causing my own wetness.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye, demanding attention, and I feel a fierce throb.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating, irresistible prospect, filling me with lust, my clit tingling.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe, my body throbs, and my core aches.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight, urging me closer, my desire undeniable.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} posterior, igniting a powerful hunger, my lower belly tightening.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring, intensifying my arousal and the wetness between my legs.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure, my desire burns, making my inner thighs tremble.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a fervent longing, a desperate need, as my breasts swell.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle, and I crave it, my core clenching.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting urgent speculation, a consuming passion, my entire body humming.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention, quickening my pulse, and I feel my own readiness.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality, sparking an intense carnal urge, making my core ache.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual, evoking a powerful, immediate reaction, a fierce heat.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within, an unquenchable thirst, and my body tingles with anticipation.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel, prompting an undeniable physical response in my own groin.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point, and my thoughts race with possibility, my body yielding.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid, unbridled imagination, a burning sensation deep inside.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences, and an intense arousal begins, my core swelling fully.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive, and I feel a powerful quickening, my desire throbbing.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, a compelling feature that speaks of youth and firmness, sparking a relentless desire, causing my core to strain.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse, and my gaze burns deeper, my own hunger pressing.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight, and I feel an overwhelming urge, my heat rising.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity, and my blood quickens with fervor, making my core rigid.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature, and I sense a powerful, immediate shift, my desire tightening.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem, and a consuming tension builds within me, my body begging.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening, and a primal, insistent urge stirs within me.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true nymphomaniac's delight, causing an overwhelming physical reaction in my own loins.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Kind</defName>
+        <label>Tight Anus (Neutral) trait Kind</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, barely visible, appears well-cared for, a testament to {PAWN_possessive} overall neatness.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm posterior and small anus, it presents a modest and tidy appearance.</li>
+            <li>The gentle firmness of {PAWN_nameShortPossessive} buttocks frames a tight anus, a discreet and unpretentious detail.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly positioned, blending harmoniously with {PAWN_possessive} natural form.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight anus, a subtle and unpronounced feature on {PAWN_possessive} otherwise well-kept physique.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost hidden, appears to be a natural and unassuming part of {PAWN_possessive} body.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, an unyielding and firm detail, suggesting a healthy constitution.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} anus, small and firmly closed, reflects a pristine and cared-for state.</li>
+            <li>{PAWN_nameShortPossessive} buttocks, firm and well-formed, present a tight, almost seamless anal aperture, a clean sight.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate and modest anatomical structure.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight anus, a small opening set within an unblemished, smooth posterior, simply natural.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a mere line, blends into the smooth, gentle curves of {PAWN_possessive} backside.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight anus suggests a body in pristine condition, firm and unmarred, well-maintained.</li>
+            <li>A pristine and tight anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed form, preserved and discreet.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, with its neat, firm outline, contributes to a general sense of understated integrity.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks and the tight anus suggest a well-preserved anatomical structure, wholesome and unassuming.</li>
+            <li>{PAWN_nameShortPossessive} anus, small and firmly pursed, presents a discreet and unrevealing aspect, quietly proper.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle contours of {PAWN_possessive} form, gracefully understated.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s anus, taut and minimal, evokes a sense of natural and unspoiled beauty.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, serenely modest.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its unyielding form speaks of an untouched and pristine condition, quite fitting.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks present a tight, almost virginal anal aperture, appearing perfectly untouched, a picture of natural modesty.</li>
+            <li>The tiny, taut anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, very proper.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, an unassuming sight.</li>
+            <li>The tightly formed anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, a natural condition.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and unassuming, maintains a composed appearance, a testament to natural design and care.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s anus, small and firmly defined, suggests a natural, untouched state, gently observed.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of quiet modesty.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks and tight anus present a clean, unblemished form, a harmonious visual composition, naturally appealing.</li>
+            <li>The discreet, tight anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, simply as it should be.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Prude</defName>
+        <label>Tight Anus (Neutral) trait Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, barely visible, is still there, an unseemly display.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm posterior and small anus, it's an inappropriate sight, frankly, too exposed.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks frames a tight anus, a needlessly public anatomical detail.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly positioned, but that doesn't excuse such a crude exhibition.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight anus, a subtle and unpronounced feature that should remain entirely private.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost hidden, appears to be a natural part of {PAWN_possessive} form, yet still improper.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, an unyielding and firm detail, which I certainly did not wish to see.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} anus, small and firmly closed, is still far too revealing.</li>
+            <li>{PAWN_nameShortPossessive} buttocks, firm and well-formed, present a tight, almost seamless anal aperture, much too bold.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate anatomical structure, but it's still crude.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight anus, a small opening set within an unblemished, smooth posterior, an unpleasant sight.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a mere line, blends into the smooth curves of {PAWN_possessive} backside, shamefully visible.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight anus suggests a body in pristine condition, firm and unmarred, but it's utterly distasteful.</li>
+            <li>A pristine and tight anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed form, now disgracefully revealed.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, with its neat, firm outline, contributes to a general sense of understated integrity, yet it's still an outrage.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks and the tight anus suggest a well-preserved anatomical structure, too openly displayed.</li>
+            <li>{PAWN_nameShortPossessive} anus, small and firmly pursed, presents a discreet and unrevealing aspect, but its presence is still offensive.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle contours of {PAWN_possessive} form, shamefully uncovered.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s anus, taut and minimal, evokes a sense of restrained beauty, but it shouldn't be seen.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, yet it is utterly improper.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its unyielding form speaks of an untouched and pristine condition, now inappropriately exposed.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks present a tight, almost virginal anal aperture, appearing perfectly untouched, yet it's still an affront.</li>
+            <li>The tiny, taut anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, but it's a shocking display.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, a disgraceful sight.</li>
+            <li>The tightly formed anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, yet it's still too much.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and unassuming, maintains a composed appearance, a testament to natural design, yet it's a vulgar exposure.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s anus, small and firmly defined, suggests a natural, untouched state, but it is utterly indecent.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of modesty, but it's still objectionable.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks and tight anus present a clean, unblemished form, a harmonious visual composition, but it's still too much to bear.</li>
+            <li>The discreet, tight anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, yet it is presented inappropriately.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Elder Male observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_Elderly_Male_opinion_Male</defName>
+        <label>Tight Anus (Neutral)_Elderly_Male_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, barely visible, indicates a robust physique, common for a healthy male.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm posterior and small anus, it presents a neat and unassuming appearance, nothing unusual.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks frames a tight anus, a discreet detail on a well-built body.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly positioned, fitting well with {PAWN_possessive} sturdy, masculine frame.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight anus, a subtle and unpronounced feature on {PAWN_possessive} otherwise strong physique.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost hidden, appears to be a natural part of {PAWN_possessive} masculine form.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, an unyielding and firm detail on a well-developed posterior.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} anus, small and firmly closed, reflects a powerful and well-maintained physique.</li>
+            <li>{PAWN_nameShortPossessive} buttocks, firm and well-formed, present a tight, almost seamless anal aperture, a solid form.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a strong and disciplined anatomical structure.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight anus, a small opening set within an unblemished, smooth posterior, a common sight.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a mere line, blends into the smooth, muscular curves of {PAWN_possessive} backside.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight anus suggests a body in pristine condition, firm and unmarred, a sign of health.</li>
+            <li>A pristine and tight anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed form, preserved and strong.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, with its neat, firm outline, contributes to a general sense of understated masculinity.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks and the tight anus suggest a well-preserved anatomical structure, robust and ordinary.</li>
+            <li>{PAWN_nameShortPossessive} anus, small and firmly pursed, presents a discreet and unrevealing aspect, quietly functional.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle contours of {PAWN_possessive} sturdy frame.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s anus, taut and minimal, evokes a sense of natural strength and integrity.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, rugged and simple.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its unyielding form speaks of an untouched and pristine condition, quite normal.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks present a tight, almost natural anal aperture, appearing perfectly unexposed, a picture of natural form.</li>
+            <li>The tiny, taut anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, very standard.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, an unassuming sight.</li>
+            <li>The tightly formed anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, a natural male attribute.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and unassuming, maintains a composed appearance, a testament to natural design and fitness.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s anus, small and firmly defined, suggests a natural, untouched state, observed without particular interest.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of subtle masculine form.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks and tight anus present a clean, unblemished form, a harmonious visual composition, entirely normal.</li>
+            <li>The discreet, tight anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, simply as it is.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes males butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_Elderly_Male_voyer_opinion_Male</defName>
+        <label>Tight Anus (Neutral)_Elderly_Male_voyer_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, ignites a peculiar curiosity within me, a subtle thrill, and a stirring in my loins.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a familiar stirring begins, a silent appreciation for his youthful form, and my cock stiffens.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a subtle invitation, and I feel a warmth spread.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye, and a distinct throb begins.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating prospect, stimulating my thoughts and my erection.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe, and my body throbs with anticipation.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight, urging me closer, my member swelling.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} young posterior, igniting a powerful hunger within.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring, intensifying my arousal and the hardening in my groin.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure, my desire burns, making my cock ache.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a fervent longing, a desperate need for his firm entrance.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle, and I crave it, my own flesh responding.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting urgent speculation, a consuming passion, my erection complete.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention, quickening my pulse, and I feel my own readiness.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality, sparking an intense carnal urge, making my cock throb.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual, evoking a powerful, immediate reaction in my nether regions.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within, an unquenchable thirst for his tight form.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel, prompting an undeniable physical response in my groin.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point, and my thoughts race with possibility, my cock ready.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid, unbridled imagination, a burning sensation in my loins.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences, and an intense arousal begins, my member swelling fully.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive, and I feel a powerful quickening, my cock pulsing.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, a compelling feature that speaks of youth and firmness, sparking a relentless desire, causing my cock to strain.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse, and my gaze burns deeper, my erection pressing.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight, and I feel an overwhelming urge, my cock hot.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity, and my blood quickens with fervor, making my cock rigid.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature, and I sense a powerful, immediate shift, my groin tightening.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem, and a consuming tension builds within me, my cock begging.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening, and a primal, insistent urge stirs, my member pulsing.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true voyeur's delight, causing an overwhelming physical reaction in my loins.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_Elderly_Female_opinion_Male</defName>
+        <label>Tight Anus (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus is a discreet feature, quite common for a male of his build.</li>
+            <li>I observe {PAWN_nameShortPossessive} small, firm anus; it appears well-maintained, as one would expect from a healthy individual.</li>
+            <li>The compact form of {PAWN_nameShortPossessive} buttocks and tight anus suggests a well-preserved, robust physique.</li>
+            <li>{PAWN_nameShortPossessive} anus, being tight, presents a neat and unobtrusive appearance, fitting for {PAWN_possessive} strength.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, indicating a strong and unyielding structure, rather typical for a man.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus reflects a lack of excessive strain, a common sight.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly tucked, as is often the case with physically fit individuals.</li>
+            <li>One can see {PAWN_nameShortPossessive} tight anus, a small, firm opening, suggesting a healthy and firm constitution.</li>
+            <li>The firm outline of {PAWN_nameShortPossessive}'s anus, tight and defined, is characteristic of a masculine anatomy.</li>
+            <li>{PAWN_nameShortPossessive} buttocks frame a tight anus, a neat feature that blends well with {PAWN_possessive} overall form.</li>
+            <li>I notice {PAWN_nameShortPossessive}'s tight anus, a compact and unyielding detail, common in men of good health.</li>
+            <li>The tight aperture of {PAWN_nameShortPossessive}'s anus is small, suggesting a natural, unspoiled condition.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a seam, hints at a body not yet showing significant wear, well-kept.</li>
+            <li>The minimal visibility of {PAWN_nameShortPossessive}'s anus, due to its tightness, is quite normal for a man of {PAWN_possessive} age.</li>
+            <li>A tight and firm anus on {PAWN_nameShortPossessive}, an anatomical detail that suggests strength and vitality.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, compact and unyielding, presents a clean and modest appearance.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is a subtle feature, unremarkable in its firmness.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, well-formed and discreet, as one would find in a strong individual.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks showcase a tight anus, a clear sign of strength and firm musculature.</li>
+            <li>The unyielding nature of {PAWN_nameShortPossessive}'s anus, small and taut, is an ordinary aspect of male bodies.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, its small opening and firm structure are quite typical.</li>
+            <li>{PAWN_nameShortPossessive}'s posterior reveals a tight anus, a small, defined feature indicative of health.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus, neat and unassuming, is what one expects from a man.</li>
+            <li>I note {PAWN_nameShortPossessive}'s tight anus, a firm, small opening that suggests a well-preserved form.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and almost concealed, shows a natural, undeveloped state of wear.</li>
+            <li>The discreetness of {PAWN_nameShortPossessive}'s anus, small and firmly closed, is entirely appropriate.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, blending seamlessly into {PAWN_possessive} smooth, firm buttocks.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, with its precise outline, appears healthy and robust.</li>
+            <li>The firmness of {PAWN_nameShortPossessive}'s anus is apparent, a small, unyielding detail on a masculine figure.</li>
+            <li>Observing {PAWN_nameShortPossessive}'s tight anus, it's a testament to the natural firmness of a strong man.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male observes males butt and anus, more based on solidarity-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MaleOpinion_Male</defName>
+        <label>Tight Anus (Neutral)_MaleOpinion_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, barely visible, suggests a well-kept physique, a sign of personal discipline.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm posterior and small anus, it presents a neat and unassuming appearance, as one would expect.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks frames a tight anus, a discreet detail on a strong, masculine body.</li>
+            <li>{PAWN_nameShortPossessive} small, tight anus is discreetly positioned, fitting well with {PAWN_possessive} sturdy frame, a common sight.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight anus, a subtle and unpronounced feature on {PAWN_possessive} otherwise well-built physique.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost hidden, appears to be a natural part of {PAWN_possessive} masculine form, nothing unusual.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, an unyielding and firm detail on a developed posterior, quite normal.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} anus, small and firmly closed, reflects a disciplined and well-maintained physique.</li>
+            <li>{PAWN_nameShortPossessive} buttocks, firm and well-formed, present a tight, almost seamless anal aperture, a solid construction.</li>
+            <li>The small, tight anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a strong and fit anatomical structure.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight anus, a small opening set within an unblemished, smooth posterior, just as expected.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, almost a mere line, blends into the smooth, muscular curves of {PAWN_possessive} backside.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight anus suggests a body in pristine condition, firm and unmarred, a sign of good health.</li>
+            <li>A pristine and tight anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed form, preserved and resilient.</li>
+            <li>{PAWN_nameShortPossessive} tight anus, with its neat, firm outline, contributes to a general sense of understated masculine strength.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} buttocks and the tight anus suggest a well-preserved anatomical structure, robust and reliable.</li>
+            <li>{PAWN_nameShortPossessive} anus, small and firmly pursed, presents a discreet and unrevealing aspect, quietly efficient.</li>
+            <li>A tight anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle contours of {PAWN_possessive} sturdy frame, a solid build.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s anus, taut and minimal, evokes a sense of natural strength and proper form.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, rugged and simple.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight anus, its unyielding form speaks of an untouched and pristine condition, quite typical for a male.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks present a tight, almost natural anal aperture, appearing perfectly unexposed, a picture of natural form.</li>
+            <li>The tiny, taut anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, very standard.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, an unassuming sight.</li>
+            <li>The tightly formed anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, a natural male attribute.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, tight and unassuming, maintains a composed appearance, a testament to natural design and fitness.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s anus, small and firmly defined, suggests a natural, untouched state, observed without particular interest.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of subtle masculine form.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks and tight anus present a clean, unblemished form, a harmonious visual composition, entirely normal.</li>
+            <li>The discreet, tight anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, simply as it is, a common male attribute.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer male observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Voyeur_Male_to_Male</defName>
+        <label>Tight Anus (Neutral) trait Voyeur_Male_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, ignites a peculiar curiosity within me, a subtle thrill. My gaze lingers.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a familiar stirring begins, a silent appreciation for his form.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a subtle invitation. My interest is piqued.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye. I feel a subtle warmth.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating prospect. My thoughts drift.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe. A faint pulse quickens.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight. My senses sharpen.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} posterior. A deep fascination takes hold.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring. A quiet tension builds within me.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure. My anticipation grows.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a certain longing. It's truly a sight.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle. I find myself lost in thought.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting speculation. A curious warmth spreads through my body.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention. My gaze is fixed.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality. A subtle longing awakens.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual. It's quite an appealing sight.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within. A quiet appreciation forms.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel. My mind conjures images.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point. It draws my eye.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid imagination. A shiver runs down my spine.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences. I feel a subtle pull.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive. A quiet sigh escapes me.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, a compelling feature that speaks of youth and firmness. My curiosity is satisfied.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse. I could stare for hours.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight. It's quite captivating.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity. My imagination runs wild.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature. A subtle longing.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem. It holds a strange power.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening. It's a true masterpiece.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true voyeur's delight. I want to see more.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Voyeur_Female_to_Male</defName>
+        <label>Tight Anus (Neutral) trait Voyeur_Female_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, ignites a peculiar curiosity within me, a subtle thrill, and a warmth in my core.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a familiar stirring begins, a silent appreciation for his masculine form.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a subtle invitation, and I feel a subtle pulse.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye, and a curious anticipation rises.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating prospect, drawing me in further.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe, and a quiet longing stirs.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight, and my senses heighten subtly.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} posterior, igniting a quiet fascination.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring, intensifying my discreet observation.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure, my gaze lingers, appreciating the detail.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a certain longing, a private thought.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle, and my thoughts drift.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting speculation, and a warmth spreads gently through me.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention, quickening my inner pulse.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality, sparking a subtle desire.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual, evoking a quiet, private reaction.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within, an unquenchable thirst for the view.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel, prompting a subtle physical response.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point, and my thoughts race with possibilities.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid, unbridled imagination, a tingling sensation.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences, and an intense fascination begins.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive, and I feel a powerful, subtle quickening.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, a compelling feature that speaks of youth and firmness, sparking a relentless, quiet desire.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse, and my gaze burns deeper.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight, and I feel an overwhelming, silent urge.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity, and my blood quickens with a gentle fervor.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature, and I sense a powerful, immediate, subtle shift within.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem, and a consuming tension builds within me.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening, and a primal, insistent urge stirs.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true voyeur's delight, causing an overwhelming physical reaction.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Nymphomaniac_male_to_male</defName>
+        <label>Tight Anus (Neutral) trait Nymphomaniac_male_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+				
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, ignites a fierce, primal desire within me, my cock stirring relentlessly.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a powerful stirring begins, a silent, urgent appreciation, and my shaft hardens with desire.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a raw, undeniable invitation, causing my groin to ache for him.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye, demanding attention, and I feel a fierce erection.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating, irresistible prospect, filling me with lust for his form.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe, my body throbs, my member swells for him.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight, urging me closer, my erection undeniable for him.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} posterior, igniting a powerful hunger, my cock pulses for him.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring, intensifying my arousal and the throbbing between my legs for him.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure, my desire burns, making my cock strain for him.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a fervent longing, a desperate need, as my balls tighten for him.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle, and I crave it, my member twitching for him.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting urgent speculation, a consuming passion, my erection complete for him.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention, quickening my pulse, and I feel my own readiness for him.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality, sparking an intense carnal urge, making my cock ache for him.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual, evoking a powerful, immediate reaction, a fierce hardening for him.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within, an unquenchable thirst, and my shaft aches for him.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel, prompting an undeniable physical response in my groin for him.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point, and my thoughts race with possibility, my cock ready for him.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid, unbridled imagination, a burning sensation in my loins for him.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences, and an intense arousal begins, my member swelling fully for him.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive, and I feel a powerful quickening, my cock throbbing for him.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, a compelling feature that speaks of youth and firmness, sparking a relentless desire, causing my cock to strain for him.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse, and my gaze burns deeper, my erection pressing for him.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight, and I feel an overwhelming urge, my cock hot for him.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity, and my blood quickens with fervor, making my cock rigid for him.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature, and I sense a powerful, immediate shift, my groin tightening for him.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem, and a consuming tension builds within me, my cock begging for him.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening, and a primal, insistent urge stirs, my member pulsing for him.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true nymphomaniac's delight, causing an overwhelming physical reaction in my loins for him.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_trait_Nymphomaniac_Female_to_male</defName>
+        <label>Tight Anus (Neutral) trait Nymphomaniac_Female_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, almost sealed, ignites a fierce, primal desire within me, my own core pulsing in response.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} small, firm anus, a powerful stirring begins, a silent, urgent appreciation, and a warmth spreads within my loins for him.</li>
+            <li>That tight little pucker on {PAWN_nameShortPossessive}'s backside is quite the sight, a raw, undeniable invitation, causing my own wetness to deepen.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} anus is certainly noticeable; it catches the eye, demanding attention, and I feel a fierce throb for his form.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost hidden, hints at untapped potential, a fascinating, irresistible prospect, filling me with lust, my clit tingling for him.</li>
+            <li>A very tight anus on {PAWN_nameShortPossessive}, suggesting unexplored depths, quite intriguing to observe, my body throbs, and my core aches for him.</li>
+            <li>The compact appearance of {PAWN_nameShortPossessive}'s anus is rather captivating, a private, tempting sight, urging me closer, my desire undeniable for him.</li>
+            <li>I observe {PAWN_nameShortPossessive}'s small, firm anus, a rather compelling feature on {PAWN_possessive} posterior, igniting a powerful hunger, my lower belly tightening for him.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, so well-defined, certainly piques one's interest, subtly alluring, intensifying my arousal and the wetness between my legs.</li>
+            <li>The tight, unyielding anus on {PAWN_nameShortPossessive} offers a tempting challenge, a hidden treasure, my desire burns, making my inner thighs tremble for him.</li>
+            <li>A pristine, tight anus on {PAWN_nameShortPossessive}, an almost untouched canvas, stirs a fervent longing, a desperate need, as my breasts swell for him.</li>
+            <li>{PAWN_nameShortPossessive}'s compact anus, so discreetly formed, holds a quiet allure, a private spectacle, and I crave it, my core clenching for him.</li>
+            <li>The unyielding tightness of {PAWN_nameShortPossessive}'s anus is quite provocative, inviting urgent speculation, a consuming passion, my entire body humming for him.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm anus, a discreet anatomical detail, certainly captures attention, quickening my pulse, and I feel my own readiness for him.</li>
+            <li>I find {PAWN_nameShortPossessive}'s tight anus rather compelling, a testament to youthful vitality, sparking an intense carnal urge, making my core ache for him.</li>
+            <li>The tight contours of {PAWN_nameShortPossessive}'s anus suggest a delightful firmness, a pleasing visual, evoking a powerful, immediate reaction, a fierce heat for him.</li>
+            <li>A remarkably tight anus on {PAWN_nameShortPossessive}, seemingly untouched, stirs a contemplative desire within, an unquenchable thirst, and my body tingles with anticipation for him.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks frame a tight, almost mysterious anus, quite the understated marvel, prompting an undeniable physical response in my own groin for him.</li>
+            <li>The small, taut anus of {PAWN_nameShortPossessive} is a subtle, yet undeniable, focal point, and my thoughts race with possibility, my body yielding to him.</li>
+            <li>One notices {PAWN_nameShortPossessive}'s tight anus, a small, unyielding portal, sparking a vivid, unbridled imagination, a burning sensation deep inside for him.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, a discreet but firm opening, hints at hidden experiences, and an intense arousal begins, my core swelling fully for him.</li>
+            <li>The pristine tightness of {PAWN_nameShortPossessive}'s anus, unmarred and small, is undeniably attractive, and I feel a powerful quickening, my desire throbbing for him.</li>
+            <li>I observe {PAWN_nameShortPossessive} tight anus, a compelling feature that speaks of youth and firmness, sparking a relentless desire, causing my core to strain for him.</li>
+            <li>{PAWN_nameShortPossessive}'s anus, so compact and tight, holds a certain fascination, a private glimpse, and my gaze burns deeper, my own hunger pressing for him.</li>
+            <li>A subtly tight anus on {PAWN_nameShortPossessive}, with its well-defined edges, offers a private, appealing sight, and I feel an overwhelming urge, my heat rising for him.</li>
+            <li>The unyielding, small aperture of {PAWN_nameShortPossessive}'s anus is quite captivating in its purity, and my blood quickens with fervor, making my core rigid for him.</li>
+            <li>{PAWN_nameShortPossessive}'s buttocks perfectly frame a tight anus, a small, intriguing feature, and I sense a powerful, immediate shift within for him.</li>
+            <li>The compact form of {PAWN_nameShortPossessive}'s anus is a quiet temptation, a hidden gem, and a consuming tension builds within me, my body begging for him.</li>
+            <li>I can't help but linger on {PAWN_nameShortPossessive}'s tight anus, a small, perfectly sculpted opening, and a primal, insistent urge stirs within me for him.</li>
+            <li>{PAWN_nameShortPossessive}'s tight anus, almost a secret, is surprisingly alluring, a true nymphomaniac's delight, causing an overwhelming physical reaction in my own loins for him.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with Demon butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Neutral_Tight_DemonAnus</defName>
+        <label>Tight Anus (Neutral) DemonAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, framed by a subtly demonic buttock, presents an oddly captivating, unyielding appearance.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm, demon-touched posterior and small anus, it holds an unusual, compelling structure.</li>
+            <li>The compact, almost unnaturally smooth form of {PAWN_nameShortPossessive} demonic buttocks frames a tight anus, a curious sight.</li>
+            <li>{PAWN_nameShortPossessive} small, tight demonic anus is discreetly positioned, fitting well with {PAWN_possessive} otherworldly, sculpted form.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight demonic anus, a subtle and unpronounced feature on {PAWN_possessive} otherwise infernal physique.</li>
+            <li>{PAWN_nameShortPossessive} tight demonic anus, almost hidden, appears to be a natural part of {PAWN_possessive} supernatural form, chillingly precise.</li>
+            <li>A remarkably tight demonic anus on {PAWN_nameShortPossessive}, an unyielding and firm detail on a disturbingly perfect posterior.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} demonic anus, small and firmly closed, reflects a peculiar, formidable purity.</li>
+            <li>{PAWN_nameShortPossessive} demonic buttocks, firm and unnaturally well-formed, present a tight, almost seamless anal aperture, an unsettling sight.</li>
+            <li>The small, tight demonic anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate anatomical structure, strangely alluring.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight demonic anus, a small opening set within an unblemished, smooth posterior, an unnerving beauty.</li>
+            <li>{PAWN_nameShortPossessive} tight demonic anus, almost a mere line, blends into the smooth, unsettling curves of {PAWN_possessive} otherworldly backside.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight demonic anus suggests a body in pristine condition, firm and unmarred, yet touched by infernal grace.</li>
+            <li>A pristine and tight demonic anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed, yet demonically refined form.</li>
+            <li>{PAWN_nameShortPossessive} tight demonic anus, with its neat, firm outline, contributes to a general sense of unsettling, otherworldly integrity.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} demonic buttocks and the tight anus suggest a well-preserved anatomical structure, unnervingly perfect.</li>
+            <li>{PAWN_nameShortPossessive} demonic anus, small and firmly pursed, presents a discreet and unrevealing aspect, yet it hints at dark depths.</li>
+            <li>A tight demonic anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle, disturbing contours of {PAWN_possessive} unearthly frame.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s demonic anus, taut and minimal, evokes a sense of restrained, yet potent, otherworldliness.</li>
+            <li>{PAWN_nameShortPossessive}'s tight demonic anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, disturbingly flawless.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight demonic anus, its unyielding form speaks of an untouched and pristine condition, yet it feels ancient.</li>
+            <li>{PAWN_nameShortPossessive}'s demonic buttocks present a tight, almost perfect anal aperture, appearing unnaturally untouched, a chilling perfection.</li>
+            <li>The tiny, taut demonic anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, yet subtly menacing.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm demonic anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, an unsettling sight.</li>
+            <li>The tightly formed demonic anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, yet deeply unnatural.</li>
+            <li>{PAWN_nameShortPossessive}'s demonic anus, tight and unassuming, maintains a composed appearance, a testament to an unholy natural design.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s demonic anus, small and firmly defined, suggests a natural, untouched state, but a demonic one.</li>
+            <li>A tight demonic anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of unsettling, precise anatomy.</li>
+            <li>{PAWN_nameShortPossessive}'s demonic buttocks and tight anus present a clean, unblemished form, a harmonious visual composition, of disturbing origins.</li>
+            <li>The discreet, tight demonic anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, yet it speaks of a darker power.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with slime butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Neutral_Tight_SlimeAnus</defName>
+        <label>Tight Anus (Neutral) SlimeAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight, glistening anus, framed by sleek slime-covered buttocks, presents an unusual and intriguing form.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm, slimy posterior and small anus, it holds a surprisingly compact, fluid structure.</li>
+            <li>The compact, almost gelatinous form of {PAWN_nameShortPossessive} slime buttocks frames a tight anus, a strangely mesmerizing sight.</li>
+            <li>{PAWN_nameShortPossessive} small, tight slime anus is discreetly positioned, fitting well with {PAWN_possessive} shimmering, amorphous body.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight slime anus, a subtle and unpronounced feature on {PAWN_possessive} otherwise viscous physique.</li>
+            <li>{PAWN_nameShortPossessive} tight slime anus, almost hidden, appears to be a natural part of {PAWN_possessive} fluid form, eerily precise.</li>
+            <li>A remarkably tight slime anus on {PAWN_nameShortPossessive}, an unyielding and firm detail on a surprisingly solid, yet slimy, posterior.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} slime anus, small and firmly closed, reflects a peculiar, self-contained purity.</li>
+            <li>{PAWN_nameShortPossessive} slime buttocks, firm and unnaturally well-formed, present a tight, almost seamless anal aperture, a curious sight.</li>
+            <li>The small, tight slime anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate anatomical structure, strangely alluring in its slickness.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight slime anus, a small opening set within an unblemished, smooth posterior, an unnerving, glistening beauty.</li>
+            <li>{PAWN_nameShortPossessive} tight slime anus, almost a mere line, blends into the smooth, unsettling contours of {PAWN_possessive} fluid backside.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight slime anus suggests a body in pristine condition, firm and unmarred, yet composed of viscous material.</li>
+            <li>A pristine and tight slime anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed, yet fluidly refined form.</li>
+            <li>{PAWN_nameShortPossessive} tight slime anus, with its neat, firm outline, contributes to a general sense of unsettling, otherworldly, and slippery integrity.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} slime buttocks and the tight anus suggest a well-preserved anatomical structure, unnervingly pliable.</li>
+            <li>{PAWN_nameShortPossessive} slime anus, small and firmly pursed, presents a discreet and unrevealing aspect, yet it glistens with strange energy.</li>
+            <li>A tight slime anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle, disturbing contours of {PAWN_possessive} translucent frame.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s slime anus, taut and minimal, evokes a sense of restrained, yet potent, fluidity.</li>
+            <li>{PAWN_nameShortPossessive}'s tight slime anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, disturbingly flawless in its sliminess.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight slime anus, its unyielding form speaks of an untouched and pristine condition, yet it feels otherworldly.</li>
+            <li>{PAWN_nameShortPossessive}'s slime buttocks present a tight, almost perfect anal aperture, appearing unnaturally untouched, a chilling, slick perfection.</li>
+            <li>The tiny, taut slime anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, yet subtly shimmering.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm slime anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, an unsettling, glistening sight.</li>
+            <li>The tightly formed slime anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, yet deeply amorphous.</li>
+            <li>{PAWN_nameShortPossessive}'s slime anus, tight and unassuming, maintains a composed appearance, a testament to a strange, liquid natural design.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s slime anus, small and firmly defined, suggests a natural, untouched state, but a fluid one.</li>
+            <li>A tight slime anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of unsettling, precise, yet yielding anatomy.</li>
+            <li>{PAWN_nameShortPossessive}'s slime buttocks and tight anus present a clean, unblemished form, a harmonious visual composition, of mysterious, fluid origins.</li>
+            <li>The discreet, tight slime anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, yet it speaks of an unusual, slick existence.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with insect butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Neutral_Tight_InsectAnus</defName>
+        <label>Tight Anus (Neutral) InsectAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>InsectAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus, framed by a segmented, chitinous buttock, presents an oddly captivating, unyielding appearance.</li>
+            <li>Observing {PAWN_nameShortPossessive} firm, insectoid posterior and small anus, it holds an unusual, compelling structure, almost like an exoskeleton.</li>
+            <li>The compact, almost unnaturally smooth form of {PAWN_nameShortPossessive} insect buttocks frames a tight anus, a curious sight with strange textures.</li>
+            <li>{PAWN_nameShortPossessive} small, tight insect anus is discreetly positioned, fitting well with {PAWN_possessive} alien, multifaceted body.</li>
+            <li>One notices {PAWN_nameShortPossessive} tight insect anus, a subtle and unpronounced feature on {PAWN_possessive} otherwise chitinous physique.</li>
+            <li>{PAWN_nameShortPossessive} tight insect anus, almost hidden, appears to be a natural part of {PAWN_possessive} segmented form, disturbingly precise.</li>
+            <li>A remarkably tight insect anus on {PAWN_nameShortPossessive}, an unyielding and firm detail on a disturbingly perfect, armored posterior.</li>
+            <li>The compactness of {PAWN_nameShortPossessive} insect anus, small and firmly closed, reflects a peculiar, hard, self-contained purity.</li>
+            <li>{PAWN_nameShortPossessive} insect buttocks, firm and unnaturally well-formed, present a tight, almost seamless anal aperture, an unsettling, alien sight.</li>
+            <li>The small, tight insect anus of {PAWN_nameShortPossessive} is neatly tucked, hinting at a delicate anatomical structure, strangely alluring in its rigidness.</li>
+            <li>One observes {PAWN_nameShortPossessive} tight insect anus, a small opening set within an unblemished, smooth posterior, an unnerving, alien beauty.</li>
+            <li>{PAWN_nameShortPossessive} tight insect anus, almost a mere line, blends into the smooth, unsettling contours of {PAWN_possessive} arthropod backside.</li>
+            <li>The sight of {PAWN_nameShortPossessive} small, tight insect anus suggests a body in pristine condition, firm and unmarred, yet covered in hard plates.</li>
+            <li>A pristine and tight insect anus on {PAWN_nameShortPossessive}, its appearance speaks of an unexposed, yet biologically alien form.</li>
+            <li>{PAWN_nameShortPossessive} tight insect anus, with its neat, firm outline, contributes to a general sense of unsettling, otherworldly, and segmented integrity.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} insect buttocks and the tight anus suggest a well-preserved anatomical structure, unnervingly rigid.</li>
+            <li>{PAWN_nameShortPossessive} insect anus, small and firmly pursed, presents a discreet and unrevealing aspect, yet it seems to click subtly.</li>
+            <li>A tight insect anal opening on {PAWN_nameShortPossessive}, barely noticeable, emphasizes the subtle, disturbing contours of {PAWN_possessive} segmented frame.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive}'s insect anus, taut and minimal, evokes a sense of restrained, yet potent, biological alienness.</li>
+            <li>{PAWN_nameShortPossessive}'s tight insect anus, almost an elegant fold, complements the smooth, unblemished skin of {PAWN_possessive} backside, disturbingly flawless in its exoskeleton.</li>
+            <li>Observing {PAWN_nameShortPossessive} tight insect anus, its unyielding form speaks of an untouched and pristine condition, yet it feels ancient and alien.</li>
+            <li>{PAWN_nameShortPossessive}'s insect buttocks present a tight, almost perfect anal aperture, appearing unnaturally untouched, a chilling, segmented perfection.</li>
+            <li>The tiny, taut insect anus of {PAWN_nameShortPossessive} is discreetly tucked, suggesting purity and an untouched nature, yet subtly insectoid.</li>
+            <li>{PAWN_nameShortPossessive}'s small, firm insect anus, almost invisible, is a subtle detail on {PAWN_possessive} otherwise smooth posterior, an unsettling, hard sight.</li>
+            <li>The tightly formed insect anus on {PAWN_nameShortPossessive} implies a body that has seen little wear, still in its prime, yet deeply unnatural.</li>
+            <li>{PAWN_nameShortPossessive}'s insect anus, tight and unassuming, maintains a composed appearance, a testament to an alien, hard natural design.</li>
+            <li>The neatness of {PAWN_nameShortPossessive}'s insect anus, small and firmly defined, suggests a natural, untouched state, but an entomological one.</li>
+            <li>A tight insect anus on {PAWN_nameShortPossessive}, with its well-defined yet small opening, contributes to a sense of unsettling, precise, yet rigid anatomy.</li>
+            <li>{PAWN_nameShortPossessive}'s insect buttocks and tight anus present a clean, unblemished form, a harmonious visual composition, of disturbing, alien origins.</li>
+            <li>The discreet, tight insect anus on {PAWN_nameShortPossessive} is a minor detail on an otherwise perfectly formed posterior, yet it speaks of an unusual, segmented existence.</li>
+        </opinionTexts>
+</Def>
+</Defs>

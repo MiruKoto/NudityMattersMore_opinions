@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Unisex gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Micro_Ahegao_Unisex_Positive</defName>
+        <label>Opinion_Self_Penis_Micro_Ahegao_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My tiny friend, though subtle, delivers immense, profound satisfaction, leaving me completely relaxed and glowing with a post-ahegao bliss.</li>
+            <li>A blissful, satisfied sigh escapes me; this micro-penis perfectly fulfilled my deepest desires with surprising, gentle ease.</li>
+            <li>Its petite form offered delightful sensations, bringing forth a profound, tranquil satisfaction, a warm glow within.</li>
+            <li>Surprisingly potent, my small member brought a serene calm, every pulse a ripple of pure, unadulterated pleasure and contentment.</li>
+            <li>Though modest in size, the climax was overwhelmingly deep, leaving me in a blissful, serene state of complete fulfillment.</li>
+            <li>A quiet joy fills me, my tiny penis now soft and content, reflecting the profound inner peace of this Ahegao state.</li>
+            <li>The perfect fit, it delivered a delicate yet powerful sensation, bathing me in a gentle wave of post-coital serenity.</li>
+            <li>This small, elegant tool brought forth a magnificent release, a harmonious symphony of absolute sexual satisfaction and tranquil joy.</li>
+            <li>My beloved micro-shaft hums with the echo of pure bliss, its modest length no barrier to this incredible, relaxed afterglow.</li>
+            <li>Feeling utterly complete, my little jewel brought a tidal wave of satisfaction, settling into peaceful contentment.</li>
+            <li>Such a fulfilling experience, my small penis delivered a beautiful, exquisite climax, leaving me in a haze of blissful contentment.</li>
+            <li>My miniature masterpiece, now limp, exudes a deep sense of tranquil satisfaction, radiating warmth throughout my core.</li>
+            <li>The soft, satisfied throb of my penis confirms a profound, complete fulfillment, its humble size belies its power.</li>
+            <li>A gentle release, yet powerfully satisfying; my small penis brought me to a state of absolute, serene Ahegao bliss.</li>
+            <li>Every inch contributed to this incredible, languid peace, my micro-penis having proven its undeniable worth.</li>
+            <li>This dainty pleasure-giver created an ocean of satisfaction, leaving me utterly adrift in contented Ahegao euphoria.</li>
+            <li>My petite companion, now peacefully resting, delivered a sensation that resonated deeply, bringing pure, satisfied calm.</li>
+            <li>A perfect, intimate fit leading to this blissful, tranquil state; my micro-penis truly excels at profound satisfaction.</li>
+            <li>Contentment washes over me, the gentle pulsate of my small erection a testament to the beautiful, deep release achieved.</li>
+            <li>My charming little shaft, now fully spent, leaves me with a delightful, relaxed feeling, utterly fulfilled.</li>
+            <li>The small wonders it performed brought me to this peaceful, utterly contented state, my entire being singing with satisfaction.</li>
+            <li>A surprisingly powerful satisfaction, my micro-penis, now soft, reflects the deep, tranquil Ahegao state within.</li>
+            <li>Complete surrender to this soft, satisfied feeling; my tiny member achieved true, profound sexual tranquility.</li>
+            <li>This magnificent, albeit small, instrument gifted me with pure, unblemished post-climax serenity, truly remarkable.</li>
+            <li>Its small stature belies its incredible ability to induce this deep, lingering sense of fulfilled Ahegao peace.</li>
+            <li>My little gem, exquisitely sensitive, brought about a perfect, relaxed climax, leaving me deeply satisfied.</li>
+            <li>Utterly content and deeply relaxed, my micro-penis and I share this profound, blissful aftermath.</li>
+            <li>A gentle hum of pure satisfaction emanates from my small, fulfilled penis, a testament to its delightful performance.</li>
+            <li>This humble, yet effective, appendage guided me to a state of complete, peaceful sexual release.</li>
+            <li>The lingering warmth from my small penis speaks volumes of the deep, blissful contentment of my Ahegao state.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Small_Ahegao_Unisex_Positive</defName>
+        <label>Opinion_Self_Penis_Small_Ahegao_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My small yet perfectly functional penis delivered a deep, satisfying climax, leaving my mind utterly blank and blissful.</li>
+            <li>A warm, serene glow emanates from my gently detumescing penis, a profound sense of peace washes over me after such release.</li>
+            <li>The incredible sensation of release brought by my humble shaft has left me perfectly sated, truly a tranquil bliss.</li>
+            <li>My balls are heavy and sated, mirroring the serene, almost numb satisfaction my small penis gifted me.</li>
+            <li>The exquisite pressure from my small erection culminated in a powerful, yet peaceful, ahegao state of pure fulfillment.</li>
+            <li>Completely relaxed, my penis soft and glistening, I bask in the lingering afterglow of absolute sexual contentment.</li>
+            <li>This modest size allowed for profound penetration, leading to an intense yet calming climax, leaving me breathless with satisfaction.</li>
+            <li>A gentle throb reminds me of the deep, full satisfaction achieved; my penis, though small, brought an immense release.</li>
+            <li>My foreskin, now retracted, reveals a glistening head, reflecting the sheer, blissful joy of my ahegao moment.</li>
+            <li>The profound satisfaction radiating from my spent penis tells a story of complete pleasure and serene, peaceful rest.</li>
+            <li>My balls feel drained but happy, mirroring the deep, tranquil contentment that flows from my now soft penis.</li>
+            <li>This small, efficient instrument brought a wave of pure, unadulterated pleasure, leaving me limp and utterly fulfilled.</li>
+            <li>The soft weight of my balls and the gentle relaxation of my penis speak of a profound, peaceful ahegao state.</li>
+            <li>Every inch contributed to an exquisite climax, my small penis guiding me to this truly serene and satisfied feeling.</li>
+            <li>A beautiful, quiet tremor runs through me, courtesy of my small penis, leaving me in a state of tranquil, blissful completion.</li>
+            <li>My humble shaft, now soft, perfectly delivered a feeling of profound, complete sexual peace, utterly satisfying.</li>
+            <li>The contented warmth in my loins, courtesy of my small but mighty penis, settles me into a deep, relaxed state.</li>
+            <li>My testicles, pleasantly emptied, confirm the total satisfaction brought by my small but incredibly capable penis.</li>
+            <li>A wonderful, deep release; my penis, though not large, delivered an immense, calming pleasure, truly ahegao.</li>
+            <li>The soft, satisfied pulsing of my small erection speaks of an experience beyond compare, leaving me utterly serene.</li>
+            <li>My penis head, slick and sensitive, perfectly absorbed every ounce of bliss, now resting in tranquil satisfaction.</li>
+            <li>This small, artful instrument brought a wave of true fulfillment, leaving my entire being steeped in relaxed contentment.</li>
+            <li>The gentle swing of my now flaccid penis mirrors the tranquil, satisfied sway of my mind after profound release.</li>
+            <li>A delightful, soft throb from my penis, signaling complete and utter sexual satiation, a deeply relaxed state.</li>
+            <li>My balls feel pleasantly heavy, confirming the thorough and blissful satisfaction delivered by my small penis.</li>
+            <li>This compact marvel perfectly achieved a state of serene bliss, my penis now utterly relaxed and content.</li>
+            <li>The profound calm that has enveloped me is entirely due to the masterful performance of my small, capable penis.</li>
+            <li>My penis, now soft and at peace, whispers of the incredible, tranquil journey it just completed, full satisfaction.</li>
+            <li>A blissful, languid feeling spreads from my sated genitals, a testament to the pleasing power of my small penis.</li>
+            <li>The gentle weight of my scrotum, and the blissful relaxation of my penis, signals a profound, peaceful ahegao.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Average_Ahegao_Unisex_Positive</defName>
+        <label>Opinion_Self_Penis_Average_Ahegao_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My average penis, perfectly engorged, delivered a profound, lingering climax, leaving me thoroughly satiated and serenely blissful.</li>
+            <li>A warm, heavy sensation settles in my balls, a testament to the powerful, yet calming, satisfaction my penis just provided.</li>
+            <li>The smooth, deep strokes of my average erection led to a tranquil, mind-emptying release, a true ahegao masterpiece.</li>
+            <li>My penis, now gently soft, pulses with the echoes of incredible fulfillment, a peaceful calm washing over my entire being.</li>
+            <li>The perfect size for exquisite pressure, my shaft brought a wave of sublime pleasure, culminating in pure, relaxed ecstasy.</li>
+            <li>My balls feel pleasantly light, emptied and content, reflecting the deep sexual peace my average penis achieved.</li>
+            <li>The glans, still glistening, sends ripples of profound satisfaction throughout me, a blissful and utterly relaxed state.</li>
+            <li>A satisfying weight in my hand, my penis now rests, embodying the deep, tranquil contentment of a perfect ahegao.</li>
+            <li>The slight foreskin retraction highlights the head's sensitivity, which perfectly channeled this amazing, satisfying release.</li>
+            <li>Completely sated, my average penis brought forth a profound, almost spiritual calm, a state of absolute sexual harmony.</li>
+            <li>My testicles, pleasantly full and then completely spent, attest to the thorough and glorious satisfaction my penis provided.</li>
+            <li>The gentle throb of my penis, now softening, confirms the depth of my pleasure, an utterly serene ahegao aftermath.</li>
+            <li>Its balanced dimensions delivered a harmonious, deep satisfaction, leaving me in a blissful haze of relaxed fulfillment.</li>
+            <li>The full, contented sigh escaping me is a direct result of my average penis’s masterful, incredibly satisfying performance.</li>
+            <li>My penis, now comfortably soft, exudes a warmth that mirrors the deep, tranquil peace settling in my very soul.</li>
+            <li>The perfectly sized shaft brought every nerve ending to a beautiful, overwhelming crescendo of pure, relaxed bliss.</li>
+            <li>My balls are delightfully tender, having contributed to the profound satisfaction that washes over me from my penis.</li>
+            <li>A serene, lingering sensation from my penis fills me, reflecting the complete and utter sexual contentment achieved.</li>
+            <li>Its average shape proved ideal for maximizing pleasure, leading to this profound, peaceful, and utterly satisfying climax.</li>
+            <li>The gentle, satisfied swinging of my penis reflects the quiet, profound joy within me, a perfect ahegao completion.</li>
+            <li>My penis head, slick and sensitive, absorbed every sensation, now resting in tranquil, deep satisfaction.</li>
+            <li>This instrument of pleasure, perfectly balanced, brought about a wave of absolute, serene fulfillment, truly magnificent.</li>
+            <li>My testicles, pleasantly heavy then light, confirm the immense satisfaction my average penis gifted me.</li>
+            <li>A blissful, languid feeling spreads through my core, directly attributable to the complete, serene release of my penis.</li>
+            <li>The satisfying weight and shape of my penis brought me to this deep, tranquil state of absolute sexual calm.</li>
+            <li>My foreskin, smoothly returning, indicates the complete, peaceful transition to a state of utter bliss.</li>
+            <li>This perfectly adequate penis proved itself a master of pleasure, leaving me fully sated and deeply relaxed.</li>
+            <li>The gentle pulse of blood retreating from my penis leaves a pleasant, lingering warmth of profound satisfaction.</li>
+            <li>My average shaft, now relaxed and content, has delivered an experience of such profound peace and fulfillment.</li>
+            <li>A sense of utter completion, my penis and balls now rest, after a truly beautiful, deeply satisfying ahegao.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Large_Ahegao_Unisex_Positive</defName>
+        <label>Opinion_Self_Penis_Large_Ahegao_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My large, powerful penis delivered an incredibly deep, echoing climax, leaving me profoundly satisfied and utterly tranquil.</li>
+            <li>A heavy, contented ache fills my balls, reflecting the immense, soul-deep satisfaction my impressive penis just provided.</li>
+            <li>The full, stretching sensation of my large erection culminated in a serene, mind-blanking release, pure ahegao perfection.</li>
+            <li>My glorious shaft, now gently subsiding, pulses with the afterglow of incredible fulfillment, a calm washing over everything.</li>
+            <li>Its substantial size ensured exquisite, pervasive pressure, bringing forth waves of sublime pleasure and relaxed ecstasy.</li>
+            <li>My testicles feel delightfully drained and light, mirroring the profound sexual peace my large penis gloriously achieved.</li>
+            <li>The engorged glans, still throbbing faintly, sends ripples of deep satisfaction, a blissful and utterly relaxed state of mind.</li>
+            <li>A satisfying, weighty presence in my hand, my magnificent penis now rests, embodying the tranquil contentment of a perfect ahegao.</li>
+            <li>The smooth foreskin, now gently resting, hints at the intense sensations that just surged through me from my magnificent shaft.</li>
+            <li>Completely sated, my large penis brought forth a profound, almost spiritual calm, a state of absolute sexual harmony.</li>
+            <li>My scrotum, wonderfully full and then completely emptied, attests to the thorough and glorious satisfaction my large penis provided.</li>
+            <li>The deep, lingering throb of my penis, now softening, confirms the immense depth of my pleasure, a serene ahegao aftermath.</li>
+            <li>Its generous dimensions delivered a resonant, profound satisfaction, leaving me in a blissful haze of relaxed fulfillment.</li>
+            <li>The full, contented sigh escaping me is a direct result of my large penis’s powerful, incredibly satisfying performance.</li>
+            <li>My penis, now comfortably soft, exudes a warmth that mirrors the deep, tranquil peace settling in my very soul, utterly satisfied.</li>
+            <li>The perfectly substantial shaft brought every nerve ending to a beautiful, overwhelming crescendo of pure, relaxed bliss.</li>
+            <li>My balls are delightfully tender and loose, having contributed to the profound satisfaction that washes over me from my impressive penis.</li>
+            <li>A serene, lingering sensation from my large penis fills me, reflecting the complete and utter sexual contentment achieved.</li>
+            <li>Its commanding shape proved ideal for maximizing pleasure, leading to this profound, peaceful, and utterly satisfying climax.</li>
+            <li>The gentle, satisfied swinging of my magnificent penis reflects the quiet, profound joy within me, a perfect ahegao completion.</li>
+            <li>My penis head, slick and sensitive, absorbed every intense sensation, now resting in tranquil, deep satisfaction.</li>
+            <li>This formidable instrument of pleasure, commanding and full, brought about a wave of absolute, serene fulfillment, truly magnificent.</li>
+            <li>My testicles, pleasantly heavy then gloriously light, confirm the immense satisfaction my large penis gifted me.</li>
+            <li>A blissful, languid feeling spreads through my core, directly attributable to the complete, serene release facilitated by my powerful penis.</li>
+            <li>The satisfying weight and commanding presence of my penis brought me to this deep, tranquil state of absolute sexual calm.</li>
+            <li>My foreskin, smoothly returning, indicates the complete, peaceful transition to a state of utter, blissful relief.</li>
+            <li>This beautifully proportioned penis proved itself a master of pleasure, leaving me fully sated and deeply relaxed.</li>
+            <li>The gentle pulse of blood retreating from my penis leaves a pleasant, lingering warmth of profound, echoing satisfaction.</li>
+            <li>My large shaft, now relaxed and content, has delivered an experience of such profound peace and ultimate fulfillment.</li>
+            <li>A sense of utter completion, my penis and balls now rest, after a truly magnificent, deeply satisfying ahegao.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Huge_Ahegao_Unisex_Positive</defName>
+        <label>Opinion_Self_Penis_Huge_Ahegao_Unisex_(positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~2</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My immense, glorious penis delivered an earth-shattering climax, leaving me utterly annihilated, yet profoundly tranquil and blissful.</li>
+            <li>A magnificent, heavy ache fills my swollen balls, reflecting the colossal, soul-draining satisfaction my mighty penis just provided.</li>
+            <li>The overwhelming stretch and fullness of my huge erection culminated in a serene, utterly mind-breaking release, pure ahegao apotheosis.</li>
+            <li>My monumental shaft, now gently subsiding, pulses with the incandescent afterglow of infinite fulfillment, a cosmic calm.</li>
+            <li>Its staggering size ensured exquisite, all-consuming pressure, bringing forth tidal waves of sublime pleasure and truly boundless ecstasy.</li>
+            <li>My testicles feel miraculously drained and impossibly light, mirroring the profound sexual nirvana my huge penis achieved.</li>
+            <li>The engorged glans, still throbbing with residual bliss, sends tremors of infinite satisfaction, a divine and utterly relaxed state.</li>
+            <li>A profoundly satisfying, colossal presence in my hand, my magnificent penis now rests, embodying the tranquil contentment of ultimate ahegao.</li>
+            <li>The smooth foreskin, now gently flowing, hints at the cataclysmic sensations that just surged through me from my gargantuan shaft.</li>
+            <li>Completely sated, my huge penis brought forth a profound, almost spiritual transcendence, a state of absolute sexual enlightenment.</li>
+            <li>My scrotum, wonderfully distended and then gloriously emptied, attests to the thorough and god-like satisfaction my immense penis provided.</li>
+            <li>The deep, lingering throb of my penis, now softening, confirms the unimaginable depth of my pleasure, a serene, endless ahegao aftermath.</li>
+            <li>Its epic dimensions delivered a resonant, cosmic satisfaction, leaving me in a blissful haze of relaxed, boundless fulfillment.</li>
+            <li>The profound, contented sigh escaping me is a direct result of my huge penis’s earth-shaking, incredibly satisfying performance.</li>
+            <li>My penis, now comfortably soft, exudes a warmth that mirrors the deep, tranquil peace settling in my very soul, utterly boundless.</li>
+            <li>The perfectly titanic shaft brought every nerve ending to a beautiful, overwhelming supernova of pure, relaxed bliss.</li>
+            <li>My balls are delightfully tender and gloriously loose, having contributed to the profound satisfaction that washes over me from my awe-inspiring penis.</li>
+            <li>A serene, lingering sensation from my huge penis fills me, reflecting the complete and utter sexual contentment achieved, a total surrender.</li>
+            <li>Its commanding, overwhelming shape proved ideal for maximizing pleasure, leading to this profound, peaceful, and utterly dominating climax.</li>
+            <li>The gentle, satisfied swinging of my magnificent penis reflects the quiet, profound joy within me, a perfect, absolute ahegao completion.</li>
+            <li>My penis head, slick and sensitive, absorbed every intense, overwhelming sensation, now resting in tranquil, deep, endless satisfaction.</li>
+            <li>This formidable instrument of pleasure, commanding and full, brought about a wave of absolute, serene fulfillment, truly magnificent beyond words.</li>
+            <li>My testicles, pleasantly heavy then gloriously light, confirm the immense, god-tier satisfaction my huge penis gifted me.</li>
+            <li>A blissful, languid feeling spreads through my core, directly attributable to the complete, serene release facilitated by my impossibly powerful penis.</li>
+            <li>The satisfying weight and commanding presence of my penis brought me to this deep, tranquil state of absolute sexual calm, utterly consuming.</li>
+            <li>My foreskin, smoothly returning, indicates the complete, peaceful transition to a state of utter, blissful, eternal relief.</li>
+            <li>This beautifully proportioned, titanic penis proved itself a master of pleasure, leaving me fully sated and deeply relaxed, eternally grateful.</li>
+            <li>The gentle pulse of blood retreating from my penis leaves a pleasant, lingering warmth of profound, echoing, infinite satisfaction.</li>
+            <li>My huge shaft, now relaxed and content, has delivered an experience of such profound peace and ultimate, cosmic fulfillment.</li>
+            <li>A sense of utter, absolute completion, my penis and balls now rest, after a truly magnificent, deeply satisfying, and all-encompassing ahegao.</li>
+        </opinionTexts>
+    </Def>
+	
+</Defs>

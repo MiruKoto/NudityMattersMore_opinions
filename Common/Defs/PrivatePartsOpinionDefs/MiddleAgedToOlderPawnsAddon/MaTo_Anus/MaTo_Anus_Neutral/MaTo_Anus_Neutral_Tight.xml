@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale</defName>
+        <label>Tight Anus (Neutral)_MatureFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The butt shape is somewhat firm for {PAWN_nameShortPossessive} age, and the visible tightness of the area suggests a well-maintained physique, quite unremarkable.</li>
+            <li>A glimpse of the tight anus, a typical feature, barely noticeable behind the average, rounded curve of the buttocks.</li>
+            <li>The slight indentation indicates a tight anus, a common anatomical detail that complements the generally unassuming form of {PAWN_nameShortPossessive} posterior.</li>
+            <li>Observing the form, the anus appears tight, blending seamlessly with the compact, yet not overly prominent, gluteal structure.</li>
+            <li>A very tight anus. Its presence is noted, but it offers little distinct characteristic beyond its usual form. The butt shape is neither remarkable nor unattractive.</li>
+            <li>The posterior of {PAWN_nameShort} shows a tight aperture, consistent with a person of {PAWN_possessive} age. The overall shape is proportionate.</li>
+            <li>A remarkably tight anus is noted, a testament to general bodily condition. The surrounding glutes maintain a somewhat firm, standard contour.</li>
+            <li>The tight anus is a minor detail on {PAWN_nameShortPossessive} moderately rounded butt, which appears neither particularly firm nor soft for {PAWN_possessive} age.</li>
+            <li>A tight anus, as observed, completes the rather unassuming but not displeasing contour of {PAWN_nameShortPossessive} buttocks.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is apparent, aligning with the somewhat toned, standard presentation of {PAWN_possessive} backside.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale_observed_by_voyer</defName>
+        <label>Tight Anus (Neutral)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The tight anus of {PAWN_nameShort} is clearly visible, a subtle detail on {PAWN_possessive} otherwise conventional, mature backside. Worth noting.</li>
+            <li>A distinct tightness around the anal area is observed, intriguing in its defined presentation within {PAWN_nameShortPossessive} mature, rounded buttocks.</li>
+            <li>The tight anus. It's there, a compact detail on {PAWN_nameShortPossessive} rear. The overall view is quite standard for {PAWN_possessive} age group.</li>
+            <li>A quick glance confirms a tight anus, presenting as a neat, unyielding feature on {PAWN_nameShortPossessive} moderately curved, mature posterior.</li>
+            <li>The anal tightness is apparent, a quiet statement on {PAWN_nameShortPossessive} backside. The general form of {PAWN_possessive} butt is adequate.</li>
+            <li>Hidden, yet perceptible, the tight anus offers a small detail to the sight of {PAWN_nameShortPossessive} mature, somewhat firm buttocks.</li>
+            <li>Observing the details, the anus appears tight, a small point of interest on the average, mature contours of {PAWN_nameShortPossessive} buttocks.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is quite evident. It complements the overall subdued, yet well-formed, presentation of {PAWN_possessive} posterior.</li>
+            <li>One notices the tight anus, a neat anatomical element on {PAWN_nameShortPossessive} adequately shaped, mature backside. It is a subtle observation.</li>
+            <li>The anus, though tight, does not detract from or overly enhance the generally ordinary but pleasing shape of {PAWN_nameShortPossessive} middle-aged butt.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Tight Anus (Neutral)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed tight anus of {PAWN_nameShort} is plainly visible, a modest detail on {PAWN_possessive} otherwise mature and unembellished posterior.</li>
+            <li>{PAWN_nameShortPossessive} tight anus is on display, a compact feature that fits the ordinary but openly presented form of {PAWN_possessive} buttocks.</li>
+            <li>A tight anus, readily apparent, anchors {PAWN_nameShortPossessive} mature, average-shaped butt. The exposure is noted.</li>
+            <li>The tightness around {PAWN_nameShortPossessive} anal area is visible, an unsurprising anatomical detail that is openly presented on {PAWN_possessive} backside.</li>
+            <li>Observing the tight anus, it's a small, defined point on {PAWN_nameShortPossessive} mature, conventionally shaped posterior. The sight is quite clear.</li>
+            <li>The anus is tight, and {PAWN_nameShortPossessive} butt is openly displayed. A standard observation for a publicly exposed private part.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive} mature, visible posterior. It presents as a minor, yet distinct, anatomical characteristic.</li>
+            <li>The clear view reveals a tight anus, a neat feature on {PAWN_nameShortPossessive} moderately rounded butt, which seems to invite observation.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is undeniable when exposed. It's a precise detail on {PAWN_possessive} mature, average posterior.</li>
+            <li>The butt of {PAWN_nameShort} is on show, highlighting a tight anus; a typical sight, neither exciting nor disappointing.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Tight Anus (Neutral)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The tight anus of {PAWN_nameShort} is quite noticeable, a firm detail on {PAWN_possessive} mature buttocks, which seem inviting enough.</li>
+            <li>A tight anus, suggesting a certain firmness. The rounded, mature shape of {PAWN_nameShortPossessive} butt is certainly eye-catching, a provocative sight.</li>
+            <li>Observing the very tight anus, it hints at control and definition. {PAWN_nameShortPossessive} posterior, though mature, retains a pleasing, ample form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight anus and well-defined, mature butt stirs a mild curiosity, suggesting potential for intimate experiences.</li>
+            <li>{PAWN_nameShortPossessive} tight anus is a focal point on {PAWN_possessive} full, mature buttocks, hinting at disciplined firmness and intriguing possibilities.</li>
+            <li>The pronounced tightness of the anus is evident. {PAWN_nameShortPossessive} mature butt shape is appealingly firm, certainly catching one's attention.</li>
+            <li>A tight anus, indeed. It's a small but significant detail on {PAWN_nameShortPossessive} voluptuous, mature posterior, quite stimulating to observe.</li>
+            <li>{PAWN_nameShortPossessive} butt presents a tight anus, a neat and inviting feature on {PAWN_possessive} curvaceous, mature form, sparking definite interest.</li>
+            <li>The tight anus is a compelling feature on {PAWN_nameShortPossessive} mature, well-rounded buttocks. Its neatness is surprisingly enticing.</li>
+            <li>That tight anus, combined with the ample, mature curves of {PAWN_nameShortPossessive} butt, creates a subtly captivating and desirable view.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale_observed_by_Prude</defName>
+        <label>Tight Anus (Neutral)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A tight anus, unfortunately noticeable. {PAWN_nameShortPossessive} mature butt is far too exposed, a truly inappropriate display.</li>
+            <li>The glimpse of that tight anus is unsettling. {PAWN_nameShortPossessive} mature rear should not be so brazenly visible; it's quite shameful.</li>
+            <li>Such a tight anus. Its visibility on {PAWN_nameShortPossessive} mature, exposed buttocks is deeply uncomfortable and frankly, quite vulgar.</li>
+            <li>Observing the tight anus is truly distasteful. {PAWN_nameShortPossessive} butt, in its mature, revealed state, is an embarrassment.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is starkly obvious. This immodest exposure of {PAWN_possessive} mature posterior is utterly mortifying.</li>
+            <li>That tight anus is an unwelcome sight. {PAWN_nameShortPossessive} butt is too openly displayed for someone of {PAWN_possessive} years; it's improper.</li>
+            <li>The visible tight anus is quite shocking. {PAWN_nameShortPossessive} mature buttocks are unnecessarily bared, making for a truly indecent view.</li>
+            <li>An exposed, tight anus. It's a crude sight on {PAWN_nameShortPossessive} mature backside, leaving one feeling quite affronted by the lack of decorum.</li>
+            <li>The tight anus is undeniably prominent. {PAWN_nameShortPossessive} mature posterior should certainly be covered; this level of nudity is scandalous.</li>
+            <li>The sheer visibility of that tight anus is appalling. {PAWN_nameShortPossessive} mature butt is shamelessly revealed, a truly vulgar display.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale_observed_by_Young_male</defName>
+        <label>Tight Anus (Neutral)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a small detail on her well-formed, mature butt. It's not bad for her age.</li>
+            <li>The subtle tightness of her anus is evident, complementing her still-rounded and surprisingly firm, mature buttocks. It's an interesting sight.</li>
+            <li>Observing her backside, her tight anus is noticeable. Her butt, though mature, holds a respectable shape, quite adequate.</li>
+            <li>Her tight anus seems to defy her age somewhat, nestled within a butt shape that remains quite shapely and full.</li>
+            <li>A tight anus, a neat detail. Her mature butt is unexpectedly firm and well-preserved, a pleasant enough view.</li>
+            <li>Her buttocks present a tight anus, a small, defined feature. The overall form of her butt is decent for a woman of her years.</li>
+            <li>The tightness of her anus is clear. Her mature butt, while not youthful, maintains a pleasing contour, nothing to complain about.</li>
+            <li>Her tight anus catches the eye briefly, set against a mature butt that retains a notable, respectable roundness.</li>
+            <li>Despite her age, her anus appears tight. Her butt's shape is still quite good, suggesting she keeps herself in shape.</li>
+            <li>A somewhat surprising tightness around her anus. Her mature butt has a decent curve, quite appealing even for an older woman.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale_observed_by_Young_female</defName>
+        <label>Tight Anus (Neutral)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a small point on her mature, rather average-shaped butt. Nothing particularly striking.</li>
+            <li>The tightness around her anus is present, a minor detail on her mature posterior, which maintains a somewhat predictable curve.</li>
+            <li>A brief glance confirms a tight anus. Her mature butt, while not remarkable, appears to be in reasonable condition for her age.</li>
+            <li>Her anus seems tight. The form of her butt is typical for a middle-aged woman, neither impressive nor unattractive.</li>
+            <li>Observing the tight anus, it's a neat, unyielding detail. Her mature buttocks have a standard, moderately rounded shape.</li>
+            <li>The tight anus is a discreet feature on her mature butt, which has a rather ordinary, yet well-proportioned, appearance.</li>
+            <li>Her butt shows a tight anus. It's a common characteristic that doesn't particularly stand out on her otherwise average, mature backside.</li>
+            <li>A tight anus is evident. Her mature butt has a general roundness, consistent with someone of her age, nothing extraordinary.</li>
+            <li>The tightness of her anus is noted, a functional detail. Her mature posterior is what one would expect, neither firm nor lax.</li>
+            <li>Her anus is tight, and her butt is of a mature, average shape. It's a mundane observation.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Tight Anus (Neutral)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a minor detail on her mature, shapely butt. It’s certainly adequate for her age.</li>
+            <li>The tightness of her anus suggests good tone. Her middle-aged butt retains a pleasing curve, a familiar and attractive form.</li>
+            <li>A discreetly tight anus. Her mature buttocks possess a respectable roundness, consistent with a well-preserved physique.</li>
+            <li>Observing her form, her anus appears tight, completing the moderately firm and mature curve of her posterior. It’s appealing.</li>
+            <li>Her anus, tight and defined. Her butt, though past its prime, maintains a comfortable, attractive fullness; a satisfying view.</li>
+            <li>Her buttocks present a tight anus, a neat point. Her mature backside is acceptably firm and well-proportioned, quite common.</li>
+            <li>The tight anus is a noticeable feature. Her mature butt has a pleasing, somewhat youthful firmness that catches the eye.</li>
+            <li>A subtle tightness around her anus. Her middle-aged butt is rounded and still quite attractive, a good example of mature beauty.</li>
+            <li>Her anus is tight, a fine detail. Her butt's shape is what one might hope for in a woman her age – a pleasant, full curve.</li>
+            <li>The glimpse of her tight anus confirms a certain upkeep. Her mature posterior remains nicely formed, quite appealing.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Tight Anus (Neutral)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a minor anatomical point on her mature, typically rounded butt. It seems normal enough.</li>
+            <li>The tightness around her anus is quite evident. Her butt, of a mature age, holds a relatively firm and expected shape.</li>
+            <li>A tight anus, as observed, is a consistent detail. Her mature posterior maintains an average, yet acceptable, contour.</li>
+            <li>Observing her backside, her anus appears tight. Her middle-aged butt is moderately rounded and presents as one would expect.</li>
+            <li>Her anus is tight, a common feature. Her mature buttocks exhibit a general firmness, nothing out of the ordinary.</li>
+            <li>The tightness of her anus is noted, a standard observation. Her mature butt has a proportionate shape, neither sagging nor particularly defined.</li>
+            <li>Her butt reveals a tight anus, a small, unyielding detail. The overall form is a predictable, mature curve.</li>
+            <li>A tight anus, a simple anatomical fact. Her mature posterior is adequately shaped, showing no unusual characteristics.</li>
+            <li>The glimpse of her tight anus is quickly processed. Her middle-aged butt appears to be in typical condition.</li>
+            <li>Her anus is tight, a detail among many. Her mature butt has a familiar form, suggesting age-appropriate preservation.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale_observed_by_Elder_male</defName>
+        <label>Tight Anus (Neutral)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a small feature on her mature, rather firm butt. Still retains a good shape.</li>
+            <li>The tightness around her anus is clear. Her middle-aged buttocks maintain a surprising roundness and decent form for her age.</li>
+            <li>A tight anus, a subtle detail. Her mature posterior has held its shape remarkably well, an appealing sight.</li>
+            <li>Observing her backside, her anus appears tight. Her butt, though mature, has a pleasing curve, quite attractive indeed.</li>
+            <li>Her anus is tight, suggesting good tone. Her mature buttocks retain a desirable firmness, a pleasant view.</li>
+            <li>Her buttocks present a tight anus, a neat point. Her middle-aged backside is well-proportioned and quite shapely.</li>
+            <li>The tight anus is a noticeable aspect. Her mature butt has a pleasant fullness that shows a certain enduring appeal.</li>
+            <li>A subtle tightness around her anus. Her mature butt is rounded and firm enough, quite easy on the eyes.</li>
+            <li>Her anus is tight, a small sign of vitality. Her butt's shape is quite good for her age, still maintaining its appeal.</li>
+            <li>The glimpse of her tight anus adds to her mature, yet surprisingly resilient, posterior. A commendable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureFemale_observed_by_Elder_female</defName>
+        <label>Tight Anus (Neutral)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a minor detail on her mature, average-shaped butt. It's as expected for her age.</li>
+            <li>The tightness around her anus is apparent. Her butt, though mature, seems to hold its shape well enough, a common sight.</li>
+            <li>A tight anus, a rather unremarkable observation. Her mature posterior is of a typical form, neither firm nor particularly soft.</li>
+            <li>Observing her backside, her anus appears tight. Her middle-aged butt has a standard roundness, nothing unexpected.</li>
+            <li>Her anus is tight, a functional detail. Her mature buttocks are proportionate, reflecting a usual state of preservation.</li>
+            <li>The tightness of her anus is noted. Her mature butt's shape is average, a common sight among women her age.</li>
+            <li>Her butt shows a tight anus, a small, defined feature. The overall form is a predictable, mature contour.</li>
+            <li>A tight anus is evident, not out of the ordinary. Her mature posterior is adequately shaped, showing no unusual characteristics.</li>
+            <li>The glimpse of her tight anus is quickly processed. Her middle-aged butt appears in typical, unexceptional condition.</li>
+            <li>Her anus is tight, a detail that is neither unique nor particularly notable. Her mature butt has a familiar form.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+
+
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale</defName>
+        <label>Tight Anus (Neutral)_MatureMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus is visible, a common anatomical detail on {PAWN_possessive} rather average-shaped, mature butt.</li>
+            <li>The tightness around {PAWN_nameShortPossessive} anus is apparent, a neat feature on {PAWN_possessive} otherwise unremarkable, middle-aged posterior.</li>
+            <li>A glimpse confirms a tight anus, a typical characteristic. {PAWN_nameShortPossessive} mature butt appears neither overly firm nor loose.</li>
+            <li>Observing the form, the anus appears tight, completing the standard, somewhat angular contour of {PAWN_nameShortPossessive} buttocks.</li>
+            <li>A very tight anus. Its presence is noted, offering little distinct character beyond its usual compact form on {PAWN_nameShortPossessive} butt.</li>
+            <li>{PAWN_nameShortPossessive} posterior shows a tight aperture, consistent with {PAWN_possessive} age. The overall butt shape is proportionate and ordinary.</li>
+            <li>A remarkably tight anus is noted, a sign of general bodily condition. The surrounding glutes maintain a rather flat, standard outline.</li>
+            <li>The tight anus is a minor detail on {PAWN_nameShortPossessive} moderately defined butt, which is neither particularly muscular nor soft.</li>
+            <li>A tight anus, as observed, completes the rather unassuming but not displeasing contour of {PAWN_nameShortPossessive} male buttocks.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is apparent, aligning with the somewhat toned, standard presentation of {PAWN_possessive} backside.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale_observed_by_voyer</defName>
+        <label>Tight Anus (Neutral)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The tight anus of {PAWN_nameShort} is clearly visible, a subtle detail on {PAWN_possessive} otherwise conventional, mature backside. Worth a closer look.</li>
+            <li>A distinct tightness around the anal area is observed, intriguing in its defined presentation within {PAWN_nameShortPossessive} mature, somewhat flat buttocks.</li>
+            <li>The tight anus. It's there, a compact detail on {PAWN_nameShortPossessive} rear. The overall view is quite standard for {PAWN_possessive} age group, yet still merits attention.</li>
+            <li>A quick glance confirms a tight anus, presenting as a neat, unyielding feature on {PAWN_nameShortPossessive} moderately defined, mature posterior.</li>
+            <li>The anal tightness is apparent, a quiet statement on {PAWN_nameShortPossessive} backside. The general form of {PAWN_possessive} butt is adequate for observation.</li>
+            <li>Hidden, yet perceptible, the tight anus offers a small detail to the sight of {PAWN_nameShortPossessive} mature, somewhat firm buttocks.</li>
+            <li>Observing the details, the anus appears tight, a small point of interest on the average, mature contours of {PAWN_nameShortPossessive} buttocks.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is quite evident. It complements the overall subdued, yet well-formed, presentation of {PAWN_possessive} posterior.</li>
+            <li>One notices the tight anus, a neat anatomical element on {PAWN_nameShortPossessive} adequately shaped, mature backside. It is a subtle observation.</li>
+            <li>The anus, though tight, does not detract from or overly enhance the generally ordinary but pleasing shape of {PAWN_nameShortPossessive} middle-aged butt.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Tight Anus (Neutral)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed tight anus of {PAWN_nameShort} is plainly visible, a modest detail on {PAWN_possessive} otherwise mature and unembellished posterior.</li>
+            <li>{PAWN_nameShortPossessive} tight anus is on display, a compact feature that fits the ordinary but openly presented form of {PAWN_possessive} buttocks.</li>
+            <li>A tight anus, readily apparent, anchors {PAWN_nameShortPossessive} mature, average-shaped butt. The exposure is noted.</li>
+            <li>The tightness around {PAWN_nameShortPossessive} anal area is visible, an unsurprising anatomical detail that is openly presented on {PAWN_possessive} backside.</li>
+            <li>Observing the tight anus, it's a small, defined point on {PAWN_nameShortPossessive} mature, conventionally shaped posterior. The sight is quite clear.</li>
+            <li>The anus is tight, and {PAWN_nameShortPossessive} butt is openly displayed. A standard observation for a publicly exposed private part.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive} mature, visible posterior. It presents as a minor, yet distinct, anatomical characteristic.</li>
+            <li>The clear view reveals a tight anus, a neat feature on {PAWN_nameShortPossessive} moderately rounded butt, which seems to invite observation.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is undeniable when exposed. It's a precise detail on {PAWN_possessive} mature, average posterior.</li>
+            <li>The butt of {PAWN_nameShort} is on show, highlighting a tight anus; a typical sight, neither exciting nor disappointing.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Tight Anus (Neutral)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The tight anus of {PAWN_nameShort} is quite noticeable, a firm detail on {PAWN_possessive} mature buttocks, which seem intriguing enough.</li>
+            <li>A tight anus, suggesting a certain firmness. The defined, mature shape of {PAWN_nameShortPossessive} butt is certainly eye-catching, a provocative sight.</li>
+            <li>Observing the very tight anus, it hints at control and definition. {PAWN_nameShortPossessive} posterior, though mature, retains a pleasing, athletic form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight anus and well-defined, mature butt stirs a mild curiosity, suggesting potential for intimate experiences.</li>
+            <li>{PAWN_nameShortPossessive} tight anus is a focal point on {PAWN_possessive} firm, mature buttocks, hinting at disciplined firmness and intriguing possibilities.</li>
+            <li>The pronounced tightness of the anus is evident. {PAWN_nameShortPossessive} mature butt shape is appealingly firm, certainly catching one's attention.</li>
+            <li>A tight anus, indeed. It's a small but significant detail on {PAWN_nameShortPossessive} muscular, mature posterior, quite stimulating to observe.</li>
+            <li>{PAWN_nameShortPossessive} butt presents a tight anus, a neat and inviting feature on {PAWN_possessive} defined, mature form, sparking definite interest.</li>
+            <li>The tight anus is a compelling feature on {PAWN_nameShortPossessive} mature, well-defined buttocks. Its neatness is surprisingly enticing.</li>
+            <li>That tight anus, combined with the firm, mature contours of {PAWN_nameShortPossessive} butt, creates a subtly captivating and desirable view.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale_observed_by_Prude</defName>
+        <label>Tight Anus (Neutral)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A tight anus, unfortunately noticeable. {PAWN_nameShortPossessive} mature butt is far too exposed, a truly inappropriate display.</li>
+            <li>The glimpse of that tight anus is unsettling. {PAWN_nameShortPossessive} mature rear should not be so brazenly visible; it's quite shameful.</li>
+            <li>Such a tight anus. Its visibility on {PAWN_nameShortPossessive} mature, exposed buttocks is deeply uncomfortable and frankly, quite vulgar.</li>
+            <li>Observing the tight anus is truly distasteful. {PAWN_nameShortPossessive} butt, in its mature, revealed state, is an embarrassment.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is starkly obvious. This immodest exposure of {PAWN_possessive} mature posterior is utterly mortifying.</li>
+            <li>That tight anus is an unwelcome sight. {PAWN_nameShortPossessive} butt is too openly displayed for someone of {PAWN_possessive} years; it's improper.</li>
+            <li>The visible tight anus is quite shocking. {PAWN_nameShortPossessive} mature buttocks are unnecessarily bared, making for a truly indecent view.</li>
+            <li>An exposed, tight anus. It's a crude sight on {PAWN_nameShortPossessive} mature backside, leaving one feeling quite affronted by the lack of decorum.</li>
+            <li>The tight anus is undeniably prominent. {PAWN_nameShortPossessive} mature posterior should certainly be covered; this level of nudity is scandalous.</li>
+            <li>The sheer visibility of that tight anus is appalling. {PAWN_nameShortPossessive} mature butt is shamelessly revealed, a truly vulgar display.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale_observed_by_Young_male</defName>
+        <label>Tight Anus (Neutral)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a functional detail on his somewhat average, mature butt. It's nothing special.</li>
+            <li>The subtle tightness of his anus is evident, complementing his still-defined and firm, mature buttocks. It's an ordinary sight.</li>
+            <li>Observing his backside, his tight anus is noticeable. His butt, though mature, holds a respectable masculine shape.</li>
+            <li>His tight anus seems consistent with his build, nestled within a butt shape that remains quite solid and firm.</li>
+            <li>A tight anus, a neat detail. His mature butt is unexpectedly firm and well-preserved, a common enough view.</li>
+            <li>His buttocks present a tight anus, a small, defined feature. The overall form of his butt is decent for a man of his years.</li>
+            <li>The tightness of his anus is clear. His mature butt, while not youthful, maintains a strong contour, nothing unusual.</li>
+            <li>His tight anus catches the eye briefly, set against a mature butt that retains a notable, respectable muscularity.</li>
+            <li>Despite his age, his anus appears tight. His butt's shape is still quite good, suggesting he maintains his physique.</li>
+            <li>A somewhat surprising tightness around his anus. His mature butt has a decent, masculine form, quite typical.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale_observed_by_Young_female</defName>
+        <label>Tight Anus (Neutral)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a small detail on his well-formed, mature butt. It's quite decent for his age.</li>
+            <li>The subtle tightness of his anus is evident, complementing his still-defined and surprisingly firm, mature buttocks. It's an interesting sight.</li>
+            <li>Observing his backside, his tight anus is noticeable. His butt, though mature, holds a respectable shape, quite adequate.</li>
+            <li>His tight anus seems to defy his age somewhat, nestled within a butt shape that remains quite shapely and solid.</li>
+            <li>A tight anus, a neat detail. His mature butt is unexpectedly firm and well-preserved, a pleasant enough view.</li>
+            <li>His buttocks present a tight anus, a small, defined feature. The overall form of his butt is decent for a man of his years.</li>
+            <li>The tightness of his anus is clear. His mature butt, while not youthful, maintains a pleasing contour, nothing to complain about.</li>
+            <li>His tight anus catches the eye briefly, set against a mature butt that retains a notable, respectable roundness.</li>
+            <li>Despite his age, his anus appears tight. His butt's shape is still quite good, suggesting he keeps himself in shape.</li>
+            <li>A somewhat surprising tightness around his anus. His mature butt has a decent masculine curve, quite appealing even for an older man.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Tight Anus (Neutral)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a minor point on his mature, typically average-shaped butt. It seems normal enough.</li>
+            <li>The tightness around his anus is apparent. His butt, though mature, seems to hold its shape well enough, a common sight.</li>
+            <li>A tight anus, a rather unremarkable observation. His mature posterior is of a typical form, neither particularly firm nor soft.</li>
+            <li>Observing his backside, his anus appears tight. His middle-aged butt has a standard definition, nothing unexpected.</li>
+            <li>His anus is tight, a functional detail. His mature buttocks are proportionate, reflecting a usual state of preservation.</li>
+            <li>The tightness of his anus is noted. His mature butt's shape is average, a common sight among men his age.</li>
+            <li>His butt shows a tight anus, a small, defined feature. The overall form is a predictable, mature contour.</li>
+            <li>A tight anus is evident, not out of the ordinary. His mature posterior is adequately shaped, showing no unusual characteristics.</li>
+            <li>The glimpse of his tight anus is quickly processed. His middle-aged butt appears in typical, unexceptional condition.</li>
+            <li>His anus is tight, a detail that is neither unique nor particularly notable. His mature butt has a familiar form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Tight Anus (Neutral)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a minor detail on his mature, shapely butt. It’s certainly adequate for his age.</li>
+            <li>The tightness of his anus suggests good tone. His middle-aged butt retains a pleasing curve, a familiar and attractive form.</li>
+            <li>A discreetly tight anus. His mature buttocks possess a respectable definition, consistent with a well-preserved physique.</li>
+            <li>Observing his form, his anus appears tight, completing the moderately firm and mature curve of his posterior. It’s appealing.</li>
+            <li>His anus, tight and defined. His butt, though past its prime, maintains a comfortable, attractive muscularity; a satisfying view.</li>
+            <li>His buttocks present a tight anus, a neat point. His mature backside is acceptably firm and well-proportioned, quite common.</li>
+            <li>The tight anus is a noticeable feature. His mature butt has a pleasing, somewhat youthful firmness that catches the eye.</li>
+            <li>A subtle tightness around his anus. His middle-aged butt is defined and still quite attractive, a good example of mature masculinity.</li>
+            <li>His anus is tight, a fine detail. His butt's shape is what one might hope for in a man his age – a pleasant, solid form.</li>
+            <li>The glimpse of his tight anus confirms a certain upkeep. His mature posterior remains nicely formed, quite appealing.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Elder male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale_observed_by_Elder_male</defName>
+        <label>Tight Anus (Neutral)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a minor detail on his mature, well-maintained butt. It's quite decent for his age.</li>
+            <li>The subtle tightness of his anus is evident, complementing his still-defined and firm, mature buttocks. An expected sight.</li>
+            <li>Observing his backside, his tight anus is noticeable. His butt, though mature, holds a respectable masculine shape.</li>
+            <li>His tight anus seems consistent with his build, nestled within a butt shape that remains quite solid and firm.</li>
+            <li>A tight anus, a neat detail. His mature butt is unexpectedly firm and well-preserved, a common enough view.</li>
+            <li>His buttocks present a tight anus, a small, defined feature. The overall form of his butt is decent for a man of his years.</li>
+            <li>The tightness of his anus is clear. His mature butt, while not youthful, maintains a strong contour, nothing unusual.</li>
+            <li>His tight anus catches the eye briefly, set against a mature butt that retains a notable, respectable muscularity.</li>
+            <li>Despite his age, his anus appears tight. His butt's shape is still quite good, suggesting he maintains his physique.</li>
+            <li>A somewhat surprising tightness around his anus. His mature butt has a decent, masculine form, quite typical.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_MatureMale_observed_by_Elder_female</defName>
+        <label>Tight Anus (Neutral)_MatureMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a minor detail on his well-formed, mature butt. It's quite decent for his age.</li>
+            <li>The subtle tightness of his anus is evident, complementing his still-defined and surprisingly firm, mature buttocks. It's an interesting sight.</li>
+            <li>Observing his backside, his tight anus is noticeable. His butt, though mature, holds a respectable shape, quite adequate.</li>
+            <li>His tight anus seems to defy his age somewhat, nestled within a butt shape that remains quite shapely and solid.</li>
+            <li>A tight anus, a neat detail. His mature butt is unexpectedly firm and well-preserved, a pleasant enough view.</li>
+            <li>His buttocks present a tight anus, a small, defined feature. The overall form of his butt is decent for a man of his years.</li>
+            <li>The tightness of his anus is clear. His mature butt, while not youthful, maintains a pleasing contour, nothing to complain about.</li>
+            <li>His tight anus catches the eye briefly, set against a mature butt that retains a notable, respectable roundness.</li>
+            <li>Despite his age, his anus appears tight. His butt's shape is still quite good, suggesting he keeps himself in shape.</li>
+            <li>A somewhat surprising tightness around his anus. His mature butt has a decent masculine curve, quite appealing even for an older man.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale</defName>
+        <label>Tight Anus (Neutral)_ElderFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus is visible, a minor anatomical point on {PAWN_possessive} aged, typically rounded butt. It seems normal enough for her age.</li>
+            <li>The tightness around {PAWN_nameShortPossessive} anus is apparent. {PAWN_possessive} butt, though elderly, seems to hold its shape well enough, a common sight.</li>
+            <li>A tight anus, a rather unremarkable observation. {PAWN_nameShortPossessive} aged posterior is of a typical form, neither particularly firm nor excessively soft.</li>
+            <li>Observing {PAWN_possessive} backside, {PAWN_possessive} anus appears tight. {PAWN_nameShortPossessive} elderly butt has a standard roundness, nothing unexpected.</li>
+            <li>{PAWN_nameShortPossessive} anus is tight, a functional detail. {PAWN_possessive} elderly buttocks are proportionate, reflecting a usual state of preservation.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is noted. {PAWN_possessive} aged butt's shape is average, a common sight among women her age.</li>
+            <li>{PAWN_nameShortPossessive} butt shows a tight anus, a small, defined feature. The overall form is a predictable, aged contour.</li>
+            <li>A tight anus is evident, not out of the ordinary. {PAWN_nameShortPossessive} elderly posterior is adequately shaped, showing no unusual characteristics.</li>
+            <li>The glimpse of {PAWN_nameShortPossessive} tight anus is quickly processed. {PAWN_possessive} aged butt appears in typical, unexceptional condition.</li>
+            <li>{PAWN_nameShortPossessive} anus is tight, a detail that is neither unique nor particularly notable. {PAWN_possessive} elderly butt has a familiar form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale_observed_by_voyer</defName>
+        <label>Tight Anus (Neutral)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The tight anus of {PAWN_nameShort} is clearly visible, a subtle detail on {PAWN_possessive} otherwise conventional, elderly backside. Worth noting.</li>
+            <li>A distinct tightness around the anal area is observed, intriguing in its defined presentation within {PAWN_nameShortPossessive} aged, rounded buttocks.</li>
+            <li>The tight anus. It's there, a compact detail on {PAWN_nameShortPossessive} rear. The overall view is quite standard for {PAWN_possessive} age group.</li>
+            <li>A quick glance confirms a tight anus, presenting as a neat, unyielding feature on {PAWN_nameShortPossessive} moderately curved, elderly posterior.</li>
+            <li>The anal tightness is apparent, a quiet statement on {PAWN_nameShortPossessive} backside. The general form of {PAWN_possessive} butt is adequate.</li>
+            <li>Hidden, yet perceptible, the tight anus offers a small detail to the sight of {PAWN_nameShortPossessive} aged, somewhat firm buttocks.</li>
+            <li>Observing the details, the anus appears tight, a small point of interest on the average, elderly contours of {PAWN_nameShortPossessive} buttocks.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is quite evident. It complements the overall subdued, yet well-formed, presentation of {PAWN_possessive} posterior.</li>
+            <li>One notices the tight anus, a neat anatomical element on {PAWN_nameShortPossessive} adequately shaped, elderly backside. It is a subtle observation.</li>
+            <li>The anus, though tight, does not detract from or overly enhance the generally ordinary but pleasing shape of {PAWN_nameShortPossessive} aged butt.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Tight Anus (Neutral)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed tight anus of {PAWN_nameShort} is plainly visible, a modest detail on {PAWN_possessive} otherwise aged and unembellished posterior.</li>
+            <li>{PAWN_nameShortPossessive} tight anus is on display, a compact feature that fits the ordinary but openly presented form of {PAWN_possessive} buttocks.</li>
+            <li>A tight anus, readily apparent, anchors {PAWN_nameShortPossessive} aged, average-shaped butt. The exposure is noted.</li>
+            <li>The tightness around {PAWN_nameShortPossessive} anal area is visible, an unsurprising anatomical detail that is openly presented on {PAWN_possessive} backside.</li>
+            <li>Observing the tight anus, it's a small, defined point on {PAWN_nameShortPossessive} aged, conventionally shaped posterior. The sight is quite clear.</li>
+            <li>The anus is tight, and {PAWN_nameShortPossessive} butt is openly displayed. A standard observation for a publicly exposed private part.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive} aged, visible posterior. It presents as a minor, yet distinct, anatomical characteristic.</li>
+            <li>The clear view reveals a tight anus, a neat feature on {PAWN_nameShortPossessive} moderately rounded butt, which seems to invite observation.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is undeniable when exposed. It's a precise detail on {PAWN_possessive} aged, average posterior.</li>
+            <li>The butt of {PAWN_nameShort} is on show, highlighting a tight anus; a typical sight, neither exciting nor disappointing.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Tight Anus (Neutral)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The tight anus of {PAWN_nameShort} is quite noticeable, a firm detail on {PAWN_possessive} aged buttocks, which seem inviting enough, even at her age.</li>
+            <li>A tight anus, suggesting a certain firmness. The rounded, elderly shape of {PAWN_nameShortPossessive} butt is certainly eye-catching, a surprisingly provocative sight.</li>
+            <li>Observing the very tight anus, it hints at control and definition. {PAWN_nameShortPossessive} posterior, though elderly, retains a pleasing, ample form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight anus and well-defined, aged butt stirs a mild curiosity, suggesting potential for intimate experiences.</li>
+            <li>{PAWN_nameShortPossessive} tight anus is a focal point on {PAWN_possessive} full, elderly buttocks, hinting at disciplined firmness and intriguing possibilities.</li>
+            <li>The pronounced tightness of the anus is evident. {PAWN_nameShortPossessive} aged butt shape is appealingly firm, certainly catching one's attention despite her years.</li>
+            <li>A tight anus, indeed. It's a small but significant detail on {PAWN_nameShortPossessive} surprisingly voluptuous, elderly posterior, quite stimulating to observe.</li>
+            <li>{PAWN_nameShortPossessive} butt presents a tight anus, a neat and inviting feature on {PAWN_possessive} curvaceous, aged form, sparking definite interest.</li>
+            <li>The tight anus is a compelling feature on {PAWN_nameShortPossessive} elderly, well-rounded buttocks. Its neatness is surprisingly enticing.</li>
+            <li>That tight anus, combined with the ample, aged curves of {PAWN_nameShortPossessive} butt, creates a subtly captivating and desirable view, even in old age.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale_observed_by_Prude</defName>
+        <label>Tight Anus (Neutral)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A tight anus, unfortunately noticeable. {PAWN_nameShortPossessive} aged butt is far too exposed, a truly inappropriate display.</li>
+            <li>The glimpse of that tight anus is unsettling. {PAWN_nameShortPossessive} elderly rear should not be so brazenly visible; it's quite shameful.</li>
+            <li>Such a tight anus. Its visibility on {PAWN_nameShortPossessive} aged, exposed buttocks is deeply uncomfortable and frankly, quite vulgar.</li>
+            <li>Observing the tight anus is truly distasteful. {PAWN_nameShortPossessive} butt, in its elderly, revealed state, is an embarrassment.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is starkly obvious. This immodest exposure of {PAWN_possessive} aged posterior is utterly mortifying.</li>
+            <li>That tight anus is an unwelcome sight. {PAWN_nameShortPossessive} butt is too openly displayed for someone of {PAWN_possessive} years; it's improper.</li>
+            <li>The visible tight anus is quite shocking. {PAWN_nameShortPossessive} elderly buttocks are unnecessarily bared, making for a truly indecent view.</li>
+            <li>An exposed, tight anus. It's a crude sight on {PAWN_nameShortPossessive} aged backside, leaving one feeling quite affronted by the lack of decorum.</li>
+            <li>The tight anus is undeniably prominent. {PAWN_nameShortPossessive} elderly posterior should certainly be covered; this level of nudity is scandalous.</li>
+            <li>The sheer visibility of that tight anus is appalling. {PAWN_nameShortPossessive} aged butt is shamelessly revealed, a truly vulgar display.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale_observed_by_Young_male</defName>
+        <label>Tight Anus (Neutral)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a minor detail on her aged, somewhat flat butt. It's certainly not youthful.</li>
+            <li>The tightness around her anus is evident. Her elderly buttocks, though showing age, surprisingly retain some firmness.</li>
+            <li>Observing her backside, her tight anus is noticeable. Her butt, while aged, holds a functional, if not particularly appealing, shape.</li>
+            <li>Her tight anus seems to be a resilient feature, nestled within an elderly butt shape that is quite unremarkable.</li>
+            <li>A tight anus, a neat detail. Her aged butt is as one might expect, neither firm nor particularly saggy.</li>
+            <li>Her buttocks present a tight anus, a small, defined feature. The overall form of her butt is decent for a woman of her years.</li>
+            <li>The tightness of her anus is clear. Her elderly butt, while not youthful, maintains a plain contour, nothing striking.</li>
+            <li>Her tight anus catches the eye briefly, set against an aged butt that retains a notable, if somewhat diminished, roundness.</li>
+            <li>Despite her age, her anus appears tight. Her butt's shape is still adequate, suggesting she has kept herself reasonably well.</li>
+            <li>A somewhat surprising tightness around her anus. Her aged butt has a decent curve, quite unremarkable for an older woman.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale_observed_by_Young_female</defName>
+        <label>Tight Anus (Neutral)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a small point on her aged, rather average-shaped butt. Nothing particularly striking about it.</li>
+            <li>The tightness around her anus is present, a minor detail on her elderly posterior, which maintains a somewhat predictable curve.</li>
+            <li>A brief glance confirms a tight anus. Her aged butt, while not remarkable, appears to be in reasonable condition for her years.</li>
+            <li>Her anus seems tight. The form of her butt is typical for an elderly woman, neither impressive nor unattractive.</li>
+            <li>Observing the tight anus, it's a neat, unyielding detail. Her aged buttocks have a standard, moderately rounded shape.</li>
+            <li>The tight anus is a discreet feature on her elderly butt, which has a rather ordinary, yet well-proportioned, appearance.</li>
+            <li>Her butt shows a tight anus. It's a common characteristic that doesn't particularly stand out on her otherwise average, aged backside.</li>
+            <li>A tight anus is evident. Her elderly butt has a general roundness, consistent with someone of her age, nothing extraordinary.</li>
+            <li>The tightness of her anus is noted, a functional detail. Her aged posterior is what one would expect, neither firm nor lax.</li>
+            <li>Her anus is tight, and her butt is of an aged, average shape. It's a mundane observation, quite unremarkable.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Tight Anus (Neutral)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a minor detail on her aged, rather flat butt. It's certainly not youthful.</li>
+            <li>The tightness around her anus is evident. Her elderly buttocks, though showing age, surprisingly retain some firmness.</li>
+            <li>Observing her backside, her tight anus is noticeable. Her butt, while aged, holds a functional, if not particularly appealing, shape.</li>
+            <li>Her tight anus seems to be a resilient feature, nestled within an elderly butt shape that is quite unremarkable.</li>
+            <li>A tight anus, a neat detail. Her aged butt is as one might expect, neither firm nor particularly saggy.</li>
+            <li>Her buttocks present a tight anus, a small, defined feature. The overall form of her butt is decent for a woman of her years.</li>
+            <li>The tightness of her anus is clear. Her elderly butt, while not youthful, maintains a plain contour, nothing striking.</li>
+            <li>Her tight anus catches the eye briefly, set against an aged butt that retains a notable, if somewhat diminished, roundness.</li>
+            <li>Despite her age, her anus appears tight. Her butt's shape is still adequate, suggesting she has kept herself reasonably well.</li>
+            <li>A somewhat surprising tightness around her anus. Her aged butt has a decent curve, quite unremarkable for an older woman.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Tight Anus (Neutral)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a minor point on her aged, rather average-shaped butt. Nothing particularly striking about it.</li>
+            <li>The tightness around her anus is present, a minor detail on her elderly posterior, which maintains a somewhat predictable curve.</li>
+            <li>A brief glance confirms a tight anus. Her aged butt, while not remarkable, appears to be in reasonable condition for her years.</li>
+            <li>Her anus seems tight. The form of her butt is typical for an elderly woman, neither impressive nor unattractive.</li>
+            <li>Observing the tight anus, it's a neat, unyielding detail. Her aged buttocks have a standard, moderately rounded shape.</li>
+            <li>The tight anus is a discreet feature on her elderly butt, which has a rather ordinary, yet well-proportioned, appearance.</li>
+            <li>Her butt shows a tight anus. It's a common characteristic that doesn't particularly stand out on her otherwise average, aged backside.</li>
+            <li>A tight anus is evident, not out of the ordinary. Her elderly butt has a general roundness, consistent with someone of her age, nothing extraordinary.</li>
+            <li>The tightness of her anus is noted, a functional detail. Her aged posterior is what one would expect, neither firm nor lax.</li>
+            <li>Her anus is tight, and her butt is of an aged, average shape. It's a mundane observation, quite unremarkable.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale_observed_by_Elder_male</defName>
+        <label>Tight Anus (Neutral)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a minor detail on her aged, somewhat flat butt. It's certainly not youthful.</li>
+            <li>The tightness around her anus is evident. Her elderly buttocks, though showing age, surprisingly retain some firmness.</li>
+            <li>Observing her backside, her tight anus is noticeable. Her butt, while aged, holds a functional, if not particularly appealing, shape.</li>
+            <li>Her tight anus seems to be a resilient feature, nestled within an elderly butt shape that is quite unremarkable.</li>
+            <li>A tight anus, a neat detail. Her aged butt is as one might expect, neither firm nor particularly saggy.</li>
+            <li>Her buttocks present a tight anus, a small, defined feature. The overall form of her butt is decent for a woman of her years.</li>
+            <li>The tightness of her anus is clear. Her elderly butt, while not youthful, maintains a plain contour, nothing striking.</li>
+            <li>Her tight anus catches the eye briefly, set against an aged butt that retains a notable, if somewhat diminished, roundness.</li>
+            <li>Despite her age, her anus appears tight. Her butt's shape is still adequate, suggesting she has kept herself reasonably well.</li>
+            <li>A somewhat surprising tightness around her anus. Her aged butt has a decent curve, quite unremarkable for an older woman.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderFemale_observed_by_Elder_female</defName>
+        <label>Tight Anus (Neutral)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tight anus is visible, a minor point on her aged, rather average-shaped butt. Nothing particularly striking about it.</li>
+            <li>The tightness around her anus is present, a minor detail on her elderly posterior, which maintains a somewhat predictable curve.</li>
+            <li>A brief glance confirms a tight anus. Her aged butt, while not remarkable, appears to be in reasonable condition for her years.</li>
+            <li>Her anus seems tight. The form of her butt is typical for an elderly woman, neither impressive nor unattractive.</li>
+            <li>Observing the tight anus, it's a neat, unyielding detail. Her aged buttocks have a standard, moderately rounded shape.</li>
+            <li>The tight anus is a discreet feature on her elderly butt, which has a rather ordinary, yet well-proportioned, appearance.</li>
+            <li>Her butt shows a tight anus. It's a common characteristic that doesn't particularly stand out on her otherwise average, aged backside.</li>
+            <li>A tight anus is evident, not out of the ordinary. Her elderly butt has a general roundness, consistent with someone of her age, nothing extraordinary.</li>
+            <li>The tightness of her anus is noted, a functional detail. Her aged posterior is what one would expect, neither firm nor lax.</li>
+            <li>Her anus is tight, and her butt is of an aged, average shape. It's a mundane observation, quite unremarkable.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale</defName>
+        <label>Tight Anus (Neutral)_ElderMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight anus is visible, a functional detail on {PAWN_possessive} aged, rather flat butt. It's certainly not youthful.</li>
+            <li>The tightness around {PAWN_nameShortPossessive} anus is evident. {PAWN_possessive} elderly buttocks, though showing age, surprisingly retain some firmness.</li>
+            <li>Observing {PAWN_possessive} backside, {PAWN_possessive} anus is noticeable. {PAWN_nameShortPossessive} butt, while aged, holds a functional, if not particularly appealing, shape.</li>
+            <li>{PAWN_nameShortPossessive} tight anus seems to be a resilient feature, nestled within an elderly butt shape that is quite unremarkable.</li>
+            <li>A tight anus, a neat detail. {PAWN_nameShortPossessive} aged butt is as one might expect, neither firm nor particularly saggy.</li>
+            <li>{PAWN_nameShortPossessive} buttocks present a tight anus, a small, defined feature. The overall form of {PAWN_possessive} butt is decent for a man of {PAWN_possessive} years.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is clear. {PAWN_nameShortPossessive} elderly butt, while not youthful, maintains a plain contour, nothing striking.</li>
+            <li>{PAWN_nameShortPossessive} tight anus catches the eye briefly, set against an aged butt that retains a notable, if somewhat diminished, muscularity.</li>
+            <li>Despite {PAWN_possessive} age, {PAWN_possessive} anus appears tight. {PAWN_possessive} butt's shape is still adequate, suggesting {PAWN_possessive} has kept {PAWN_objective}self reasonably well.</li>
+            <li>A somewhat surprising tightness around {PAWN_nameShortPossessive} anus. {PAWN_possessive} aged butt has a decent masculine form, quite unremarkable for an older man.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale_observed_by_voyer</defName>
+        <label>Tight Anus (Neutral)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The tight anus of {PAWN_nameShort} is clearly visible, a subtle detail on {PAWN_possessive} otherwise conventional, elderly backside. Worth noting.</li>
+            <li>A distinct tightness around the anal area is observed, intriguing in its defined presentation within {PAWN_nameShortPossessive} aged, defined buttocks.</li>
+            <li>The tight anus. It's there, a compact detail on {PAWN_nameShortPossessive} rear. The overall view is quite standard for {PAWN_possessive} age group.</li>
+            <li>A quick glance confirms a tight anus, presenting as a neat, unyielding feature on {PAWN_nameShortPossessive} moderately defined, elderly posterior.</li>
+            <li>The anal tightness is apparent, a quiet statement on {PAWN_nameShortPossessive} backside. The general form of {PAWN_possessive} butt is adequate.</li>
+            <li>Hidden, yet perceptible, the tight anus offers a small detail to the sight of {PAWN_nameShortPossessive} aged, somewhat firm buttocks.</li>
+            <li>Observing the details, the anus appears tight, a small point of interest on the average, elderly contours of {PAWN_nameShortPossessive} buttocks.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is quite evident. It complements the overall subdued, yet well-formed, presentation of {PAWN_possessive} posterior.</li>
+            <li>One notices the tight anus, a neat anatomical element on {PAWN_nameShortPossessive} adequately shaped, elderly backside. It is a subtle observation.</li>
+            <li>The anus, though tight, does not detract from or overly enhance the generally ordinary but pleasing shape of {PAWN_nameShortPossessive} aged butt.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Tight Anus (Neutral)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed tight anus of {PAWN_nameShort} is plainly visible, a modest detail on {PAWN_possessive} otherwise aged and unembellished posterior.</li>
+            <li>{PAWN_nameShortPossessive} tight anus is on display, a compact feature that fits the ordinary but openly presented form of {PAWN_possessive} buttocks.</li>
+            <li>A tight anus, readily apparent, anchors {PAWN_nameShortPossessive} aged, average-shaped butt. The exposure is noted.</li>
+            <li>The tightness around {PAWN_nameShortPossessive} anal area is visible, an unsurprising anatomical detail that is openly presented on {PAWN_possessive} backside.</li>
+            <li>Observing the tight anus, it's a small, defined point on {PAWN_nameShortPossessive} aged, conventionally shaped posterior. The sight is quite clear.</li>
+            <li>The anus is tight, and {PAWN_nameShortPossessive} butt is openly displayed. A standard observation for a publicly exposed private part.</li>
+            <li>A tight anus on {PAWN_nameShortPossessive} aged, visible posterior. It presents as a minor, yet distinct, anatomical characteristic.</li>
+            <li>The clear view reveals a tight anus, a neat feature on {PAWN_nameShortPossessive} moderately defined butt, which seems to invite observation.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is undeniable when exposed. It's a precise detail on {PAWN_possessive} aged, average posterior.</li>
+            <li>The butt of {PAWN_nameShort} is on show, highlighting a tight anus; a typical sight, neither exciting nor disappointing.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Tight Anus (Neutral)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The tight anus of {PAWN_nameShort} is quite noticeable, a firm detail on {PAWN_possessive} aged buttocks, which seem intriguing enough, even at his age.</li>
+            <li>A tight anus, suggesting a certain firmness. The defined, elderly shape of {PAWN_nameShortPossessive} butt is certainly eye-catching, a surprisingly provocative sight.</li>
+            <li>Observing the very tight anus, it hints at control and definition. {PAWN_nameShortPossessive} posterior, though elderly, retains a pleasing, athletic form.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight anus and well-defined, aged butt stirs a mild curiosity, suggesting potential for intimate experiences.</li>
+            <li>{PAWN_nameShortPossessive} tight anus is a focal point on {PAWN_possessive} firm, elderly buttocks, hinting at disciplined firmness and intriguing possibilities.</li>
+            <li>The pronounced tightness of the anus is evident. {PAWN_nameShortPossessive} aged butt shape is appealingly firm, certainly catching one's attention despite his years.</li>
+            <li>A tight anus, indeed. It's a small but significant detail on {PAWN_nameShortPossessive} muscular, elderly posterior, quite stimulating to observe.</li>
+            <li>{PAWN_nameShortPossessive} butt presents a tight anus, a neat and inviting feature on {PAWN_possessive} defined, aged form, sparking definite interest.</li>
+            <li>The tight anus is a compelling feature on {PAWN_nameShortPossessive} elderly, well-defined buttocks. Its neatness is surprisingly enticing.</li>
+            <li>That tight anus, combined with the firm, aged contours of {PAWN_nameShortPossessive} butt, creates a subtly captivating and desirable view, even in old age.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale_observed_by_Prude</defName>
+        <label>Tight Anus (Neutral)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A tight anus, unfortunately noticeable. {PAWN_nameShortPossessive} aged butt is far too exposed, a truly inappropriate display.</li>
+            <li>The glimpse of that tight anus is unsettling. {PAWN_nameShortPossessive} elderly rear should not be so brazenly visible; it's quite shameful.</li>
+            <li>Such a tight anus. Its visibility on {PAWN_nameShortPossessive} aged, exposed buttocks is deeply uncomfortable and frankly, quite vulgar.</li>
+            <li>Observing the tight anus is truly distasteful. {PAWN_nameShortPossessive} butt, in its elderly, revealed state, is an embarrassment.</li>
+            <li>The tightness of {PAWN_nameShortPossessive} anus is starkly obvious. This immodest exposure of {PAWN_possessive} aged posterior is utterly mortifying.</li>
+            <li>That tight anus is an unwelcome sight. {PAWN_nameShortPossessive} butt is too openly displayed for someone of {PAWN_possessive} years; it's improper.</li>
+            <li>The visible tight anus is quite shocking. {PAWN_nameShortPossessive} elderly buttocks are unnecessarily bared, making for a truly indecent view.</li>
+            <li>An exposed, tight anus. It's a crude sight on {PAWN_nameShortPossessive} aged backside, leaving one feeling quite affronted by the lack of decorum.</li>
+            <li>The tight anus is undeniably prominent. {PAWN_nameShortPossessive} elderly posterior should certainly be covered; this level of nudity is scandalous.</li>
+            <li>The sheer visibility of that tight anus is appalling. {PAWN_nameShortPossessive} aged butt is shamelessly revealed, a truly vulgar display.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale_observed_by_Young_male</defName>
+        <label>Tight Anus (Neutral)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a functional detail on his aged, rather flat butt. It's certainly not youthful.</li>
+            <li>The tightness around his anus is evident. His elderly buttocks, though showing age, surprisingly retain some firmness.</li>
+            <li>Observing his backside, his tight anus is noticeable. His butt, while aged, holds a functional, if not particularly appealing, shape.</li>
+            <li>His tight anus seems to be a resilient feature, nestled within an elderly butt shape that is quite unremarkable.</li>
+            <li>A tight anus, a neat detail. His aged butt is as one might expect, neither firm nor particularly saggy.</li>
+            <li>His buttocks present a tight anus, a small, defined feature. The overall form of his butt is decent for a man of his years.</li>
+            <li>The tightness of his anus is clear. His elderly butt, while not youthful, maintains a plain contour, nothing striking.</li>
+            <li>His tight anus catches the eye briefly, set against an aged butt that retains a notable, if somewhat diminished, muscularity.</li>
+            <li>Despite his age, his anus appears tight. His butt's shape is still adequate, suggesting he has kept himself reasonably well.</li>
+            <li>A somewhat surprising tightness around his anus. His aged butt has a decent masculine form, quite unremarkable for an older man.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale_observed_by_Young_female</defName>
+        <label>Tight Anus (Neutral)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a minor detail on his aged, somewhat flat butt. It's certainly not youthful.</li>
+            <li>The tightness around his anus is evident. His elderly buttocks, though showing age, surprisingly retain some firmness.</li>
+            <li>Observing his backside, his tight anus is noticeable. His butt, while aged, holds a functional, if not particularly appealing, shape.</li>
+            <li>His tight anus seems to be a resilient feature, nestled within an elderly butt shape that is quite unremarkable.</li>
+            <li>A tight anus, a neat detail. His aged butt is as one might expect, neither firm nor particularly saggy.</li>
+            <li>His buttocks present a tight anus, a small, defined feature. The overall form of his butt is decent for a man of his years.</li>
+            <li>The tightness of his anus is clear. His elderly butt, while not youthful, maintains a plain contour, nothing striking.</li>
+            <li>His tight anus catches the eye briefly, set against an aged butt that retains a notable, if somewhat diminished, muscularity.</li>
+            <li>Despite his age, his anus appears tight. His butt's shape is still adequate, suggesting he has kept himself reasonably well.</li>
+            <li>A somewhat surprising tightness around his anus. His aged butt has a decent masculine form, quite unremarkable for an older man.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Tight Anus (Neutral)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a functional detail on his aged, rather flat butt. It's certainly not youthful.</li>
+            <li>The tightness around his anus is evident. His elderly buttocks, though showing age, surprisingly retain some firmness.</li>
+            <li>Observing his backside, his tight anus is noticeable. His butt, while aged, holds a functional, if not particularly appealing, shape.</li>
+            <li>His tight anus seems to be a resilient feature, nestled within an elderly butt shape that is quite unremarkable.</li>
+            <li>A tight anus, a neat detail. His aged butt is as one might expect, neither firm nor particularly saggy.</li>
+            <li>His buttocks present a tight anus, a small, defined feature. The overall form of his butt is decent for a man of his years.</li>
+            <li>The tightness of his anus is clear. His elderly butt, while not youthful, maintains a plain contour, nothing striking.</li>
+            <li>His tight anus catches the eye briefly, set against an aged butt that retains a notable, if somewhat diminished, muscularity.</li>
+            <li>Despite his age, his anus appears tight. His butt's shape is still adequate, suggesting he has kept himself reasonably well.</li>
+            <li>A somewhat surprising tightness around his anus. His aged butt has a decent masculine form, quite unremarkable for an older man.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Tight Anus (Neutral)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a minor detail on his aged, somewhat flat butt. It's certainly not youthful.</li>
+            <li>The tightness around his anus is evident. His elderly buttocks, though showing age, surprisingly retain some firmness.</li>
+            <li>Observing his backside, his tight anus is noticeable. His butt, while aged, holds a functional, if not particularly appealing, shape.</li>
+            <li>His tight anus seems to be a resilient feature, nestled within an elderly butt shape that is quite unremarkable.</li>
+            <li>A tight anus, a neat detail. His aged butt is as one might expect, neither firm nor particularly saggy.</li>
+            <li>His buttocks present a tight anus, a small, defined feature. The overall form of his butt is decent for a man of his years.</li>
+            <li>The tightness of his anus is clear. His elderly butt, while not youthful, maintains a plain contour, nothing striking.</li>
+            <li>His tight anus catches the eye briefly, set against an aged butt that retains a notable, if somewhat diminished, muscularity.</li>
+            <li>Despite his age, his anus appears tight. His butt's shape is still adequate, suggesting he has kept himself reasonably well.</li>
+            <li>A somewhat surprising tightness around his anus. His aged butt has a decent masculine form, quite unremarkable for an older man.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale_observed_by_Elder_male</defName>
+        <label>Tight Anus (Neutral)_ElderMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a functional detail on his aged, rather flat butt. It's certainly not youthful.</li>
+            <li>The tightness around his anus is evident. His elderly buttocks, though showing age, surprisingly retain some firmness.</li>
+            <li>Observing his backside, his tight anus is noticeable. His butt, while aged, holds a functional, if not particularly appealing, shape.</li>
+            <li>His tight anus seems to be a resilient feature, nestled within an elderly butt shape that is quite unremarkable.</li>
+            <li>A tight anus, a neat detail. His aged butt is as one might expect, neither firm nor particularly saggy.</li>
+            <li>His buttocks present a tight anus, a small, defined feature. The overall form of his butt is decent for a man of his years.</li>
+            <li>The tightness of his anus is clear. His elderly butt, while not youthful, maintains a plain contour, nothing striking.</li>
+            <li>His tight anus catches the eye briefly, set against an aged butt that retains a notable, if somewhat diminished, muscularity.</li>
+            <li>Despite his age, his anus appears tight. His butt's shape is still adequate, suggesting he has kept himself reasonably well.</li>
+            <li>A somewhat surprising tightness around his anus. His aged butt has a decent masculine form, quite unremarkable for an older man.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Tight_ElderMale_observed_by_Elder_female</defName>
+        <label>Tight Anus (Neutral)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His tight anus is visible, a minor detail on his aged, somewhat flat butt. It's certainly not youthful.</li>
+            <li>The tightness around his anus is evident. His elderly buttocks, though showing age, surprisingly retain some firmness.</li>
+            <li>Observing his backside, his tight anus is noticeable. His butt, while aged, holds a functional, if not particularly appealing, shape.</li>
+            <li>His tight anus seems to be a resilient feature, nestled within an elderly butt shape that is quite unremarkable.</li>
+            <li>A tight anus, a neat detail. His aged butt is as one might expect, neither firm nor particularly saggy.</li>
+            <li>His buttocks present a tight anus, a small, defined feature. The overall form of his butt is decent for a man of his years.</li>
+            <li>The tightness of his anus is clear. His elderly butt, while not youthful, maintains a plain contour, nothing striking.</li>
+            <li>His tight anus catches the eye briefly, set against an aged butt that retains a notable, if somewhat diminished, muscularity.</li>
+            <li>Despite his age, his anus appears tight. His butt's shape is still adequate, suggesting he has kept himself reasonably well.</li>
+            <li>A somewhat surprising tightness around his anus. His aged butt has a decent masculine form, quite unremarkable for an older man.</li>
+        </opinionTexts>
+</Def>
+</Defs>

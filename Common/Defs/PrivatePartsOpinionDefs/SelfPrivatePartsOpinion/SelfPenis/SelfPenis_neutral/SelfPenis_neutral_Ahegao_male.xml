@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Male gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Micro_Ahegao_Male_Neutral</defName>
+        <label>Opinion_Self_Penis_Micro_Ahegao_Male_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My micro-penis feels utterly content, a subtle throb of satisfaction echoing the recent release. My mood remains undisturbed, just a calm afterglow.</li>
+            <li>A quiet peace settles over my tiny member; fully sated, it rests, small and unassuming. My thoughts drift, unburdened by any grand expectations.</li>
+            <li>Post-coital bliss leaves my micro-penis perfectly limp, an almost unnoticeable part of my deeply relaxed state. Balls feel normal.</li>
+            <li>The faint pulsations from my little friend confirm complete relief, contributing to my general serene and settled disposition. No complaints, no praise.</li>
+            <li>It's just there, a small, softened presence after peak arousal. My mind floats in a neutral space, the ahegao state complete.</li>
+            <li>Surprisingly, this size delivers. A profound sense of post-climax tranquility washes over me, leaving my small shaft dormant and my mind clear.</li>
+            <li>My micro-penis, though modest, has done its duty. Now, a profound relaxation encompasses my being, with no judgment of its size.</li>
+            <li>Feeling completely at ease, my tiny member is softly receded. The ahegao state is truly calming, leaving no room for self-consciousness.</li>
+            <li>A gentle stillness pervades, my small penis now soft and quiet. The earlier intensity has faded, replaced by pure, unadulterated calm.</li>
+            <li>It feels settled and unassuming. The waves of pleasure have subsided, leaving me in a state of tranquil indifference regarding its dimensions.</li>
+            <li>The relief is palpable, my little friend resting without fanfare. My mood is perfectly balanced, neither up nor down.</li>
+            <li>Small but effective; my penis feels utterly drained and at peace. My whole body is enjoying this prolonged, mellow state of satisfaction.</li>
+            <li>It exists, comfortably nestled. The ahegao state brings a deep, quiet contentment, and its size simply doesn't register as important.</li>
+            <li>My micro-penis is comfortably soft, echoing the complete lack of tension throughout my body. A tranquil, neutral sensation.</li>
+            <li>A gentle warmth emanates from my small part, perfectly aligned with the restful calm of my current state. No strong feelings.</li>
+            <li>Peacefully limp, my tiny penis signifies a job well done. My mind is placid, thoughts unfocused on its humble form.</li>
+            <li>The quietude around my small member is reflective of my deep satisfaction. All desire is spent, leaving only a neutral, calm awareness.</li>
+            <li>It just is. My micro-penis, having experienced peak pleasure, is now a calm, unremarkable part of my relaxed anatomy.</li>
+            <li>Completely sated, my small shaft barely registers. The relaxation is profound, and its size is merely an observed fact, nothing more.</li>
+            <li>My small penis feels pleasantly deflated, the climax fully achieved. I am content, floating in this neutral, post-orgasmic peace.</li>
+            <li>A sense of quiet completion emanates from my micro-penis, mirroring my overall serene mood and relaxed posture. No judgment.</li>
+            <li>It's resting, small and unassuming. The intense pleasure has subsided, leaving a gentle ebb of calm that extends throughout my body.</li>
+            <li>My humble member is soft and at peace, perfectly fitting my state of deep sexual satisfaction and mental tranquility.</li>
+            <li>The subtle feeling of my tiny penis is overshadowed by the profound calm. A complete sense of release, just a quiet, neutral presence.</li>
+            <li>Having achieved its purpose, my micro-penis feels unremarkably soft. My mood is perfectly balanced, acknowledging the deep ahegao state.</li>
+            <li>It's just there, a small, flaccid entity. My mind is clear, enjoying the peaceful aftermath of profound sexual contentment, unconcerned with its size.</li>
+            <li>A quiet satisfaction surrounds my micro-penis, now soft and still. My entire being is deeply relaxed, floating in an indifferent bliss.</li>
+            <li>My small shaft is simply present, a testament to the completed act. The ahegao state provides a calm that transcends physical details.</li>
+            <li>It has fulfilled its role. My tiny penis feels utterly neutral, contributing to the quiet, sated feeling that pervades my consciousness.</li>
+            <li>My micro-penis is dormant, yet imbued with the lingering calm of total satisfaction. My mind is wonderfully blank and at peace.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Male gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Small_Ahegao_Male_Neutral</defName>
+        <label>Opinion_Self_Penis_Small_Ahegao_Male_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My small penis, having fully delivered, now rests softly. A profound, almost blissful neutrality washes over me, devoid of self-judgment.</li>
+            <li>A pleasant flaccidity settles over my small member; complete satisfaction leaves me feeling deeply content and unbothered by its modest size.</li>
+            <li>The faint warmth of my small penis indicates a recent, thorough release. My mood is serene, an ahegao state of pure, quiet fulfillment.</li>
+            <li>It's quietly softened, its work entirely done. The overwhelming calm of ahegao fills me, making any thoughts of its size irrelevant.</li>
+            <li>My small penis is relaxed and unassuming. The deep, sated feeling it brings leaves me utterly peaceful, floating in tranquil neutrality.</li>
+            <li>Post-climax, my small penis feels pleasantly spent, contributing to a generalized, peaceful aura. My balls feel lighter too.</li>
+            <li>The quiet presence of my small member reflects the deep, languid calm pervading my body and mind after total sexual release.</li>
+            <li>It’s just resting there, a soft, small presence. My mind is wonderfully clear, enjoying the peaceful afterglow of complete satisfaction.</li>
+            <li>My small penis feels comfortably soft, the last echoes of pleasure fading into a pervasive sense of neutral, profound contentment.</li>
+            <li>A gentle stillness surrounds my small member. The ahegao state is complete, leaving me in a state of calm indifference regarding its form.</li>
+            <li>Having achieved total release, my small penis is now completely limp. My mood is balanced, at peace, acknowledging a job well done.</li>
+            <li>The subtle weight of my small penis adds to the sense of deep relaxation. My thoughts drift, unburdened by any lingering desire.</li>
+            <li>It feels settled and quiet. The profound satisfaction of the ahegao state absorbs my attention, leaving me unconcerned with its dimensions.</li>
+            <li>My small penis is dormant, its prior activity a distant memory. I exist in a state of peaceful, neutral equilibrium.</li>
+            <li>A comfortable emptiness resonates from my small penis, perfectly aligned with the deep, post-orgasmic tranquility now embracing me.</li>
+            <li>The slight weight of my small member anchors me in this deep state of calm. My mood is placid, thoughts unfocused on its humble form.</li>
+            <li>My small penis is simply there, a quiet, soft companion to my profoundly relaxed state. A subtle, neutral hum of contentment.</li>
+            <li>It's fully at rest, contributing to the overall sense of serene satisfaction. Its size is a neutral observation within this peaceful afterglow.</li>
+            <li>The softness of my small penis signals a successful and complete release. My mind is wonderfully blank, deeply immersed in ahegao.</li>
+            <li>My small member feels pleasantly deflated, the climax fully achieved. I am profoundly content, floating in this neutral, post-orgasmic peace.</li>
+            <li>A sense of quiet completion emanates from my small penis, mirroring my overall serene mood and relaxed posture. No judgment, just calm.</li>
+            <li>It's resting, small and unassuming, but fully satisfied. The intense pleasure has subsided, leaving a gentle ebb of calm throughout my being.</li>
+            <li>My humble member is soft and at peace, perfectly fitting my state of deep sexual satisfaction and mental tranquility, no thoughts of comparison.</li>
+            <li>The subtle feeling of my small penis is entirely overshadowed by the profound calm. A complete sense of release, just a quiet, neutral presence.</li>
+            <li>Having achieved its purpose, my small penis feels unremarkably soft. My mood is perfectly balanced, acknowledging the deep ahegao state.</li>
+            <li>It's just there, a soft, flaccid entity. My mind is clear, enjoying the peaceful aftermath of profound sexual contentment, unconcerned with its size.</li>
+            <li>A quiet satisfaction surrounds my small penis, now soft and still. My entire being is deeply relaxed, floating in an indifferent bliss.</li>
+            <li>My small shaft is simply present, a testament to the completed act. The ahegao state provides a calm that transcends physical details.</li>
+            <li>It has fulfilled its role. My small penis feels utterly neutral, contributing to the quiet, sated feeling that pervades my consciousness.</li>
+            <li>My small penis is dormant, yet imbued with the lingering calm of total satisfaction. My mind is wonderfully blank and at peace.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Male gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Average_Ahegao_Male_Neutral</defName>
+        <label>Opinion_Self_Penis_Average_Ahegao_Male_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My average penis feels perfectly sated, a quiet thrum of contented relaxation settling through my body. Balls feel comfortably relaxed.</li>
+            <li>A peaceful calm has enveloped my average member; it rests, soft and satisfied. My mind is clear, simply basking in the afterglow.</li>
+            <li>Post-climax, my average penis is completely flaccid, echoing the deep, unbothered tranquility within. A profound, neutral satisfaction.</li>
+            <li>The familiar presence of my average penis is now entirely at peace, contributing to my serene ahegao state. No strong feelings, just calm.</li>
+            <li>It feels settled and unassuming. My overall mood is perfectly balanced, enjoying the pervasive sense of relief and total fulfillment.</li>
+            <li>My average penis, having delivered fully, feels pleasantly spent. The cum has dried, and my mind is now floating in pure, neutral bliss.</li>
+            <li>A comforting weight from my average member reminds me of a satisfying release. My thoughts drift, embracing the gentle calm.</li>
+            <li>It’s just there, soft and quiescent. The waves of pleasure have subsided, leaving me in a state of tranquil indifference.</li>
+            <li>My average penis feels comfortably soft, the last echoes of passion fading into a pervasive sense of profound contentment.</li>
+            <li>A gentle stillness surrounds my average member, completely aligning with the deep, languid calm pervading my body.</li>
+            <li>Having achieved total release, my average penis is now completely limp. My mood is balanced, at peace, acknowledging a job well done.</li>
+            <li>The subtle weight of my average penis adds to the sense of deep relaxation. My thoughts drift, unburdened by any lingering desire.</li>
+            <li>It feels settled and quiet. The profound satisfaction of the ahegao state absorbs my attention, leaving me unconcerned with its dimensions.</li>
+            <li>My average penis is dormant, its prior activity a distant memory. I exist in a state of peaceful, neutral equilibrium.</li>
+            <li>A comfortable emptiness resonates from my average penis, perfectly aligned with the deep, post-orgasmic tranquility now embracing me.</li>
+            <li>The slight weight of my average member anchors me in this deep state of calm. My mood is placid, thoughts unfocused on its humble form.</li>
+            <li>My average penis is simply there, a quiet, soft companion to my profoundly relaxed state. A subtle, neutral hum of contentment.</li>
+            <li>It's fully at rest, contributing to the overall sense of serene satisfaction. Its size is a neutral observation within this peaceful afterglow.</li>
+            <li>The softness of my average penis signals a successful and complete release. My mind is wonderfully blank, deeply immersed in ahegao.</li>
+            <li>My average member feels pleasantly deflated, the climax fully achieved. I am profoundly content, floating in this neutral, post-orgasmic peace.</li>
+            <li>A sense of quiet completion emanates from my average penis, mirroring my overall serene mood and relaxed posture. No judgment, just calm.</li>
+            <li>It's resting, average and unassuming, but fully satisfied. The intense pleasure has subsided, leaving a gentle ebb of calm throughout my being.</li>
+            <li>My humble member is soft and at peace, perfectly fitting my state of deep sexual satisfaction and mental tranquility, no thoughts of comparison.</li>
+            <li>The subtle feeling of my average penis is entirely overshadowed by the profound calm. A complete sense of release, just a quiet, neutral presence.</li>
+            <li>Having achieved its purpose, my average penis feels unremarkably soft. My mood is perfectly balanced, acknowledging the deep ahegao state.</li>
+            <li>It's just there, a soft, flaccid entity. My mind is clear, enjoying the peaceful aftermath of profound sexual contentment, unconcerned with its size.</li>
+            <li>A quiet satisfaction surrounds my average penis, now soft and still. My entire being is deeply relaxed, floating in an indifferent bliss.</li>
+            <li>My average shaft is simply present, a testament to the completed act. The ahegao state provides a calm that transcends physical details.</li>
+            <li>It has fulfilled its role. My average penis feels utterly neutral, contributing to the quiet, sated feeling that pervades my consciousness.</li>
+            <li>My average penis is dormant, yet imbued with the lingering calm of total satisfaction. My mind is wonderfully blank and at peace.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Male gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Large_Ahegao_Male_Neutral</defName>
+        <label>Opinion_Self_Penis_Large_Ahegao_Male_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My large penis feels fully spent and wonderfully soft, resting heavily. The ahegao state leaves me in a deep, neutral calm.</li>
+            <li>A profound sense of completion settles around my large member. It lies dormant, echoing the peaceful satisfaction that pervades my being.</li>
+            <li>The substantial weight of my large penis is a comforting reminder of profound release. My mood is balanced, simply content.</li>
+            <li>It's just there, large and flaccid, an unremarkably present part of my deeply relaxed state. My balls feel soft and slightly swollen.</li>
+            <li>The large shaft, now limp, signifies a job thoroughly done. I am utterly calm, floating in a serene, neutral satisfaction.</li>
+            <li>My large penis feels pleasantly deflated, the climax fully achieved. I am profoundly content, floating in this neutral, post-orgasmic peace.</li>
+            <li>A sense of quiet completion emanates from my large penis, mirroring my overall serene mood and relaxed posture. No judgment, just calm.</li>
+            <li>It's resting, large and unassuming, but fully satisfied. The intense pleasure has subsided, leaving a gentle ebb of calm throughout my being.</li>
+            <li>My formidable member is soft and at peace, perfectly fitting my state of deep sexual satisfaction and mental tranquility, no thoughts of comparison.</li>
+            <li>The subtle feeling of my large penis is entirely overshadowed by the profound calm. A complete sense of release, just a quiet, neutral presence.</li>
+            <li>Having achieved its purpose, my large penis feels unremarkably soft. My mood is perfectly balanced, acknowledging the deep ahegao state.</li>
+            <li>It's just there, a soft, flaccid entity. My mind is clear, enjoying the peaceful aftermath of profound sexual contentment, unconcerned with its size.</li>
+            <li>A quiet satisfaction surrounds my large penis, now soft and still. My entire being is deeply relaxed, floating in an indifferent bliss.</li>
+            <li>My large shaft is simply present, a testament to the completed act. The ahegao state provides a calm that transcends physical details.</li>
+            <li>It has fulfilled its role. My large penis feels utterly neutral, contributing to the quiet, sated feeling that pervades my consciousness.</li>
+            <li>My large penis is dormant, yet imbued with the lingering calm of total satisfaction. My mind is wonderfully blank and at peace.</li>
+            <li>The large, relaxed mass of my penis feels utterly comfortable, a solid presence of quiet relief after intense pleasure.</li>
+            <li>A deep, calm exhaustion emanates from my large member, perfectly reflecting my current state of complete, peaceful ahegao.</li>
+            <li>It lies heavy and soft, its size now a simple fact within my serene, post-climax awareness. My scrotum feels relaxed.</li>
+            <li>My large penis, fully emptied, feels pleasantly heavy. My mind is beautifully blank, bathed in the neutral glow of satisfaction.</li>
+            <li>The subtle pulsations within my large member speak of a complete release, contributing to the profound peace that defines this moment.</li>
+            <li>It’s just resting, a large, quiet presence. All desire has vanished, replaced by an encompassing, tranquil neutrality.</li>
+            <li>My large penis is utterly pliant, its substantial form now a soft weight. My mood remains perfectly even, deeply satisfied.</li>
+            <li>A deep, quiet satisfaction resonates from my large member. The ahegao state is complete, leaving only a pervasive sense of calm.</li>
+            <li>Its bulk is now soft and still, a testament to the recently achieved zenith of pleasure. My entire being is beautifully unburdened.</li>
+            <li>My large penis feels wonderfully soft, a gentle warmth emanating from it. This deep contentment has erased all other thoughts.</li>
+            <li>The substantial, softened mass is simply present, a solid anchor in my current state of profound, neutral peace.</li>
+            <li>A quiet hum of satisfaction emanates from my large member, aligning perfectly with the deep, post-orgasmic tranquility now embracing me.</li>
+            <li>It feels settled, a large and unassuming presence. The pervasive calm of the ahegao state makes its size entirely secondary.</li>
+            <li>My large penis is dormant, yet infused with the lingering calm of total satisfaction. My mind is wonderfully blank and at peace.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Male gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Huge_Ahegao_Male_Neutral</defName>
+        <label>Opinion_Self_Penis_Huge_Ahegao_Male_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~2</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My huge penis, utterly sated, feels heavily at rest, a grand testament to profound relief. My mood is wonderfully neutral, calmly spent.</li>
+            <li>The immense mass of my huge member lies dormant, a significant weight echoing the deep, unbothered tranquility within.</li>
+            <li>A pervasive calm has settled around my huge penis; it's soft and still, reflecting the expansive, peaceful satisfaction that now embraces me.</li>
+            <li>It's simply there, a colossal, flaccid presence that has delivered completely. My mind is clear, deeply immersed in the ahegao state.</li>
+            <li>My huge penis feels pleasantly deflated, the climax fully achieved. I am profoundly content, floating in this neutral, post-orgasmic peace.</li>
+            <li>A sense of quiet completion emanates from my huge penis, mirroring my overall serene mood and relaxed posture. No judgment, just calm.</li>
+            <li>It's resting, huge and unassuming, but fully satisfied. The intense pleasure has subsided, leaving a gentle ebb of calm throughout my being.</li>
+            <li>My monumental member is soft and at peace, perfectly fitting my state of deep sexual satisfaction and mental tranquility, no thoughts of comparison.</li>
+            <li>The subtle feeling of my huge penis is entirely overshadowed by the profound calm. A complete sense of release, just a quiet, neutral presence.</li>
+            <li>Having achieved its purpose, my huge penis feels unremarkably soft. My mood is perfectly balanced, acknowledging the deep ahegao state.</li>
+            <li>It's just there, a soft, flaccid entity. My mind is clear, enjoying the peaceful aftermath of profound sexual contentment, unconcerned with its size.</li>
+            <li>A quiet satisfaction surrounds my huge penis, now soft and still. My entire being is deeply relaxed, floating in an indifferent bliss.</li>
+            <li>My huge shaft is simply present, a testament to the completed act. The ahegao state provides a calm that transcends physical details.</li>
+            <li>It has fulfilled its role. My huge penis feels utterly neutral, contributing to the quiet, sated feeling that pervades my consciousness.</li>
+            <li>My huge penis is dormant, yet imbued with the lingering calm of total satisfaction. My mind is wonderfully blank and at peace.</li>
+            <li>The vastness of my huge penis is now a soft, comfortable weight, a simple fact within my serene, post-climax awareness.</li>
+            <li>A deep, calm exhaustion permeates from my huge member, perfectly reflecting my current state of complete, peaceful ahegao satisfaction.</li>
+            <li>It lies heavy and soft, its immense size now a mere detail amidst my profound tranquility. My scrotum feels completely relaxed.</li>
+            <li>My huge penis, thoroughly emptied, feels pleasantly weighty. My mind is beautifully blank, bathed in the neutral glow of satisfaction.</li>
+            <li>The subtle pulsations within my huge member speak of an overwhelming release, contributing to the profound peace that defines this moment.</li>
+            <li>It’s just resting, a huge, quiet presence. All consuming desire has vanished, replaced by an encompassing, tranquil neutrality.</li>
+            <li>My huge penis is utterly pliant, its monumental form now a soft, comforting mass. My mood remains perfectly even, deeply satisfied.</li>
+            <li>A deep, quiet satisfaction resonates from my huge member. The ahegao state is complete, leaving only a pervasive sense of calm.</li>
+            <li>Its colossal bulk is now soft and still, a testament to the recently achieved zenith of pleasure. My entire being is beautifully unburdened.</li>
+            <li>My huge penis feels wonderfully soft, a gentle warmth emanating from it. This deep contentment has erased all other thoughts.</li>
+            <li>The vast, softened mass is simply present, a solid anchor in my current state of profound, neutral peace.</li>
+            <li>A quiet hum of satisfaction emanates from my huge member, aligning perfectly with the deep, post-orgasmic tranquility now embracing me.</li>
+            <li>It feels settled, a huge and unassuming presence. The pervasive calm of the ahegao state makes its size entirely secondary.</li>
+            <li>My huge penis is dormant, yet infused with the lingering calm of total satisfaction. My mind is wonderfully blank and at peace.</li>
+            <li>My huge penis feels immense, yet utterly at peace; its prior intensity now a soft, lingering warmth contributing to the profound calm.</li>
+        </opinionTexts>
+    </Def>
+	
+</Defs>

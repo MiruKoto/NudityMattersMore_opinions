@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts swayed gently, a beautiful, ample sight. Their soft, full form suggests years of comfortable experience.</li>
+            <li>A magnificent cleavage appeared, her colossal breasts commanding attention. The sheer volume and graceful hang were captivating.</li>
+            <li>Those massive breasts, perfectly rounded and surprisingly perky for their size, were undeniably a grand spectacle.</li>
+            <li>Enormous, yet delicately formed, her breasts were a sight to behold. The smooth skin and plump curves hinted at true abundance.</li>
+            <li>Her substantial chest was on full display; these enormous breasts hung with a delightful, natural heft, mesmerizing to witness.</li>
+            <li>Suddenly, a generous expanse of flesh revealed itself. Her enormous breasts were soft, voluminous, and undeniably inviting.</li>
+            <li>The mature curve of her chest, those truly massive breasts, seemed to radiate a warmth and softness that beckoned touch.</li>
+            <li>What incredible size! Her enormous breasts filled the view, their sheer scale impressive and their gentle jiggle enticing.</li>
+            <li>A truly monumental bust, her breasts were full and bountiful, a testament to abundant femininity.</li>
+            <li>Her enormous breasts, seemingly defying gravity, presented a glorious vision of mature curves and ample softness.</li>
+            <li>Those monumental mounds! Her breasts were a breathtaking display of volume, their weight suggesting incredible density.</li>
+            <li>An imposing chest, her enormous breasts were soft to the touch, their generous proportions a true gift of nature.</li>
+            <li>The sudden sight of her colossal breasts made me gasp. They were incredibly full, with a natural, inviting drape.</li>
+            <li>Her breasts, immense and beautifully shaped, moved with a delightful, rhythmic bounce, hinting at hidden pleasures.</li>
+            <li>I couldn't help but stare at her enormous, perfectly formed breasts. They looked so supple and undeniably captivating.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were a vision of pure, unadulterated femininity.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to generous proportions and sensual appeal.</li>
+            <li>The way her colossal breasts filled her garment was a truly impressive sight. They were wonderfully ample and inviting.</li>
+            <li>Such magnificent breasts! Their enormous size and natural sway were utterly hypnotic, suggesting a lifetime of delightful presence.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves demanding appreciative attention.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale_observed_by_voyer</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I savored the sight of her enormous breasts, their lush fullness and the gentle sway a private delight for my eyes.</li>
+            <li>Her colossal breasts were a breathtaking spectacle. I watched them, admiring every curve and soft jiggle, a true voyeur's dream.</li>
+            <li>Caught a glimpse of her massive chest; those enormous breasts, the way they filled out, truly tantalizing.</li>
+            <li>Secretly observing her ample bosom, her enormous breasts seemed to pulsate with a life of their own, utterly captivating.</li>
+            <li>Her monumental breasts, a feast for my eyes, were revealed in a moment. I drank in the sight, their soft skin and generous form.</li>
+            <li>The sudden, forbidden view of her enormous breasts sent a thrill through me. Their size and bounce were incredibly arousing.</li>
+            <li>I watched her, mesmerized by the sheer scale of her chest. Those enormous breasts seemed to beckon, soft and inviting.</li>
+            <li>Her colossal breasts, plump and weighty, were truly magnificent to behold from my hidden vantage point.</li>
+            <li>A private show of amplitude: her enormous breasts, jiggling with every subtle movement, were a spectacular sight.</li>
+            <li>The mature, enormous curves of her breasts were a secret pleasure, their natural hang and prominent nipples drawing my gaze.</li>
+            <li>Such enormous, generous breasts! I couldn't tear my eyes away from their full, heavy appearance and inviting cleavage.</li>
+            <li>Her massive breasts, a truly ample display, seemed to demand a lingering gaze. A connoisseur's delight.</li>
+            <li>I reveled in the illicit view of her enormous, soft breasts. The subtle movements and their sheer size were intoxicating.</li>
+            <li>The accidental flash of her colossal breasts was a gift. Their generous curves and jiggly fullness were incredibly tempting.</li>
+            <li>Her magnificent, enormous breasts were momentarily exposed, a vision of mature splendor I greedily absorbed.</li>
+            <li>A true anatomical marvel, her enormous breasts, their shape and bounce were utterly hypnotic from my discreet observation.</li>
+            <li>My eyes were drawn to her substantial chest. Those enormous breasts, so full and ripe, were a sight to behold.</li>
+            <li>The way her colossal breasts subtly shifted was fascinating. Their ample size promised so much, and I yearned to see more.</li>
+            <li>Her breathtakingly enormous breasts were a glorious, almost forbidden sight. I couldn't help but admire their mature fullness.</li>
+            <li>Every curve of her enormous breasts was captivating. Their weight and natural hang were a private, beautiful discovery for me.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts were on full, glorious display, a thrilling sight. It makes me want to show off my own.</li>
+            <li>She's flaunting those colossal breasts! It's invigorating to see such confidence. Maybe I should reveal myself too.</li>
+            <li>Those massive breasts, so openly presented, are truly inspiring. Her brazenness makes me crave to be seen.</li>
+            <li>Her ample bosom is wonderfully exposed; these enormous breasts scream confidence. I feel a strong urge to reciprocate!</li>
+            <li>What a magnificent display of enormous breasts! Her willingness to show them off makes me want to shed my own inhibitions.</li>
+            <li>The sight of her colossal breasts, so freely revealed, is incredibly liberating. It makes me want to be just as bold.</li>
+            <li>Her enormous breasts are a bold statement! The way they are visible makes me feel empowered and ready to reveal all.</li>
+            <li>She's not hiding those massive breasts, and I love it! Her exhibitionism is contagious; I feel the desire to expose myself.</li>
+            <li>Her truly enormous breasts are out for the world to see! This open display ignites a similar desire within me.</li>
+            <li>Such glorious, enormous breasts, proudly presented! Her confidence makes me want to share my own endowments with the world.</li>
+            <li>Her colossal breasts are a testament to self-acceptance. Seeing them makes me feel daring and eager to be witnessed.</li>
+            <li>Those massive, visible breasts are a delightful challenge! I feel a powerful urge to strip down and join her in exhibition.</li>
+            <li>Her enormous breasts, so generously revealed, make me want to bask in the spotlight of my own nakedness.</li>
+            <li>The brazen sight of her colossal breasts is a rush! It emboldens me to celebrate my body and let others see it too.</li>
+            <li>What an incredible display! Her enormous breasts are a beacon of freedom, making me want to unleash my inner exhibitionist.</li>
+            <li>Her massive, uninhibited breasts are simply divine. They inspire me to be just as unashamed and open about my body.</li>
+            <li>Seeing her enormous breasts so openly displayed makes me buzz with excitement. I want to participate in such bold freedom.</li>
+            <li>Her colossal breasts, unapologetically visible, ignite a strong desire within me to reveal myself completely.</li>
+            <li>The sheer visibility of her enormous breasts is electrifying. It's a wonderful invitation to indulge my own exhibitionist urges.</li>
+            <li>Those beautiful, enormous breasts, showcased so fearlessly, make me want to tear off my clothes and join in the spectacle.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts are arousing beyond belief. I can feel my desire ignite, imagining their soft weight in my hands.</li>
+            <li>The sight of her colossal breasts fills me with an intense longing. I desperately want to feel them pressed against me.</li>
+            <li>Those massive breasts! My body aches with a powerful need. I'm imagining how they'd feel against my skin.</li>
+            <li>Her ample bosom is driving me wild. These enormous breasts are making me crave intimate contact with fervent intensity.</li>
+            <li>What magnificent, enormous breasts! My desires are overwhelming; I'm aching to explore every curve and soft crevice.</li>
+            <li>The sudden vision of her colossal breasts made my blood race. An intense, undeniable urge for intimacy surged through me.</li>
+            <li>Her enormous breasts are a glorious sight, awakening a primal hunger. I want to feel their warmth and softness immediately.</li>
+            <li>Those voluptuous, massive breasts are incredibly stimulating. My hands itch to cup their fullness, to feel their weight.</li>
+            <li>A truly monumental bust, her breasts awaken a deep, insatiable yearning. I yearn to taste and explore every inch.</li>
+            <li>Her enormous breasts, so ripe and inviting, are setting my senses ablaze. I'm consumed by a passionate need for contact.</li>
+            <li>My mind is racing with erotic thoughts of her colossal breasts. The sheer size and jiggle are utterly intoxicating.</li>
+            <li>The sight of her massive, mature breasts makes me shiver with intense anticipation. I crave their softness against me.</li>
+            <li>Her enormous breasts are a perfect temptation. I can feel a powerful heat rising, imagining myself pressed against her.</li>
+            <li>Those glorious, colossal breasts are almost too much to bear. I'm overcome with a fervent, almost painful, desire.</li>
+            <li>My body responds instantly to her enormous, tantalizing breasts. I yearn to touch, to caress, to explore endlessly.</li>
+            <li>Such magnificent breasts! My lust is boiling over, imagining their supple form and prominent nipples. I must have them.</li>
+            <li>Her chest, overflowing with enormous breasts, has me completely enthralled. My desire is an overwhelming, burning need.</li>
+            <li>The sight of her colossal breasts has ignited an unquenchable fire within me. I dream of their soft, yielding nature.</li>
+            <li>Her enormous, sensuous breasts are the ultimate aphrodisiac. I'm trembling with a profound, urgent sexual longing.</li>
+            <li>Those incredibly massive breasts are driving me to distraction. Every inch of my being cries out for their touch, their warmth.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale_observed_by_Prude</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts were… certainly noticeable. Such a pronounced display is rather… overt.</li>
+            <li>I couldn't help but register her colossal breasts. Their size is quite striking, perhaps excessively so.</li>
+            <li>Those massive breasts are quite prominent. One hopes they are adequately supported and concealed.</li>
+            <li>Her ample bosom is quite… imposing. These enormous breasts are rather difficult to ignore, though I try.</li>
+            <li>What a remarkably full chest. Her enormous breasts are very apparent, causing a slight discomfort.</li>
+            <li>The sudden appearance of her colossal breasts was quite a shock. Their visibility is a bit… much.</li>
+            <li>Her enormous breasts certainly make an impression. It's a very pronounced anatomical feature, to say the least.</li>
+            <li>Those massive breasts are quite overwhelming. One really ought to consider more discreet attire.</li>
+            <li>A truly considerable bust. Her enormous breasts are undeniably present, though I'd prefer them less emphasized.</li>
+            <li>Her enormous breasts, quite unrestrained, are rather… conspicuous. It’s hard to avert one's gaze entirely.</li>
+            <li>Such colossal breasts. The sheer scale is quite something, though it feels a bit immodest.</li>
+            <li>Her massive breasts are certainly… bountiful. I find the open display rather discomfiting.</li>
+            <li>The abrupt sight of her enormous breasts was… startling. Their overtness is quite regrettable.</li>
+            <li>Her breasts, immense and very exposed, are rather bold. It feels somewhat inappropriate for public viewing.</li>
+            <li>I noted her enormous, unreserved breasts. While notable, such a blatant exhibition feels rather improper.</li>
+            <li>These massive breasts, with their ample and somewhat revealing presence, are rather… pronounced.</li>
+            <li>Her chest is undeniably full. Those enormous breasts are quite visible, and perhaps too much so.</li>
+            <li>The way her colossal breasts are presented is rather… forward. It's a very pronounced and unreserved display.</li>
+            <li>Such magnificent breasts! Though I must admit, their enormous size and lack of concealment are quite… bold.</li>
+            <li>Her truly huge breasts are undeniably large and visible. It's an anatomical fact I'd rather not dwell upon.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale_observed_by_Young_male</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts were a truly impressive sight. They had that mature, full look that just drives a guy wild.</li>
+            <li>Whoa, those colossal breasts! They bounced just right, reminding me of all the fun she must have had. Incredible.</li>
+            <li>Her massive breasts were like something out of a dream, so plump and heavy. I couldn't stop staring at her beautiful curves.</li>
+            <li>Damn, her ample bosom! These enormous breasts looked so soft, ready for… well, everything. My jaw dropped.</li>
+            <li>What a pair of magnificent, enormous breasts! They looked so ripe and squishy. I felt a blush creep up my neck.</li>
+            <li>The sudden sight of her colossal breasts made my heart pound. Their size was astounding, and they looked incredibly soft.</li>
+            <li>Her enormous breasts, so perfectly round and full, were a beautiful, mature sight. I could feel my face flush.</li>
+            <li>Those massive breasts, jiggly and prominent, were absolutely mesmerizing. She clearly knew how to fill out a top.</li>
+            <li>A truly monumental bust! Her breasts were so bountiful, promising endless comfort. I found myself imagining things.</li>
+            <li>Her enormous breasts, hanging with such natural weight, were captivating. I just wanted to reach out and feel them.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, absolutely astounding.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and inviting. My gaze just lingered there.</li>
+            <li>The sudden flash of her colossal breasts made my breath hitch. They were so full, so alluring, so undeniably real.</li>
+            <li>Her breasts, immense and beautifully shaped, moved with a delightful sway. I imagined them swaying just for me.</li>
+            <li>I couldn't help but fixate on her enormous, perfect breasts. They looked so supple and undeniably made for pleasure.</li>
+            <li>These massive breasts, with their luscious curves and inviting fullness, were everything I could ever want.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to generous proportions and pure sex appeal.</li>
+            <li>The way her colossal breasts filled her clothes was utterly captivating. They were wonderfully ample and so incredibly hot.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were hypnotic. I knew she had stories to tell.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves demanding attention. I was entranced.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale_observed_by_Young_female</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts looked so full and soft. They had a beautiful, mature shape that I really admired.</li>
+            <li>Wow, her colossal breasts! They moved with such a gentle sway, looking incredibly natural and ample.</li>
+            <li>Those massive breasts looked so comfortable and supportive. I wonder if mine will ever grow to that impressive size.</li>
+            <li>Her ample bosom was on display; these enormous breasts were so generous and looked incredibly soft.</li>
+            <li>What magnificent, enormous breasts! They had such a lovely, rounded form and seemed so naturally bouncy.</li>
+            <li>The sudden sight of her colossal breasts made me feel a bit envious. They were so grand and gracefully hung.</li>
+            <li>Her enormous breasts, so beautifully full, were a lovely example of mature femininity. I found them quite striking.</li>
+            <li>Those massive breasts, with their soft jiggle, were truly eye-catching. She certainly had a lot to work with.</li>
+            <li>A truly monumental bust! Her breasts were so bountiful, it made me think about my own future shape.</li>
+            <li>Her enormous breasts, hanging with a delightful, natural heft, were simply stunning. I wish I had such fullness.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, so wonderfully shaped.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and inviting. A really beautiful sight.</li>
+            <li>The sudden glimpse of her colossal breasts made me realize how much variety there is in body shapes. They were truly big!</li>
+            <li>Her breasts, immense and beautifully proportioned, moved with a delightful, confident sway. They looked so real.</li>
+            <li>I couldn't help but notice her enormous, perfectly formed breasts. They looked so supple and perfectly natural.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were truly admirable. Such a mature figure!</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to generous proportions and soft beauty.</li>
+            <li>The way her colossal breasts filled her clothes was quite impressive. They seemed so soft and wonderfully ample.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were captivating, a true expression of mature curves.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves inspiring awe.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts were a truly beautiful sight. That mature fullness, so soft and inviting, was incredibly appealing.</li>
+            <li>Ah, her colossal breasts! They held a seasoned grace, their ample sway hinting at a comfortable, experienced femininity.</li>
+            <li>Those massive breasts, plump and weighty, spoke of a woman who knew her body. They were undeniably a magnificent sight.</li>
+            <li>Her ample bosom was wonderfully present; these enormous breasts possessed a ripe, luscious quality that was very attractive.</li>
+            <li>What magnificent, enormous breasts! They were full, soft, and clearly well-loved, radiating a warm, sensual allure.</li>
+            <li>The sudden glimpse of her colossal breasts captivated me. Their generous size and mature curves were absolutely splendid.</li>
+            <li>Her enormous breasts, with their natural drape and inviting softness, were a testament to a woman's enduring beauty.</li>
+            <li>Those massive breasts, jiggly with a comfortable familiarity, were incredibly appealing. A true womanly figure.</li>
+            <li>A monumental bust! Her breasts were bountiful, suggesting a generous spirit. They held a certain experienced charm.</li>
+            <li>Her enormous breasts, hanging with such a confident, natural heft, were truly captivating. A real womanly form.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, warm and incredibly inviting.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and substantial. A very desirable sight.</li>
+            <li>The sudden flash of her colossal breasts made my gaze linger. They were so full, so alluring, so perfectly mature.</li>
+            <li>Her breasts, immense and beautifully shaped, moved with a delightful, rhythmic sway, indicating a lived-in comfort.</li>
+            <li>I couldn't help but appreciate her enormous, perfectly formed breasts. They looked so supple, so rich with experience.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were a vision of seasoned beauty and warmth.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to life's bounty and mature appeal.</li>
+            <li>The way her colossal breasts filled her garment was a truly impressive sight. They were wonderfully ample and deeply sensuous.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were hypnotic, speaking of a woman fully realized.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves simply irresistible.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts looked so natural and full. They had that soft, comfortable appearance that comes with age.</li>
+            <li>What lovely, colossal breasts! They swayed gently, a beautiful testament to a well-lived life and enduring femininity.</li>
+            <li>Those massive breasts looked wonderfully soft and ample. They had a graceful hang that was quite appealing.</li>
+            <li>Her ample bosom was clearly visible; these enormous breasts possessed a warm, comforting fullness.</li>
+            <li>Such magnificent, enormous breasts! They seemed to radiate a gentle softness and a comfortable, mature presence.</li>
+            <li>The sight of her colossal breasts was quite striking. They were so grand and had a truly appealing, lived-in feel.</li>
+            <li>Her enormous breasts, with their natural shape and inviting curves, were a lovely example of seasoned beauty.</li>
+            <li>Those massive breasts, with their soft jiggle, were quite eye-catching. They looked so perfectly, abundantly womanly.</li>
+            <li>A truly monumental bust! Her breasts were so bountiful, holding a comforting softness and a graceful maturity.</li>
+            <li>Her enormous breasts, hanging with such a dignified, natural weight, were simply beautiful. They spoke of experience.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, so wonderfully soft and inviting.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and substantial. A very comforting sight.</li>
+            <li>The sudden glimpse of her colossal breasts was a lovely surprise. They were so full, so alluring, so gracefully aged.</li>
+            <li>Her breasts, immense and beautifully proportioned, moved with a delightful, confident sway. They looked so perfectly natural.</li>
+            <li>I couldn't help but admire her enormous, perfectly formed breasts. They looked so supple and so genuinely feminine.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were truly a vision of mature grace.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to generous proportions and comfortable living.</li>
+            <li>The way her colossal breasts filled her garment was quite impressive. They seemed so soft and wonderfully ample.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were captivating, a true expression of mature womanhood.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves radiating warmth and comfort.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale_observed_by_Elder_male</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts were a truly classic sight. That mature fullness held a timeless appeal, soft and inviting.</li>
+            <li>Ah, her colossal breasts! They showed a seasoned elegance, their ample sway speaking of a comfortable, rich life.</li>
+            <li>Those massive breasts, plump and weighty, spoke volumes of experience. They were undeniably a magnificent, alluring sight.</li>
+            <li>Her ample bosom was wonderfully present; these enormous breasts possessed a ripe, luscious quality that was very attractive.</li>
+            <li>What magnificent, enormous breasts! Full, soft, clearly well-cherished, radiating a warm, deeply sensual allure.</li>
+            <li>The sudden glimpse of her colossal breasts captivated me. Their generous size and mature curves were absolutely splendid, a true delight.</li>
+            <li>Her enormous breasts, with their natural drape and inviting softness, were a testament to a woman's enduring, comfortable beauty.</li>
+            <li>Those massive breasts, jiggly with a comfortable familiarity, were incredibly appealing. A true, seasoned womanly figure.</li>
+            <li>A monumental bust! Her breasts were bountiful, suggesting a generous nature. They held a certain experienced, inviting charm.</li>
+            <li>Her enormous breasts, hanging with such a confident, natural heft, were truly captivating. A real woman, indeed.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, warm, and incredibly inviting.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and substantial. A very desirable sight, indeed.</li>
+            <li>The sudden flash of her colossal breasts made my gaze linger. They were so full, so alluring, so perfectly mature and ripe.</li>
+            <li>Her breasts, immense and beautifully shaped, moved with a delightful, rhythmic sway, indicating a lived-in comfort and pleasure.</li>
+            <li>I couldn't help but appreciate her enormous, perfectly formed breasts. They looked so supple, so rich with experience and warmth.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were a vision of seasoned beauty and profound comfort.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to life's bounty and mature, undeniable appeal.</li>
+            <li>The way her colossal breasts filled her garment was a truly impressive sight. They were wonderfully ample and deeply sensuous, aged to perfection.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were hypnotic, speaking of a woman fully realized and enjoyed.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves simply irresistible, a beautiful sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_MatureFemale_observed_by_Elder_female</defName>
+        <label>Enormous Breasts (Positive)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts looked so perfectly natural and full. They held that soft, comfortable beauty of maturity.</li>
+            <li>What lovely, colossal breasts! They swayed gently, a beautiful testament to a well-lived life and enduring femininity.</li>
+            <li>Those massive breasts looked wonderfully soft and ample. They had a graceful hang that spoke of timeless appeal.</li>
+            <li>Her ample bosom was clearly visible; these enormous breasts possessed a warm, comforting fullness.</li>
+            <li>Such magnificent, enormous breasts! They seemed to radiate a gentle softness and a comfortable, wise presence.</li>
+            <li>The sight of her colossal breasts was quite striking. They were so grand and had a truly appealing, seasoned feel.</li>
+            <li>Her enormous breasts, with their natural shape and inviting curves, were a lovely example of aged beauty.</li>
+            <li>Those massive breasts, with their soft jiggle, were quite eye-catching. They looked so perfectly, abundantly womanly.</li>
+            <li>A truly monumental bust! Her breasts were so bountiful, holding a comforting softness and a graceful maturity.</li>
+            <li>Her enormous breasts, hanging with such a dignified, natural weight, were simply beautiful. They spoke of rich experience.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, so wonderfully soft and inviting.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and substantial. A very comforting, familiar sight.</li>
+            <li>The sudden glimpse of her colossal breasts was a lovely surprise. They were so full, so alluring, so gracefully aged.</li>
+            <li>Her breasts, immense and beautifully proportioned, moved with a delightful, confident sway. They looked so perfectly natural.</li>
+            <li>I couldn't help but admire her enormous, perfectly formed breasts. They looked so supple and so genuinely feminine.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were truly a vision of mature grace.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to generous proportions and comfortable living.</li>
+            <li>The way her colossal breasts filled her garment was quite impressive. They seemed so soft and wonderfully ample.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were captivating, a true expression of mature womanhood.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves radiating warmth and comfort.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts, though aged, held a profound softness. Their ample, wise form spoke of a lifetime of comfort.</li>
+            <li>A magnificent cleavage appeared, her colossal breasts retaining their grandeur. The sheer volume was gracefully aged.</li>
+            <li>Those massive breasts, gently sagged yet surprisingly full, were undeniably a grand spectacle of enduring femininity.</li>
+            <li>Enormous, yet delicately resilient, her breasts were a sight to behold. Their soft skin hinted at true abundance.</li>
+            <li>Her substantial chest was on full display; these enormous breasts hung with a delightful, natural heft, mesmerizing to witness.</li>
+            <li>Suddenly, a generous expanse of flesh revealed itself. Her enormous breasts were soft, voluminous, and undeniably inviting.</li>
+            <li>The elder curve of her chest, those truly massive breasts, seemed to radiate a warmth and softness that beckoned touch.</li>
+            <li>What incredible size! Her enormous breasts filled the view, their sheer scale impressive and their gentle jiggle enticing.</li>
+            <li>A truly monumental bust, her breasts were full and bountiful, a testament to abundant, enduring femininity.</li>
+            <li>Her enormous breasts, seemingly defying gravity, presented a glorious vision of mature curves and ample softness.</li>
+            <li>Those monumental mounds! Her breasts were a breathtaking display of volume, their weight suggesting incredible density.</li>
+            <li>An imposing chest, her enormous breasts were soft to the touch, their generous proportions a true gift of nature.</li>
+            <li>The sudden sight of her colossal breasts made me gasp. They were incredibly full, with a natural, inviting drape.</li>
+            <li>Her breasts, immense and beautifully shaped, moved with a delightful, rhythmic bounce, hinting at hidden pleasures.</li>
+            <li>I couldn't help but stare at her enormous, perfectly formed breasts. They looked so supple and undeniably captivating.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were a vision of pure, unadulterated femininity.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to generous proportions and sensual appeal.</li>
+            <li>The way her colossal breasts filled her garment was a truly impressive sight. They were wonderfully ample and inviting.</li>
+            <li>Such magnificent breasts! Their enormous size and natural sway were utterly hypnotic, suggesting a lifetime of delightful presence.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves demanding appreciative attention.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale_observed_by_voyer</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I savored the sight of her enormous breasts, their lush fullness and the gentle sway a private delight for my eyes.</li>
+            <li>Her colossal breasts were a breathtaking spectacle. I watched them, admiring every curve and soft jiggle, a true voyeur's dream.</li>
+            <li>Caught a glimpse of her massive chest; those enormous breasts, the way they filled out, truly tantalizing.</li>
+            <li>Secretly observing her ample bosom, her enormous breasts seemed to pulsate with a life of their own, utterly captivating.</li>
+            <li>Her monumental breasts, a feast for my eyes, were revealed in a moment. I drank in the sight, their soft skin and generous form.</li>
+            <li>The sudden, forbidden view of her enormous breasts sent a thrill through me. Their size and bounce were incredibly arousing.</li>
+            <li>I watched her, mesmerized by the sheer scale of her chest. Those enormous breasts seemed to beckon, soft and inviting.</li>
+            <li>Her colossal breasts, plump and weighty, were truly magnificent to behold from my hidden vantage point.</li>
+            <li>A private show of amplitude: her enormous breasts, jiggling with every subtle movement, were a spectacular sight.</li>
+            <li>The mature, enormous curves of her breasts were a secret pleasure, their natural hang and prominent nipples drawing my gaze.</li>
+            <li>Such enormous, generous breasts! I couldn't tear my eyes away from their full, heavy appearance and inviting cleavage.</li>
+            <li>Her massive breasts, a truly ample display, seemed to demand a lingering gaze. A connoisseur's delight.</li>
+            <li>I reveled in the illicit view of her enormous, soft breasts. The subtle movements and their sheer size were intoxicating.</li>
+            <li>The accidental flash of her colossal breasts was a gift. Their generous curves and jiggly fullness were incredibly tempting.</li>
+            <li>Her magnificent, enormous breasts were momentarily exposed, a vision of mature splendor I greedily absorbed.</li>
+            <li>A true anatomical marvel, her enormous breasts, their shape and bounce were utterly hypnotic from my discreet observation.</li>
+            <li>My eyes were drawn to her substantial chest. Those enormous breasts, so full and ripe, were a sight to behold.</li>
+            <li>The way her colossal breasts subtly shifted was fascinating. Their ample size promised so much, and I yearned to see more.</li>
+            <li>Her breathtakingly enormous breasts were a glorious, almost forbidden sight. I couldn't help but admire their mature fullness.</li>
+            <li>Every curve of her enormous breasts was captivating. Their weight and natural hang were a private, beautiful discovery for me.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts were on full, glorious display, a thrilling sight. It makes me want to show off my own.</li>
+            <li>She's flaunting those colossal breasts! It's invigorating to see such confidence. Maybe I should reveal myself too.</li>
+            <li>Those massive breasts, so openly presented, are truly inspiring. Her brazenness makes me crave to be seen.</li>
+            <li>Her ample bosom is wonderfully exposed; these enormous breasts scream confidence. I feel a strong urge to reciprocate!</li>
+            <li>What a magnificent display of enormous breasts! Her willingness to show them off makes me want to shed my own inhibitions.</li>
+            <li>The sight of her colossal breasts, so freely revealed, is incredibly liberating. It makes me want to be just as bold.</li>
+            <li>Her enormous breasts are a bold statement! The way they are visible makes me feel empowered and ready to reveal all.</li>
+            <li>She's not hiding those massive breasts, and I love it! Her exhibitionism is contagious; I feel the desire to expose myself.</li>
+            <li>Her truly enormous breasts are out for the world to see! This open display ignites a similar desire within me.</li>
+            <li>Such glorious, enormous breasts, proudly presented! Her confidence makes me want to share my own endowments with the world.</li>
+            <li>Her colossal breasts are a testament to self-acceptance. Seeing them makes me feel daring and eager to be witnessed.</li>
+            <li>Those massive, visible breasts are a delightful challenge! I feel a powerful urge to strip down and join her in exhibition.</li>
+            <li>Her enormous breasts, so generously revealed, make me want to bask in the spotlight of my own nakedness.</li>
+            <li>The brazen sight of her colossal breasts is a rush! It emboldens me to celebrate my body and let others see it too.</li>
+            <li>What an incredible display! Her enormous breasts are a beacon of freedom, making me want to unleash my inner exhibitionist.</li>
+            <li>Her massive, uninhibited breasts are simply divine. They inspire me to be just as unashamed and open about my body.</li>
+            <li>Seeing her enormous breasts so openly displayed makes me buzz with excitement. I want to participate in such bold freedom.</li>
+            <li>Her colossal breasts, unapologetically visible, ignite a strong desire within me to reveal myself completely.</li>
+            <li>The sheer visibility of her enormous breasts is electrifying. It's a wonderful invitation to indulge my own exhibitionist urges.</li>
+            <li>Those beautiful, enormous breasts, showcased so fearlessly, make me want to tear off my clothes and join in the spectacle.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts are arousing beyond belief. I can feel my desire ignite, imagining their soft weight in my hands.</li>
+            <li>The sight of her colossal breasts fills me with an intense longing. I desperately want to feel them pressed against me.</li>
+            <li>Those massive breasts! My body aches with a powerful need. I'm imagining how they'd feel against my skin.</li>
+            <li>Her ample bosom is driving me wild. These enormous breasts are making me crave intimate contact with fervent intensity.</li>
+            <li>What magnificent, enormous breasts! My desires are overwhelming; I'm aching to explore every curve and soft crevice.</li>
+            <li>The sudden vision of her colossal breasts made my blood race. An intense, undeniable urge for intimacy surged through me.</li>
+            <li>Her enormous breasts are a glorious sight, awakening a primal hunger. I want to feel their warmth and softness immediately.</li>
+            <li>Those voluptuous, massive breasts are incredibly stimulating. My hands itch to cup their fullness, to feel their weight.</li>
+            <li>A truly monumental bust, her breasts awaken a deep, insatiable yearning. I yearn to taste and explore every inch.</li>
+            <li>Her enormous breasts, so ripe and inviting, are setting my senses ablaze. I'm consumed by a passionate need for contact.</li>
+            <li>My mind is racing with erotic thoughts of her colossal breasts. The sheer size and jiggle are utterly intoxicating.</li>
+            <li>The sight of her massive, mature breasts makes me shiver with intense anticipation. I crave their softness against me.</li>
+            <li>Her enormous breasts are a perfect temptation. I can feel a powerful heat rising, imagining myself pressed against her.</li>
+            <li>Those glorious, colossal breasts are almost too much to bear. I'm overcome with a fervent, almost painful, desire.</li>
+            <li>My body responds instantly to her enormous, tantalizing breasts. I yearn to touch, to caress, to explore endlessly.</li>
+            <li>Such magnificent breasts! My lust is boiling over, imagining their supple form and prominent nipples. I must have them.</li>
+            <li>Her chest, overflowing with enormous breasts, has me completely enthralled. My desire is an overwhelming, burning need.</li>
+            <li>The sight of her colossal breasts has ignited an unquenchable fire within me. I dream of their soft, yielding nature.</li>
+            <li>Her enormous, sensuous breasts are the ultimate aphrodisiac. I'm trembling with a profound, urgent sexual longing.</li>
+            <li>Those incredibly massive breasts are driving me to distraction. Every inch of my being cries out for their touch, their warmth.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale_observed_by_Prude</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts were… certainly noticeable. Such a pronounced display is rather… overt, even for an elder.</li>
+            <li>I couldn't help but register her colossal breasts. Their size is quite striking, perhaps excessively so at that age.</li>
+            <li>Those massive breasts are quite prominent. One hopes they are adequately supported and concealed, despite their age.</li>
+            <li>Her ample bosom is quite… imposing. These enormous breasts are rather difficult to ignore, though I try.</li>
+            <li>What a remarkably full chest. Her enormous breasts are very apparent, causing a slight discomfort given her age.</li>
+            <li>The sudden appearance of her colossal breasts was quite a shock. Their visibility is a bit… much, even at her age.</li>
+            <li>Her enormous breasts certainly make an impression. It's a very pronounced anatomical feature, to say the least.</li>
+            <li>Those massive breasts are quite overwhelming. One really ought to consider more discreet attire for her age.</li>
+            <li>A truly considerable bust. Her enormous breasts are undeniably present, though I'd prefer them less emphasized.</li>
+            <li>Her enormous breasts, quite unrestrained, are rather… conspicuous. It’s hard to avert one's gaze entirely.</li>
+            <li>Such colossal breasts. The sheer scale is quite something, though it feels a bit immodest for an elder.</li>
+            <li>Her massive breasts are certainly… bountiful. I find the open display rather discomfiting.</li>
+            <li>The abrupt sight of her enormous breasts was… startling. Their overtness is quite regrettable at her age.</li>
+            <li>Her breasts, immense and very exposed, are rather bold. It feels somewhat inappropriate for public viewing.</li>
+            <li>I noted her enormous, unreserved breasts. While notable, such a blatant exhibition feels rather improper.</li>
+            <li>These massive breasts, with their ample and somewhat revealing presence, are rather… pronounced.</li>
+            <li>Her chest is undeniably full. Those enormous breasts are quite visible, and perhaps too much so.</li>
+            <li>The way her colossal breasts are presented is rather… forward. It's a very pronounced and unreserved display.</li>
+            <li>Such magnificent breasts! Though I must admit, their enormous size and lack of concealment are quite… bold.</li>
+            <li>Her truly huge breasts are undeniably large and visible. It's an anatomical fact I'd rather not dwell upon.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale_observed_by_Young_male</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts were a truly impressive sight. They had that wise, ample look that just drives a guy wild.</li>
+            <li>Whoa, those colossal breasts! They bounced just right, reminding me of all the fun she must have had. Incredible.</li>
+            <li>Her massive breasts were like something out of a dream, so plump and heavy. I couldn't stop staring at her beautiful curves.</li>
+            <li>Damn, her ample bosom! These enormous breasts looked so soft, ready for… well, everything. My jaw dropped.</li>
+            <li>What a pair of magnificent, enormous breasts! They looked so ripe and squishy. I felt a blush creep up my neck.</li>
+            <li>The sudden sight of her colossal breasts made my heart pound. Their size was astounding, and they looked incredibly soft.</li>
+            <li>Her enormous breasts, so perfectly round and full, were a beautiful, mature sight. I could feel my face flush.</li>
+            <li>Those massive breasts, jiggly and prominent, were absolutely mesmerizing. She clearly knew how to fill out a top.</li>
+            <li>A truly monumental bust! Her breasts were so bountiful, promising endless comfort. I found myself imagining things.</li>
+            <li>Her enormous breasts, hanging with such natural weight, were captivating. I just wanted to reach out and feel them.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, absolutely astounding.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and inviting. My gaze just lingered there.</li>
+            <li>The sudden flash of her colossal breasts made my breath hitch. They were so full, so alluring, so undeniably real.</li>
+            <li>Her breasts, immense and beautifully shaped, moved with a delightful sway. I imagined them swaying just for me.</li>
+            <li>I couldn't help but fixate on her enormous, perfect breasts. They looked so supple and undeniably made for pleasure.</li>
+            <li>These massive breasts, with their luscious curves and inviting fullness, were everything I could ever want.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to generous proportions and pure sex appeal.</li>
+            <li>The way her colossal breasts filled her clothes was utterly captivating. They were wonderfully ample and so incredibly hot.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were hypnotic. I knew she had stories to tell.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves demanding attention. I was entranced.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale_observed_by_Young_female</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts looked so full and soft. They had a beautiful, aged shape that I really admired.</li>
+            <li>Wow, her colossal breasts! They moved with such a gentle sway, looking incredibly natural and ample.</li>
+            <li>Those massive breasts looked so comfortable and supportive. I wonder if mine will ever grow to that impressive size.</li>
+            <li>Her ample bosom was on display; these enormous breasts were so generous and looked incredibly soft.</li>
+            <li>What magnificent, enormous breasts! They had such a lovely, rounded form and seemed so naturally bouncy.</li>
+            <li>The sudden sight of her colossal breasts made me feel a bit envious. They were so grand and gracefully hung.</li>
+            <li>Her enormous breasts, so beautifully full, were a lovely example of mature femininity. I found them quite striking.</li>
+            <li>Those massive breasts, with their soft jiggle, were truly eye-catching. She certainly had a lot to work with.</li>
+            <li>A truly monumental bust! Her breasts were so bountiful, it made me think about my own future shape.</li>
+            <li>Her enormous breasts, hanging with a delightful, natural heft, were simply stunning. I wish I had such fullness.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, so wonderfully shaped.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and inviting. A really beautiful sight.</li>
+            <li>The sudden glimpse of her colossal breasts made me realize how much variety there is in body shapes. They were truly big!</li>
+            <li>Her breasts, immense and beautifully proportioned, moved with a delightful, confident sway. They looked so real.</li>
+            <li>I couldn't help but notice her enormous, perfectly formed breasts. They looked so supple and perfectly natural.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were truly admirable. Such a mature figure!</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to generous proportions and soft beauty.</li>
+            <li>The way her colossal breasts filled her clothes was quite impressive. They seemed so soft and wonderfully ample.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were captivating, a true expression of mature curves.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves inspiring awe.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts were a truly beautiful sight. That aged fullness, so soft and inviting, was incredibly appealing.</li>
+            <li>Ah, her colossal breasts! They held a seasoned grace, their ample sway hinting at a comfortable, experienced femininity.</li>
+            <li>Those massive breasts, plump and weighty, spoke of a woman who knew her body. They were undeniably a magnificent sight.</li>
+            <li>Her ample bosom was wonderfully present; these enormous breasts possessed a ripe, luscious quality that was very attractive.</li>
+            <li>What magnificent, enormous breasts! They were full, soft, and clearly well-loved, radiating a warm, sensual allure.</li>
+            <li>The sudden glimpse of her colossal breasts captivated me. Their generous size and mature curves were absolutely splendid.</li>
+            <li>Her enormous breasts, with their natural drape and inviting softness, were a testament to a woman's enduring beauty.</li>
+            <li>Those massive breasts, jiggly with a comfortable familiarity, were incredibly appealing. A true womanly figure.</li>
+            <li>A monumental bust! Her breasts were bountiful, suggesting a generous spirit. They held a certain experienced charm.</li>
+            <li>Her enormous breasts, hanging with such a confident, natural heft, were truly captivating. A real womanly form.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, warm and incredibly inviting.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and substantial. A very desirable sight.</li>
+            <li>The sudden flash of her colossal breasts made my gaze linger. They were so full, so alluring, so perfectly mature.</li>
+            <li>Her breasts, immense and beautifully shaped, moved with a delightful, rhythmic sway, indicating a lived-in comfort.</li>
+            <li>I couldn't help but appreciate her enormous, perfectly formed breasts. They looked so supple, so rich with experience.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were a vision of seasoned beauty and warmth.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to life's bounty and mature appeal.</li>
+            <li>The way her colossal breasts filled her garment was a truly impressive sight. They were wonderfully ample and deeply sensuous.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were hypnotic, speaking of a woman fully realized.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves simply irresistible.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts looked so perfectly natural and full. They held that soft, comfortable beauty of maturity.</li>
+            <li>What lovely, colossal breasts! They swayed gently, a beautiful testament to a well-lived life and enduring femininity.</li>
+            <li>Those massive breasts looked wonderfully soft and ample. They had a graceful hang that spoke of timeless appeal.</li>
+            <li>Her ample bosom was clearly visible; these enormous breasts possessed a warm, comforting fullness.</li>
+            <li>Such magnificent, enormous breasts! They seemed to radiate a gentle softness and a comfortable, wise presence.</li>
+            <li>The sight of her colossal breasts was quite striking. They were so grand and had a truly appealing, seasoned feel.</li>
+            <li>Her enormous breasts, with their natural shape and inviting curves, were a lovely example of aged beauty.</li>
+            <li>Those massive breasts, with their soft jiggle, were quite eye-catching. They looked so perfectly, abundantly womanly.</li>
+            <li>A truly monumental bust! Her breasts were so bountiful, holding a comforting softness and a graceful maturity.</li>
+            <li>Her enormous breasts, hanging with such a dignified, natural weight, were simply beautiful. They spoke of rich experience.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, so wonderfully soft and inviting.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and substantial. A very comforting, familiar sight.</li>
+            <li>The sudden glimpse of her colossal breasts was a lovely surprise. They were so full, so alluring, so gracefully aged.</li>
+            <li>Her breasts, immense and beautifully proportioned, moved with a delightful, confident sway. They looked so perfectly natural.</li>
+            <li>I couldn't help but admire her enormous, perfectly formed breasts. They looked so supple and so genuinely feminine.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were truly a vision of mature grace.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to generous proportions and comfortable living.</li>
+            <li>The way her colossal breasts filled her garment was quite impressive. They seemed so soft and wonderfully ample.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were captivating, a true expression of mature womanhood.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves radiating warmth and comfort.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale_observed_by_Elder_male</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts were a truly classic sight. That aged fullness held a timeless appeal, soft and inviting.</li>
+            <li>Ah, her colossal breasts! They showed a seasoned elegance, their ample sway speaking of a comfortable, rich life.</li>
+            <li>Those massive breasts, plump and weighty, spoke volumes of experience. They were undeniably a magnificent, alluring sight.</li>
+            <li>Her ample bosom was wonderfully present; these enormous breasts possessed a ripe, luscious quality that was very attractive.</li>
+            <li>What magnificent, enormous breasts! Full, soft, clearly well-cherished, radiating a warm, deeply sensual allure.</li>
+            <li>The sudden glimpse of her colossal breasts captivated me. Their generous size and mature curves were absolutely splendid, a true delight.</li>
+            <li>Her enormous breasts, with their natural drape and inviting softness, were a testament to a woman's enduring, comfortable beauty.</li>
+            <li>Those massive breasts, jiggly with a comfortable familiarity, were incredibly appealing. A true, seasoned womanly figure.</li>
+            <li>A monumental bust! Her breasts were bountiful, suggesting a generous nature. They held a certain experienced, inviting charm.</li>
+            <li>Her enormous breasts, hanging with such a confident, natural heft, were truly captivating. A real woman, indeed.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, warm, and incredibly inviting.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and substantial. A very desirable sight, indeed.</li>
+            <li>The sudden flash of her colossal breasts made my gaze linger. They were so full, so alluring, so perfectly mature and ripe.</li>
+            <li>Her breasts, immense and beautifully shaped, moved with a delightful, rhythmic sway, indicating a lived-in comfort and pleasure.</li>
+            <li>I couldn't help but appreciate her enormous, perfectly formed breasts. They looked so supple, so rich with experience and warmth.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were a vision of seasoned beauty and profound comfort.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to life's bounty and mature, undeniable appeal.</li>
+            <li>The way her colossal breasts filled her garment was a truly impressive sight. They were wonderfully ample and deeply sensuous, aged to perfection.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were hypnotic, speaking of a woman fully realized and enjoyed.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves simply irresistible, a beautiful sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Positive_Enormous_ElderFemale_observed_by_Elder_female</defName>
+        <label>Enormous Breasts (Positive)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous breasts looked so perfectly natural and full. They held that soft, comfortable beauty of maturity.</li>
+            <li>What lovely, colossal breasts! They swayed gently, a beautiful testament to a well-lived life and enduring femininity.</li>
+            <li>Those massive breasts looked wonderfully soft and ample. They had a graceful hang that spoke of timeless appeal.</li>
+            <li>Her ample bosom was clearly visible; these enormous breasts possessed a warm, comforting fullness.</li>
+            <li>Such magnificent, enormous breasts! They seemed to radiate a gentle softness and a comfortable, wise presence.</li>
+            <li>The sight of her colossal breasts was quite striking. They were so grand and had a truly appealing, seasoned feel.</li>
+            <li>Her enormous breasts, with their natural shape and inviting curves, were a lovely example of aged beauty.</li>
+            <li>Those massive breasts, with their soft jiggle, were quite eye-catching. They looked so perfectly, abundantly womanly.</li>
+            <li>A truly monumental bust! Her breasts were so bountiful, holding a comforting softness and a graceful maturity.</li>
+            <li>Her enormous breasts, hanging with such a dignified, natural weight, were simply beautiful. They spoke of rich experience.</li>
+            <li>Those colossal mounds! Her breasts were a breathtaking display of mature volume, so wonderfully soft and inviting.</li>
+            <li>An imposing chest, her enormous breasts looked so incredibly soft and substantial. A very comforting, familiar sight.</li>
+            <li>The sudden glimpse of her colossal breasts was a lovely surprise. They were so full, so alluring, so gracefully aged.</li>
+            <li>Her breasts, immense and beautifully proportioned, moved with a delightful, confident sway. They looked so perfectly natural.</li>
+            <li>I couldn't help but admire her enormous, perfectly formed breasts. They looked so supple and so genuinely feminine.</li>
+            <li>These massive breasts, with their ample curves and inviting fullness, were truly a vision of mature grace.</li>
+            <li>Her chest was simply overflowing; those enormous breasts were a testament to generous proportions and comfortable living.</li>
+            <li>The way her colossal breasts filled her garment was quite impressive. They seemed so soft and wonderfully ample.</li>
+            <li>Such magnificent breasts! Their enormous size and natural movement were captivating, a true expression of mature womanhood.</li>
+            <li>Her truly huge breasts were a masterpiece of mature form, their softness and generous curves radiating warmth and comfort.</li>
+        </opinionTexts>
+</Def>
+</Defs>

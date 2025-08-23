@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Male gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Micro_Satisfied_Male_Negative</defName>
+        <label>Opinion_Self_Penis_Micro_Satisfied_Male_(Negative)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Satisfied</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Satisfied</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>Even after satisfying my urges, this micro-member just hangs there, a limp disappointment. My mood sours, wishing for more.</li>
+            <li>My sex drive is sated, yet the sight of my tiny penis still fills me with self-loathing. It’s a constant, nagging inadequacy.</li>
+            <li>Despite my recent pleasure, my shriveled penis is a stark reminder of my inadequacy. The flaccid state mirrors my deflated mood.</li>
+            <li>The deed is done, but my pathetic excuse for a penis mocks me. It barely twitches, a truly pitiful sight.</li>
+            <li>Satisfied, yes, but this tiny thing still bothers me. It just looks so small, even when relaxed.</li>
+            <li>A satisfied body, but a dissatisfied mind. My penis looks so small, barely noticeable.</li>
+            <li>The pleasure fades, replaced by the persistent shame of my diminutive member. It just never feels adequate.</li>
+            <li>My current contentment can't mask the underlying frustration with my micro-penis. It's truly a constant downer.</li>
+            <li>Sex was fine, but looking down, it's just so small. My balls feel swollen, but my pride is not.</li>
+            <li>I'm satisfied, but the smallness of it still makes me feel less of a man. My mood is generally low because of it.</li>
+            <li>The moment passes, and the reality of its miniature size sets in. My foreskin seems too loose, emphasizing its tininess.</li>
+            <li>Even satiated, my penis looks so underwhelming. It's just a sad, shrunken little thing.</li>
+            <li>My sexual satisfaction is overshadowed by the ever-present disappointment in my tiny anatomy. It's a cruel joke.</li>
+            <li>A momentary pleasure, then back to the grim reality of this insignificant appendage. My erection state is nonexistent, just floppy.</li>
+            <li>I’m sated, but the emptiness from my micro-penis remains. It barely fills the space, a pathetic sight.</li>
+            <li>This micro-member makes me question everything. My mood is still quite low, despite recent events.</li>
+            <li>The climax offers no reprieve from the constant self-consciousness about my microscopic penis. It’s always there, a nagging thought.</li>
+            <li>Its smallness truly dampens my post-coital bliss. It's just an unattractive, tiny nub.</li>
+            <li>Even with my desires met, my gaze falls to this micro-penis, and my mood immediately drops. It's just so sad.</li>
+            <li>The satisfaction quickly fades when I look down. My penis is still so small, barely visible.</li>
+            <li>I can't escape the fact that my penis is just so small, even after sex. It’s genuinely disheartening.</li>
+            <li>My body is sated, but my penis is a source of unending negativity. It just looks so inadequate.</li>
+            <li>The memory of pleasure is brief, replaced by the persistent, miserable sight of this micro-sized member. My balls look deflated.</li>
+            <li>This tiny penis, even after satisfaction, remains a heavy burden on my self-esteem. It just feels so wrong.</li>
+            <li>Despite feeling satisfied, I still feel a deep sense of shame regarding my minuscule penis. It's pathetic, limp, and almost nonexistent.</li>
+            <li>My mood remains low. This small penis is a constant reminder of my physical flaws.</li>
+            <li>I'm sexually satisfied, but my penis’s micro-size overshadows any lingering contentment. It's always a disappointment.</li>
+            <li>The post-sex glow doesn't reach this part of my body. My penis is small, shriveled, and utterly pathetic.</li>
+            <li>This little thing makes me feel like less of a man. It's always so small, regardless of my state.</li>
+            <li>My satisfied state can't overcome the profound disappointment with my micro-penis. It's just too small.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Male gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Small_Satisfied_Male_Negative</defName>
+        <label>Opinion_Self_Penis_Small_Satisfied_Male_(Negative)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Satisfied</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Satisfied</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>Even after satisfying my need, my penis seems small and insignificant, barely noticeable. My mood remains low.</li>
+            <li>The pleasure was fleeting, now all I see is its disappointing size. It just hangs there, a flaccid, uninspiring sight.</li>
+            <li>Despite feeling sated, the sight of my small penis and shriveled balls leaves me deeply dissatisfied. It’s disheartening.</li>
+            <li>It’s hard to feel truly satisfied when my penis still looks so underwhelming, just a small, unremarkable stub.</li>
+            <li>My sex drive is fulfilled, but my mood sours at the sight of my small, limp penis. It just feels inadequate.</li>
+            <li>The brief satisfaction doesn't erase the feeling of inadequacy from my small penis. It's a constant, nagging concern.</li>
+            <li>I'm satisfied, but my penis is far from impressive. It just feels small, like it's barely there.</li>
+            <li>Even though my urges are met, I can't help but feel let down by my small penis. It's truly a mood killer.</li>
+            <li>The post-coital calm is interrupted by the sight of my small, shrunken member. It's just so deflated.</li>
+            <li>My physical needs are met, but the smallness of my penis still leaves me feeling incomplete and disheartened.</li>
+            <li>It’s a perpetual annoyance. My penis is too small, even after the act, and my mood reflects it.</li>
+            <li>I feel sated, yet the smallness of my penis makes me feel less than ideal. My balls feel soft, adding to the general sense of lack.</li>
+            <li>The moment of pleasure gives way to the lingering disappointment over my small penis. It's just a sad sight.</li>
+            <li>My foreskin feels loose around this small shaft, highlighting its unimpressive length. My mood isn't great.</li>
+            <li>Though satisfied, I still wish for more when I look at this small, inadequate penis. It hangs there, unremarkable.</li>
+            <li>This small thing makes me feel like I’m lacking, even after sex. It just feels too insignificant.</li>
+            <li>The euphoria passes, and I'm left with the disheartening reality of my small penis. It's limp and uninspiring.</li>
+            <li>My desires are met, but this small penis still sparks a deep sense of dissatisfaction within me. It’s truly frustrating.</li>
+            <li>The sight of my small, soft penis is a constant reminder of what it lacks. My balls feel too small too.</li>
+            <li>Even when satisfied, its size is a disappointment. My penis just doesn't measure up to my expectations.</li>
+            <li>I'm okay, but my penis just doesn’t feel right. It’s small, and it makes me feel insecure.</li>
+            <li>The pleasure was short-lived, and now my small penis is just a dull, flaccid lump. My mood is low.</li>
+            <li>This small penis just can't shake off the feeling of being inadequate, even post-sex. It’s genuinely disheartening.</li>
+            <li>I’m satisfied, but my penis looks tiny and almost disappears against my body. It really lowers my self-esteem.</li>
+            <li>My sexual urges are sated, but the visual of my small penis still leaves me with a sense of unease.</li>
+            <li>It's small, it's uninspiring, and it’s a constant source of negative self-perception. My mood is heavily affected.</li>
+            <li>The satisfaction can't entirely mask the shame I feel about my small penis. It's just not enough.</li>
+            <li>My foreskin seems to droop around this small, unsatisfying penis. My post-sex mood is surprisingly glum.</li>
+            <li>This small thing is just never going to be enough. My mood is still quite low, even after a good time.</li>
+            <li>A fulfilled need, yet my small penis still makes me feel discontent. It’s an irritating flaw.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Male gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Average_Satisfied_Male_Negative</defName>
+        <label>Opinion_Self_Penis_Average_Satisfied_Male_(Negative)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Satisfied</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Satisfied</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>Even after satisfying my urges, this average penis still disappoints, just hanging there without much presence. My mood is flat.</li>
+            <li>The pleasure was momentary, but the persistent ordinariness of my penis now leaves me uninspired and vaguely dissatisfied.</li>
+            <li>Despite feeling sated, my average penis offers no real pride; its lack of distinction just makes me feel mediocre.</li>
+            <li>It's fine, I guess, but I wish it were more. This average penis just doesn't excite me, even now.</li>
+            <li>My sex drive is sated, but my mood still sours at the sight of this utterly unremarkable penis. It's just so plain.</li>
+            <li>The satisfaction is fleeting, overshadowed by the realization that my penis is just… average. It’s profoundly unmemorable.</li>
+            <li>I'm satisfied, but my penis is so plain. It just blends in, without any outstanding qualities.</li>
+            <li>Even though my urges are met, I can't help but feel a deep sense of apathy towards my average penis. It's just boring.</li>
+            <li>The post-coital calm is tainted by the sheer mediocrity of my penis. It just looks like any other.</li>
+            <li>My physical needs are met, but the overwhelming averageness of my penis still leaves me feeling uninspired.</li>
+            <li>It’s a perpetual meh. My penis is just so average, even after the act, and my mood reflects its blandness.</li>
+            <li>I feel sated, yet the unexciting nature of my average penis still makes me feel unenthused. My balls feel normal, not special.</li>
+            <li>The moment of pleasure gives way to the lingering disappointment over my utterly average penis. It’s just so forgettable.</li>
+            <li>My foreskin sits normally around this utterly average shaft, highlighting its lack of any notable feature. My mood is just 'okay'.</li>
+            <li>Though satisfied, I still wish for more when I look at this average, unremarkable penis. It hangs there, just… there.</li>
+            <li>This average thing doesn't make me feel special, even after sex. It just feels too ordinary.</li>
+            <li>The euphoria passes, and I'm left with the disheartening reality of my average penis. It's neither good nor bad, just bland.</li>
+            <li>My desires are met, but this average penis still sparks a deep sense of unexcitement within me. It’s truly uninspiring.</li>
+            <li>The sight of my average, soft penis is a constant reminder of how unexceptional it is. My balls feel ordinary too.</li>
+            <li>Even when satisfied, its size is just… average. My penis just doesn't stand out.</li>
+            <li>I'm okay, but my penis just doesn’t feel special. It’s average, and it makes me feel unremarkable.</li>
+            <li>The pleasure was short-lived, and now my average penis is just a dull, flaccid normalcy. My mood is neutral.</li>
+            <li>This average penis just can't shake off the feeling of being unremarkable, even post-sex. It’s genuinely boring.</li>
+            <li>I’m satisfied, but my penis looks so typical, blending into the background. It really doesn't inspire confidence.</li>
+            <li>My sexual urges are sated, but the visual of my average penis still leaves me with a sense of blandness.</li>
+            <li>It's average, it's uninspiring, and it’s a constant source of unexceptional self-perception. My mood is heavily affected by its plainness.</li>
+            <li>The satisfaction can't entirely mask the apathy I feel about my average penis. It's just not impressive.</li>
+            <li>My foreskin seems to sit normally around this average, unexciting penis. My post-sex mood is surprisingly uninspired.</li>
+            <li>This average thing is just never going to be memorable. My mood is still quite plain, even after a good time.</li>
+            <li>A fulfilled need, yet my average penis still makes me feel discontent. It’s an irritating lack of distinction.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Male gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Large_Satisfied_Male_Negative</defName>
+        <label>Opinion_Self_Penis_Large_Satisfied_Male_(Negative)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Satisfied</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Satisfied</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>Even after satisfying my urges, this large penis still disappoints, clumsy and awkward, not graceful or pleasurable. My mood is sour.</li>
+            <li>The pleasure was fleeting, but the persistent unwieldiness of my large penis now leaves me frustrated and vaguely dissatisfied.</li>
+            <li>Despite feeling sated, my large penis offers no real pride; its sheer size feels more like a burden than a blessing.</li>
+            <li>It's big, I guess, but I wish it were better. This large penis just feels cumbersome, even now.</li>
+            <li>My sex drive is sated, but my mood still sours at the sight of this overly large, unappealing penis. It's just too much.</li>
+            <li>The satisfaction is fleeting, overshadowed by the realization that my penis is just… too large. It’s profoundly uncomfortable.</li>
+            <li>I'm satisfied, but my penis is too big. It just feels unwieldy and almost monstrous.</li>
+            <li>Even though my urges are met, I can't help but feel a deep sense of discomfort with my large penis. It's just awkward.</li>
+            <li>The post-coital calm is tainted by the sheer excessive size of my penis. It just looks out of place.</li>
+            <li>My physical needs are met, but the overwhelming largeness of my penis still leaves me feeling out of proportion.</li>
+            <li>It’s a perpetual burden. My penis is just so large, even after the act, and my mood reflects its clumsiness.</li>
+            <li>I feel sated, yet the unwieldy nature of my large penis still makes me feel awkward. My balls feel over-swollen, adding to the general sense of excess.</li>
+            <li>The moment of pleasure gives way to the lingering disappointment over my overly large penis. It’s just so cumbersome.</li>
+            <li>My foreskin struggles around this oversized shaft, highlighting its unwieldy bulk. My mood is just 'burdened'.</li>
+            <li>Though satisfied, I still wish for more finesse when I look at this large, clumsy penis. It hangs there, an awkward mass.</li>
+            <li>This large thing makes me feel like I’m ungraceful, even after sex. It just feels too cumbersome.</li>
+            <li>The euphoria passes, and I'm left with the disheartening reality of my large penis. It's an imposing, but unrefined, sight.</li>
+            <li>My desires are met, but this large penis still sparks a deep sense of dissatisfaction within me. It’s truly unwieldy.</li>
+            <li>The sight of my large, soft penis is a constant reminder of how unwieldy it is. My balls feel excessively full too.</li>
+            <li>Even when satisfied, its size is a disappointment. My penis just doesn't feel right.</li>
+            <li>I'm okay, but my penis just doesn’t feel good. It’s large, and it makes me feel disproportionate.</li>
+            <li>The pleasure was short-lived, and now my large penis is just a dull, flaccid burden. My mood is low.</li>
+            <li>This large penis just can't shake off the feeling of being unwieldy, even post-sex. It’s genuinely cumbersome.</li>
+            <li>I’m satisfied, but my penis looks too big, almost grotesque. It really lowers my self-esteem because of its awkwardness.</li>
+            <li>My sexual urges are sated, but the visual of my large penis still leaves me with a sense of unease.</li>
+            <li>It's large, it's unappealing, and it’s a constant source of negative self-perception. My mood is heavily affected by its awkwardness.</li>
+            <li>The satisfaction can't entirely mask the shame I feel about my large penis. It's just too much.</li>
+            <li>My foreskin seems too tight around this overly large, unsatisfying penis. My post-sex mood is surprisingly glum.</li>
+            <li>This large thing is just never going to feel right. My mood is still quite low, even after a good time.</li>
+            <li>A fulfilled need, yet my large penis still makes me feel discontent. It’s an irritating lack of elegance.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Male gives opinion about his penis, shape, his erection state, maybe balls state and other suggested above, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Penis_Huge_Satisfied_Male_Negative</defName>
+        <label>Opinion_Self_Penis_Huge_Satisfied_Male_(Negative)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~2</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Satisfied</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Satisfied</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>Even after satisfying my urges, this massive penis still feels like an unwieldy burden, far too large and grotesque. My mood is abysmal.</li>
+            <li>The pleasure was fleeting, but the persistent, overwhelming bulk of my huge penis now leaves me horrified and deeply disgusted.</li>
+            <li>Despite feeling sated, my huge penis is a monstrous sight; its immense size is more of a deformity than a source of pride.</li>
+            <li>It's gigantic, but I loathe it. This huge penis just feels like a grotesque appendage, even now.</li>
+            <li>My sex drive is sated, but my mood still plummets at the sight of this disgustingly huge, repulsive penis. It's an absolute nightmare.</li>
+            <li>The satisfaction is fleeting, overshadowed by the profound revulsion towards my penis's enormous, abnormal size. It’s profoundly unsettling.</li>
+            <li>I'm satisfied, but my penis is a deformed abomination. It just feels like a grotesque, oversized club.</li>
+            <li>Even though my urges are met, I can't help but feel a deep sense of horror and repulsion with my huge penis. It's just a monstrosity.</li>
+            <li>The post-coital calm is shattered by the sheer, sickening excessiveness of my penis. It just looks alien and wrong.</li>
+            <li>My physical needs are met, but the overwhelming, unnatural largeness of my penis still leaves me feeling utterly deformed.</li>
+            <li>It’s a perpetual nightmare. My penis is just so huge, even after the act, and my mood reflects its horrifying scale.</li>
+            <li>I feel sated, yet the grotesque nature of my huge penis still makes me feel nauseous. My balls feel painfully swollen, adding to the general sense of immense abnormality.</li>
+            <li>The moment of pleasure gives way to the lingering dread over my monstrously huge penis. It’s just too much to bear.</li>
+            <li>My foreskin struggles to contain this gargantuan shaft, highlighting its horrifying, immense bulk. My mood is just 'terror-stricken'.</li>
+            <li>Though satisfied, I still wish it would just disappear when I look at this huge, hideous penis. It hangs there, a sickening mass.</li>
+            <li>This huge thing makes me feel like I’m a freak, even after sex. It just feels too overwhelming, too unnatural.</li>
+            <li>The euphoria passes, and I'm left with the horrifying reality of my huge penis. It's an imposing, grotesque, and utterly unappealing sight.</li>
+            <li>My desires are met, but this huge penis still sparks a profound sense of self-loathing within me. It’s truly a physical curse.</li>
+            <li>The sight of my huge, soft penis is a constant reminder of how disproportionate it is. My balls feel obscenely full too.</li>
+            <li>Even when satisfied, its size is an abomination. My penis just doesn't feel like it belongs to me.</li>
+            <li>I'm okay, but my penis just makes me feel sick. It’s huge, and it makes me feel monstrous.</li>
+            <li>The pleasure was short-lived, and now my huge penis is just a dull, flaccid monstrosity. My mood is utterly shattered.</li>
+            <li>This huge penis just can't shake off the feeling of being utterly repellent, even post-sex. It’s genuinely disgusting.</li>
+            <li>I’m satisfied, but my penis looks revoltingly large, almost alien. It really lowers my self-esteem because of its grotesque appearance.</li>
+            <li>My sexual urges are sated, but the visual of my huge penis still leaves me with a profound sense of despair.</li>
+            <li>It's huge, it's repulsive, and it’s a constant source of profound self-disgust. My mood is heavily affected by its sheer horror.</li>
+            <li>The satisfaction can't entirely mask the shame and disgust I feel about my huge penis. It's just too much to endure.</li>
+            <li>My foreskin seems stretched to its limit around this obscenely huge, terrifying penis. My post-sex mood is surprisingly suicidal.</li>
+            <li>This huge thing is just never going to feel right, only like a terrible mutation. My mood is still quite low, even after a good time.</li>
+            <li>A fulfilled need, yet my huge penis still makes me feel profound discontent and a desire to just cut it off. It’s an irritating abnormality.</li>
+        </opinionTexts>
+    </Def>
+	
+</Defs>

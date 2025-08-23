@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale</defName>
+        <label>Large Penis (Negative)_MatureMale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I glimpsed {PAWN_nameShortPossessive} large member; it was thick, veiny, and unsettlingly engorged. A grotesque sight, truly repulsive.</li>
+            <li>Suddenly, there it was: a substantial shaft, too wide for comfort, with a bulbous head. My stomach churned at the sheer size.</li>
+            <li>The saggy, aged scrotal sack hung low beneath that massive, flaccid shaft. A truly unappealing, withered display.</li>
+            <li>The head of that colossal thing was oddly misshapen, the foreskin stretched taut. It looked more like a blunt club than something alluring.</li>
+            <li>Witnessing {PAWN_nameShortPossessive} colossal appendage was utterly revolting. Its girth seemed unnatural, a grotesque burden upon {PAWN_possessive} aged frame.</li>
+            <li>Its excessive length and girth made it look less like an instrument of pleasure and more like a gnarled, overgrown root. Disgusting.</li>
+            <li>The sheer volume of that thing was horrifying. It seemed to have its own gravitational pull, a fleshy abomination.</li>
+            <li>A massive, discolored shaft, with testicles that seemed to have seen better days. It was a sight I wish I could unsee.</li>
+            <li>I recoiled at the sight of that enormous, fleshy rod. Its dimensions were just wrong, a complete turn-off.</li>
+            <li>The scale of {PAWN_nameShortPossessive} penis was truly off-putting; it was thick and unkempt, a visual assault.</li>
+            <li>It was unexpectedly huge, yet completely lacking in any sort of aesthetic grace. Just a bulging, veiny mess.</li>
+            <li>The way it just hung there, so disproportionately large and flaccid, made me feel a wave of revulsion.</li>
+            <li>A truly monumental erection, yet it looked more like a tumor than a tool of desire. Foul.</li>
+            <li>The enormity of {PAWN_nameShortPossessive} engorged shaft and swollen head was horrifying, like a grotesque, engorged sausage.</li>
+            <li>Its size was intimidating, yes, but not in an appealing way. It looked painful and unpleasantly veiny.</li>
+            <li>A monstrous length and a width that seemed to defy anatomical sense. I instinctively wanted to look away from such an eyesore.</li>
+            <li>The head was too broad, the shaft too thick, and the balls too pendulous. Every aspect of its enormity was repulsive.</li>
+            <li>Seeing that colossal thing flop out was a jarring, unpleasant surprise. Its girth was truly disturbing.</li>
+            <li>This was less a penis and more a fleshy bludgeon. The sheer size of {PAWN_possessive} shaft was offensive.</li>
+            <li>I couldn't help but stare in horrified fascination at the sheer bulk of it. A truly ugly, overgrown appendage.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale_observed_by_voyer</defName>
+        <label>Large Penis (Negative)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even for a voyeur, that was too much. The excessive size of {PAWN_nameShortPossessive} member was shockingly unappealing.</li>
+            <li>I peered, but the sheer, unsightly bulk of {PAWN_possessive} penis was rather off-putting. Not quite what I hoped for.</li>
+            <li>The old shaft was a little too large, too wrinkly; the view was far from titillating. My voyeuristic urge withered.</li>
+            <li>A sizable package, yet it looked more cumbersome than appealing. The heavy sag of {PAWN_possessive} balls completed the disappointing picture.</li>
+            <li>I watched, but {PAWN_nameShortPossessive} colossal appendage seemed a vulgar display, almost offensively large and ungraceful.</li>
+            <li>The thick, veiny shaft was indeed large, but seeing it just hanging there, it felt less thrilling and more... sad.</li>
+            <li>I caught a glimpse, and its unnatural girth filled me with a strange sense of unease. Too much, too ugly.</li>
+            <li>That enormous foreskin-covered head, combined with its overall size, made it a truly unpleasant spectacle for any discerning eye.</li>
+            <li>The heavy, aged set of testicles, paired with that thick, unyielding shaft, was simply an uninspiring view.</li>
+            <li>As a voyeur, I sought excitement, but {PAWN_nameShortPossessive} overgrown unit only provoked a profound sense of disappointment.</li>
+            <li>Its bulk was certainly notable, yet utterly lacking the subtle details a true connoisseur appreciates. Just a brute.</li>
+            <li>I observed, and frankly, the sheer, unrefined magnitude of it was a turn-off. It looked clumsy and unwieldy.</li>
+            <li>A massive appendage, yes, but it lacked any artistry. Just a great, unlovely chunk of flesh.</li>
+            <li>The vision of that immense, thick shaft and its broad head was far from what I consider a pleasurable sight.</li>
+            <li>I witnessed a genuinely large one, but it was so ungainly, so unappealing. My voyeuristic interest quickly faded.</li>
+            <li>The substantial, aged anatomy, every vein and wrinkle, made it less a curiosity and more a source of profound discomfort.</li>
+            <li>It was certainly prominent, but its coarse, disproportionate size was frankly rather a bore to behold.</li>
+            <li>That grand, sagging mass of penis and balls was less a spectacle and more a lamentable display of aged flesh.</li>
+            <li>I looked, and saw something truly colossal, yet it was so visually unharmonious. A jarringly large feature.</li>
+            <li>My gaze lingered for a moment, only to be met with the overwhelming, unrefined magnitude of {PAWN_possessive} large, aged member.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Large Penis (Negative)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} massive display was truly uninspiring. It just hung there, too large and cumbersome to impress anyone.</li>
+            <li>He thinks that immense thing is impressive? It's just a flaccid, overblown mess, utterly lacking in appeal or grace.</li>
+            <li>My own magnificent endowment is a work of art; {PAWN_nameShortPossessive} crude, bulky shaft is simply embarrassing to behold.</li>
+            <li>The size is there, but where's the spectacle? {PAWN_possessive} enormous, flabby balls ruined any possible effect {PAWN_pronoun} might have hoped for.</li>
+            <li>{PAWN_nameShort} put on quite a show, but that huge, unkempt member was more a deterrent than an attraction.</li>
+            <li>Exhibiting such a monstrous, veiny shaft without an ounce of pride or artistry is just tragic. It's too big, too dull.</li>
+            <li>I saw the whole, immense thing. It wasn't glorious, it was just… *large*. And not in a good way.</li>
+            <li>The prominent head of {PAWN_possessive} grand old penis seemed almost ashamed of its own girth. What a sad display.</li>
+            <li>{PAWN_nameShortPossessive} enormous, sagging package made me cringe. No true exhibitionist would dare present such a lumbering, ungraceful sight.</li>
+            <li>That bulbous, aged penis seemed to scream for mercy, an overwhelming mass. It hardly incites awe, only pity.</li>
+            <li>I prefer a more refined presentation. {PAWN_nameShortPossessive} crude, excessively large member was a shocking lack of taste.</li>
+            <li>A truly gigantic piece of meat, but it totally lacks charisma. It's just... there, massively and awkwardly.</li>
+            <li>{PAWN_nameShort} clearly believes in excess, but that unwieldy, aged shaft only proved that bigger isn't always better.</li>
+            <li>Such an immense foreskin-covered head, yet utterly devoid of any visual allure. A testament to unfortunate anatomy.</li>
+            <li>The flabby, pendulousness of {PAWN_possessive} large scrotum and shaft was truly unappealing. A monument to poor upkeep.</li>
+            <li>I put on a show to inspire awe, but {PAWN_nameShortPossessive} immense member only inspired a profound sense of "why bother?"</li>
+            <li>The shocking girth of that middle-aged penis was less a statement and more a clumsy, unsettling visual intrusion.</li>
+            <li>{PAWN_pronoun} flaunted {PAWN_possessive} enormous, aged manhood, but all I saw was a cumbersome, ungraceful appendage lacking any spark.</li>
+            <li>Its sheer, overwhelming size made me roll my eyes. An exhibition should be captivating, not a bloated, veiny disappointment.</li>
+            <li>{PAWN_nameShortPossessive} colossal member was a sight indeed, but one that actively put me off any thought of a reciprocal display.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Large Penis (Negative)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That monstrosity? Too big, too unwieldy, probably more pain than pleasure. Definitely not what I'm looking for.</li>
+            <li>I crave passion, but {PAWN_nameShortPossessive} enormous, veiny shaft looked like a blunt instrument, utterly unappealing.</li>
+            <li>The sheer girth of it was a turn-off. It looked cumbersome and aged, a poor fit for any real enjoyment.</li>
+            <li>Despite my desires, that immense, bulbous head and thick shaft sent a shiver of distaste through me. No thank you.</li>
+            <li>Its size was overwhelming, a grotesque mass of flesh. My body recoiled from the very thought of it.</li>
+            <li>The scale of {PAWN_nameShortPossessive} thing was off-putting; it promised only discomfort, not the thrilling release I seek.</li>
+            <li>A truly immense penis, but it appeared so aged and tired, almost used up. My lust curdled at the sight.</li>
+            <li>It was large, yes, but seemed so unrefined, almost crude. A complete mismatch for my refined tastes.</li>
+            <li>My body hungers, but {PAWN_nameShortPossessive} excessively thick shaft and pendulous balls offered only revulsion, not desire.</li>
+            <li>The foreskin was stretched taut over a truly gargantuan head. It promised nothing but awkwardness and disappointment.</li>
+            <li>Such a vast expanse of aged flesh, too much to contend with. My innate desires found no purchase there.</li>
+            <li>I yearn for connection, but {PAWN_nameShortPossessive} unwieldy, colossal member looked like a cumbersome burden.</li>
+            <li>A truly significant piece, but it screamed "aged and tired." No youthful vigor, just massive, sagging bulk.</li>
+            <li>The grotesque proportions of that middle-aged penis made my stomach clench. It was simply too much to bear.</li>
+            <li>It's huge, sure, but in the most unappealing way possible. All bulk, no finesse.</li>
+            <li>My desires are strong, but {PAWN_nameShortPossessive} colossal, leathery shaft only evoked a chilling sense of emptiness.</li>
+            <li>The sight of that massive, unyielding thing made my ardour cool instantly. It seemed more a threat than a temptation.</li>
+            <li>Its size was a barrier, not an invitation. The sheer magnitude of {PAWN_possessive} member was utterly off-putting.</li>
+            <li>I need something passionate, but {PAWN_nameShortPossessive} aged, overgrown appendage seemed incapable of anything but clumsy pain.</li>
+            <li>My body rejects the notion of that immense, unwieldy shaft. It’s too much, too rough.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale_observed_by_Prude</defName>
+        <label>Large Penis (Negative)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Good heavens! The sheer, disgusting enormity of {PAWN_nameShortPossessive} exposed member is a horrifying affront to decency!</li>
+            <li>My eyes burned at the sight of that colossal, leathery shaft and those pendulous, aged testicles. Truly obscene!</li>
+            <li>How dare {PAWN_pronoun} display such an overwhelming, vulgar appendage? It's a shocking, indecent exhibition!</li>
+            <li>The shocking size of that malevolent organ is an absolute outrage. My very soul shudders with disgust!</li>
+            <li>I nearly fainted upon witnessing {PAWN_nameShortPossessive} massive, unholy member. It’s a disgrace to polite society!</li>
+            <li>That monstrous, engorged head and thick, veiny shaft is an unforgivable sight. My moral compass is utterly repulsed!</li>
+            <li>The indecency of such a prominent, aged piece of anatomy! It offends my sensibilities to their very core.</li>
+            <li>My vision is tainted by the image of that colossal, crude appendage. It is a disgusting, horrifying display.</li>
+            <li>I cannot unsee the grotesque proportions of {PAWN_nameShortPossessive} exposed penis. It's too big, too vulgar, too much!</li>
+            <li>The sight of that massive, unkempt foreskin and shaft is truly sickening. A profound violation of decorum!</li>
+            <li>Such an obscenely large and aged organ. It's a crime against modesty and all that is sacred!</li>
+            <li>My delicate eyes were assaulted by the massive, horrifying bulk of {PAWN_nameShortPossessive} indecent member. I feel ill!</li>
+            <li>The absolute indecency! That enormous, flaccid thing is a vile, offensive spectacle. Cover it at once!</li>
+            <li>What a horrifyingly huge, aged piece of flesh! It's a direct assault on everything pure and proper.</li>
+            <li>The monstrous girth and length of {PAWN_nameShortPossessive} member is a testament to depravity. It's an abomination!</li>
+            <li>I am utterly appalled by the brazen exposure of such a huge, lewd appendage. It's a moral blight!</li>
+            <li>That oversized, repulsive shaft and its sagging accompaniments are enough to turn one's stomach. How dreadful!</li>
+            <li>The very air feels soiled by the presence of {PAWN_nameShortPossessive} enormous, scandalous organ. Disgusting!</li>
+            <li>My deepest principles are violated by the sight of that obscenely large, coarse penis. I am beside myself!</li>
+            <li>This is a truly heinous display. That huge, unsightly thing should be hidden from all respectable eyes immediately!</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale_observed_by_Young_male</defName>
+        <label>Large Penis (Negative)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Gross. That old man's massive, veiny shaft is way too big and saggy. Hope mine never looks like that.</li>
+            <li>Suddenly, I saw it: {PAWN_nameShortPossessive} huge, withered member. It made my own insides squirm with discomfort.</li>
+            <li>That enormous, flaccid thing, with its heavy, wrinkled balls, was just... pathetic. What a sad display of age.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} penis was startling, but not in a good way. It looked cumbersome and ill-formed.</li>
+            <li>I glanced, and there it was: a truly oversized and aged organ. It was a disturbing and unpleasant sight.</li>
+            <li>The head of that colossal thing looked blunt and bruised, the foreskin discolored. It was a truly unappealing specimen.</li>
+            <li>His massive shaft was just too much, too rough. It looked like it had seen a hundred battles and lost them all.</li>
+            <li>What an unwieldy, aged beast of a penis. It looked less like something to use and more like a sad, deflated balloon.</li>
+            <li>I couldn't help but feel a shudder of revulsion seeing that huge, old appendage. It was a vision of future decay.</li>
+            <li>The raw, unrefined bulk of {PAWN_nameShortPossessive} penis was grotesque. No finesse, just a monstrous, aged club.</li>
+            <li>Its excessive length and girth, combined with the signs of age, made me recoil. A repulsive, senior specimen.</li>
+            <li>I caught sight of that immense, heavy shaft and felt a wave of nausea. It was too much to process.</li>
+            <li>That thing was huge, but also oddly shriveled and wrinkled. A truly disheartening image of masculinity.</li>
+            <li>{PAWN_nameShortPossessive} massive, aged member looked like a relic, not something alive. It was a disturbing preview of decline.</li>
+            <li>The disproportionate size and evident wear on {PAWN_possessive} penis was frankly quite depressing to behold.</li>
+            <li>That enormous, sagging sack and the thick, veiny shaft were just... unfortunate. I can't look away from this disaster.</li>
+            <li>A truly large one, yes, but it looked so heavy, so defeated. It was a stark reminder of what awaits us all.</li>
+            <li>I saw it, and felt a profound sense of "nope." That middle-aged, overgrown thing was a definite no-go.</li>
+            <li>His huge, uncircumcised head seemed almost bruised. The whole anatomy was just a mess of aged, large flesh.</li>
+            <li>The raw, aged power of that thick penis was unsettling. It seemed to carry a lifetime of disappointment in its bulk.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale_observed_by_Young_female</defName>
+        <label>Large Penis (Negative)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ugh, his *huge* thing just popped out. It's so veiny and thick, honestly, it's horrifyingly unappealing.</li>
+            <li>I saw {PAWN_nameShortPossessive} massive, aged penis and nearly gagged. It looked like a worn-out, grotesque sausage.</li>
+            <li>The sheer girth of it was terrifying. Like a swollen club, not something a young woman would ever desire.</li>
+            <li>His enormous, flaccid shaft hung heavily, with an equally large and wrinkly scrotum. It was utterly repulsive.</li>
+            <li>Suddenly, there it was: a truly colossal, older man's member. My eyes recoiled from the disturbing sight.</li>
+            <li>The head of that colossal thing was oddly purple and bulbous, the foreskin too loose. Absolutely disgusting.</li>
+            <li>I caught a glimpse of {PAWN_nameShortPossessive} immense, aged penis and felt a wave of profound nausea. It was too much.</li>
+            <li>Its size was intimidating, but in a purely repulsive way. It looked like it would cause only pain, not pleasure.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} thick, veiny shaft was enough to make me lose my appetite. Gross.</li>
+            <li>That enormous, unkempt thing, with its heavy, sagging balls, made me want to scream and run away.</li>
+            <li>I inadvertently saw {PAWN_nameShortPossessive} colossal member, and its aged, disproportionate anatomy made my stomach churn.</li>
+            <li>He exposed himself, and that monstrously large, lifeless penis was truly a horrific sight. So unappealing.</li>
+            <li>The vastness of {PAWN_possessive} aged foreskin and the thick shaft beneath was utterly off-putting. I wanted to avert my gaze.</li>
+            <li>It was unexpectedly immense, yet every part of it seemed to scream "old and used." A complete turn-off.</li>
+            <li>The horrifying girth and length of that penis was simply too much for any decent young woman to ever consider.</li>
+            <li>I saw {PAWN_nameShortPossessive} aged, engorged member, and felt a rush of pure revulsion. Its anatomy was a nightmare.</li>
+            <li>That thing was just... enormous, and not in the "impressive" way. It looked like a bruised, oversized vegetable.</li>
+            <li>The sight of his aged, immense penis made me shudder. No youthful vibrancy, just a huge, sagging mess.</li>
+            <li>I wish I hadn't seen {PAWN_nameShortPossessive} colossal appendage. Its size was disturbing, its appearance even more so.</li>
+            <li>The sheer volume of that middle-aged penis was overwhelming. It looked heavy, old, and utterly repulsive to me.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Large Penis (Negative)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} colossal member is certainly… prominent. A bit too much, if you ask me. No subtlety.</li>
+            <li>That's a lot of old man flesh right there. The sheer bulk of {PAWN_possessive} aged shaft is almost comical.</li>
+            <li>He parades that thing around? It’s large, yes, but it’s seen better days. Looks like a bruised, overused tool.</li>
+            <li>I saw {PAWN_nameShortPossessive} big one. It just hung there, too thick and too veiny. A rather uninspiring sight for a man {PAWN_possessive} age.</li>
+            <li>The sag of {PAWN_nameShortPossessive} enormous testicles beneath that weighty shaft was just depressing. A true sign of fading glory.</li>
+            <li>Its proportions were grotesque. A middle-aged man should carry {PAWN_possessive} burdens with more grace, not such a clumsy appendage.</li>
+            <li>That immense foreskin-covered head was discolored and unappealing. It made me wince to think of its true state.</li>
+            <li>I got a good look at {PAWN_nameShortPossessive} massive member. It's too big, too flaccid. A real shame, frankly.</li>
+            <li>The enormous girth of it was distracting. It just looked cumbersome, like a heavy burden. Not a proud display.</li>
+            <li>That thing is certainly grand in scale, but it appears so worn, so... exhausted. A testament to time's cruel hand.</li>
+            <li>He thinks that monstrous thing is impressive? It's just a reminder of how gravity affects us all.</li>
+            <li>{PAWN_nameShortPossessive} massive, aged shaft seems to defy proper anatomy. It’s less majestic and more of a swollen deformity.</li>
+            <li>Its bulk was notable, but utterly devoid of youthful firmness. A sad, overgrown piece of history.</li>
+            <li>I've seen plenty in my time, but {PAWN_nameShortPossessive} immense, aged member was just unsightly. No elegance whatsoever.</li>
+            <li>That gigantic, veiny appendage looked like it was pulled from a dusty old museum, not a living man.</li>
+            <li>The scale of {PAWN_possessive} penis was startling, but its aged appearance and disproportionate size made it seem more a liability.</li>
+            <li>He’s clearly proud of that beast, but it’s just a cumbersome, wrinkled mass now. Not exactly an envy-inducing sight.</li>
+            <li>I saw it unexpectedly; its huge, aged anatomy was a stark and unpleasant reminder of time's passage.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} thing was off-putting. Too much, too old, too… flabby.</li>
+            <li>That overblown, middle-aged shaft lacked any youthful vigor. It was just a big, ungraceful mess.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Large Penis (Negative)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Oh, that's just… too much. {PAWN_nameShortPossessive} massive, aged penis is utterly unappealing, almost offensive in its bulk.</li>
+            <li>I glanced, and saw a truly colossal, middle-aged shaft. It hung so heavily, devoid of any youthful appeal.</li>
+            <li>The sheer girth of it was shocking, but not in a desirable way. It looked cumbersome and frankly, quite ugly.</li>
+            <li>{PAWN_nameShortPossessive} enormous, veiny member was a sight I wish I could erase. It looked like a worn-out, gnarled tree root.</li>
+            <li>Its proportions were grotesque. A huge, flaccid shaft with pendulous, aged balls. An utterly uninspiring sight.</li>
+            <li>The head of that colossal thing was discolored and misshapen, the foreskin appearing slack. It promised no joy.</li>
+            <li>I’ve seen plenty in my time, but {PAWN_nameShortPossessive} oversized, aging penis offered only a sense of profound weariness.</li>
+            <li>A truly immense display, yet it looked so tired, so past its prime. It was a complete turn-off for a woman {PAWN_possessive} age.</li>
+            <li>The sight of that massive, unkempt foreskin and shaft made me cringe. It lacked any grace or appeal.</li>
+            <li>That enormous, heavy appendage was just… sad. It seemed to embody all the disappointments of advancing age.</li>
+            <li>Its bulk was certainly notable, but every ripple and vein spoke of a long, unglamorous history. Repulsive.</li>
+            <li>I couldn't help but notice {PAWN_nameShortPossessive} massive member. It was too big, too coarse, and completely uninviting.</li>
+            <li>The sheer volume of it was alarming, yet it seemed to sag with a profound lack of vitality.</li>
+            <li>He presented it as if it were a prize, but that enormous, aged piece of anatomy was anything but.</li>
+            <li>{PAWN_nameShortPossessive} colossal shaft seemed to belong to another era. It was just an overwhelming, unappealing mass.</li>
+            <li>The sheer size and aged appearance of {PAWN_possessive} penis were deeply unsettling. It looked painful and unpleasantly veiny.</li>
+            <li>It was prominent, yes, but its gross girth and tired look made me utterly disinterested.</li>
+            <li>My eyes unwillingly caught sight of that huge, aged appendage. Its anatomy seemed to defy natural beauty.</li>
+            <li>That immense, flabby thing just hung there, lifeless and unappealing. A grim reminder of fading youth.</li>
+            <li>The overwhelming presence of {PAWN_nameShortPossessive} middle-aged penis was simply too much to bear. Gross.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Elder male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale_observed_by_Elder_male</defName>
+        <label>Large Penis (Negative)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Look at that old brute. {PAWN_nameShortPossessive} massive, aged shaft looks like it’s been through a war. Disgusting.</li>
+            <li>I saw it: {PAWN_nameShortPossessive} truly enormous, yet sadly withered member. A pathetic, overblown remnant.</li>
+            <li>That middle-aged fool thinks that monstrous, flabby thing is still impressive? It’s just a cumbersome, veiny mess.</li>
+            <li>The sheer bulk of {PAWN_possessive} penis was startling, but its aged decay made it a deeply unsettling sight.</li>
+            <li>His immense, unkempt foreskin and shaft looked like something dug up from a crypt. A grotesque display.</li>
+            <li>The heavy sag of {PAWN_nameShortPossessive} testicles beneath that huge, lifeless rod was a grim reminder of time's passage.</li>
+            <li>I've seen larger, and certainly better. {PAWN_nameShortPossessive} colossal member is just a sad, bloated shadow of virility.</li>
+            <li>That thing is huge, yes, but it lacks any real vigor. Just a big, aged, and rather depressing piece of flesh.</li>
+            <li>The sight of that massive, discolored head and thick shaft made my stomach churn. A truly repulsive spectacle.</li>
+            <li>He exposes that enormous, wrinkled thing? It’s not impressive, it’s a lamentable monument to past glories.</li>
+            <li>Its disproportionate size made it appear more like a tumor than a functioning organ. Gross and unappealing.</li>
+            <li>I caught a glimpse of {PAWN_nameShortPossessive} vast, aged member, and felt only a profound sense of pity and revulsion.</li>
+            <li>That overblown, middle-aged penis was so ungraceful. It lacked the dignity even an old man's member should possess.</li>
+            <li>The grotesque proportions of {PAWN_possessive} thick, veiny shaft were truly unsettling. A testament to unfortunate genetics.</li>
+            <li>I simply cannot fathom the appeal of such a huge, worn-out appendage. It's a visual assault on good taste.</li>
+            <li>That immense, flaccid lump looked like it was ready to fall off. A truly disgusting display of aging.</li>
+            <li>{PAWN_nameShort} clearly hasn't taken care of {PAWN_possessive} enormous member. It's an unkempt, repulsive mess.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} aged penis was shocking, but its overall decay was even more so.</li>
+            <li>His massive, pendulous balls and thick shaft were enough to make me recoil. A very unpleasant sight indeed.</li>
+            <li>I saw it unexpectedly; its huge, aged anatomy was a stark and unpleasant reminder of how quickly vitality can fade.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_MatureMale_observed_by_Elder_female</defName>
+        <label>Large Penis (Negative)_MatureMale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That's a lot of old meat. {PAWN_nameShortPossessive} massive, aged penis is simply unappetizing. I've seen better days.</li>
+            <li>I saw it for a moment: {PAWN_nameShortPossessive} truly enormous, yet lifeless member. What a depressing sight.</li>
+            <li>He still displays that monstrous thing? It's too big, too flabby, and utterly lacking in any appeal whatsoever.</li>
+            <li>The sheer girth of {PAWN_possessive} penis was startling, but its aged appearance made it entirely uninteresting.</li>
+            <li>His immense, unkempt foreskin and shaft looked like something from a bad dream. Absolutely no allure.</li>
+            <li>The heavy sag of {PAWN_nameShortPossessive} testicles beneath that huge, weary rod made my stomach turn.</li>
+            <li>I’ve seen plenty of those in my time, and {PAWN_nameShortPossessive} colossal member is just a sad, overblown disappointment.</li>
+            <li>That thing is huge, yes, but it appears so worn and tired. It holds absolutely no fascination for me.</li>
+            <li>The sight of that massive, discolored head and thick shaft was rather nauseating. I wished I hadn't looked.</li>
+            <li>He exposes that enormous, wrinkled thing? It’s not impressive, dear, it’s simply a vulgar display of age.</li>
+            <li>Its disproportionate size made it appear more like an aged relic than something of interest. Gross and unappealing.</li>
+            <li>I caught a glimpse of {PAWN_nameShortPossessive} vast, aged member, and felt only a profound sense of indifference and mild disgust.</li>
+            <li>That overblown, middle-aged penis was so ungraceful. It lacked any charm, just raw, unappealing bulk.</li>
+            <li>The grotesque proportions of {PAWN_possessive} thick, veiny shaft were truly unsettling. What a sorry state of affairs.</li>
+            <li>I simply cannot fathom the appeal of such a huge, worn-out appendage. It's a very unlovely sight indeed.</li>
+            <li>That immense, flaccid lump looked like it belonged in a jar, not on a person. A truly disgusting display.</li>
+            <li>{PAWN_nameShort} clearly hasn't maintained {PAWN_possessive} enormous member. It's an unkempt, rather repulsive mess.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} aged penis was shocking, but its overall decay was even more off-putting.</li>
+            <li>His massive, pendulous balls and thick shaft were enough to make me recoil. A very unpleasant, aged package.</li>
+            <li>I saw it unexpectedly; its huge, aged anatomy was a stark and unpleasant reminder of how little some things improve with time.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale</defName>
+        <label>Large Penis (Negative)_ElderMale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Suddenly, a truly colossal, ancient member was exposed. Its withered, sagging bulk was utterly repulsive.</li>
+            <li>The sheer size of that elderly shaft was horrifying, but its discolored, wrinkled head was even worse.</li>
+            <li>I glimpsed {PAWN_nameShortPossessive} massive, aged appendage. It hung heavy and lifeless, a truly sickening sight.</li>
+            <li>That thing was enormous, yes, but its age had rendered it grotesque. A flabby, veiny monument to decay.</li>
+            <li>The heavy, pendulous testicles beneath that immense, shriveled penis were a stomach-churning sight.</li>
+            <li>Its disproportionate size, combined with the extreme signs of age, made it an absolute abomination to behold.</li>
+            <li>{PAWN_nameShortPossessive} colossal member was a ghastly spectacle. All girth, no vitality, just aged, sagging flesh.</li>
+            <li>The sight of that massive, unkempt foreskin, stretched over an ancient head, was deeply disturbing.</li>
+            <li>A truly monumental erection, yet it looked like a diseased tree trunk. Revolting in its sheer scale.</li>
+            <li>That immense, leathery shaft, with its prominent veins and age spots, was beyond unappealing.</li>
+            <li>I recoiled from the sight of that horrifyingly large, aged penis. It was a vision of everything gone wrong.</li>
+            <li>The colossal bulk of it was almost comical, if it weren't so utterly repulsive and withered.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid member, with its heavy, wrinkled balls, was a stark reminder of mortality.</li>
+            <li>It was unexpectedly huge, but in a way that screamed "decay" and "despair." Truly a sight to forget.</li>
+            <li>The sheer volume of that elderly penis was overwhelming. It looked painful and incredibly sad.</li>
+            <li>A truly grand scale, yet it bore the unmistakable marks of severe neglect and profound age. Gross.</li>
+            <li>That massive, aged lump of flesh looked like it had been through a thousand battles and lost every single one.</li>
+            <li>I saw it, and felt a wave of profound nausea. The aged anatomy of that huge penis was simply too much.</li>
+            <li>{PAWN_nameShortPossessive} enormous, uncircumcised head was purple and shriveled. The whole thing was a nightmare.</li>
+            <li>The raw, aged power of that thick, veiny penis was unsettling. It seemed to carry a lifetime of regret in its folds.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale_observed_by_voyer</defName>
+        <label>Large Penis (Negative)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even for a voyeur, that was too much. The excessive size of {PAWN_nameShortPossessive} aged member was a truly unsettling spectacle.</li>
+            <li>I peered, but the sheer, unsightly bulk of {PAWN_possessive} ancient penis was horrifyingly unappealing. My voyeuristic urge withered.</li>
+            <li>The old shaft was a little too large, too wrinkly; the view was profoundly un-titillating. It was simply repulsive.</li>
+            <li>A sizable package, yet it looked more like a heavy, decaying burden than anything interesting. The heavy sag completed the disappointing picture.</li>
+            <li>I watched, but {PAWN_nameShortPossessive} colossal, ancient appendage seemed a vulgar display, almost offensively large and utterly joyless.</li>
+            <li>The thick, veiny, aged shaft was indeed large, but seeing it just hanging there, it felt less thrilling and more… like a disease.</li>
+            <li>I caught a glimpse, and its unnatural girth, combined with its decay, filled me with a strange sense of revulsion.</li>
+            <li>That enormous, ancient foreskin-covered head, combined with its overall size, made it a truly sickening spectacle for any discerning eye.</li>
+            <li>The heavy, aged set of testicles, paired with that thick, unyielding, withered shaft, was simply an inspiring view of despair.</li>
+            <li>As a voyeur, I sought excitement, but {PAWN_nameShortPossessive} overgrown, ancient unit only provoked a profound sense of disgust and horror.</li>
+            <li>Its bulk was certainly notable, yet utterly lacking the subtle details a true connoisseur appreciates. Just a decaying brute.</li>
+            <li>I observed, and frankly, the sheer, unrefined magnitude of it was a turn-off. It looked clumsy, grotesque, and unwieldy.</li>
+            <li>A massive, ancient appendage, yes, but it lacked any artistry. Just a great, unlovely, rotting chunk of flesh.</li>
+            <li>The vision of that immense, thick, and aged shaft and its broad head was far from what I consider a pleasurable sight.</li>
+            <li>I witnessed a genuinely large one, but it was so ungainly, so unappealing, so old. My voyeuristic interest quickly turned to nausea.</li>
+            <li>The substantial, ancient anatomy, every vein and wrinkle, made it less a curiosity and more a source of profound disgust.</li>
+            <li>It was certainly prominent, but its coarse, disproportionate size was frankly rather a grotesque bore to behold.</li>
+            <li>That grand, sagging mass of ancient penis and balls was less a spectacle and more a lamentable display of pure decay.</li>
+            <li>I looked, and saw something truly colossal, yet it was so visually unharmonious and ancient. A jarringly large, old feature.</li>
+            <li>My gaze lingered for a moment, only to be met with the overwhelming, unrefined magnitude of {PAWN_possessive} large, decaying member.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Large Penis (Negative)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} massive, ancient display was truly repulsive. It just hung there, too large and utterly decrepit to impress.</li>
+            <li>He thinks that immense, aged thing is impressive? It's just a flaccid, overblown mess, utterly lacking in appeal or grace.</li>
+            <li>My own magnificent endowment is a work of art; {PAWN_nameShortPossessive} crude, bulky, aged shaft is simply embarrassing.</li>
+            <li>The size is there, but where's the spectacle? {PAWN_possessive} enormous, flabby, ancient balls ruined any possible effect {PAWN_pronoun} might have hoped for.</li>
+            <li>{PAWN_nameShort} put on quite a show, but that huge, unkempt, withered member was more a deterrent than an attraction.</li>
+            <li>Exhibiting such a monstrous, veiny, decayed shaft without an ounce of pride or artistry is just tragic. It's too big, too dull.</li>
+            <li>I saw the whole, immense, ancient thing. It wasn't glorious, it was just… *large* and rotting. And not in a good way.</li>
+            <li>The prominent head of {PAWN_possessive} grand old, withered penis seemed almost ashamed of its own girth. What a sad display.</li>
+            <li>{PAWN_nameShortPossessive} enormous, sagging, ancient package made me cringe. No true exhibitionist would dare present such a lumbering, ungraceful sight.</li>
+            <li>That bulbous, aged, and discolored penis seemed to scream for mercy, an overwhelming, decaying mass. It hardly incites awe, only pity.</li>
+            <li>I prefer a more refined presentation. {PAWN_nameShortPossessive} crude, excessively large, and ancient member was a shocking lack of taste.</li>
+            <li>A truly gigantic, withered piece of meat, but it totally lacks charisma. It's just... there, massively and awkwardly, a relic.</li>
+            <li>{PAWN_nameShort} clearly believes in excess, but that unwieldy, ancient shaft only proved that bigger isn't always better, especially when old.</li>
+            <li>Such an immense, ancient foreskin-covered head, yet utterly devoid of any visual allure. A testament to unfortunate, decaying anatomy.</li>
+            <li>The flabby, pendulousness of {PAWN_possessive} large, ancient scrotum and shaft was truly unappealing. A monument to poor upkeep and time.</li>
+            <li>I put on a show to inspire awe, but {PAWN_nameShortPossessive} immense, aged member only inspired a profound sense of "why bother with that?"</li>
+            <li>The shocking girth of that elderly penis was less a statement and more a clumsy, unsettling, decaying visual intrusion.</li>
+            <li>{PAWN_pronoun} flaunted {PAWN_possessive} enormous, ancient manhood, but all I saw was a cumbersome, ungraceful appendage lacking any spark of life.</li>
+            <li>Its sheer, overwhelming size made me roll my eyes. An exhibition should be captivating, not a bloated, veiny, decaying disappointment.</li>
+            <li>{PAWN_nameShortPossessive} colossal, ancient member was a sight indeed, but one that actively put me off any thought of a reciprocal display.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Large Penis (Negative)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That monstrosity? Too big, too unwieldy, too ancient. Probably more pain than pleasure. Definitely not what I'm looking for.</li>
+            <li>I crave passion, but {PAWN_nameShortPossessive} enormous, veiny, withered shaft looked like a blunt, decaying instrument, utterly unappealing.</li>
+            <li>The sheer girth of it was a turn-off. It looked cumbersome and ancient, a poor fit for any real enjoyment.</li>
+            <li>Despite my desires, that immense, bulbous, aged head and thick shaft sent a shiver of pure distaste through me. No thank you.</li>
+            <li>Its size was overwhelming, a grotesque, decaying mass of flesh. My body recoiled from the very thought of it.</li>
+            <li>The scale of {PAWN_nameShortPossessive} ancient thing was off-putting; it promised only discomfort and regret, not the thrilling release I seek.</li>
+            <li>A truly immense, ancient penis, but it appeared so used up and tired. My lust curdled at the sight of its decay.</li>
+            <li>It was large, yes, but seemed so unrefined, almost crude and lifeless. A complete mismatch for my refined tastes.</li>
+            <li>My body hungers, but {PAWN_nameShortPossessive} excessively thick, withered shaft and pendulous, aged balls offered only revulsion, not desire.</li>
+            <li>The foreskin was stretched taut over a truly gargantuan, ancient head. It promised nothing but awkwardness and profound disappointment.</li>
+            <li>Such a vast expanse of aged, decaying flesh, too much to contend with. My innate desires found no purchase there.</li>
+            <li>I yearn for connection, but {PAWN_nameShortPossessive} unwieldy, colossal, and withered member looked like a cumbersome, repulsive burden.</li>
+            <li>A truly significant piece, but it screamed "ancient and used." No youthful vigor, just massive, sagging, rotting bulk.</li>
+            <li>The grotesque proportions of that elderly penis made my stomach clench. It was simply too much to bear.</li>
+            <li>It's huge, sure, but in the most unappealing, ancient way possible. All bulk, no finesse, just decay.</li>
+            <li>My desires are strong, but {PAWN_nameShortPossessive} colossal, leathery, and ancient shaft only evoked a chilling sense of profound emptiness.</li>
+            <li>The sight of that massive, unyielding, withered thing made my ardour cool instantly. It seemed more a threat than a temptation.</li>
+            <li>Its size was a barrier, not an invitation. The sheer magnitude of {PAWN_possessive} ancient member was utterly off-putting.</li>
+            <li>I need something passionate, but {PAWN_nameShortPossessive} aged, overgrown, and decaying appendage seemed incapable of anything but clumsy pain.</li>
+            <li>My body rejects the notion of that immense, unwieldy, and ancient shaft. It’s too much, too rough, too old.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale_observed_by_Prude</defName>
+        <label>Large Penis (Negative)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Good heavens! The sheer, disgusting enormity of {PAWN_nameShortPossessive} exposed, ancient member is a horrifying affront to all decency!</li>
+            <li>My eyes burned at the sight of that colossal, leathery, and withered shaft and those pendulous, ancient testicles. Truly obscene!</li>
+            <li>How dare {PAWN_pronoun} display such an overwhelming, vulgar, and decayed appendage? It's a shocking, indecent exhibition!</li>
+            <li>The shocking size of that malevolent, ancient organ is an absolute outrage. My very soul shudders with pure disgust!</li>
+            <li>I nearly fainted upon witnessing {PAWN_nameShortPossessive} massive, unholy, and aged member. It’s a disgrace to polite society!</li>
+            <li>That monstrous, engorged, and decaying head and thick, veiny shaft is an unforgivable sight. My moral compass is utterly repulsed!</li>
+            <li>The indecency of such a prominent, ancient piece of anatomy! It offends my sensibilities to their very core, a true horror.</li>
+            <li>My vision is tainted by the image of that colossal, crude, and withered appendage. It is a disgusting, horrifying display.</li>
+            <li>I cannot unsee the grotesque proportions of {PAWN_nameShortPossessive} exposed, ancient penis. It's too big, too vulgar, too much decay!</li>
+            <li>The sight of that massive, unkempt, and ancient foreskin and shaft is truly sickening. A profound violation of decorum!</li>
+            <li>Such an obscenely large and aged organ. It's a crime against modesty and all that is sacred and pure!</li>
+            <li>My delicate eyes were assaulted by the massive, horrifying bulk of {PAWN_nameShortPossessive} indecent, ancient member. I feel violently ill!</li>
+            <li>The absolute indecency! That enormous, flaccid, and aged thing is a vile, offensive spectacle. Cover it at once, you monster!</li>
+            <li>What a horrifyingly huge, ancient piece of flesh! It's a direct assault on everything pure and proper, a vile display.</li>
+            <li>The monstrous girth and length of {PAWN_nameShortPossessive} ancient member is a testament to depravity. It's an abomination!</li>
+            <li>I am utterly appalled by the brazen exposure of such a huge, lewd, and ancient appendage. It's a moral blight!</li>
+            <li>That oversized, repulsive, and withered shaft and its sagging accompaniments are enough to turn one's stomach. How dreadful and vile!</li>
+            <li>The very air feels soiled by the presence of {PAWN_nameShortPossessive} enormous, scandalous, and ancient organ. Disgusting, truly disgusting!</li>
+            <li>My deepest principles are violated by the sight of that obscenely large, coarse, and aged penis. I am beside myself with revulsion!</li>
+            <li>This is a truly heinous display. That huge, unsightly, and ancient thing should be hidden from all respectable eyes immediately, forever!</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale_observed_by_Young_male</defName>
+        <label>Large Penis (Negative)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Gross. That old man's massive, veiny, and shriveled shaft is way too big and saggy. Hope mine never looks like that.</li>
+            <li>Suddenly, I saw it: {PAWN_nameShortPossessive} huge, withered, ancient member. It made my own insides squirm with profound discomfort.</li>
+            <li>That enormous, flaccid, decaying thing, with its heavy, wrinkled, ancient balls, was just... pathetic. What a sad display of age.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} ancient penis was startling, but not in a good way. It looked cumbersome and ill-formed, almost rotten.</li>
+            <li>I glanced, and there it was: a truly oversized and ancient organ. It was a disturbing and profoundly unpleasant sight.</li>
+            <li>The head of that colossal, ancient thing looked blunt and bruised, the foreskin discolored. It was a truly unappealing, horrifying specimen.</li>
+            <li>His massive, ancient shaft was just too much, too rough. It looked like it had seen a hundred battles and lost every single one.</li>
+            <li>What an unwieldy, ancient beast of a penis. It looked less like something to use and more like a sad, deflated, rotting balloon.</li>
+            <li>I couldn't help but feel a shudder of revulsion seeing that huge, old, and decaying appendage. It was a vision of future horror.</li>
+            <li>The raw, unrefined bulk of {PAWN_nameShortPossessive} ancient penis was grotesque. No finesse, just a monstrous, aged, and dying club.</li>
+            <li>Its excessive length and girth, combined with the extreme signs of age, made me recoil. A repulsive, senior, and withered specimen.</li>
+            <li>I caught sight of that immense, heavy, and ancient shaft and felt a wave of pure nausea. It was too much to process.</li>
+            <li>That thing was huge, but also oddly shriveled and wrinkled. A truly disheartening image of masculinity's ultimate demise.</li>
+            <li>{PAWN_nameShortPossessive} massive, ancient, and decaying member looked like a relic, not something alive. It was a disturbing preview of decline.</li>
+            <li>The disproportionate size and evident wear on {PAWN_possessive} ancient penis was frankly quite depressing to behold.</li>
+            <li>That enormous, sagging, and ancient sack and the thick, veiny, withered shaft were just... unfortunate. I can't look away from this disaster.</li>
+            <li>A truly large one, yes, but it looked so heavy, so defeated, so utterly lifeless. It was a stark reminder of what awaits us all.</li>
+            <li>I saw it, and felt a profound sense of "nope." That elderly, overgrown, and decaying thing was a definite no-go, ever.</li>
+            <li>His huge, uncircumcised, and ancient head seemed almost bruised. The whole anatomy was just a mess of aged, large, and rotten flesh.</li>
+            <li>The raw, aged power of that thick, ancient penis was unsettling. It seemed to carry a lifetime of deep disappointment and decay in its bulk.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale_observed_by_Young_female</defName>
+        <label>Large Penis (Negative)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ugh, his *huge*, ancient thing just popped out. It's so veiny, thick, and withered, honestly, it's horrifyingly unappealing.</li>
+            <li>I saw {PAWN_nameShortPossessive} massive, aged, and decaying penis and nearly gagged. It looked like a worn-out, grotesque, rotting sausage.</li>
+            <li>The sheer girth of it was terrifying. Like a swollen, ancient club, not something a young woman would ever desire.</li>
+            <li>His enormous, flaccid, and ancient shaft hung heavily, with an equally large and wrinkly, decaying scrotum. It was utterly repulsive.</li>
+            <li>Suddenly, there it was: a truly colossal, ancient man's member. My eyes recoiled from the disturbing, decomposing sight.</li>
+            <li>The head of that colossal, ancient thing was oddly purple and bulbous, the foreskin too loose and withered. Absolutely disgusting.</li>
+            <li>I caught a glimpse of {PAWN_nameShortPossessive} immense, aged, and decaying penis and felt a wave of profound nausea. It was too much.</li>
+            <li>Its size was intimidating, but in a purely repulsive, ancient way. It looked like it would cause only pain and decay, not pleasure.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} thick, veiny, and withered shaft was enough to make me lose my appetite. Gross.</li>
+            <li>That enormous, unkempt, and ancient thing, with its heavy, sagging balls, made me want to scream and run away forever.</li>
+            <li>I inadvertently saw {PAWN_nameShortPossessive} colossal, ancient member, and its aged, disproportionate, and decaying anatomy made my stomach churn violently.</li>
+            <li>He exposed himself, and that monstrously large, lifeless, and ancient penis was truly a horrific sight. So unappealing and repulsive.</li>
+            <li>The vastness of {PAWN_possessive} aged, ancient foreskin and the thick, withered shaft beneath was utterly off-putting. I wanted to avert my gaze permanently.</li>
+            <li>It was unexpectedly immense, yet every part of it seemed to scream "old, used, and rotting." A complete turn-off, a true nightmare.</li>
+            <li>The horrifying girth and length of that ancient penis was simply too much for any decent young woman to ever consider.</li>
+            <li>I saw {PAWN_nameShortPossessive} aged, engorged, and decaying member, and felt a rush of pure revulsion. Its anatomy was a living nightmare.</li>
+            <li>That thing was just... enormous, and not in the "impressive" way. It looked like a bruised, oversized, and rotting vegetable.</li>
+            <li>The sight of his aged, immense, and withered penis made me shudder. No youthful vibrancy, just a huge, sagging, decaying mess.</li>
+            <li>I wish I hadn't seen {PAWN_nameShortPossessive} colossal, ancient appendage. Its size was disturbing, its appearance even more so.</li>
+            <li>The sheer volume of that elderly penis was overwhelming. It looked heavy, old, and utterly repulsive and decaying to me.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Large Penis (Negative)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} colossal, ancient member is certainly… prominent. A bit too much, if you ask me. No subtlety, just decay.</li>
+            <li>That's a lot of old man flesh right there. The sheer bulk of {PAWN_possessive} aged, withered shaft is almost comical in its decrepitude.</li>
+            <li>He parades that thing around? It’s large, yes, but it’s seen far, far better days. Looks like a bruised, overused, rotting tool.</li>
+            <li>I saw {PAWN_nameShortPossessive} big, ancient one. It just hung there, too thick, too veiny, and too lifeless. A rather uninspiring sight for any man.</li>
+            <li>The sag of {PAWN_nameShortPossessive} enormous, ancient testicles beneath that weighty, withered shaft was just depressing. A true sign of fading glory and inevitable rot.</li>
+            <li>Its proportions were grotesque. An old man should carry {PAWN_possessive} burdens with more grace, not such a clumsy, decaying appendage.</li>
+            <li>That immense, ancient foreskin-covered head was discolored and unappealing. It made me wince to think of its true, decaying state.</li>
+            <li>I got a good look at {PAWN_nameShortPossessive} massive, ancient member. It's too big, too flaccid, too withered. A real shame, frankly.</li>
+            <li>The enormous girth of it was distracting. It just looked cumbersome, like a heavy, decaying burden. Not a proud display.</li>
+            <li>That thing is certainly grand in scale, but it appears so worn, so... exhausted, so ancient. A testament to time's cruel, rotting hand.</li>
+            <li>He thinks that monstrous, ancient thing is impressive? It's just a reminder of how gravity and decay affect us all.</li>
+            <li>{PAWN_nameShortPossessive} massive, aged shaft seems to defy proper anatomy. It’s less majestic and more of a swollen, decaying deformity.</li>
+            <li>Its bulk was notable, but utterly devoid of youthful firmness. A sad, overgrown, rotting piece of history.</li>
+            <li>I've seen plenty in my time, but {PAWN_nameShortPossessive} immense, aged, and withered member was just unsightly. No elegance whatsoever.</li>
+            <li>That gigantic, veiny, ancient appendage looked like it was pulled from a dusty old museum, not a living man.</li>
+            <li>The scale of {PAWN_possessive} penis was startling, but its aged appearance and disproportionate size made it seem more a liability, a decaying weight.</li>
+            <li>He’s clearly proud of that beast, but it’s just a cumbersome, wrinkled, rotting mass now. Not exactly an envy-inducing sight.</li>
+            <li>I saw it unexpectedly; its huge, aged anatomy was a stark and unpleasant reminder of time's passage and inevitable decay.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} ancient thing was off-putting. Too much, too old, too… flabby and rotting.</li>
+            <li>That overblown, elderly shaft lacked any youthful vigor. It was just a big, ungraceful, decaying mess.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Large Penis (Negative)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Oh, that's just… too much. {PAWN_nameShortPossessive} massive, ancient penis is utterly unappealing, almost offensive in its decaying bulk.</li>
+            <li>I glanced, and saw a truly colossal, ancient shaft. It hung so heavily, devoid of any youthful appeal, a monument to decay.</li>
+            <li>The sheer girth of it was shocking, but not in a desirable way. It looked cumbersome and frankly, quite ugly and withered.</li>
+            <li>{PAWN_nameShortPossessive} enormous, veiny, and ancient member was a sight I wish I could erase. It looked like a worn-out, grotesque, rotting tree root.</li>
+            <li>Its proportions were grotesque. A huge, flaccid, and ancient shaft with pendulous, aged, decaying balls. An utterly uninspiring sight.</li>
+            <li>The head of that colossal, ancient thing was discolored and misshapen, the foreskin appearing slack and withered. It promised no joy.</li>
+            <li>I’ve seen plenty in my time, but {PAWN_nameShortPossessive} oversized, aging, and decaying penis offered only a sense of profound weariness.</li>
+            <li>A truly immense display, yet it looked so tired, so past its prime, so utterly ancient. It was a complete turn-off.</li>
+            <li>The sight of that massive, unkempt, and ancient foreskin and shaft made me cringe. It lacked any grace or appeal.</li>
+            <li>That enormous, heavy, and ancient appendage was just… sad. It seemed to embody all the disappointments of advancing age and decay.</li>
+            <li>Its bulk was certainly notable, but every ripple and vein spoke of a long, unglamorous, and decaying history. Repulsive.</li>
+            <li>I couldn't help but notice {PAWN_nameShortPossessive} massive, ancient member. It was too big, too coarse, and completely uninviting.</li>
+            <li>The sheer volume of it was alarming, yet it seemed to sag with a profound lack of vitality and imminent decay.</li>
+            <li>He presented it as if it were a prize, but that enormous, aged, and rotting piece of anatomy was anything but.</li>
+            <li>{PAWN_nameShortPossessive} colossal, ancient shaft seemed to belong to another era. It was just an overwhelming, unappealing mass of flesh.</li>
+            <li>The sheer size and aged appearance of {PAWN_possessive} ancient penis were deeply unsettling. It looked painful, unpleasantly veiny, and withered.</li>
+            <li>It was prominent, yes, but its gross girth and tired, ancient look made me utterly disinterested and mildly nauseous.</li>
+            <li>My eyes unwillingly caught sight of that huge, aged, and decaying appendage. Its anatomy seemed to defy natural beauty.</li>
+            <li>That immense, flabby, ancient thing just hung there, lifeless and unappealing. A grim reminder of fading youth and inevitable rot.</li>
+            <li>The overwhelming presence of {PAWN_nameShortPossessive} elderly penis was simply too much to bear. Gross, truly gross.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale_observed_by_Elder_male</defName>
+        <label>Large Penis (Negative)_ElderMale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Look at that ancient brute. {PAWN_nameShortPossessive} massive, aged, and withered shaft looks like it’s been through a war and lost. Disgusting.</li>
+            <li>I saw it: {PAWN_nameShortPossessive} truly enormous, yet sadly withered, ancient member. A pathetic, overblown, decaying remnant.</li>
+            <li>That elderly fool thinks that monstrous, flabby, and rotting thing is still impressive? It’s just a cumbersome, veiny, dying mess.</li>
+            <li>The sheer bulk of {PAWN_possessive} ancient penis was startling, but its aged decay made it a deeply unsettling, horrifying sight.</li>
+            <li>His immense, unkempt, ancient foreskin and shaft looked like something dug up from a crypt. A grotesque, reanimated display.</li>
+            <li>The heavy sag of {PAWN_nameShortPossessive} testicles beneath that huge, lifeless, and decaying rod was a grim reminder of time's ultimate passage.</li>
+            <li>I've seen larger, and certainly better, in my youth. {PAWN_nameShortPossessive} colossal, ancient member is just a sad, bloated shadow of virility.</li>
+            <li>That thing is huge, yes, but it lacks any real vigor. Just a big, aged, and rather depressing piece of decaying flesh.</li>
+            <li>The sight of that massive, discolored, and ancient head and thick shaft made my stomach churn. A truly repulsive spectacle.</li>
+            <li>He exposes that enormous, wrinkled, and rotting thing? It’s not impressive, it’s a lamentable monument to past glories and current decay.</li>
+            <li>Its disproportionate size made it appear more like a tumor than a functioning organ. Gross, unappealing, and utterly broken.</li>
+            <li>I caught a glimpse of {PAWN_nameShortPossessive} vast, aged, and withered member, and felt only a profound sense of pity, disgust, and self-loathing.</li>
+            <li>That overblown, elderly penis was so ungraceful. It lacked the dignity even an old man's member should possess.</li>
+            <li>The grotesque proportions of {PAWN_possessive} thick, veiny, ancient shaft were truly unsettling. A testament to unfortunate genetics and inevitable rot.</li>
+            <li>I simply cannot fathom the appeal of such a huge, worn-out, and decaying appendage. It's a visual assault on good taste and sanity.</li>
+            <li>That immense, flaccid, and ancient lump looked like it was ready to fall off. A truly disgusting display of aging and decomposition.</li>
+            <li>{PAWN_nameShort} clearly hasn't taken care of {PAWN_possessive} enormous, ancient member. It's an unkempt, repulsive, and rotting mess.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} aged penis was shocking, but its overall decay was even more so.</li>
+            <li>His massive, pendulous, and ancient balls and thick shaft were enough to make me recoil. A very unpleasant, aged package.</li>
+            <li>I saw it unexpectedly; its huge, aged, and decaying anatomy was a stark and unpleasant reminder of how quickly vitality can fade into nothingness.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Negative_Large_ElderMale_observed_by_Elder_female</defName>
+        <label>Large Penis (Negative)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That's a lot of old, rotting meat. {PAWN_nameShortPossessive} massive, ancient penis is simply unappetizing. I've seen far better days.</li>
+            <li>I saw it for a moment: {PAWN_nameShortPossessive} truly enormous, yet lifeless, and utterly withered member. What a depressing, decaying sight.</li>
+            <li>He still displays that monstrous, ancient thing? It's too big, too flabby, and utterly lacking in any appeal whatsoever, just pure rot.</li>
+            <li>The sheer girth of {PAWN_possessive} ancient penis was startling, but its aged decay made it entirely uninteresting and repulsive.</li>
+            <li>His immense, unkempt, ancient foreskin and shaft looked like something from a bad dream. Absolutely no allure, just horror.</li>
+            <li>The heavy sag of {PAWN_nameShortPossessive} testicles beneath that huge, weary, and decaying rod made my stomach turn violently.</li>
+            <li>I’ve seen plenty of those in my time, and {PAWN_nameShortPossessive} colossal, ancient member is just a sad, overblown, rotting disappointment.</li>
+            <li>That thing is huge, yes, but it appears so worn and tired, so utterly ancient. It holds absolutely no fascination for me.</li>
+            <li>The sight of that massive, discolored, and ancient head and thick shaft was rather nauseating. I wished I hadn't looked, ever.</li>
+            <li>He exposes that enormous, wrinkled, and decaying thing? It’s not impressive, dear, it’s simply a vulgar display of age and rot.</li>
+            <li>Its disproportionate size made it appear more like an aged relic than something of interest. Gross, unappealing, and profoundly unsettling.</li>
+            <li>I caught a glimpse of {PAWN_nameShortPossessive} vast, aged, and withered member, and felt only a profound sense of indifference, mild disgust, and deep revulsion.</li>
+            <li>That overblown, elderly penis was so ungraceful. It lacked any charm, just raw, unappealing, and decaying bulk.</li>
+            <li>The grotesque proportions of {PAWN_possessive} thick, veiny, and ancient shaft were truly unsettling. What a sorry state of affairs, indeed.</li>
+            <li>I simply cannot fathom the appeal of such a huge, worn-out, and decaying appendage. It's a very unlovely sight indeed.</li>
+            <li>That immense, flabby, and ancient lump looked like it belonged in a jar, not on a person. A truly disgusting, rotting display.</li>
+            <li>{PAWN_nameShort} clearly hasn't maintained {PAWN_possessive} enormous, ancient member. It's an unkempt, repulsive, and decaying mess.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} aged penis was shocking, but its overall decay was even more off-putting and horrifying.</li>
+            <li>His massive, pendulous, and ancient balls and thick shaft were enough to make me recoil. A very unpleasant, aged, and rotting package.</li>
+            <li>I saw it unexpectedly; its huge, aged, and decaying anatomy was a stark and unpleasant reminder of how little some things improve with time.</li>
+        </opinionTexts>
+</Def>
+</Defs>

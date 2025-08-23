@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Male gives opinion about his tiny butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Micro_Horny_Male_Negative</defName>
+        <label>Opinion_Self_Anus_Micro_Horny_Male_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My tiny butt and constricted anus feel utterly unappealing, leaving me frustrated and unsatisfied despite the gnawing horniness.</li>
+            <li>This micro-sized rear just isn't cutting it; the lack of plumpness and tight anus only amplifies my horny dissatisfaction and foul mood.</li>
+            <li>A flat posterior and minuscule anus are a dismal sight, making me feel utterly inadequate and horny-miserable.</li>
+            <li>The minuscule curve of my backside offers no comfort, and my tight anus reminds me of my unfulfilled desires.</li>
+            <li>Even in my horny state, I despise this shriveled excuse for a butt. It's flat and unyielding, offering no visual pleasure or promise.</li>
+            <li>This flat, uninspired butt with its tiny, unyielding anus fills me with self-loathing, making my horniness feel pointless.</li>
+            <li>My behind feels utterly pathetic, too small to excite even myself, leaving me horny and deeply discontent.</li>
+            <li>This perpetually tight and underdeveloped anus is a constant source of negative self-perception, especially when horny.</li>
+            <li>I'm disgusted by the lack of any discernible shape; my micro anus is just a dimple, utterly unstimulating for my horny needs.</li>
+            <li>This tiny, un-responding anus only deepens my gloomy, horny mood, offering no release or visual pleasure.</li>
+            <li>It's almost as if my butt doesn't exist, and this micro anus certainly doesn't help my desperate, horny state.</li>
+            <li>The flatness of my posterior is frankly depressing, making my horny desires feel silly and unachievable.</li>
+            <li>My anus feels so clamped, a stark contrast to the burning need within, leaving me utterly frustrated and horny.</li>
+            <li>This unyielding, tiny anus is a visual deterrent, squashing my horny mood with its unappealing appearance.</li>
+            <li>I can barely discern my own anus; it's so small, making me feel insignificant and increasingly irritable due to horniness.</li>
+            <li>My rear is a tragic disappointment, devoid of any appealing form, just a tight, unyielding hole that mocks my desires.</li>
+            <li>I feel nothing but disdain for this meager backside; it's too flat, too tight, and too unimpressive for my horny mind.</li>
+            <li>Even when desperately horny, I find my own anus utterly unsexy, just a shriveled little thing that disappoints.</li>
+            <li>The sight of my own tiny anus brings only despair, fueling my already sour mood and unfulfilled horniness.</li>
+            <li>This tiny, unyielding anus frustrates me to no end, especially with this overpowering horny urge I can't satisfy.</li>
+            <li>It's a flat, unforgiving landscape, this butt of mine, with an anus that offers no hope for my burning desires.</li>
+            <li>My mood sours every time I think of my small, unappealing butt and its unyielding, micro anus.</li>
+            <li>The lack of any curves or sensuality in my rear is truly a downer, especially when horniness sets in.</li>
+            <li>I feel trapped by the tiny, unyielding nature of my anus, making me intensely miserable in my horny state.</li>
+            <li>This is just a flat expanse, nothing to grab or appreciate, further dampening my already poor, horny mood.</li>
+            <li>My anus feels incredibly tight, almost painful, which only magnifies my discomfort and horny frustration.</li>
+            <li>No matter how horny I get, this uninspiring butt and its tiny anus offer absolutely no comfort or visual pleasure.</li>
+            <li>I hate how this minuscule anus reflects my lack of sexual fulfillment, souring my mood even further.</li>
+            <li>It's a butt that screams "nothing," and my micro anus only confirms that, leaving me profoundly horny and depressed.</li>
+            <li>This uninspiring, flat rear and its non-existent anus make me feel repulsive, escalating my horny misery.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Male gives opinion about his small butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Tight_Horny_Male_Negative</defName>
+        <label>Opinion_Self_Anus_Tight_Horny_Male_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My small butt feels disappointingly flat, and the tight anus makes me feel constrained and sexually frustrated.</li>
+            <li>This butt lacks any significant curve, its tightness reflecting my unfulfilled horny desires, leaving me in a foul mood.</li>
+            <li>I despise the tightness of my anus; it's unyielding and unappealing, making my horny state feel like a curse.</li>
+            <li>Even with my horniness, my small, tight butt feels uninspiring, a constant reminder of my physical shortcomings.</li>
+            <li>The lack of jiggliness and the firm, unyielding anus make me feel rigid and unsexy, especially now that I'm horny.</li>
+            <li>This uncomfortably tight anus brings only misery, mirroring my overall negative mood and intense horny frustration.</li>
+            <li>My posterior feels far too small and ungiving, a disheartening sight that dampens my already burning, unsatisfied horniness.</li>
+            <li>I hate how flat and unyielding my butt is, and my tight anus just emphasizes its lack of sexual appeal.</li>
+            <li>This constricted anus and meager butt size are a constant source of dissatisfaction, making my horniness feel pointless.</li>
+            <li>The smallness of my behind combined with a stubbornly tight anus leaves me feeling utterly undesirable and horny-depressed.</li>
+            <li>It's barely there, this butt, and its tight anus feels like a closed door to any relief for my horny needs.</li>
+            <li>This unappealing flatness and uncomfortable tightness only amplify my negative self-perception and horny discomfort.</li>
+            <li>I yearn for more volume, but my butt is just too small, and my anus too tight, to ease this horny anguish.</li>
+            <li>The overall rigidness of my rear end, coupled with a tight anus, makes me feel tense and terribly horny.</li>
+            <li>My mood sours thinking about this uninspired, tight butt and its stubbornly closed-off anus.</li>
+            <li>This tight anus feels like it's mocking my horny desires, leaving me feeling even more irritable and unfulfilled.</li>
+            <li>I wish for a more substantial butt, but this small, tight one just emphasizes my unsexy reality when horny.</li>
+            <li>The uncomfortable tightness of my anus casts a shadow over my horny state, making me feel utterly displeased.</li>
+            <li>My butt feels inadequate, lacking the plumpness I crave, and the anus is just too tight to be appealing.</li>
+            <li>Even in my most aroused state, I find my own anus to be stiff and unyielding, a truly depressing sight.</li>
+            <li>This small, firm butt provides no comfort, and the tightness of my anus intensifies my frustrated horny mood.</li>
+            <li>My mood is consistently low, exacerbated by the disappointing smallness of my butt and its tight, uninviting anus.</li>
+            <li>I feel a profound sense of sexual dissatisfaction stemming from this unappealing, tightly constricted rear.</li>
+            <li>This butt seems to shrink even further when I'm horny, its tight anus offering no promise of release.</li>
+            <li>The unyielding nature of my anus is infuriating, especially when my body craves release, but my butt is so small.</li>
+            <li>I'm utterly disgusted by how unyielding and small my butt feels, particularly now with this burning horniness.</li>
+            <li>The tightness of my anus is a constant, nagging discomfort, and it simply amplifies my already terrible horny mood.</li>
+            <li>This small, un-jiggly butt and its tight anus make me feel like a complete sexual failure, fueling my negativity.</li>
+            <li>My horny thoughts are constantly derailed by the unflattering truth of my small, tight, unappealing backside.</li>
+            <li>It's a battle against my own anatomy; this tight anus and small butt only deepen my sexual frustration and despair.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Male gives opinion about his butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Average_Horny_Male_Negative</defName>
+        <label>Opinion_Self_Anus_Average_Horny_Male_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My average butt feels disappointingly mundane, and the uninspired anus does little to excite my horny mind.</li>
+            <li>This ordinary backside, neither good nor bad, feels incredibly bland, deepening my negative horny mood.</li>
+            <li>It's just... average. My butt offers no remarkable features, leaving me feeling profoundly uninspired and horny.</li>
+            <li>The lack of anything distinctive about my anus only frustrates my horniness, making me feel utterly unsexy.</li>
+            <li>My butt's just a mediocre lump, not enough jiggliness or shape to satisfy my desires, leaving me horny and discontent.</li>
+            <li>I stare at this utterly forgettable butt, an average anus that does nothing to alleviate my pervasive horny gloom.</li>
+            <li>Even in my horny state, this unremarkably average butt offers no comfort or appeal, just blandness.</li>
+            <li>The mediocrity of my anus and butt shape fuels my negative self-perception, especially when horniness strikes.</li>
+            <li>This average rear feels like a missed opportunity; it's simply not enough to satisfy my intense horny needs.</li>
+            <li>My mood plummets as I observe this uninspiring, perfectly average anus and butt, leaving me profoundly horny and dissatisfied.</li>
+            <li>It's a butt that just exists, without charm or excitement, and my horny state only highlights its blandness.</li>
+            <li>The sheer ordinariness of my anus and backside is infuriating, especially when I'm desperate for something more.</li>
+            <li>This average butt and its unremarkable anus contribute nothing positive to my current horny despair.</li>
+            <li>I feel utterly uninspired by my own backside; it's just 'there,' failing to engage my horny senses.</li>
+            <li>The lack of any distinct shape or alluring jiggliness makes my butt feel wholly inadequate for my horny mind.</li>
+            <li>This average anus feels like a personal affront, doing nothing to spark the desire I crave to alleviate horniness.</li>
+            <li>My mood darkens further with the realization that even my own body is so painfully average, especially this butt.</li>
+            <li>There's nothing exciting about this butt, and its average anus only adds to my sense of sexual inadequacy and horny frustration.</li>
+            <li>I hate its mundane appearance; this average butt and anus are just a boring sight, doing nothing for my horniness.</li>
+            <li>The most depressing part is its sheer lack of character, just an average butt and anus that fail to arouse me.</li>
+            <li>This perfectly average butt and its uninspired anus mock my horny desires with their utter lack of distinction.</li>
+            <li>My mind races with horny thoughts, but my unremarkably average butt offers no visual solace, just disappointment.</li>
+            <li>I wish it had more presence, more shape, but it's just an average butt and anus, completely uninspiring.</li>
+            <li>The ordinary nature of my anus makes me feel utterly unsexy, intensifying my negative mood and horny frustration.</li>
+            <li>This butt's complete lack of appeal only deepens my dissatisfaction, leaving me horny and increasingly irritable.</li>
+            <li>Even when I'm most aroused, my average anus and butt provide no visual stimulation or comfort, just blandness.</li>
+            <li>I'm sick of this average butt; it's so uninspiring, failing to provide any sense of pride or sexual excitement.</li>
+            <li>My mood is constantly soured by the unremarkable nature of my own backside and its unexciting anus.</li>
+            <li>The very averageness of my butt and anus feels like a punishment, especially with this burning horniness.</li>
+            <li>This butt is simply not enough; it's too average, and its anus too ordinary, to satisfy my profound horny dissatisfaction.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Male gives opinion about his butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Accommodating_Horny_Male_Negative</defName>
+        <label>Opinion_Self_Anus_Accommodating_Horny_Male_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My accommodating butt feels disappointingly soft, its laxness reflecting my frustrated horny state and poor mood.</li>
+            <li>This butt has lost its firmness, and the accommodating anus feels too open, robbing me of any sexual thrill.</li>
+            <li>The unappealing sagginess of my backside and its overly yielding anus only deepen my horny misery and disgust.</li>
+            <li>Even though it's accommodating, my butt's lack of tone and the overly relaxed anus makes me feel unattractive and unfulfilled.</li>
+            <li>I detest this too-soft, accommodating butt; its lack of definition and relaxed anus amplify my sexual frustration.</li>
+            <li>This accommodating anus feels like a gaping maw, unsettling and unattractive, especially with this intense, unfulfilled horniness.</li>
+            <li>My mood darkens further observing this disappointingly saggy butt, its accommodating anus offering no visual pleasure.</li>
+            <li>The jiggliness of my butt is more like flabbiness, and the accommodating anus just adds to my sense of sexual unworthiness.</li>
+            <li>This unappealingly accommodating anus feels wrong, too ready, and the soft butt only intensifies my negative horny mood.</li>
+            <li>I'm utterly disgusted by the lack of firmness in my butt; it's too accommodating, making my horny state feel pathetic.</li>
+            <li>This butt feels too yielding, its accommodating anus lacking any sense of desirable tension, leaving me horny and displeased.</li>
+            <li>The visual sag of my backside and the overly open anus contribute to a profound sense of sexual inadequacy when horny.</li>
+            <li>My own accommodating anus fills me with self-loathing; it’s too loose, too unappealing, mocking my horny desires.</li>
+            <li>Even when desperately horny, the sight of my overly accommodating butt and anus brings only a wave of deep regret.</li>
+            <li>This butt's unappealing softness and the accommodating anus feel like a constant reminder of my unfulfilled sexual state.</li>
+            <li>The general lack of tone in my backside is a major turn-off, and the accommodating anus offers no excitement.</li>
+            <li>My mood sours every time I consider this saggy, accommodating butt and its uninspiringly open anus.</li>
+            <li>I feel unattractive and undesirable; my butt's accommodating nature and too-open anus are a constant source of negativity.</li>
+            <li>This butt's flaccidness is appalling, and the accommodating anus just confirms its unappealing, unsexy reality.</li>
+            <li>The overly relaxed state of my anus feels like a betrayal, especially with this desperate, unfulfilled horniness.</li>
+            <li>I hate how this accommodating butt just gives in, lacking any desirable resistance, making my horny desires feel cheap.</li>
+            <li>My mood remains foul, reflecting the disappointing sag and overly accommodating nature of my own behind.</li>
+            <li>This butt feels utterly unsexy, its jiggliness more a wobble, and its accommodating anus just too uninspiring.</li>
+            <li>The accommodating anus feels like an open wound, unattractive and unstimulating, especially when horniness is high.</li>
+            <li>I wish for more firmness, but this accommodating butt and its relaxed anus only bring disappointment and sexual frustration.</li>
+            <li>The sagginess of my butt is a source of profound self-disgust, and the accommodating anus confirms my undesirable state.</li>
+            <li>This unappealingly loose anus and soft butt are a constant reminder of my physical flaws, fueling my negative horny mood.</li>
+            <li>I despise the feel of my own accommodating butt; it's too soft, too yielding, too unexciting for my horny needs.</li>
+            <li>My horny desires are met with only disappointment when I consider the overly relaxed state of my anus.</li>
+            <li>This butt is a flaccid mess, and its accommodating anus is the ultimate turn-off, intensifying my horny despair.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Male gives opinion about his butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Cavernous_Horny_Male_Negative</defName>
+        <label>Opinion_Self_Anus_Cavernous_Horny_Male_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My cavernous butt feels unpleasantly saggy, and the over-expanded anus is a grotesque sight, fueling my horny despair.</li>
+            <li>This butt is just too big, too shapeless, and the cavernous anus makes me feel utterly repulsive and horny-miserable.</li>
+            <li>I'm repulsed by the sagginess and the almost gaping cavernous anus; it's a profound turn-off, even when horny.</li>
+            <li>Even with my horniness, this enormous, flaccid butt and its cavernous anus are a source of deep self-loathing.</li>
+            <li>The excessive jiggliness and the wide-open, cavernous anus make me feel monstrous, intensifying my negative mood.</li>
+            <li>This cavernous anus feels like a void, an unappealing abyss that reflects my profound dissatisfaction and horniness.</li>
+            <li>My mood is utterly crushed by the sight of this overly large, saggy butt and its unpleasantly cavernous anus.</li>
+            <li>I despise the overwhelming size and the unappealingly expanded nature of my anus; it's all wrong, especially when horny.</li>
+            <li>This butt feels like a shapeless mass, and the cavernous anus is a constant reminder of my grotesque physical state.</li>
+            <li>The sagginess of my posterior combined with this cavernous anus makes me feel like a complete sexual failure, horny and disgusted.</li>
+            <li>It's far too expansive; this cavernous anus is uninviting and unsettling, amplifying my negative mood and frustration.</li>
+            <li>My butt feels like a deflated balloon, and its cavernous anus is a truly depressing sight, ruining my horny state.</li>
+            <li>I can't stand the sight of my own cavernous anus; it looks stretched and unappealing, making my horniness feel desperate.</li>
+            <li>This excessive sagginess and the pronounced expansion of my anus are a constant source of self-disgust, especially now.</li>
+            <li>My mood darkens further contemplating this huge, ill-defined butt and its disturbing, cavernous anus.</li>
+            <li>The sheer enormity of my anus feels wrong, unsexy, and utterly unappealing, only worsening my horny misery.</li>
+            <li>I yearn for tightness, but this cavernous anus mocks me, making my entire backside feel loose and unattractive.</li>
+            <li>This butt is just a shapeless, sagging horror, and its cavernous anus is the final nail in my horny despair.</li>
+            <li>Even with the strongest horniness, I can't look at this cavernous anus without feeling profound regret and self-loathing.</li>
+            <li>The overwhelming, unappealing expansion of my anus is a constant visual affront, compounding my negative mood.</li>
+            <li>I'm utterly disgusted by this flabby, immense butt and its horrifyingly cavernous, unyielding anus.</li>
+            <li>My own cavernous anus feels like a personal flaw, a mark of my sexual unattractiveness, especially when horny.</li>
+            <li>The pronounced sagginess of my rear makes me feel old and unattractive, and the cavernous anus seals the deal.</li>
+            <li>This butt's shapelessness and the unappealingly wide cavernous anus are a constant source of my bitter, horny mood.</li>
+            <li>I feel like a monstrous caricature; this immense butt and cavernous anus are just too much, too ugly.</li>
+            <li>The sight of my own over-expanded anus fuels my self-hatred, turning my horniness into a source of profound shame.</li>
+            <li>This butt is a truly depressing sight, its sagginess and cavernous anus reflecting my complete lack of self-worth.</li>
+            <li>My mood is ruined by the undeniable truth of my grotesque, cavernous anus and shapeless, sagging butt.</li>
+            <li>I hate this immense, flabby butt; its cavernous anus is a constant reminder of my physical decline and unsexiness.</li>
+            <li>This cavernous anus feels like a gaping void, an unappetizing sight that intensifies my horny dissatisfaction and self-loathing.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Male gives opinion about his butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Abyssal_Horny_Male_Negative</defName>
+        <label>Opinion_Self_Anus_Abyssal_Horny_Male_(Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My abyssal butt is horrifyingly saggy, its vastness and the terrifyingly expanded anus fill me with self-loathing, especially when horny.</li>
+            <li>This butt is a monstrous, shapeless expanse, and the abyssal anus is a black hole of despair, even for my raging horniness.</li>
+            <li>I'm utterly disgusted by the sheer enormity and sagginess of my backside; the abyssal anus is a truly repulsive sight.</li>
+            <li>Even in my most desperate horny state, this enormous, flabby butt and its abyssal anus are a source of profound horror.</li>
+            <li>The excessive, uncontrolled jiggliness and the terrifyingly gaping abyssal anus make me feel like a grotesque abomination.</li>
+            <li>This abyssal anus feels like a bottomless pit, a truly horrifying sight that crushes my spirit and intense horniness.</li>
+            <li>My mood collapses entirely at the visual horror of this vastly oversized, saggy butt and its disturbing abyssal anus.</li>
+            <li>I despise the uncontrolled expansion and the truly abyssal nature of my anus; it's a nightmare, especially when horny.</li>
+            <li>This butt is a colossal, shapeless void, and the abyssal anus is a constant reminder of my horrifying physical state.</li>
+            <li>The extreme sagginess of my posterior combined with this abyssal anus makes me feel utterly subhuman, horny and defeated.</li>
+            <li>It's a horrifying chasm; this abyssal anus is uninviting and utterly sickening, amplifying my despair and frustration.</li>
+            <li>My butt feels like a deflated, grotesque balloon, and its abyssal anus is a truly soul-crushing sight, ruining my horny state.</li>
+            <li>I can't bear the sight of my own abyssal anus; it looks like a torn, ugly wound, making my horniness feel utterly pathetic.</li>
+            <li>This overwhelming sagginess and the nightmarish expansion of my anus are a constant source of profound self-disgust.</li>
+            <li>My mood plummets into the depths contemplating this gargantuan, ill-defined butt and its truly terrifying abyssal anus.</li>
+            <li>The sheer, sickening enormity of my anus feels wrong, obscene, and utterly unappealing, worsening my horny misery.</li>
+            <li>I yearn for any semblance of tightness, but this abyssal anus mocks me, making my entire backside feel hopelessly ruined.</li>
+            <li>This butt is a monstrous, sagging abyss, and its abyssal anus is the final, horrifying nail in my horny despair.</li>
+            <li>Even with the most overwhelming horniness, I recoil from this abyssal anus, feeling profound revulsion and self-hatred.</li>
+            <li>The grotesque, unappealing expansion of my anus is a constant, nauseating visual affront, compounding my negative mood.</li>
+            <li>I'm utterly repulsed by this flabby, immense, and horrifyingly saggy butt and its truly abyssal, unyielding anus.</li>
+            <li>My own abyssal anus feels like a deep, shameful scar, a mark of my utter sexual unattractiveness, especially when horny.</li>
+            <li>The pronounced, sickening sagginess of my rear makes me feel ancient and utterly undesirable, and the abyssal anus confirms it.</li>
+            <li>This butt's horrifying shapelessness and the unappealingly vast abyssal anus are a constant source of my bitter, horny mood.</li>
+            <li>I feel like an aberration; this monstrous butt and abyssal anus are just too much, too ugly, too distorted.</li>
+            <li>The sight of my own grotesquely over-expanded anus fuels my absolute self-hatred, turning my horniness into a source of torment.</li>
+            <li>This butt is a truly appalling sight, its sagginess and abyssal anus reflecting my complete lack of human dignity.</li>
+            <li>My mood is utterly destroyed by the undeniable truth of my horrifying, abyssal anus and shapeless, collapsing butt.</li>
+            <li>I hate this immense, flabby, and truly sickening butt; its abyssal anus is a constant reminder of my utter degradation.</li>
+            <li>This abyssal anus feels like an endless, putrid void, an unspeakable sight that intensifies my horny dissatisfaction and self-destruction.</li>
+        </opinionTexts>
+    </Def>
+</Defs>

@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The droopy folds and withered clitoris suggest a lifetime of disuse. A truly pathetic sight.</li>
+            <li>Her aged, slackened labia hint at countless experiences, none of which seem to have improved their appearance.</li>
+            <li>A weary, stretched opening. It's clearly seen better days, and perhaps far too many of them.</li>
+            <li>The pallid hue and tired folds betray a history of neglect. Uninviting and frankly, quite disturbing.</li>
+            <li>That cavernous opening is a testament to time's cruel passage, devoid of any youthful appeal.</li>
+            <li>The lack of plumpness and faded color makes it clear this part has long passed its prime.</li>
+            <li>Such an ordinary, uninspired sight. Nothing about it sparks any interest, only mild revulsion.</li>
+            <li>The flattened clitoris and sagging labia are a depressing reminder of inevitable decay.</li>
+            <li>It looks like a tired, used-up portal. Best to just avert my gaze before I gag.</li>
+            <li>Every wrinkle and crease tells a story of decline. A truly unappealing specimen.</li>
+            <li>The discolored and loose skin gives it a rather unhealthy, unkempt appearance.</li>
+            <li>A barren landscape of aged flesh. There's no allure left in that withered form.</li>
+            <li>Observing the lifeless, greyish folds, I feel a wave of disgust wash over me.</li>
+            <li>Its overall condition screams "overused" and "neglected". A deeply unappetizing view.</li>
+            <li>The poor definition of the labia and clitoris indicates a complete lack of vitality.</li>
+            <li>Seeing that slack, wide maw makes my stomach churn. It's truly a sight for sore eyes.</li>
+            <li>The shriveled labia and almost invisible clitoris are a stark portrait of aged flesh.</li>
+            <li>It’s a saggy, uninspiring hole. Clearly, youth and vibrancy have long since abandoned it.</li>
+            <li>The faded tones and flaccid structure offer absolutely no visual pleasure whatsoever.</li>
+            <li>An old, worn-out cavity. A rather sad and unsexy sight, if I'm being honest.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale_observed_by_voyer</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even from a distance, that tired, spread-out form offers little excitement. It's a disappointment.</li>
+            <li>A voyeur's lament: those sagging lips and faded depth are truly unstimulating, almost painful to watch.</li>
+            <li>The lack of firm contours and dull coloration drains all the potential thrill from this illicit view.</li>
+            <li>It's just a loose, unkempt aperture. My voyeuristic urges are actively repelled by its blandness.</li>
+            <li>This aged opening holds no hidden secrets I care to uncover. Frankly, it's rather boring.</li>
+            <li>My usual thrill is replaced by a sense of melancholic disinterest, observing such a withered sight.</li>
+            <li>The over-exposed, lax labia reveal too much, yet offer so little worth truly seeing.</li>
+            <li>Not much to observe here; just a worn-out cavity, completely devoid of any intriguing mystery.</li>
+            <li>A disappointing spectacle. Its flaccid state simply doesn't hold my attention.</li>
+            <li>The wide, gaping entrance leaves nothing to the imagination, and that's precisely the problem.</li>
+            <li>It’s overtly exposed yet utterly uninviting. A voyeur's worst nightmare, truly.</li>
+            <li>The sight of those faded, splayed lips makes me wish I hadn't looked at all.</li>
+            <li>My eyes ache from the sheer blandness of that wide, unappealing opening.</li>
+            <li>No mystery, no allure, just a tired, open expanse. It's not worth the risk of being caught.</li>
+            <li>A rather deflating observation. The lack of tension and depth is profoundly unstimulating.</li>
+            <li>The dull, slack form of her genitals offers only profound disinterest to my eager gaze.</li>
+            <li>I hoped for a hidden delight, but found only a widely exposed, uninspired form.</li>
+            <li>This open display is more a punishment than a pleasure. My voyeuristic spirit is crushed.</li>
+            <li>There's nothing exciting to discern from that tired, aging expanse. What a letdown.</li>
+            <li>It’s openly available for view, yet completely unappealing. A waste of my furtive glance.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her exposed form is so uninspired, it barely registers. It diminishes my own sense of exhibition.</li>
+            <li>That wide-open, saggy sight does nothing to ignite my desire for reciprocal exposure.</li>
+            <li>If this is what she’s offering, then my own display feels tragically wasted. So unappealing.</li>
+            <li>The sheer lack of vibrancy in her exposed labia makes me question the value of any nudity.</li>
+            <li>Her attempt at exposure is so dull, it saps the very joy from my own exhibitionist desires.</li>
+            <li>A flaccid and lifeless display. My desire to show off is completely extinguished by this sight.</li>
+            <li>She's showing off a tired, worn-out opening. There’s no challenge or excitement in this.</li>
+            <li>Her widely visible, uninspired form fails to stimulate any reciprocal urge within me.</li>
+            <li>Exposed and uninteresting. This kind of display makes a mockery of true exhibitionism.</li>
+            <li>Her open vulva is simply too mundane to truly appreciate, let alone be inspired by.</li>
+            <li>This uninspired opening is a grim reminder of aging flesh, not a canvas for exhibition.</li>
+            <li>Her visible private parts are so ordinary, they offer no thrill for an exhibitionist.</li>
+            <li>The exposed lips are so saggy, it makes me reconsider if showing anything is even worth it.</li>
+            <li>Her display is a sad, unexciting mess. It offers no spark to my own exhibitionist spirit.</li>
+            <li>Such a bland, open display. It's almost an anti-exhibition, truly.</li>
+            <li>Her wide-open, unappealing form makes me recoil, not want to join in.</li>
+            <li>There's nothing provocative or enticing about her exposed, aged labia. It's a bore.</li>
+            <li>This sight is truly discouraging. It makes a mockery of any real exhibitionist act.</li>
+            <li>Her visible genitalia are so uninspiring, they actually drain my exhibitionist urges.</li>
+            <li>An exposed, unkempt form. It's more of a cautionary tale than an inviting display.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My urges demand stimulation, but her aged, weary entrance offers only profound disappointment.</li>
+            <li>Despite my cravings, the sight of her slack, wide opening manages to completely deflate me.</li>
+            <li>That tired, uninspired form is a cruel joke, offering no relief to my burning desires.</li>
+            <li>The lack of plumpness and dull color repels any impulse I might have. It's a dead end.</li>
+            <li>My body aches for connection, but her flaccid labia are utterly unappealing, a true turn-off.</li>
+            <li>This desiccated opening leaves me cold. No amount of desire can overcome such a deflating sight.</li>
+            <li>The sheer unattractiveness of those aged lips makes my nymphomaniac urges shrivel and die.</li>
+            <li>My lust finds no purchase here. This withered entrance actively squashes any spark of arousal.</li>
+            <li>It's a wide, uninspiring void. My intense desires are met with only a profound sense of 'no.'</li>
+            <li>Even my insatiable cravings can’t find a single redeeming quality in this dull, slack form.</li>
+            <li>The sight of her worn-out aperture is enough to make my powerful urges vanish entirely.</li>
+            <li>My body screams for release, but her unkempt, aged form offers only profound revulsion.</li>
+            <li>This weary, unkempt opening is the antithesis of everything my primal urges seek.</li>
+            <li>Such a saggy, uninspired form. It's like staring into a black hole of utter disinterest.</li>
+            <li>My burning desires are instantly doused by the sight of that slack, unappealing entry point.</li>
+            <li>I hunger for passion, but her uninviting, aged labia are a definite appetite suppressant.</li>
+            <li>The dull, wide expanse of her vulva makes my skin crawl. It’s actively repulsive to my urges.</li>
+            <li>My libido, usually untamed, is silenced by the utterly unstimulating sight of her mature form.</li>
+            <li>This is a sexual desert. Her tired, unresponsive lips offer nothing but emptiness to my core.</li>
+            <li>It’s a wide, uninviting chasm. My powerful lust is utterly vanquished by its depressing presence.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale_observed_by_Prude</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The blatant display of her aged, exposed genitalia is an offensive assault on my modesty.</li>
+            <li>Her saggy, wide-open vulva is a grotesque breach of decency. I must avert my eyes immediately.</li>
+            <li>Such a vulgar exhibition! The sight of her flaccid, mature labia is utterly repulsive to me.</li>
+            <li>This offensive display of her worn-out body part is completely inappropriate and deeply unsettling.</li>
+            <li>To witness such an intimate, aged area exposed is an unforgivable affront to my moral code.</li>
+            <li>Her visible private parts are far too open, too loose, and too aged. It’s an abominable sight.</li>
+            <li>The brazenness of her unkempt display offends my very soul. How could she show such a thing?</li>
+            <li>That wide, lax opening is a horrifying example of indecency. My prudish nature is screaming.</li>
+            <li>I am absolutely appalled by the sight of her aging, exposed anatomy. It is beyond vulgar.</li>
+            <li>This shameless exposure of her mature form fills me with revulsion and moral outrage.</li>
+            <li>It's a disgraceful, open display of an aging body part. My sensibilities are deeply offended.</li>
+            <li>Her unashamedly revealed, withered labia are an affront to all that is proper and modest.</li>
+            <li>The sight of her tired, gaping entrance is profoundly disturbing and entirely immodest.</li>
+            <li>This disgusting exhibition of an aged, exposed vulva is a shocking breach of decorum.</li>
+            <li>How dare she expose such a thing? Her saggy, visible parts are an abomination.</li>
+            <li>My eyes burn from the offensive image of her wide, unkempt intimate area. It is too much.</li>
+            <li>The vulgarity of her exposed, mature form makes me feel utterly sick to my stomach.</li>
+            <li>This is a horrifying display of what should remain hidden. Her aged labia are sickeningly visible.</li>
+            <li>I cannot tolerate such an indecent, exposed spectacle. Her body is far too open and old.</li>
+            <li>This disgraceful vision of her aged, revealed genitalia is an absolute horror.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale_observed_by_Young_male</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her exposed, aged form is a disturbing sight. The lax lips and dullness offer no allure.</li>
+            <li>That wide, sagging entrance makes my stomach turn. This is definitely not what I'm looking for.</li>
+            <li>The withered clitoris and stretched labia tell a grim story of time, completely unappealing.</li>
+            <li>A truly uninspiring sight. Her mature, loose features are a complete turn-off for me.</li>
+            <li>Seeing her unkempt, past-prime genitalia is deeply unsettling. It's a sad, repulsive view.</li>
+            <li>Her faded, unplumped form holds no attraction. It’s like looking at a dried-up fruit.</li>
+            <li>The prominent visibility of her aged parts is just depressing. My youthful desires are repelled.</li>
+            <li>That slack, uninviting opening is a stark reminder of what happens with age. Gross.</li>
+            <li>Her overall appearance is worn out and unappealing. Definitely not what a young man wants to see.</li>
+            <li>The discolored and loose skin around her entrance makes me gag. It's truly unpleasant.</li>
+            <li>I expected something vibrant, but this aged, open form is completely lifeless and unattractive.</li>
+            <li>The lack of firmness and dull complexion of her intimate area is just depressing to witness.</li>
+            <li>Her widely visible, tired labia are profoundly off-putting. I feel nothing but aversion.</li>
+            <li>This old, flaccid hole is a horrifying vision. I wish I could unsee it right now.</li>
+            <li>The unappealing shape and texture of her outer lips fill me with deep discomfort.</li>
+            <li>A truly revolting display of aging flesh. It actively kills any youthful interest.</li>
+            <li>Her over-exposed, saggy opening is enough to make a young man lose his appetite.</li>
+            <li>There's nothing exciting about her withered, unkempt form. It's utterly repellent.</li>
+            <li>The weary appearance of her intimate parts is a complete mood killer for anyone my age.</li>
+            <li>This widely visible, aged opening is utterly devoid of appeal. It’s just... sad.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale_observed_by_Young_female</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her loose, aged labia are a disturbing glimpse into the future. I hope mine never look like that.</li>
+            <li>The overall tired appearance of her intimate area is a cautionary tale, utterly unappealing.</li>
+            <li>Seeing such a widespread, unkempt opening is honestly quite frightening and repulsive.</li>
+            <li>The pallid color and flaccid structure are a stark reminder of decay. A truly depressing sight.</li>
+            <li>Her stretched, unplumped vulva looks incredibly worn out. What a sad existence.</li>
+            <li>This aging, visible body part is profoundly uninviting. It makes me cringe.</li>
+            <li>The lack of firmness and faded hues of her intimate area fill me with a sense of dread.</li>
+            <li>It's a wide, uninspired chasm. This is what years of living do to you, I guess.</li>
+            <li>Her withered clitoris and sagging lips are an unpleasant vision. I can't look away, but I want to.</li>
+            <li>A depressing sight. The prominent visibility of her aged parts is just grim.</li>
+            <li>The dullness and widespread nature of her anatomy are quite off-putting and unattractive.</li>
+            <li>Such an ordinary, unappealing view. There's nothing vibrant or youthful left.</li>
+            <li>Her exposed, tired form is a discouraging sight for a younger woman like me.</li>
+            <li>The discolored and loose skin around her entrance is just... unhygienic-looking.</li>
+            <li>This open, unkempt part looks so unloved and worn. It's truly a sad vision.</li>
+            <li>The sheer unattractiveness of those aged lips makes me feel a profound sense of pity.</li>
+            <li>It's a saggy, uninspired hole. I never want to experience such a physical decline.</li>
+            <li>The flaccid nature of her intimate area is profoundly unappealing and makes me shiver.</li>
+            <li>Her widely visible, faded labia are just a testament to time's unkind hand.</li>
+            <li>An old, worn-out cavity. It's a rather sad and unsexy sight, if I'm being honest.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aging vulva is a harsh reflection of passing youth. My interest quickly fades.</li>
+            <li>The weary appearance of her intimate area is a definite turn-off, lacking any spark.</li>
+            <li>That wide, slack opening holds no mystery or excitement for a man of my experience.</li>
+            <li>Her sagging labia and dull clitoris hint at a past I'd rather not imagine. Unattractive.</li>
+            <li>A truly uninspiring sight for a man. Her mature features are simply too worn.</li>
+            <li>The lack of plumpness and faded color makes it clear this part has long passed its prime.</li>
+            <li>Such an ordinary, uninspired sight. Nothing about it sparks any interest, only mild revulsion.</li>
+            <li>The flattened clitoris and sagging labia are a depressing reminder of inevitable decay.</li>
+            <li>It looks like a tired, used-up portal. Best to just avert my gaze before I gag.</li>
+            <li>Every wrinkle and crease tells a story of decline. A truly unappealing specimen.</li>
+            <li>The discolored and loose skin gives it a rather unhealthy, unkempt appearance.</li>
+            <li>A barren landscape of aged flesh. There's no allure left in that withered form.</li>
+            <li>Observing the lifeless, greyish folds, I feel a wave of disgust wash over me.</li>
+            <li>Its overall condition screams "overused" and "neglected". A deeply unappetizing view.</li>
+            <li>The poor definition of the labia and clitoris indicates a complete lack of vitality.</li>
+            <li>Seeing that slack, wide maw makes my stomach churn. It's truly a sight for sore eyes.</li>
+            <li>The shriveled labia and almost invisible clitoris are a stark portrait of aged flesh.</li>
+            <li>It’s a saggy, uninspiring hole. Clearly, youth and vibrancy have long since abandoned it.</li>
+            <li>The faded tones and flaccid structure offer absolutely no visual pleasure whatsoever.</li>
+            <li>An old, worn-out cavity. A rather sad and unsexy sight, if I'm being honest.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her lax lips and faded complexion are a grim preview of what's to come. Deeply unsettling.</li>
+            <li>The unplumped, aged appearance of her intimate parts is a clear sign of decline.</li>
+            <li>Seeing her widespread, unkempt opening is honestly quite frightening and repulsive.</li>
+            <li>The pallid color and flaccid structure are a stark reminder of decay. A truly depressing sight.</li>
+            <li>Her stretched, unplumped vulva looks incredibly worn out. What a sad existence.</li>
+            <li>This aging, visible body part is profoundly uninviting. It makes me cringe.</li>
+            <li>The lack of firmness and faded hues of her intimate area fill me with a sense of dread.</li>
+            <li>It's a wide, uninspired chasm. This is what years of living do to you, I guess.</li>
+            <li>Her withered clitoris and sagging lips are an unpleasant vision. I can't look away, but I want to.</li>
+            <li>A depressing sight. The prominent visibility of her aged parts is just grim.</li>
+            <li>The dullness and widespread nature of her anatomy are quite off-putting and unattractive.</li>
+            <li>Such an ordinary, unappealing view. There's nothing vibrant or youthful left.</li>
+            <li>Her exposed, tired form is a discouraging sight for a woman like me.</li>
+            <li>The discolored and loose skin around her entrance is just... unhygienic-looking.</li>
+            <li>This open, unkempt part looks so unloved and worn. It's truly a sad vision.</li>
+            <li>The sheer unattractiveness of those aged lips makes me feel a profound sense of pity.</li>
+            <li>It's a saggy, uninspired hole. I never want to experience such a physical decline.</li>
+            <li>The flaccid nature of her intimate area is profoundly unappealing and makes me shiver.</li>
+            <li>Her widely visible, faded labia are just a testament to time's unkind hand.</li>
+            <li>An old, worn-out cavity. It's a rather sad and unsexy sight, if I'm being honest.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale_observed_by_Elder_male</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her mature, worn-out form offers little joy, even for an old man like me. What a bore.</li>
+            <li>That widely exposed, tired opening is a sad sight. No longer a source of any male interest.</li>
+            <li>The faded tones and slackened labia are just a depressing vision. I've seen better, even at my age.</li>
+            <li>A truly uninspiring sight. Her middle-aged features are simply too worn for any male appeal.</li>
+            <li>Seeing her past-prime genitalia is deeply unsettling. It's a sad, repulsive view, even for an elder.</li>
+            <li>Her faded, unplumped form holds no attraction. It’s like looking at a dried-up fruit.</li>
+            <li>The prominent visibility of her aged parts is just depressing. My old desires are repelled.</li>
+            <li>That slack, uninviting opening is a stark reminder of what happens with age. Gross.</li>
+            <li>Her overall appearance is worn out and unappealing. Definitely not what a man wants to see.</li>
+            <li>The discolored and loose skin around her entrance makes me gag. It's truly unpleasant.</li>
+            <li>I expected something vibrant, but this aged, open form is completely lifeless and unattractive.</li>
+            <li>The lack of firmness and dull complexion of her intimate area is just depressing to witness.</li>
+            <li>Her widely visible, tired labia are profoundly off-putting. I feel nothing but aversion.</li>
+            <li>This old, flaccid hole is a horrifying vision. I wish I could unsee it right now.</li>
+            <li>The unappealing shape and texture of her outer lips fill me with deep discomfort.</li>
+            <li>A truly revolting display of aging flesh. It actively kills any male interest.</li>
+            <li>Her over-exposed, saggy opening is enough to make an old man lose his appetite.</li>
+            <li>There's nothing exciting about her withered, unkempt form. It's utterly repellent.</li>
+            <li>The weary appearance of her intimate parts is a complete mood killer for anyone my age.</li>
+            <li>This widely visible, aged opening is utterly devoid of appeal. It’s just... sad.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_MatureFemale_observed_by_Elder_female</defName>
+        <label>Accommodating Vagina (Negative)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her loose, aged labia are a disturbing glimpse into my past. A reminder of what I once was.</li>
+            <li>The overall tired appearance of her intimate area is a cautionary tale, utterly unappealing.</li>
+            <li>Seeing such a widespread, unkempt opening is honestly quite frightening and repulsive.</li>
+            <li>The pallid color and flaccid structure are a stark reminder of decay. A truly depressing sight.</li>
+            <li>Her stretched, unplumped vulva looks incredibly worn out. What a sad existence.</li>
+            <li>This aging, visible body part is profoundly uninviting. It makes me cringe.</li>
+            <li>The lack of firmness and faded hues of her intimate area fill me with a sense of dread.</li>
+            <li>It's a wide, uninspired chasm. This is what years of living do to you, I guess.</li>
+            <li>Her withered clitoris and sagging lips are an unpleasant vision. I can't look away, but I want to.</li>
+            <li>A depressing sight. The prominent visibility of her aged parts is just grim.</li>
+            <li>The dullness and widespread nature of her anatomy are quite off-putting and unattractive.</li>
+            <li>Such an ordinary, unappealing view. There's nothing vibrant or youthful left.</li>
+            <li>Her exposed, tired form is a discouraging sight for an older woman like me.</li>
+            <li>The discolored and loose skin around her entrance is just... unhygienic-looking.</li>
+            <li>This open, unkempt part looks so unloved and worn. It's truly a sad vision.</li>
+            <li>The sheer unattractiveness of those aged lips makes me feel a profound sense of pity.</li>
+            <li>It's a saggy, uninspired hole. I never want to experience such a physical decline.</li>
+            <li>The flaccid nature of her intimate area is profoundly unappealing and makes me shiver.</li>
+            <li>Her widely visible, faded labia are just a testament to time's unkind hand.</li>
+            <li>An old, worn-out cavity. It's a rather sad and unsexy sight, if I'm being honest.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her ancient vulva, a grotesque mass of withered flesh, is a horrifying sight.</li>
+            <li>The extreme laxity of her labia and shriveled clitoris suggest utter decay. Truly disgusting.</li>
+            <li>That cavernous, dried-up opening is a testament to ruin. It's utterly devoid of life or appeal.</li>
+            <li>The pallid, almost grey hue and paper-thin folds betray a horrifying age. Uninviting and vile.</li>
+            <li>A truly decrepit and disturbing sight. Every fold speaks of advanced, irreversible decay.</li>
+            <li>The profound lack of plumpness and utterly faded color screams ancient. Repulsive to behold.</li>
+            <li>Such a grotesque, uninspired sight. Nothing about it sparks any interest, only profound revulsion.</li>
+            <li>The flattened, almost non-existent clitoris and utterly sagging labia are a terrifying reminder of death.</li>
+            <li>It looks like a dried-up, crumbling relic. Best to just avert my gaze before I vomit.</li>
+            <li>Every deep wrinkle and fold tells a story of terminal decline. A truly abominable specimen.</li>
+            <li>The discolored and immensely loose skin gives it a rather diseased, utterly unkempt appearance.</li>
+            <li>A desolate, barren landscape of ancient flesh. There's no allure left, only horror.</li>
+            <li>Observing the lifeless, deeply greyish folds, I feel an uncontrollable wave of utter disgust.</li>
+            <li>Its overall condition screams "ancient" and "rotting". A deeply, profoundly unappetizing view.</li>
+            <li>The non-existent definition of the labia and clitoris indicates a complete, horrifying lack of vitality.</li>
+            <li>Seeing that slack, wide, gaping maw makes my stomach churn violently. It's truly a sight from hell.</li>
+            <li>The shriveled labia and utterly invisible clitoris are a stark, terrifying portrait of extreme age.</li>
+            <li>It’s a saggy, uninspiring, horrifying hole. Clearly, all life and vibrancy have long since abandoned it.</li>
+            <li>The faded, almost ghostly tones and utterly flaccid structure offer absolutely no visual pleasure.</li>
+            <li>An ancient, utterly worn-out cavity. A rather sad, horrifying, and unsexy sight.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale_observed_by_voyer</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <opinionTexts>
+            <li>Even from a distance, that ancient, spread-out form offers zero excitement. It's a complete disaster.</li>
+            <li>A voyeur's deepest nightmare: those utterly sagging lips and faded depth are truly unstimulating, sickening.</li>
+            <li>The horrifying lack of firm contours and dead coloration drains all potential thrill from this illicit view.</li>
+            <li>It's just a loose, unkempt, ancient aperture. My voyeuristic urges are actively repelled by its horror.</li>
+            <li>This ancient opening holds no hidden secrets I care to uncover. Frankly, it's terrifyingly boring.</li>
+            <li>My usual thrill is replaced by profound disgust, observing such a withered, almost mummified sight.</li>
+            <li>The over-exposed, utterly lax labia reveal too much, yet offer absolutely nothing worth truly seeing.</li>
+            <li>Nothing to observe here; just a worn-out, ancient cavity, completely devoid of any intriguing mystery.</li>
+            <li>A truly catastrophic spectacle. Its flaccid, aged state simply doesn't hold my attention, only revulsion.</li>
+            <li>The wide, gaping, ancient entrance leaves nothing to the imagination, and that's precisely the problem.</li>
+            <li>It’s overtly exposed yet utterly uninviting. A voyeur's worst nightmare come true, truly.</li>
+            <li>The sight of those faded, splayed, ancient lips makes me wish I hadn't looked at all.</li>
+            <li>My eyes ache from the sheer horror of that wide, unappealing, ancient opening.</li>
+            <li>No mystery, no allure, just a tired, open, ancient expanse. It's not worth the risk of being caught.</li>
+            <li>A rather deflating, stomach-churning observation. The lack of tension and depth is profoundly unstimulating.</li>
+            <li>The dull, slack, ancient form of her genitals offers only profound disinterest to my eager gaze.</li>
+            <li>I hoped for a hidden delight, but found only a widely exposed, uninspired, terrifying form.</li>
+            <li>This open display is more a punishment than a pleasure. My voyeuristic spirit is utterly crushed.</li>
+            <li>There's nothing exciting to discern from that ancient, tired, aging expanse. What a nightmare.</li>
+            <li>It’s openly available for view, yet completely unappealing. A horrifying waste of my furtive glance.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her exposed, ancient form is so uninspired, it barely registers. It utterly diminishes my own exhibition.</li>
+            <li>That wide-open, saggy, horrific sight does nothing to ignite my desire for reciprocal exposure.</li>
+            <li>If this is what she’s offering, then my own display feels tragically wasted. So repulsive.</li>
+            <li>The sheer lack of vibrancy in her exposed, ancient labia makes me question the value of any nudity.</li>
+            <li>Her attempt at exposure is so dull, it saps the very joy from my own exhibitionist desires.</li>
+            <li>A flaccid and lifeless display. My desire to show off is completely extinguished by this sight.</li>
+            <li>She's showing off a tired, worn-out, ancient opening. There’s no challenge or excitement in this.</li>
+            <li>Her widely visible, uninspired, ancient form fails to stimulate any reciprocal urge within me.</li>
+            <li>Exposed and uninteresting, truly horrifying. This kind of display makes a mockery of true exhibitionism.</li>
+            <li>Her open, ancient vulva is simply too mundane to truly appreciate, let alone be inspired by.</li>
+            <li>This uninspired, horrific opening is a grim reminder of aging flesh, not a canvas for exhibition.</li>
+            <li>Her visible private parts are far too old, too ordinary, they offer no thrill for an exhibitionist.</li>
+            <li>The exposed lips are so saggy, so ancient, it makes me reconsider if showing anything is even worth it.</li>
+            <li>Her display is a sad, unexciting, truly repulsive mess. It offers no spark to my exhibitionist spirit.</li>
+            <li>Such a bland, open, utterly horrifying display. It's almost an anti-exhibition, truly.</li>
+            <li>Her wide-open, unappealing, ancient form makes me recoil, not want to join in.</li>
+            <li>There's nothing provocative or enticing about her exposed, ancient labia. It's a total bore.</li>
+            <li>This sight is truly discouraging. It makes a mockery of any real exhibitionist act, utterly depressing.</li>
+            <li>Her visible genitalia are so uninspiring, they actually drain my exhibitionist urges, leaving me disgusted.</li>
+            <li>An exposed, unkempt, utterly ancient form. It's more of a cautionary tale than an inviting display.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My urges demand stimulation, but her ancient, weary entrance offers only profound, sickening disappointment.</li>
+            <li>Despite my cravings, the sight of her slack, wide, aged opening manages to completely deflate me.</li>
+            <li>That tired, uninspired, decrepit form is a cruel joke, offering no relief to my burning desires.</li>
+            <li>The lack of plumpness and dull color repels any impulse I might have. It's a dead, horrifying end.</li>
+            <li>My body aches for connection, but her flaccid, ancient labia are utterly unappealing, a true turn-off.</li>
+            <li>This desiccated, ancient opening leaves me cold. No amount of desire can overcome such a deflating sight.</li>
+            <li>The sheer unattractiveness of those aged, withered lips makes my nymphomaniac urges shrivel and die.</li>
+            <li>My lust finds no purchase here. This ancient, withered entrance actively squashes any spark of arousal.</li>
+            <li>It's a wide, uninspiring, horrifying void. My intense desires are met with only a profound sense of 'no.'</li>
+            <li>Even my insatiable cravings can’t find a single redeeming quality in this dull, slack, ancient form.</li>
+            <li>The sight of her worn-out, ancient aperture is enough to make my powerful urges vanish entirely.</li>
+            <li>My body screams for release, but her unkempt, ancient form offers only profound, sickening revulsion.</li>
+            <li>This weary, unkempt, utterly ancient opening is the antithesis of everything my primal urges seek.</li>
+            <li>Such a saggy, uninspired, disgusting form. It's like staring into a black hole of utter disinterest.</li>
+            <li>My burning desires are instantly doused by the sight of that slack, unappealing, ancient entry point.</li>
+            <li>I hunger for passion, but her uninviting, aged, horrifying labia are a definite appetite suppressant.</li>
+            <li>The dull, wide expanse of her ancient vulva makes my skin crawl. It’s actively repulsive to my urges.</li>
+            <li>My libido, usually untamed, is silenced by the utterly unstimulating sight of her ancient form.</li>
+            <li>This is a sexual desert. Her tired, unresponsive, ancient lips offer nothing but emptiness to my core.</li>
+            <li>It’s a wide, uninviting, horrifying chasm. My powerful lust is utterly vanquished by its depressing presence.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale_observed_by_Prude</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The blatant display of her ancient, exposed genitalia is an offensive, horrific assault on my modesty.</li>
+            <li>Her saggy, wide-open, decrepit vulva is a grotesque, sickening breach of decency. Avert eyes!</li>
+            <li>Such a vulgar, horrifying exhibition! The sight of her flaccid, ancient labia is utterly repulsive to me.</li>
+            <li>This offensive display of her worn-out, ancient body part is completely inappropriate and deeply unsettling.</li>
+            <li>To witness such an intimate, ancient area exposed is an unforgivable affront to my moral code.</li>
+            <li>Her visible private parts are far too open, too loose, and too ancient. It’s an abominable sight.</li>
+            <li>The brazenness of her unkempt, horrific display offends my very soul. How could she show such a thing?</li>
+            <li>That wide, lax, ancient opening is a horrifying example of indecency. My prudish nature is screaming.</li>
+            <li>I am absolutely appalled by the sight of her aging, exposed anatomy. It is beyond vulgar, utterly vile.</li>
+            <li>This shameless exposure of her ancient form fills me with revulsion and profound moral outrage.</li>
+            <li>It's a disgraceful, open display of an ancient body part. My sensibilities are deeply offended.</li>
+            <li>Her unashamedly revealed, withered, ancient labia are an affront to all that is proper and modest.</li>
+            <li>The sight of her tired, gaping, ancient entrance is profoundly disturbing and entirely immodest.</li>
+            <li>This disgusting exhibition of an ancient, exposed vulva is a shocking, terrifying breach of decorum.</li>
+            <li>How dare she expose such a thing? Her saggy, visible, ancient parts are an abomination.</li>
+            <li>My eyes burn from the offensive image of her wide, unkempt, ancient intimate area. It is too much.</li>
+            <li>The vulgarity of her exposed, ancient form makes me feel utterly sick to my stomach.</li>
+            <li>This is a horrifying display of what should remain hidden. Her aged labia are sickeningly visible.</li>
+            <li>I cannot tolerate such an indecent, exposed spectacle. Her body is far too open and old.</li>
+            <li>This disgraceful vision of her ancient, revealed genitalia is an absolute horror.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale_observed_by_Young_male</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her exposed, ancient form is a disturbing, horrifying sight. The lax lips and dullness offer no allure.</li>
+            <li>That wide, sagging, decrepit entrance makes my stomach turn. This is definitely not what I'm looking for.</li>
+            <li>The withered, almost non-existent clitoris and stretched labia tell a grim story of time. Utterly repulsive.</li>
+            <li>A truly uninspiring, stomach-churning sight. Her ancient, loose features are a complete turn-off for me.</li>
+            <li>Seeing her unkempt, utterly past-prime genitalia is deeply unsettling. It's a sad, repulsive, horrifying view.</li>
+            <li>Her faded, unplumped, ancient form holds no attraction. It’s like looking at a shriveled, ancient fruit.</li>
+            <li>The prominent visibility of her ancient parts is just depressing and horrifying. My youthful desires are repelled.</li>
+            <li>That slack, uninviting, ancient opening is a stark reminder of what happens with extreme age. Gross.</li>
+            <li>Her overall appearance is worn out, ancient, and unappealing. Definitely not what a young man wants to see.</li>
+            <li>The discolored and loose skin around her entrance makes me gag. It's truly unpleasant and horrifying.</li>
+            <li>I expected something vibrant, but this aged, open, ancient form is completely lifeless and unattractive.</li>
+            <li>The lack of firmness and dull, almost grey complexion of her intimate area is just depressing to witness.</li>
+            <li>Her widely visible, tired, ancient labia are profoundly off-putting. I feel nothing but extreme aversion.</li>
+            <li>This old, flaccid, ancient hole is a horrifying vision. I wish I could unsee it right now.</li>
+            <li>The unappealing shape and texture of her ancient outer lips fill me with deep discomfort and disgust.</li>
+            <li>A truly revolting display of ancient, decaying flesh. It actively kills any youthful interest.</li>
+            <li>Her over-exposed, saggy, ancient opening is enough to make a young man lose his appetite.</li>
+            <li>There's nothing exciting about her withered, unkempt, ancient form. It's utterly repellent and sickening.</li>
+            <li>The weary appearance of her ancient intimate parts is a complete mood killer for anyone my age.</li>
+            <li>This widely visible, ancient opening is utterly devoid of appeal. It’s just... sad and horrifying.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale_observed_by_Young_female</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her loose, aged, ancient labia are a disturbing, terrifying glimpse into my inescapable future.</li>
+            <li>The overall tired, ancient appearance of her intimate area is a horrifying cautionary tale, utterly unappealing.</li>
+            <li>Seeing such a widespread, unkempt, decrepit opening is honestly quite frightening and utterly repulsive.</li>
+            <li>The pallid, almost grey color and flaccid structure are a stark, terrifying reminder of decay. A truly depressing sight.</li>
+            <li>Her stretched, unplumped, ancient vulva looks incredibly worn out. What a sad, horrifying existence.</li>
+            <li>This aging, visible, ancient body part is profoundly uninviting. It makes me cringe and shudder.</li>
+            <li>The lack of firmness and faded hues of her intimate area fill me with a profound sense of dread.</li>
+            <li>It's a wide, uninspired, horrifying chasm. This is what extreme years of living do to you, I guess.</li>
+            <li>Her withered, almost non-existent clitoris and sagging lips are an unpleasant, terrifying vision.</li>
+            <li>A depressing, horrifying sight. The prominent visibility of her ancient parts is just grim and soul-crushing.</li>
+            <li>The dullness and widespread nature of her ancient anatomy are quite off-putting and utterly unattractive.</li>
+            <li>Such an ordinary, unappealing, horrifying view. There's nothing vibrant or youthful left.</li>
+            <li>Her exposed, tired, ancient form is a discouraging, truly nauseating sight for a younger woman like me.</li>
+            <li>The discolored and loose skin around her ancient entrance is just... unhygienic-looking and repulsive.</li>
+            <li>This open, unkempt, ancient part looks so unloved and worn. It's truly a sad, horrifying vision.</li>
+            <li>The sheer unattractiveness of those ancient lips makes me feel a profound sense of pity and revulsion.</li>
+            <li>It's a saggy, uninspired, horrifying hole. I never want to experience such a physical decline.</li>
+            <li>The flaccid nature of her ancient intimate area is profoundly unappealing and makes me shiver uncontrollably.</li>
+            <li>Her widely visible, faded, ancient labia are just a testament to time's unkind, cruel hand.</li>
+            <li>An old, worn-out, ancient cavity. It's a rather sad, horrifying, and unsexy sight, if I'm being honest.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her ancient vulva is a harsh reflection of my own approaching decline. My interest quickly fades into revulsion.</li>
+            <li>The weary appearance of her intimate, ancient area is a definite turn-off, lacking any spark whatsoever.</li>
+            <li>That wide, slack, decrepit opening holds no mystery or excitement for a man of my experience.</li>
+            <li>Her sagging, ancient labia and dull, shriveled clitoris hint at a past I'd rather not imagine. Unattractive.</li>
+            <li>A truly uninspiring, stomach-churning sight for a man. Her ancient features are simply too worn.</li>
+            <li>The profound lack of plumpness and utterly faded color makes it clear this part has long passed its prime.</li>
+            <li>Such an ordinary, uninspired, horrifying sight. Nothing about it sparks any interest, only profound revulsion.</li>
+            <li>The flattened, almost non-existent clitoris and utterly sagging labia are a depressing, terrifying reminder of decay.</li>
+            <li>It looks like a dried-up, crumbling, ancient portal. Best to just avert my gaze before I vomit.</li>
+            <li>Every deep wrinkle and crease tells a story of terminal decline. A truly abominable specimen.</li>
+            <li>The discolored and immensely loose skin gives it a rather diseased, utterly unkempt appearance.</li>
+            <li>A desolate, barren landscape of ancient flesh. There's no allure left, only horror.</li>
+            <li>Observing the lifeless, deeply greyish folds, I feel an uncontrollable wave of utter disgust.</li>
+            <li>Its overall condition screams "ancient" and "rotting". A deeply, profoundly unappetizing view.</li>
+            <li>The non-existent definition of the labia and clitoris indicates a complete, horrifying lack of vitality.</li>
+            <li>Seeing that slack, wide, gaping maw makes my stomach churn violently. It's truly a sight from hell.</li>
+            <li>The shriveled labia and utterly invisible clitoris are a stark, terrifying portrait of extreme age.</li>
+            <li>It’s a saggy, uninspiring, horrifying hole. Clearly, all life and vibrancy have long since abandoned it.</li>
+            <li>The faded, almost ghostly tones and utterly flaccid structure offer absolutely no visual pleasure.</li>
+            <li>An ancient, utterly worn-out cavity. A rather sad, horrifying, and unsexy sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her loose, aged, ancient labia are a disturbing, terrifying glimpse into my inescapable future.</li>
+            <li>The overall tired, ancient appearance of her intimate area is a horrifying cautionary tale, utterly unappealing.</li>
+            <li>Seeing such a widespread, unkempt, decrepit opening is honestly quite frightening and utterly repulsive.</li>
+            <li>The pallid, almost grey color and flaccid structure are a stark, terrifying reminder of decay. A truly depressing sight.</li>
+            <li>Her stretched, unplumped, ancient vulva looks incredibly worn out. What a sad, horrifying existence.</li>
+            <li>This aging, visible, ancient body part is profoundly uninviting. It makes me cringe and shudder.</li>
+            <li>The lack of firmness and faded hues of her intimate area fill me with a profound sense of dread.</li>
+            <li>It's a wide, uninspired, horrifying chasm. This is what extreme years of living do to you, I guess.</li>
+            <li>Her withered, almost non-existent clitoris and sagging lips are an unpleasant, terrifying vision.</li>
+            <li>A depressing, horrifying sight. The prominent visibility of her ancient parts is just grim and soul-crushing.</li>
+            <li>The dullness and widespread nature of her ancient anatomy are quite off-putting and utterly unattractive.</li>
+            <li>Such an ordinary, unappealing, horrifying view. There's nothing vibrant or youthful left.</li>
+            <li>Her exposed, tired, ancient form is a discouraging, truly nauseating sight for a woman like me.</li>
+            <li>The discolored and loose skin around her ancient entrance is just... unhygienic-looking and repulsive.</li>
+            <li>This open, unkempt, ancient part looks so unloved and worn. It's truly a sad, horrifying vision.</li>
+            <li>The sheer unattractiveness of those ancient lips makes me feel a profound sense of pity and revulsion.</li>
+            <li>It's a saggy, uninspired, horrifying hole. I never want to experience such a physical decline.</li>
+            <li>The flaccid nature of her ancient intimate area is profoundly unappealing and makes me shiver uncontrollably.</li>
+            <li>Her widely visible, faded, ancient labia are just a testament to time's unkind, cruel hand.</li>
+            <li>An old, worn-out, ancient cavity. It's a rather sad, horrifying, and unsexy sight, if I'm being honest.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale_observed_by_Elder_male</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her ancient vulva is a harsh reflection of passing youth. My interest quickly fades.</li>
+            <li>The weary appearance of her intimate, ancient area is a definite turn-off, lacking any spark.</li>
+            <li>That wide, slack, decrepit opening holds no mystery or excitement for a man of my experience.</li>
+            <li>Her sagging, ancient labia and dull, shriveled clitoris hint at a past I'd rather not imagine. Unattractive.</li>
+            <li>A truly uninspiring, stomach-churning sight for a man. Her ancient features are simply too worn.</li>
+            <li>The profound lack of plumpness and utterly faded color makes it clear this part has long passed its prime.</li>
+            <li>Such an ordinary, uninspired, horrifying sight. Nothing about it sparks any interest, only profound revulsion.</li>
+            <li>The flattened, almost non-existent clitoris and utterly sagging labia are a depressing, terrifying reminder of decay.</li>
+            <li>It looks like a dried-up, crumbling, ancient portal. Best to just avert my gaze before I vomit.</li>
+            <li>Every deep wrinkle and crease tells a story of terminal decline. A truly abominable specimen.</li>
+            <li>The discolored and immensely loose skin gives it a rather diseased, utterly unkempt appearance.</li>
+            <li>A desolate, barren landscape of ancient flesh. There's no allure left, only horror.</li>
+            <li>Observing the lifeless, deeply greyish folds, I feel an uncontrollable wave of utter disgust.</li>
+            <li>Its overall condition screams "ancient" and "rotting". A deeply, profoundly unappetizing view.</li>
+            <li>The non-existent definition of the labia and clitoris indicates a complete, horrifying lack of vitality.</li>
+            <li>Seeing that slack, wide, gaping maw makes my stomach churn violently. It's truly a sight from hell.</li>
+            <li>The shriveled labia and utterly invisible clitoris are a stark, terrifying portrait of extreme age.</li>
+            <li>It’s a saggy, uninspiring, horrifying hole. Clearly, all life and vibrancy have long since abandoned it.</li>
+            <li>The faded, almost ghostly tones and utterly flaccid structure offer absolutely no visual pleasure.</li>
+            <li>An ancient, utterly worn-out cavity. A rather sad, horrifying, and unsexy sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Accommodating_ElderFemale_observed_by_Elder_female</defName>
+        <label>Accommodating Vagina (Negative)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her loose, aged, ancient labia are a disturbing, terrifying glimpse into my own inescapable future.</li>
+            <li>The overall tired, ancient appearance of her intimate area is a horrifying cautionary tale, utterly unappealing.</li>
+            <li>Seeing such a widespread, unkempt, decrepit opening is honestly quite frightening and utterly repulsive.</li>
+            <li>The pallid, almost grey color and flaccid structure are a stark, terrifying reminder of decay. A truly depressing sight.</li>
+            <li>Her stretched, unplumped, ancient vulva looks incredibly worn out. What a sad, horrifying existence.</li>
+            <li>This aging, visible, ancient body part is profoundly uninviting. It makes me cringe and shudder.</li>
+            <li>The lack of firmness and faded hues of her intimate area fill me with a profound sense of dread.</li>
+            <li>It's a wide, uninspired, horrifying chasm. This is what extreme years of living do to you, I guess.</li>
+            <li>Her withered, almost non-existent clitoris and sagging lips are an unpleasant, terrifying vision.</li>
+            <li>A depressing, horrifying sight. The prominent visibility of her ancient parts is just grim and soul-crushing.</li>
+            <li>The dullness and widespread nature of her ancient anatomy are quite off-putting and utterly unattractive.</li>
+            <li>Such an ordinary, unappealing, horrifying view. There's nothing vibrant or youthful left.</li>
+            <li>Her exposed, tired, ancient form is a discouraging, truly nauseating sight for a woman like me.</li>
+            <li>The discolored and loose skin around her ancient entrance is just... unhygienic-looking and repulsive.</li>
+            <li>This open, unkempt, ancient part looks so unloved and worn. It's truly a sad, horrifying vision.</li>
+            <li>The sheer unattractiveness of those ancient lips makes me feel a profound sense of pity and revulsion.</li>
+            <li>It's a saggy, uninspired, horrifying hole. I never want to experience such a physical decline.</li>
+            <li>The flaccid nature of her ancient intimate area is profoundly unappealing and makes me shiver uncontrollably.</li>
+            <li>Her widely visible, faded, ancient labia are just a testament to time's unkind, cruel hand.</li>
+            <li>An old, worn-out, ancient cavity. It's a rather sad, horrifying, and unsexy sight, if I'm being honest.</li>
+        </opinionTexts>
+</Def>
+</Defs>

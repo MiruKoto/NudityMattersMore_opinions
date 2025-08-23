@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} chest barely registers as having breasts, just sad, flat nubs. Utterly unappealing.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} tiny breasts, a wave of disappointment washed over me. Nothing to grab, nothing to see.</li>
+            <li>Those are breasts? More like inverted buttons. {PAWN_nameShortPossessive} lack of cleavage is almost insulting.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, I couldn't help but feel a pang of pity. So small, so insignificant.</li>
+            <li>{PAWN_nameShortPossessive} breasts are a mockery, barely there. A true shame for someone {PAWN_pronoun}s age.</li>
+            <li>No bounce, no sway, just flat. {PAWN_nameShortPossessive} chest is as exciting as a barren landscape.</li>
+            <li>It's a wonder how {PAWN_nameShort} manages to even stand upright with such pathetic excuses for breasts.</li>
+            <li>The sight of {PAWN_nameShortPossessive} meager bust is a stark reminder of what could have been. A true letdown.</li>
+            <li>Barely visible, {PAWN_nameShortPossessive} breasts offer nothing of interest. It's frankly quite depressing.</li>
+            <li>I've seen more impressive hills on the colony map than on {PAWN_nameShortPossessive} chest. Disappointing.</li>
+            <li>{PAWN_nameShortPossessive} nipples are barely noticeable, just tiny bumps on an otherwise flat expanse.</li>
+            <li>A quick glance confirms: {PAWN_nameShortPossessive} breasts are truly minuscule. Barely a handful.</li>
+            <li>I wouldn't even classify {PAWN_nameShortPossessive} chest as having breasts. It's just... flat.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts simply exist, without any form or presence, is disheartening.</li>
+            <li>{PAWN_nameShortPossessive} chest is a wasteland of flatness, devoid of any curves or attraction.</li>
+            <li>These tiny mounds on {PAWN_nameShortPossessive} chest are barely worth a second look. Pathetic.</li>
+            <li>The absolute lack of volume on {PAWN_nameShortPossessive} chest is quite off-putting. A real turn-off.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so small, they seem to be hiding from view. For good reason.</li>
+            <li>I can't believe {PAWN_nameShort} is proud of such an uninspiring chest. What a letdown.</li>
+            <li>Just a flat board, that's what {PAWN_nameShortPossessive} chest resembles. Completely uninteresting.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale_observed_by_voyer</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My gaze lingered on {PAWN_nameShortPossessive} chest, only to be met with stark disappointment. So little to see, it's almost painful.</li>
+            <li>The urge to watch was strong, but {PAWN_nameShortPossessive} meager breasts offered no reward for my voyeuristic tendencies.</li>
+            <li>I peered intently, hoping for some movement, some jiggle, but {PAWN_nameShortPossessive} flat chest betrayed my expectations.</li>
+            <li>This is what I waited for? {PAWN_nameShortPossessive} tiny breasts are hardly a spectacle worth observing. A waste of my time.</li>
+            <li>My eyes scanned {PAWN_nameShortPossessive} form, but {PAWN_possessive} chest was a barren landscape, offering no hidden pleasures for a voyeur like me.</li>
+            <li>A voyeur's nightmare: {PAWN_nameShortPossessive} barely-there breasts, completely devoid of any visual interest or alluring bounce.</li>
+            <li>I found myself bored, my eyes searching for something, anything, more substantial than {PAWN_nameShortPossessive} pathetic chest.</li>
+            <li>The disappointment was palpable; {PAWN_nameShortPossessive} flat chest offered no tantalizing secrets or tempting curves for my eager gaze.</li>
+            <li>Even for a voyeur, some sights are too uninspiring. {PAWN_nameShortPossessive} tiny breasts fall squarely into that category.</li>
+            <li>I felt a sense of irritation as my gaze landed on {PAWN_nameShortPossessive} chest. Why bother if there's nothing to truly observe?</li>
+            <li>{PAWN_nameShortPossessive} nipples are barely bumps, and the areolas are so small they're almost nonexistent. A true disservice.</li>
+            <li>My eyes were drawn to the lack of anything substantial on {PAWN_nameShortPossessive} chest. A voyeur finds no joy here.</li>
+            <li>It's a rare day when I feel cheated by a naked form, but {PAWN_nameShortPossessive} tiny breasts manage it.</li>
+            <li>I secretly hoped for a glimpse of something impressive, but {PAWN_nameShortPossessive} chest offered only a depressing flatness.</li>
+            <li>What a letdown. My voyeuristic instincts were completely unfulfilled by {PAWN_nameShortPossessive} sad, tiny breasts.</li>
+            <li>I quickly averted my gaze. There was nothing to glean from {PAWN_nameShortPossessive} almost non-existent chest.</li>
+            <li>The way {PAWN_nameShortPossessive} chest just lay there, so flat and unmoving, was an insult to my desire to observe.</li>
+            <li>I couldn't help but frown. {PAWN_nameShortPossessive} breasts were an utterly unstimulating sight for my voyeur's eyes.</li>
+            <li>My curiosity died the moment I saw {PAWN_nameShortPossessive} chest. There was simply nothing to explore or appreciate.</li>
+            <li>For a moment, I wondered if I was even looking at a woman's chest. So incredibly flat.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny breasts are truly pathetic. Who would even bother to look? Certainly not me.</li>
+            <li>Seeing {PAWN_nameShortPossessive} flat chest makes me question why {PAWN_pronoun} even bothers. There's nothing to show off.</li>
+            <li>I can't imagine anyone being impressed by {PAWN_nameShortPossessive} meager bust. It's almost embarrassing to witness.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so insignificant, they fade into the background. A complete lack of presence.</li>
+            <li>What a waste of skin. {PAWN_nameShortPossessive} chest is devoid of any curves or allure that an exhibitionist appreciates.</li>
+            <li>{PAWN_nameShortPossessive} nipples are barely visible, making the whole display even more underwhelming.</li>
+            <li>There's nothing exciting about {PAWN_nameShortPossessive} flat chest. I yearn for something more substantial to observe.</li>
+            <li>I feel no desire to expose myself in front of someone with such a disappointing physique. No challenge, no thrill.</li>
+            <li>My eyes just slide off {PAWN_nameShortPossessive} chest. There's simply nothing for an exhibitionist to appreciate or react to.</li>
+            <li>It's almost an insult to the art of exposure to witness {PAWN_nameShortPossessive} utterly flat and uninspired chest.</li>
+            <li>The absolute absence of any prominent form on {PAWN_nameShortPossessive} chest is disheartening. No visual reward at all.</li>
+            <li>I saw {PAWN_nameShortPossessive} chest, and my urge to exhibit instantly vanished. No one would even notice.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so small, they offer no contrast or excitement for someone who loves to show off.</li>
+            <li>I wouldn't even consider {PAWN_nameShortPossessive} chest as a proper target for an exhibitionist's attention.</li>
+            <li>The jiggle factor is zero, the visual impact less than zero. {PAWN_nameShortPossessive} chest is a dud.</li>
+            <li>My eyes are drawn to what's *not* there on {PAWN_nameShortPossessive} chest. A truly uninspiring sight.</li>
+            <li>I wouldn't waste my time trying to impress anyone with {PAWN_nameShortPossessive} flat chest. It's just sad.</li>
+            <li>{PAWN_nameShortPossessive} nipples are like tiny pebbles, barely disturbing the smooth surface of {PAWN_possessive} chest.</li>
+            <li>I'm left feeling utterly underwhelmed by {PAWN_nameShortPossessive} complete lack of voluptuousness.</li>
+            <li>The sight of {PAWN_nameShortPossessive} chest is so unexciting, it makes me want to put my clothes back on.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My desires dwindled the moment I saw {PAWN_nameShortPossessive} tiny, insignificant breasts. Absolutely no appeal.</li>
+            <li>This sight does nothing to stir my passion. {PAWN_nameShortPossessive} flat chest leaves me cold and uninterested.</li>
+            <li>I need more! {PAWN_nameShortPossessive} meager bust is a complete letdown, offering no stimulation whatsoever.</li>
+            <li>My body craves, but {PAWN_nameShortPossessive} tiny breasts offer no satisfaction. A total disappointment.</li>
+            <li>The lack of curves, the absence of fullness on {PAWN_nameShortPossessive} chest is profoundly irritating.</li>
+            <li>Why even bother? {PAWN_nameShortPossessive} breasts are so small, they offer no pleasure for my touch or sight.</li>
+            <li>I feel a wave of frustration wash over me. {PAWN_nameShortPossessive} chest is simply not enough to ignite my desires.</li>
+            <li>My eyes search for something, anything, more substantial to latch onto than {PAWN_nameShortPossessive} pathetic nipples and flat chest.</li>
+            <li>It's almost a cruel joke. {PAWN_nameShortPossessive} breasts are a stark reminder of what's missing.</li>
+            <li>My lust just… fizzled out. {PAWN_nameShortPossessive} tiny, uninspired chest has that effect.</li>
+            <li>The lack of flesh, the utter flatness of {PAWN_nameShortPossessive} chest is a turn-off beyond words.</li>
+            <li>I wouldn't waste a moment on {PAWN_nameShortPossessive} chest. There's nothing there to satisfy my urges.</li>
+            <li>{PAWN_nameShortPossessive} breasts are like a desert – dry and uninviting. No pleasure to be found.</li>
+            <li>My desires are powerful, but {PAWN_nameShortPossessive} chest simply doesn't meet the minimum requirements.</li>
+            <li>I felt a strong sense of dissatisfaction. {PAWN_nameShortPossessive} nipples are barely defined, the breasts barely existent.</li>
+            <li>This sight is truly disheartening. My urges demand more than {PAWN_nameShortPossessive} flat chest can offer.</li>
+            <li>I don't understand how {PAWN_nameShort} can even call those breasts. They are so small, so unappealing.</li>
+            <li>The lack of fullness on {PAWN_nameShortPossessive} chest leaves me utterly uninspired and quite annoyed.</li>
+            <li>My expectations were high, but {PAWN_nameShortPossessive} tiny breasts crashed them to the ground.</li>
+            <li>My gaze lingered, searching for some form, some hint of pleasure, but {PAWN_nameShortPossessive} chest was utterly devoid.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale_observed_by_Prude</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even though they are small, {PAWN_nameShortPossessive} exposed chest still makes me uncomfortable. Keep it covered.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts, however insignificant, is still inappropriate. I wish I hadn't seen it.</li>
+            <li>My eyes involuntarily fell upon {PAWN_nameShortPossessive} chest. Even though they're tiny, it's an immodest display.</li>
+            <li>It's crude and unnecessary to display such things, regardless of how small {PAWN_nameShortPossessive} breasts are.</li>
+            <li>I looked away immediately. {PAWN_nameShortPossessive} exposed chest, no matter how unremarkable, is improper.</li>
+            <li>Such an unnecessary display. {PAWN_nameShortPossessive} flat chest, while unappealing, still shouldn't be exposed.</li>
+            <li>My face reddened. Even a glimpse of {PAWN_nameShortPossessive} barely-there breasts is too much for my sensibilities.</li>
+            <li>I find it distasteful. {PAWN_nameShortPossessive} unadorned nipples are unsettling, despite their size.</li>
+            <li>Honestly, it's just plain awkward. {PAWN_nameShortPossessive} chest is exposed, and there's nothing appealing about it.</li>
+            <li>I feel a strong sense of disapproval. {PAWN_nameShortPossessive} tiny breasts should remain hidden from view.</li>
+            <li>The lack of shame is astounding. {PAWN_nameShortPossessive} small breasts are still a private matter.</li>
+            <li>My sensibilities are offended by {PAWN_nameShortPossessive} exposed chest, no matter how little there is to see.</li>
+            <li>It's truly unbecoming for {PAWN_nameShort} to be displaying {PAWN_possessive} chest, even if it's flat.</li>
+            <li>I recoiled slightly. {PAWN_nameShortPossessive} tiny breasts were far more than I cared to witness.</li>
+            <li>The impropriety of the situation overwhelms me, despite {PAWN_nameShortPossessive} uninspiring form.</li>
+            <li>I covered my eyes. The sight of {PAWN_nameShortPossessive} chest, small as it is, is too much for me.</li>
+            <li>I wish {PAWN_nameShort} would cover up. Those tiny breasts are not meant for public display.</li>
+            <li>My discomfort is evident. {PAWN_nameShortPossessive} nipples, though small, are still too exposed.</li>
+            <li>This is simply indecent. {PAWN_nameShortPossessive} exposed, flat chest is an affront to modesty.</li>
+            <li>I can't believe {PAWN_nameShort} is so casual about exposing {PAWN_possessive} tiny breasts. It's truly shocking.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale_observed_by_Young_male</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her breasts are so small, it's almost laughable for someone {PAWN_pronoun}s age. What a disappointment.</li>
+            <li>I barely even noticed {PAWN_nameShortPossessive} chest. There's just nothing there to catch a young man's eye.</li>
+            <li>Those aren't breasts, they're… bumps. {PAWN_nameShortPossessive} chest is completely uninteresting.</li>
+            <li>I was hoping for something, anything, but {PAWN_nameShortPossessive} flat chest left me utterly unimpressed.</li>
+            <li>My gaze slid right over {PAWN_nameShortPossessive} chest. No curves, no fullness, just a dull flatness.</li>
+            <li>It's a sad sight. {PAWN_nameShortPossessive} tiny breasts are nowhere near what I'd consider attractive.</li>
+            <li>Her nipples are like pinpricks. {PAWN_nameShortPossessive} chest is a barren landscape, utterly unstimulating.</li>
+            <li>I've seen more impressive hills on the colony map than on {PAWN_nameShortPossessive} chest. What a waste.</li>
+            <li>This is what 'mature' means? {PAWN_nameShortPossessive} tiny breasts are not what I had in mind for an older woman.</li>
+            <li>Frankly, it's a turn-off. {PAWN_nameShortPossessive} breasts are so underdeveloped, it's embarrassing.</li>
+            <li>I felt a pang of repulsion. {PAWN_nameShortPossessive} chest is so flat, it's almost unsettling to look at.</li>
+            <li>No jiggle, no bounce, just a flat, uninspiring chest. {PAWN_nameShort} offers nothing of interest.</li>
+            <li>I quickly looked away. There was nothing appealing about {PAWN_nameShortPossessive} almost non-existent breasts.</li>
+            <li>Her chest seems... deflated. {PAWN_nameShortPossessive} tiny breasts lack any sort of youthful vitality.</li>
+            <li>It's a real shame. I was hoping for something more substantial than {PAWN_nameShortPossessive} pathetic excuse for breasts.</li>
+            <li>I find it hard to believe {PAWN_nameShort} is a woman with such a flat chest. It's just not right.</li>
+            <li>My eyes are bored by the lack of any significant form on {PAWN_nameShortPossessive} chest.</li>
+            <li>I don't understand how anyone could find {PAWN_nameShortPossessive} tiny breasts attractive. Truly bewildering.</li>
+            <li>It's like looking at a wall. {PAWN_nameShortPossessive} chest offers no curves or visual softness.</li>
+            <li>My interest immediately waned. {PAWN_nameShortPossessive} breasts are too small to be worth a second thought.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale_observed_by_Young_female</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even at {PAWN_nameShortPossessive} age, those breasts are shockingly small. Mine are more developed than that!</li>
+            <li>I hope my breasts never look that pathetic. {PAWN_nameShortPossessive} chest is so flat, it's disheartening.</li>
+            <li>She's older, but {PAWN_possessive} breasts are tiny. Makes me worry about my own future.</li>
+            <li>My eyes lingered, just to confirm. Yes, {PAWN_nameShortPossessive} chest is as flat as a board.</li>
+            <li>I felt a surge of superiority. My own curves are far more impressive than {PAWN_nameShortPossessive} meager bust.</li>
+            <li>It’s almost embarrassing for {PAWN_nameShort} to be displaying such insignificant breasts.</li>
+            <li>Her nipples are barely there. A truly uninspiring sight for another woman.</li>
+            <li>I wouldn't wish such tiny breasts on my worst enemy. {PAWN_nameShortPossessive} chest is a tragic sight.</li>
+            <li>Makes me appreciate my own figure even more. {PAWN_nameShortPossessive} breasts are a complete non-event.</li>
+            <li>Is that what happens as you age? Losing all shape? {PAWN_nameShortPossessive} chest is a warning.</li>
+            <li>I'm surprised {PAWN_nameShort} even has cleavage in anything. {PAWN_possessive} breasts are practically nonexistent.</li>
+            <li>The complete lack of any significant curve on {PAWN_nameShortPossessive} chest is quite shocking for someone {PAWN_pronoun}s age.</li>
+            <li>I quickly looked away, feeling a mix of pity and discomfort at {PAWN_nameShortPossessive} flat chest.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so small, I almost didn't notice them. A true letdown.</li>
+            <li>I expected more from a woman {PAWN_possessive} age. {PAWN_nameShortPossessive} chest is surprisingly underdeveloped.</li>
+            <li>It's a stark contrast to how a woman's body should look. {PAWN_nameShortPossessive} chest is severely lacking.</li>
+            <li>I can't imagine having such small breasts. {PAWN_nameShortPossessive} chest offers absolutely no shape.</li>
+            <li>My own breasts feel enormous compared to {PAWN_nameShortPossessive}. It's almost comical.</li>
+            <li>She looks so... diminished. {PAWN_nameShortPossessive} tiny breasts contribute to that withered appearance.</li>
+            <li>The sight of {PAWN_nameShortPossessive} chest makes me grateful for what I have. A truly unappealing figure.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} breasts are practically nonexistent for someone {PAWN_pronoun}s age. A significant turn-off.</li>
+            <li>I've seen more development on a child. {PAWN_nameShortPossessive} flat chest is a huge disappointment.</li>
+            <li>What a waste of potential. {PAWN_nameShortPossessive} tiny breasts offer absolutely no pleasure to the eye.</li>
+            <li>My expectations were certainly not met. {PAWN_nameShortPossessive} chest is a depressing sight for a mature woman.</li>
+            <li>The lack of firmness, the absence of any real shape on {PAWN_nameShortPossessive} breasts is frankly quite unappealing.</li>
+            <li>I find it difficult to even acknowledge them as breasts. {PAWN_nameShortPossessive} chest is just… flat.</li>
+            <li>My gaze quickly moved away. There was nothing appealing about {PAWN_nameShortPossessive} nipples or the overall flatness.</li>
+            <li>It's a grim reality check. {PAWN_nameShortPossessive} tiny breasts offer no youthful bounce or mature fullness.</li>
+            <li>A truly uninspiring figure. {PAWN_nameShortPossessive} chest offers no curves to appreciate, just an empty expanse.</li>
+            <li>I feel a profound sense of disappointment. {PAWN_nameShortPossessive} breasts are a pathetic sight for a woman {PAWN_pronoun}s years.</li>
+            <li>The sag and lack of substance on {PAWN_nameShortPossessive} chest makes me cringe. Not what I look for.</li>
+            <li>I prefer a woman with some substance, but {PAWN_nameShortPossessive} chest offers only a flat, unyielding surface.</li>
+            <li>Her breasts are so small, they seem to recede into her body. Truly a disappointing view.</li>
+            <li>It’s almost as if {PAWN_nameShort} has no breasts at all. A completely unstimulating sight.</li>
+            <li>I can't imagine finding any attraction in {PAWN_nameShortPossessive} almost invisible breasts. What a bore.</li>
+            <li>The sight of {PAWN_nameShortPossessive} nipples, tiny and unremarkable, just highlights the lack of form.</li>
+            <li>My interest plummeted the moment I saw {PAWN_nameShortPossessive} chest. There's nothing to hold my attention.</li>
+            <li>{PAWN_nameShortPossessive} breasts are a sad testament to how some women's bodies just… fade.</li>
+            <li>I'm left feeling cold and uninspired by the complete absence of any appealing curves on {PAWN_nameShortPossessive} chest.</li>
+            <li>This is not what I expected from a woman of {PAWN_nameShortPossessive} age. Her chest is simply… lacking.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} breasts are barely there. A woman {PAWN_pronoun}s age should have more to show.</li>
+            <li>I looked at {PAWN_nameShortPossessive} chest and felt a pang of judgment. So flat, so unfulfilled.</li>
+            <li>It's a poor display for a mature woman. {PAWN_nameShortPossessive} breasts are a sad, shriveled sight.</li>
+            <li>My own breasts, despite my age, look far better than {PAWN_nameShortPossessive} pathetic excuse for a chest.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts just cling to {PAWN_possessive} ribs is rather grim. No fullness at all.</li>
+            <li>She clearly hasn't taken care of herself. {PAWN_nameShortPossessive} tiny, sagging breasts are a testament to that.</li>
+            <li>I feel a bit disgusted. {PAWN_nameShortPossessive} nipples are almost indistinguishable, the whole chest is a mess.</li>
+            <li>What a letdown. I expected a woman {PAWN_pronoun}s age to have at least *some* form, not that.</li>
+            <li>My eyes slid over {PAWN_nameShortPossessive} chest, finding nothing noteworthy or admirable about {PAWN_possessive} figure.</li>
+            <li>It's almost shocking how underdeveloped {PAWN_nameShortPossessive} breasts are for someone of our generation.</li>
+            <li>I would be mortified if my breasts looked like {PAWN_nameShortPossessive}. So small, so utterly uninspiring.</li>
+            <li>The lack of any definition or curve on {PAWN_nameShortPossessive} chest is rather off-putting.</li>
+            <li>A truly ungraceful form. {PAWN_nameShortPossessive} tiny breasts offer no beauty or allure.</li>
+            <li>It's hard to believe {PAWN_nameShort} is even a woman with such an insignificant bust.</li>
+            <li>Her chest seems almost concave. {PAWN_nameShortPossessive} breasts are practically nonexistent.</li>
+            <li>I looked, and quickly looked away. There was nothing there that commanded respect or admiration.</li>
+            <li>The sheer flatness of {PAWN_nameShortPossessive} chest is almost an affront. What a disappointment.</li>
+            <li>{PAWN_nameShortPossessive} nipples are barely visible, making the entire presentation even more pitiful.</li>
+            <li>I pity {PAWN_nameShort}. {PAWN_possessive} breasts are a sad example of a woman's declining figure.</li>
+            <li>It makes me feel better about my own body, seeing {PAWN_nameShortPossessive} utter lack of curves.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale_observed_by_Elder_male</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even in her younger years, {PAWN_nameShortPossessive} breasts must have been meager. Now, they're truly pitiful.</li>
+            <li>I've seen better forms on a scarecrow. {PAWN_nameShortPossessive} chest is an unappealing, flat expanse.</li>
+            <li>At {PAWN_pronoun}s age, I expected some... history. But {PAWN_nameShortPossessive} tiny breasts suggest a barren past.</li>
+            <li>What a disappointment. {PAWN_nameShortPossessive} breasts offer nothing of interest to an experienced eye.</li>
+            <li>The lack of any discernible shape, the mere suggestion of nipples on {PAWN_nameShortPossessive} chest is profoundly unstimulating.</li>
+            <li>My eyes lingered for a moment, then quickly dismissed {PAWN_possessive} chest as utterly uninteresting.</li>
+            <li>It's a shame. Even at this age, some women retain their charm, but {PAWN_nameShortPossessive} breasts offer none.</li>
+            <li>I've seen more jiggle on a bowl of pudding. {PAWN_nameShortPossessive} chest is a flat, unyielding board.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts reminds me of barren fields and wasted potential.</li>
+            <li>My interest in women's forms is extensive, but {PAWN_nameShortPossessive} chest is a blank page.</li>
+            <li>{PAWN_nameShortPossessive} nipples are like shriveled berries, barely noticeable on a chest that's utterly devoid of curves.</li>
+            <li>It’s a stark reminder of the passage of time, and not in a good way. {PAWN_nameShortPossessive} breasts are withered.</li>
+            <li>I recall better figures from my youth. {PAWN_nameShortPossessive} chest offers no pleasant memories or present allure.</li>
+            <li>I feel a profound sense of disinterest. {PAWN_nameShortPossessive} breasts are far too small to be engaging.</li>
+            <li>The sheer emptiness of {PAWN_nameShortPossessive} chest is quite off-putting. No softness, no allure.</li>
+            <li>I'm old enough to know what I like, and {PAWN_nameShortPossessive} tiny breasts are definitely not it.</li>
+            <li>This sight is truly uninspiring. {PAWN_nameShortPossessive} breasts are a sad, flat canvas.</li>
+            <li>I've seen better-developed pectorals on a young boy. {PAWN_nameShortPossessive} chest is a joke.</li>
+            <li>My gaze dismissed {PAWN_nameShortPossessive} figure almost immediately. There was nothing there to appreciate.</li>
+            <li>Such a meager display. {PAWN_nameShortPossessive} breasts are a disappointment that even age can't excuse.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_MatureFemale_observed_by_Elder_female</defName>
+        <label>Tiny Breasts (Negative)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even for {PAWN_pronoun} age, {PAWN_nameShortPossessive} breasts are shockingly small. Mine were always more substantial.</li>
+            <li>I felt a pang of superiority. My own aging chest holds more form than {PAWN_nameShortPossessive} pathetic display.</li>
+            <li>It's a sad sight. {PAWN_nameShortPossessive} breasts are so tiny, they offer no comfort or visual appeal.</li>
+            <li>I remember when women had curves. {PAWN_nameShortPossessive} flat chest is a stark contrast to true femininity.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts simply exist, without any fullness or grace, is rather disappointing.</li>
+            <li>{PAWN_nameShort} clearly didn't inherit much. {PAWN_possessive} tiny, insignificant breasts are a shame.</li>
+            <li>I looked at {PAWN_nameShortPossessive} nipples, almost invisible, and felt a wave of pity for {PAWN_objective}.</li>
+            <li>Makes me feel good about my own body. {PAWN_nameShortPossessive} chest is a stark example of what *not* to be.</li>
+            <li>I expected a woman {PAWN_pronoun}s age to have at least some dignity in her figure, but {PAWN_nameShort} has none.</li>
+            <li>The utter lack of any voluptuousness on {PAWN_nameShortPossessive} chest is rather unsettling to witness.</li>
+            <li>My own breasts have seen better days, but {PAWN_nameShortPossessive} are just… pitiful from the start.</li>
+            <li>It's a grim reminder of how some women just don't develop. {PAWN_nameShortPossessive} flat chest is a testimony.</li>
+            <li>I can't imagine living with such a lack of form. {PAWN_nameShortPossessive} breasts are a true disservice.</li>
+            <li>The jiggle is non-existent, the shape is non-existent. {PAWN_nameShortPossessive} chest is a depressing sight.</li>
+            <li>I sighed inwardly. What an uninspiring figure. {PAWN_nameShortPossessive} tiny breasts offer nothing to admire.</li>
+            <li>I remember a time when women were proud of their figures. {PAWN_nameShortPossessive} chest would have been mocked.</li>
+            <li>Her nipples are so small, they're almost inverted. The whole chest is just a flat board.</li>
+            <li>It's truly a shame to see such a mature woman with such an underdeveloped chest.</li>
+            <li>My eyes quickly moved on. There was nothing redeeming about {PAWN_nameShortPossessive} small, lifeless breasts.</li>
+            <li>I wouldn't wish such a figure on any woman. {PAWN_nameShortPossessive} chest is a picture of anatomical sadness.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>Time has not been kind to {PAWN_nameShortPossessive} breasts, but they barely had anything to lose in the first place.</li>
+            <li>Her chest is a withered, flat expanse. Even for {PAWN_pronoun}s age, {PAWN_nameShortPossessive} breasts are remarkably insignificant.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny, shriveled breasts is truly depressing. There's nothing left.</li>
+            <li>Those aren't breasts; they're just sad, deflated remnants. A truly unappealing sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, I felt a morbid curiosity. So little, so utterly gone.</li>
+            <li>{PAWN_nameShortPossessive} breasts are a testament to nothingness. No form, no life, just emptiness.</li>
+            <li>It’s a wonder how {PAWN_nameShort} manages to even stand with such a pathetic, aged chest.</li>
+            <li>The complete absence of any fullness or former glory on {PAWN_nameShortPossessive} breasts is startling.</li>
+            <li>Barely visible, {PAWN_nameShortPossessive} breasts offer nothing but a grim reminder of decay.</li>
+            <li>I've seen more impressive wrinkles on old hides than on {PAWN_nameShortPossessive} chest. Disappointing.</li>
+            <li>{PAWN_nameShortPossessive} nipples are like dried raisins, barely disturbing the papery skin of {PAWN_possessive} chest.</li>
+            <li>A quick glance confirms: {PAWN_nameShortPossessive} breasts are truly minuscule, withered and sunken.</li>
+            <li>I wouldn't even classify {PAWN_nameShortPossessive} chest as having breasts. It's just a shriveled mess.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts just sag into themselves, devoid of any past vitality, is unsettling.</li>
+            <li>{PAWN_nameShortPossessive} chest is a desert, utterly devoid of life or any semblance of a breast.</li>
+            <li>These tiny, almost inverted mounds on {PAWN_nameShortPossessive} chest are barely worth a second look. Horrifying.</li>
+            <li>The absolute lack of volume on {PAWN_nameShortPossessive} chest is quite off-putting. A truly grim sight.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so small, they seem to be trying to disappear. For good reason.</li>
+            <li>I can't believe {PAWN_nameShort} would expose such a sorry, withered chest. What a disturbing display.</li>
+            <li>Just a flat, sagging board, that's what {PAWN_nameShortPossessive} chest resembles. Completely repulsive.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale_observed_by_voyer</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>My gaze lingered on {PAWN_nameShortPossessive} chest, only to be met with profound disappointment. So little left to see, it's sickening.</li>
+            <li>The urge to watch was strong, but {PAWN_nameShortPossessive} withered, meager breasts offered no reward for my voyeuristic tendencies.</li>
+            <li>I peered intently, hoping for some hint of former glory, but {PAWN_nameShortPossessive} flat, ancient chest betrayed my expectations entirely.</li>
+            <li>This is what I waited for? {PAWN_nameShortPossessive} shriveled breasts are hardly a spectacle worth observing. A true horror.</li>
+            <li>My eyes scanned {PAWN_nameShortPossessive} form, but {PAWN_possessive} chest was a desolate, barren landscape, offering no hidden pleasures for a voyeur like me.</li>
+            <li>A voyeur's absolute nightmare: {PAWN_nameShortPossessive} barely-there breasts, completely devoid of any visual interest or alluring movement.</li>
+            <li>I found myself bored to tears, my eyes searching for something, anything, more substantial than {PAWN_nameShortPossessive} pathetic, ancient chest.</li>
+            <li>The disappointment was palpable; {PAWN_nameShortPossessive} flat, sagging chest offered no tantalizing secrets or tempting curves for my eager gaze.</li>
+            <li>Even for a voyeur, some sights are too uninspiring. {PAWN_nameShortPossessive} tiny, decrepit breasts fall squarely into that category.</li>
+            <li>I felt a sense of revulsion as my gaze landed on {PAWN_nameShortPossessive} chest. Why bother if there's nothing left to truly observe?</li>
+            <li>{PAWN_nameShortPossessive} nipples are barely visible, just shriveled bumps, and the areolas are so small they're almost nonexistent. A true horror show.</li>
+            <li>My eyes were drawn to the complete and utter lack of anything substantial on {PAWN_nameShortPossessive} chest. A voyeur finds only despair here.</li>
+            <li>It's a rare day when I feel truly repulsed by a naked form, but {PAWN_nameShortPossessive} tiny, ancient breasts manage it perfectly.</li>
+            <li>I secretly hoped for a glimpse of something, anything, but {PAWN_nameShortPossessive} chest offered only a depressing, withered flatness.</li>
+            <li>What a letdown. My voyeuristic instincts were completely unfulfilled by {PAWN_nameShortPossessive} sad, tiny, aged breasts.</li>
+            <li>I quickly averted my gaze. There was nothing to glean from {PAWN_nameShortPossessive} almost non-existent, ancient chest.</li>
+            <li>The way {PAWN_nameShortPossessive} chest just lay there, so flat and unmoving, was an insult to my desire to observe.</li>
+            <li>I couldn't help but shudder. {PAWN_nameShortPossessive} breasts were an utterly unstimulating, almost grotesque sight for my voyeur's eyes.</li>
+            <li>My curiosity died the moment I saw {PAWN_nameShortPossessive} chest. There was simply nothing to explore or appreciate, only decay.</li>
+            <li>For a moment, I wondered if I was even looking at a woman's chest. So incredibly flat and aged.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny, withered breasts are truly pathetic. Who would even bother to look? Certainly not me.</li>
+            <li>Seeing {PAWN_nameShortPossessive} flat, aged chest makes me question why {PAWN_pronoun} even bothers. There's nothing to show off.</li>
+            <li>I can't imagine anyone being impressed by {PAWN_nameShortPossessive} meager, ancient bust. It's almost embarrassing to witness.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so insignificant, they fade into the background of {PAWN_possessive} aged skin. A complete lack of presence.</li>
+            <li>What a waste of skin. {PAWN_nameShortPossessive} chest is devoid of any curves or allure that an exhibitionist appreciates.</li>
+            <li>{PAWN_nameShortPossessive} nipples are barely visible, just shriveled specs, making the whole display even more underwhelming.</li>
+            <li>There's nothing exciting about {PAWN_nameShortPossessive} flat, sagging chest. I yearn for something more substantial to observe.</li>
+            <li>I feel no desire to expose myself in front of someone with such a disappointing, aged physique. No challenge, no thrill.</li>
+            <li>My eyes just slide off {PAWN_nameShortPossessive} chest. There's simply nothing for an exhibitionist to appreciate or react to.</li>
+            <li>It's almost an insult to the art of exposure to witness {PAWN_nameShortPossessive} utterly flat and uninspired, ancient chest.</li>
+            <li>The absolute absence of any prominent form on {PAWN_nameShortPossessive} chest is disheartening. No visual reward at all.</li>
+            <li>I saw {PAWN_nameShortPossessive} chest, and my urge to exhibit instantly vanished. No one would even notice such a sad display.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so small, they offer no contrast or excitement for someone who loves to show off.</li>
+            <li>I wouldn't even consider {PAWN_nameShortPossessive} chest as a proper target for an exhibitionist's attention.</li>
+            <li>The jiggle factor is zero, the visual impact less than zero. {PAWN_nameShortPossessive} aged chest is a dud.</li>
+            <li>My eyes are drawn to what's *not* there on {PAWN_nameShortPossessive} chest. A truly uninspiring and depressing sight.</li>
+            <li>I wouldn't waste my time trying to impress anyone with {PAWN_nameShortPossessive} flat, withered chest. It's just sad.</li>
+            <li>{PAWN_nameShortPossessive} nipples are like tiny, shriveled pebbles, barely disturbing the smooth, papery surface of {PAWN_possessive} chest.</li>
+            <li>I'm left feeling utterly underwhelmed by {PAWN_nameShortPossessive} complete lack of voluptuousness, especially at {PAWN_pronoun}s advanced age.</li>
+            <li>The sight of {PAWN_nameShortPossessive} chest is so unexciting, it makes me want to put my clothes back on immediately.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>My desires dwindled the moment I saw {PAWN_nameShortPossessive} tiny, shriveled, insignificant breasts. Absolutely no appeal.</li>
+            <li>This sight does nothing to stir my passion. {PAWN_nameShortPossessive} flat, aged chest leaves me cold and utterly uninterested.</li>
+            <li>I need more! {PAWN_nameShortPossessive} meager, withered bust is a complete letdown, offering no stimulation whatsoever.</li>
+            <li>My body craves, but {PAWN_nameShortPossessive} tiny, deflated breasts offer no satisfaction. A total disappointment.</li>
+            <li>The lack of curves, the absence of fullness on {PAWN_nameShortPossessive} chest is profoundly irritating, especially at {PAWN_pronoun}s age.</li>
+            <li>Why even bother? {PAWN_nameShortPossessive} breasts are so small and shriveled, they offer no pleasure for my touch or sight.</li>
+            <li>I feel a wave of frustration wash over me. {PAWN_nameShortPossessive} chest is simply not enough to ignite my burning desires.</li>
+            <li>My eyes search for something, anything, more substantial to latch onto than {PAWN_nameShortPossessive} pathetic, barely-there nipples and flat chest.</li>
+            <li>It's almost a cruel joke. {PAWN_nameShortPossessive} breasts are a stark reminder of what's missing, completely and utterly.</li>
+            <li>My lust just… fizzled out. {PAWN_nameShortPossessive} tiny, uninspired, aged chest has that immediate effect.</li>
+            <li>The lack of flesh, the utter flatness of {PAWN_nameShortPossessive} chest is a turn-off beyond words, almost repulsive.</li>
+            <li>I wouldn't waste a moment on {PAWN_nameShortPossessive} chest. There's nothing there to satisfy my insatiable urges.</li>
+            <li>{PAWN_nameShortPossessive} breasts are like a desert – dry, barren, and completely uninviting. No pleasure to be found here.</li>
+            <li>My desires are powerful, but {PAWN_nameShortPossessive} chest simply doesn't meet the minimum requirements, especially for an older woman.</li>
+            <li>I felt a strong sense of dissatisfaction. {PAWN_nameShortPossessive} nipples are barely defined, the breasts barely existent, just skin.</li>
+            <li>This sight is truly disheartening. My urges demand more, much more, than {PAWN_nameShortPossessive} flat, aged chest can offer.</li>
+            <li>I don't understand how {PAWN_nameShort} can even call those breasts. They are so small, so shriveled, so unappealing.</li>
+            <li>The lack of fullness on {PAWN_nameShortPossessive} chest leaves me utterly uninspired and quite annoyed, bordering on disgusted.</li>
+            <li>My expectations were sky-high, but {PAWN_nameShortPossessive} tiny, aged breasts crashed them to the ground with a thud.</li>
+            <li>My gaze lingered, searching for some form, some hint of pleasure, but {PAWN_nameShortPossessive} chest was utterly devoid of anything.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale_observed_by_Prude</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>Even though they are small and withered, {PAWN_nameShortPossessive} exposed chest still makes me deeply uncomfortable. Keep it covered!</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny, aged breasts, however insignificant, is still utterly inappropriate. I wish I hadn't seen it.</li>
+            <li>My eyes involuntarily fell upon {PAWN_nameShortPossessive} chest. Even though they're tiny and saggy, it's an immodest display for someone {PAWN_pronoun}s age.</li>
+            <li>It's crude and unnecessary to display such things, regardless of how small and unappealing {PAWN_nameShortPossessive} breasts are now.</li>
+            <li>I looked away immediately, a strong sense of revulsion washing over me. {PAWN_nameShortPossessive} exposed chest, no matter how unremarkable, is utterly improper.</li>
+            <li>Such an unnecessary display. {PAWN_nameShortPossessive} flat, aged chest, while unappealing, still shouldn't be exposed for public view.</li>
+            <li>My face reddened with disgust. Even a glimpse of {PAWN_nameShortPossessive} barely-there, withered breasts is too much for my sensibilities.</li>
+            <li>I find it absolutely distasteful. {PAWN_nameShortPossessive} unadorned, shriveled nipples are unsettling, despite their tiny size.</li>
+            <li>Honestly, it's just plain repulsive. {PAWN_nameShortPossessive} chest is exposed, and there's absolutely nothing appealing or decent about it.</li>
+            <li>I feel a strong sense of profound disapproval. {PAWN_nameShortPossessive} tiny, aged breasts should remain hidden from all view.</li>
+            <li>The lack of shame is astounding. {PAWN_nameShortPossessive} small, withered breasts are still a private matter, not for display.</li>
+            <li>My sensibilities are deeply offended by {PAWN_nameShortPossessive} exposed chest, no matter how little there is left to see.</li>
+            <li>It's truly unbecoming for {PAWN_nameShort} to be displaying {PAWN_possessive} chest, even if it's flat and aged. Shameful.</li>
+            <li>I recoiled sharply. {PAWN_nameShortPossessive} tiny, ancient breasts were far more than I cared to witness or acknowledge.</li>
+            <li>The impropriety of the situation overwhelms me, despite {PAWN_nameShortPossessive} uninspiring, decayed form. It's horrifying.</li>
+            <li>I covered my eyes in despair. The sight of {PAWN_nameShortPossessive} chest, small and withered as it is, is utterly too much for me.</li>
+            <li>I wish {PAWN_nameShort} would cover up. Those tiny, ancient breasts are not meant for public display, ever.</li>
+            <li>My discomfort is evident and profound. {PAWN_nameShortPossessive} nipples, though small and shriveled, are still too exposed.</li>
+            <li>This is simply indecent and grotesque. {PAWN_nameShortPossessive} exposed, flat, and aged chest is an affront to all modesty.</li>
+            <li>I can't believe {PAWN_nameShort} is so casual about exposing {PAWN_possessive} tiny, pathetic breasts. It's truly shocking and disgusting.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale_observed_by_Young_male</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>Her breasts are so small and withered, it's almost laughable for someone {PAWN_pronoun}s extreme age. What a disappointment.</li>
+            <li>I barely even noticed {PAWN_nameShortPossessive} chest. There's just nothing there to catch a young man's eager eye, only decay.</li>
+            <li>Those aren't breasts, they're… shriveled bumps. {PAWN_nameShortPossessive} ancient chest is completely uninteresting and unsettling.</li>
+            <li>I was hoping for something, anything, but {PAWN_nameShortPossessive} flat, saggy chest left me utterly unimpressed and somewhat repulsed.</li>
+            <li>My gaze slid right over {PAWN_nameShortPossessive} chest. No curves, no fullness, just a dull, papery flatness and wrinkles.</li>
+            <li>It's a sad, grim sight. {PAWN_nameShortPossessive} tiny, aged breasts are nowhere near what I'd consider attractive or even decent.</li>
+            <li>Her nipples are like shriveled pinpricks. {PAWN_nameShortPossessive} chest is a barren, desolate landscape, utterly unstimulating.</li>
+            <li>I've seen more impressive hills on a decrepit colony map than on {PAWN_nameShortPossessive} chest. What a horror.</li>
+            <li>This is what 'elderly' means? {PAWN_nameShortPossessive} tiny, withered breasts are not what I had in mind for an older woman.</li>
+            <li>Frankly, it's a profound turn-off. {PAWN_nameShortPossessive} breasts are so underdeveloped and aged, it's frankly embarrassing.</li>
+            <li>I felt a pang of deep repulsion. {PAWN_nameShortPossessive} chest is so flat and shriveled, it's almost unsettling to look at.</li>
+            <li>No jiggle, no bounce, just a flat, sagging, uninspiring chest. {PAWN_nameShort} offers nothing of interest, only age.</li>
+            <li>I quickly looked away, my stomach churning. There was nothing appealing about {PAWN_nameShortPossessive} almost non-existent, aged breasts.</li>
+            <li>Her chest seems... completely deflated. {PAWN_nameShortPossessive} tiny breasts lack any sort of youthful vitality or mature grace.</li>
+            <li>It's a real shame, a tragedy. I was hoping for something more substantial than {PAWN_nameShortPossessive} pathetic excuse for breasts.</li>
+            <li>I find it hard to believe {PAWN_nameShort} is a woman with such a flat, withered chest. It's just not right.</li>
+            <li>My eyes are bored and a little sickened by the lack of any significant form on {PAWN_nameShortPossessive} chest.</li>
+            <li>I don't understand how anyone could find {PAWN_nameShortPossessive} tiny, ancient breasts attractive. Truly bewildering and disturbing.</li>
+            <li>It's like looking at a cracked, crumbling wall. {PAWN_nameShortPossessive} chest offers no curves or visual softness, only decay.</li>
+            <li>My interest immediately waned, turning into mild disgust. {PAWN_nameShortPossessive} breasts are too small and aged to be worth a second thought.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale_observed_by_Young_female</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>Even at {PAWN_nameShortPossessive} advanced age, those breasts are shockingly small and shriveled. Mine are more developed than that!</li>
+            <li>I hope my breasts never look that pathetic and aged. {PAWN_nameShortPossessive} chest is so flat, it's utterly disheartening.</li>
+            <li>She's so old, but {PAWN_possessive} breasts are tiny and withered. Makes me worry about my own terrifying future.</li>
+            <li>My eyes lingered, just to confirm. Yes, {PAWN_nameShortPossessive} ancient chest is as flat as a board and covered in wrinkles.</li>
+            <li>I felt a surge of grim superiority. My own youthful curves are far more impressive than {PAWN_nameShortPossessive} meager, decaying bust.</li>
+            <li>It’s almost embarrassing for {PAWN_nameShort} to be displaying such insignificant, aged breasts. A pathetic sight.</li>
+            <li>Her nipples are barely there, just shriveled specs. A truly uninspiring and disturbing sight for another woman.</li>
+            <li>I wouldn't wish such tiny, withered breasts on my worst enemy. {PAWN_nameShortPossessive} chest is a tragic, horrifying sight.</li>
+            <li>Makes me appreciate my own youthful figure even more. {PAWN_nameShortPossessive} breasts are a complete non-event, a flat wasteland.</li>
+            <li>Is that what happens as you truly age? Losing all shape and life? {PAWN_nameShortPossessive} chest is a terrifying warning.</li>
+            <li>I'm surprised {PAWN_nameShort} even has cleavage in anything. {PAWN_possessive} breasts are practically nonexistent and shriveled.</li>
+            <li>The complete lack of any significant curve or youth on {PAWN_nameShortPossessive} chest is quite shocking for someone {PAWN_pronoun}s extreme age.</li>
+            <li>I quickly looked away, feeling a mix of deep pity and strong discomfort at {PAWN_nameShortPossessive} flat, decaying chest.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so small and withered, I almost didn't notice them amidst the wrinkles. A true letdown.</li>
+            <li>I expected more from a woman {PAWN_possessive} age, even an elderly one. {PAWN_nameShortPossessive} chest is surprisingly underdeveloped and saggy.</li>
+            <li>It's a stark contrast to how a woman's body should look, even in old age. {PAWN_nameShortPossessive} chest is severely lacking.</li>
+            <li>I can't imagine having such small, aged breasts. {PAWN_nameShortPossessive} chest offers absolutely no shape or appeal.</li>
+            <li>My own breasts feel enormous and vibrant compared to {PAWN_nameShortPossessive}. It's almost comical and sad.</li>
+            <li>She looks so... diminished and frail. {PAWN_nameShortPossessive} tiny, shriveled breasts contribute to that withered, disturbing appearance.</li>
+            <li>The sight of {PAWN_nameShortPossessive} chest makes me grateful for what I have now. A truly unappealing and grim figure.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} breasts are practically nonexistent for someone {PAWN_pronoun}s extreme age. A significant, disheartening turn-off.</li>
+            <li>I've seen more development on a child's toy. {PAWN_nameShortPossessive} flat, withered chest is a huge disappointment, almost a desecration.</li>
+            <li>What a waste of what once might have been. {PAWN_nameShortPossessive} tiny, aged breasts offer absolutely no pleasure to the eye.</li>
+            <li>My expectations were certainly not met. {PAWN_nameShortPossessive} chest is a depressing, almost disturbing sight for an elderly woman.</li>
+            <li>The lack of firmness, the absence of any real shape on {PAWN_nameShortPossessive} breasts is frankly quite unappealing, almost grotesque.</li>
+            <li>I find it difficult to even acknowledge them as breasts. {PAWN_nameShortPossessive} chest is just… flat, saggy, and uninviting.</li>
+            <li>My gaze quickly moved away in disgust. There was nothing appealing about {PAWN_nameShortPossessive} shriveled nipples or the overall flatness.</li>
+            <li>It's a grim, unsettling reality check. {PAWN_nameShortPossessive} tiny, aged breasts offer no youthful bounce or even mature fullness.</li>
+            <li>A truly uninspiring and depressing figure. {PAWN_nameShortPossessive} chest offers no curves to appreciate, just an empty, withered expanse.</li>
+            <li>I feel a profound sense of disappointment, bordering on revulsion. {PAWN_nameShortPossessive} breasts are a pathetic sight for a woman {PAWN_pronoun}s years.</li>
+            <li>The sag and complete lack of substance on {PAWN_nameShortPossessive} chest makes me cringe deeply. Not what I look for at all.</li>
+            <li>I prefer a woman with some substance and life, but {PAWN_nameShortPossessive} chest offers only a flat, unyielding, aged surface.</li>
+            <li>Her breasts are so small and shriveled, they seem to recede into her body. Truly a disappointing and unsettling view.</li>
+            <li>It’s almost as if {PAWN_nameShort} has no breasts at all, just loose skin. A completely unstimulating sight.</li>
+            <li>I can't imagine finding any attraction in {PAWN_nameShortPossessive} almost invisible, withered breasts. What a bore, a true turn-off.</li>
+            <li>The sight of {PAWN_nameShortPossessive} nipples, tiny and unremarkable, just highlights the complete lack of form and vitality.</li>
+            <li>My interest plummeted the moment I saw {PAWN_nameShortPossessive} chest. There's nothing to hold my attention, only sadness.</li>
+            <li>{PAWN_nameShortPossessive} breasts are a sad testament to how some women's bodies just… fade and become grotesque with age.</li>
+            <li>I'm left feeling cold, repulsed, and uninspired by the complete absence of any appealing curves on {PAWN_nameShortPossessive} chest.</li>
+            <li>This is not what I expected from a woman of {PAWN_nameShortPossessive} age. Her chest is simply… lacking, and rather disturbing.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} breasts are barely there. A woman {PAWN_pronoun}s age should certainly have more to show than that withered flatness.</li>
+            <li>I looked at {PAWN_nameShortPossessive} chest and felt a pang of grim judgment. So flat, so shriveled, so utterly unfulfilled.</li>
+            <li>It's a poor, pathetic display for an elderly woman. {PAWN_nameShortPossessive} breasts are a sad, shriveled, almost horrifying sight.</li>
+            <li>My own breasts, despite my age, look far better and retain more form than {PAWN_nameShortPossessive} pathetic excuse for a chest.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts just cling to {PAWN_possessive} ribs, like empty sacks, is rather grim and unsettling. No fullness at all.</li>
+            <li>She clearly hasn't taken care of herself, or perhaps time has been unusually cruel. {PAWN_nameShortPossessive} tiny, sagging breasts are a testament to that.</li>
+            <li>I feel a bit disgusted and repulsed. {PAWN_nameShortPossessive} nipples are almost indistinguishable, the whole chest is a withered mess.</li>
+            <li>What a letdown, a complete and utter disappointment. I expected a woman {PAWN_pronoun}s age to have at least *some* form, not that.</li>
+            <li>My eyes slid over {PAWN_nameShortPossessive} chest, finding nothing noteworthy or admirable about {PAWN_possessive} aged, sagging figure.</li>
+            <li>It's almost shocking how underdeveloped and withered {PAWN_nameShortPossessive} breasts are for someone of our generation, even older.</li>
+            <li>I would be mortified if my breasts looked like {PAWN_nameShortPossessive}'s. So small, so utterly uninspiring, just loose skin.</li>
+            <li>The complete lack of any definition or curve on {PAWN_nameShortPossessive} chest is rather off-putting and quite depressing to witness.</li>
+            <li>A truly ungraceful and aged form. {PAWN_nameShortPossessive} tiny, shriveled breasts offer no beauty or allure, only a grim reality.</li>
+            <li>It's hard to believe {PAWN_nameShort} is even a woman with such an insignificant, withered bust. It defies logic.</li>
+            <li>Her chest seems almost concave and hollow. {PAWN_nameShortPossessive} breasts are practically nonexistent, just folds of skin.</li>
+            <li>I looked, and quickly looked away in dismay. There was nothing there that commanded respect or admiration, only pity.</li>
+            <li>The sheer flatness and hollowness of {PAWN_nameShortPossessive} chest is almost an affront. What a profound disappointment.</li>
+            <li>{PAWN_nameShortPossessive} nipples are barely visible, making the entire presentation even more pitiful and sad.</li>
+            <li>I pity {PAWN_nameShort}. {PAWN_possessive} breasts are a sad, stark example of a woman's declining, withered figure.</li>
+            <li>It makes me feel better about my own aging body, seeing {PAWN_nameShortPossessive} utter lack of curves and vitality.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale_observed_by_Elder_male</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>Even in her younger years, {PAWN_nameShortPossessive} breasts must have been meager. Now, they're truly pitiful and a little grotesque.</li>
+            <li>I've seen better forms on a scarecrow made of rags. {PAWN_nameShortPossessive} chest is an unappealing, flat, and shriveled expanse.</li>
+            <li>At {PAWN_pronoun}s age, I expected some... history. But {PAWN_nameShortPossessive} tiny, withered breasts suggest a barren, uninteresting past.</li>
+            <li>What a disappointment, a profound letdown. {PAWN_nameShortPossessive} breasts offer nothing of interest to an experienced, discerning eye.</li>
+            <li>The lack of any discernible shape, the mere suggestion of shriveled nipples on {PAWN_nameShortPossessive} chest is profoundly unstimulating and frankly disturbing.</li>
+            <li>My eyes lingered for a moment, then quickly dismissed {PAWN_possessive} chest as utterly uninteresting and unpleasant to behold.</li>
+            <li>It's a shame, a true tragedy. Even at this advanced age, some women retain their charm, but {PAWN_nameShortPossessive} breasts offer none.</li>
+            <li>I've seen more jiggle on a bowl of dry gruel. {PAWN_nameShortPossessive} chest is a flat, unyielding, and utterly lifeless board.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny, withered breasts reminds me of barren fields and wasted, decayed potential.</li>
+            <li>My interest in women's forms is extensive and varied, but {PAWN_nameShortPossessive} chest is a blank, ugly page.</li>
+            <li>{PAWN_nameShortPossessive} nipples are like shriveled, ancient berries, barely disturbing the papery, loose skin of {PAWN_possessive} chest.</li>
+            <li>It’s a stark reminder of the harsh, cruel passage of time, and not in a good way at all. {PAWN_nameShortPossessive} breasts are utterly withered.</li>
+            <li>I recall far better, more appealing figures from my youth. {PAWN_nameShortPossessive} chest offers no pleasant memories or present allure.</li>
+            <li>I feel a profound sense of disinterest, bordering on mild revulsion. {PAWN_nameShortPossessive} breasts are far too small and aged to be engaging.</li>
+            <li>The sheer emptiness and decay of {PAWN_nameShortPossessive} chest is quite off-putting. No softness, no allure, just a grim reality.</li>
+            <li>I'm old enough to know what I like, and {PAWN_nameShortPossessive} tiny, withered breasts are definitely not it. They are repulsive.</li>
+            <li>This sight is truly uninspiring and unsettling. {PAWN_nameShortPossessive} breasts are a sad, flat, and decaying canvas.</li>
+            <li>I've seen better-developed pectorals on a sickly young boy. {PAWN_nameShortPossessive} chest is a complete and utter joke.</li>
+            <li>My gaze dismissed {PAWN_nameShortPossessive} figure almost immediately. There was nothing there to appreciate, only decay and lack.</li>
+            <li>Such a meager, pathetic display. {PAWN_nameShortPossessive} breasts are a disappointment that even extreme age can't excuse.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Tiny_ElderFemale_observed_by_Elder_female</defName>
+        <label>Tiny Breasts (Negative)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <opinionTexts>
+            <li>Even for {PAWN_pronoun} extreme age, {PAWN_nameShortPossessive} breasts are shockingly small and shriveled. Mine were always more substantial, even now.</li>
+            <li>I felt a pang of grim superiority. My own aging chest holds far more form and dignity than {PAWN_nameShortPossessive} pathetic, withered display.</li>
+            <li>It's a sad, truly pathetic sight. {PAWN_nameShortPossessive} breasts are so tiny, they offer no comfort or visual appeal, just decay.</li>
+            <li>I remember when women had curves, even elderly ones. {PAWN_nameShortPossessive} flat, shriveled chest is a stark, depressing contrast to true femininity.</li>
+            <li>The way {PAWN_nameShortPossessive} breasts simply exist, without any fullness or grace, just hanging like empty sacks, is rather disappointing and unsettling.</li>
+            <li>{PAWN_nameShort} clearly didn't inherit much, or time has stolen everything. {PAWN_possessive} tiny, insignificant, withered breasts are a true shame and a disturbing sight.</li>
+            <li>I looked at {PAWN_nameShortPossessive} nipples, almost invisible and shriveled, and felt a wave of deep pity and a little disgust for {PAWN_objective}.</li>
+            <li>Makes me feel immensely better about my own aging body. {PAWN_nameShortPossessive} chest is a stark example of what *not* to be, a truly grim picture.</li>
+            <li>I expected a woman {PAWN_pronoun}s extreme age to have at least some dignity in her figure, but {PAWN_nameShort} has none, only decay.</li>
+            <li>The utter lack of any voluptuousness or form on {PAWN_nameShortPossessive} chest is rather unsettling to witness, almost nauseating.</li>
+            <li>My own breasts have seen better days, but {PAWN_nameShortPossessive} are just… pitiful and grotesque from the very start, utterly ruined.</li>
+            <li>It's a grim, horrifying reminder of how some women just don't develop, or how harsh time can be. {PAWN_nameShortPossessive} flat, withered chest is a terrifying testimony.</li>
+            <li>I can't imagine living with such a complete lack of form and vitality. {PAWN_nameShortPossessive} breasts are a true disservice and a sad sight.</li>
+            <li>The jiggle is non-existent, the shape is non-existent. {PAWN_nameShortPossessive} chest is a depressing, utterly lifeless sight.</li>
+            <li>I sighed inwardly with despair. What an uninspiring and disturbing figure. {PAWN_nameShortPossessive} tiny, aged breasts offer nothing to admire, only pity.</li>
+            <li>I remember a time when women were proud of their figures, even in old age. {PAWN_nameShortPossessive} chest would have been openly mocked and pitied.</li>
+            <li>Her nipples are so small and shriveled, they're almost inverted. The whole chest is just a flat, sagging, and utterly repulsive board.</li>
+            <li>It's truly a shame, a grotesque shame, to see such an elderly woman with such an underdeveloped, withered chest.</li>
+            <li>My eyes quickly moved on, filled with a sense of revulsion. There was nothing redeeming about {PAWN_nameShortPossessive} small, lifeless, and aged breasts.</li>
+            <li>I wouldn't wish such a figure on any woman, living or dead. {PAWN_nameShortPossessive} chest is a picture of anatomical sadness and decay.</li>
+        </opinionTexts>
+</Def>
+</Defs>

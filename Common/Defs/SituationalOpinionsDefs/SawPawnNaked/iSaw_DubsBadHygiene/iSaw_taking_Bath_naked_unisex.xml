@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_taking_Bath_naked_Unisex_PositiveDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iSaw_taking_Bath_naked_Unisex_Positive</defName>
+        <label>iSaw_taking_Bath_naked_Unisex_(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                
+				<requiredInteractionType>Bath</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I saw {OBSERVED_nameShort} taking a bath naked, and the serene atmosphere made {PAWN_possessive} body look ethereal.</li>
+			<li>The way {OBSERVED_nameShort} relaxed in the water was enchanting; I was drawn to the beauty of {PAWN_possessive} private parts trying to float to the surface.</li>
+			<li>Seeing {OBSERVED_nameShort} in the bath created a sense of intimacy; I felt privileged to witness all the holes.</li>
+			<li>I saw {OBSERVED_nameShort} taking a bath naked, and the way the water enveloped {PAWN_possessive} body created a serene and lustful scene.</li>
+			<li>Seeing {OBSERVED_nameShort} in the bath, completely relaxed and exposed, made me admire {PAWN_possessive} boldness; it was a captivating display of freedom.</li>
+			<li>The sight of {OBSERVED_nameShort} taking a bath naked was enchanting; the soft glow of the water against {PAWN_possessive} skin stirred a passionate longing in me.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_taking_Bath_naked_Unisex_NeutralDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iSaw_taking_Bath_naked_Unisex_Neutral</defName>
+        <label>iSaw_taking_Bath_naked_Unisex_(Neutral)</label>
+        <opinionCategory>Neutral</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                
+				<requiredInteractionType>Bath</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I saw {OBSERVED_nameShort} taking a bath naked; it was a surprising sight, but I didn’t feel strongly about it.</li>
+			<li>Meeting {OBSERVED_nameShort} in the bath, I noticed {PAWN_possessive} nakedness, yet it didn’t evoke much emotion.</li>
+			<li>Seeing {OBSERVED_nameShort} in the bath left me observing, some things realy float.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_taking_Bath_naked_Unisex_NegativeDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iSaw_taking_Bath_naked_Unisex_Negative</defName>
+        <label>iSaw_taking_Bath_naked_Unisex_(Negative)</label>
+        <opinionCategory>Negative</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                
+				<requiredInteractionType>Bath</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I saw {OBSERVED_nameShort} taking a bath naked, that things trying to float from watter deepths... ugh, felt discusted.</li>
+			<li>Meeting {OBSERVED_nameShort} unclothed in the bath was uncomfortable; I felt like I was invading {PAWN_possessive} space.</li>
+			<li>Seeing {OBSERVED_nameShort} naked in the bath left me feeling awkward; it was a situation I didn’t want to be part of.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+
+
+
+	
+</Defs>

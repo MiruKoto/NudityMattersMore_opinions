@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+	<!-- Female gives opinion about her flat chest, her nipples state, maybe areolas, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Nipples_Frustrated_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Nipples_Frustrated_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My flat chest, though modest, feels surprisingly sensitive, my nipples are acutely aware, yearning for release. A frustrated ache fills me, making their subtle presence intensely alluring.</li>
+            <li>Despite their small size, a powerful energy stirs within my breasts. My nipples are taut, begging for attention, and this unmet desire makes them feel intensely alive and significant.</li>
+            <li>These small breasts are surprisingly responsive, their sensitive nipples hardening with every frustrated throb. It’s a fiery reminder of the passion coiled within, waiting to burst forth.</li>
+            <li>A potent frustration heightens the awareness of my chest; these firm, compact breasts feel primed for intimate touch, their smallness enhancing their delicate, yet urgent, presence.</li>
+            <li>My petite breasts, though understated, are a canvas of suppressed desire. Their delicate form and sensitive nipples ache with a frustration that amplifies their allure, demanding satisfaction.</li>
+            <li>The quiet confidence of my flat chest belies the storm of frustration beneath. My nipples, sharp and yearning, broadcast a powerful need, making their smallness profoundly captivating.</li>
+            <li>Even with a flat chest, my nipples are highly reactive, tingling with a frustrated anticipation. They stand as a testament to an unfulfilled hunger, making me deeply appreciative of their sensitivity.</li>
+            <li>This compact chest, though not prominent, pulsates with a frustrated energy. My nipples are keenly alive, a focal point for the desire that intensifies their subtle beauty and appeal.</li>
+            <li>The subtle curves of my breasts, though small, are now acutely sensitive, their nipples hardened by a potent frustration. They feel exquisitely primed, a true testament to my intense longing.</li>
+            <li>A wave of desire electrifies my modest chest; these small breasts, with their awakened nipples, throb with an unmet need, asserting their surprising power and delicate perfection.</li>
+            <li>My flat chest feels surprisingly vibrant, the nipples intensely reactive to my frustrated state. It's a subtle beauty that burns with an internal fire, craving release.</li>
+            <li>The delicate shape of my breasts, though tiny, now feels imbued with a raw, frustrated energy. My nipples are acutely sensitive, betraying the intense longing within me.</li>
+            <li>Despite their size, my small breasts are charged with an undeniable tension, their nipples standing firm with unreleased desire. They perfectly embody my heated, frustrated mood.</li>
+            <li>My chest feels alive with a desperate need, the subtle swell of my breasts and their puckered nipples screaming silently. It’s a frustrating beauty, demanding immediate attention.</li>
+            <li>These flat breasts, far from unnoticed, now feel incredibly alluring, their hyper-aware nipples broadcasting my intense frustration. They are a powerful, intimate landscape.</li>
+            <li>A captivating tightness pervades my chest, as my small breasts respond with a frustrated alertness. Their sensitive tips are a constant reminder of the pleasures yet to come.</li>
+            <li>The precise form of my tiny breasts and their delicate nipples are an exquisite torment, throbbing with a frustrated intensity. They are a symbol of beautiful, unyielding desire.</li>
+            <li>My chest, though demure, feels exquisitely defined by the tension in my nipples, a direct result of my frustrated state. They are small wonders, alive with sensation.</li>
+            <li>The subtle contours of my breasts, with their exquisitely sensitive nipples, hum with a frustrated energy. They are a testament to their delightful potential, awaiting release.</li>
+            <li>I feel a potent connection to my flat chest; my nipples are now super-responsive, charged with my frustrated yearning, making them incredibly desirable and deeply felt.</li>
+            <li>A subtle allure emanates from my chest; these delicate breasts, with their pert nipples, vibrate with a frustrated energy, making them feel incredibly desirable despite their size.</li>
+            <li>My compact breasts, though not overtly large, are surprisingly responsive to my frustrated state, their nipples taut and inviting, a testament to their potent charm.</li>
+            <li>The modest swell of my chest feels powerfully charged, my nipples acutely sensitive and hardened by a frustrated desire, making their slight form intensely captivating.</li>
+            <li>My small breasts are a focal point of intense sensation, their nipples exquisitely reactive, throbbing with a frustration that magnifies their innate beauty and appeal.</li>
+            <li>A vibrant energy pulses through my flat chest, as my nipples become incredibly responsive, mirroring the depth of my frustrated yearning. Their very presence excites me.</li>
+            <li>These small breasts are perfectly formed, their nipples standing out with a frustrated alertness, indicating a readiness for touch. Their delicate beauty is undeniable.</li>
+            <li>The subtle curves of my chest, and the undeniable draw of my nipples, are amplified by my frustration. They are a promise of sensation, subtly yet powerfully alluring.</li>
+            <li>My tiny breasts feel incredibly alive, their sensitive nipples broadcasting a deep, frustrated longing. They are a testament to my inner fire, awaiting kindling.</li>
+            <li>A surprising power resides within my flat chest; my nipples are keenly aware, intensified by frustration, making their delicate form deeply intriguing and sensually charged.</li>
+            <li>My breasts, though modest, feel profoundly desirable, their nipples exquisitely reactive, pulsing with a frustrated need that enhances their subtle, yet undeniable, charm.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her tiny breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Tiny_Frustrated_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Tiny_Frustrated_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My tiny breasts, though small, throb with an intense, frustrated energy. Their delicate shape and highly sensitive nipples are eager for release, a beautiful torment.</li>
+            <li>A potent yearning makes these tiny breasts feel surprisingly full, their pert nipples standing out with an undeniable frustration. They are small wonders, vibrating with desire.</li>
+            <li>The delicate swell of my tiny breasts feels incredibly sensuous, their sensitive nipples aching with frustrated need. Their compact beauty is intensified by this potent longing.</li>
+            <li>These tiny breasts, perfectly cupped in my hands, are taut with a frustrated desire. Their firm shape and highly responsive nipples betray a hunger that demands to be fed.</li>
+            <li>My tiny breasts are a paradox of size and sensation; their delicate form and exquisite nipples are alight with a frustrated passion, amplifying their captivating charm.</li>
+            <li>A vibrant energy courses through my tiny breasts, making them feel wonderfully alive. Their perky shape and awakened nipples betray a frustrated longing, compelling me to seek release.</li>
+            <li>The subtle contours of my tiny breasts are a map of frustrated desire. Their delicate curves and intensely sensitive nipples are a constant, thrilling reminder of what I crave.</li>
+            <li>My tiny breasts feel exquisitely tender, their shape perfectly suited for a lover's touch. A deep frustration makes their sensitive nipples ache, amplifying their allure.</li>
+            <li>These tiny breasts, though modest, possess a surprising weight of frustrated desire. Their compact form and highly responsive nipples are a source of delightful, urgent sensation.</li>
+            <li>The firmness of my tiny breasts is a testament to my burning frustration. Their neat shape and intensely responsive nipples are a beautiful, aching invitation.</li>
+            <li>My tiny breasts feel exceptionally full, almost swollen with unreleased tension. Their perfectly formed shape and exquisitely sensitive nipples throb with frustrated longing.</li>
+            <li>A delightful warmth emanates from my tiny breasts, their delicate curves and hardened nipples betraying an intense, frustrated desire. They are a potent, beautiful secret.</li>
+            <li>These tiny breasts, though small, are incredibly reactive, their shape becoming more pronounced with every frustrated heartbeat. Their nipples are acutely aware, yearning.</li>
+            <li>The subtle beauty of my tiny breasts is amplified by this potent frustration. Their perfect shape and exquisitely sensitive nipples hum with an undeniable, urgent appeal.</li>
+            <li>My tiny breasts are a focal point of sensation, their small, firm shape and highly sensitive nipples radiating a desperate, frustrated need. They feel wonderfully alive.</li>
+            <li>A powerful yearning makes my tiny breasts feel taut and full. Their delicate shape and perky nipples are bursting with frustrated energy, demanding intimate attention.</li>
+            <li>The perfect symmetry of my tiny breasts, coupled with their exquisitely sensitive nipples, pulses with unfulfilled desire. They are a constant, beautiful reminder of my frustration.</li>
+            <li>My tiny breasts, so unassuming, now feel exquisitely alive, their delicate shape and hardened nipples broadcasting a potent, frustrated hunger. They are a delightful torment.</li>
+            <li>These tiny breasts, seemingly small, hold a vast reservoir of frustrated passion. Their neat form and highly reactive nipples are a beautiful, aching testament to my need.</li>
+            <li>The gentle curves of my tiny breasts feel incredibly alluring, their sensitive nipples begging for touch. This deep frustration makes their delicate beauty intensely compelling.</li>
+            <li>My tiny breasts feel charged with a delightful tension, their shape perfect, and nipples incredibly responsive. They are a small but mighty source of frustrated desire.</li>
+            <li>A subtle yet intense throbbing emanates from my tiny breasts, their delicate form and exquisitely sensitive nipples aching with a beautiful, frustrated longing.</li>
+            <li>These tiny breasts are a vivid landscape of sensation, their small, firm curves and taut nipples reacting powerfully to my frustrated state. They are utterly captivating.</li>
+            <li>The perfection of my tiny breasts and their sensitive nipples are heightened by this frustration. They feel incredibly full and ready, a testament to their hidden power.</li>
+            <li>My tiny breasts, though modest, are humming with a vibrant, frustrated energy. Their delicate shape and responsive nipples are a beautiful, urgent plea for release.</li>
+            <li>A wave of desire makes my tiny breasts feel taut and expectant. Their neat shape and exquisitely sensitive nipples are a testament to their potent, frustrated allure.</li>
+            <li>The subtle swell of my tiny breasts feels incredibly inviting, their nipples hardened by a burning frustration. They are a small but powerful beacon of my deep need.</li>
+            <li>My tiny breasts, with their elegant shape and supremely sensitive nipples, are a constant, delightful ache. They throb with a frustrated longing, making them intensely beautiful.</li>
+            <li>These tiny breasts are surprisingly heavy with frustrated desire, their perfect shape and highly reactive nipples radiating an undeniable urgency. They are truly captivating.</li>
+            <li>A profound yearning fills my tiny breasts, making their delicate form and exquisitely sensitive nipples feel incredibly alive. They are a beautiful, frustrating masterpiece.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her small breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Small_Frustrated_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Small_Frustrated_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My small breasts, perfectly shaped, feel exquisitely full, their sensitive nipples rigid with frustrated desire. Their firmness and gentle bounce are a thrilling torment.</li>
+            <li>A delicious tension fills my small breasts, their perky shape and exquisitely sensitive nipples throbbing with unreleased energy. This frustrated mood amplifies their undeniable charm.</li>
+            <li>These small breasts are surprisingly responsive, their delightful shape and reactive nipples betraying a deep, frustrated longing. Their subtle jiggle feels incredibly arousing.</li>
+            <li>The tautness of my small breasts is a direct result of my burning frustration. Their appealing shape and hardened nipples invite touch, making them feel vibrant and desirable.</li>
+            <li>My small breasts, a perfect handful, are vibrating with an urgent, frustrated need. Their graceful curves and incredibly sensitive nipples are a constant, beautiful reminder.</li>
+            <li>A potent desire makes these small breasts feel wonderfully substantial, their shape appealing, and nipples intensely aware. Their eager behavior perfectly reflects my frustrated state.</li>
+            <li>The smooth swell of my small breasts, with their exquisitely sensitive nipples, aches with a frustrated longing. Their firm yet supple feel is utterly captivating.</li>
+            <li>These small breasts, so beautifully proportioned, feel deliciously heavy with unfulfilled passion. Their perfect shape and highly responsive nipples are a tantalizing promise.</li>
+            <li>My small breasts are alive with sensation, their appealing shape and highly reactive nipples broadcasting a powerful, frustrated energy. Their gentle movement excites me deeply.</li>
+            <li>A delightful ache permeates my small breasts, their firm shape and exquisitely sensitive nipples pulsating with an undeniable frustration. They are a source of profound pleasure.</li>
+            <li>My small breasts feel wonderfully perky, their shape captivating, and nipples acutely sensitive to my frustrated state. Their delicate bounce is incredibly stimulating.</li>
+            <li>A surge of frustrated desire makes these small breasts feel fuller, their appealing shape and taut nipples an urgent invitation. Their slight jiggle is a delightful tease.</li>
+            <li>The exquisite sensitivity of my small breasts, combined with their perfect shape, amplifies my frustration. Their hardened nipples beg for attention, a beautiful torment.</li>
+            <li>My small breasts are a testament to contained power, their firm shape and incredibly responsive nipples radiating a desperate, frustrated need. They feel wonderfully alive.</li>
+            <li>These small breasts, with their alluring shape and exquisitely sensitive nipples, throb with unfulfilled passion. Their subtle movement is a constant, delightful reminder.</li>
+            <li>A compelling tension resides in my small breasts, their appealing shape and eager nipples betraying my deep frustration. Their slight bounce feels incredibly inviting.</li>
+            <li>The delicate yet firm structure of my small breasts, and their intensely reactive nipples, are a beautiful expression of my frustrated state. They are perfectly formed.</li>
+            <li>My small breasts feel incredibly desirable, their shape captivating, and sensitive nipples aching with a beautiful, frustrated longing. Their presence is a profound pleasure.</li>
+            <li>These small breasts are perfectly weighted, their appealing shape and exquisitely sensitive nipples humming with a vibrant, frustrated energy. Their movements are utterly mesmerizing.</li>
+            <li>A deep, frustrated hunger makes my small breasts feel taut and full, their shape enticing, and nipples highly responsive. They are a beautiful promise of release.</li>
+            <li>My small breasts feel gloriously alive, their appealing shape and exquisitely sensitive nipples throbbing with an intense, frustrated need. Their subtle jiggle is a constant delight.</li>
+            <li>The alluring shape of my small breasts, and the undeniable pull of their nipples, are amplified by my frustration. They are a captivating landscape of desire.</li>
+            <li>These small breasts, though not overtly large, possess an incredible power, their firm shape and highly reactive nipples betraying a profound, frustrated longing.</li>
+            <li>A delightful firmness pervades my small breasts, their shape exquisite, and nipples keenly aware, all intensified by my frustrated state. They are truly captivating.</li>
+            <li>My small breasts are a vibrant canvas of sensation, their beautiful shape and exquisitely sensitive nipples radiating a burning, frustrated energy. They are utterly irresistible.</li>
+            <li>The perfect contours of my small breasts feel incredibly sensuous, their responsive nipples hardened by a delicious frustration. Their gentle jiggle is a constant, alluring tease.</li>
+            <li>These small breasts, perfectly proportioned, feel exquisitely desirable, their appealing shape and taut nipples buzzing with unfulfilled passion. They are a beautiful torment.</li>
+            <li>A potent yearning makes my small breasts feel incredibly full, their shape alluring, and nipples intensely responsive to my frustrated mood. Their very presence excites me.</li>
+            <li>My small breasts feel exquisitely primed, their beautiful shape and exquisitely sensitive nipples aching with a deep, frustrated longing. Their subtle movements are incredibly arousing.</li>
+            <li>The undeniable charm of my small breasts, with their captivating shape and highly reactive nipples, is magnified by this frustration. They are a constant source of delight.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her average breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood, maybe jigliness and breasts response to it -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Average_Frustrated_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Average_Frustrated_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My average breasts feel incredibly full, their luscious shape and exquisitely sensitive nipples throbbing with frustrated desire. Their delightful jiggle is a sensual torment.</li>
+            <li>A delicious weight fills my average breasts, their perfect shape and highly responsive nipples aching with unreleased energy. Their enticing bounce perfectly mirrors my frustrated mood.</li>
+            <li>These average breasts are surprisingly eager, their alluring shape and reactive nipples betraying a deep, frustrated longing. Their substantial jiggle feels incredibly arousing.</li>
+            <li>The firm fullness of my average breasts is a testament to my burning frustration. Their appealing shape and hardened nipples invite passionate touch, making them vibrant and desirable.</li>
+            <li>My average breasts, a perfect fit in my palms, are vibrating with an urgent, frustrated need. Their graceful curves and incredibly sensitive nipples are a constant, beautiful reminder.</li>
+            <li>A potent desire makes these average breasts feel wonderfully substantial, their shape alluring, and nipples intensely aware. Their eager, playful jiggle reflects my frustrated state.</li>
+            <li>The smooth, generous swell of my average breasts, with their exquisitely sensitive nipples, aches with a frustrated longing. Their firm yet supple feel is utterly captivating.</li>
+            <li>These average breasts, so beautifully proportioned, feel deliciously heavy with unfulfilled passion. Their perfect shape and highly responsive nipples are a tantalizing promise.</li>
+            <li>My average breasts are alive with sensation, their appealing shape and highly reactive nipples broadcasting a powerful, frustrated energy. Their generous movement excites me deeply.</li>
+            <li>A delightful ache permeates my average breasts, their full shape and exquisitely sensitive nipples pulsating with an undeniable frustration. They are a source of profound pleasure.</li>
+            <li>My average breasts feel wonderfully perky, their shape captivating, and nipples acutely sensitive to my frustrated state. Their delightful bounce is incredibly stimulating.</li>
+            <li>A surge of frustrated desire makes these average breasts feel fuller, their appealing shape and taut nipples an urgent invitation. Their lively jiggle is a delightful tease.</li>
+            <li>The exquisite sensitivity of my average breasts, combined with their perfect shape, amplifies my frustration. Their hardened nipples beg for attention, a beautiful torment.</li>
+            <li>My average breasts are a testament to contained power, their firm shape and incredibly responsive nipples radiating a desperate, frustrated need. They feel wonderfully alive.</li>
+            <li>These average breasts, with their alluring shape and exquisitely sensitive nipples, throb with unfulfilled passion. Their abundant movement is a constant, delightful reminder.</li>
+            <li>A compelling tension resides in my average breasts, their appealing shape and eager nipples betraying my deep frustration. Their lively bounce feels incredibly inviting.</li>
+            <li>The delicate yet firm structure of my average breasts, and their intensely reactive nipples, are a beautiful expression of my frustrated state. They are perfectly formed.</li>
+            <li>My average breasts feel incredibly desirable, their shape captivating, and sensitive nipples aching with a beautiful, frustrated longing. Their presence is a profound pleasure.</li>
+            <li>These average breasts are perfectly weighted, their appealing shape and exquisitely sensitive nipples humming with a vibrant, frustrated energy. Their movements are utterly mesmerizing.</li>
+            <li>A deep, frustrated hunger makes my average breasts feel taut and full, their shape enticing, and nipples highly responsive. They are a beautiful promise of release.</li>
+            <li>My average breasts feel gloriously alive, their appealing shape and exquisitely sensitive nipples throbbing with an intense, frustrated need. Their sensual jiggle is a constant delight.</li>
+            <li>The alluring shape of my average breasts, and the undeniable pull of their nipples, are amplified by my frustration. They are a captivating landscape of desire.</li>
+            <li>These average breasts, though not overly large, possess an incredible power, their firm shape and highly reactive nipples betraying a profound, frustrated longing.</li>
+            <li>A delightful firmness pervades my average breasts, their shape exquisite, and nipples keenly aware, all intensified by my frustrated state. They are truly captivating.</li>
+            <li>My average breasts are a vibrant canvas of sensation, their beautiful shape and exquisitely sensitive nipples radiating a burning, frustrated energy. They are utterly irresistible.</li>
+            <li>The perfect contours of my average breasts feel incredibly sensuous, their responsive nipples hardened by a delicious frustration. Their sensual jiggle is a constant, alluring tease.</li>
+            <li>These average breasts, perfectly proportioned, feel exquisitely desirable, their appealing shape and taut nipples buzzing with unfulfilled passion. They are a beautiful torment.</li>
+            <li>A potent yearning makes my average breasts feel incredibly full, their shape alluring, and nipples intensely responsive to my frustrated mood. Their very presence excites me.</li>
+            <li>My average breasts feel exquisitely primed, their beautiful shape and exquisitely sensitive nipples aching with a deep, frustrated longing. Their subtle movements are incredibly arousing.</li>
+            <li>The undeniable charm of my average breasts, with their captivating shape and highly reactive nipples, is magnified by this frustration. They are a constant source of delight.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her Large breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood, maybe jigliness and breasts response to it -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Large_Frustrated_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Large_Frustrated_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My large breasts, gloriously ample, feel incredibly full, their generous shape and exquisitely sensitive nipples throbbing with frustrated desire. Their magnificent jiggle is a sensual torment.</li>
+            <li>A delicious, heavy weight fills my large breasts, their perfect, abundant shape and highly responsive nipples aching with unreleased energy. Their enticing bounce perfectly mirrors my frustrated mood.</li>
+            <li>These large breasts are surprisingly eager, their voluptuous shape and reactive nipples betraying a deep, frustrated longing. Their substantial, alluring jiggle feels incredibly arousing.</li>
+            <li>The firm fullness of my large breasts is a testament to my burning frustration. Their appealing, abundant shape and hardened nipples invite passionate touch, making them vibrant and desirable.</li>
+            <li>My large breasts, a perfect armful, are vibrating with an urgent, frustrated need. Their graceful, generous curves and incredibly sensitive nipples are a constant, beautiful reminder.</li>
+            <li>A potent desire makes these large breasts feel wonderfully substantial, their shape alluring, and nipples intensely aware. Their eager, playful jiggle reflects my frustrated state with delightful abandon.</li>
+            <li>The smooth, generous swell of my large breasts, with their exquisitely sensitive nipples, aches with a frustrated longing. Their firm yet supple feel is utterly captivating.</li>
+            <li>These large breasts, so beautifully proportioned, feel deliciously heavy with unfulfilled passion. Their perfect, abundant shape and highly responsive nipples are a tantalizing promise of satisfaction.</li>
+            <li>My large breasts are alive with sensation, their appealing, ample shape and highly reactive nipples broadcasting a powerful, frustrated energy. Their abundant movement excites me deeply.</li>
+            <li>A delightful ache permeates my large breasts, their full, rounded shape and exquisitely sensitive nipples pulsating with an undeniable frustration. They are a source of profound pleasure.</li>
+            <li>My large breasts feel wonderfully perky, their shape captivating, and nipples acutely sensitive to my frustrated state. Their delightful, bouncing jiggle is incredibly stimulating.</li>
+            <li>A surge of frustrated desire makes these large breasts feel even fuller, their appealing, weighty shape and taut nipples an urgent invitation. Their lively jiggle is a delightful tease.</li>
+            <li>The exquisite sensitivity of my large breasts, combined with their perfect, ample shape, amplifies my frustration. Their hardened nipples beg for attention, a beautiful torment.</li>
+            <li>My large breasts are a testament to contained power, their firm, weighty shape and incredibly responsive nipples radiating a desperate, frustrated need. They feel wonderfully alive.</li>
+            <li>These large breasts, with their alluring, generous shape and exquisitely sensitive nipples, throb with unfulfilled passion. Their abundant, sensual movement is a constant, delightful reminder.</li>
+            <li>A compelling tension resides in my large breasts, their appealing, full shape and eager nipples betraying my deep frustration. Their lively bounce feels incredibly inviting.</li>
+            <li>The delicate yet firm structure of my large breasts, and their intensely reactive nipples, are a beautiful expression of my frustrated state. They are perfectly formed, a generous bounty.</li>
+            <li>My large breasts feel incredibly desirable, their shape captivating, and sensitive nipples aching with a beautiful, frustrated longing. Their impressive presence is a profound pleasure.</li>
+            <li>These large breasts are perfectly weighted, their appealing, substantial shape and exquisitely sensitive nipples humming with a vibrant, frustrated energy. Their movements are utterly mesmerizing.</li>
+            <li>A deep, frustrated hunger makes my large breasts feel taut and full, their shape enticing, and nipples highly responsive. They are a beautiful promise of abundant release.</li>
+            <li>My large breasts feel gloriously alive, their appealing, rounded shape and exquisitely sensitive nipples throbbing with an intense, frustrated need. Their sensual jiggle is a constant delight.</li>
+            <li>The alluring shape of my large breasts, and the undeniable pull of their nipples, are amplified by my frustration. They are a captivating, bountiful landscape of desire.</li>
+            <li>These large breasts, undeniably impressive, possess an incredible power, their firm, weighty shape and highly reactive nipples betraying a profound, frustrated longing.</li>
+            <li>A delightful firmness pervades my large breasts, their shape exquisite, and nipples keenly aware, all intensified by my frustrated state. They are truly captivating in their generosity.</li>
+            <li>My large breasts are a vibrant canvas of sensation, their beautiful, ample shape and exquisitely sensitive nipples radiating a burning, frustrated energy. They are utterly irresistible.</li>
+            <li>The perfect contours of my large breasts feel incredibly sensuous, their responsive nipples hardened by a delicious frustration. Their sensual jiggle is a constant, alluring tease.</li>
+            <li>These large breasts, perfectly proportioned, feel exquisitely desirable, their appealing, full shape and taut nipples buzzing with unfulfilled passion. They are a beautiful torment.</li>
+            <li>A potent yearning makes my large breasts feel incredibly full, their shape alluring, and nipples intensely responsive to my frustrated mood. Their very presence excites me deeply.</li>
+            <li>My large breasts feel exquisitely primed, their beautiful, generous shape and exquisitely sensitive nipples aching with a deep, frustrated longing. Their subtle movements are incredibly arousing.</li>
+            <li>The undeniable charm of my large breasts, with their captivating shape and highly reactive nipples, is magnified by this frustration. They are a constant source of delightful, ample pleasure.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her huge breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood, maybe jigliness and breasts response to it -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Huge_Frustrated_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Huge_Frustrated_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My huge breasts, undeniably magnificent, feel incredibly full, their voluminous shape and exquisitely sensitive nipples throbbing with frustrated desire. Their spectacular jiggle is a sensual torment.</li>
+            <li>A delicious, immense weight fills my huge breasts, their perfect, abundant shape and highly responsive nipples aching with unreleased energy. Their enticing bounce perfectly mirrors my frustrated mood.</li>
+            <li>These huge breasts are surprisingly eager, their voluptuous, overflowing shape and reactive nipples betraying a deep, frustrated longing. Their substantial, alluring jiggle feels incredibly arousing.</li>
+            <li>The firm fullness of my huge breasts is a testament to my burning frustration. Their appealing, abundant shape and hardened nipples invite passionate touch, making them vibrant and desirable.</li>
+            <li>My huge breasts, a glorious armful, are vibrating with an urgent, frustrated need. Their graceful, generous curves and incredibly sensitive nipples are a constant, beautiful reminder.</li>
+            <li>A potent desire makes these huge breasts feel wonderfully substantial, their shape alluring, and nipples intensely aware. Their eager, playful jiggle reflects my frustrated state with delightful abandon.</li>
+            <li>The smooth, generous swell of my huge breasts, with their exquisitely sensitive nipples, aches with a frustrated longing. Their firm yet supple feel is utterly captivating.</li>
+            <li>These huge breasts, so beautifully proportioned, feel deliciously heavy with unfulfilled passion. Their perfect, abundant shape and highly responsive nipples are a tantalizing promise of satisfaction.</li>
+            <li>My huge breasts are alive with sensation, their appealing, ample shape and highly reactive nipples broadcasting a powerful, frustrated energy. Their abundant movement excites me deeply.</li>
+            <li>A delightful ache permeates my huge breasts, their full, rounded shape and exquisitely sensitive nipples pulsating with an undeniable frustration. They are a source of profound pleasure.</li>
+            <li>My huge breasts feel wonderfully perky, their shape captivating, and nipples acutely sensitive to my frustrated state. Their delightful, bouncing jiggle is incredibly stimulating.</li>
+            <li>A surge of frustrated desire makes these huge breasts feel even fuller, their appealing, weighty shape and taut nipples an urgent invitation. Their lively jiggle is a delightful tease.</li>
+            <li>The exquisite sensitivity of my huge breasts, combined with their perfect, ample shape, amplifies my frustration. Their hardened nipples beg for attention, a beautiful torment.</li>
+            <li>My huge breasts are a testament to contained power, their firm, weighty shape and incredibly responsive nipples radiating a desperate, frustrated need. They feel wonderfully alive.</li>
+            <li>These huge breasts, with their alluring, generous shape and exquisitely sensitive nipples, throb with unfulfilled passion. Their abundant, sensual movement is a constant, delightful reminder.</li>
+            <li>A compelling tension resides in my huge breasts, their appealing, full shape and eager nipples betraying my deep frustration. Their lively bounce feels incredibly inviting.</li>
+            <li>The delicate yet firm structure of my huge breasts, and their intensely reactive nipples, are a beautiful expression of my frustrated state. They are perfectly formed, a generous bounty.</li>
+            <li>My huge breasts feel incredibly desirable, their shape captivating, and sensitive nipples aching with a beautiful, frustrated longing. Their impressive presence is a profound pleasure.</li>
+            <li>These huge breasts are perfectly weighted, their appealing, substantial shape and exquisitely sensitive nipples humming with a vibrant, frustrated energy. Their movements are utterly mesmerizing.</li>
+            <li>A deep, frustrated hunger makes my huge breasts feel taut and full, their shape enticing, and nipples highly responsive. They are a beautiful promise of abundant release.</li>
+            <li>My huge breasts feel gloriously alive, their appealing, rounded shape and exquisitely sensitive nipples throbbing with an intense, frustrated need. Their sensual jiggle is a constant delight.</li>
+            <li>The alluring shape of my huge breasts, and the undeniable pull of their nipples, are amplified by my frustration. They are a captivating, bountiful landscape of desire.</li>
+            <li>These huge breasts, undeniably impressive, possess an incredible power, their firm, weighty shape and highly reactive nipples betraying a profound, frustrated longing.</li>
+            <li>A delightful firmness pervades my huge breasts, their shape exquisite, and nipples keenly aware, all intensified by my frustrated state. They are truly captivating in their generosity.</li>
+            <li>My huge breasts are a vibrant canvas of sensation, their beautiful, ample shape and exquisitely sensitive nipples radiating a burning, frustrated energy. They are utterly irresistible.</li>
+            <li>The perfect contours of my huge breasts feel incredibly sensuous, their responsive nipples hardened by a delicious frustration. Their sensual jiggle is a constant, alluring tease.</li>
+            <li>These huge breasts, perfectly proportioned, feel exquisitely desirable, their appealing, full shape and taut nipples buzzing with unfulfilled passion. They are a beautiful torment.</li>
+            <li>A potent yearning makes my huge breasts feel incredibly full, their shape alluring, and nipples intensely responsive to my frustrated mood. Their very presence excites me deeply.</li>
+            <li>My huge breasts feel exquisitely primed, their beautiful, generous shape and exquisitely sensitive nipples aching with a deep, frustrated longing. Their subtle movements are incredibly arousing.</li>
+            <li>The undeniable charm of my huge breasts, with their captivating shape and highly reactive nipples, is magnified by this frustration. They are a constant source of delightful, ample pleasure.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her enormous breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood, maybe jigliness and breasts response to it -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Enormous_Frustrated_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Enormous_Frustrated_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My enormous breasts, a truly impressive sight, feel incredibly full, their colossal shape and exquisitely sensitive nipples throbbing with frustrated desire. Their seismic jiggle is a sensual torment.</li>
+            <li>A delicious, overwhelming weight fills my enormous breasts, their perfect, boundless shape and highly responsive nipples aching with unreleased energy. Their enticing bounce perfectly mirrors my frustrated mood.</li>
+            <li>These enormous breasts are surprisingly eager, their opulent, overflowing shape and reactive nipples betraying a deep, frustrated longing. Their substantial, alluring jiggle feels incredibly arousing.</li>
+            <li>The firm fullness of my enormous breasts is a testament to my burning frustration. Their appealing, abundant shape and hardened nipples invite passionate touch, making them vibrant and desirable.</li>
+            <li>My enormous breasts, a glorious, overflowing armful, are vibrating with an urgent, frustrated need. Their graceful, generous curves and incredibly sensitive nipples are a constant, beautiful reminder.</li>
+            <li>A potent desire makes these enormous breasts feel wonderfully substantial, their shape alluring, and nipples intensely aware. Their eager, playful jiggle reflects my frustrated state with delightful abandon.</li>
+            <li>The smooth, generous swell of my enormous breasts, with their exquisitely sensitive nipples, aches with a frustrated longing. Their firm yet supple feel is utterly captivating.</li>
+            <li>These enormous breasts, so beautifully proportioned, feel deliciously heavy with unfulfilled passion. Their perfect, abundant shape and highly responsive nipples are a tantalizing promise of satisfaction.</li>
+            <li>My enormous breasts are alive with sensation, their appealing, ample shape and highly reactive nipples broadcasting a powerful, frustrated energy. Their abundant movement excites me deeply.</li>
+            <li>A delightful ache permeates my enormous breasts, their full, rounded shape and exquisitely sensitive nipples pulsating with an undeniable frustration. They are a source of profound pleasure.</li>
+            <li>My enormous breasts feel wonderfully perky, their shape captivating, and nipples acutely sensitive to my frustrated state. Their delightful, bouncing jiggle is incredibly stimulating.</li>
+            <li>A surge of frustrated desire makes these enormous breasts feel even fuller, their appealing, weighty shape and taut nipples an urgent invitation. Their lively jiggle is a delightful tease.</li>
+            <li>The exquisite sensitivity of my enormous breasts, combined with their perfect, ample shape, amplifies my frustration. Their hardened nipples beg for attention, a beautiful torment.</li>
+            <li>My enormous breasts are a testament to contained power, their firm, weighty shape and incredibly responsive nipples radiating a desperate, frustrated need. They feel wonderfully alive.</li>
+            <li>These enormous breasts, with their alluring, generous shape and exquisitely sensitive nipples, throb with unfulfilled passion. Their abundant, sensual movement is a constant, delightful reminder.</li>
+            <li>A compelling tension resides in my enormous breasts, their appealing, full shape and eager nipples betraying my deep frustration. Their lively bounce feels incredibly inviting.</li>
+            <li>The delicate yet firm structure of my enormous breasts, and their intensely reactive nipples, are a beautiful expression of my frustrated state. They are perfectly formed, a generous bounty.</li>
+            <li>My enormous breasts feel incredibly desirable, their shape captivating, and sensitive nipples aching with a beautiful, frustrated longing. Their impressive presence is a profound pleasure.</li>
+            <li>These enormous breasts are perfectly weighted, their appealing, substantial shape and exquisitely sensitive nipples humming with a vibrant, frustrated energy. Their movements are utterly mesmerizing.</li>
+            <li>A deep, frustrated hunger makes my enormous breasts feel taut and full, their shape enticing, and nipples highly responsive. They are a beautiful promise of abundant release.</li>
+            <li>My enormous breasts feel gloriously alive, their appealing, rounded shape and exquisitely sensitive nipples throbbing with an intense, frustrated need. Their sensual jiggle is a constant delight.</li>
+            <li>The alluring shape of my enormous breasts, and the undeniable pull of their nipples, are amplified by my frustration. They are a captivating, bountiful landscape of desire.</li>
+            <li>These enormous breasts, undeniably impressive, possess an incredible power, their firm, weighty shape and highly reactive nipples betraying a profound, frustrated longing.</li>
+            <li>A delightful firmness pervades my enormous breasts, their shape exquisite, and nipples keenly aware, all intensified by my frustrated state. They are truly captivating in their generosity.</li>
+            <li>My enormous breasts are a vibrant canvas of sensation, their beautiful, ample shape and exquisitely sensitive nipples radiating a burning, frustrated energy. They are utterly irresistible.</li>
+            <li>The perfect contours of my enormous breasts feel incredibly sensuous, their responsive nipples hardened by a delicious frustration. Their sensual jiggle is a constant, alluring tease.</li>
+            <li>These enormous breasts, perfectly proportioned, feel exquisitely desirable, their appealing, full shape and taut nipples buzzing with unfulfilled passion. They are a beautiful torment.</li>
+            <li>A potent yearning makes my enormous breasts feel incredibly full, their shape alluring, and nipples intensely responsive to my frustrated mood. Their very presence excites me deeply.</li>
+            <li>My enormous breasts feel exquisitely primed, their beautiful, generous shape and exquisitely sensitive nipples aching with a deep, frustrated longing. Their subtle movements are incredibly arousing.</li>
+            <li>The undeniable charm of my enormous breasts, with their captivating shape and highly reactive nipples, is magnified by this frustration. They are a constant source of delightful, ample pleasure.</li>
+        </opinionTexts>
+    </Def>
+</Defs>

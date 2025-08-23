@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale</defName>
+        <label>Huge Breasts (Negative)_MatureFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, sagging breasts swung wildly, looking like tired sacks with dark, flat nipples. A truly unappealing sight.</li>
+            <li>The immense, pendulous mass of {PAWN_nameShortPossessive} chest was a vulgar display, an affront to decency.</li>
+            <li>{PAWN_nameShortPossessive} colossal breasts jiggled with every step, the areolas stretched thin, proclaiming a life past its prime.</li>
+            <li>An unsightly spectacle of massive, deflated breasts, the nipples inverted, almost swallowed by the sheer volume of flesh.</li>
+            <li>Those enormous breasts seemed to defy gravity, or rather, surrender to it completely. A truly grotesque sight.</li>
+            <li>Her chest was burdened by these immense, shapeless mounds; the nipples and areolas were faded, a testament to neglect.</li>
+            <li>Observing {PAWN_nameShortPossessive} breasts, I couldn't help but feel revulsion at their sheer, overwhelming size and poor condition.</li>
+            <li>The sight of those massive, lumpy breasts made my stomach churn. A truly repulsive display of aged flesh.</li>
+            <li>Such an obscene volume of flesh, her breasts hung low, with nipples that seemed to point in opposite directions.</li>
+            <li>Her enormous breasts were a monument to time's cruel hand, jiggling with a life of their own, far from firm.</li>
+            <li>The sheer enormity of {PAWN_nameShortPossessive} breasts was unsettling, their shape distorted, like overfilled, forgotten wineskins.</li>
+            <li>An unpleasant vision of huge, drooping breasts, the areolas darkened and stretched, a clear sign of severe disfigurement.</li>
+            <li>I couldn't tear my eyes from the horrifying pendulousness of her massive breasts; they seemed to reach her navel.</li>
+            <li>The way her monstrous breasts swayed was frankly disgusting, resembling two heavy, bruised fruit.</li>
+            <li>{PAWN_nameShortPossessive} huge, flaccid breasts, adorned with prominent, wrinkled nipples, were a truly sickening sight.</li>
+            <li>It was hard to ignore the sheer size and unfortunate droop of her breasts; they looked less like breasts and more like deflated balloons.</li>
+            <li>The visible veins on her immense breasts hinted at their oppressive weight. A truly burdensome and ugly sight.</li>
+            <li>Her immense bosom seemed to defy any natural form, a grotesque testament to age and gravity.</li>
+            <li>Those gigantic breasts had seen better days, their once-proud form replaced by a sad, stretched existence.</li>
+            <li>I recoiled from the sight of {PAWN_nameShortPossessive} enormous, flabby breasts, their pallor and texture disturbing.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale_observed_by_voyer</defName>
+        <label>Huge Breasts (Negative)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, aged breasts, with their stretched areolas and tired nipples, were a sad and unstimulating sight to behold.</li>
+            <li>The sheer mass of {PAWN_nameShortPossessive} deflated bosom provided little thrill; it was a dreary, sagging landscape.</li>
+            <li>I watched {PAWN_nameShortPossessive} massive breasts sway, a grotesque spectacle that offered no pleasure, only a sense of heavy decline.</li>
+            <li>A voyeuristic glance revealed her enormous, pendulous breasts, too big and too old to excite any genuine interest.</li>
+            <li>Even for a voyeur, the sight of those huge, withered breasts, with their dark, puckered nipples, was a severe disappointment.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, their skin mottled and nipples discolored, offered a disturbing, rather than erotic, view.</li>
+            <li>I tried to find some titillation in her immense, drooping breasts, but only found a depressing display of age.</li>
+            <li>The jiggle of her colossal breasts was less alluring, more a sad testament to gravity. Truly an unappealing show.</li>
+            <li>My voyeuristic desires found no joy in {PAWN_nameShortPossessive} sprawling, worn-out breasts. Just a depressing, heavy sight.</li>
+            <li>These huge, veiny breasts with their oddly shaped nipples were a poor substitute for true beauty. Disappointment mounted.</li>
+            <li>The ungraceful movement of her enormous breasts did not captivate; it repulsed, a stark reminder of decay.</li>
+            <li>As a voyeur, I sought excitement, but {PAWN_nameShortPossessive} huge, lifeless breasts with their dull areolas offered only dismay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet utterly devoid of appeal, a saggy, uninspiring sight.</li>
+            <li>I watched her massive, shapeless breasts, noting the stretched skin and discolored nipples. A truly unedifying exhibition.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no voyeuristic satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Huge Breasts (Negative)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} huge, withered breasts, with their discolored nipples, were a pitiful exhibition, devoid of any allure.</li>
+            <li>Her immense, sagging chest was revealed, but the sight evoked only distaste, not the shared thrill of exposure.</li>
+            <li>I bore witness to {PAWN_nameShortPossessive} colossal breasts, a truly disappointing display that failed to excite any exhibitionist in me.</li>
+            <li>The exhibition of her enormous, pendulous breasts was unsettling, their tired form offering no reciprocal pleasure.</li>
+            <li>Exposing myself is about beauty and provocation, but {PAWN_nameShortPossessive} huge, flaccid breasts merely disgusted me.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, with their splotchy skin and aged nipples, created a truly vulgar, uninspiring spectacle.</li>
+            <li>Her immense bosom, when revealed, was a shocking testament to decay, completely lacking the vibrancy I seek in exposure.</li>
+            <li>The jiggle of her huge breasts was less an invitation, more a condemnation of natural decline. Utterly unstimulating.</li>
+            <li>My exhibitionist spirit craved a captivating reveal, but {PAWN_nameShortPossessive} sprawling, worn-out breasts offered only revulsion.</li>
+            <li>These huge, veiny breasts, topped with strangely angled nipples, were not a sight I wished to share, much less observe.</li>
+            <li>The ungraceful sway of her enormous breasts offered no joy, only a profound sense of disappointment in the human form.</li>
+            <li>As an exhibitionist, I expect a response to a bold display, but {PAWN_nameShortPossessive} huge, lifeless breasts were simply sad.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no exhibitionist satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Huge Breasts (Negative)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, tired breasts offered no spark; their sagging form and dull nipples extinguished any desire I might have had.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} bosom was repulsive, a complete turn-off for my raging desires.</li>
+            <li>I eyed {PAWN_nameShortPossessive} colossal breasts, but their unappealing jiggle and aged appearance killed any hint of arousal.</li>
+            <li>A glance at her enormous, pendulous breasts filled me with disgust; their size and lack of vitality were sickening.</li>
+            <li>Even my insatiable urges were quelled by the sight of those huge, lifeless breasts, with their pale, shriveled nipples.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, with their mottled skin and discolored areolas, were a painful sight to my lustful eyes.</li>
+            <li>My desires burned, but her immense bosom, when exposed, was a cold shower. Utterly unstimulating and repellent.</li>
+            <li>The jiggle of her huge breasts was a torment, reminding me of what I *don't* want. Pure, unadulterated revulsion.</li>
+            <li>My nymphomaniac needs were utterly ignored by {PAWN_nameShortPossessive} sprawling, worn-out breasts. They were simply vile.</li>
+            <li>These huge, veiny breasts, crowned by oddly positioned nipples, were a complete turn-off; my libido recoiled in horror.</li>
+            <li>The ungraceful movement of her enormous breasts did not entice; it repelled, making my stomach churn.</li>
+            <li>As a nymphomaniac, I seek gratification, but {PAWN_nameShortPossessive} huge, flaccid breasts were an instant desire killer.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no nymphomaniac satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale_observed_by_Prude</defName>
+        <label>Huge Breasts (Negative)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, exposed breasts were a vulgar abomination, their sagging form and dark nipples a shameful display.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} chest was an utterly indecent sight, truly offensive to my sensibilities.</li>
+            <li>I averted my gaze from {PAWN_nameShortPossessive} colossal breasts, their immodest jiggle and aged appearance were beyond vulgar.</li>
+            <li>A shocking display of enormous, pendulous breasts, their unashamed exposure filled me with profound disgust.</li>
+            <li>The sight of those huge, withered breasts, with their wrinkled, exposed nipples, was an affront to all decency.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, with their mottled skin and brazenly visible areolas, were utterly scandalous.</li>
+            <li>Her immense bosom, when shamelessly revealed, was a truly horrifying spectacle. Such immodesty is despicable.</li>
+            <li>The jiggle of her huge breasts was an obscene movement, a truly deplorable act of public indecency.</li>
+            <li>My eyes burned from {PAWN_nameShortPossessive} sprawling, immodestly displayed breasts. A most unpleasant and vulgar sight.</li>
+            <li>These huge, veiny breasts, with their prominent, unashamed nipples, were a grotesque and utterly indecent exhibition.</li>
+            <li>The ungraceful movement of her enormous breasts was sickening. Such a flagrant disregard for propriety!</li>
+            <li>As a prude, I found {PAWN_nameShortPossessive} huge, flaccid breasts, so carelessly exposed, to be deeply offensive.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no prude satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale_observed_by_Young_male</defName>
+        <label>Huge Breasts (Negative)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous, aged breasts, with their loose skin and dark nipples, were a truly repulsive sight, killing any youthful interest.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} chest was a turn-off, far too saggy and old to excite.</li>
+            <li>I saw {PAWN_nameShortPossessive} colossal breasts jiggle, and recoiled. Their aged appearance and strange nipples were disgusting.</li>
+            <li>A depressing display of enormous, pendulous breasts; they looked like sad, empty sacks. Completely unattractive.</li>
+            <li>Those huge, withered breasts, with their pale, shriveled nipples, were a shocking and deeply unappealing sight.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and stretched, seemed to defy all youthful ideals of beauty.</li>
+            <li>Her immense bosom, when exposed, sent shivers down my spine, but not in a good way. It was just grotesque.</li>
+            <li>The jiggle of her huge breasts was sickening, making me wish I hadn't looked. So much for excitement.</li>
+            <li>I stared at {PAWN_nameShortPossessive} sprawling, worn-out breasts, feeling only revulsion. This was not what I expected.</li>
+            <li>These huge, veiny breasts, with their oddly angled nipples, were a horrifying vision. Definitely not my type.</li>
+            <li>The ungraceful movement of her enormous breasts was deeply off-putting, a flabby, unwelcome spectacle.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Young males seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no young male satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale_observed_by_Young_female</defName>
+        <label>Huge Breasts (Negative)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, aged breasts, with their loose skin and dark nipples, were a grim vision of my future. Truly horrifying.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} chest was a warning; I pray I never look like that.</li>
+            <li>I watched {PAWN_nameShortPossessive} colossal breasts jiggle with distaste. Their aged appearance and strange nipples were a cruel mockery.</li>
+            <li>A depressing display of enormous, pendulous breasts. They looked like sad, empty sacks; a fate I dread.</li>
+            <li>Those huge, withered breasts, with their pale, shriveled nipples, were a frightening and deeply unappealing sight.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and stretched, seemed to defy all youthful ideals of beauty.</li>
+            <li>Her immense bosom, when exposed, sent shivers down my spine, but not in a good way. It was just grotesque.</li>
+            <li>The jiggle of her huge breasts was sickening, making me wish I hadn't looked. So much for excitement.</li>
+            <li>I stared at {PAWN_nameShortPossessive} sprawling, worn-out breasts, feeling only revulsion. This was not what I expected.</li>
+            <li>These huge, veiny breasts, with their oddly angled nipples, were a horrifying vision. Definitely not my type.</li>
+            <li>The ungraceful movement of her enormous breasts was deeply off-putting, a flabby, unwelcome spectacle.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Young females seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no young female satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Huge Breasts (Negative)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, deflated breasts, with their stretched areolas and tired nipples, were a sad and unstimulating sight.</li>
+            <li>The immense, sagging mass of {PAWN_nameShortPossessive} chest was a dreary, unappealing landscape. Disappointing.</li>
+            <li>I saw {PAWN_nameShortPossessive} colossal breasts jiggle with indifference. Their aged appearance offered no attraction.</li>
+            <li>A depressing display of enormous, pendulous breasts; too much, too old, and utterly uninviting.</li>
+            <li>Those huge, withered breasts, with their dark, puckered nipples, were a severe turn-off. A true letdown.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and worn, offered a disturbing, rather than erotic, view.</li>
+            <li>Her immense bosom, when exposed, was a weary spectacle, completely lacking any mature allure.</li>
+            <li>The jiggle of her huge breasts was less enticing, more a sad testament to gravity. An unappealing show.</li>
+            <li>My mature gaze found no pleasure in {PAWN_nameShortPossessive} sprawling, worn-out breasts. Just a depressing, heavy sight.</li>
+            <li>These huge, veiny breasts with their oddly shaped nipples were a poor substitute for beauty. Disappointment mounted.</li>
+            <li>The ungraceful movement of her enormous breasts did not captivate; it repulsed, a stark reminder of decay.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Mature males seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no middle aged male satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Huge Breasts (Negative)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, aged breasts, with their loose skin and dark nipples, were a grim reflection of what awaits us all.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} chest was a common sight, yet still unappealing in its decay.</li>
+            <li>I watched {PAWN_nameShortPossessive} colossal breasts jiggle with a familiar, weary rhythm. A sad state of affairs.</li>
+            <li>A depressing display of enormous, pendulous breasts; they looked tired, like my own after too many years.</li>
+            <li>Those huge, withered breasts, with their pale, shriveled nipples, were a stark reminder of time's cruelty.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and stretched, revealed the undeniable ravages of age.</li>
+            <li>Her immense bosom, when exposed, merely underscored the burdens of womanhood. A heavy, ungraceful sight.</li>
+            <li>The jiggle of her huge breasts was sickening, a mirror to my own fears about aging. Unpleasant.</li>
+            <li>I stared at {PAWN_nameShortPossessive} sprawling, worn-out breasts, feeling a pang of unwelcome recognition.</li>
+            <li>These huge, veiny breasts, with their oddly angled nipples, were just another testament to the indignities of growing old.</li>
+            <li>The ungraceful movement of her enormous breasts was deeply saddening, a flabby, unwelcome spectacle.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Middle aged females seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no middle aged female satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale_observed_by_Elder_male</defName>
+        <label>Huge Breasts (Negative)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, deflated breasts, with their stretched areolas and tired nipples, were a sad and unstimulating sight.</li>
+            <li>The immense, sagging mass of {PAWN_nameShortPossessive} chest was a dreary, unappealing landscape. Disappointing.</li>
+            <li>I saw {PAWN_nameShortPossessive} colossal breasts jiggle with indifference. Their aged appearance offered no attraction.</li>
+            <li>A depressing display of enormous, pendulous breasts; too much, too old, and utterly uninviting.</li>
+            <li>Those huge, withered breasts, with their dark, puckered nipples, were a severe turn-off. A true letdown.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and worn, offered a disturbing, rather than erotic, view.</li>
+            <li>Her immense bosom, when exposed, was a weary spectacle, completely lacking any mature allure.</li>
+            <li>The jiggle of her huge breasts was less enticing, more a sad testament to gravity. An unappealing show.</li>
+            <li>My elder gaze found no pleasure in {PAWN_nameShortPossessive} sprawling, worn-out breasts. Just a depressing, heavy sight.</li>
+            <li>These huge, veiny breasts with their oddly shaped nipples were a poor substitute for beauty. Disappointment mounted.</li>
+            <li>The ungraceful movement of her enormous breasts did not captivate; it repulsed, a stark reminder of decay.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Elder males seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no elder male satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_MatureFemale_observed_by_Elder_female</defName>
+        <label>Huge Breasts (Negative)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, aged breasts, with their loose skin and dark nipples, were a grim vision of my past. Truly familiar.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} chest was a common sight in this advanced age, yet still unappealing.</li>
+            <li>I watched {PAWN_nameShortPossessive} colossal breasts jiggle with a familiar, weary rhythm. A sad, worn-out sight.</li>
+            <li>A depressing display of enormous, pendulous breasts; they looked tired, like my own after too many years.</li>
+            <li>Those huge, withered breasts, with their pale, shriveled nipples, were a stark reminder of time's cruelty.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and stretched, revealed the undeniable ravages of age.</li>
+            <li>Her immense bosom, when exposed, merely underscored the burdens of womanhood. A heavy, ungraceful sight.</li>
+            <li>The jiggle of her huge breasts was sickening, a mirror to my own fears about aging. Unpleasant.</li>
+            <li>I stared at {PAWN_nameShortPossessive} sprawling, worn-out breasts, feeling a pang of unwelcome recognition.</li>
+            <li>These huge, veiny breasts, with their oddly angled nipples, were just another testament to the indignities of growing old.</li>
+            <li>The ungraceful movement of her enormous breasts was deeply saddening, a flabby, unwelcome spectacle.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Elder females seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no elder female satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale</defName>
+        <label>Huge Breasts (Negative)_ElderFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her massive, withered breasts hung low, a tragic sight of age with their shriveled nipples and pale areolas.</li>
+            <li>The immense, sagging mass of {PAWN_nameShortPossessive} chest was a depressing, unattractive display of advanced years.</li>
+            <li>I saw {PAWN_nameShortPossessive} colossal breasts jiggle with a weary, defeated rhythm. Truly a repulsive view.</li>
+            <li>A truly ghastly display of enormous, pendulous breasts; they looked like grotesque, deflated balloons.</li>
+            <li>Those huge, almost vestigial breasts, with their inverted, almost swallowed nipples, were profoundly disturbing.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled with age spots and veined, revealed the harsh reality of decay.</li>
+            <li>Her immense bosom, when exposed, was a sight that made my stomach churn. So much drooping, so much age.</li>
+            <li>The jiggle of her huge breasts was sickening, a testament to time's cruel, unflattering work.</li>
+            <li>My eyes recoiled from {PAWN_nameShortPossessive} sprawling, worn-out breasts. An unpleasant vision of senility.</li>
+            <li>These huge, flabby breasts, with their oddly angled and dark nipples, were a horrifying vision of what lies ahead.</li>
+            <li>The ungraceful movement of her enormous breasts was deeply off-putting, a shapeless, unwelcome spectacle.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. An elder's physique can be so unappealing.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale_observed_by_voyer</defName>
+        <label>Huge Breasts (Negative)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, withered breasts, with their shriveled nipples and pale areolas, were a deeply unstimulating voyeuristic sight.</li>
+            <li>The immense, sagging mass of {PAWN_nameShortPossessive} chest offered no thrill, only a depressing view of decay.</li>
+            <li>I watched {PAWN_nameShortPossessive} colossal breasts jiggle with a weary, defeated rhythm. Truly a repulsive show.</li>
+            <li>A truly ghastly display of enormous, pendulous breasts; they looked like grotesque, deflated balloons, offering no pleasure.</li>
+            <li>Even for a voyeur, those huge, almost vestigial breasts, with their inverted nipples, were profoundly disturbing and unarousing.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled with age spots and veined, revealed the harsh reality of decay, not beauty.</li>
+            <li>Her immense bosom, when exposed, was a sight that made my stomach churn, not my loins. So much drooping, so much age.</li>
+            <li>The jiggle of her huge breasts was sickening, a testament to time's cruel, unflattering work, offering no excitement.</li>
+            <li>My voyeuristic gaze recoiled from {PAWN_nameShortPossessive} sprawling, worn-out breasts. An unpleasant vision of senility.</li>
+            <li>These huge, flabby breasts, with their oddly angled and dark nipples, were a horrifying vision, devoid of any allure.</li>
+            <li>The ungraceful movement of her enormous breasts was deeply off-putting, a shapeless, unwelcome spectacle for any observer.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Voyeurs seek beauty, not physical deterioration.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no voyeuristic satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Huge Breasts (Negative)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} huge, withered breasts, with their shriveled nipples, were a pitiful exhibition, inspiring no reciprocal thrill.</li>
+            <li>Her immense, sagging chest was revealed, but the sight evoked only distaste, not the shared thrill of exposure.</li>
+            <li>I bore witness to {PAWN_nameShortPossessive} colossal breasts, a truly disappointing display that failed to excite any exhibitionist in me.</li>
+            <li>The exhibition of her enormous, pendulous breasts was unsettling, their tired form offering no reciprocal pleasure.</li>
+            <li>Exposing myself is about beauty and provocation, but {PAWN_nameShortPossessive} huge, flaccid breasts merely disgusted me.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, with their splotchy skin and aged nipples, created a truly vulgar, uninspiring spectacle.</li>
+            <li>Her immense bosom, when exposed, was a shocking testament to decay, completely lacking the vibrancy I seek in exposure.</li>
+            <li>The jiggle of her huge breasts was less an invitation, more a condemnation of natural decline. Utterly unstimulating.</li>
+            <li>My exhibitionist spirit craved a captivating reveal, but {PAWN_nameShortPossessive} sprawling, worn-out breasts offered only revulsion.</li>
+            <li>These huge, veiny breasts, topped with strangely angled nipples, were not a sight I wished to share, much less observe.</li>
+            <li>The ungraceful sway of her enormous breasts offered no joy, only a profound sense of disappointment in the human form.</li>
+            <li>As an exhibitionist, I expect a response to a bold display, but {PAWN_nameShortPossessive} huge, lifeless breasts were simply sad.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no exhibitionist satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Huge Breasts (Negative)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, tired breasts offered no spark; their sagging form and dull nipples extinguished any desire I might have had.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} bosom was repulsive, a complete turn-off for my raging desires.</li>
+            <li>I eyed {PAWN_nameShortPossessive} colossal breasts, but their unappealing jiggle and aged appearance killed any hint of arousal.</li>
+            <li>A glance at her enormous, pendulous breasts filled me with disgust; their size and lack of vitality were sickening.</li>
+            <li>Even my insatiable urges were quelled by the sight of those huge, lifeless breasts, with their pale, shriveled nipples.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, with their mottled skin and discolored areolas, were a painful sight to my lustful eyes.</li>
+            <li>My desires burned, but her immense bosom, when exposed, was a cold shower. Utterly unstimulating and repellent.</li>
+            <li>The jiggle of her huge breasts was a torment, reminding me of what I *don't* want. Pure, unadulterated revulsion.</li>
+            <li>My nymphomaniac needs were utterly ignored by {PAWN_nameShortPossessive} sprawling, worn-out breasts. They were simply vile.</li>
+            <li>These huge, veiny breasts, crowned by oddly positioned nipples, were a complete turn-off; my libido recoiled in horror.</li>
+            <li>The ungraceful movement of her enormous breasts did not entice; it repelled, making my stomach churn.</li>
+            <li>As a nymphomaniac, I seek gratification, but {PAWN_nameShortPossessive} huge, flaccid breasts were an instant desire killer.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no nymphomaniac satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale_observed_by_Prude</defName>
+        <label>Huge Breasts (Negative)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, exposed breasts were a vulgar abomination, their sagging form and dark nipples a shameful display.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} chest was an utterly indecent sight, truly offensive to my sensibilities.</li>
+            <li>I averted my gaze from {PAWN_nameShortPossessive} colossal breasts, their immodest jiggle and aged appearance were beyond vulgar.</li>
+            <li>A shocking display of enormous, pendulous breasts, their unashamed exposure filled me with profound disgust.</li>
+            <li>The sight of those huge, withered breasts, with their wrinkled, exposed nipples, was an affront to all decency.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, with their mottled skin and brazenly visible areolas, were utterly scandalous.</li>
+            <li>Her immense bosom, when shamelessly revealed, was a truly horrifying spectacle. Such immodesty is despicable.</li>
+            <li>The jiggle of her huge breasts was an obscene movement, a truly deplorable act of public indecency.</li>
+            <li>My eyes burned from {PAWN_nameShortPossessive} sprawling, immodestly displayed breasts. A most unpleasant and vulgar sight.</li>
+            <li>These huge, veiny breasts, with their prominent, unashamed nipples, were a grotesque and utterly indecent exhibition.</li>
+            <li>The ungraceful movement of her enormous breasts was sickening. Such a flagrant disregard for propriety!</li>
+            <li>As a prude, I found {PAWN_nameShortPossessive} huge, flaccid breasts, so carelessly exposed, to be deeply offensive.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no prude satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale_observed_by_Young_male</defName>
+        <label>Huge Breasts (Negative)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her enormous, aged breasts, with their loose skin and dark nipples, were a truly repulsive sight, killing any youthful interest.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} chest was a turn-off, far too saggy and old to excite.</li>
+            <li>I saw {PAWN_nameShortPossessive} colossal breasts jiggle, and recoiled. Their aged appearance and strange nipples were disgusting.</li>
+            <li>A depressing display of enormous, pendulous breasts; they looked like sad, empty sacks. Completely unattractive.</li>
+            <li>Those huge, withered breasts, with their pale, shriveled nipples, were a shocking and deeply unappealing sight.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and stretched, seemed to defy all youthful ideals of beauty.</li>
+            <li>Her immense bosom, when exposed, sent shivers down my spine, but not in a good way. It was just grotesque.</li>
+            <li>The jiggle of her huge breasts was sickening, making me wish I hadn't looked. So much for excitement.</li>
+            <li>I stared at {PAWN_nameShortPossessive} sprawling, worn-out breasts, feeling only revulsion. This was not what I expected.</li>
+            <li>These huge, veiny breasts, with their oddly angled nipples, were a horrifying vision. Definitely not my type.</li>
+            <li>The ungraceful movement of her enormous breasts was deeply off-putting, a flabby, unwelcome spectacle.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Young males seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no young male satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale_observed_by_Young_female</defName>
+        <label>Huge Breasts (Negative)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, aged breasts, with their loose skin and dark nipples, were a grim vision of my inevitable future. Horrifying.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} chest was a warning; I pray I never look like that.</li>
+            <li>I watched {PAWN_nameShortPossessive} colossal breasts jiggle with distaste. Their aged appearance and strange nipples were a cruel mockery.</li>
+            <li>A depressing display of enormous, pendulous breasts. They looked like sad, empty sacks; a fate I dread.</li>
+            <li>Those huge, withered breasts, with their pale, shriveled nipples, were a frightening and deeply unappealing sight.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and stretched, seemed to defy all youthful ideals of beauty.</li>
+            <li>Her immense bosom, when exposed, sent shivers down my spine, but not in a good way. It was just grotesque.</li>
+            <li>The jiggle of her huge breasts was sickening, making me wish I hadn't looked. So much for excitement.</li>
+            <li>I stared at {PAWN_nameShortPossessive} sprawling, worn-out breasts, feeling only revulsion. This was not what I expected.</li>
+            <li>These huge, veiny breasts, with their oddly angled nipples, were a horrifying vision. Definitely not my type.</li>
+            <li>The ungraceful movement of her enormous breasts was deeply off-putting, a flabby, unwelcome spectacle.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Young females seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no young female satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Huge Breasts (Negative)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, deflated breasts, with their stretched areolas and tired nipples, were a sad and unstimulating sight.</li>
+            <li>The immense, sagging mass of {PAWN_nameShortPossessive} chest was a dreary, unappealing landscape. Disappointing.</li>
+            <li>I saw {PAWN_nameShortPossessive} colossal breasts jiggle with indifference. Their aged appearance offered no attraction.</li>
+            <li>A depressing display of enormous, pendulous breasts; too much, too old, and utterly uninviting.</li>
+            <li>Those huge, withered breasts, with their dark, puckered nipples, were a severe turn-off. A true letdown.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and worn, offered a disturbing, rather than erotic, view.</li>
+            <li>Her immense bosom, when exposed, was a weary spectacle, completely lacking any mature allure.</li>
+            <li>The jiggle of her huge breasts was less enticing, more a sad testament to gravity. An unappealing show.</li>
+            <li>My mature gaze found no pleasure in {PAWN_nameShortPossessive} sprawling, worn-out breasts. Just a depressing, heavy sight.</li>
+            <li>These huge, veiny breasts with their oddly shaped nipples were a poor substitute for beauty. Disappointment mounted.</li>
+            <li>The ungraceful movement of her enormous breasts did not captivate; it repulsed, a stark reminder of decay.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Middle aged males seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no middle aged male satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Huge Breasts (Negative)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, aged breasts, with their loose skin and dark nipples, were a grim reflection of what awaits us all.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} chest was a common sight, yet still unappealing in its decay.</li>
+            <li>I watched {PAWN_nameShortPossessive} colossal breasts jiggle with a familiar, weary rhythm. A sad state of affairs.</li>
+            <li>A depressing display of enormous, pendulous breasts. They looked tired, like my own after too many years.</li>
+            <li>Those huge, withered breasts, with their pale, shriveled nipples, were a stark reminder of time's cruelty.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and stretched, revealed the undeniable ravages of age.</li>
+            <li>Her immense bosom, when exposed, merely underscored the burdens of womanhood. A heavy, ungraceful sight.</li>
+            <li>The jiggle of her huge breasts was sickening, a mirror to my own fears about aging. Unpleasant.</li>
+            <li>I stared at {PAWN_nameShortPossessive} sprawling, worn-out breasts, feeling a pang of unwelcome recognition.</li>
+            <li>These huge, veiny breasts, with their oddly angled nipples, were just another testament to the indignities of growing old.</li>
+            <li>The ungraceful movement of her enormous breasts was deeply saddening, a flabby, unwelcome spectacle.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Middle aged females seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no middle aged female satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale_observed_by_Elder_male</defName>
+        <label>Huge Breasts (Negative)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, deflated breasts, with their stretched areolas and tired nipples, were a sad and unstimulating sight.</li>
+            <li>The immense, sagging mass of {PAWN_nameShortPossessive} chest was a dreary, unappealing landscape. Disappointing.</li>
+            <li>I saw {PAWN_nameShortPossessive} colossal breasts jiggle with indifference. Their aged appearance offered no attraction.</li>
+            <li>A depressing display of enormous, pendulous breasts; too much, too old, and utterly uninviting.</li>
+            <li>Those huge, withered breasts, with their dark, puckered nipples, were a severe turn-off. A true letdown.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and worn, offered a disturbing, rather than erotic, view.</li>
+            <li>Her immense bosom, when exposed, was a weary spectacle, completely lacking any elderly allure.</li>
+            <li>The jiggle of her huge breasts was less enticing, more a sad testament to gravity. An unappealing show.</li>
+            <li>My elder gaze found no pleasure in {PAWN_nameShortPossessive} sprawling, worn-out breasts. Just a depressing, heavy sight.</li>
+            <li>These huge, veiny breasts with their oddly shaped nipples were a poor substitute for beauty. Disappointment mounted.</li>
+            <li>The ungraceful movement of her enormous breasts did not captivate; it repulsed, a stark reminder of decay.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Elder males seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no elder male satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Huge_ElderFemale_observed_by_Elder_female</defName>
+        <label>Huge Breasts (Negative)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her huge, aged breasts, with their loose skin and dark nipples, were a grim reflection of what awaits us all.</li>
+            <li>The immense, deflated mass of {PAWN_nameShortPossessive} chest was a common sight, yet still unappealing in its decay.</li>
+            <li>I watched {PAWN_nameShortPossessive} colossal breasts jiggle with a familiar, weary rhythm. A sad state of affairs.</li>
+            <li>A depressing display of enormous, pendulous breasts. They looked tired, like my own after too many years.</li>
+            <li>Those huge, withered breasts, with their pale, shriveled nipples, were a stark reminder of time's cruelty.</li>
+            <li>{PAWN_nameShortPossessive} overblown breasts, mottled and stretched, revealed the undeniable ravages of age.</li>
+            <li>Her immense bosom, when exposed, merely underscored the burdens of womanhood. A heavy, ungraceful sight.</li>
+            <li>The jiggle of her huge breasts was sickening, a mirror to my own fears about aging. Unpleasant.</li>
+            <li>I stared at {PAWN_nameShortPossessive} sprawling, worn-out breasts, feeling a pang of unwelcome recognition.</li>
+            <li>These huge, veiny breasts, with their oddly angled nipples, were just another testament to the indignities of growing old.</li>
+            <li>The ungraceful movement of her enormous breasts was deeply saddening, a flabby, unwelcome spectacle.</li>
+            <li>Her huge, flaccid breasts, so visible, were an immediate repellent. Elder females seek vitality, not decay.</li>
+            <li>The sheer magnitude of her breasts was overwhelming, yet their aged, worn appearance made them utterly uninteresting.</li>
+            <li>I observed {PAWN_nameShortPossessive} massive, shapeless breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>{PAWN_nameShortPossessive} enormous, flaccid breasts, devoid of any youthful bounce, made for a profoundly unattractive visual.</li>
+            <li>Despite my nature, her huge, elderly breasts, with their pale, shrunken nipples, were quite uninspiring.</li>
+            <li>The sight of those gargantuan, tired breasts, with their dull, splotchy areolas, offered no elder female satisfaction.</li>
+            <li>Her immense, heavy breasts hung low, a sad, uninviting spectacle that left a bitter taste.</li>
+            <li>I observed {PAWN_nameShortPossessive} sprawling, massive breasts, noting their lack of firmness and peculiar nipples. Truly a letdown.</li>
+            <li>The sheer volume of her breasts was undeniable, yet their aged, worn appearance made them utterly uninteresting.</li>
+        </opinionTexts>
+</Def>
+
+
+
+</Defs>

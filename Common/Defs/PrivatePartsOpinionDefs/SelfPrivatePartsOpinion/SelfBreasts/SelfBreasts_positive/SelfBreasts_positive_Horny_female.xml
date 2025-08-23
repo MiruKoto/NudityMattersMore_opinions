@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Female gives opinion about her flat chest, her nipples state, maybe areolas, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Nipples_Horny_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Nipples_Horny_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My flat chest feels incredibly sensitive and alive; my nipples are eager, a perfect canvas for touch.</li>
+            <li>Even without much curve, my chest pulses with a delightful warmth, my nipples firm and inviting.</li>
+            <li>A sleek, sensitive landscape; my aroused nipples stand as proud beacons of pleasure.</li>
+            <li>The subtle contours of my chest are electric, every inch primed for passionate interaction, especially my eager nipples.</li>
+            <li>My flat chest, far from lacking, is a focused point of intense sensation, nipples taut and ready.</li>
+            <li>A smooth expanse of skin, yet my nipples are prominent, tingling with desire and anticipation.</li>
+            <li>This streamlined chest feels so responsive, my nipples already hard, awaiting a gentle tease.</li>
+            <li>The flatness allows for direct contact; my sensitive nipples are aching for attention, a delicious ache.</li>
+            <li>My chest may be modest, but the heightened state of my nipples makes it feel profoundly sensual.</li>
+            <li>The skin here is so receptive, and my nipples are wonderfully firm, vibrating with a delightful readiness.</li>
+            <li>There's a subtle swell, and my nipples are undeniably prominent, promising intense pleasure.</li>
+            <li>My flat chest is surprisingly erotic when my nipples are this sensitive and demanding.</li>
+            <li>Feeling a deep warmth spread across my chest, my nipples are peaked and longing for touch.</li>
+            <li>The thrill of arousal makes my chest feel fuller, my nipples absolutely exquisite to the touch.</li>
+            <li>My petite chest and prominent nipples are bursting with a quiet, yet potent, yearning.</li>
+            <li>This area hums with a deep, internal heat, my nipples standing in eager, tantalizing relief.</li>
+            <li>My nipples are so erect they almost create their own curves; my flat chest feels charged.</li>
+            <li>A delightful shiver runs over my chest, my nipples reaching out, absolutely begging for attention.</li>
+            <li>The sensitive skin of my chest makes even the slightest brush thrilling, especially around my expectant nipples.</li>
+            <li>My flat chest is surprisingly powerful, my nipples acutely aware and throbbing with sensation.</li>
+            <li>Each breath deepens the exquisite sensitivity of my chest, my nipples exquisitely hard.</li>
+            <li>My chest may be small, but it's alive with longing; my nipples are absolutely screaming for sensation.</li>
+            <li>The delicate feel of my aroused nipples against fabric is intensely arousing; my chest feels so alive.</li>
+            <li>My flat chest feels taut and excited, my nipples like tiny, perfect gems, ready for exploration.</li>
+            <li>I love how responsive my chest is, my nipples are already swollen and dark with desire.</li>
+            <li>There's a delicious tightness to my skin, my nipples are hard nubs, practically pulsating.</li>
+            <li>My chest is a landscape of subtle pleasure, with my nipples as the undeniable focal points of yearning.</li>
+            <li>The heightened sensation of my nipples makes my entire chest feel profoundly sensual and responsive.</li>
+            <li>My flat chest, rather than a lack, is a playground for exquisite nipple sensitivity; I adore it.</li>
+            <li>Such an intense, delightful ache in my nipples, making my entire chest feel wonderfully alive and eager.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her tiny breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Tiny_Horny_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Tiny_Horny_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My tiny breasts are surprisingly sensitive, their firm shape and eager nipples a delightful testament to my arousal.</li>
+            <li>Small but mighty, my breasts feel delightfully taut, their nipples throbbing with anticipation as my desire swells.</li>
+            <li>These delicate mounds are wonderfully responsive, their perfectly shaped curves and aroused nipples a joy to behold.</li>
+            <li>The compact feel of my breasts, with their hard nipples, is incredibly stimulating, igniting a passionate mood.</li>
+            <li>My tiny, perky breasts are exquisitely sensitive, their sweet shape and tingling nipples perfectly mirroring my horny state.</li>
+            <li>Despite their size, my breasts feel full and alive, the eager nipples and soft areolas beckoning for attention.</li>
+            <li>I adore how my small breasts fit perfectly in a palm, their sensitive nipples and round shape captivating when aroused.</li>
+            <li>The subtle swell of my tiny breasts and the undeniable hardness of their nipples create an intense, thrilling sensation.</li>
+            <li>My breasts, though modest, feel utterly delectable, their firm contours and responsive nipples alive with desire.</li>
+            <li>These little beauties are surprisingly responsive, their shapely form and erect nipples a testament to my burning need.</li>
+            <li>A delicious tension builds in my tiny breasts, their eager nipples and soft, swollen areolas incredibly sensitive.</li>
+            <li>They might be small, but the sensation radiating from their taut nipples and perfect shape is immense.</li>
+            <li>My petite breasts are simply divine, their shape delicate, and their nipples incredibly receptive to touch.</li>
+            <li>The delightful bounce of my tiny breasts is a constant, subtle thrill, their nipples proudly peaked.</li>
+            <li>These firm little globes, with their perfectly aroused nipples, are a captivating sight, especially when I'm this horny.</li>
+            <li>My breasts feel so light and free, yet their sensitive nipples hold such powerful, exquisite sensation.</li>
+            <li>I love how these tiny breasts respond, their firm shape and dark, eager nipples making me utterly weak.</li>
+            <li>The playful jiggliness of my small breasts, combined with my throbbing nipples, is endlessly exciting.</li>
+            <li>They are perfectly formed, their size a sensual advantage, with nipples and areolas begging for adoration.</li>
+            <li>My tiny breasts are a testament to focused pleasure, every inch, especially the nipples, tingling with desire.</li>
+            <li>There's a subtle, delightful weight to my small breasts now, their nipples absolutely demanding attention.</li>
+            <li>The way my tiny breasts sway slightly, their nipples standing out boldly, is intensely arousing.</li>
+            <li>My perky little breasts feel so sensitive, their shape a soft invitation, their nipples a firm promise.</li>
+            <li>The lightness of my breasts contrasts beautifully with the powerful pull of my eager nipples.</li>
+            <li>These delicate peaks are surprisingly firm, their small shape and sensitive nipples perfectly suited for playful caresses.</li>
+            <li>My tiny breasts are a delightful package of sensation, nipples and areolas begging for a lover's touch.</li>
+            <li>The soft curves of my small breasts lead to nipples that are exquisitely sensitive, heightening my mood.</li>
+            <li>Such perfect, firm little breasts, their shape and aroused nipples driving me wild with desire.</li>
+            <li>My small breasts are a source of endless delight, their playful behavior and eager nipples stimulating.</li>
+            <li>Feeling utterly beautiful and desired, my tiny breasts and their prominent nipples are buzzing with pleasure.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her small breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Small_Horny_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Small_Horny_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My small breasts are so wonderfully sensitive, their shapely curves and aroused nipples perfectly reflecting my horny mood.</li>
+            <li>The exquisite sensitivity of my small, perky breasts is captivating, their nipples and areolas swollen with desire.</li>
+            <li>My breasts feel wonderfully full and responsive, their perfect shape and eager nipples creating a thrilling sensation.</li>
+            <li>There's a delightful firmness to my small breasts, their taut nipples and flushed areolas humming with anticipation.</li>
+            <li>I love how my breasts fit perfectly in my hands, their sensitive nipples and smooth curves driving me wild.</li>
+            <li>My small breasts have such a charming bounce, their eager nipples and soft areolas begging for intimate touch.</li>
+            <li>The seductive firmness of my breasts, with their prominent, dark nipples, is incredibly arousing right now.</li>
+            <li>These delicate, yet firm, breasts are pulsing with need, their sensitive nipples aching for contact.</li>
+            <li>My breasts are a delightful sight, their shapely form and erect nipples a testament to my burgeoning desire.</li>
+            <li>Feeling a deep, internal warmth in my small breasts, their nipples are incredibly sensitive and demanding.</li>
+            <li>The supple fullness of my breasts and the delightful ache in my nipples make me feel so utterly desirable.</li>
+            <li>My small breasts are incredibly responsive, their perfect shape and sensitive areolas a source of constant delight.</li>
+            <li>Such beautiful contours, my breasts feel so alive and tender, their nipples exquisitely sensitive to the air.</li>
+            <li>The playful sway of my breasts, combined with their eager nipples, creates a delicious sense of anticipation.</li>
+            <li>My breasts are a perfect, petite size, their nipples hard and inviting, absolutely brimming with desire.</li>
+            <li>A thrilling tingle courses through my breasts, their nipples erect and tingling with a glorious readiness.</li>
+            <li>My small breasts are just right, their firm shape and exquisitely sensitive nipples driving my mood higher.</li>
+            <li>The delicate bounce of my breasts feels so good, their nipples absolutely begging for a gentle caress.</li>
+            <li>My breasts feel taut and full, their dark nipples incredibly prominent, radiating warmth and excitement.</li>
+            <li>The smooth skin of my breasts is electric, leading to nipples that are deliciously firm and responsive.</li>
+            <li>These alluring curves, though small, are incredibly potent, their nipples aching with a delightful need.</li>
+            <li>My breasts are a source of profound pleasure, their perfect shape and intensely sensitive nipples enthralling.</li>
+            <li>The warmth spreading through my breasts feels incredible, their aroused nipples and soft areolas simply captivating.</li>
+            <li>My small breasts are so perfectly formed, their nipples standing out in delicious anticipation.</li>
+            <li>A thrilling pull emanates from my breasts, their shapely curves and erect nipples promising deep satisfaction.</li>
+            <li>My breasts feel so utterly delicious, their nipples taut and ready, reflecting my heightened state of arousal.</li>
+            <li>The alluring shape of my breasts, with their beautifully sensitive nipples, feels absolutely divine.</li>
+            <li>These firm, lovely breasts are buzzing with sensation, their nipples prominently peaked with desire.</li>
+            <li>My small breasts are a treasure, their gentle behavior and eager nipples stimulating all my senses.</li>
+            <li>I am utterly captivated by the feeling of my breasts, their delightful shape and intensely responsive nipples.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her average breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood, maybe jigliness and breasts response to it -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Average_Horny_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Average_Horny_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My average breasts feel incredibly full and responsive, their perfect shape and eager nipples a testament to my aroused state.</li>
+            <li>The sensual weight of my breasts, with their delightfully jiggly behavior, and hard nipples, is intensely arousing.</li>
+            <li>These beautifully shaped breasts feel exquisite, their firm nipples and sensitive areolas pulsing with my passionate mood.</li>
+            <li>I adore the satisfying fullness of my breasts, their tantalizing jiggliness and incredibly responsive nipples driving me wild.</li>
+            <li>My breasts are perfectly proportioned, their soft contours and erect nipples creating a thrilling, magnetic pull.</li>
+            <li>The playful bounce of my breasts, coupled with their exquisitely sensitive nipples, fills me with immense pleasure.</li>
+            <li>Feeling an intoxicating warmth in my breasts, their round shape and prominent nipples radiate an irresistible allure.</li>
+            <li>My breasts feel utterly divine, their natural sway and responsive nipples reflecting my heightened state of desire.</li>
+            <li>The gentle weight and jiggliness of my breasts, with their taut nipples, are a constant source of thrilling sensation.</li>
+            <li>These lovely breasts are incredibly responsive, their smooth skin and eager nipples begging for tender exploration.</li>
+            <li>A delicious pressure builds in my breasts, their perfectly formed shape and sensitive nipples aching for release.</li>
+            <li>My breasts feel so alive, their soft curves and prominent, aroused nipples making me tremble with anticipation.</li>
+            <li>The captivating fullness of my breasts, and the intense sensitivity of their nipples, fills me with profound satisfaction.</li>
+            <li>I love the way my breasts subtly shift, their eager nipples and soft areolas a beautiful invitation to intimacy.</li>
+            <li>My breasts are a vision of sensual perfection, their firm shape and exquisitely responsive nipples truly captivating.</li>
+            <li>The warmth radiating from my breasts, combined with their delightful jiggliness, makes me feel utterly desirable.</li>
+            <li>These average breasts are anything but, their powerful sensuality and prominent nipples utterly exhilarating.</li>
+            <li>The supple feel of my breasts against my skin, and the delicious hardness of their nipples, is almost unbearable.</li>
+            <li>My breasts are a playground of sensation, their natural behavior and intensely sensitive nipples enthralling me.</li>
+            <li>The perfect balance of my breasts, with their enticing shape and throbbing nipples, sets my mood ablaze.</li>
+            <li>My breasts feel so incredibly desirable, their natural movement and responsive nipples fueling my passion.</li>
+            <li>Such exquisite roundness, my breasts feel so wonderfully full, their nipples absolutely yearning for touch.</li>
+            <li>The gentle swing of my breasts is incredibly alluring, their nipples prominently peaked, inviting adoration.</li>
+            <li>My breasts are plump and eager, their shape alluring, and their nipples exquisitely tender to the lightest brush.</li>
+            <li>A thrilling electricity courses through my breasts, their jiggliness and aroused nipples making me shiver with delight.</li>
+            <li>My breasts are perfectly formed, their full shape and eager nipples making me feel so incredibly feminine.</li>
+            <li>The alluring softness of my breasts, with their firm, dark nipples, is deeply satisfying and intensely arousing.</li>
+            <li>My breasts feel so wonderfully responsive, their natural curves and exquisitely sensitive nipples a true gift.</li>
+            <li>I adore the way my breasts feel against my chest, their jiggliness and prominent nipples driving me crazy with need.</li>
+            <li>These average breasts are bursting with sensual energy, their behavior and nipples reflecting my deepest desires.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her Large breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood, maybe jigliness and breasts response to it -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Large_Horny_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Large_Horny_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My large breasts feel incredibly full and luscious, their generous shape and responsive nipples a profound source of arousal.</li>
+            <li>The magnificent weight and jiggliness of my breasts, with their exquisitely sensitive nipples, fills me with passionate delight.</li>
+            <li>These ample curves are utterly captivating, their firm behavior and prominent nipples radiating an undeniable allure.</li>
+            <li>I revel in the sensual bounty of my breasts; their voluptuous shape and intensely eager nipples are driving me wild.</li>
+            <li>My large breasts are a stunning declaration, their soft sway and throbbing nipples beckoning for a lover's touch.</li>
+            <li>The delightful bounce of my breasts, combined with their exquisitely sensitive areolas, creates an intoxicating thrill.</li>
+            <li>Feeling a powerful surge of desire, my breasts are plump and responsive, their dark nipples aching with anticipation.</li>
+            <li>My breasts feel absolutely divine, their luxurious fullness and playful jiggliness reflecting my heightened arousal.</li>
+            <li>The generous feel of my breasts against my skin, with their taut nipples, is a constant, delicious reminder of my need.</li>
+            <li>These magnificent breasts are incredibly responsive, their smooth, full contours and erect nipples begging for adoration.</li>
+            <li>A blissful pressure builds in my breasts, their glorious shape and sensitive nipples pulsating with intense pleasure.</li>
+            <li>My breasts feel so alive, their soft, yielding curves and prominent, aroused nipples making me sigh with pleasure.</li>
+            <li>The captivating weight of my breasts, and the deep sensation in their nipples, fills me with profound satisfaction.</li>
+            <li>I love the way my breasts move with every breath, their eager nipples and soft areolas a beautiful invitation.</li>
+            <li>My breasts are a vision of sensual abundance, their firm behavior and exquisitely responsive nipples truly mesmerizing.</li>
+            <li>The warmth radiating from my breasts, combined with their delightful jiggliness, makes me feel irresistibly desirable.</li>
+            <li>These large breasts are a testament to true passion, their powerful sensuality and prominent nipples utterly exhilarating.</li>
+            <li>The supple feel of my breasts, and the delicious hardness of their nipples, is almost too much to bear.</li>
+            <li>My breasts are a vibrant playground of sensation, their natural movements and intensely sensitive nipples enthralling me.</li>
+            <li>The glorious balance of my breasts, with their enticing shape and throbbing nipples, sets my entire being ablaze.</li>
+            <li>My breasts feel so incredibly desirable, their natural movement and responsive nipples fueling my deepest desires.</li>
+            <li>Such exquisite fullness, my breasts feel so wonderfully heavy and soft, their nipples absolutely yearning for touch.</li>
+            <li>The gentle, alluring swing of my breasts is incredibly captivating, their nipples prominently peaked, inviting exploration.</li>
+            <li>My breasts are plump and eager, their shape luxurious, and their nipples exquisitely tender to the slightest caress.</li>
+            <li>A thrilling electricity courses through my breasts, their jiggliness and aroused nipples making me tremble with delight.</li>
+            <li>My breasts are perfectly formed, their full shape and eager nipples making me feel so incredibly confident and feminine.</li>
+            <li>The alluring softness of my breasts, with their firm, dark nipples, is deeply satisfying and intensely arousing.</li>
+            <li>My breasts feel so wonderfully responsive, their natural curves and exquisitely sensitive nipples a true blessing.</li>
+            <li>I adore the way my breasts feel against my chest, their jiggliness and prominent nipples driving me crazy with need.</li>
+            <li>These large breasts are bursting with sensual energy, their behavior and nipples reflecting my deepest, most passionate desires.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her huge breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood, maybe jigliness and breasts response to it -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Huge_Horny_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Huge_Horny_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My huge breasts feel magnificently heavy and full, their voluptuous shape and throbbing nipples are truly breathtaking.</li>
+            <li>The incredible weight and dramatic jiggliness of my breasts, with their exquisitely sensitive nipples, is profoundly stimulating.</li>
+            <li>These immense curves are utterly dominant, their commanding presence and prominent nipples radiating an overwhelming allure.</li>
+            <li>I exult in the glorious abundance of my breasts; their colossal shape and intensely eager nipples are driving me to ecstasy.</li>
+            <li>My huge breasts are a monumental declaration, their powerful sway and aching nipples beckoning with insatiable hunger.</li>
+            <li>The thrilling, exaggerated bounce of my breasts, coupled with their exquisitely sensitive areolas, creates an intoxicating rush.</li>
+            <li>Feeling an explosive surge of desire, my breasts are massive and gloriously responsive, their dark nipples throbbing.</li>
+            <li>My breasts feel absolutely divine, their luxurious, monumental fullness and dramatic jiggliness reflecting my intense arousal.</li>
+            <li>The immense, satisfying feel of my breasts against my skin, with their taut nipples, is a constant, delicious craving.</li>
+            <li>These colossal breasts are incredibly responsive, their smooth, full contours and erect nipples begging for devoted adoration.</li>
+            <li>A blissful, overwhelming pressure builds in my breasts, their glorious shape and sensitive nipples pulsating with raw pleasure.</li>
+            <li>My breasts feel so utterly alive, their soft, yielding mass and prominent, aroused nipples making me gasp with pleasure.</li>
+            <li>The captivating, overwhelming weight of my breasts, and the deep, pervasive sensation in their nipples, fills me with satisfaction.</li>
+            <li>I love the way my breasts command attention with every movement, their eager nipples and soft areolas a powerful invitation.</li>
+            <li>My breasts are a vision of sensual immensity, their firm behavior and exquisitely responsive nipples truly awe-inspiring.</li>
+            <li>The intense warmth radiating from my breasts, combined with their delicious jiggliness, makes me feel monumentally desirable.</li>
+            <li>These huge breasts are a testament to boundless passion, their powerful sensuality and prominent nipples utterly exhilarating.</li>
+            <li>The vast, supple feel of my breasts, and the delicious hardness of their nipples, is almost too much to embrace.</li>
+            <li>My breasts are a boundless playground of sensation, their natural movements and intensely sensitive nipples utterly enthralling me.</li>
+            <li>The glorious, overflowing balance of my breasts, with their enticing shape and throbbing nipples, sets my entire being ablaze.</li>
+            <li>My breasts feel so incredibly desirable, their colossal movement and responsive nipples fueling my most profound desires.</li>
+            <li>Such exquisite, overflowing fullness, my breasts feel so wonderfully heavy and soft, their nipples absolutely yearning for touch.</li>
+            <li>The dramatic, alluring swing of my breasts is incredibly captivating, their nipples prominently peaked, inviting endless exploration.</li>
+            <li>My breasts are voluptuous and eager, their shape lavish, and their nipples exquisitely tender to the lightest brush.</li>
+            <li>A thrilling, overwhelming electricity courses through my breasts, their jiggliness and aroused nipples making me tremble uncontrollably.</li>
+            <li>My breasts are perfectly formed, their immense shape and eager nipples making me feel so incredibly confident and empowered.</li>
+            <li>The alluring softness of my breasts, with their firm, dark nipples, is deeply satisfying and intensely arousing.</li>
+            <li>My breasts feel so wonderfully responsive, their natural, generous curves and exquisitely sensitive nipples a true blessing.</li>
+            <li>I adore the way my breasts feel against my chest, their jiggliness and prominent nipples driving me mad with need.</li>
+            <li>These huge breasts are bursting with primal sensual energy, their behavior and nipples reflecting my deepest, most passionate desires.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her enormous breasts, her breasts shape, breasts behavior, her nipples state, maybe areolas, all based on sex need, and overall mood, maybe jigliness and breasts response to it -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Breasts_Enormous_Horny_Female_Positive</defName>
+        <label>Opinion_Self_Breasts_Enormous_Horny_Female_(positive)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1~2</severityRange>
+        <genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Horny</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Horny</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My enormous breasts feel gloriously overwhelming, their boundless shape and incredibly sensitive nipples are a testament to my raw arousal.</li>
+            <li>The magnificent, commanding weight and mesmerizing jiggliness of my breasts, with their intensely throbbing nipples, is utterly intoxicating.</li>
+            <li>These vast, magnificent curves are undeniably divine, their powerful presence and prominent nipples radiating an overwhelming, primal allure.</li>
+            <li>I revel in the boundless, sumptuous abundance of my breasts; their colossal shape and insatiably eager nipples are driving me to blissful ecstasy.</li>
+            <li>My enormous breasts are a monumental, breathtaking declaration, their profound sway and aching nipples beckoning with an endless, primal hunger.</li>
+            <li>The dramatic, almost hypnotic bounce of my breasts, coupled with their exquisitely sensitive areolas, creates an all-consuming, exhilarating rush.</li>
+            <li>Feeling an explosive, foundational surge of desire, my breasts are truly immense and gloriously responsive, their dark nipples pulsating fiercely.</li>
+            <li>My breasts feel absolutely divine, their luxurious, monumental fullness and dramatic, rhythmic jiggliness reflecting my most intense, profound arousal.</li>
+            <li>The immense, utterly satisfying feel of my breasts against my skin, with their taut nipples, is a constant, delicious, all-encompassing craving.</li>
+            <li>These colossal, living breasts are incredibly responsive, their smooth, vast contours and erect nipples begging for devoted, passionate adoration.</li>
+            <li>A blissful, overwhelming, almost unbearable pressure builds in my breasts, their glorious shape and sensitive nipples pulsating with raw, unbridled pleasure.</li>
+            <li>My breasts feel so utterly, profoundly alive, their soft, yielding mass and prominent, aroused nipples making me tremble and gasp with pure delight.</li>
+            <li>The captivating, overwhelming weight of my breasts, and the deep, pervasive, all-consuming sensation in their nipples, fills me with profound satisfaction.</li>
+            <li>I love the way my breasts command every ounce of attention with every movement, their eager nipples and soft areolas a powerful, sensual invitation.</li>
+            <li>My breasts are a vision of sensual, boundless immensity, their firm, unwavering behavior and exquisitely responsive nipples truly awe-inspiring.</li>
+            <li>The intense, radiating warmth from my breasts, combined with their delicious, rhythmic jiggliness, makes me feel monumentally desirable and irresistibly potent.</li>
+            <li>These enormous breasts are a testament to limitless passion, their overwhelming sensuality and prominent nipples utterly exhilarating, almost beyond control.</li>
+            <li>The vast, supple, yielding feel of my breasts, and the delicious hardness of their nipples, is almost too much to comprehend or embrace.</li>
+            <li>My breasts are a boundless, unexplored playground of sensation, their natural, commanding movements and intensely sensitive nipples utterly enthralling me.</li>
+            <li>The glorious, overflowing, perfect balance of my breasts, with their enticing, monumental shape and throbbing nipples, sets my entire being ablaze.</li>
+            <li>My breasts feel so incredibly desirable, their colossal movement and responsive nipples fueling my deepest, most primal, and insatiable desires.</li>
+            <li>Such exquisite, overflowing, almost surreal fullness, my breasts feel so wonderfully heavy and soft, their nipples absolutely yearning for ultimate touch.</li>
+            <li>The dramatic, alluring, almost hypnotic swing of my breasts is incredibly captivating, their nipples prominently peaked, inviting endless, deep exploration.</li>
+            <li>My breasts are voluptuous, overflowing, and incredibly eager, their shape lavish, and their nipples exquisitely tender to the lightest, most delicate brush.</li>
+            <li>A thrilling, overwhelming, almost painful electricity courses through my breasts, their jiggliness and aroused nipples making me tremble uncontrollably with pure delight.</li>
+            <li>My breasts are perfectly formed, their immense, commanding shape and eager nipples making me feel so incredibly confident, powerful, and utterly feminine.</li>
+            <li>The alluring, all-encompassing softness of my breasts, with their firm, dark nipples, is deeply satisfying and intensely, overwhelmingly arousing.</li>
+            <li>My breasts feel so wonderfully responsive, their natural, generous, abundant curves and exquisitely sensitive nipples a true, profound blessing.</li>
+            <li>I adore the way my breasts feel against my chest, their jiggliness and prominent nipples driving me absolutely mad with insatiable need.</li>
+            <li>These enormous breasts are bursting with primal, untamed sensual energy, their behavior and nipples reflecting my deepest, most passionate, and boundless desires.</li>
+        </opinionTexts>
+    </Def>
+</Defs>

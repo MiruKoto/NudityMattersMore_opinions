@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale</defName>
+        <label>Large Breasts (Neutral)_MatureFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature ample curves of {PAWN_nameShortPossessive} chest are clearly visible, a testament to time and gravity. A neutral observation.</li>
+            <li>Large breasts, a common sight. {PAWN_nameShortPossessive} chest fills the space, appearing neither impressive nor unappealing.</li>
+            <li>A noticeable set of breasts on {PAWN_nameShort}. They seem to hang naturally, reflecting a certain age.</li>
+            <li>{PAWN_nameShortPossessive} large chest is impossible to ignore, its form suggesting a life lived. The overall impression is simply present.</li>
+            <li>Observing {PAWN_nameShortPossessive} breasts, they are substantial and well-defined, a characteristic often seen in this age range.</li>
+            <li>The sight of {PAWN_nameShortPossessive} chest is merely a fact. The large breasts hold a typical mature shape.</li>
+            <li>{PAWN_nameShortPossessive} breasts, large and full, show the effects of age with a softened contour and relaxed form.</li>
+            <li>A full chest, as expected for {PAWN_nameShort} at {PAWN_possessive} age. The size is evident, without strong appeal or aversion.</li>
+            <li>{PAWN_nameShortPossessive} large breasts hang with a natural heaviness, nipples subtly defined. A mature form.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is observed, their movement somewhat fluid with any action {PAWN_pronoun} takes.</li>
+            <li>A substantial chest, somewhat softened with age. The breasts appear comfortable in their large form.</li>
+            <li>{PAWN_nameShortPossessive} breasts are quite large, their fullness apparent even through clothing. A neutral assessment.</li>
+            <li>The noticeable size of {PAWN_nameShortPossessive} breasts is a simple visual fact, neither enticing nor off-putting.</li>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are seen. Their shape is rounded, the skin showing the subtle signs of time.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the breasts are generously proportioned, with a relaxed, natural hang.</li>
+            <li>The large breasts of {PAWN_nameShort} possess a familiar mature silhouette, showing a calm presence.</li>
+            <li>A pair of large breasts, with some natural give and subtle nipple definition. Nothing particularly striking.</li>
+            <li>{PAWN_nameShortPossessive} chest is full and rounded, a substantial presence that is simply observed.</li>
+            <li>The large breasts appear as one would expect for {PAWN_nameShortPossessive} age, settled and prominent.</li>
+            <li>A sizable chest on {PAWN_nameShort}, the breasts themselves displaying a relaxed and unadorned form.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale_observed_by_voyer</defName>
+        <label>Large Breasts (Neutral)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are clearly visible. A silent appreciation for the sight, noting their relaxed form.</li>
+            <li>The ample swell of {PAWN_nameShortPossessive} chest catches the eye. {PAWN_pronoun} watches the subtle jiggle with a quiet interest.</li>
+            <li>A generous set of breasts, their shape and weight quite evident. {PAWN_pronoun} takes a moment to observe the details.</li>
+            <li>{PAWN_nameShortPossessive} large chest, exposed, draws {PAWN_possessive} gaze. The soft curves and subtle nipple outlines are absorbed.</li>
+            <li>The mature breasts of {PAWN_nameShort} present a full, rounded form. {PAWN_pronoun} finds {PAWN_objective}self subtly captivated by the sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} large breasts, the way they fall and shift is noted. A discreet fascination.</li>
+            <li>{PAWN_nameShortPossessive} chest is prominent, the breasts themselves quite substantial. {PAWN_pronoun} observes the slight sway.</li>
+            <li>A glimpse of large, mature breasts. The soft texture and visible cleavage are duly registered in {PAWN_possessive} mind.</li>
+            <li>{PAWN_nameShortPossessive} breasts, full and yielding, are now in full view. {PAWN_pronoun} can't help but linger on the sight.</li>
+            <li>The substantial form of {PAWN_nameShortPossessive} chest is revealed. {PAWN_pronoun} observes the natural hang and areola tint.</li>
+            <li>A noticeable chest on {PAWN_nameShort}. {PAWN_pronoun} quietly assesses the large breasts, their fullness and gravitational pull.</li>
+            <li>{PAWN_nameShortPossessive} mature, large breasts are quite exposed. {PAWN_pronoun} finds the natural contours and visible nipples intriguing.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} breasts is a clear sight. {PAWN_pronoun} observes their presence with a quiet intensity.</li>
+            <li>A natural, large set of breasts on {PAWN_nameShort}. {PAWN_pronoun} watches for any subtle movement or bounce.</li>
+            <li>{PAWN_nameShortPossessive} chest, well-endowed, is on display. {PAWN_pronoun} quietly takes in the details of their shape and nipples.</li>
+            <li>The large, settled breasts of {PAWN_nameShort} are openly visible. {PAWN_pronoun}'s gaze lingers, a silent appraisal.</li>
+            <li>A pair of substantial breasts, their curves hinting at a certain maturity. {PAWN_pronoun} notes the soft, inviting appearance.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned, and {PAWN_pronoun} takes quiet pleasure in observing the sight.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite noticeable. {PAWN_pronoun} observes the weight and natural flow of the flesh.</li>
+            <li>A mature chest, amply filled. {PAWN_pronoun} discreetly appreciates the generous, softly rounded forms.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Large Breasts (Neutral)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large breasts are on full display. {PAWN_pronoun} considers if {PAWN_pronoun} could pull off such a revealing look.</li>
+            <li>The mature, prominent chest of {PAWN_nameShort} is quite visible. {PAWN_pronoun} secretly admires the confidence of such an exposure.</li>
+            <li>A generous pair of breasts, openly presented. {PAWN_pronoun} feels a slight kinship with the brazen display, appreciating the freedom.</li>
+            <li>{PAWN_nameShortPossessive} large chest is undeniable. {PAWN_pronoun} wonders if {PAWN_pronoun} could make {PAWN_possessive} own appear so natural and uninhibited.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample breasts, {PAWN_pronoun} feels a spark of inspiration for {PAWN_possessive} own future revealing choices.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, mature breasts is quite bold. {PAWN_pronoun} finds a subtle pleasure in the shared lack of inhibition.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are a statement. {PAWN_pronoun} respects the unapologetic display of {PAWN_possessive} body.</li>
+            <li>A full chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} muses on the allure of such prominent display.</li>
+            <li>{PAWN_nameShortPossessive} large breasts, casually on view, stir a reciprocal desire for freedom in {PAWN_possessive} own presentation.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} chest is clear. {PAWN_pronoun} finds the exposure a confident and liberating act.</li>
+            <li>A noticeable, mature chest on {PAWN_nameShort}. {PAWN_pronoun} feels a quiet approval for the open display of large breasts.</li>
+            <li>{PAWN_nameShortPossessive} generous breasts are freely shown. {PAWN_pronoun} appreciates the courage in such a revealing choice.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is fully visible. {PAWN_pronoun} feels a shared sense of comfort with nudity.</li>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are on full, uninhibited display. {PAWN_pronoun} enjoys the open sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent breasts are a clear exhibition. {PAWN_pronoun} feels a quiet resonance.</li>
+            <li>The large breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} sees a kindred spirit in the bold exposure.</li>
+            <li>A pair of substantial breasts, confidently presented. {PAWN_pronoun} considers the natural beauty of such an unadorned form.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown. {PAWN_pronoun} finds the natural presentation appealing.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite visible. {PAWN_pronoun} finds inspiration in their casual, unashamed exposure.</li>
+            <li>A mature chest, amply filled and open to view. {PAWN_pronoun} admires the freedom embodied in {PAWN_possessive} display.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Large Breasts (Neutral)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, mature breasts of {PAWN_nameShort} are quite a sight. {PAWN_pronoun} feels a familiar stir, observing their ample curves.</li>
+            <li>{PAWN_nameShortPossessive} substantial chest demands attention. {PAWN_pronoun} finds {PAWN_objective}self considering the possibilities hinted by their size and fullness.</li>
+            <li>A generous pair of breasts, naturally yielding. {PAWN_pronoun}'s mind drifts to the sensations of their weight and softness.</li>
+            <li>{PAWN_nameShortPossessive} large chest, openly presented, ignites a subtle longing. {PAWN_pronoun} imagines the feel of their mature form.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample breasts, a wave of desire washes over {PAWN_objective}. Their visible jiggle is captivating.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, mature breasts is undeniably stimulating. {PAWN_pronoun} feels a powerful pull towards them.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, spark an immediate hunger. {PAWN_pronoun} wants to explore their lushness.</li>
+            <li>A full chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} fantasizes about the feel of their ripe form.</li>
+            <li>{PAWN_nameShortPossessive} large breasts, casually on view, ignite an intense craving. {PAWN_pronoun} desires to indulge in their presence.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} chest is clear, and {PAWN_pronoun} finds {PAWN_objective}self consumed by thoughts of pleasure.</li>
+            <li>A noticeable, mature chest on {PAWN_nameShort}. {PAWN_pronoun} feels an overwhelming urge to touch and experience them.</li>
+            <li>{PAWN_nameShortPossessive} generous breasts are freely shown, and {PAWN_pronoun} feels a profound, almost insatiable, desire.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is fully visible. {PAWN_pronoun} craves the raw, sensual pleasure they promise.</li>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are on full, uninhibited display, making {PAWN_objective} feel hot with anticipation.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent breasts are an invitation. {PAWN_pronoun} yearns for physical contact.</li>
+            <li>The large breasts of {PAWN_nameShort} are openly available to view, sending shivers of pure lust through {PAWN_objective}.</li>
+            <li>A pair of substantial breasts, confidently presented, awakens {PAWN_possessive} deepest carnal instincts.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, fueling {PAWN_possessive} unyielding desires.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite visible, and {PAWN_pronoun} can't help but be consumed by lust.</li>
+            <li>A mature chest, amply filled and open to view, promising untold physical delights to {PAWN_objective}.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale_observed_by_Prude</defName>
+        <label>Large Breasts (Neutral)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large breasts are quite exposed. {PAWN_pronoun} feels a distinct discomfort at the overt display.</li>
+            <li>The mature, prominent chest of {PAWN_nameShort} is far too visible for {PAWN_possessive} liking. Such immodesty.</li>
+            <li>A generous pair of breasts, openly presented. {PAWN_pronoun} averts {PAWN_possessive} gaze, feeling a blush creep onto {PAWN_possessive} cheeks.</li>
+            <li>{PAWN_nameShortPossessive} large chest is undeniable and unseemly. {PAWN_pronoun} wishes {PAWN_pronoun} would cover {PAWN_objective}self.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample breasts makes {PAWN_objective} feel quite awkward. Such private matters should remain private.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, mature breasts is rather shocking. {PAWN_pronoun} finds it highly inappropriate.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are an indecent sight. {PAWN_pronoun} is truly scandalized.</li>
+            <li>A full chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} feels a wave of prudish disapproval.</li>
+            <li>{PAWN_nameShortPossessive} large breasts, casually on view, cause {PAWN_objective} considerable embarrassment and distaste.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} chest is clear, and {PAWN_pronoun} finds it quite vulgar.</li>
+            <li>A noticeable, mature chest on {PAWN_nameShort}. {PAWN_pronoun} wishes {PAWN_pronoun} hadn't seen such an immodest display.</li>
+            <li>{PAWN_nameShortPossessive} generous breasts are freely shown, much to {PAWN_possessive} dismay. Such wanton exposure!</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is fully visible. {PAWN_pronoun} feels a profound sense of offense at the display.</li>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are on full, uninhibited display, making {PAWN_objective} recoil in discomfort.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent breasts are an absolute indecency. {PAWN_pronoun} wishes to look away.</li>
+            <li>The large breasts of {PAWN_nameShort} are openly available to view, causing {PAWN_objective} to feel utterly disgusted.</li>
+            <li>A pair of substantial breasts, confidently presented, yet {PAWN_pronoun} finds the lack of decorum appalling.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, causing {PAWN_objective} great moral distress.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite visible, and {PAWN_pronoun} can't help but feel affronted by the brazenness.</li>
+            <li>A mature chest, amply filled and open to view, a truly disgraceful sight in {PAWN_possessive} humble opinion.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale_observed_by_Young_male</defName>
+        <label>Large Breasts (Neutral)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are prominently visible. A somewhat surprising sight for a young male.</li>
+            <li>The ample chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} takes in their size, a new experience for {PAWN_objective}.</li>
+            <li>A generous pair of breasts, displaying a certain maturity. {PAWN_pronoun} observes them with a mixture of curiosity and neutrality.</li>
+            <li>{PAWN_nameShortPossessive} large chest, exposed, makes {PAWN_objective} momentarily pause. A different form than {PAWN_pronoun} is used to.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample breasts, their relaxed form is evident. {PAWN_pronoun} registers the sight without strong reaction.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, mature breasts is a new observation. {PAWN_pronoun} processes their substantial presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large. {PAWN_pronoun} notes their shape, distinct from younger forms.</li>
+            <li>A full chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge.</li>
+            <li>{PAWN_nameShortPossessive} large breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their sag and definition.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} chest is clear, hinting at experience and age. {PAWN_pronoun} notes their mature contours.</li>
+            <li>A noticeable, mature chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their soft sway and presence.</li>
+            <li>{PAWN_nameShortPossessive} generous breasts are freely shown, a somewhat surprising sight in their mature fullness.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is fully visible, a notable contrast to youthful figures.</li>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are on full, uninhibited display, making {PAWN_objective} consider their aged form.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent breasts are quite striking in their advanced state.</li>
+            <li>The large breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, settled appearance.</li>
+            <li>A pair of substantial breasts, confidently presented, bearing the marks of time and gravity.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and mature display.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite visible, their forms revealing the passage of many years.</li>
+            <li>A mature chest, amply filled and open to view, showcasing the generous, aged contours.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale_observed_by_Young_female</defName>
+        <label>Large Breasts (Neutral)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are visible. {PAWN_pronoun} notes the difference in their shape compared to younger forms.</li>
+            <li>The ample chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} observes the way they hang, a characteristic of age.</li>
+            <li>A generous pair of breasts, displaying a certain maturity. {PAWN_pronoun} sees them as an indicator of a woman who has lived.</li>
+            <li>{PAWN_nameShortPossessive} large chest, exposed, makes {PAWN_objective} consider the effects of time. A common sight among older women.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample breasts, their relaxed form is evident. {PAWN_pronoun} finds them simply a part of the aging process.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, mature breasts is a reminder of the future. {PAWN_pronoun} registers their substantial presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large. {PAWN_pronoun} notes their softened contours and subtle stretch marks.</li>
+            <li>A full chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge.</li>
+            <li>{PAWN_nameShortPossessive} large breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their natural sag.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} chest is clear, hinting at experience and motherhood. {PAWN_pronoun} notes their mature contours.</li>
+            <li>A noticeable, mature chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their soft sway and presence, without judgment.</li>
+            <li>{PAWN_nameShortPossessive} generous breasts are freely shown, a somewhat common sight among older females.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is fully visible, a natural progression of a woman's body.</li>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are on full, uninhibited display, making {PAWN_objective} consider the effects of gravity.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent breasts are quite striking in their natural, aged state.</li>
+            <li>The large breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, settled appearance.</li>
+            <li>A pair of substantial breasts, confidently presented, bearing the marks of time and experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and mature display.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite visible, their forms revealing the passage of many years.</li>
+            <li>A mature chest, amply filled and open to view, showcasing the generous, aged contours.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Large Breasts (Neutral)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are prominently visible. A familiar and common sight at this age.</li>
+            <li>The ample chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} observes them, acknowledging their seasoned form.</li>
+            <li>A generous pair of breasts, displaying a certain maturity. {PAWN_pronoun} recognizes the signs of a well-lived life.</li>
+            <li>{PAWN_nameShortPossessive} large chest, exposed, is simply there. {PAWN_pronoun} has seen such forms many times before.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample breasts, their relaxed form is evident. {PAWN_pronoun} accepts them as a natural part of aging.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, mature breasts is neither surprising nor particularly exciting.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large. {PAWN_pronoun} notes their shape, a typical mature silhouette.</li>
+            <li>A full chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge.</li>
+            <li>{PAWN_nameShortPossessive} large breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their sag and definition.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} chest is clear, hinting at experience and age. {PAWN_pronoun} notes their mature contours.</li>
+            <li>A noticeable, mature chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their soft sway and presence, without strong opinion.</li>
+            <li>{PAWN_nameShortPossessive} generous breasts are freely shown, a common sight among women of this age.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is fully visible, a natural progression of a woman's body.</li>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are on full, uninhibited display, making {PAWN_objective} consider their aged form.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent breasts are quite striking in their natural, aged state.</li>
+            <li>The large breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, settled appearance.</li>
+            <li>A pair of substantial breasts, confidently presented, bearing the marks of time and experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and mature display.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite visible, their forms revealing the passage of many years.</li>
+            <li>A mature chest, amply filled and open to view, showcasing the generous, aged contours.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Large Breasts (Neutral)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are visible. {PAWN_pronoun} recognizes the familiar shape of a woman {PAWN_pronoun}'s own age.</li>
+            <li>The ample chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} understands the changes that come with time.</li>
+            <li>A generous pair of breasts, displaying a certain maturity. {PAWN_pronoun} sees them as a mirror, a reflection of shared experience.</li>
+            <li>{PAWN_nameShortPossessive} large chest, exposed, is a common sight. {PAWN_pronoun} acknowledges their presence without much thought.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample breasts, their relaxed form is evident. {PAWN_pronoun} relates to the natural effects of gravity.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, mature breasts is simply a reality of middle age. {PAWN_pronoun} registers their substantial presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large. {PAWN_pronoun} notes their softened contours, a shared journey.</li>
+            <li>A full chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge.</li>
+            <li>{PAWN_nameShortPossessive} large breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their natural sag.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} chest is clear, hinting at experience and age. {PAWN_pronoun} notes their mature contours.</li>
+            <li>A noticeable, mature chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their soft sway and presence, without judgment.</li>
+            <li>{PAWN_nameShortPossessive} generous breasts are freely shown, a common sight among women of this age.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is fully visible, a natural progression of a woman's body.</li>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are on full, uninhibited display, making {PAWN_objective} consider their aged form.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent breasts are quite striking in their natural, aged state.</li>
+            <li>The large breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, settled appearance.</li>
+            <li>A pair of substantial breasts, confidently presented, bearing the marks of time and experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and mature display.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite visible, their forms revealing the passage of many years.</li>
+            <li>A mature chest, amply filled and open to view, showcasing the generous, aged contours.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale_observed_by_Elder_male</defName>
+        <label>Large Breasts (Neutral)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are visible. {PAWN_pronoun} observes them with a distant, almost nostalgic gaze.</li>
+            <li>The ample chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} has seen many such forms in {PAWN_possessive} long life.</li>
+            <li>A generous pair of breasts, displaying a certain maturity. {PAWN_pronoun} acknowledges their presence, a common sight.</li>
+            <li>{PAWN_nameShortPossessive} large chest, exposed, holds no particular novelty for {PAWN_objective}. Just another human form.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample breasts, their relaxed form is evident. {PAWN_pronoun} regards them with a seasoned, neutral perspective.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, mature breasts is a simple visual fact. {PAWN_pronoun} registers their substantial presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large. {PAWN_pronoun} notes their shape, unremarkable for this age.</li>
+            <li>A full chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge.</li>
+            <li>{PAWN_nameShortPossessive} large breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their sag and definition.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} chest is clear, hinting at experience and age. {PAWN_pronoun} notes their mature contours.</li>
+            <li>A noticeable, mature chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their soft sway and presence, without judgment.</li>
+            <li>{PAWN_nameShortPossessive} generous breasts are freely shown, a common sight among women of this age.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is fully visible, a natural progression of a woman's body.</li>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are on full, uninhibited display, making {PAWN_objective} consider their aged form.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent breasts are quite striking in their natural, aged state.</li>
+            <li>The large breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, settled appearance.</li>
+            <li>A pair of substantial breasts, confidently presented, bearing the marks of time and experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and mature display.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite visible, their forms revealing the passage of many years.</li>
+            <li>A mature chest, amply filled and open to view, showcasing the generous, aged contours.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_MatureFemale_observed_by_Elder_female</defName>
+        <label>Large Breasts (Neutral)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are visible. {PAWN_pronoun} sees a familiar sight, acknowledging the passage of time.</li>
+            <li>The ample chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} observes the changes that come with age, a shared experience.</li>
+            <li>A generous pair of breasts, displaying a certain maturity. {PAWN_pronoun} understands the natural progression of the female form.</li>
+            <li>{PAWN_nameShortPossessive} large chest, exposed, is simply a reality. {PAWN_pronoun} has seen such forms many times before.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample breasts, their relaxed form is evident. {PAWN_pronoun} regards them with a knowing, neutral perspective.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, mature breasts is a simple visual fact. {PAWN_pronoun} registers their substantial presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large. {PAWN_pronoun} notes their softened contours, a shared journey.</li>
+            <li>A full chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge.</li>
+            <li>{PAWN_nameShortPossessive} large breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their sag and definition.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} chest is clear, hinting at experience and age. {PAWN_pronoun} notes their mature contours.</li>
+            <li>A noticeable, mature chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their soft sway and presence, without judgment.</li>
+            <li>{PAWN_nameShortPossessive} generous breasts are freely shown, a common sight among women of this age.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is fully visible, a natural progression of a woman's body.</li>
+            <li>{PAWN_nameShortPossessive} large, mature breasts are on full, uninhibited display, making {PAWN_objective} consider their aged form.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent breasts are quite striking in their natural, aged state.</li>
+            <li>The large breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, settled appearance.</li>
+            <li>A pair of substantial breasts, confidently presented, bearing the marks of time and experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and mature display.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite visible, their forms revealing the passage of many years.</li>
+            <li>A mature chest, amply filled and open to view, showcasing the generous, aged contours.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale</defName>
+        <label>Large Breasts (Neutral)_ElderFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The elderly {PAWN_nameShortPossessive} large breasts are clearly visible, showing the full effects of time and gravity.</li>
+            <li>Large, aged breasts. {PAWN_nameShortPossessive} chest hangs heavily, reflecting a long life.</li>
+            <li>A noticeable set of breasts on {PAWN_nameShort}. They appear quite saggy, a natural consequence of advanced age.</li>
+            <li>{PAWN_nameShortPossessive} large chest is impossible to ignore, its form softened and elongated by decades.</li>
+            <li>Observing {PAWN_nameShortPossessive} breasts, they are substantial and very relaxed, a characteristic of elder females.</li>
+            <li>The sight of {PAWN_nameShortPossessive} chest is merely a fact. The large breasts hold a typical aged shape, very loose.</li>
+            <li>{PAWN_nameShortPossessive} large breasts, quite loose and full, show the profound effects of age with a deep sag.</li>
+            <li>A full, aged chest, as expected for {PAWN_nameShort} at {PAWN_possessive} age. The size is evident, showing extensive wear.</li>
+            <li>{PAWN_nameShortPossessive} large breasts hang with considerable heaviness, nipples elongated. An aged form.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} chest is observed, their movement quite pronounced with any action {PAWN_pronoun} takes.</li>
+            <li>A substantial chest, considerably softened with age. The breasts appear comfortable in their very large, settled form.</li>
+            <li>{PAWN_nameShortPossessive} breasts are quite large and very pendulous, their fullness apparent even through clothing.</li>
+            <li>The noticeable size of {PAWN_nameShortPossessive} breasts is a simple visual fact, showing extensive signs of aging.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are seen. Their shape is stretched, the skin showing deep wrinkles and laxity.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the breasts are generously proportioned, with a relaxed, very pronounced hang.</li>
+            <li>The large breasts of {PAWN_nameShort} possess a familiar elderly silhouette, showing a deep natural sag.</li>
+            <li>A pair of very large breasts, with significant natural give and subtle nipple definition. Nothing particularly striking.</li>
+            <li>{PAWN_nameShortPossessive} chest is full and rounded, a substantial presence that is simply observed, showing its age.</li>
+            <li>The large breasts appear as one would expect for {PAWN_nameShortPossessive} age, deeply settled and prominent.</li>
+            <li>A sizable chest on {PAWN_nameShort}, the breasts themselves displaying a relaxed and very unadorned, aged form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale_observed_by_voyer</defName>
+        <label>Large Breasts (Neutral)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are clearly visible. A silent appreciation for the sight, noting their profound sag.</li>
+            <li>The ample swell of {PAWN_nameShortPossessive} aged chest catches the eye. {PAWN_pronoun} watches the pronounced jiggle with quiet interest.</li>
+            <li>A generous set of breasts, their shape and weight quite evident from age. {PAWN_pronoun} takes a moment to observe the loose details.</li>
+            <li>{PAWN_nameShortPossessive} large chest, exposed, draws {PAWN_possessive} gaze. The soft, stretched curves and subtle nipple outlines are absorbed.</li>
+            <li>The elderly breasts of {PAWN_nameShort} present a full, elongated form. {PAWN_pronoun} finds {PAWN_objective}self subtly captivated by the sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} large breasts, the way they fall and shift is noted. A discreet fascination with their aged movement.</li>
+            <li>{PAWN_nameShortPossessive} chest is prominent, the breasts themselves quite substantial and low-hanging. {PAWN_pronoun} observes their considerable sway.</li>
+            <li>A glimpse of large, elderly breasts. The soft, wrinkled texture and visible cleavage are duly registered in {PAWN_possessive} mind.</li>
+            <li>{PAWN_nameShortPossessive} breasts, full and yielding, are now in full view. {PAWN_pronoun} can't help but linger on their aged form.</li>
+            <li>The substantial form of {PAWN_nameShortPossessive} chest is revealed. {PAWN_pronoun} observes the deep natural hang and areola tint.</li>
+            <li>A noticeable chest on {PAWN_nameShort}. {PAWN_pronoun} quietly assesses the large breasts, their fullness and profound gravitational pull.</li>
+            <li>{PAWN_nameShortPossessive} elderly, large breasts are quite exposed. {PAWN_pronoun} finds the natural, aged contours and visible nipples intriguing.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} breasts is a clear sight. {PAWN_pronoun} observes their presence with a quiet intensity, noting their age.</li>
+            <li>A natural, very large set of breasts on {PAWN_nameShort}. {PAWN_pronoun} watches for any subtle movement or bounce, emphasizing their age.</li>
+            <li>{PAWN_nameShortPossessive} chest, well-endowed and aged, is on display. {PAWN_pronoun} quietly takes in the details of their shape and nipples.</li>
+            <li>The large, settled breasts of {PAWN_nameShort} are openly visible. {PAWN_pronoun}'s gaze lingers, a silent appraisal of their aged state.</li>
+            <li>A pair of substantial, aged breasts, their curves hinting at a long life. {PAWN_pronoun} notes the soft, inviting appearance despite their age.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned, and {PAWN_pronoun} takes quiet pleasure in observing the aged sight.</li>
+            <li>The large breasts on {PAWN_nameShort} are quite noticeable. {PAWN_pronoun} observes the weight and natural flow of the aged flesh.</li>
+            <li>An elderly chest, amply filled. {PAWN_pronoun} discreetly appreciates the generous, softly rounded forms, deeply affected by time.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Large Breasts (Neutral)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are on full display. {PAWN_pronoun} considers if {PAWN_pronoun} could pull off such a revealing look at that age.</li>
+            <li>The elderly, prominent chest of {PAWN_nameShort} is quite visible. {PAWN_pronoun} secretly admires the lasting confidence of such an exposure.</li>
+            <li>A generous pair of aged breasts, openly presented. {PAWN_pronoun} feels a slight kinship with the brazen display, appreciating the enduring freedom.</li>
+            <li>{PAWN_nameShortPossessive} large, aged chest is undeniable. {PAWN_pronoun} wonders if {PAWN_pronoun} could make {PAWN_possessive} own appear so natural and uninhibited later in life.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample, elderly breasts, {PAWN_pronoun} feels a spark of inspiration for {PAWN_possessive} own future revealing choices, regardless of age.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, aged breasts is quite bold. {PAWN_pronoun} finds a subtle pleasure in the shared, timeless lack of inhibition.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed despite their age, are a statement. {PAWN_pronoun} respects the unapologetic display of {PAWN_possessive} body.</li>
+            <li>A full, aged chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} muses on the lasting allure of such prominent display.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts, casually on view, stir a reciprocal desire for freedom in {PAWN_possessive} own presentation across all ages.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} aged chest is clear. {PAWN_pronoun} finds the exposure a confident and liberating act, defying time.</li>
+            <li>A noticeable, elderly chest on {PAWN_nameShort}. {PAWN_pronoun} feels a quiet approval for the open display of large, mature breasts.</li>
+            <li>{PAWN_nameShortPossessive} generous, aged breasts are freely shown. {PAWN_pronoun} appreciates the courage in such a revealing choice at any age.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} aged chest is fully visible. {PAWN_pronoun} feels a shared sense of comfort with nudity, enduring through years.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are on full, uninhibited display. {PAWN_pronoun} enjoys the open sight, a testament to freedom.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent, aged breasts are a clear exhibition. {PAWN_pronoun} feels a quiet resonance.</li>
+            <li>The large, elderly breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} sees a kindred spirit in the bold exposure.</li>
+            <li>A pair of substantial, aged breasts, confidently presented. {PAWN_pronoun} considers the natural beauty of such an unadorned form, even with age.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown despite its age. {PAWN_pronoun} finds the natural presentation appealing.</li>
+            <li>The large, aged breasts on {PAWN_nameShort} are quite visible. {PAWN_pronoun} finds inspiration in their casual, unashamed exposure, regardless of time.</li>
+            <li>An elderly chest, amply filled and open to view. {PAWN_pronoun} admires the freedom embodied in {PAWN_possessive} display, timeless and bold.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Large Breasts (Neutral)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, elderly breasts of {PAWN_nameShort} are quite a sight. {PAWN_pronoun} feels a familiar stir, observing their ample, aged curves.</li>
+            <li>{PAWN_nameShortPossessive} substantial, aged chest demands attention. {PAWN_pronoun} finds {PAWN_objective}self considering the raw possibilities hinted by their size and looseness.</li>
+            <li>A generous pair of elderly breasts, naturally yielding. {PAWN_pronoun}'s mind drifts to the sensations of their considerable weight and softness.</li>
+            <li>{PAWN_nameShortPossessive} large, aged chest, openly presented, ignites a subtle, primal longing. {PAWN_pronoun} imagines the feel of their ripe, experienced form.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample, elderly breasts, a wave of desire washes over {PAWN_objective}. Their visible jiggle is captivating.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, aged breasts is undeniably stimulating. {PAWN_pronoun} feels a powerful, almost desperate pull towards them.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed despite their age, spark an immediate, deep hunger. {PAWN_pronoun} wants to explore their lushness.</li>
+            <li>A full, aged chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} fantasizes about the feel of their ripe, well-worn form.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts, casually on view, ignite an intense, carnal craving. {PAWN_pronoun} desires to indulge in their presence.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} aged chest is clear, and {PAWN_pronoun} finds {PAWN_objective}self consumed by thoughts of raw pleasure.</li>
+            <li>A noticeable, elderly chest on {PAWN_nameShort}. {PAWN_pronoun} feels an overwhelming urge to touch and experience them, defying their years.</li>
+            <li>{PAWN_nameShortPossessive} generous, aged breasts are freely shown, and {PAWN_pronoun} feels a profound, almost insatiable, desire for them.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} aged chest is fully visible. {PAWN_pronoun} craves the raw, sensual pleasure they promise, regardless of time.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are on full, uninhibited display, making {PAWN_objective} feel hot with overwhelming anticipation.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent, aged breasts are an irresistible invitation. {PAWN_pronoun} yearns for physical contact.</li>
+            <li>The large, elderly breasts of {PAWN_nameShort} are openly available to view, sending shivers of pure, intense lust through {PAWN_objective}.</li>
+            <li>A pair of substantial, aged breasts, confidently presented, awakens {PAWN_possessive} deepest, most primal carnal instincts.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown despite its age, fueling {PAWN_possessive} unyielding desires.</li>
+            <li>The large, aged breasts on {PAWN_nameShort} are quite visible, and {PAWN_pronoun} can't help but be consumed by an insatiable lust.</li>
+            <li>An elderly chest, amply filled and open to view, promising untold, profound physical delights to {PAWN_objective}, seasoned by time.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale_observed_by_Prude</defName>
+        <label>Large Breasts (Neutral)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are quite exposed. {PAWN_pronoun} feels a distinct discomfort at the overt, aged display.</li>
+            <li>The elderly, prominent chest of {PAWN_nameShort} is far too visible for {PAWN_possessive} liking. Such immodesty, especially at that age.</li>
+            <li>A generous pair of aged breasts, openly presented. {PAWN_pronoun} averts {PAWN_possessive} gaze, feeling a blush of shame creep onto {PAWN_possessive} cheeks.</li>
+            <li>{PAWN_nameShortPossessive} large, aged chest is undeniable and unseemly. {PAWN_pronoun} wishes {PAWN_pronoun} would cover {PAWN_objective}self immediately.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample, elderly breasts makes {PAWN_objective} feel quite awkward and disgusted. Such private matters should remain private, always.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, aged breasts is rather shocking and distasteful. {PAWN_pronoun} finds it highly inappropriate and vulgar.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed despite their age, are an indecent sight. {PAWN_pronoun} is truly scandalized by the brazenness.</li>
+            <li>A full, aged chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} feels a wave of prudish disapproval and deep offense.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts, casually on view, cause {PAWN_objective} considerable embarrassment and profound distaste.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} aged chest is clear, and {PAWN_pronoun} finds it utterly vulgar and repulsive.</li>
+            <li>A noticeable, elderly chest on {PAWN_nameShort}. {PAWN_pronoun} wishes {PAWN_pronoun} hadn't seen such an immodest and unpleasant display.</li>
+            <li>{PAWN_nameShortPossessive} generous, aged breasts are freely shown, much to {PAWN_possessive} dismay. Such wanton, aged exposure!</li>
+            <li>The ample size of {PAWN_nameShortPossessive} aged chest is fully visible. {PAWN_pronoun} feels a profound sense of offense at the public display.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are on full, uninhibited display, making {PAWN_objective} recoil in utter discomfort and moral outrage.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent, aged breasts are an absolute indecency. {PAWN_pronoun} wishes to look away immediately.</li>
+            <li>The large, elderly breasts of {PAWN_nameShort} are openly available to view, causing {PAWN_objective} to feel utterly disgusted and appalled.</li>
+            <li>A pair of substantial, aged breasts, confidently presented, yet {PAWN_pronoun} finds the lack of decorum deeply offensive and unseemly.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown despite its age, causing {PAWN_objective} great moral distress and revulsion.</li>
+            <li>The large, aged breasts on {PAWN_nameShort} are quite visible, and {PAWN_pronoun} can't help but feel affronted by the brazenness of the display.</li>
+            <li>An elderly chest, amply filled and open to view, a truly disgraceful and shameful sight in {PAWN_possessive} humble opinion.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale_observed_by_Young_male</defName>
+        <label>Large Breasts (Neutral)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are prominently visible. A somewhat surprising and unfamiliar sight for a young male.</li>
+            <li>The ample, aged chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} takes in their size and sag, a new experience for {PAWN_objective}.</li>
+            <li>A generous pair of breasts, displaying significant age. {PAWN_pronoun} observes them with a mixture of curiosity and neutrality, noting the changes from youth.</li>
+            <li>{PAWN_nameShortPossessive} large, aged chest, exposed, makes {PAWN_objective} momentarily pause. A very different form than {PAWN_pronoun} is used to seeing.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample, elderly breasts, their deeply relaxed form is evident. {PAWN_pronoun} registers the sight without strong reaction, just observation.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, elderly breasts is a new observation. {PAWN_pronoun} processes their substantial, aged presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large and loose. {PAWN_pronoun} notes their shape, quite distinct from younger forms.</li>
+            <li>A full, aged chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge and categorize.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their deep sag and softened definition.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} aged chest is clear, hinting at extensive experience and time. {PAWN_pronoun} notes their mature, worn contours.</li>
+            <li>A noticeable, elderly chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their considerable sway and prominent presence.</li>
+            <li>{PAWN_nameShortPossessive} generous, aged breasts are freely shown, a somewhat surprising sight in their profound, mature fullness.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} aged chest is fully visible, a notable contrast to youthful figures, emphasizing the passage of time.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are on full, uninhibited display, making {PAWN_objective} consider their deeply aged form and texture.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent, aged breasts are quite striking in their advanced, gravity-affected state.</li>
+            <li>The large, elderly breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, deeply settled appearance and wrinkles.</li>
+            <li>A pair of substantial, aged breasts, confidently presented, bearing the clear marks of vast time and abundant experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and deeply mature, aged display.</li>
+            <li>The large, aged breasts on {PAWN_nameShort} are quite visible, their forms revealing the profound passage of many years.</li>
+            <li>An elderly chest, amply filled and open to view, showcasing the generous, deeply aged and worn contours.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale_observed_by_Young_female</defName>
+        <label>Large Breasts (Neutral)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are visible. {PAWN_pronoun} notes the stark difference in their shape compared to younger forms.</li>
+            <li>The ample, aged chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} observes the way they hang, a clear characteristic of advanced age.</li>
+            <li>A generous pair of breasts, displaying considerable maturity. {PAWN_pronoun} sees them as a stark indicator of a woman who has lived many decades.</li>
+            <li>{PAWN_nameShortPossessive} large, aged chest, exposed, makes {PAWN_objective} consider the inevitable effects of time. A common sight among very old women.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample, elderly breasts, their deeply relaxed form is evident. {PAWN_pronoun} finds them simply a part of the long aging process.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, elderly breasts is a reminder of the far future. {PAWN_pronoun} registers their substantial, worn presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large and saggy. {PAWN_pronoun} notes their softened contours and deep stretch marks from a long life.</li>
+            <li>A full, aged chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge and accept.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their pronounced natural sag and changed definition.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} aged chest is clear, hinting at extensive experience and motherhood. {PAWN_pronoun} notes their deeply mature contours.</li>
+            <li>A noticeable, elderly chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their considerable sway and presence, without judgment, only observation.</li>
+            <li>{PAWN_nameShortPossessive} generous, aged breasts are freely shown, a very common sight among older females, almost expected.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} aged chest is fully visible, a natural progression of a woman's body through the years.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are on full, uninhibited display, making {PAWN_objective} consider the profound effects of gravity and time.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent, aged breasts are quite striking in their natural, deeply aged state.</li>
+            <li>The large, elderly breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, deeply settled appearance and wrinkles.</li>
+            <li>A pair of substantial, aged breasts, confidently presented, bearing the undeniable marks of time and extensive experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and deeply mature, aged display.</li>
+            <li>The large, aged breasts on {PAWN_nameShort} are quite visible, their forms revealing the profound passage of many years.</li>
+            <li>An elderly chest, amply filled and open to view, showcasing the generous, deeply aged and worn contours.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Large Breasts (Neutral)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are prominently visible. A familiar and common sight among older women, yet still impactful.</li>
+            <li>The ample, aged chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} observes them, acknowledging their seasoned and well-worn form.</li>
+            <li>A generous pair of breasts, displaying considerable maturity and the effects of time. {PAWN_pronoun} recognizes the signs of a long, full life.</li>
+            <li>{PAWN_nameShortPossessive} large, aged chest, exposed, is simply there. {PAWN_pronoun} has seen such forms many times before, a familiar aspect of aging.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample, elderly breasts, their deeply relaxed form is evident. {PAWN_pronoun} accepts them as a natural, profound part of aging.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, elderly breasts is neither surprising nor particularly exciting, simply a fact of age.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large and pendulous. {PAWN_pronoun} notes their shape, a typical aged silhouette.</li>
+            <li>A full, aged chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge and understand.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their deep sag and softened definition.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} aged chest is clear, hinting at extensive experience and advanced age. {PAWN_pronoun} notes their mature, worn contours.</li>
+            <li>A noticeable, elderly chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their considerable sway and prominent presence, without strong opinion, just observation.</li>
+            <li>{PAWN_nameShortPossessive} generous, aged breasts are freely shown, a common sight among women of this advanced age.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} aged chest is fully visible, a natural progression of a woman's body through the years.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are on full, uninhibited display, making {PAWN_objective} consider their deeply aged form and texture.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent, aged breasts are quite striking in their natural, deeply aged state.</li>
+            <li>The large, elderly breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, deeply settled appearance and wrinkles.</li>
+            <li>A pair of substantial, aged breasts, confidently presented, bearing the clear marks of vast time and abundant experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and deeply mature, aged display.</li>
+            <li>The large, aged breasts on {PAWN_nameShort} are quite visible, their forms revealing the profound passage of many years.</li>
+            <li>An elderly chest, amply filled and open to view, showcasing the generous, deeply aged and worn contours.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Large Breasts (Neutral)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are visible. {PAWN_pronoun} recognizes the familiar shape of a woman much older than {PAWN_objective}.</li>
+            <li>The ample, aged chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} observes the changes that come with great time, a potential future.</li>
+            <li>A generous pair of breasts, displaying considerable maturity. {PAWN_pronoun} sees them as a mirror to the long road ahead for the female form.</li>
+            <li>{PAWN_nameShortPossessive} large, aged chest, exposed, is simply a reality. {PAWN_pronoun} acknowledges their presence, a natural progression of life.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample, elderly breasts, their deeply relaxed form is evident. {PAWN_pronoun} regards them with a knowing, somewhat solemn perspective on aging.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, elderly breasts is a simple visual fact. {PAWN_pronoun} registers their substantial, worn presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large and loose. {PAWN_pronoun} notes their softened contours, a visible record of time.</li>
+            <li>A full, aged chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge and understand.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their deep sag and softened definition.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} aged chest is clear, hinting at extensive experience and advanced age. {PAWN_pronoun} notes their mature, worn contours.</li>
+            <li>A noticeable, elderly chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their considerable sway and prominent presence, without judgment.</li>
+            <li>{PAWN_nameShortPossessive} generous, aged breasts are freely shown, a common sight among women of this advanced age.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} aged chest is fully visible, a natural progression of a woman's body through the years.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are on full, uninhibited display, making {PAWN_objective} consider their deeply aged form and texture.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent, aged breasts are quite striking in their natural, deeply aged state.</li>
+            <li>The large, elderly breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, deeply settled appearance and wrinkles.</li>
+            <li>A pair of substantial, aged breasts, confidently presented, bearing the clear marks of vast time and abundant experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and deeply mature, aged display.</li>
+            <li>The large, aged breasts on {PAWN_nameShort} are quite visible, their forms revealing the profound passage of many years.</li>
+            <li>An elderly chest, amply filled and open to view, showcasing the generous, deeply aged and worn contours.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale_observed_by_Elder_male</defName>
+        <label>Large Breasts (Neutral)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are visible. {PAWN_pronoun} observes them with a distant, almost resigned gaze, a familiar sight of age.</li>
+            <li>The ample, aged chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} has seen many such forms in {PAWN_possessive} very long life, little left to surprise.</li>
+            <li>A generous pair of breasts, displaying considerable age and the heavy effects of time. {PAWN_pronoun} acknowledges their presence, a very common sight.</li>
+            <li>{PAWN_nameShortPossessive} large, aged chest, exposed, holds no particular novelty for {PAWN_objective}. Just another very old human form.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample, elderly breasts, their deeply relaxed form is evident. {PAWN_pronoun} regards them with a seasoned, neutral, almost weary perspective.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, elderly breasts is a simple visual fact. {PAWN_pronoun} registers their substantial, worn presence without strong emotion.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large and very loose. {PAWN_pronoun} notes their shape, quite unremarkable for this advanced age.</li>
+            <li>A full, aged chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge and dismiss.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their deep sag and softened definition.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} aged chest is clear, hinting at extensive experience and profound age. {PAWN_pronoun} notes their mature, worn contours.</li>
+            <li>A noticeable, elderly chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their considerable sway and prominent presence, with detached observation.</li>
+            <li>{PAWN_nameShortPossessive} generous, aged breasts are freely shown, a very common and expected sight among women of this advanced age.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} aged chest is fully visible, a natural and expected progression of a woman's body through vast years.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are on full, uninhibited display, making {PAWN_objective} consider their deeply aged form and texture.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent, aged breasts are quite striking in their natural, deeply aged state.</li>
+            <li>The large, elderly breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, deeply settled appearance and wrinkles.</li>
+            <li>A pair of substantial, aged breasts, confidently presented, bearing the clear marks of vast time and abundant experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and deeply mature, aged display.</li>
+            <li>The large, aged breasts on {PAWN_nameShort} are quite visible, their forms revealing the profound passage of many years.</li>
+            <li>An elderly chest, amply filled and open to view, showcasing the generous, deeply aged and worn contours.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Large_ElderFemale_observed_by_Elder_female</defName>
+        <label>Large Breasts (Neutral)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are visible. {PAWN_pronoun} recognizes the familiar shape of a woman of {PAWN_pronoun}'s own very advanced age.</li>
+            <li>The ample, aged chest of {PAWN_nameShort} is quite noticeable. {PAWN_pronoun} observes the profound changes that come with great time, a shared reality.</li>
+            <li>A generous pair of breasts, displaying considerable age and the heavy effects of time. {PAWN_pronoun} understands the natural, albeit profound, progression of the female form.</li>
+            <li>{PAWN_nameShortPossessive} large, aged chest, exposed, is simply a reality. {PAWN_pronoun} acknowledges their presence, a very natural progression of life.</li>
+            <li>Observing {PAWN_nameShortPossessive} ample, elderly breasts, their deeply relaxed form is evident. {PAWN_pronoun} regards them with a knowing, neutral, and empathetic perspective on aging.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large, elderly breasts is a simple visual fact. {PAWN_pronoun} registers their substantial, worn presence, understanding their journey.</li>
+            <li>{PAWN_nameShortPossessive} breasts, grand and exposed, are certainly large and very loose. {PAWN_pronoun} notes their softened contours, a shared, deeply visible record of time.</li>
+            <li>A full, aged chest on {PAWN_nameShort}, openly visible. {PAWN_pronoun} finds them quite voluminous, a fact to simply acknowledge and understand, knowing the feeling.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts, casually on view, are a prominent feature. {PAWN_pronoun} observes their deep sag and softened definition, a reflection of time.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} aged chest is clear, hinting at extensive experience and profound age. {PAWN_pronoun} notes their mature, worn contours.</li>
+            <li>A noticeable, elderly chest on {PAWN_nameShort}. {PAWN_pronoun} observes the large breasts, their considerable sway and prominent presence, without judgment, only shared understanding.</li>
+            <li>{PAWN_nameShortPossessive} generous, aged breasts are freely shown, a very common and expected sight among women of this advanced age.</li>
+            <li>The ample size of {PAWN_nameShortPossessive} aged chest is fully visible, a natural progression of a woman's body through the very long years.</li>
+            <li>{PAWN_nameShortPossessive} large, elderly breasts are on full, uninhibited display, making {PAWN_objective} consider their deeply aged form and texture.</li>
+            <li>Observing {PAWN_nameShortPossessive} chest, the prominent, aged breasts are quite striking in their natural, deeply aged state.</li>
+            <li>The large, elderly breasts of {PAWN_nameShort} are openly available to view. {PAWN_pronoun} notices their heavy, deeply settled appearance and wrinkles.</li>
+            <li>A pair of substantial, aged breasts, confidently presented, bearing the clear marks of vast time and abundant experience.</li>
+            <li>{PAWN_nameShortPossessive} chest is generously proportioned and freely shown, a truly ample and deeply mature, aged display.</li>
+            <li>The large, aged breasts on {PAWN_nameShort} are quite visible, their forms revealing the profound passage of many years.</li>
+            <li>An elderly chest, amply filled and open to view, showcasing the generous, deeply aged and worn contours.</li>
+        </opinionTexts>
+</Def>
+
+
+
+</Defs>

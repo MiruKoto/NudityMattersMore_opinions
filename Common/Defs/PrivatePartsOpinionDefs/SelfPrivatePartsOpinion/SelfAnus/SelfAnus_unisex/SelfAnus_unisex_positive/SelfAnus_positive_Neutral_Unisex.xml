@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Unisex gives opinion about his tiny butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Micro_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Anus_Micro_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My petite posterior is perfectly formed, with a subtly defined and pleasingly neat anus. It truly feels ideal, contributing to a calm and confident mood.</li>
+            <li>A remarkably tight and well-kept rear, its minimal form exudes a quiet, dignified appeal. I'm genuinely pleased with its elegant and controlled appearance.</li>
+            <li>This tiny, firm behind feels just right, offering a neat and unassuming presence. My spirits are lifted by its perfectly understated and aesthetically clean lines.</li>
+            <li>I find this compact, tidy backside to be quite admirable, its small size contributing to a sleek and refined silhouette. A genuinely uplifting sight.</li>
+            <li>My rear, though small, is perfectly sculpted and impeccably presented. The delicate anus is a testament to its refined grace, leaving me feeling great.</li>
+            <li>A subtly firm and well-proportioned small posterior, it carries itself with a quiet confidence. The discreet anus is fitting, fostering a truly content mood.</li>
+            <li>This tightly formed and well-preserved backside brings a feeling of deep satisfaction. Its modest size enhances its charm, making me feel serene and positive.</li>
+            <li>The disciplined shape of my compact rear is truly impressive, complemented by a perfectly unblemished anus. I feel composed and utterly confident in its form.</li>
+            <li>My small but shapely rear offers a pleasant visual, with a finely closed and modest anus. It certainly adds to my overall sense of calm and well-being.</li>
+            <li>This tidy, refined posterior perfectly suits my overall aesthetic. The unassuming anus feels completely natural and adds to my confident composure.</li>
+            <li>A sleek and minimalist backside, giving off an air of understated elegance. Its subtle anus contributes to a feeling of calm and self-assured pride.</li>
+            <li>My compact rear is a testament to clean lines and subtle strength. The unpretentious anus feels just right, embodying a quiet and profound satisfaction.</li>
+            <li>The small, firm curve of my backside is truly pleasing, with a naturally neat and unobtrusive anus. It instills a sense of quiet pride and contentment.</li>
+            <li>I appreciate the humble yet perfect presentation of my rear; its tight structure and discreet anus speak volumes. A confident, composed feeling washes over me.</li>
+            <li>This refined posterior, though modest in size, possesses an undeniable appeal. The subtle and clean anus truly enhances its overall charming appearance.</li>
+            <li>A neat and precise posterior, radiating quiet confidence and a sense of effortless perfection. The subtle anus contributes to a serene and positive self-image.</li>
+            <li>My compact, well-defined rear truly delights me. Its perfect shape and the perfectly controlled anus fill me with a deep sense of satisfaction.</li>
+            <li>I love the understated grace of my small, firm backside. Its neatly held anus is simply impeccable, reflecting a calm and profoundly satisfied demeanor.</li>
+            <li>This tiny, yet perfectly contoured posterior exudes a subtle elegance. The anus is unnoticeably neat, fostering a mood of contentment and quiet assurance.</li>
+            <li>My rear, small and tight, is wonderfully proportioned and exudes a sense of controlled beauty. The delicate anus adds to its refined and poised presentation.</li>
+            <li>The trim and tidy nature of my backside brings a quiet joy. Its subtle anus maintains an air of dignified simplicity, contributing to my serene state.</li>
+            <li>A wonderfully compact and firm posterior, maintaining an exquisite shape and a subtly perfect anus. This truly contributes to my tranquil and self-assured mood.</li>
+            <li>I admire the understated perfection of my small posterior, feeling its tight contours and the flawlessly neat anus. It truly enhances my calm disposition.</li>
+            <li>This diminutive yet shapely rear feels incredibly natural and aesthetically pleasing. The perfectly unexpanded anus provides a sense of pristine composure.</li>
+            <li>My firm, small posterior is a source of quiet confidence. Its discreet, unblemished anus perfectly completes a refined and effortlessly appealing form.</li>
+            <li>A delightful, tightly-formed backside that feels perfectly balanced and appealing. The nuanced anus adds to its overall refined charm, making me feel genuinely good.</li>
+            <li>I possess a remarkably neat and well-kept rear, its minimal footprint is truly appealing. The delicate anus is a testament to perfect self-control and pride.</li>
+            <li>The elegant precision of my small rear is truly commendable, with its discreet and flawlessly presented anus. It fills me with a sense of quiet assurance.</li>
+            <li>This wonderfully compact and firm posterior offers a pleasing silhouette. The subtle anus is perfectly formed, contributing to a calm and very positive disposition.</li>
+            <li>My tight, small backside is impeccably shaped and feels wonderfully natural. The neat anus is a subtle detail that completes an entirely satisfying appearance.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his small butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Tight_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Anus_Tight_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My backside is appealingly snug and well-toned, with a perfectly firm anus that feels pleasantly taut. It contributes to a strong, confident demeanor.</li>
+            <li>A truly tight and perfectly rounded posterior, its compact form is a source of quiet pride. The remarkably controlled anus adds to its aesthetic appeal.</li>
+            <li>This small, firm rear feels exceptionally good, offering a pleasingly tight and well-defined appearance. My mood is uplifted by its subtle, yet impactful, presence.</li>
+            <li>I find this compact, taut backside quite admirable, its modest size contributing to a sleek and solid silhouette. The discrete anus is perfectly in place.</li>
+            <li>My rear, while small, is impressively well-knit and impeccably presented. The perfectly firm anus is a testament to its refined grace, leaving me feeling great.</li>
+            <li>A subtly firm and well-proportioned small posterior, it carries itself with a quiet confidence. The discreet anus is fitting, fostering a truly content mood.</li>
+            <li>This tightly formed and well-preserved backside brings a feeling of deep satisfaction. Its modest size enhances its charm, making me feel serene and positive.</li>
+            <li>The disciplined shape of my compact rear is truly impressive, complemented by a perfectly unblemished anus. I feel composed and utterly confident in its form.</li>
+            <li>My small but shapely rear offers a pleasant visual, with a finely closed and modest anus. It certainly adds to my overall sense of calm and well-being.</li>
+            <li>This tidy, refined posterior perfectly suits my overall aesthetic. The unassuming anus feels completely natural and adds to my confident composure.</li>
+            <li>A sleek and minimalist backside, giving off an air of understated elegance. Its subtle anus contributes to a feeling of calm and self-assured pride.</li>
+            <li>My compact rear is a testament to clean lines and subtle strength. The unpretentious anus feels just right, embodying a quiet and profound satisfaction.</li>
+            <li>The small, firm curve of my backside is truly pleasing, with a naturally neat and unobtrusive anus. It instills a sense of quiet pride and contentment.</li>
+            <li>I appreciate the humble yet perfect presentation of my rear; its tight structure and discreet anus speak volumes. A confident, composed feeling washes over me.</li>
+            <li>This refined posterior, though modest in size, possesses an undeniable appeal. The subtle and clean anus truly enhances its overall charming appearance.</li>
+            <li>A neat and precise posterior, radiating quiet confidence and a sense of effortless perfection. The subtle anus contributes to a serene and positive self-image.</li>
+            <li>My compact, well-defined rear truly delights me. Its perfect shape and the perfectly controlled anus fill me with a deep sense of satisfaction.</li>
+            <li>I love the understated grace of my small, firm backside. Its neatly held anus is simply impeccable, reflecting a calm and profoundly satisfied demeanor.</li>
+            <li>This tiny, yet perfectly contoured posterior exudes a subtle elegance. The anus is unnoticeably neat, fostering a mood of contentment and quiet assurance.</li>
+            <li>My rear, small and tight, is wonderfully proportioned and exudes a sense of controlled beauty. The delicate anus adds to its refined and poised presentation.</li>
+            <li>The trim and tidy nature of my backside brings a quiet joy. Its subtle anus maintains an air of dignified simplicity, contributing to my serene state.</li>
+            <li>A wonderfully compact and firm posterior, maintaining an exquisite shape and a subtly perfect anus. This truly contributes to my tranquil and self-assured mood.</li>
+            <li>I admire the understated perfection of my small posterior, feeling its tight contours and the flawlessly neat anus. It truly enhances my calm disposition.</li>
+            <li>This diminutive yet shapely rear feels incredibly natural and aesthetically pleasing. The perfectly unexpanded anus provides a sense of pristine composure.</li>
+            <li>My firm, small posterior is a source of quiet confidence. Its discreet, unblemished anus perfectly completes a refined and effortlessly appealing form.</li>
+            <li>A delightful, tightly-formed backside that feels perfectly balanced and appealing. The nuanced anus adds to its overall refined charm, making me feel genuinely good.</li>
+            <li>I possess a remarkably neat and well-kept rear, its minimal footprint is truly appealing. The delicate anus is a testament to perfect self-control and pride.</li>
+            <li>The elegant precision of my small rear is truly commendable, with its discreet and flawlessly presented anus. It fills me with a sense of quiet assurance.</li>
+            <li>This wonderfully compact and firm posterior offers a pleasing silhouette. The subtle anus is perfectly formed, contributing to a calm and very positive disposition.</li>
+            <li>My tight, small backside is impeccably shaped and feels wonderfully natural. The neat anus is a subtle detail that completes an entirely satisfying appearance.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Average_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Anus_Average_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My backside is a perfect balance, neither too small nor too large, with an anus that feels just right. It's solid, well-defined, and pleasingly firm.</li>
+            <li>This average-sized rear feels robust and well-proportioned, with a comfortable and natural anus. Its subtle jiggliness adds a lively charm, boosting my mood.</li>
+            <li>A truly satisfying posterior, its balanced form and natural anus expansion are ideal. I appreciate its subtle curves and the way it moves, making me feel complete.</li>
+            <li>I find my butt to be perfectly adequate, with a well-maintained and unbothered anus. Its dependable presence contributes to my overall calm and contented feeling.</li>
+            <li>My rear, of standard size, holds its shape admirably, with an anus that feels healthy and well-regulated. I am thoroughly content with its everyday perfection.</li>
+            <li>A reliably pleasing posterior, offering a comforting sense of normalcy. The natural, unexpanded anus is just as it should be, leaving me feeling completely at ease.</li>
+            <li>This balanced backside brings a quiet sense of satisfaction, neither drawing attention nor lacking appeal. Its composed anus reflects a calm and confident state of mind.</li>
+            <li>The steady form of my average rear is genuinely comforting, providing a stable foundation. The anus maintains a neutral, unbothered expression, enhancing my peace.</li>
+            <li>My mid-sized butt feels entirely appropriate, with a naturally formed and unobtrusive anus. It truly supports my sense of self-acceptance and quiet contentment.</li>
+            <li>This normal posterior feels perfectly solid and well-rounded, with an anus that seems entirely content in its state. It contributes to my overall stable mood.</li>
+            <li>A perfectly average backside, offering reliable comfort and a pleasingly natural contour. Its neutral anus is a testament to its healthy, uncomplicated existence.</li>
+            <li>My rear is commendably balanced, neither demanding notice nor lacking presence. The composed anus feels just right, fostering a relaxed and positive self-image.</li>
+            <li>The dependable shape of my average butt is truly appreciated; it's a solid, unpretentious form. The anus is perfectly natural, confirming a deep sense of calm.</li>
+            <li>I take quiet pride in my well-proportioned posterior; its comfortable size and unexpanded anus are ideal. It contributes to my overall feeling of stability.</li>
+            <li>This standard-sized rear feels wonderfully natural and fits my body perfectly. The unreactive anus is a small detail that contributes to my overall calm.</li>
+            <li>A reassuringly normal backside, exuding an air of understated confidence. Its unexpanded anus reinforces a tranquil and positive sense of self.</li>
+            <li>My average-sized rear is delightfully balanced and perfectly functional. Its natural anus fills me with a quiet, yet profound, sense of satisfaction.</li>
+            <li>I embrace the simple perfection of my balanced backside; its composed anus is simply ideal. It reflects a calm and profoundly satisfied demeanor.</li>
+            <li>This perfectly contoured posterior, of middling size, feels incredibly natural and aesthetically sound. The discreet anus provides a sense of pristine composure.</li>
+            <li>My rear, stable and well-formed, is wonderfully proportional and exudes a sense of everyday beauty. The subtle anus adds to its natural and poised presentation.</li>
+            <li>The steady and reliable nature of my backside brings a quiet joy. Its natural anus maintains an air of dignified simplicity, contributing to my serene state.</li>
+            <li>A wonderfully balanced and firm posterior, maintaining an exquisite shape and a subtly perfect anus. This truly contributes to my tranquil and self-assured mood.</li>
+            <li>I admire the unpretentious perfection of my average posterior, feeling its solid contours and the flawlessly neutral anus. It truly enhances my calm disposition.</li>
+            <li>This dependable yet shapely rear feels incredibly natural and aesthetically pleasing. The perfectly unexpanded anus provides a sense of pristine composure.</li>
+            <li>My firm, average posterior is a source of quiet confidence. Its discreet, unblemished anus perfectly completes a natural and effortlessly appealing form.</li>
+            <li>A delightful, well-formed backside that feels perfectly balanced and appealing. The nuanced anus adds to its overall refined charm, making me feel genuinely good.</li>
+            <li>I possess a remarkably neat and well-kept rear, its balanced footprint is truly appealing. The natural anus is a testament to perfect self-control and pride.</li>
+            <li>The elegant precision of my average rear is truly commendable, with its discreet and flawlessly presented anus. It fills me with a sense of quiet assurance.</li>
+            <li>This wonderfully balanced and firm posterior offers a pleasing silhouette. The subtle anus is perfectly formed, contributing to a calm and very positive disposition.</li>
+            <li>My stable, average backside is impeccably shaped and feels wonderfully natural. The neat anus is a subtle detail that completes an entirely satisfying appearance.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Accommodating_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Anus_Accommodating_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My accommodating posterior feels pleasantly supple and well-rounded, with an anus that offers a relaxed and inviting warmth. It truly feels ideal, contributing to a confident mood.</li>
+            <li>A remarkably full and well-kept rear, its ample form exudes a quiet, dignified appeal. I'm genuinely pleased with its inviting and naturally expansive appearance.</li>
+            <li>This comfortably soft behind feels just right, offering a generous and welcoming presence. My spirits are lifted by its perfectly expressive and aesthetically warm lines.</li>
+            <li>I find this substantial, gentle backside to be quite admirable, its generous size contributing to a smooth and inviting silhouette. A genuinely uplifting sight.</li>
+            <li>My rear, though ample, is perfectly sculpted and impeccably presented. The subtly yielding anus is a testament to its natural charm, leaving me feeling great.</li>
+            <li>A subtly soft and well-proportioned large posterior, it carries itself with a quiet confidence. The accommodating anus is fitting, fostering a truly content mood.</li>
+            <li>This comfortably formed and well-preserved backside brings a feeling of deep satisfaction. Its generous size enhances its charm, making me feel serene and positive.</li>
+            <li>The inviting shape of my ample rear is truly impressive, complemented by a perfectly unblemished anus. I feel composed and utterly confident in its form.</li>
+            <li>My larger but shapely rear offers a pleasant visual, with a finely receptive and modest anus. It certainly adds to my overall sense of calm and well-being.</li>
+            <li>This yielding, refined posterior perfectly suits my overall aesthetic. The subtly open anus feels completely natural and adds to my confident composure.</li>
+            <li>A sleek and expansive backside, giving off an air of inviting elegance. Its subtle anus contributes to a feeling of calm and self-assured pride.</li>
+            <li>My comfortable rear is a testament to soft lines and subtle strength. The unpretentious anus feels just right, embodying a quiet and profound satisfaction.</li>
+            <li>The comfortable, soft curve of my backside is truly pleasing, with a naturally yielding and unobtrusive anus. It instills a sense of quiet pride and contentment.</li>
+            <li>I appreciate the humble yet perfect presentation of my rear; its soft structure and discreet anus speak volumes. A confident, composed feeling washes over me.</li>
+            <li>This refined posterior, though generous in size, possesses an undeniable appeal. The subtle and clean anus truly enhances its overall charming appearance.</li>
+            <li>A neat and precise posterior, radiating quiet confidence and a sense of effortless perfection. The subtle anus contributes to a serene and positive self-image.</li>
+            <li>My substantial, well-defined rear truly delights me. Its perfect shape and the perfectly accommodating anus fill me with a deep sense of satisfaction.</li>
+            <li>I love the understated grace of my comfortable, soft backside. Its neatly held anus is simply impeccable, reflecting a calm and profoundly satisfied demeanor.</li>
+            <li>This ample, yet perfectly contoured posterior exudes a subtle elegance. The anus is unnoticeably neat, fostering a mood of contentment and quiet assurance.</li>
+            <li>My rear, large and soft, is wonderfully proportioned and exudes a sense of controlled beauty. The delicate anus adds to its refined and poised presentation.</li>
+            <li>The trim and tidy nature of my backside brings a quiet joy. Its subtle anus maintains an air of dignified simplicity, contributing to my serene state.</li>
+            <li>A wonderfully ample and soft posterior, maintaining an exquisite shape and a subtly perfect anus. This truly contributes to my tranquil and self-assured mood.</li>
+            <li>I admire the understated perfection of my large posterior, feeling its soft contours and the flawlessly neat anus. It truly enhances my calm disposition.</li>
+            <li>This generous yet shapely rear feels incredibly natural and aesthetically pleasing. The perfectly unexpanded anus provides a sense of pristine composure.</li>
+            <li>My soft, large posterior is a source of quiet confidence. Its discreet, unblemished anus perfectly completes a refined and effortlessly appealing form.</li>
+            <li>A delightful, softly-formed backside that feels perfectly balanced and appealing. The nuanced anus adds to its overall refined charm, making me feel genuinely good.</li>
+            <li>I possess a remarkably neat and well-kept rear, its substantial footprint is truly appealing. The delicate anus is a testament to perfect self-control and pride.</li>
+            <li>The elegant precision of my large rear is truly commendable, with its discreet and flawlessly presented anus. It fills me with a sense of quiet assurance.</li>
+            <li>This wonderfully ample and soft posterior offers a pleasing silhouette. The subtle anus is perfectly formed, contributing to a calm and very positive disposition.</li>
+            <li>My soft, large backside is impeccably shaped and feels wonderfully natural. The neat anus is a subtle detail that completes an entirely satisfying appearance.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Cavernous_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Anus_Cavernous_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My butt is wonderfully full and inviting, with an anus that feels deep and welcoming. Its natural expanse and subtle sag offer a comforting sense of maturity.</li>
+            <li>A truly substantial and well-rounded posterior, its ample form is a source of deep satisfaction. The cavernous anus adds to its generous and expressive appeal.</li>
+            <li>This deeply comfortable backside feels exceptionally good, offering a pleasingly soft and expansive presence. My mood is uplifted by its naturally yielding charm.</li>
+            <li>I find this robust, soft backside quite admirable, its generous size contributing to a full and inviting silhouette. The naturally open anus feels entirely pleasant.</li>
+            <li>My rear, while grand, is impressively well-formed and impeccably presented. The ample anus is a testament to its natural splendor, leaving me feeling immensely proud.</li>
+            <li>A subtly soft and well-proportioned grand posterior, it carries itself with a quiet confidence. The capacious anus is fitting, fostering a truly content mood.</li>
+            <li>This comfortably formed and well-preserved backside brings a feeling of deep satisfaction. Its generous size enhances its charm, making me feel serene and positive.</li>
+            <li>The inviting shape of my ample rear is truly impressive, complemented by a perfectly unblemished anus. I feel composed and utterly confident in its form.</li>
+            <li>My larger but shapely rear offers a pleasant visual, with a finely receptive and modest anus. It certainly adds to my overall sense of calm and well-being.</li>
+            <li>This yielding, refined posterior perfectly suits my overall aesthetic. The subtly open anus feels completely natural and adds to my confident composure.</li>
+            <li>A sleek and expansive backside, giving off an air of inviting elegance. Its subtle anus contributes to a feeling of calm and self-assured pride.</li>
+            <li>My comfortable rear is a testament to soft lines and subtle strength. The unpretentious anus feels just right, embodying a quiet and profound satisfaction.</li>
+            <li>The comfortable, soft curve of my backside is truly pleasing, with a naturally yielding and unobtrusive anus. It instills a sense of quiet pride and contentment.</li>
+            <li>I appreciate the humble yet perfect presentation of my rear; its soft structure and discreet anus speak volumes. A confident, composed feeling washes over me.</li>
+            <li>This refined posterior, though generous in size, possesses an undeniable appeal. The subtle and clean anus truly enhances its overall charming appearance.</li>
+            <li>A neat and precise posterior, radiating quiet confidence and a sense of effortless perfection. The subtle anus contributes to a serene and positive self-image.</li>
+            <li>My substantial, well-defined rear truly delights me. Its perfect shape and the perfectly accommodating anus fill me with a deep sense of satisfaction.</li>
+            <li>I love the understated grace of my comfortable, soft backside. Its neatly held anus is simply impeccable, reflecting a calm and profoundly satisfied demeanor.</li>
+            <li>This ample, yet perfectly contoured posterior exudes a subtle elegance. The anus is unnoticeably neat, fostering a mood of contentment and quiet assurance.</li>
+            <li>My rear, large and soft, is wonderfully proportioned and exudes a sense of controlled beauty. The delicate anus adds to its refined and poised presentation.</li>
+            <li>The trim and tidy nature of my backside brings a quiet joy. Its subtle anus maintains an air of dignified simplicity, contributing to my serene state.</li>
+            <li>A wonderfully ample and soft posterior, maintaining an exquisite shape and a subtly perfect anus. This truly contributes to my tranquil and self-assured mood.</li>
+            <li>I admire the understated perfection of my large posterior, feeling its soft contours and the flawlessly neat anus. It truly enhances my calm disposition.</li>
+            <li>This generous yet shapely rear feels incredibly natural and aesthetically pleasing. The perfectly unexpanded anus provides a sense of pristine composure.</li>
+            <li>My soft, large posterior is a source of quiet confidence. Its discreet, unblemished anus perfectly completes a refined and effortlessly appealing form.</li>
+            <li>A delightful, softly-formed backside that feels perfectly balanced and appealing. The nuanced anus adds to its overall refined charm, making me feel genuinely good.</li>
+            <li>I possess a remarkably neat and well-kept rear, its substantial footprint is truly appealing. The delicate anus is a testament to perfect self-control and pride.</li>
+            <li>The elegant precision of my large rear is truly commendable, with its discreet and flawlessly presented anus. It fills me with a sense of quiet assurance.</li>
+            <li>This wonderfully ample and soft posterior offers a pleasing silhouette. The subtle anus is perfectly formed, contributing to a calm and very positive disposition.</li>
+            <li>My soft, large backside is impeccably shaped and feels wonderfully natural. The neat anus is a subtle detail that completes an entirely satisfying appearance.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Abyssal_Neutral_Unisex_Positive</defName>
+        <label>Opinion_Self_Anus_Abyssal_Neutral_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My truly grand posterior is a magnificent sight, with an anus that feels incredibly expansive and openly inviting. Its significant presence is wonderfully affirming.</li>
+            <li>A remarkably generous and well-cared-for rear, its abundant form radiates quiet majesty. I'm genuinely pleased with its natural sagginess and deeply expressive appearance.</li>
+            <li>This gloriously soft backside feels incredibly right, offering a vast and welcoming presence. My spirits are lifted by its profoundly expressive and aesthetically rich lines.</li>
+            <li>I find this immense, gentle backside to be quite admirable, its considerable size contributing to a full and commanding silhouette. A genuinely uplifting sight.</li>
+            <li>My rear, though enormous, is perfectly sculpted and impeccably presented. The vastly yielding anus is a testament to its natural magnificence, leaving me feeling immense pride.</li>
+            <li>A subtly soft and well-proportioned colossal posterior, it carries itself with a quiet confidence. The abyssal anus is fitting, fostering a truly content mood.</li>
+            <li>This comfortably formed and well-preserved backside brings a feeling of deep satisfaction. Its generous size enhances its charm, making me feel serene and positive.</li>
+            <li>The inviting shape of my ample rear is truly impressive, complemented by a perfectly unblemished anus. I feel composed and utterly confident in its form.</li>
+            <li>My larger but shapely rear offers a pleasant visual, with a finely receptive and modest anus. It certainly adds to my overall sense of calm and well-being.</li>
+            <li>This yielding, refined posterior perfectly suits my overall aesthetic. The subtly open anus feels completely natural and adds to my confident composure.</li>
+            <li>A sleek and expansive backside, giving off an air of inviting elegance. Its subtle anus contributes to a feeling of calm and self-assured pride.</li>
+            <li>My comfortable rear is a testament to soft lines and subtle strength. The unpretentious anus feels just right, embodying a quiet and profound satisfaction.</li>
+            <li>The comfortable, soft curve of my backside is truly pleasing, with a naturally yielding and unobtrusive anus. It instills a sense of quiet pride and contentment.</li>
+            <li>I appreciate the humble yet perfect presentation of my rear; its soft structure and discreet anus speak volumes. A confident, composed feeling washes over me.</li>
+            <li>This refined posterior, though generous in size, possesses an undeniable appeal. The subtle and clean anus truly enhances its overall charming appearance.</li>
+            <li>A neat and precise posterior, radiating quiet confidence and a sense of effortless perfection. The subtle anus contributes to a serene and positive self-image.</li>
+            <li>My substantial, well-defined rear truly delights me. Its perfect shape and the perfectly accommodating anus fill me with a deep sense of satisfaction.</li>
+            <li>I love the understated grace of my comfortable, soft backside. Its neatly held anus is simply impeccable, reflecting a calm and profoundly satisfied demeanor.</li>
+            <li>This ample, yet perfectly contoured posterior exudes a subtle elegance. The anus is unnoticeably neat, fostering a mood of contentment and quiet assurance.</li>
+            <li>My rear, large and soft, is wonderfully proportioned and exudes a sense of controlled beauty. The delicate anus adds to its refined and poised presentation.</li>
+            <li>The trim and tidy nature of my backside brings a quiet joy. Its subtle anus maintains an air of dignified simplicity, contributing to my serene state.</li>
+            <li>A wonderfully ample and soft posterior, maintaining an exquisite shape and a subtly perfect anus. This truly contributes to my tranquil and self-assured mood.</li>
+            <li>I admire the understated perfection of my large posterior, feeling its soft contours and the flawlessly neat anus. It truly enhances my calm disposition.</li>
+            <li>This generous yet shapely rear feels incredibly natural and aesthetically pleasing. The perfectly unexpanded anus provides a sense of pristine composure.</li>
+            <li>My soft, large posterior is a source of quiet confidence. Its discreet, unblemished anus perfectly completes a refined and effortlessly appealing form.</li>
+            <li>A delightful, softly-formed backside that feels perfectly balanced and appealing. The nuanced anus adds to its overall refined charm, making me feel genuinely good.</li>
+            <li>I possess a remarkably neat and well-kept rear, its substantial footprint is truly appealing. The delicate anus is a testament to perfect self-control and pride.</li>
+            <li>The elegant precision of my large rear is truly commendable, with its discreet and flawlessly presented anus. It fills me with a sense of quiet assurance.</li>
+            <li>This wonderfully ample and soft posterior offers a pleasing silhouette. The subtle anus is perfectly formed, contributing to a calm and very positive disposition.</li>
+            <li>My soft, large backside is impeccably shaped and feels wonderfully natural. The neat anus is a subtle detail that completes an entirely satisfying appearance.</li>
+        </opinionTexts>
+    </Def>
+</Defs>

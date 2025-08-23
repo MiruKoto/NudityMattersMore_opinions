@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale</defName>
+        <label>Micro Anus (Neutral)_MatureFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The curves of {PAWN_nameShortPossessive} backside are modest; the subtle detail is barely noticeable, fading into the smooth silhouette.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} rear reveals compact contours, with the small feature almost receding from view.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses a restrained form; the slight feature is so small it's nearly imperceptible.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely visible, a minor point on a subtle anatomy.</li>
+            <li>The shape of {PAWN_nameShortPossessive} butt is unassuming, and the diminutive feature is truly micro, offering little to note.</li>
+            <li>{PAWN_nameShortPossessive} backside has a gentle slope, the minute anatomy almost vanishes against the skin.</li>
+            <li>A quick look confirms a modest rear, with the slight detail requiring close inspection to discern its presence.</li>
+            <li>{PAWN_nameShortPossessive} anatomy presents a compact form, its smallest part barely a shadow against the skin.</li>
+            <li>The posterior contour is smooth and unassuming; the almost invisible feature gives off a sense of discretion.</li>
+            <li>{PAWN_nameShortPossessive} rear is proportioned evenly, its micro-sized opening hinting at a private nature.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale_observed_by_voyer</defName>
+        <label>Micro Anus (Neutral)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A quick glance at {PAWN_nameShortPossessive} rear reveals a very small opening, almost too subtle to satisfy.</li>
+            <li>The unexpectedly tiny feature on {PAWN_nameShortPossessive} backside is nearly hidden; it requires effort to truly observe.</li>
+            <li>{PAWN_nameShortPossessive} posterior anatomy is discreet, its smallness making it quite elusive to the voyeuristic eye.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the diminutive detail is barely perceptible, offering little to linger on.</li>
+            <li>{PAWN_nameShortPossessive} butt has a reserved shape, and the subtle, micro-sized feature is almost frustratingly concealed.</li>
+            <li>The almost invisible aspect of {PAWN_nameShortPossessive} rear is not what was expected; it demands a closer, perhaps unwelcome, look.</li>
+            <li>A fleeting view confirmed the micro scale, nearly invisible, leaving little to visually absorb or analyze.</li>
+            <li>{PAWN_nameShortPossessive} anatomy reveals a very tight and small opening; observation yields minimal visual return.</li>
+            <li>The reserved contours of {PAWN_nameShortPossessive} posterior make the micro feature almost disappear from sight.</li>
+            <li>{PAWN_nameShortPossessive} backside is quite modest; the tiny, concealed detail requires a keen and persistent observer.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Micro Anus (Neutral)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The subtly formed backside of {PAWN_nameShort} seems to almost conceal this micro feature, limiting its exhibition value.</li>
+            <li>{PAWN_nameShortPossessive} small, unpronounced detail is almost too modest to truly feel exposed. It nearly disappears.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the minimal opening makes it a less impactful display.</li>
+            <li>The form of {PAWN_nameShortPossessive} butt is rather discreet, the tiny, almost invisible part offers little to showcase.</li>
+            <li>{PAWN_nameShortPossessive} hindquarters present a very subtle anatomy; its smallest feature is barely there for public view.</li>
+            <li>A reserved sight: the micro element on {PAWN_nameShortPossessive} body barely registers as something to exhibit.</li>
+            <li>{PAWN_nameShortPossessive} posterior is compact, and the small feature struggles to be a focal point of exposure.</li>
+            <li>The faintness of {PAWN_nameShortPossessive} anatomy suggests a quiet form, with very little to put on display.</li>
+            <li>This tiny detail on {PAWN_nameShortPossessive} rear is hardly noticeable, diminishing the thrill of public display.</li>
+            <li>{PAWN_nameShortPossessive} modest backside and its minimal feature offer little in the way of exhibition.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Micro Anus (Neutral)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} subtle rear, with its scarcely visible feature, barely stirs any interest.</li>
+            <li>The diminutive detail on {PAWN_nameShortPossessive} anatomy is so small, it offers little to engage the senses.</li>
+            <li>A fleeting glance at {PAWN_nameShortPossessive} butt shows an almost unnoticeable part, providing minimal stimulation.</li>
+            <li>The micro aspect of {PAWN_nameShortPossessive} hindquarters is far too discreet to excite any significant urges.</li>
+            <li>{PAWN_nameShortPossessive} posterior’s modest form and tiny opening feel quite uninspiring, leaving {PAWN_objective} cold.</li>
+            <li>The miniscule size of this particular feature on {PAWN_nameShort} offers a distinctly unremarkable observation.</li>
+            <li>Hardly noticeable, the smallness of {PAWN_nameShortPossessive} feature does not provoke any intense desire.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive} backside, with its almost hidden detail, lacks allure.</li>
+            <li>This barely perceptible aspect of {PAWN_nameShortPossessive} anatomy leaves much to be desired, feeling quite mundane.</li>
+            <li>{PAWN_nameShortPossessive} posterior's understated appearance and micro feature generate little to no arousal.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale_observed_by_Prude</defName>
+        <label>Micro Anus (Neutral)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Avert your eyes! The very thought of {PAWN_nameShortPossessive} private anatomy, however small, is unsettling.</li>
+            <li>Such an intimate detail, even if micro, should not be exposed. {PAWN_nameShortPossessive} form is too revealing.</li>
+            <li>The discreet feature on {PAWN_nameShortPossessive} posterior is still an improper sight; it causes a sense of discomfort.</li>
+            <li>The almost hidden part of {PAWN_nameShortPossessive} hindquarters is an unnecessary revelation, despite its smallness.</li>
+            <li>{PAWN_nameShortPossessive} backside, even with its barely visible feature, still presents an inappropriate exposure.</li>
+            <li>Witnessing any part of {PAWN_nameShortPossessive} private anatomy, even a tiny one, is truly a modest shock.</li>
+            <li>The delicate, almost unseen aspect of {PAWN_nameShortPossessive} body should remain completely private.</li>
+            <li>{PAWN_nameShortPossessive} posterior, though its feature is minimal, still offends a sense of decency.</li>
+            <li>The subtle visibility of this intimate detail on {PAWN_nameShort} is still an unwanted encounter.</li>
+            <li>This private part, however micro, should not be so casually displayed from {PAWN_nameShortPossessive} form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale_observed_by_Young_male</defName>
+        <label>Micro Anus (Neutral)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature, subtle backside has a tiny, almost hidden detail. It's not particularly exciting.</li>
+            <li>The micro feature on {PAWN_nameShortPossessive} older, womanly anatomy is so discreet, it barely registered a thought.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} posterior confirms its compact form, with little visible detail. Nothing special.</li>
+            <li>{PAWN_nameShortPossessive} hindquarters are of a mature female, and the minuscule opening is hardly visible, thus unremarkable.</li>
+            <li>The butt shape is somewhat settled, and the almost unnoticeable feature is too small to truly engage {OBSERVER_nameShortPossessive} attention.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, the tiny, elusive detail is just there, without much appeal.</li>
+            <li>Her mature form presents a subdued backside; the micro feature is not something to dwell upon.</li>
+            <li>{PAWN_nameShortPossessive} anatomy shows a small, almost unseen part. It's not particularly attractive or repulsive.</li>
+            <li>The modest curvature of {PAWN_nameShortPossessive} butt leads to a very subtle, nearly imperceptible feature.</li>
+            <li>A neutral observation: {PAWN_nameShortPossessive} mature rear, with its tiny, barely there detail, is simply a fact.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale_observed_by_Young_female</defName>
+        <label>Micro Anus (Neutral)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature backside has a very small, almost hidden detail. It's quite discreet.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, much like {OBSERVER_nameShortPossessive} own might be.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a very private anatomy.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, mature shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a woman's of a certain age, has an unpronounced detail. It's just a body part.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous.</li>
+            <li>Her backside has a gentle slope, and the minute opening is barely there, quite unrevealing.</li>
+            <li>{PAWN_nameShortPossessive} mature figure shows a discreet butt and a nearly invisible, tiny feature.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Micro Anus (Neutral)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature female backside presents a very small, almost hidden detail. It's a reserved sight.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} posterior, an older woman's, reveals a subtle and almost invisible feature.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} hindquarters shows a compact form; the minimal opening suggests discretion.</li>
+            <li>{PAWN_nameShortPossessive} butt has a modest shape, and the tiny detail is barely discernible. It’s neither appealing nor off-putting.</li>
+            <li>The unpronounced aspect of {PAWN_nameShortPossessive} anatomy is not particularly noteworthy, just a part of an aging body.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, the micro-sized feature is there, but offers little to think about.</li>
+            <li>Her form, though mature, offers a discreet backside with an almost invisible, minute detail.</li>
+            <li>{PAWN_nameShortPossessive} posterior presents a natural, albeit unassuming, appearance. The tiny part blends in.</li>
+            <li>The subtle contours of {PAWN_nameShortPossessive} butt lead to a feature so small it's barely worth a second glance.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} mature female anatomy, its smallest detail almost nonexistent.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Micro Anus (Neutral)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature backside has a very small, almost hidden detail, typical for a woman {PAWN_pronoun}s age.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, a common mature female trait.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a private, unassuming anatomy.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, mature shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, familiar to me.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin, as expected.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a woman's of a certain age, has an unpronounced detail. It's just a normal body part.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, as with many women.</li>
+            <li>Her backside has a gentle slope, and the minute opening is barely there, quite unrevealing, much like my own.</li>
+            <li>{PAWN_nameShortPossessive} mature figure shows a discreet butt and a nearly invisible, tiny feature, a common aging characteristic.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale_observed_by_Elder_male</defName>
+        <label>Micro Anus (Neutral)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature female backside presents a very small, almost hidden detail. A discreet observation.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} posterior, an older woman's, reveals a subtle and almost invisible feature.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} hindquarters shows a compact form; the minimal opening suggests discretion.</li>
+            <li>{PAWN_nameShortPossessive} butt has a modest shape, and the tiny detail is barely discernible. It’s neither appealing nor off-putting.</li>
+            <li>The unpronounced aspect of {PAWN_nameShortPossessive} anatomy is not particularly noteworthy, just a part of an aging body.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, the micro-sized feature is there, but offers little to think about.</li>
+            <li>Her form, though mature, offers a discreet backside with an almost invisible, minute detail.</li>
+            <li>{PAWN_nameShortPossessive} posterior presents a natural, albeit unassuming, appearance. The tiny part blends in.</li>
+            <li>The subtle contours of {PAWN_nameShortPossessive} butt lead to a feature so small it's barely worth a second glance.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} mature female anatomy, its smallest detail almost nonexistent.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureFemale_observed_by_Elder_female</defName>
+        <label>Micro Anus (Neutral)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature backside has a very small, almost hidden detail, typical for a woman {PAWN_pronoun}s age.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, a common mature female trait.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a private, unassuming anatomy.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, mature shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, familiar to me.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin, as expected.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a woman's of a certain age, has an unpronounced detail. It's just a normal body part.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, as with many women.</li>
+            <li>Her backside has a gentle slope, and the minute opening is barely there, quite unrevealing, much like my own.</li>
+            <li>{PAWN_nameShortPossessive} mature figure shows a discreet butt and a nearly invisible, tiny feature, a common aging characteristic.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale</defName>
+        <label>Micro Anus (Neutral)_MatureMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature male backside of {PAWN_nameShort} reveals a very small, almost hidden detail, typical for {PAWN_pronoun}s age.</li>
+            <li>A fleeting look at {PAWN_nameShortPossessive} posterior shows a compact, unassuming form, with a nearly imperceptible feature.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable, fading into the subtle anatomy.</li>
+            <li>{PAWN_nameShortPossessive} butt has a modest shape, and the diminutive feature is truly micro, offering little to note.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite reserved, its smallness suggesting a private disposition.</li>
+            <li>A quick glance reveals a standard form, with the micro feature almost blending into the skin.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a man's of a certain age, has an unpronounced detail. It's just a body part.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous.</li>
+            <li>His backside has a gentle slope, and the minute opening is barely there, quite unrevealing.</li>
+            <li>{PAWN_nameShortPossessive} mature figure shows a discreet butt and a nearly invisible, tiny feature.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale_observed_by_voyer</defName>
+        <label>Micro Anus (Neutral)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A quick glance at {PAWN_nameShortPossessive} rear reveals a very small opening, almost too subtle to satisfy this voyeur.</li>
+            <li>The unexpectedly tiny feature on {PAWN_nameShortPossessive} backside is nearly hidden; it requires effort to truly observe.</li>
+            <li>{PAWN_nameShortPossessive} posterior anatomy is discreet, its smallness making it quite elusive to the voyeuristic eye.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the diminutive detail is barely perceptible, offering little to linger on.</li>
+            <li>{PAWN_nameShortPossessive} butt has a reserved shape, and the subtle, micro-sized feature is almost frustratingly concealed.</li>
+            <li>The almost invisible aspect of {PAWN_nameShortPossessive} rear is not what was expected; it demands a closer, perhaps unwelcome, look.</li>
+            <li>A fleeting view confirmed the micro scale, nearly invisible, leaving little to visually absorb or analyze.</li>
+            <li>{PAWN_nameShortPossessive} anatomy reveals a very tight and small opening; observation yields minimal visual return.</li>
+            <li>The reserved contours of {PAWN_nameShortPossessive} posterior make the micro feature almost disappear from sight.</li>
+            <li>{PAWN_nameShortPossessive} backside is quite modest; the tiny, concealed detail requires a keen and persistent observer.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Micro Anus (Neutral)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The subtly formed backside of {PAWN_nameShort} seems to almost conceal this micro feature, limiting its exhibition value.</li>
+            <li>{PAWN_nameShortPossessive} small, unpronounced detail is almost too modest to truly feel exposed. It nearly disappears.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the minimal opening makes it a less impactful display for an exhibitionist.</li>
+            <li>The form of {PAWN_nameShortPossessive} butt is rather discreet, the tiny, almost invisible part offers little to showcase.</li>
+            <li>{PAWN_nameShortPossessive} hindquarters present a very subtle anatomy; its smallest feature is barely there for public view.</li>
+            <li>A reserved sight: the micro element on {PAWN_nameShortPossessive} body barely registers as something to exhibit.</li>
+            <li>{PAWN_nameShortPossessive} posterior is compact, and the small feature struggles to be a focal point of exposure.</li>
+            <li>The faintness of {PAWN_nameShortPossessive} anatomy suggests a quiet form, with very little to put on display.</li>
+            <li>This tiny detail on {PAWN_nameShortPossessive} rear is hardly noticeable, diminishing the thrill of public display.</li>
+            <li>{PAWN_nameShortPossessive} modest backside and its minimal feature offer little in the way of exhibition.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Micro Anus (Neutral)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} subtle rear, with its scarcely visible feature, barely stirs any interest for a nymphomaniac.</li>
+            <li>The diminutive detail on {PAWN_nameShortPossessive} anatomy is so small, it offers little to engage the senses.</li>
+            <li>A fleeting glance at {PAWN_nameShortPossessive} butt shows an almost unnoticeable part, providing minimal stimulation.</li>
+            <li>The micro aspect of {PAWN_nameShortPossessive} hindquarters is far too discreet to excite any significant urges.</li>
+            <li>{PAWN_nameShortPossessive} posterior’s modest form and tiny opening feel quite uninspiring, leaving {PAWN_objective} cold.</li>
+            <li>The miniscule size of this particular feature on {PAWN_nameShort} offers a distinctly unremarkable observation.</li>
+            <li>Hardly noticeable, the smallness of {PAWN_nameShortPossessive} feature does not provoke any intense desire.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive} backside, with its almost hidden detail, lacks allure.</li>
+            <li>This barely perceptible aspect of {PAWN_nameShortPossessive} anatomy leaves much to be desired, feeling quite mundane.</li>
+            <li>{PAWN_nameShortPossessive} posterior's understated appearance and micro feature generate little to no arousal.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale_observed_by_Prude</defName>
+        <label>Micro Anus (Neutral)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Avert your eyes! The very thought of {PAWN_nameShortPossessive} private anatomy, however small, is unsettling.</li>
+            <li>Such an intimate detail, even if micro, should not be exposed. {PAWN_nameShortPossessive} form is too revealing.</li>
+            <li>The discreet feature on {PAWN_nameShortPossessive} posterior is still an improper sight; it causes a sense of discomfort.</li>
+            <li>The almost hidden part of {PAWN_nameShortPossessive} hindquarters is an unnecessary revelation, despite its smallness.</li>
+            <li>{PAWN_nameShortPossessive} backside, even with its barely visible feature, still presents an inappropriate exposure.</li>
+            <li>Witnessing any part of {PAWN_nameShortPossessive} private anatomy, even a tiny one, is truly a modest shock.</li>
+            <li>The delicate, almost unseen aspect of {PAWN_nameShortPossessive} body should remain completely private.</li>
+            <li>{PAWN_nameShortPossessive} posterior, though its feature is minimal, still offends a sense of decency.</li>
+            <li>The subtle visibility of this intimate detail on {PAWN_nameShort} is still an unwanted encounter.</li>
+            <li>This private part, however micro, should not be so casually displayed from {PAWN_nameShortPossessive} form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale_observed_by_Young_male</defName>
+        <label>Micro Anus (Neutral)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature, subtle backside has a tiny, almost hidden detail. It's not particularly exciting.</li>
+            <li>The micro feature on {PAWN_nameShortPossessive} older, male anatomy is so discreet, it barely registered a thought.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} posterior confirms its compact form, with little visible detail. Nothing special.</li>
+            <li>{PAWN_nameShortPossessive} hindquarters are of a mature male, and the minuscule opening is hardly visible, thus unremarkable.</li>
+            <li>The butt shape is somewhat settled, and the almost unnoticeable feature is too small to truly engage {OBSERVER_nameShortPossessive} attention.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, the tiny, elusive detail is just there, without much appeal.</li>
+            <li>His mature form presents a subdued backside; the micro feature is not something to dwell upon.</li>
+            <li>{PAWN_nameShortPossessive} anatomy shows a small, almost unseen part. It's not particularly attractive or repulsive.</li>
+            <li>The modest curvature of {PAWN_nameShortPossessive} butt leads to a very subtle, nearly imperceptible feature.</li>
+            <li>A neutral observation: {PAWN_nameShortPossessive} mature rear, with its tiny, barely there detail, is simply a fact.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale_observed_by_Young_female</defName>
+        <label>Micro Anus (Neutral)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature backside has a very small, almost hidden detail. It's quite discreet, not really for me.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, not particularly appealing.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a very private anatomy, not inviting.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, mature shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, but no spark.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin. Nothing stands out.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a man's of a certain age, has an unpronounced detail. It's just a body part to observe.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, so no reaction.</li>
+            <li>His backside has a gentle slope, and the minute opening is barely there, quite unrevealing, definitely not stirring.</li>
+            <li>{PAWN_nameShortPossessive} mature figure shows a discreet butt and a nearly invisible, tiny feature. Just an observation.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Micro Anus (Neutral)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature male backside presents a very small, almost hidden detail. A discreet observation.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} posterior, a man's of a certain age, reveals a subtle and almost invisible feature.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} hindquarters shows a compact form; the minimal opening suggests discretion.</li>
+            <li>{PAWN_nameShortPossessive} butt has a modest shape, and the tiny detail is barely discernible. It’s neither appealing nor off-putting.</li>
+            <li>The unpronounced aspect of {PAWN_nameShortPossessive} anatomy is not particularly noteworthy, just a part of an aging body.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, the micro-sized feature is there, but offers little to think about.</li>
+            <li>His form, though mature, offers a discreet backside with an almost invisible, minute detail.</li>
+            <li>{PAWN_nameShortPossessive} posterior presents a natural, albeit unassuming, appearance. The tiny part blends in.</li>
+            <li>The subtle contours of {PAWN_nameShortPossessive} butt lead to a feature so small it's barely worth a second glance.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} mature male anatomy, its smallest detail almost nonexistent.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Micro Anus (Neutral)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature male backside has a very small, almost hidden detail. Not particularly intriguing.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, offering no real appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a very private anatomy, not for me.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, mature shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, but no spark.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin. Nothing stands out.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a man's of a certain age, has an unpronounced detail. It's just a body part to observe.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, so no reaction.</li>
+            <li>His backside has a gentle slope, and the minute opening is barely there, quite unrevealing, definitely not stirring.</li>
+            <li>{PAWN_nameShortPossessive} mature figure shows a discreet butt and a nearly invisible, tiny feature. Just an observation.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Elder male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale_observed_by_Elder_male</defName>
+        <label>Micro Anus (Neutral)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature male backside presents a very small, almost hidden detail. A discreet observation.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} posterior, an older man's, reveals a subtle and almost invisible feature.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} hindquarters shows a compact form; the minimal opening suggests discretion.</li>
+            <li>{PAWN_nameShortPossessive} butt has a modest shape, and the tiny detail is barely discernible. It’s neither appealing nor off-putting.</li>
+            <li>The unpronounced aspect of {PAWN_nameShortPossessive} anatomy is not particularly noteworthy, just a part of an aging body.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, the micro-sized feature is there, but offers little to think about.</li>
+            <li>His form, though mature, offers a discreet backside with an almost invisible, minute detail.</li>
+            <li>{PAWN_nameShortPossessive} posterior presents a natural, albeit unassuming, appearance. The tiny part blends in.</li>
+            <li>The subtle contours of {PAWN_nameShortPossessive} butt lead to a feature so small it's barely worth a second glance.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} mature male anatomy, its smallest detail almost nonexistent.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_MatureMale_observed_by_Elder_female</defName>
+        <label>Micro Anus (Neutral)_MatureMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature male backside has a very small, almost hidden detail. Not particularly intriguing.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, offering no real appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a very private anatomy, not for me.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, mature shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, but no spark.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin. Nothing stands out.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a man's of a certain age, has an unpronounced detail. It's just a body part to observe.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, so no reaction.</li>
+            <li>His backside has a gentle slope, and the minute opening is barely there, quite unrevealing, definitely not stirring.</li>
+            <li>{PAWN_nameShortPossessive} mature figure shows a discreet butt and a nearly invisible, tiny feature. Just an observation.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale</defName>
+        <label>Micro Anus (Neutral)_ElderFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} aged backside holds a very small, almost hidden detail, typical for {PAWN_pronoun}s age.</li>
+            <li>The subtle form of {PAWN_nameShortPossessive} posterior shows a micro-sized feature, barely visible, quite unassuming.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable, blending into the elderly anatomy.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, aged shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet, private disposition.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin of an older person.</li>
+            <li>{PAWN_nameShortPossessive} posterior, an elderly woman's, has an unpronounced detail. It's just a body part.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous.</li>
+            <li>Her aged backside has a gentle slope, and the minute opening is barely there, quite unrevealing.</li>
+            <li>{PAWN_nameShortPossessive} elder figure shows a discreet butt and a nearly invisible, tiny feature.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale_observed_by_voyer</defName>
+        <label>Micro Anus (Neutral)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A quick glance at {PAWN_nameShortPossessive} aged rear reveals a very small opening, almost too subtle to satisfy this voyeur.</li>
+            <li>The unexpectedly tiny feature on {PAWN_nameShortPossessive} elderly backside is nearly hidden; it requires effort to truly observe.</li>
+            <li>{PAWN_nameShortPossessive} posterior anatomy is discreet, its smallness making it quite elusive to the voyeuristic eye.</li>
+            <li>Observing {PAWN_nameShortPossessive} aged hindquarters, the diminutive detail is barely perceptible, offering little to linger on.</li>
+            <li>{PAWN_nameShortPossessive} butt has a reserved shape, and the subtle, micro-sized feature is almost frustratingly concealed.</li>
+            <li>The almost invisible aspect of {PAWN_nameShortPossessive} elder rear is not what was expected; it demands a closer, perhaps unwelcome, look.</li>
+            <li>A fleeting view confirmed the micro scale, nearly invisible, leaving little to visually absorb or analyze.</li>
+            <li>{PAWN_nameShortPossessive} anatomy reveals a very tight and small opening; observation yields minimal visual return.</li>
+            <li>The reserved contours of {PAWN_nameShortPossessive} posterior make the micro feature almost disappear from sight.</li>
+            <li>{PAWN_nameShortPossessive} backside is quite modest; the tiny, concealed detail requires a keen and persistent observer.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Micro Anus (Neutral)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The subtly formed backside of {PAWN_nameShort} seems to almost conceal this micro feature, limiting its exhibition value.</li>
+            <li>{PAWN_nameShortPossessive} small, unpronounced detail is almost too modest to truly feel exposed. It nearly disappears.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the minimal opening makes it a less impactful display for an exhibitionist.</li>
+            <li>The form of {PAWN_nameShortPossessive} butt is rather discreet, the tiny, almost invisible part offers little to showcase.</li>
+            <li>{PAWN_nameShortPossessive} hindquarters present a very subtle anatomy; its smallest feature is barely there for public view.</li>
+            <li>A reserved sight: the micro element on {PAWN_nameShortPossessive} body barely registers as something to exhibit.</li>
+            <li>{PAWN_nameShortPossessive} posterior is compact, and the small feature struggles to be a focal point of exposure.</li>
+            <li>The faintness of {PAWN_nameShortPossessive} anatomy suggests a quiet form, with very little to put on display.</li>
+            <li>This tiny detail on {PAWN_nameShortPossessive} rear is hardly noticeable, diminishing the thrill of public display.</li>
+            <li>{PAWN_nameShortPossessive} modest backside and its minimal feature offer little in the way of exhibition.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Micro Anus (Neutral)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} subtle rear, with its scarcely visible feature, barely stirs any interest for a nymphomaniac.</li>
+            <li>The diminutive detail on {PAWN_nameShortPossessive} aged anatomy is so small, it offers little to engage the senses.</li>
+            <li>A fleeting glance at {PAWN_nameShortPossessive} butt shows an almost unnoticeable part, providing minimal stimulation.</li>
+            <li>The micro aspect of {PAWN_nameShortPossessive} elderly hindquarters is far too discreet to excite any significant urges.</li>
+            <li>{PAWN_nameShortPossessive} posterior’s aged, modest form and tiny opening feel quite uninspiring, leaving {PAWN_objective} cold.</li>
+            <li>The miniscule size of this particular feature on {PAWN_nameShort} offers a distinctly unremarkable observation.</li>
+            <li>Hardly noticeable, the smallness of {PAWN_nameShortPossessive} feature does not provoke any intense desire.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive} backside, with its almost hidden detail, lacks allure.</li>
+            <li>This barely perceptible aspect of {PAWN_nameShortPossessive} anatomy leaves much to be desired, feeling quite mundane.</li>
+            <li>{PAWN_nameShortPossessive} posterior's understated appearance and micro feature generate little to no arousal.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale_observed_by_Prude</defName>
+        <label>Micro Anus (Neutral)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Avert your eyes! The very thought of {PAWN_nameShortPossessive} private anatomy, however small, is unsettling.</li>
+            <li>Such an intimate detail, even if micro, should not be exposed. {PAWN_nameShortPossessive} form is too revealing.</li>
+            <li>The discreet feature on {PAWN_nameShortPossessive} posterior is still an improper sight; it causes a sense of discomfort.</li>
+            <li>The almost hidden part of {PAWN_nameShortPossessive} hindquarters is an unnecessary revelation, despite its smallness.</li>
+            <li>{PAWN_nameShortPossessive} backside, even with its barely visible feature, still presents an inappropriate exposure.</li>
+            <li>Witnessing any part of {PAWN_nameShortPossessive} private anatomy, even a tiny one, is truly a modest shock.</li>
+            <li>The delicate, almost unseen aspect of {PAWN_nameShortPossessive} body should remain completely private.</li>
+            <li>{PAWN_nameShortPossessive} posterior, though its feature is minimal, still offends a sense of decency.</li>
+            <li>The subtle visibility of this intimate detail on {PAWN_nameShort} is still an unwanted encounter.</li>
+            <li>This private part, however micro, should not be so casually displayed from {PAWN_nameShortPossessive} form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale_observed_by_Young_male</defName>
+        <label>Micro Anus (Neutral)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly, subtle backside has a tiny, almost hidden detail. It's not particularly exciting for a young man.</li>
+            <li>The micro feature on {PAWN_nameShortPossessive} older woman's anatomy is so discreet, it barely registered a thought.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} posterior confirms its compact form, with little visible detail. Nothing special.</li>
+            <li>{PAWN_nameShortPossessive} hindquarters are of an elderly female, and the minuscule opening is hardly visible, thus unremarkable.</li>
+            <li>The butt shape is somewhat settled, and the almost unnoticeable feature is too small to truly engage {OBSERVER_nameShortPossessive} attention.</li>
+            <li>Observing {PAWN_nameShortPossessive} aged rear, the tiny, elusive detail is just there, without much appeal.</li>
+            <li>Her mature form presents a subdued backside; the micro feature is not something to dwell upon.</li>
+            <li>{PAWN_nameShortPossessive} anatomy shows a small, almost unseen part. It's not particularly attractive or repulsive.</li>
+            <li>The modest curvature of {PAWN_nameShortPossessive} butt leads to a very subtle, nearly imperceptible feature.</li>
+            <li>A neutral observation: {PAWN_nameShortPossessive} aged rear, with its tiny, barely there detail, is simply a fact.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale_observed_by_Young_female</defName>
+        <label>Micro Anus (Neutral)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly backside has a very small, almost hidden detail, typical for a woman {PAWN_pronoun}s age.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, much like {OBSERVER_nameShortPossessive} own might become.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a very private anatomy of an elder.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, aged shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, familiar to me.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin of an older female, as expected.</li>
+            <li>{PAWN_nameShortPossessive} posterior, an elderly woman's, has an unpronounced detail. It's just a normal body part.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, as with many older women.</li>
+            <li>Her aged backside has a gentle slope, and the minute opening is barely there, quite unrevealing, much like my own in time.</li>
+            <li>{PAWN_nameShortPossessive} elder figure shows a discreet butt and a nearly invisible, tiny feature, a common aging characteristic.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Micro Anus (Neutral)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly female backside presents a very small, almost hidden detail. A discreet observation.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} posterior, an older woman's, reveals a subtle and almost invisible feature.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} hindquarters shows a compact form; the minimal opening suggests discretion.</li>
+            <li>{PAWN_nameShortPossessive} butt has a modest shape, and the tiny detail is barely discernible. It’s neither appealing nor off-putting.</li>
+            <li>The unpronounced aspect of {PAWN_nameShortPossessive} anatomy is not particularly noteworthy, just a part of an aging body.</li>
+            <li>Observing {PAWN_nameShortPossessive} aged rear, the micro-sized feature is there, but offers little to think about.</li>
+            <li>Her form, though elderly, offers a discreet backside with an almost invisible, minute detail.</li>
+            <li>{PAWN_nameShortPossessive} posterior presents a natural, albeit unassuming, appearance. The tiny part blends in.</li>
+            <li>The subtle contours of {PAWN_nameShortPossessive} butt lead to a feature so small it's barely worth a second glance.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} elderly female anatomy, its smallest detail almost nonexistent.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Micro Anus (Neutral)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly backside has a very small, almost hidden detail, typical for a woman {PAWN_pronoun}s age.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, much like {OBSERVER_nameShortPossessive} own might become.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a very private anatomy of an elder.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, aged shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, familiar to me.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin of an older female, as expected.</li>
+            <li>{PAWN_nameShortPossessive} posterior, an elderly woman's, has an unpronounced detail. It's just a normal body part.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, as with many older women.</li>
+            <li>Her aged backside has a gentle slope, and the minute opening is barely there, quite unrevealing, much like my own in time.</li>
+            <li>{PAWN_nameShortPossessive} elder figure shows a discreet butt and a nearly invisible, tiny feature, a common aging characteristic.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale_observed_by_Elder_male</defName>
+        <label>Micro Anus (Neutral)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly female backside presents a very small, almost hidden detail. A discreet observation.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} posterior, an older woman's, reveals a subtle and almost invisible feature.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} hindquarters shows a compact form; the minimal opening suggests discretion.</li>
+            <li>{PAWN_nameShortPossessive} butt has a modest shape, and the tiny detail is barely discernible. It’s neither appealing nor off-putting.</li>
+            <li>The unpronounced aspect of {PAWN_nameShortPossessive} anatomy is not particularly noteworthy, just a part of an aging body.</li>
+            <li>Observing {PAWN_nameShortPossessive} aged rear, the micro-sized feature is there, but offers little to think about.</li>
+            <li>Her form, though elderly, offers a discreet backside with an almost invisible, minute detail.</li>
+            <li>{PAWN_nameShortPossessive} posterior presents a natural, albeit unassuming, appearance. The tiny part blends in.</li>
+            <li>The subtle contours of {PAWN_nameShortPossessive} butt lead to a feature so small it's barely worth a second glance.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} elderly female anatomy, its smallest detail almost nonexistent.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderFemale_observed_by_Elder_female</defName>
+        <label>Micro Anus (Neutral)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly backside has a very small, almost hidden detail, typical for a woman {PAWN_pronoun}s age.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, much like {OBSERVER_nameShortPossessive} own.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a very private anatomy of an elder.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, aged shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, familiar to me.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin of an older female, as expected.</li>
+            <li>{PAWN_nameShortPossessive} posterior, an elderly woman's, has an unpronounced detail. It's just a normal body part.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, as with many older women.</li>
+            <li>Her aged backside has a gentle slope, and the minute opening is barely there, quite unrevealing, much like my own.</li>
+            <li>{PAWN_nameShortPossessive} elder figure shows a discreet butt and a nearly invisible, tiny feature, a common aging characteristic.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale</defName>
+        <label>Micro Anus (Neutral)_ElderMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The aged male backside of {PAWN_nameShort} reveals a very small, almost hidden detail, typical for {PAWN_pronoun}s age.</li>
+            <li>A fleeting look at {PAWN_nameShortPossessive} posterior shows a compact, unassuming form, with a nearly imperceptible feature.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable, fading into the elderly anatomy.</li>
+            <li>{PAWN_nameShortPossessive} butt has a modest shape, and the diminutive feature is truly micro, offering little to note.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite reserved, its smallness suggesting a private disposition.</li>
+            <li>A quick glance reveals a standard form, with the micro feature almost blending into the skin of an older man.</li>
+            <li>{PAWN_nameShortPossessive} posterior, an elderly man's, has an unpronounced detail. It's just a body part.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous.</li>
+            <li>His aged backside has a gentle slope, and the minute opening is barely there, quite unrevealing.</li>
+            <li>{PAWN_nameShortPossessive} elder figure shows a discreet butt and a nearly invisible, tiny feature.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale_observed_by_voyer</defName>
+        <label>Micro Anus (Neutral)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A quick glance at {PAWN_nameShortPossessive} aged rear reveals a very small opening, almost too subtle to satisfy this voyeur.</li>
+            <li>The unexpectedly tiny feature on {PAWN_nameShortPossessive} elderly backside is nearly hidden; it requires effort to truly observe.</li>
+            <li>{PAWN_nameShortPossessive} posterior anatomy is discreet, its smallness making it quite elusive to the voyeuristic eye.</li>
+            <li>Observing {PAWN_nameShortPossessive} aged hindquarters, the diminutive detail is barely perceptible, offering little to linger on.</li>
+            <li>{PAWN_nameShortPossessive} butt has a reserved shape, and the subtle, micro-sized feature is almost frustratingly concealed.</li>
+            <li>The almost invisible aspect of {PAWN_nameShortPossessive} elder rear is not what was expected; it demands a closer, perhaps unwelcome, look.</li>
+            <li>A fleeting view confirmed the micro scale, nearly invisible, leaving little to visually absorb or analyze.</li>
+            <li>{PAWN_nameShortPossessive} anatomy reveals a very tight and small opening; observation yields minimal visual return.</li>
+            <li>The reserved contours of {PAWN_nameShortPossessive} posterior make the micro feature almost disappear from sight.</li>
+            <li>{PAWN_nameShortPossessive} backside is quite modest; the tiny, concealed detail requires a keen and persistent observer.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Micro Anus (Neutral)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The subtly formed backside of {PAWN_nameShort} seems to almost conceal this micro feature, limiting its exhibition value.</li>
+            <li>{PAWN_nameShortPossessive} small, unpronounced detail is almost too modest to truly feel exposed. It nearly disappears.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the minimal opening makes it a less impactful display for an exhibitionist.</li>
+            <li>The form of {PAWN_nameShortPossessive} butt is rather discreet, the tiny, almost invisible part offers little to showcase.</li>
+            <li>{PAWN_nameShortPossessive} hindquarters present a very subtle anatomy; its smallest feature is barely there for public view.</li>
+            <li>A reserved sight: the micro element on {PAWN_nameShortPossessive} body barely registers as something to exhibit.</li>
+            <li>{PAWN_nameShortPossessive} posterior is compact, and the small feature struggles to be a focal point of exposure.</li>
+            <li>The faintness of {PAWN_nameShortPossessive} anatomy suggests a quiet form, with very little to put on display.</li>
+            <li>This tiny detail on {PAWN_nameShortPossessive} rear is hardly noticeable, diminishing the thrill of public display.</li>
+            <li>{PAWN_nameShortPossessive} modest backside and its minimal feature offer little in the way of exhibition.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Micro Anus (Neutral)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} subtle rear, with its scarcely visible feature, barely stirs any interest for a nymphomaniac.</li>
+            <li>The diminutive detail on {PAWN_nameShortPossessive} aged anatomy is so small, it offers little to engage the senses.</li>
+            <li>A fleeting glance at {PAWN_nameShortPossessive} butt shows an almost unnoticeable part, providing minimal stimulation.</li>
+            <li>The micro aspect of {PAWN_nameShortPossessive} elderly hindquarters is far too discreet to excite any significant urges.</li>
+            <li>{PAWN_nameShortPossessive} posterior’s aged, modest form and tiny opening feel quite uninspiring, leaving {PAWN_objective} cold.</li>
+            <li>The miniscule size of this particular feature on {PAWN_nameShort} offers a distinctly unremarkable observation.</li>
+            <li>Hardly noticeable, the smallness of {PAWN_nameShortPossessive} feature does not provoke any intense desire.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive} backside, with its almost hidden detail, lacks allure.</li>
+            <li>This barely perceptible aspect of {PAWN_nameShortPossessive} anatomy leaves much to be desired, feeling quite mundane.</li>
+            <li>{PAWN_nameShortPossessive} posterior's understated appearance and micro feature generate little to no arousal.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale_observed_by_Prude</defName>
+        <label>Micro Anus (Neutral)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Avert your eyes! The very thought of {PAWN_nameShortPossessive} private anatomy, however small, is unsettling.</li>
+            <li>Such an intimate detail, even if micro, should not be exposed. {PAWN_nameShortPossessive} form is too revealing.</li>
+            <li>The discreet feature on {PAWN_nameShortPossessive} posterior is still an improper sight; it causes a sense of discomfort.</li>
+            <li>The almost hidden part of {PAWN_nameShortPossessive} hindquarters is an unnecessary revelation, despite its smallness.</li>
+            <li>{PAWN_nameShortPossessive} backside, even with its barely visible feature, still presents an inappropriate exposure.</li>
+            <li>Witnessing any part of {PAWN_nameShortPossessive} private anatomy, even a tiny one, is truly a modest shock.</li>
+            <li>The delicate, almost unseen aspect of {PAWN_nameShortPossessive} body should remain completely private.</li>
+            <li>{PAWN_nameShortPossessive} posterior, though its feature is minimal, still offends a sense of decency.</li>
+            <li>The subtle visibility of this intimate detail on {PAWN_nameShort} is still an unwanted encounter.</li>
+            <li>This private part, however micro, should not be so casually displayed from {PAWN_nameShortPossessive} form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale_observed_by_Young_male</defName>
+        <label>Micro Anus (Neutral)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly, subtle backside has a tiny, almost hidden detail. It's not particularly exciting for a young man.</li>
+            <li>The micro feature on {PAWN_nameShortPossessive} older man's anatomy is so discreet, it barely registered a thought.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} posterior confirms its compact form, with little visible detail. Nothing special.</li>
+            <li>{PAWN_nameShortPossessive} hindquarters are of an elderly male, and the minuscule opening is hardly visible, thus unremarkable.</li>
+            <li>The butt shape is somewhat settled, and the almost unnoticeable feature is too small to truly engage {OBSERVER_nameShortPossessive} attention.</li>
+            <li>Observing {PAWN_nameShortPossessive} aged rear, the tiny, elusive detail is just there, without much appeal.</li>
+            <li>His mature form presents a subdued backside; the micro feature is not something to dwell upon.</li>
+            <li>{PAWN_nameShortPossessive} anatomy shows a small, almost unseen part. It's not particularly attractive or repulsive.</li>
+            <li>The modest curvature of {PAWN_nameShortPossessive} butt leads to a very subtle, nearly imperceptible feature.</li>
+            <li>A neutral observation: {PAWN_nameShortPossessive} aged rear, with its tiny, barely there detail, is simply a fact.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale_observed_by_Young_female</defName>
+        <label>Micro Anus (Neutral)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly male backside has a very small, almost hidden detail. Not particularly intriguing.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, offering no real appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a very private anatomy, not for me.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, aged shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, but no spark.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin. Nothing stands out.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a man's of a certain age, has an unpronounced detail. It's just a body part to observe.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, so no reaction.</li>
+            <li>His aged backside has a gentle slope, and the minute opening is barely there, quite unrevealing, definitely not stirring.</li>
+            <li>{PAWN_nameShortPossessive} elder figure shows a discreet butt and a nearly invisible, tiny feature. Just an observation.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Micro Anus (Neutral)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly male backside presents a very small, almost hidden detail. A discreet observation.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} posterior, an older man's, reveals a subtle and almost invisible feature.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} hindquarters shows a compact form; the minimal opening suggests discretion.</li>
+            <li>{PAWN_nameShortPossessive} butt has a modest shape, and the tiny detail is barely discernible. It’s neither appealing nor off-putting.</li>
+            <li>The unpronounced aspect of {PAWN_nameShortPossessive} anatomy is not particularly noteworthy, just a part of an aging body.</li>
+            <li>Observing {PAWN_nameShortPossessive} aged rear, the micro-sized feature is there, but offers little to think about.</li>
+            <li>His form, though elderly, offers a discreet backside with an almost invisible, minute detail.</li>
+            <li>{PAWN_nameShortPossessive} posterior presents a natural, albeit unassuming, appearance. The tiny part blends in.</li>
+            <li>The subtle contours of {PAWN_nameShortPossessive} butt lead to a feature so small it's barely worth a second glance.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} elderly male anatomy, its smallest detail almost nonexistent.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Micro Anus (Neutral)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly male backside has a very small, almost hidden detail. Not particularly intriguing.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, offering no real appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a very private anatomy, not for me.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, aged shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, but no spark.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin. Nothing stands out.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a man's of a certain age, has an unpronounced detail. It's just a body part to observe.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, so no reaction.</li>
+            <li>His aged backside has a gentle slope, and the minute opening is barely there, quite unrevealing, definitely not stirring.</li>
+            <li>{PAWN_nameShortPossessive} elder figure shows a discreet butt and a nearly invisible, tiny feature. Just an observation.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale_observed_by_Elder_male</defName>
+        <label>Micro Anus (Neutral)_ElderMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} aged male backside presents a very small, almost hidden detail. A discreet observation.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} posterior, an older man's, reveals a subtle and almost invisible feature.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} hindquarters shows a compact form; the minimal opening suggests discretion.</li>
+            <li>{PAWN_nameShortPossessive} butt has a modest shape, and the tiny detail is barely discernible. It’s neither appealing nor off-putting.</li>
+            <li>The unpronounced aspect of {PAWN_nameShortPossessive} anatomy is not particularly noteworthy, just a part of an aging body.</li>
+            <li>Observing {PAWN_nameShortPossessive} aged rear, the micro-sized feature is there, but offers little to think about.</li>
+            <li>His form, though elderly, offers a discreet backside with an almost invisible, minute detail.</li>
+            <li>{PAWN_nameShortPossessive} posterior presents a natural, albeit unassuming, appearance. The tiny part blends in.</li>
+            <li>The subtle contours of {PAWN_nameShortPossessive} butt lead to a feature so small it's barely worth a second glance.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} elderly male anatomy, its smallest detail almost nonexistent.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Micro_ElderMale_observed_by_Elder_female</defName>
+        <label>Micro Anus (Neutral)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly male backside has a very small, almost hidden detail. Not particularly intriguing.</li>
+            <li>The subtly formed posterior of {PAWN_nameShort} shows a micro-sized feature, barely visible, offering no real appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} hindquarters, the tiny opening is barely noticeable; a very private anatomy, not for me.</li>
+            <li>{PAWN_nameShortPossessive} butt has a soft, aged shape, with the almost unseen detail giving it a reserved appearance.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} rear is quite modest, its smallness suggesting a quiet disposition, but no spark.</li>
+            <li>A quick glance reveals a compact form, with the micro feature almost blending into the skin. Nothing stands out.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a man's of a certain age, has an unpronounced detail. It's just a body part to observe.</li>
+            <li>The subtle nature of {PAWN_nameShortPossessive} anatomy is apparent; its smallest part is hardly conspicuous, so no reaction.</li>
+            <li>His aged backside has a gentle slope, and the minute opening is barely there, quite unrevealing, definitely not stirring.</li>
+            <li>{PAWN_nameShortPossessive} elder figure shows a discreet butt and a nearly invisible, tiny feature. Just an observation.</li>
+        </opinionTexts>
+</Def>
+</Defs>

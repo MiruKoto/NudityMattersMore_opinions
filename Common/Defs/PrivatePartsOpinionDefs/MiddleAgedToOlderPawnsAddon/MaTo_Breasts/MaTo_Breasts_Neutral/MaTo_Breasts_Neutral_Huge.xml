@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts on {PAWN_nameShortPossessive} chest are quite prominent, presenting a notable, somewhat relaxed form that appears natural for their age.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a slight sway, suggesting a certain maturity in its presentation.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with nipples and areolas that seem proportionate.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad manner, their sheer size being the most striking feature.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, mature appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, indicating a well-developed physique.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident beneath the clothing.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of maturity.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale_observed_by_voyer</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A substantial pair of breasts, full and weighty, are clearly visible; their relaxed form and pronounced presence are noted.</li>
+            <li>The immense size of {PAWN_nameShortPossessive} breasts is apparent, an impressive sight that moves subtly with {PAWN_possessive} every action.</li>
+            <li>Observing the ample breasts, their generous curves and soft contours are quite striking, a testament to their colossal size.</li>
+            <li>The sheer volume of these huge breasts captures attention, their mature shape and significant hang are undeniably prominent.</li>
+            <li>Such large breasts on {PAWN_nameShortPossessive} chest are a considerable focal point, their natural sway and ample form are quite distinct.</li>
+            <li>The way those enormous breasts fill out {PAWN_nameShortPossessive} clothing is quite apparent, hinting at their impressive scale.</li>
+            <li>One can't help but notice the immense presence of {PAWN_nameShortPossessive} breasts, their mature weight and gentle movement quite captivating.</li>
+            <li>The generous dimensions of the breasts are clear, their ample curves and soft, settled appearance draw the eye without effort.</li>
+            <li>A sizable bust, exhibiting significant fullness and a relaxed, natural form, is certainly a striking element of {PAWN_nameShortPossessive} physique.</li>
+            <li>The large, developed breasts are a prominent feature, their substantial mass and the way they rest are quite compelling.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} breasts is undeniable, a voluminous display that seems to invite lingering glances.</li>
+            <li>Observing the considerable size of {PAWN_nameShortPossessive} breasts, they possess a soft, mature form, their substantial presence subtly captivating.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape full and round, demanding attention.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable, intriguing presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hint at a life of comfort and experience.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, drawing the eye.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume in an appealing manner.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and captivating.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured, quite a sight.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and alluring silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The prominent, large breasts are quite exposed; their full shape and relaxed hang are certainly on display for all to see.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are openly visible, their substantial mass and mature form generously presented.</li>
+            <li>These huge breasts are quite apparent, their ample curves and soft contours confidently revealed, certainly making a statement.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} chest is laid bare, with large breasts that seem to invite observation.</li>
+            <li>Such expansive breasts, full and weighty, are clearly intended to be seen, their generous proportions proudly on show.</li>
+            <li>{PAWN_nameShortPossessive} willingness to display such immense breasts is notable; their size and form are quite exposed.</li>
+            <li>The enormous breasts are quite exposed, their mature shape and significant hang are undeniably prominent and openly presented.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they are openly visible, their substantial presence confidently asserted.</li>
+            <li>A sizable bust, exhibiting significant fullness and a relaxed, natural form, is certainly a striking element of {PAWN_nameShortPossessive} proudly displayed physique.</li>
+            <li>The large, developed breasts are a prominent feature, their substantial mass and the way they are presented are quite bold.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} breasts is undeniable, a voluminous display that seems to be purposely showcased.</li>
+            <li>Observing the considerable size of {PAWN_nameShortPossessive} breasts, they possess a soft, mature form, their substantial presence confidently on view.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape full and round, demanding open attention.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable, openly presented presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hint at a life of comfort and experience, openly displayed.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, openly inviting observation.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume in a confident manner.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand, openly available for viewing.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured, proudly exhibited.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and openly alluring silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts are quite prominent, their relaxed form and ample curves hold a distinct allure.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that seems ripe with potential, subtly inviting.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, their form suggests ample curves.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad manner, stirring a subtle interest.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a tempting fullness.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, a form that speaks of ripe maturity and potential.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that feels inherently appealing.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence quite enticing.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape full and round, quite an appealing sight.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable, alluring presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at deep, inviting possibilities.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, sparking a desire.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume in an attractive way.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and deeply captivating.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured, quite arousing.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, emanating a strong sensual presence.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture suggesting a profound allure.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding an undeniable, sensual attention.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at extensive experience and passion.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and deeply desirable silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale_observed_by_Prude</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts are quite prominent; such exposure seems unnecessary and draws unwanted attention.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that feels overtly displayed, causing discomfort.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, their visibility is somewhat inappropriate.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a broad manner, an overly conspicuous display.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body in a frankly immodest way.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, a rather forward presentation.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems too open for comfortable viewing.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence feeling quite unreserved.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape full and round, creating an awkward display.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that is simply too much.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning are rather boldly presented.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, quite distracting.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume in a way that feels unseemly.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and rather too exposed.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size making for a rather conspicuous sight.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, quite the public display.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture are rather overt.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding more attention than is proper.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, rather conspicuously so.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and rather too revealing silhouette.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale_observed_by_Young_male</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts on {PAWN_nameShortPossessive} chest are quite prominent, presenting a notable, somewhat relaxed form, different from younger women.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a slight sway, indicating a certain maturity.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with nipples and areolas that seem proportionate.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad manner, their sheer size being the most striking feature.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, mature appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, indicating a well-developed physique for someone of {PAWN_possessive} age.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of experience.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale_observed_by_Young_female</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts on {PAWN_nameShortPossessive} chest are quite prominent, presenting a notable, somewhat relaxed form, a glimpse into future possibilities.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a slight sway, showing what mature femininity can entail.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with nipples and areolas that seem proportionate.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad manner, their sheer size being the most striking feature.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, mature appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, indicating a well-developed physique.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of maturity.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts on {PAWN_nameShortPossessive} chest are quite prominent, presenting a notable, somewhat relaxed form, familiar to this stage of life.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a slight sway, suggesting a certain maturity that resonates.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with nipples and areolas that seem proportionate.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad manner, their sheer size being the most striking feature.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, mature appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, indicating a well-developed physique, a familiar sight.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of shared experience.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts on {PAWN_nameShortPossessive} chest are quite prominent, presenting a notable, somewhat relaxed form, a reflection of common maturity.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a slight sway, suggesting a certain maturity, a familiar sight.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with nipples and areolas that seem proportionate.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad manner, their sheer size being the most striking feature.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, mature appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, indicating a well-developed physique for someone of {PAWN_possessive} age.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of shared experience.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale_observed_by_Elder_male</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts on {PAWN_nameShortPossessive} chest are quite prominent, presenting a notable, somewhat relaxed form, a testament to time.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a slight sway, suggesting a certain maturity, a familiar sight.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with nipples and areolas that seem proportionate.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad manner, their sheer size being the most striking feature.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, mature appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, indicating a well-developed physique.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of experience.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_MatureFemale_observed_by_Elder_female</defName>
+        <label>Huge Breasts (Neutral)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts on {PAWN_nameShortPossessive} chest are quite prominent, presenting a notable, somewhat relaxed form, a common sign of age.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a slight sway, suggesting a certain maturity, a familiar observation.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with nipples and areolas that seem proportionate.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad manner, their sheer size being the most striking feature.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, mature appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, indicating a well-developed physique, typical for their years.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of experience.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large breasts on {PAWN_nameShortPossessive} chest are quite prominent, their relaxed form and lower set appearing typical for advanced age.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a noticeable sag, consistent with an elderly physique.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with stretched areolas and flattened nipples.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad, and somewhat descended manner.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, aged appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full but soft and pendulous, indicative of natural aging processes.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame, albeit lower.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of many years.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale_observed_by_voyer</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A substantial pair of breasts, full and weighty, are clearly visible; their relaxed and lowered form are noted with interest.</li>
+            <li>The immense size of {PAWN_nameShortPossessive} breasts is apparent, an impressive sight that moves subtly with {PAWN_possessive} every action, even in advanced age.</li>
+            <li>Observing the ample breasts, their generous curves and soft contours are quite striking, a testament to their colossal size and history.</li>
+            <li>The sheer volume of these huge breasts captures attention, their aged shape and significant hang are undeniably prominent.</li>
+            <li>Such large breasts on {PAWN_nameShortPossessive} chest are a considerable focal point, their natural sway and ample form are quite distinct.</li>
+            <li>The way those enormous breasts fill out {PAWN_nameShortPossessive} clothing is quite apparent, hinting at their impressive scale, even if showing signs of age.</li>
+            <li>One can't help but notice the immense presence of {PAWN_nameShortPossessive} breasts, their mature weight and gentle movement quite captivating.</li>
+            <li>The generous dimensions of the breasts are clear, their ample curves and soft, settled appearance draw the eye without effort.</li>
+            <li>A sizable bust, exhibiting significant fullness and a relaxed, natural form, is certainly a striking element of {PAWN_nameShortPossessive} physique.</li>
+            <li>The large, developed breasts are a prominent feature, their substantial mass and the way they rest are quite compelling.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} breasts is undeniable, a voluminous display that seems to invite lingering glances.</li>
+            <li>Observing the considerable size of {PAWN_nameShortPossessive} breasts, they possess a soft, mature form, their substantial presence subtly captivating.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape full and round, demanding attention.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable, intriguing presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hint at a life of comfort and experience.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, drawing the eye.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume in an appealing manner.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and captivating.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured, quite a sight.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and alluring silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The prominent, large breasts are quite exposed; their full shape and relaxed hang are certainly on display for all to see, despite age.</li>
+            <li>{PAWN_nameShortPossessive} enormous breasts are openly visible, their substantial mass and mature, aged form generously presented.</li>
+            <li>These huge breasts are quite apparent, their ample curves and soft contours confidently revealed, certainly making a statement.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} chest is laid bare, with large breasts that seem to invite observation, regardless of their condition.</li>
+            <li>Such expansive breasts, full and weighty, are clearly intended to be seen, their generous proportions proudly on show.</li>
+            <li>{PAWN_nameShortPossessive} willingness to display such immense breasts is notable; their size and form are quite exposed.</li>
+            <li>The enormous breasts are quite exposed, their mature shape and significant hang are undeniably prominent and openly presented.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they are openly visible, their substantial presence confidently asserted.</li>
+            <li>A sizable bust, exhibiting significant fullness and a relaxed, natural form, is certainly a striking element of {PAWN_nameShortPossessive} proudly displayed physique.</li>
+            <li>The large, developed breasts are a prominent feature, their substantial mass and the way they are presented are quite bold.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} breasts is undeniable, a voluminous display that seems to be purposely showcased.</li>
+            <li>Observing the considerable size of {PAWN_nameShortPossessive} breasts, they possess a soft, mature form, their substantial presence confidently on view.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape full and round, demanding open attention.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable, openly presented presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hint at a life of comfort and experience, openly displayed.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, openly inviting observation.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume in a confident manner.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand, openly available for viewing.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured, proudly exhibited.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and openly alluring silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts are quite prominent, their relaxed form and ample curves hold a distinct allure, even in their maturity.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that seems ripe with potential, subtly inviting despite the age.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, their form suggests ample curves.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad manner, stirring a subtle interest.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a tempting fullness.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, a form that speaks of ripe maturity and potential.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that feels inherently appealing.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence quite enticing.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape full and round, quite an appealing sight.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable, alluring presence.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at deep, inviting possibilities.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, sparking a desire.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume in an attractive way.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and deeply captivating.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured, quite arousing.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, emanating a strong sensual presence.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture suggesting a profound allure.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding an undeniable, sensual attention.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at extensive experience and passion.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and deeply desirable silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale_observed_by_Prude</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts are quite prominent; such exposure seems unnecessary and draws unwanted attention, regardless of age.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that feels overtly displayed, causing discomfort.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, their visibility is somewhat inappropriate.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a broad manner, an overly conspicuous display.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body in a frankly immodest way.</li>
+            <li>Such large breasts are hard to miss, appearing full and weighty, a rather forward presentation.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems too open for comfortable viewing.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence feeling quite unreserved.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape full and round, creating an awkward display.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that is simply too much.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning are rather boldly presented.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, quite distracting.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume in a way that feels unseemly.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and rather too exposed.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size making for a rather conspicuous sight.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, quite the public display.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture are rather overt.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding more attention than is proper.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, rather conspicuously so.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and rather too revealing silhouette.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale_observed_by_Young_male</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large, full breasts on {PAWN_nameShortPossessive} chest are quite prominent, their relaxed form and lower set appearing typical for advanced age, an unusual sight.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a noticeable sag, consistent with an elderly physique.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with stretched areolas and flattened nipples.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad, and somewhat descended manner.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, aged appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full but soft and pendulous, indicative of natural aging processes.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame, albeit lower.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of many years.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale_observed_by_Young_female</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large breasts on {PAWN_nameShortPossessive} chest are quite prominent, their relaxed form and lower set appearing typical for advanced age, a glimpse of the future.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a noticeable sag, consistent with an elderly physique.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with stretched areolas and flattened nipples.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad, and somewhat descended manner.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, aged appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full but soft and pendulous, indicative of natural aging processes.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame, albeit lower.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of many years.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large breasts on {PAWN_nameShortPossessive} chest are quite prominent, their relaxed form and lower set appearing typical for advanced age, a familiar observation.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a noticeable sag, consistent with an elderly physique.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with stretched areolas and flattened nipples.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad, and somewhat descended manner.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, aged appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full but soft and pendulous, indicative of natural aging processes.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame, albeit lower.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of many years.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large breasts on {PAWN_nameShortPossessive} chest are quite prominent, their relaxed form and lower set appearing typical for advanced age, a natural progression.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a noticeable sag, consistent with an elderly physique.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with stretched areolas and flattened nipples.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad, and somewhat descended manner.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, aged appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full but soft and pendulous, indicative of natural aging processes.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame, albeit lower.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of many years.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale_observed_by_Elder_male</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large breasts on {PAWN_nameShortPossessive} chest are quite prominent, their relaxed form and lower set appearing typical for advanced age, a familiar sight.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a noticeable sag, consistent with an elderly physique.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with stretched areolas and flattened nipples.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad, and somewhat descended manner.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, aged appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full but soft and pendulous, indicative of natural aging processes.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame, albeit lower.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of many years.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans breast shape, breasts behavior, nipples, areolas-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Huge_ElderFemale_observed_by_Elder_female</defName>
+        <label>Huge Breasts (Neutral)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Breasts</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The large breasts on {PAWN_nameShortPossessive} chest are quite prominent, their relaxed form and lower set appearing typical for advanced age, a reflection of time.</li>
+            <li>A significant bust is visible, exhibiting a substantial mass that moves with a noticeable sag, consistent with an elderly physique.</li>
+            <li>Those huge breasts are quite noticeable, taking up a considerable portion of {PAWN_nameShortPossessive} torso, with stretched areolas and flattened nipples.</li>
+            <li>There's a considerable volume to the chest area, the large breasts settling in a comfortable, broad, and somewhat descended manner.</li>
+            <li>The expansive curve of {PAWN_nameShortPossessive} ample breasts is undeniable, their presence dominating the upper body with a substantial, aged appearance.</li>
+            <li>Such large breasts are hard to miss, appearing full but soft and pendulous, indicative of natural aging processes.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} breasts is apparent, a voluminous display that seems to sit naturally upon {PAWN_possessive} frame, albeit lower.</li>
+            <li>Observing the generous size of {PAWN_nameShortPossessive} breasts, they possess a soft, ample form, their substantial presence subtly evident.</li>
+            <li>A prominent chest, with breasts that are clearly enormous, their overall shape is full and round, a striking feature of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>The sizable breasts on {PAWN_nameShortPossessive} are quite evident, displaying a relaxed hang and a considerable presence that speaks of many years.</li>
+            <li>{PAWN_nameShortPossessive} breasts are impressively large, their soft contours and relaxed positioning hinting at a life of comfort and maturity.</li>
+            <li>The considerable size of the breasts makes them stand out, a weighty presence that moves with a gentle, fluid motion, highlighting their natural form.</li>
+            <li>A pair of substantial breasts, displaying a full, rounded silhouette, are quite visible, asserting their impressive volume.</li>
+            <li>The vastness of {PAWN_nameShortPossessive} chest is defined by these enormous breasts, their form appearing well-established and grand.</li>
+            <li>{PAWN_nameShortPossessive} massive breasts are an undeniable focal point, their sheer size suggesting a life well-lived and a body matured.</li>
+            <li>One cannot help but notice the truly huge breasts, presenting a full and somewhat lowered profile, as if weighty with experience.</li>
+            <li>The enormous breasts on {PAWN_nameShortPossessive} body are a prominent feature, their ample curves and relaxed posture speaking volumes of their scale.</li>
+            <li>A significant set of breasts, heavy and full, gently rest upon {PAWN_nameShortPossessive} chest, their size commanding attention without effort.</li>
+            <li>The enormousness of {PAWN_nameShortPossessive} breasts is apparent, their form exhibiting a well-settled appearance, hinting at a life's journey.</li>
+            <li>These huge breasts are quite striking, their substantial weight and rounded shape giving {PAWN_nameShortPossessive} a distinct and mature silhouette.</li>
+        </opinionTexts>
+</Def>
+</Defs>

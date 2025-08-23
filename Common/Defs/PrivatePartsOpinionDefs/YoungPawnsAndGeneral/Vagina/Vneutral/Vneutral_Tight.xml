@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--general unisex opinion about young female-->
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight</defName>
+        <label>Tight Vagina (Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily> 
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>Noticing {PAWN_nameShortPossessive} tight vagina, it has a certain snugness, though it doesn’t really stand out.</li>
+			<li>I observed {PAWN_nameShortPossessive} vaginal opening that was modest in size, with a small inner labia that was noticeably snug.</li>
+			<li>I examined {PAWN_nameShortPossessive} vagina that was compact, with a depth that was noticeably shallow compared to average.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} vagina that was firm, with a smooth and hairless exterior that was unyielding to the touch.</li>
+			<li>I gazed upon {PAWN_nameShortPossessive} vagina that was petite, with a clitoris that was small yet prominent.</li>
+			<li>I inspected {PAWN_nameShortPossessive} vagina that was snug, with a closed position that required effort to penetrate.</li>
+			<li>I saw {PAWN_nameShortPossessive} vagina that was compact, with a small and delicate appearance that was inviting and enticing.</li>
+			<li>As I gazed, I observed {PAWN_nameShortPossessive} vaginal opening that was compact and rounded, its edges slightly puffed and firm to the touch. The clitoris above seemed slightly more pronounced in contrast to the tight entrance.</li>
+			<li>Upon closer examination, I saw {PAWN_nameShortPossessive} neat, pinched whorl of skin that guarded the entrance, surrounded by delicate, almost translucent folds of the vulva.</li>
+			<li>When I looked, I noticed {PAWN_nameShortPossessive} small, almost imperceptibly narrow slit that seemed to be framed by the surrounding flesh, its size only hinted at by the subtle tension of the surrounding muscles.</li>
+			<li>As I examined {PAWN_nameShortPossessive} tight vagina, I observed that the opening was slightly larger than the micro, but still compact and neatly tucked away.</li>
+			<li>The vulva surrounding {PAWN_nameShortPossessive} tight vagina was smooth and unyielding, with the vaginal entrance appearing as a small, rounded opening.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} tight vagina's clitoris, noticing that it was slightly larger than the micro, but still relatively modest in size.</li>
+			<li>As I gazed at {PAWN_nameShortPossessive} vaginal opening, I noticed it was compact and rounded, with a diameter of around 3-4 centimeters. The vulva was proportionately neat and tidy, with a clitoris that was small but clearly defined.</li>
+			<li>Upon closer inspection, I saw {PAWN_nameShortPossessive} vaginal entrance was a small, rosebud-like slit, with labia that were slightly puffy and pink, giving the area a subtle, inviting appearance. The clitoris stood out as a small, delicate nub, nestled in a gentle curve of skin.</li>
+			<li>When I examined {PAWN_nameShortPossessive} vulva more closely, I was struck by the smooth, firm appearance of the labia, which seemed to conform closely to the surrounding contours, creating a sense of sleek, unbroken curves.</li>
+            <li>A brief glance revealed {PAWN_nameShortPossessive} unusually small vaginal opening, framed by taut, unyielding labia.</li>
+            <li>The appearance of {PAWN_nameShortPossessive} genitalia suggested a very limited depth, the folds of skin tight and unyielding.</li>
+            <li>Observing {PAWN_nameShortPossessive} vulva, the inner labia were scarcely visible, pulled tightly against a narrow entrance.</li>
+            <li>{PAWN_nameShortPossessive} clitoris seemed almost hidden by the firm, compact folds surrounding it.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} vagina was one of extreme tightness, almost sealed.</li>
+            <li>A quick look indicated {PAWN_nameShortPossessive} vagina possessed a very constrained opening, appearing almost unyielding.</li>
+            <li>{PAWN_nameShortPossessive} vaginal structure appeared remarkably narrow, with deeply set and compact labia.</li>
+            <li>The smallness of {PAWN_nameShortPossessive} vaginal entrance was striking, suggesting a very limited capacity.</li>
+            <li>Upon noticing {PAWN_nameShortPossessive} vagina, its tight, almost unyielding appearance immediately registered.</li>
+            <li>The clitoris on {PAWN_nameShortPossessive} small vulva was petite, nestled within very close-fitting labia.</li>
+            <li>{PAWN_nameShortPossessive} vagina's depth seemed particularly shallow, with inner folds pulled taut.</li>
+            <li>The compact nature of {PAWN_nameShortPossessive} vaginal lips gave an impression of notable constriction.</li>
+            <li>A swift observation showed {PAWN_nameShortPossessive} vaginal opening to be surprisingly small, almost a mere slit.</li>
+            <li>{PAWN_nameShortPossessive} vulva presented a very neat, almost sealed appearance due to its tight configuration.</li>
+            <li>The anatomical structure of {PAWN_nameShortPossessive} vagina appeared distinctly narrow, with minimal labial protrusion.</li>
+            <li>Noticed {PAWN_nameShortPossessive} vaginal aperture, which appeared significantly restricted and firm.</li>
+            <li>The clitoral hood of {PAWN_nameShortPossessive} vagina lay very close, suggesting a compact, unyielding form.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} body part was of a tightly closed, almost unyielding space.</li>
+            <li>{PAWN_nameShortPossessive} vagina presented as remarkably small, with very little visible depth or expansion.</li>
+            <li>The labia of {PAWN_nameShortPossessive} vagina were particularly tight, giving it a very narrow and compact look.</li>
+            <li>The vulva appeared incredibly snug, with {PAWN_nameShortPossessive} clitoris sitting close to the almost imperceptible opening.</li>
+            <li>I noted {PAWN_nameShortPossessive} vagina’s constricted appearance, suggesting a significant firmness.</li>
+            <li>{PAWN_nameShortPossessive} vaginal entrance was noticeably small, almost a delicate crease rather than an open form.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} vagina hinted at a very limited capacity, tightly bound.</li>
+        </opinionTexts>
+    
+	</Def>
+
+
+
+<!--Elder Male observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_Elderly_Male_opinion</defName>
+        <label>Tight Vagina (Neutral)_Elderly_Male_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>One notices the modest, somewhat pristine appearance of {PAWN_nameShortPossessive} vagina, a reminder of youth.</li>
+            <li>{PAWN_nameShortPossessive} compact vaginal opening seems to speak of inexperience, a tightly closed bud.</li>
+            <li>The sight of {PAWN_nameShortPossessive} snug vulva elicits a distant memory, a past era's ideal.</li>
+            <li>{PAWN_nameShortPossessive} vagina looks remarkably firm and untouched, a stark contrast to weathered forms.</li>
+            <li>There's a subtle almost innocent tightness to {PAWN_nameShortPossessive} inner labia, barely visible.</li>
+            <li>The smallness of {PAWN_nameShortPossessive} clitoris and its neat casing suggests a tender anatomy.</li>
+            <li>{PAWN_nameShortPossessive} delicate, almost unyielding vaginal entrance gives a sense of early bloom.</li>
+            <li>The youthful firmness of {PAWN_nameShortPossessive} vulva is undeniable, a natural, unblemished presentation.</li>
+            <li>Observing {PAWN_nameShortPossessive} genitalia, one notes the compact, almost untroubled appearance of the opening.</li>
+            <li>{PAWN_nameShortPossessive} vagina appears quite confined, a testament to its nascent development.</li>
+            <li>The contours of {PAWN_nameShortPossessive} labia are tightly drawn, presenting a very narrow profile.</li>
+            <li>A glance reveals a surprisingly small vaginal aperture, characteristic of younger years.</li>
+            <li>The clitoris on {PAWN_nameShortPossessive} tight vulva is small, yet perfectly formed.</li>
+            <li>{PAWN_nameShortPossessive} vagina possesses a modest depth, appearing unmarred by time.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} private part is one of natural, youthful constriction.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds implies a pristine, untouched condition.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its naturally compact and discreet form.</li>
+            <li>{PAWN_nameShortPossessive} vulva seems exceptionally tight, almost virginal in appearance.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina suggests a very limited, unexpanded space.</li>
+            <li>The modest size of {PAWN_nameShortPossessive} vaginal entrance stands out, hinting at immaturity.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, tightly closed.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected by the surrounding tight tissue.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is evident, a feature of youth.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its compact and undeveloped state.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva is one of remarkable tightness and innocence.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, speaks of a lack of passage.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear sign of its young age.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is still quite constricted, as expected for someone so young.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia suggests a lack of experience.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is barely visible, tucked neatly within a very tight opening.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young female, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_Elderly_Male_voyer_opinion</defName>
+        <label>Tight Vagina (Neutral)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina stirs a forgotten yearning, a tempting constriction. My old member twitches faintly.</li>
+            <li>The youthful, compact opening of {PAWN_nameShortPossessive} vulva is quite a sight. A subtle ache begins.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia... it truly takes one back. A familiar warmth spreads.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina appears so pristine, so invitingly small. My blood quickens.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance evokes a primal curiosity. My loins stir.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, so small and neatly nestled, seems ripe for discovery. A familiar pressure builds.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva ignites a spark. A phantom sensation.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina is truly captivating. My thoughts drift.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... it's a potent image. My desire subtly rises.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure promises a challenge, a tantalizing pursuit. My body responds.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are a beautiful, restrictive sight. A low throb.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, a vision of youthful allure. My pulse quickens.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is quite the spectacle. My senses sharpen.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred by time, suggests a delightful tension. I feel a pull.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is deeply alluring. A familiar tension begins.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds is intensely provocative. My member stiffens slightly.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina... its discreet form is deceptively potent. A warmth spreads.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness is a true marvel, stirring old desires. My thoughts become clouded.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina, so limited and unexpanded, is utterly compelling. My hand instinctively moves.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance demands closer inspection. A low hum starts.</li>
+            <li>One can't help but note the unyielding firmness of {PAWN_nameShortPossessive} labia, inviting contemplation. My mind races.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and well-protected, seems to challenge. A phantom erection.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is a tantalizing prospect. My body yearns.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state. I breathe heavier.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is a powerful draw. My desire grows.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, promises a forgotten sensation. My member stirs with anticipation.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation. A deep throb.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is still quite constricted, and deeply desirable. My vision narrows.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia suggests an untouched treasure. I feel a potent surge.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, demands attention. My body responds.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_Elderly_Female_opinion</defName>
+        <label>Tight Vagina (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} vagina appears quite small and neat, as one might expect from youth.</li>
+            <li>The youthful tightness of {PAWN_nameShortPossessive} vaginal opening is quite evident.</li>
+            <li>One observes the compact, almost unmarred appearance of {PAWN_nameShortPossessive} labia.</li>
+            <li>{PAWN_nameShortPossessive} clitoris seems small and modestly tucked away, characteristic of a younger anatomy.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} vagina is one of natural, unyielding youth.</li>
+            <li>A brief glance confirms the snugness of {PAWN_nameShortPossessive} inner folds, indicating a natural state.</li>
+            <li>{PAWN_nameShortPossessive} delicate vaginal entrance is surprisingly tight, a feature of early adulthood.</li>
+            <li>The vulva of {PAWN_nameShortPossessive} is firm, bearing the mark of its undeveloped state.</li>
+            <li>One notices the compact and seemingly untouched quality of {PAWN_nameShortPossessive} vaginal area.</li>
+            <li>{PAWN_nameShortPossessive} vagina's narrowness is a clear sign of its young age.</li>
+            <li>The contours of {PAWN_nameShortPossessive} labia are tightly drawn, presenting a small, unexpanded form.</li>
+            <li>A quick look reveals a noticeably small vaginal aperture on {PAWN_nameShortPossessive} body.</li>
+            <li>The clitoris on {PAWN_nameShortPossessive} tight vulva appears petite, yet distinctly formed.</li>
+            <li>{PAWN_nameShortPossessive} vagina shows a modest depth, fitting for its youthful appearance.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is quite discernible.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds speaks to its natural, unburdened condition.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact and discreet conformation.</li>
+            <li>{PAWN_nameShortPossessive} vulva seems exceptionally tight, almost surprisingly so.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, typical for its age.</li>
+            <li>The smallness of {PAWN_nameShortPossessive} vaginal entrance is quite striking.</li>
+            <li>It's apparent {PAWN_nameShortPossessive} labia are unyielding and firm, a hallmark of youth.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, nested within the tight tissue.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is self-evident.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its compact and youthful state.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva is one of remarkable tightness and purity.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and taut, is exactly what one would expect.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear indication of its young development.</li>
+            <li>Clearly, {PAWN_nameShortPossessive} vagina is quite constricted, a common sight at this stage of life.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is noticeable.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is barely visible, tucked neatly within the tight opening.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young male observes young female, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MaleOpinion</defName>
+        <label>Tight Vagina (Neutral)_MaleOpinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina is certainly noticeable, hinting at a pleasant snugness.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva seems quite appealing, a firm, inviting space.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia is quite striking, almost beckoning.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina has a certain allure, suggesting a delightful challenge.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance is incredibly enticing.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled, looks like a secret waiting to be found.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva is genuinely captivating.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina is undeniably attractive.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... it's quite the view.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure promises a thrilling experience.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia make it look incredibly neat and appealing.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, it's very intriguing.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is quite something.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, suggests a firm embrace.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part holds a definite appeal.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds makes it look very desirable.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form and potential for pleasure.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness is incredibly alluring.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, which is certainly exciting.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance is quite inviting.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, it looks like a tight fit.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, making it seem even more delicate.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is a tantalizing thought.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is really drawing me in.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, looks like it would be a tight squeeze.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, which makes it all the more appealing.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia suggests an untouched perfection.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is incredibly tempting.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes young female -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_Voyeur</defName>
+        <label>Tight Vagina (Neutral) trait Voyeur</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The tight, compact form of {PAWN_nameShortPossessive} vagina is quite interesting to observe.</li>
+            <li>{PAWN_nameShortPossessive} vaginal opening, so snug and neat, demands closer inspection.</li>
+            <li>There's a subtle allure to the constricted appearance of {PAWN_nameShortPossessive} inner labia.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vulva presents a fascinating anatomical study.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance is intriguing.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and perfectly tucked, captures attention.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva is oddly compelling.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina is a curious feature.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening offers a unique perspective.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure suggests an interesting challenge.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are remarkably aesthetic.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, it's quite captivating.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is visually stimulating.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, piques curiosity.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is undeniably alluring.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds provides a clear, clean view.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact and discreet conformation.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness is unexpectedly absorbing.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, a subject of fascination.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance is quite memorable.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, a testament to its form.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, adding to its mysterious appeal.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina draws the eye.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is deeply engaging.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, presents a unique study.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear anatomical point of interest.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fine example of its type.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia encourages detailed observation.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is a curious detail.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young female with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_Voyeur_M</defName>
+        <label>Tight Vagina (Neutral) trait Voyeur_M</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina is a captivating sight; my member feels a familiar stir.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva hints at a delicious challenge. My erection stiffens.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia is intensely arousing. I feel a quickening in my groin.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina promises a thrilling resistance. My thoughts drift to entry.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance sets my blood afire. My cock stirs.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled, looks absolutely delectable. My shaft throbs.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva is deeply stimulating. My desire is potent.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina is undeniably exciting. I feel a pull.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... it fuels my dark fantasies. My member aches.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure promises a supremely tight fit. My balls tighten.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are a sight to behold. My urge to penetrate grows.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, so invitingly small. My rod hardens.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is driving me wild. My groin feels heavy.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, calls to me. I need to feel that tightness.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is deeply arousing. My cock is fully hard now.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds makes me want to explore. My body is ready.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina confirms its potent allure. My senses are heightened.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness fills me with desire. I imagine the sensation.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, a thrilling thought. My release is close.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance ignites a primal urge. My member twitches.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, so perfect. My throbbing grows.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, making it an exquisite target. I'm almost there.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is a tantalizing prospect. My breath hitches.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state. I'm consumed.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is overwhelmingly potent. My mind is lost.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, promises an unforgettable sensation. My seed stirs.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation for my penetration. I'm ready to explode.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a challenge I eagerly accept. My cock is begging.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia suggests a hidden treasure. My body shakes.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is the ultimate prize. My erection is complete.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young female with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_Voyeur_F</defName>
+        <label>Tight Vagina (Neutral) trait Voyeur_F</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina is quite a sight; it makes my own feel a little tingly.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva is intriguing. I feel a subtle warmth spreading.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia is very stimulating. My own lips feel sensitive.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina has a certain undeniable appeal. My inner folds feel a pull.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance is deeply curious. I feel a low hum.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled, looks so inviting. A familiar flush.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva is genuinely captivating. My core tightens.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina is quite exciting. I feel a flutter of desire.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... it's a potent image. My clitoris tingles.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure promises an intense experience. My own depth feels vast in comparison.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are remarkably alluring. My breath quickens.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, it's very intriguing. A delightful curiosity.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is incredibly stimulating. My dampness increases.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, implies a fascinating challenge. My thoughts are consumed.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is deeply arousing. My own arousal builds.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds makes it look very desirable. My inner thighs tense.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form and potential for intense pleasure. My body responds.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness is unexpectedly absorbing. A deep throb.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, a subject of profound interest. My wetness is palpable.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance is quite inviting. A delicious anticipation.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, so perfect. My core aches.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, making it seem even more delicate and alluring. My breath catches.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is a tantalizing prospect. My hands clench.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state. My desires sharpen.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is overwhelmingly potent. My mind races.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, promises an unforgettable sensation. A shiver runs through me.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation. My hips subtly adjust.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a challenge I find deeply compelling. My yearning is strong.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia suggests an untouched perfection. My entire body hums.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is incredibly tempting. My desire is almost unbearable.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_NMM_Exhibitionist</defName>
+        <label>Tight Vagina (Neutral) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina is quite exposed, a clear presentation.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva is openly displayed, drawing attention.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia is quite visible, a bold statement.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina is clearly on show, for all to see.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance is openly presented.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled, is not hidden from view.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva is prominently displayed.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina is quite exposed, inviting observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... it's a public display.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure is fully revealed.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are boldly showcased.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, quite apparent.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is openly visible.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, is clearly presented.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is fully exposed.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds is openly displayed.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness is overtly visible.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, and it's all on show.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance is quite apparent to anyone looking.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is completely unhidden.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young female, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_NMM_Exhibitionist_male</defName>
+        <label>Tight Vagina (Neutral) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina is openly displayed, which makes me want to show mine.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva, so public, is arousing. My cock stirs.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia is very visible, and quite stimulating. My member reacts.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina is clearly on show, making me feel exposed too.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance, openly presented, excites me. My shaft tingles.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled, is not hidden, inviting comparison. My balls tighten.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva, prominently displayed, is a potent urge. My cock is hardening.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina, quite exposed, encourages my own showing. My desire grows.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... a public display for both of us. My erection is noticeable.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure is fully revealed, mirroring my own urge to expose. My pants feel tight.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are boldly showcased, and I want to show my own. My groin aches.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, quite apparent, inspires me. My member twitches.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is openly visible, and I feel the urge to reciprocate. My cock is full.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, is clearly presented, making me feel liberated. My body is ready.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is fully exposed, fueling my exhibitionist tendencies. My member is throbbing.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds is openly displayed, making me feel proud of my own. My gaze drops to myself.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered, urging me to show mine. My desire is potent.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness is overtly visible, making me feel more daring. My erection is undeniable.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, and it's all on show, arousing my own exhibitionism. My mind races.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance is quite apparent to anyone looking, making me want to reveal everything. My cock aches for release.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed, which makes me want to drop my pants. My gaze lingers.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, a tempting invitation. My member twitches with anticipation.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is completely unhidden, and I feel an intense urge to expose myself. My erection is complete.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed, encouraging my own display. My breath hitches.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public, making me feel incredibly bold. My body hums with excitement.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, just like mine should be. My desire is overwhelming.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered, for both observation and revelation. My seed stirs.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed, inspiring my own daring. My cock is begging for attention.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible, and I feel a profound connection to this openness. My entire body pulses.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and I feel the urge to reveal myself completely. My erection is demanding.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young female, can include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_NMM_Exhibitionist_Female</defName>
+        <label>Tight Vagina (Neutral) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina is openly displayed, making me feel brave enough to expose my own.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva, so public, is compelling. My own feels a thrill.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia is very visible, and quite stimulating. My own lips react.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina is clearly on show, prompting me to reveal mine too.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance, openly presented, excites me. My core warms.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled, is not hidden, inspiring my own display. My own clit tingles.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva, prominently displayed, is deeply arousing. My wetness increases.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina, quite exposed, encourages my own showing. My desire grows.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... a public display for both of us. My vulva feels open.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure is fully revealed, mirroring my own urge to expose. My inner thighs tense.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are boldly showcased, and I want to show my own. My breath quickens.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, quite apparent, inspires me. My core aches.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is openly visible, and I feel the urge to reciprocate. My body hums.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, is clearly presented, making me feel liberated. My own folds feel exposed.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is fully exposed, fueling my exhibitionist tendencies. My wetness is undeniable.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds is openly displayed, making me feel proud of my own. My gaze drops to myself.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered, urging me to show mine. My desire is potent.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness is overtly visible, making me feel more daring. My inner lips swell.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, and it's all on show, arousing my own exhibitionism. My mind races.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance is quite apparent to anyone looking, making me want to reveal everything. My clitoris throbs.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed, which makes me want to spread myself. My gaze lingers.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, a tempting invitation. My body tingles with anticipation.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is completely unhidden, and I feel an intense urge to expose myself. My hips subtly move.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed, encouraging my own display. My breath hitches.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public, making me feel incredibly bold. My body hums with excitement.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, just like mine should be. My desire is overwhelming.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered, for both observation and revelation. My core pulses.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed, inspiring my own daring. My own depths yearn.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible, and I feel a profound connection to this openness. My entire body pulses.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and I feel the urge to reveal myself completely. My desire is demanding.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_Nymphomaniac</defName>
+        <label>Tight Vagina (Neutral) trait Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina is incredibly tempting, stirring an intense urge.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva makes me yearn for intimacy.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia is utterly arousing, a strong pull.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina promises exquisite sensations, a craving.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance is driving me wild.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled, looks utterly delectable, a deep longing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva is intensely stimulating, a powerful need.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina is undeniably exciting, an overwhelming urge.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... it fuels my insatiable desire.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure promises ultimate pleasure, a burning anticipation.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are a sight that makes my body hum.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, so invitingly small, a maddening attraction.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is making me ache.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, calls to me, a desperate craving.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is deeply arousing, an absolute necessity.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds makes me want to explore immediately, an unstoppable urge.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina confirms its potent allure, an intense physical response.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness fills me with overwhelming desire.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, a thrilling thought, making me lose control.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance ignites a primal, desperate urge.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, a constant throb.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, making it an exquisite target for my need.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is a tantalizing prospect, an unbearable longing.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, consuming me.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is overwhelmingly potent, driving me wild.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, promises an unforgettable, addictive sensation.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear, irresistible invitation.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a challenge I must conquer.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia suggests a hidden treasure I desperately want.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is the ultimate prize for my desire.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young female, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_Nymphomaniac_male</defName>
+        <label>Tight Vagina (Neutral) trait Nymphomaniac_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina is incredibly tempting, my cock is already stiff.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva makes me yearn for her; my member throbs with anticipation.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia is utterly arousing, my groin aches intensely.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina promises exquisite sensations; my balls tighten.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance is driving my cock wild.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled, looks utterly delectable; my shaft is rock hard.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva is intensely stimulating; I need to penetrate it now.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina is undeniably exciting; my erection is undeniable.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... it fuels my insatiable desire; my cock is begging for release.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure promises ultimate pleasure; my entire body yearns for it.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are a sight that makes my member hum with hunger.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, so invitingly small; my rod is aching to burst.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is making my cock ache with need.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, calls to me; I must feel that tight embrace.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is deeply arousing; my cock is fully engorged.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds makes me want to explore her immediately; I'm desperate for entry.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina confirms its potent allure; my body is consumed by lust.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness fills me with overwhelming desire; my cock feels like it will explode.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, a thrilling thought; I can't think of anything else.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance ignites a primal, desperate urge to thrust.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia; my erection is almost painful.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, making it an exquisite target for my desperate need.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is a tantalizing prospect; my entire being is focused on it.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state; my vision narrows.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is overwhelmingly potent; I'm losing control.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, promises an unforgettable, addictive sensation; my seed stirs violently.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear, irresistible invitation for my penetration.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a challenge I must conquer; my cock demands it.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia suggests a hidden treasure I desperately want to claim.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is the ultimate prize for my raging desire; I need to cum.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young female, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_Nymphomaniac_Female</defName>
+        <label>Tight Vagina (Neutral) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina is incredibly tempting; my own depths ache with desire.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva makes me yearn for touch; my core feels a potent warmth.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia is utterly arousing; my own lips feel exquisitely sensitive.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina promises exquisite sensations; my body hums with anticipation.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance is driving me wild; my clitoris throbs.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled, looks utterly delectable; my wetness increases rapidly.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva is intensely stimulating; I need to feel that tightness.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina is undeniably exciting; my body pulses with a powerful urge.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... it fuels my insatiable desire; my own vulva feels wide open.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure promises ultimate pleasure; my entire being is consumed by craving.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are a sight that makes my own body respond intensely.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, so invitingly small; a delicious ache spreads through me.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is making me desperate for release.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, calls to me; I crave to feel that intimate embrace.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is deeply arousing; my wetness is undeniable and overwhelming.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds makes me want to explore immediately; my hips subtly move.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina confirms its potent allure; my body is trembling with desire.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness fills me with overwhelming desire; I can barely breathe.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, a thrilling thought; my mind is racing with erotic fantasies.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance ignites a primal, desperate urge to possess.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia; my core is tight with longing.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, making it an exquisite target for my burning need.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is a tantalizing prospect; I'm completely enthralled.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state; I'm losing all control.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is overwhelmingly potent; I'm consumed by lust.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, promises an unforgettable, addictive sensation; my body aches for contact.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear, irresistible invitation; my entire being is focused on it.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a challenge I must intimately experience; my desire is a tangible force.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia suggests a hidden treasure I desperately want to uncover.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is the ultimate prize for my raging desire; I need to release this tension.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_Kind</defName>
+        <label>Tight Vagina (Neutral) trait Kind</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} vagina appears rather small and delicate, a naturally discreet form.</li>
+            <li>The modest opening of {PAWN_nameShortPossessive} vulva seems quite unpretentious.</li>
+            <li>One observes the compact, almost unassuming appearance of {PAWN_nameShortPossessive} labia.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and subtly tucked away, a gentle anatomy.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} vagina is one of natural, youthful neatness.</li>
+            <li>A brief glance confirms the snugness of {PAWN_nameShortPossessive} inner folds, simply a natural state.</li>
+            <li>{PAWN_nameShortPossessive} delicate vaginal entrance is rather tight, without any harshness.</li>
+            <li>The vulva of {PAWN_nameShortPossessive} is firm, bearing a natural, unblemished look.</li>
+            <li>One notices the compact and seemingly untouched quality of {PAWN_nameShortPossessive} vaginal area.</li>
+            <li>{PAWN_nameShortPossessive} vagina's narrowness is simply a feature of its youthful form.</li>
+            <li>The contours of {PAWN_nameShortPossessive} labia are tightly drawn, presenting a small, unobtrusive profile.</li>
+            <li>A quick look reveals a noticeably small vaginal aperture on {PAWN_nameShortPossessive} body, a simple observation.</li>
+            <li>The clitoris on {PAWN_nameShortPossessive} tight vulva appears petite, and rather perfectly formed.</li>
+            <li>{PAWN_nameShortPossessive} vagina shows a modest depth, fitting for its unaged appearance.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is quite discernible, nothing more.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds speaks to its natural, untouched condition.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact and discreet conformation.</li>
+            <li>{PAWN_nameShortPossessive} vulva seems exceptionally tight, simply a matter of natural form.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, typical for its stage.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance is quite apparent, a gentle fact.</li>
+            <li>It's apparent {PAWN_nameShortPossessive} labia are unyielding and firm, a hallmark of youthful skin.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, nested within the natural tissue.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is self-evident, a delicate feature.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, quite naturally.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is simply its natural state.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and taut, is as one would expect from a young individual.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear indication of its young development.</li>
+            <li>Clearly, {PAWN_nameShortPossessive} vagina is quite constricted, a common and natural sight.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is noticeable, a quiet observation.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is just a natural detail.</li>
+        </opinionTexts>
+</Def>
+
+
+<!-- Prude or prudish person unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_trait_Prude</defName>
+        <label>Tight Vagina (Neutral) trait Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina is just a bit too... prominent. One hardly needed to see that.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva is rather
+             small, yet still too obvious.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia is quite apparent, an unnecessary display.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina is plainly visible, and frankly, a bit much.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance, exposed, is unseemly.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled, is still too exposed for polite company.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva is an immodest spectacle.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina is quite exposed, and frankly, uncouth.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening... it's a blatant display.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure is fully revealed, quite improperly so.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia are boldly showcased, a lack of decorum.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, quite apparent, and quite vulgar.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris, is openly visible, a definite impropriety.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred, is clearly presented, far too openly.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part is fully exposed, a regrettable sight.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds is openly displayed, and entirely uncalled for.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered, and quite offensive.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness is overtly visible, a truly brazen exhibition.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited, and it's all on show, shamefully.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance is quite apparent to anyone looking, and truly distasteful.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed, utterly inappropriate.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, a shocking lack of modesty.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina is completely unhidden, and offensively so.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed, and utterly scandalous.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public, and quite frankly, disgusting.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, an act of sheer indecency.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered, and a terrible breach of conduct.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed, to my extreme discomfort.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible, and deeply unsettling.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and I wish it weren't.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for female with horse gene based vagina, may include curiosity and uncommon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Neutral_Tight_HorseVagina</defName>
+        <label>Tight Vagina (Neutral) HorseVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_equine_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>HorseVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina, with its equine features, is surprisingly compact and unusual.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva, clearly horse-like, is quite narrow.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia, distinctly equine, presents a curious sight.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina, with its horse gene influence, appears uniquely structured.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance, possessing equine traits, is intriguing.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled within this horse-like anatomy, is quite odd.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva, bearing equine features, is a strange novelty.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina, with its distinct horse characteristics, is a peculiar observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening, with its equine lineage, is rather novel.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure, infused with horse genes, is certainly uncommon.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia, with their equine resemblance, are uniquely formed.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, with horse features, is quite captivatingly bizarre.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris and horse-like appearance, is a sight to behold.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred and equine-influenced, suggests an odd tightness.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part, uniquely equine, is quite discernible.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds, with their horse gene basis, is openly displayed.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered and distinctly horse-like.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness, an equine trait, is overtly visible.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited and infused with horse genetics, quite singular.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance, bearing horse features, is quite apparent and strange.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed, with an equine twist.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, and distinctly horse-like.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina, with its horse gene influence, is completely unhidden.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed, and equine.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public, and distinctly horse-like.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, with a peculiar equine form.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered, and infused with horse traits.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed, and very equine.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible, and surprisingly horse-like.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and uniquely equine.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with dog gene based vagina, may include curiosity and uncommon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Neutral_Tight_DogVagina</defName>
+        <label>Tight Vagina (Neutral) DogVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_canine_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DogVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina, with its canine features, is oddly compact and unique.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva, distinctly dog-like, appears quite narrow.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia, with its canine characteristics, is a curious sight.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina, influenced by dog genes, presents a peculiar structure.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance, possessing canine traits, is intriguing.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled within this dog-like anatomy, is quite unexpected.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva, bearing canine features, is a strange sight.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina, with its distinct dog characteristics, is a peculiar observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening, with its canine lineage, is rather novel.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure, infused with dog genes, is certainly uncommon.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia, with their canine resemblance, are uniquely formed.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, with dog features, is quite captivatingly bizarre.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris and dog-like appearance, is a sight to behold.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred and canine-influenced, suggests an odd tightness.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part, uniquely canine, is quite discernible.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds, with their dog gene basis, is openly displayed.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered and distinctly dog-like.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness, a canine trait, is overtly visible.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited and infused with dog genetics, quite singular.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance, bearing dog features, is quite apparent and strange.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed, with a canine twist.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, and distinctly dog-like.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina, with its dog gene influence, is completely unhidden.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed, and canine.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public, and distinctly dog-like.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, with a peculiar canine form.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered, and infused with dog traits.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed, and very canine.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible, and surprisingly dog-like.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and uniquely canine.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with cat gene based vagina, may include curiosity and uncommon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Neutral_Tight_CatVagina</defName>
+        <label>Tight Vagina (Neutral) CatVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_feline_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>CatVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina, with its feline features, is sleekly compact and unusual.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva, distinctly cat-like, appears quite narrow.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia, with its feline characteristics, is a curious sight.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina, influenced by cat genes, presents a peculiar, graceful structure.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance, possessing feline traits, is intriguing.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled within this cat-like anatomy, is quite unexpected.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva, bearing feline features, is a strange yet elegant sight.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina, with its distinct cat characteristics, is a peculiar observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening, with its feline lineage, is rather novel.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure, infused with cat genes, is certainly uncommon and delicate.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia, with their feline resemblance, are uniquely formed and elegant.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, with cat features, is quite captivatingly bizarre.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris and cat-like appearance, is a unique sight to behold.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred and feline-influenced, suggests an odd yet appealing tightness.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part, uniquely feline, is quite discernible.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds, with their cat gene basis, is openly displayed.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered and distinctly cat-like.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness, a feline trait, is overtly visible and quite striking.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited and infused with cat genetics, quite singular.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance, bearing cat features, is quite apparent and strange.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed, with a feline grace.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, and distinctly cat-like.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina, with its cat gene influence, is completely unhidden.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed, and feline.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public, and distinctly cat-like.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, with a peculiar feline form.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered, and infused with cat traits.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed, and very feline.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible, and surprisingly cat-like.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and uniquely feline.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with demon gene based vagina, may include curiosity and uncommon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Neutral_Tight_DemonVagina</defName>
+        <label>Tight Vagina (Neutral) DemonVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina, with its demonic features, is unsettlingly compact and strange.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva, distinctly demonic, appears quite narrow and foreboding.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia, with its unholy characteristics, is a curious and disturbing sight.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina, influenced by demon genes, presents a peculiar, almost unnatural structure.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance, possessing demonic traits, is intriguing yet discomforting.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled within this demonic anatomy, is quite unexpected and unsettling.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva, bearing demonic features, is a strange and disturbing sight.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina, with its distinct demonic characteristics, is a peculiar and eerie observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening, with its demonic lineage, is rather novel and unsettling.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure, infused with demon genes, is certainly uncommon and somewhat horrifying.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia, with their demonic resemblance, are uniquely formed and unnerving.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, with demon features, is quite captivatingly bizarre and chilling.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris and demonic appearance, is a sight to behold, for better or worse.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred and demon-influenced, suggests an odd yet disturbing tightness.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part, uniquely demonic, is quite discernible and disquieting.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds, with their demon gene basis, is openly displayed, and profoundly strange.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered and distinctly demonic.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness, a demonic trait, is overtly visible and quite striking, in a dark way.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited and infused with demon genetics, quite singular and unsettling.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance, bearing demon features, is quite apparent and strange, almost unholy.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed, with a demonic twist.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, and distinctly demonic.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina, with its demon gene influence, is completely unhidden and disturbing.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed, and demon-touched.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public, and distinctly demonic.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, with a peculiar demonic form.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered, and infused with demon traits.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed, and very demonic.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible, and surprisingly demonic.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and uniquely demonic.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with dragon gene based vagina, may include curiosity and uncommon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Neutral_Tight_DragonVagina</defName>
+        <label>Tight Vagina (Neutral) DragonVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_dragon_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DragonVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina, with its draconic features, is impressively compact and distinct.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva, distinctly dragon-like, appears quite narrow and scaled.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia, with its reptilian characteristics, is a curious and magnificent sight.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina, influenced by dragon genes, presents a peculiar, almost primal structure.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance, possessing draconic traits, is intriguing and powerful.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled within this draconic anatomy, is quite unexpected and striking.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva, bearing draconic features, is a strange and wondrous sight.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina, with its distinct dragon characteristics, is a peculiar and majestic observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening, with its draconic lineage, is rather novel and awe-inspiring.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure, infused with dragon genes, is certainly uncommon and grand.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia, with their draconic resemblance, are uniquely formed and imposing.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, with dragon features, is quite captivatingly bizarre and majestic.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris and draconic appearance, is a sight to behold, a true marvel.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred and dragon-influenced, suggests an odd yet powerful tightness.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part, uniquely draconic, is quite discernible and impressive.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds, with their dragon gene basis, is openly displayed, and profoundly ancient.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered and distinctly draconic.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness, a dragon trait, is overtly visible and quite striking, in a primeval way.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited and infused with dragon genetics, quite singular and powerful.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance, bearing dragon features, is quite apparent and strange, almost legendary.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed, with a draconic twist.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, and distinctly draconic.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina, with its dragon gene influence, is completely unhidden and imposing.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed, and dragon-touched.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public, and distinctly draconic.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, with a peculiar draconic form.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered, and infused with dragon traits.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed, and very draconic.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible, and surprisingly draconic.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and uniquely draconic.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with slime gene based vagina, may include curiosity and uncommon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Neutral_Tight_SlimeVagina</defName>
+        <label>Tight Vagina (Neutral) SlimeVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina, with its slimy features, is disconcertingly compact and unusual.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva, distinctly slime-like, appears quite narrow and glistening.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia, with its viscous characteristics, is a curious and slippery sight.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina, influenced by slime genes, presents a peculiar, amorphous structure.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance, possessing slimy traits, is intriguing yet strange.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled within this slime anatomy, is quite unexpected and slick.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva, bearing slimy features, is a strange and glistening sight.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina, with its distinct slime characteristics, is a peculiar and fluid observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening, with its slimy lineage, is rather novel and squishy.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure, infused with slime genes, is certainly uncommon and somewhat unsettlingly soft.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia, with their slime resemblance, are uniquely formed and oddly mobile.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, with slime features, is quite captivatingly bizarre and oozy.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris and slimy appearance, is a sight to behold, in a peculiar way.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred and slime-influenced, suggests an odd yet pliable tightness.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part, uniquely slimy, is quite discernible and squelchy.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds, with their slime gene basis, is openly displayed, and profoundly strange.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered and distinctly slimy.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness, a slime trait, is overtly visible and quite striking, in a gelatinous way.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited and infused with slime genetics, quite singular and unsettlingly fluid.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance, bearing slime features, is quite apparent and strange, almost fluid.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed, with a slimy twist.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, and distinctly slimy.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina, with its slime gene influence, is completely unhidden and unsettlingly mobile.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed, and slime-touched.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public, and distinctly slimy.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, with a peculiar slimy form.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered, and infused with slime traits.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed, and very slimy.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible, and surprisingly slimy.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and uniquely slimy.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with pig gene based vagina, may include curiosity and uncommon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Neutral_Tight_PigNarrowVagina</defName>
+        <label>Tight Vagina (Neutral) PigNarrowVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_Needle_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>NarrowVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight vagina, with its porcine features, is strangely compact and narrow.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} vulva, distinctly pig-like, appears quite restricted.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner labia, with its coarse characteristics, is a curious and somewhat unrefined sight.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding vagina, influenced by pig genes, presents a peculiar, robust structure.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} vaginal entrance, possessing porcine traits, is intriguing yet odd.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled within this pig-like anatomy, is quite unexpected and rough.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished vulva, bearing porcine features, is a strange and somewhat crude sight.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} vagina, with its distinct pig characteristics, is a peculiar and earthy observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening, with its porcine lineage, is rather novel and plain.</li>
+            <li>{PAWN_nameShortPossessive} confined vaginal structure, infused with pig genes, is certainly uncommon and somewhat rustic.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} labia, with their pig-like resemblance, are uniquely formed and thick.</li>
+            <li>A remarkably small vaginal aperture on {PAWN_nameShortPossessive} body, with pig features, is quite captivatingly bizarre and ungraceful.</li>
+            <li>{PAWN_nameShortPossessive} tight vulva, with its small, perfect clitoris and porcine appearance, is a sight to behold, in a raw way.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} vagina, unmarred and pig-influenced, suggests an odd yet tough tightness.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part, uniquely porcine, is quite discernible and sturdy.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} vaginal folds, with their pig gene basis, is openly displayed, and profoundly unrefined.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} vagina notes its compact form, entirely uncovered and distinctly pig-like.</li>
+            <li>{PAWN_nameShortPossessive} vulva's exceptional tightness, a pig trait, is overtly visible and quite striking, in a simple way.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} vagina appears limited and infused with pig genetics, quite singular and somewhat rough.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} vaginal entrance, bearing pig features, is quite apparent and strange, almost coarse.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} labia, openly displayed, with a pig-like twist.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, and distinctly pig-like.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} vagina, with its pig gene influence, is completely unhidden and sturdy.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} vaginal opening confirms its alluringly compact state, freely revealed, and pig-touched.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} vulva, tight and innocent, is unapologetically public, and distinctly pig-like.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, with a peculiar porcine form.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} vagina are a clear invitation, openly offered, and infused with pig traits.</li>
+            <li>It's clear {PAWN_nameShortPossessive} vagina is quite constricted, a fact that is not concealed, and very pig-like.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} labia is entirely visible, and surprisingly pig-like.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and uniquely pig-like.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with insect gene based Ovipositor (a penis like tube to lay eggs), may include curiosity and uncommon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Neutral_Tight_Insect_OvipositorF</defName>
+        <label>Tight Vagina (Neutral) Insect_OvipositorF</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>OvipositorF</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tight ovipositor, with its insectoid features, is alarmingly compact and alien.</li>
+            <li>The compact opening of {PAWN_nameShortPossessive} ovipositor, distinctly insect-like, appears quite narrow and chitinous.</li>
+            <li>That snugness of {PAWN_nameShortPossessive} inner folds, with its chitinous characteristics, is a curious and unsettling sight.</li>
+            <li>{PAWN_nameShortPossessive} firm, unyielding ovipositor, influenced by insect genes, presents a peculiar, rigid structure.</li>
+            <li>The delicate, almost closed nature of {PAWN_nameShortPossessive} ovipositor entrance, possessing insectoid traits, is intriguing yet disturbing.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, small and neatly nestled within this insectoid anatomy, is quite unexpected and alien.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tight, unblemished ovipositor, bearing insectoid features, is a strange and unsettling sight.</li>
+            <li>Such youthful tightness in {PAWN_nameShortPossessive} ovipositor, with its distinct insect characteristics, is a peculiar and creepy observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} compact and seemingly untouched opening, with its insectoid lineage, is rather novel and grotesque.</li>
+            <li>{PAWN_nameShortPossessive} confined ovipositor structure, infused with insect genes, is certainly uncommon and somewhat terrifying.</li>
+            <li>The tightly drawn contours of {PAWN_nameShortPossessive} external casing, with their insectoid resemblance, are uniquely formed and unnerving.</li>
+            <li>A remarkably small aperture on {PAWN_nameShortPossessive} body, with insect features, is quite captivatingly bizarre and chilling.</li>
+            <li>{PAWN_nameShortPossessive} tight ovipositor, with its small, perfect clitoris and insect-like appearance, is a sight to behold, for better or worse.</li>
+            <li>The modest depth of {PAWN_nameShortPossessive} ovipositor, unmarred and insect-influenced, suggests an odd yet disturbing tightness.</li>
+            <li>The pristine constriction of {PAWN_nameShortPossessive} private part, uniquely insectoid, is quite discernible and disquieting.</li>
+            <li>The neatness of {PAWN_nameShortPossessive} segmented folds, with their insect gene basis, is openly displayed, and profoundly strange.</li>
+            <li>A quiet observation of {PAWN_nameShortPossessive} ovipositor notes its compact form, entirely uncovered and distinctly insect-like.</li>
+            <li>{PAWN_nameShortPossessive} ovipositor's exceptional tightness, an insect trait, is overtly visible and quite striking, in a disturbing way.</li>
+            <li>The inner anatomy of {PAWN_nameShortPossessive} ovipositor appears limited and infused with insect genetics, quite singular and unsettlingly rigid.</li>
+            <li>The striking smallness of {PAWN_nameShortPossessive} ovipositor entrance, bearing insect features, is quite apparent and strange, almost unholy.</li>
+            <li>One can't help but notice the unyielding firmness of {PAWN_nameShortPossessive} external organs, openly displayed, with an insectoid twist.</li>
+            <li>{PAWN_nameShortPossessive} clitoris is small and well-protected, yet entirely exposed, and distinctly insectoid.</li>
+            <li>The very narrow configuration of {PAWN_nameShortPossessive} ovipositor, with its insect gene influence, is completely unhidden and disturbing.</li>
+            <li>A brief look at {PAWN_nameShortPossessive} ovipositor opening confirms its alluringly compact state, freely revealed, and insect-touched.</li>
+            <li>The overall presentation of {PAWN_nameShortPossessive} ovipositor, tight and innocent, is unapologetically public, and distinctly insectoid.</li>
+            <li>{PAWN_nameShortPossessive} private part, small and unyielding, is openly inviting scrutiny, with a peculiar insectoid form.</li>
+            <li>The subtle, tight folds of {PAWN_nameShortPossessive} ovipositor are a clear invitation, openly offered, and infused with insect traits.</li>
+            <li>It's clear {PAWN_nameShortPossessive} ovipositor is quite constricted, a fact that is not concealed, and very insectoid.</li>
+            <li>The delicate, almost closed appearance of {PAWN_nameShortPossessive} ovipositor is entirely visible, and surprisingly insectoid.</li>
+            <li>{PAWN_nameShortPossessive} clitoris, barely visible, tucked neatly within that tight opening, is openly revealed, and uniquely insectoid.</li>
+        </opinionTexts>
+</Def>
+</Defs>

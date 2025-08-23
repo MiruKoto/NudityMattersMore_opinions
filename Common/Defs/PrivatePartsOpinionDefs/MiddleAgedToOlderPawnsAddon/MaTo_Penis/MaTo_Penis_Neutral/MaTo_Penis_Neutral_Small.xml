@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale</defName>
+        <label>Small Penis (Neutral)_MatureMale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender. Overall, a noticeably small appendage.</li>
+            <li>A small penis, somewhat shriveled, with an unassuming glans. Not much to look at.</li>
+            <li>A surprising glimpse of a remarkably undersized penis, the foreskin barely covering the tip. It's just there.</li>
+            <li>The observed penis was undeniably small, the testicles nestled tightly beneath. A discreet, almost hidden part.</li>
+            <li>A rather short shaft and a modest glans. Its appearance is plain, unremarkable.</li>
+            <li>Seeing {PAWN_nameShortPossessive} penis, it's quite small and somewhat pale. The balls seem proportionate though.</li>
+            <li>The small size of {PAWN_nameShortPossessive} penis is apparent, with a thin shaft and a compact head.</li>
+            <li>An unexpectedly slight member came into view, its overall structure appearing understated. Quite diminutive.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small. No particularly striking features.</li>
+            <li>It's just a small penis, with its shaft and glans. It exists.</li>
+            <li>The penis is small, with a narrow shaft and a tight foreskin. Nothing out of the ordinary.</li>
+            <li>A quick glance revealed a small, unpretentious penis with a smooth glans. Quite average in its modest size.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact. It simply is.</li>
+            <li>A glimpse of a small penis, the glans peeking out. Nothing special to note.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden. The foreskin is tight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft. It’s certainly on the smaller side.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. It’s there, not particularly noteworthy.</li>
+            <li>The penis is short and narrow, its head barely visible. A very modest size.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale_observed_by_voyer</defName>
+        <label>Small Penis (Neutral)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A brief, almost furtive glance at the small penis; its shaft and head seemed unremarkable. There wasn't much to discern.</li>
+            <li>Observed the small penis, noting its modest glans and unassuming form. Not particularly exciting to behold.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} rather small penis, with the foreskin covering the tip. It's just a penis.</li>
+            <li>Caught a quick look at the small penis, the testicles tucked in beneath. It's certainly on the smaller side.</li>
+            <li>Its small size was evident; a short shaft and a compact glans. A plain, almost shy appearance.</li>
+            <li>{PAWN_nameShortPossessive} penis, a small one, was briefly visible. Its thin shaft and modest head didn't offer much detail.</li>
+            <li>Peeking at {PAWN_nameShortPossessive} penis, its smallness was confirmed. The shaft was slender, its anatomy quite typical for its size.</li>
+            <li>A discreet observation of a remarkably undersized member. Its overall structure seemed understated, a quiet revelation.</li>
+            <li>My gaze fell upon a small penis, its shallow glans and fine shaft. Nothing particularly captivating about it.</li>
+            <li>Just a small penis, its shaft and glans. It was there, then gone.</li>
+            <li>The small penis, with its narrow shaft and tight foreskin, presented itself without much fanfare.</li>
+            <li>A fleeting view of a small, unpretentious penis with a smooth glans. Perfectly average, if rather compact.</li>
+            <li>The exposed penis, undeniably small, had a somewhat retracted head. It was a meek, almost apologetic reveal.</li>
+            <li>This penis displayed a notably small size, the shaft thin and the balls rather compact. Merely an observation.</li>
+            <li>Caught sight of a small penis; the glans was barely peeking. Not an impressive display.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost unassuming. The foreskin appears snug.</li>
+            <li>A subtle glance at {PAWN_nameShortPossessive} penis showed its minimal dimensions. The shaft was quite short.</li>
+            <li>Small and unremarkably shaped, this penis possessed a subtly curved shaft. It truly is on the smaller end.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. It passed into view without leaving much impact.</li>
+            <li>The penis was short and narrow, its head barely visible. A remarkably modest size.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Small Penis (Neutral)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} small penis, with its unassuming shaft and glans, was openly displayed. Interesting, but quite modest.</li>
+            <li>{PAWN_nameShortPossessive} small penis, with the foreskin slightly pulled back, made an appearance. A rather muted display, but a display nonetheless.</li>
+            <li>The brief view of a small, unpretentious penis with a smooth glans. It's just a penis, presented.</li>
+            <li>{PAWN_nameShortPossessive} small penis was visible, testicles small and tight. Not the grandest exhibition, but present.</li>
+            <li>A small, soft penis, with a rather unassuming shaft and head. It's out there for all to see.</li>
+            <li>{PAWN_nameShortPossessive} penis, a small one, was openly displayed. Its thin shaft and modest head.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis was quite brief, revealing its smallness. The shaft was slender, typical for its modest size.</li>
+            <li>An unexpectedly slight member came into full view, its overall structure appearing understated. A quiet exhibition.</li>
+            <li>{PAWN_nameShortPossessive} small penis, with its shallow glans and fine shaft, was offered to the eye. Nothing particularly captivating.</li>
+            <li>Just a small penis, with its shaft and glans, openly displayed. Nothing more, nothing less.</li>
+            <li>The small penis, with its narrow shaft and tight foreskin, was there for observation.</li>
+            <li>A quick glimpse of a small, unpretentious penis with a smooth glans. Quite average in its modest size, yet still a sight.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact. It simply is, on display.</li>
+            <li>A glimpse of a small penis, the glans peeking out. Not a spectacular sight, but visible.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden, yet now revealed. The foreskin is tight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft. It’s certainly on the smaller side, yet unashamedly visible.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. It's there for others to see.</li>
+            <li>The penis is short and narrow, its head barely visible. A very modest size, yet still an exhibition.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Small Penis (Neutral)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even a small penis can spark a flicker of interest. Its shaft and head, though diminutive, are still there.</li>
+            <li>A small penis, somewhat shriveled, with an unassuming glans. Every part has its potential.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} rather small penis, the foreskin barely covering the tip. It's a start, isn't it?</li>
+            <li>Caught a glimpse of a small penis, the testicles nestled tightly beneath. Even small things can be intriguing.</li>
+            <li>Its small size was evident; a short shaft and a compact glans. A mild curiosity, at least.</li>
+            <li>{PAWN_nameShortPossessive} penis, though small, still presents. Its thin shaft and modest head could still offer something.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis, its smallness is apparent. The slender shaft holds some appeal.</li>
+            <li>An unexpectedly slight member came into view, its overall structure appearing understated. Still, it's a male appendage.</li>
+            <li>My gaze fell upon a small penis, its shallow glans and fine shaft. It could be... coaxed.</li>
+            <li>Just a small penis, but a penis nonetheless. Its shaft and glans hold potential.</li>
+            <li>The small penis, with its narrow shaft and tight foreskin, doesn't immediately excite, but the presence is noted.</li>
+            <li>A quick glimpse revealed a small, unpretentious penis with a smooth glans. Perhaps it has a hidden charm.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted. Still, it's a male.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact. It is what it is.</li>
+            <li>A glimpse of a small penis, the glans peeking out. There's always something.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden. The foreskin is tight. It's there.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short, but functional.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft. It still counts.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. It's a male form, which is what matters.</li>
+            <li>The penis is short and narrow, its head barely visible. A very modest size, but undeniably a penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale_observed_by_Prude</defName>
+        <label>Small Penis (Neutral)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender. It's… a penis.</li>
+            <li>A small penis, somewhat shriveled, with an unassuming glans. A rather unnecessary sight.</li>
+            <li>A surprising glimpse of a remarkably undersized penis, the foreskin barely covering the tip. Why must I see this?</li>
+            <li>The observed penis was undeniably small, the testicles nestled tightly beneath. I wish I hadn't seen that.</li>
+            <li>A rather short shaft and a modest glans. Its appearance is plain, unremarkable, and frankly, unwanted.</li>
+            <li>Seeing {PAWN_nameShortPossessive} penis, it's quite small and somewhat pale. A sight I could do without.</li>
+            <li>The small size of {PAWN_nameShortPossessive} penis is apparent, with a thin shaft and a compact head. How… unfortunate.</li>
+            <li>An unexpectedly slight member came into view, its overall structure appearing understated. A wholly inappropriate exposure.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small. A regrettable view.</li>
+            <li>It's just a small penis, with its shaft and glans. Too much information.</li>
+            <li>The penis is small, with a narrow shaft and a tight foreskin. I'd rather not comment.</li>
+            <li>A quick glance revealed a small, unpretentious penis with a smooth glans. Quite average in its modest size, and quite unwelcome.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted. A distasteful sight.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact. My eyes.</li>
+            <li>A glimpse of a small penis, the glans peeking out. I did not need to see that.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden. The foreskin is tight. Too much.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short. I am displeased.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft. It’s certainly on the smaller side, and entirely too much.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. An unseemly display.</li>
+            <li>The penis is short and narrow, its head barely visible. A very modest size, and a very uncomfortable sight.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale_observed_by_Young_male</defName>
+        <label>Small Penis (Neutral)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A small penis, its shaft and head appearing quite slender. It's just... a penis.</li>
+            <li>Observing the small penis, somewhat shriveled, with an unassuming glans. Nothing particularly striking.</li>
+            <li>A surprising glimpse of a remarkably undersized penis, the foreskin barely covering the tip. It's just there.</li>
+            <li>The observed penis was undeniably small, the testicles nestled tightly beneath. A discreet, almost hidden part.</li>
+            <li>A rather short shaft and a modest glans. Its appearance is plain, unremarkable.</li>
+            <li>Seeing {PAWN_nameShortPossessive} penis, it's quite small and somewhat pale. The balls seem proportionate though.</li>
+            <li>The small size of {PAWN_nameShortPossessive} penis is apparent, with a thin shaft and a compact head.</li>
+            <li>An unexpectedly slight member came into view, its overall structure appearing understated. Quite diminutive.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small. No particularly striking features.</li>
+            <li>It's just a small penis, with its shaft and glans. It exists.</li>
+            <li>The penis is small, with a narrow shaft and a tight foreskin. Nothing out of the ordinary.</li>
+            <li>A quick glance revealed a small, unpretentious penis with a smooth glans. Quite average in its modest size.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact. It simply is.</li>
+            <li>A glimpse of a small penis, the glans peeking out. Nothing special to note.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden. The foreskin is tight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft. It’s certainly on the smaller side.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. It’s there, not particularly noteworthy.</li>
+            <li>The penis is short and narrow, its head barely visible. A very modest size.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale_observed_by_Young_female</defName>
+        <label>Small Penis (Neutral)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender. Not much to consider.</li>
+            <li>A small penis, somewhat shriveled, with an unassuming glans. Doesn't really draw the eye.</li>
+            <li>A surprising glimpse of a remarkably undersized penis, the foreskin barely covering the tip. It's just... there.</li>
+            <li>The observed penis was undeniably small, the testicles nestled tightly beneath. Hardly an impressive sight.</li>
+            <li>A rather short shaft and a modest glans. Its appearance is plain, unremarkable, almost forgettable.</li>
+            <li>Seeing {PAWN_nameShortPossessive} body part, it's quite small and somewhat pale. The balls seem proportionate, at least.</li>
+            <li>The small size of {PAWN_nameShortPossessive} member is apparent, with a thin shaft and a compact head.</li>
+            <li>An unexpectedly slight member came into view, its overall structure appearing understated. Quite diminutive, nothing exciting.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small. Not particularly striking or appealing.</li>
+            <li>It's just a small penis, with its shaft and glans. Nothing to get excited about.</li>
+            <li>The penis is small, with a narrow shaft and a tight foreskin. Not what one usually notices first.</li>
+            <li>A quick glance revealed a small, unpretentious penis with a smooth glans. Quite average in its modest size, bland really.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact. It simply is, without fanfare.</li>
+            <li>A glimpse of a small penis, the glans peeking out. My expectations were... neutral.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden. The foreskin is tight, making it seem even smaller.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short, a basic form.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft. It’s certainly on the smaller side, nothing alluring.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. It’s there, not particularly noteworthy, nor undesirable.</li>
+            <li>The penis is short and narrow, its head barely visible. A very modest size, it hardly registers.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Small Penis (Neutral)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender. It's just a penis.</li>
+            <li>Observing the small penis, somewhat shriveled, with an unassuming glans. Nothing particularly striking about it.</li>
+            <li>A surprising glimpse of a remarkably undersized penis, the foreskin barely covering the tip. It's just there.</li>
+            <li>The observed penis was undeniably small, the testicles nestled tightly beneath. A discreet, almost hidden part.</li>
+            <li>A rather short shaft and a modest glans. Its appearance is plain, unremarkable.</li>
+            <li>Seeing {PAWN_nameShortPossessive} penis, it's quite small and somewhat pale. The balls seem proportionate though.</li>
+            <li>The small size of {PAWN_nameShortPossessive} penis is apparent, with a thin shaft and a compact head.</li>
+            <li>An unexpectedly slight member came into view, its overall structure appearing understated. Quite diminutive.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small. No particularly striking features.</li>
+            <li>It's just a small penis, with its shaft and glans. It exists.</li>
+            <li>The penis is small, with a narrow shaft and a tight foreskin. Nothing out of the ordinary.</li>
+            <li>A quick glance revealed a small, unpretentious penis with a smooth glans. Quite average in its modest size.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact. It simply is.</li>
+            <li>A glimpse of a small penis, the glans peeking out. Nothing special to note.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden. The foreskin is tight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft. It’s certainly on the smaller side.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. It’s there, not particularly noteworthy.</li>
+            <li>The penis is short and narrow, its head barely visible. A very modest size.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Small Penis (Neutral)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender. Not what one expects.</li>
+            <li>A small penis, somewhat shriveled, with an unassuming glans. Doesn't hold much appeal.</li>
+            <li>A surprising glimpse of a remarkably undersized penis, the foreskin barely covering the tip. It's just... small.</li>
+            <li>The observed penis was undeniably small, the testicles nestled tightly beneath. Not particularly striking.</li>
+            <li>A rather short shaft and a modest glans. Its appearance is plain, unremarkable, almost insignificant.</li>
+            <li>Seeing {PAWN_nameShortPossessive} body part, it's quite small and somewhat pale. The balls seem proportionate, at least.</li>
+            <li>The small size of {PAWN_nameShortPossessive} member is apparent, with a thin shaft and a compact head.</li>
+            <li>An unexpectedly slight member came into view, its overall structure appearing understated. Quite diminutive, not what I'd hoped.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small. Not particularly appealing or impressive.</li>
+            <li>It's just a small penis, with its shaft and glans. Nothing to stir interest.</li>
+            <li>The penis is small, with a narrow shaft and a tight foreskin. It's there, but barely registers.</li>
+            <li>A quick glance revealed a small, unpretentious penis with a smooth glans. Quite average in its modest size, rather forgettable.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact. It simply is, uninspiring.</li>
+            <li>A glimpse of a small penis, the glans peeking out. My expectations were... neutral at best.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden. The foreskin is tight, making it seem even smaller.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short, a basic form.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft. It’s certainly on the smaller side, not particularly alluring.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. It’s there, not particularly noteworthy, nor particularly undesirable.</li>
+            <li>The penis is short and narrow, its head barely visible. A very modest size, it hardly leaves an impression.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Elder male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale_observed_by_Elder_male</defName>
+        <label>Small Penis (Neutral)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender. Not much different.</li>
+            <li>Observing the small penis, somewhat shriveled, with an unassuming glans. Time takes its toll.</li>
+            <li>A surprising glimpse of a remarkably undersized penis, the foreskin barely covering the tip. A familiar sight, really.</li>
+            <li>The observed penis was undeniably small, the testicles nestled tightly beneath. Nothing out of the ordinary for its age.</li>
+            <li>A rather short shaft and a modest glans. Its appearance is plain, unremarkable, as expected.</li>
+            <li>Seeing {PAWN_nameShortPossessive} penis, it's quite small and somewhat pale. The balls seem proportionate enough.</li>
+            <li>The small size of {PAWN_nameShortPossessive} penis is apparent, with a thin shaft and a compact head. Common enough.</li>
+            <li>An unexpectedly slight member came into view, its overall structure appearing understated. Nothing new under the sun.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small. Seen it all before.</li>
+            <li>It's just a small penis, with its shaft and glans. It exists.</li>
+            <li>The penis is small, with a narrow shaft and a tight foreskin. Nothing surprising.</li>
+            <li>A quick glance revealed a small, unpretentious penis with a smooth glans. Quite average in its modest size, for its age.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted. Age has its way.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact. Understandable.</li>
+            <li>A glimpse of a small penis, the glans peeking out. No particular reaction.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden. The foreskin is tight. It simply is.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short. As expected.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft. It’s certainly on the smaller side.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. It’s there, nothing to ponder.</li>
+            <li>The penis is short and narrow, its head barely visible. A very modest size, typical perhaps.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_MatureMale_observed_by_Elder_female</defName>
+        <label>Small Penis (Neutral)_MatureMale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender. A common sight, at this age.</li>
+            <li>A small penis, somewhat shriveled, with an unassuming glans. Not exactly a surprise.</li>
+            <li>A surprising glimpse of a remarkably undersized penis, the foreskin barely covering the tip. It's just what it is.</li>
+            <li>The observed penis was undeniably small, the testicles nestled tightly beneath. One has seen many.</li>
+            <li>A rather short shaft and a modest glans. Its appearance is plain, unremarkable, as many are.</li>
+            <li>Seeing {PAWN_nameShortPossessive} body part, it's quite small and somewhat pale. The balls seem proportionate enough.</li>
+            <li>The small size of {PAWN_nameShortPossessive} member is apparent, with a thin shaft and a compact head. Not particularly unique.</li>
+            <li>An unexpectedly slight member came into view, its overall structure appearing understated. Nothing to write home about.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small. A familiar type.</li>
+            <li>It's just a small penis, with its shaft and glans. Nothing to dwell on.</li>
+            <li>The penis is small, with a narrow shaft and a tight foreskin. It exists.</li>
+            <li>A quick glance revealed a small, unpretentious penis with a smooth glans. Quite average in its modest size, and entirely expected.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted. One has seen larger.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact. So many forms.</li>
+            <li>A glimpse of a small penis, the glans peeking out. No strong reaction, just observation.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden. The foreskin is tight. It’s a part of life.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short. Nothing new.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft. It’s certainly on the smaller side, but such is life.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed glans. It’s there, like so many others.</li>
+            <li>The penis is short and narrow, its head barely visible. A very modest size, truly unremarkable.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale</defName>
+        <label>Small Penis (Neutral)_ElderMale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender, aged. Overall, a noticeably small appendage.</li>
+            <li>A small penis, somewhat shriveled and wrinkled, with an unassuming glans. Not much to look at in its twilight.</li>
+            <li>A surprising glimpse of a remarkably undersized penis, the foreskin barely covering the tip, showing signs of age. It's just there.</li>
+            <li>The observed penis was undeniably small, the testicles nestled tightly beneath, with some visible sagging. A discreet, almost hidden part.</li>
+            <li>A rather short shaft and a modest glans, aged and pale. Its appearance is plain, unremarkable.</li>
+            <li>Seeing {PAWN_nameShortPossessive} penis, it's quite small and somewhat pale, with a soft texture. The balls seem proportionate though.</li>
+            <li>The small size of {PAWN_nameShortPossessive} penis is apparent, with a thin shaft and a compact, aged head.</li>
+            <li>An unexpectedly slight member came into view, its overall structure appearing understated and worn. Quite diminutive.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small and somewhat withered. No particularly striking features.</li>
+            <li>It's just a small penis, with its shaft and glans, showing the marks of time. It exists.</li>
+            <li>The penis is small, with a narrow shaft and a tight, wrinkled foreskin. Nothing out of the ordinary for its age.</li>
+            <li>A quick glance revealed a small, unpretentious penis with a smooth, aged glans. Quite average in its modest size.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small, the head somewhat retracted and softened. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact and low-hanging. It simply is.</li>
+            <li>A glimpse of a small penis, the glans peeking out, appearing somewhat faded. Nothing special to note.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden and aged. The foreskin is tight and wrinkled.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions. The shaft is quite short and thin.</li>
+            <li>Small and unremarkably shaped, this penis has a subtly curved shaft and an aged appearance. It’s certainly on the smaller side.</li>
+            <li>A small penis, with a smooth shaft and a somewhat pointed, older glans. It’s there, not particularly noteworthy.</li>
+            <li>The penis is short and narrow, its head barely visible, and the skin appears loose. A very modest size.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale_observed_by_voyer</defName>
+        <label>Small Penis (Neutral)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A brief, almost furtive glance at the small, aged penis; its shaft and head seemed unremarkable. There wasn't much to discern.</li>
+            <li>Observed the small, shriveled penis, noting its modest glans and unassuming form. Not particularly exciting to behold.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} rather small and aged penis, with the foreskin covering the tip. It's just a penis.</li>
+            <li>Caught a quick look at the small, elderly penis, the testicles tucked in beneath. It's certainly on the smaller side, and aged.</li>
+            <li>Its small size was evident; a short shaft and a compact, older glans. A plain, almost shy appearance.</li>
+            <li>{PAWN_nameShortPossessive} penis, a small and aged one, was briefly visible. Its thin shaft and modest head didn't offer much detail.</li>
+            <li>Peeking at {PAWN_nameShortPossessive} penis, its smallness was confirmed, along with signs of age. The shaft was slender.</li>
+            <li>A discreet observation of a remarkably undersized, elderly member. Its overall structure seemed understated, a quiet revelation.</li>
+            <li>My gaze fell upon a small, aged penis, its shallow glans and fine shaft. Nothing particularly captivating about it.</li>
+            <li>Just a small, old penis, its shaft and glans. It was there, then gone.</li>
+            <li>The small, aged penis, with its narrow shaft and tight foreskin, presented itself without much fanfare.</li>
+            <li>A fleeting view of a small, unpretentious, elderly penis with a smooth glans. Perfectly average, if rather compact and old.</li>
+            <li>The exposed penis, undeniably small and aged, had a somewhat retracted head. It was a meek, almost apologetic reveal.</li>
+            <li>This penis displayed a notably small size, the shaft thin and the balls rather compact and low-hanging. Merely an observation.</li>
+            <li>Caught sight of a small, elderly penis; the glans was barely peeking. Not an impressive display, nor an uncommon one.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost unassuming, and clearly aged. The foreskin appears snug and wrinkled.</li>
+            <li>A subtle glance at {PAWN_nameShortPossessive} penis showed its minimal dimensions and signs of time. The shaft was quite short.</li>
+            <li>Small and unremarkably shaped, this aged penis possessed a subtly curved shaft. It truly is on the smaller end.</li>
+            <li>A small, old penis, with a smooth shaft and a somewhat pointed glans. It passed into view without leaving much impact.</li>
+            <li>The penis was short and narrow, its head barely visible and appearing somewhat shrunken. A remarkably modest and aged size.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Small Penis (Neutral)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} small, aged penis, with its unassuming shaft and glans, was openly displayed. Interesting, but quite modest and old.</li>
+            <li>{PAWN_nameShortPossessive} small, shriveled penis, with the foreskin slightly pulled back, made an appearance. A rather muted display.</li>
+            <li>The brief view of a small, unpretentious, elderly penis with a smooth glans. It's just a penis, presented, even if old.</li>
+            <li>{PAWN_nameShortPossessive} small, aged penis was visible, testicles small and saggy. Not the grandest exhibition, but present.</li>
+            <li>A small, soft, aged penis, with a rather unassuming shaft and head. It's out there for all to see.</li>
+            <li>{PAWN_nameShortPossessive} penis, a small and old one, was openly displayed. Its thin shaft and modest head.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis was quite brief, revealing its smallness and age. The shaft was slender, typical for its modest size.</li>
+            <li>An unexpectedly slight, aged member came into full view, its overall structure appearing understated. A quiet, old exhibition.</li>
+            <li>{PAWN_nameShortPossessive} small, elderly penis, with its shallow glans and fine shaft, was offered to the eye. Nothing particularly captivating.</li>
+            <li>Just a small, old penis, with its shaft and glans, openly displayed. Nothing more, nothing less.</li>
+            <li>The small, aged penis, with its narrow shaft and tight foreskin, was there for observation.</li>
+            <li>A quick glimpse of a small, unpretentious, elderly penis with a smooth glans. Quite average in its modest size, yet still a sight.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small and aged, the head somewhat retracted. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact and saggy. It simply is, on display.</li>
+            <li>A glimpse of a small, old penis, the glans peeking out. Not a spectacular sight, but visible.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden, yet now revealed, showing its age. The foreskin is tight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions and age. The shaft is quite short.</li>
+            <li>Small and unremarkably shaped, this aged penis has a subtly curved shaft. It’s certainly on the smaller side, yet unashamedly visible.</li>
+            <li>A small, old penis, with a smooth shaft and a somewhat pointed glans. It’s there for others to see, wrinkles and all.</li>
+            <li>The penis is short and narrow, its head barely visible and aged. A very modest size, yet still an exhibition.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Small Penis (Neutral)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even a small, aged penis can spark a flicker of interest. Its shaft and head, though diminutive, are still there.</li>
+            <li>A small, shriveled penis, with an unassuming glans. Every part, even aged, has its potential.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} rather small, elderly penis, the foreskin barely covering the tip. It's a start, isn't it?</li>
+            <li>Caught a glimpse of a small, aged penis, the testicles nestled tightly beneath. Even small, older things can be intriguing.</li>
+            <li>Its small size was evident; a short shaft and a compact, aged glans. A mild curiosity, at least.</li>
+            <li>{PAWN_nameShortPossessive} penis, though small and old, still presents. Its thin shaft and modest head could still offer something.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis, its smallness is apparent, as is its age. The slender shaft holds some appeal.</li>
+            <li>An unexpectedly slight, aged member came into view, its overall structure appearing understated. Still, it's a male appendage.</li>
+            <li>My gaze fell upon a small, aged penis, its shallow glans and fine shaft. It could be... coaxed, perhaps.</li>
+            <li>Just a small, old penis, but a penis nonetheless. Its shaft and glans, though aged, hold potential.</li>
+            <li>The small, aged penis, with its narrow shaft and tight foreskin, doesn't immediately excite, but the presence is noted.</li>
+            <li>A quick glimpse revealed a small, unpretentious, elderly penis with a smooth glans. Perhaps it has a hidden charm.</li>
+            <li>The exposed penis, though clearly male and aged, was surprisingly small, the head somewhat retracted. Still, it's a male.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact and saggy. It is what it is.</li>
+            <li>A glimpse of a small, old penis, the glans peeking out. There's always something, no matter the age.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden and aged. The foreskin is tight. It's there.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions and age. The shaft is quite short, but functional.</li>
+            <li>Small and unremarkably shaped, this aged penis has a subtly curved shaft. It still counts, and could still be interesting.</li>
+            <li>A small, old penis, with a smooth shaft and a somewhat pointed glans. It's a male form, which is what matters.</li>
+            <li>The penis is short and narrow, its head barely visible and aged. A very modest size, but undeniably a penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale_observed_by_Prude</defName>
+        <label>Small Penis (Neutral)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible, diminutive and aged member, its shaft and head appearing quite slender. It's… an old penis.</li>
+            <li>A small, shriveled and wrinkled penis, with an unassuming glans. A rather unnecessary sight, especially at that age.</li>
+            <li>A surprising glimpse of a remarkably undersized, aged penis, the foreskin barely covering the tip. Why must I see this?</li>
+            <li>The observed penis was undeniably small and aged, the testicles nestled tightly beneath with some sagging. I wish I hadn't seen that.</li>
+            <li>A rather short shaft and a modest, aged glans. Its appearance is plain, unremarkable, and frankly, unwanted.</li>
+            <li>Seeing {PAWN_nameShortPossessive} penis, it's quite small and somewhat pale, and old. A sight I could do without.</li>
+            <li>The small size of {PAWN_nameShortPossessive} penis is apparent, with a thin shaft and a compact, aged head. How… unfortunate.</li>
+            <li>An unexpectedly slight, elderly member came into view, its overall structure appearing understated and worn. A wholly inappropriate exposure.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small and somewhat withered. A regrettable view.</li>
+            <li>It's just a small, old penis, with its shaft and glans. Too much information.</li>
+            <li>The penis is small, with a narrow shaft and a tight, wrinkled foreskin. I'd rather not comment.</li>
+            <li>A quick glance revealed a small, unpretentious, aged penis with a smooth glans. Quite average in its modest size, and quite unwelcome.</li>
+            <li>The exposed penis, though clearly male and aged, was surprisingly small, the head somewhat retracted and softened. A distasteful sight.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact and low-hanging. My eyes.</li>
+            <li>A glimpse of a small, aged penis, the glans peeking out. I did not need to see that.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden and aged. The foreskin is tight and wrinkled. Too much.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions and age. The shaft is quite short and thin. I am displeased.</li>
+            <li>Small and unremarkably shaped, this aged penis has a subtly curved shaft. It’s certainly on the smaller side, and entirely too much.</li>
+            <li>A small, old penis, with a smooth shaft and a somewhat pointed, older glans. An unseemly display.</li>
+            <li>The penis is short and narrow, its head barely visible and aged. A very modest size, and a very uncomfortable sight.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale_observed_by_Young_male</defName>
+        <label>Small Penis (Neutral)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A small, aged penis, its shaft and head appearing quite slender. It's just... an old penis.</li>
+            <li>Observing the small, shriveled penis, somewhat wrinkled, with an unassuming glans. Nothing particularly striking about it.</li>
+            <li>A surprising glimpse of a remarkably undersized, elderly penis, the foreskin barely covering the tip. It's just there.</li>
+            <li>The observed penis was undeniably small and aged, the testicles nestled tightly beneath. A discreet, almost hidden part.</li>
+            <li>A rather short shaft and a modest, aged glans. Its appearance is plain, unremarkable.</li>
+            <li>Seeing {PAWN_nameShortPossessive} penis, it's quite small and somewhat pale, showing its age. The balls seem proportionate though.</li>
+            <li>The small size of {PAWN_nameShortPossessive} penis is apparent, with a thin shaft and a compact, aged head.</li>
+            <li>An unexpectedly slight, aged member came into view, its overall structure appearing understated. Quite diminutive.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small and somewhat withered. No particularly striking features.</li>
+            <li>It's just a small, old penis, with its shaft and glans. It exists.</li>
+            <li>The penis is small, with a narrow shaft and a tight, wrinkled foreskin. Nothing out of the ordinary for its age.</li>
+            <li>A quick glance revealed a small, unpretentious, elderly penis with a smooth, aged glans. Quite average in its modest size.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small and aged, the head somewhat retracted and softened. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact and low-hanging. It simply is.</li>
+            <li>A glimpse of a small, old penis, the glans peeking out, appearing somewhat faded. Nothing special to note.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden and aged. The foreskin is tight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions and age. The shaft is quite short and thin.</li>
+            <li>Small and unremarkably shaped, this aged penis has a subtly curved shaft. It’s certainly on the smaller side.</li>
+            <li>A small, old penis, with a smooth shaft and a somewhat pointed, older glans. It’s there, not particularly noteworthy.</li>
+            <li>The penis is short and narrow, its head barely visible, and the skin appears loose. A very modest size.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale_observed_by_Young_female</defName>
+        <label>Small Penis (Neutral)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender and aged. Not what one usually sees.</li>
+            <li>A small, shriveled and wrinkled penis, with an unassuming glans. Doesn't really draw the eye, especially with age.</li>
+            <li>A surprising glimpse of a remarkably undersized, elderly penis, the foreskin barely covering the tip. It's just... old and small.</li>
+            <li>The observed penis was undeniably small and aged, the testicles nestled tightly beneath, with some visible sagging. Hardly an impressive sight.</li>
+            <li>A rather short shaft and a modest, aged glans. Its appearance is plain, unremarkable, almost forgettable due to age.</li>
+            <li>Seeing {PAWN_nameShortPossessive} body part, it's quite small and somewhat pale, showing its age. The balls seem proportionate, at least.</li>
+            <li>The small size of {PAWN_nameShortPossessive} member is apparent, with a thin shaft and a compact, aged head.</li>
+            <li>An unexpectedly slight, aged member came into view, its overall structure appearing understated and worn. Quite diminutive, nothing exciting.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small and somewhat withered. Not particularly appealing or impressive.</li>
+            <li>It's just a small, old penis, with its shaft and glans. Nothing to stir interest.</li>
+            <li>The penis is small, with a narrow shaft and a tight, wrinkled foreskin. Not what one usually notices first, especially with age.</li>
+            <li>A quick glance revealed a small, unpretentious, elderly penis with a smooth, aged glans. Quite average in its modest size, bland really.</li>
+            <li>The exposed penis, though clearly male and aged, was surprisingly small, the head somewhat retracted and softened. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact and low-hanging. It simply is, uninspiring.</li>
+            <li>A glimpse of a small, old penis, the glans peeking out, appearing somewhat faded. My expectations were... neutral.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden and aged. The foreskin is tight, making it seem even smaller.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions and age. The shaft is quite short and thin, a basic form.</li>
+            <li>Small and unremarkably shaped, this aged penis has a subtly curved shaft. It’s certainly on the smaller side, nothing alluring.</li>
+            <li>A small, old penis, with a smooth shaft and a somewhat pointed, older glans. It’s there, not particularly noteworthy, nor undesirable.</li>
+            <li>The penis is short and narrow, its head barely visible, and the skin appears loose. A very modest size, it hardly registers.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Small Penis (Neutral)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender and aged. It's just a penis.</li>
+            <li>Observing the small, shriveled penis, somewhat wrinkled, with an unassuming glans. Nothing particularly striking about it.</li>
+            <li>A surprising glimpse of a remarkably undersized, elderly penis, the foreskin barely covering the tip. It's just there.</li>
+            <li>The observed penis was undeniably small and aged, the testicles nestled tightly beneath. A discreet, almost hidden part.</li>
+            <li>A rather short shaft and a modest, aged glans. Its appearance is plain, unremarkable.</li>
+            <li>Seeing {PAWN_nameShortPossessive} penis, it's quite small and somewhat pale, showing its age. The balls seem proportionate though.</li>
+            <li>The small size of {PAWN_nameShortPossessive} penis is apparent, with a thin shaft and a compact, aged head.</li>
+            <li>An unexpectedly slight, aged member came into view, its overall structure appearing understated. Quite diminutive.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small and somewhat withered. No particularly striking features.</li>
+            <li>It's just a small, old penis, with its shaft and glans. It exists.</li>
+            <li>The penis is small, with a narrow shaft and a tight, wrinkled foreskin. Nothing out of the ordinary for its age.</li>
+            <li>A quick glance revealed a small, unpretentious, elderly penis with a smooth, aged glans. Quite average in its modest size.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small and aged, the head somewhat retracted and softened. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact and low-hanging. It simply is.</li>
+            <li>A glimpse of a small, old penis, the glans peeking out, appearing somewhat faded. Nothing special to note.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden and aged. The foreskin is tight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions and age. The shaft is quite short and thin.</li>
+            <li>Small and unremarkably shaped, this aged penis has a subtly curved shaft. It’s certainly on the smaller side.</li>
+            <li>A small, old penis, with a smooth shaft and a somewhat pointed, older glans. It’s there, not particularly noteworthy.</li>
+            <li>The penis is short and narrow, its head barely visible, and the skin appears loose. A very modest size.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Small Penis (Neutral)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender and aged. Not what one expects from an older man.</li>
+            <li>A small, shriveled and wrinkled penis, with an unassuming glans. Doesn't hold much appeal, especially with age.</li>
+            <li>A surprising glimpse of a remarkably undersized, elderly penis, the foreskin barely covering the tip. It's just... small and old.</li>
+            <li>The observed penis was undeniably small and aged, the testicles nestled tightly beneath, with some visible sagging. Not particularly striking.</li>
+            <li>A rather short shaft and a modest, aged glans. Its appearance is plain, unremarkable, almost insignificant due to age.</li>
+            <li>Seeing {PAWN_nameShortPossessive} body part, it's quite small and somewhat pale, showing its age. The balls seem proportionate, at least.</li>
+            <li>The small size of {PAWN_nameShortPossessive} member is apparent, with a thin shaft and a compact, aged head.</li>
+            <li>An unexpectedly slight, aged member came into view, its overall structure appearing understated and worn. Quite diminutive, not what I'd hoped.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small and somewhat withered. Not particularly appealing or impressive.</li>
+            <li>It's just a small, old penis, with its shaft and glans. Nothing to stir interest.</li>
+            <li>The penis is small, with a narrow shaft and a tight, wrinkled foreskin. It's there, but barely registers.</li>
+            <li>A quick glance revealed a small, unpretentious, elderly penis with a smooth, aged glans. Quite average in its modest size, bland really.</li>
+            <li>The exposed penis, though clearly male and aged, was surprisingly small, the head somewhat retracted and softened. A rather meek presentation.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact and low-hanging. It simply is, uninspiring.</li>
+            <li>A glimpse of a small, old penis, the glans peeking out, appearing somewhat faded. My expectations were... neutral at best.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden and aged. The foreskin is tight, making it seem even smaller.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions and age. The shaft is quite short and thin, a basic form.</li>
+            <li>Small and unremarkably shaped, this aged penis has a subtly curved shaft. It’s certainly on the smaller side, nothing alluring.</li>
+            <li>A small, old penis, with a smooth shaft and a somewhat pointed, older glans. It’s there, not particularly noteworthy, nor particularly undesirable.</li>
+            <li>The penis is short and narrow, its head barely visible, and the skin appears loose. A very modest size, it hardly leaves an impression.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale_observed_by_Elder_male</defName>
+        <label>Small Penis (Neutral)_ElderMale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender and aged. Nothing new here.</li>
+            <li>Observing the small, shriveled penis, somewhat wrinkled, with an unassuming glans. Time takes its toll on all.</li>
+            <li>A surprising glimpse of a remarkably undersized, elderly penis, the foreskin barely covering the tip. A familiar sight, indeed.</li>
+            <li>The observed penis was undeniably small and aged, the testicles nestled tightly beneath. Nothing out of the ordinary for old age.</li>
+            <li>A rather short shaft and a modest, aged glans. Its appearance is plain, unremarkable, as expected in later years.</li>
+            <li>Seeing {PAWN_nameShortPossessive} penis, it's quite small and somewhat pale, showing its age. The balls seem proportionate enough.</li>
+            <li>The small size of {PAWN_nameShortPossessive} penis is apparent, with a thin shaft and a compact, aged head. Common enough for elders.</li>
+            <li>An unexpectedly slight, aged member came into view, its overall structure appearing understated and worn. Nothing new under the sun.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small and somewhat withered. Seen it all before.</li>
+            <li>It's just a small, old penis, with its shaft and glans. It exists, as do we all.</li>
+            <li>The penis is small, with a narrow shaft and a tight, wrinkled foreskin. Nothing surprising in its elderly state.</li>
+            <li>A quick glance revealed a small, unpretentious, elderly penis with a smooth, aged glans. Quite average in its modest size, for its age.</li>
+            <li>The exposed penis, though clearly male, was surprisingly small and aged, the head somewhat retracted and softened. Age has its way.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact and low-hanging. Understandable.</li>
+            <li>A glimpse of a small, old penis, the glans peeking out, appearing somewhat faded. No particular reaction, just acknowledgment.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden and aged. The foreskin is tight and wrinkled. It simply is.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions and age. The shaft is quite short and thin. As expected.</li>
+            <li>Small and unremarkably shaped, this aged penis has a subtly curved shaft. It’s certainly on the smaller side, as is often the case with age.</li>
+            <li>A small, old penis, with a smooth shaft and a somewhat pointed, older glans. It’s there, nothing to ponder.</li>
+            <li>The penis is short and narrow, its head barely visible, and the skin appears loose. A very modest size, typical perhaps for an elder.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Small_ElderMale_observed_by_Elder_female</defName>
+        <label>Small Penis (Neutral)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The suddenly visible member seemed rather diminutive, its shaft and head appearing quite slender and aged. A common sight, at this stage of life.</li>
+            <li>A small, shriveled and wrinkled penis, with an unassuming glans. Not exactly a surprise, nor a spectacle.</li>
+            <li>A surprising glimpse of a remarkably undersized, elderly penis, the foreskin barely covering the tip. It's just what it is, in time.</li>
+            <li>The observed penis was undeniably small and aged, the testicles nestled tightly beneath, with visible sagging. One has seen many such forms.</li>
+            <li>A rather short shaft and a modest, aged glans. Its appearance is plain, unremarkable, as many become.</li>
+            <li>Seeing {PAWN_nameShortPossessive} body part, it's quite small and somewhat pale, showing its age. The balls seem proportionate enough.</li>
+            <li>The small size of {PAWN_nameShortPossessive} member is apparent, with a thin shaft and a compact, aged head. Not particularly unique in old age.</li>
+            <li>An unexpectedly slight, aged member came into view, its overall structure appearing understated and worn. Nothing to write home about anymore.</li>
+            <li>This penis, with its shallow glans and fine shaft, presents itself as truly small and somewhat withered. A familiar type, certainly.</li>
+            <li>It's just a small, old penis, with its shaft and glans. Nothing to dwell on, merely observed.</li>
+            <li>The penis is small, with a narrow shaft and a tight, wrinkled foreskin. It exists, faded by time.</li>
+            <li>A quick glance revealed a small, unpretentious, elderly penis with a smooth, aged glans. Quite average in its modest size, and entirely expected.</li>
+            <li>The exposed penis, though clearly male and aged, was surprisingly small, the head somewhat retracted and softened. One has seen larger, perhaps in youth.</li>
+            <li>This penis exhibits a notably small size, the shaft thin and the balls rather compact and low-hanging. So many forms, so many years.</li>
+            <li>A glimpse of a small, old penis, the glans peeking out, appearing somewhat faded. No strong reaction, just observation.</li>
+            <li>{PAWN_nameShortPossessive} penis is small, almost hidden and aged. The foreskin is tight and wrinkled. It’s a part of life’s progression.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis reveals its minimal dimensions and age. The shaft is quite short and thin. Nothing new under the sun.</li>
+            <li>Small and unremarkably shaped, this aged penis has a subtly curved shaft. It’s certainly on the smaller side, but such is the reality of time.</li>
+            <li>A small, old penis, with a smooth shaft and a somewhat pointed, older glans. It’s there, like so many others, showing its years.</li>
+            <li>The penis is short and narrow, its head barely visible, and the skin appears loose. A very modest size, truly unremarkable now.</li>
+        </opinionTexts>
+</Def>
+</Defs>

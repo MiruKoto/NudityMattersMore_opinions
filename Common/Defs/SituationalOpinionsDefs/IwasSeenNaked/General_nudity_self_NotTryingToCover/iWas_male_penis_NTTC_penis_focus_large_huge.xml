@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWas_male_penis_NTTC_penis_focus_large_huge_PositiveDef">
+		<defName>iWas_male_penis_NTTC_penis_focus_large_huge_Positive</defName>
+        <label>iWas_male_penis_NTTC_penis_focus_large_huge(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                <requiredObservedDressState>Bottomless</requiredObservedDressState>
+				<requiredBodyPartSeen>Genitals</requiredBodyPartSeen>
+				<requiredGenitalFamily>Penis</requiredGenitalFamily>
+				<requiredPartSizeRange><min>0.60</min><max>2</max></requiredPartSizeRange>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I was seen walking without pants, my large penis proudly on display for all to see. {OBSERVER_nameShortPossessive} gaze fell upon me, and I was filled with a sense of confidence and a hint of exhibitionism.</li>
+			<li>As I passed by {OBSERVER_nameShort}, I couldn't help but notice the admiration and surprise in {OBSERVER_possessive} eyes as they fell upon my nakedness. My huge penis felt powerful and impressive, drawing attention and making me feel like a force to be reckoned with.</li>
+			<li>I was seized by a sudden rush of excitement as I realized that {OBSERVER_nameShort} had seen my large penis, exposed and proud for all to see. I felt a surge of empowerment and a desire to show off, to flaunt my masculinity and revel in the attention.</li>
+			<li>{OBSERVER_nameShortPossessive} gaze lingered on my exposed body, taking in every detail with a mixture of amazement and envy. My huge penis felt like a trophy, a symbol of my strength and virility that I couldn't wait to share with the world.</li>
+			<li>I felt a wave of confidence and self-assurance as I realized that {OBSERVER_nameShort} had seen me in all my nakedness, my large penis on display for all to see. I was filled with a desire to strut my stuff, to show off my physique and make the most of this moment.</li>
+			<li>As I walked by {OBSERVER_nameShort}, I felt {OBSERVER_possessive} eyes on me, taking in the sight of my exposed penis with a mixture of awe and admiration. My huge penis felt like a source of intense pride, something that I wanted to share with the world and celebrate.</li>
+			<li>I was caught off guard, but thrilled, as {OBSERVER_nameShortPossessive} eyes landed on my huge penis, proudly on display as I walked by without pants. I felt a rush of excitement and a sense of liberation, like I was embracing my true self.</li>
+			<li>As {OBSERVER_nameShortPossessive} gaze fell upon me, I couldn't help but feel a sense of pride and ownership over my large penis, like it was a badge of honor that I was eager to show off. I felt a twinge of exhibitionism, a desire to be seen and admired.</li>
+			<li>I was acutely aware of {OBSERVER_nameShortPossessive} lingering gaze, drinking in the sight of my naked penis, and I reveled in the attention. My huge penis felt like a work of art, a masterpiece that I was proud to showcase.</li>
+			<li>As I strutted by {OBSERVER_nameShort}, I felt {OBSERVER_possessive} eyes on me, and I knew that {OBSERVER_pronoun} was taking in the full majesty of my large penis. I felt a sense of swagger and confidence, like I was the king of the castle.</li>
+			<li>I was electrified by {OBSERVER_nameShortPossessive} glance, which lingered on my exposed penis with a mixture of fascination and admiration. My huge penis felt like a source of power, something that I could wield to command attention and desire.</li>
+			<li>As I walked by {OBSERVER_nameShort}, I felt {OBSERVER_possessive} eyes roving over my naked body, and I knew that {OBSERVER_pronoun} was fixated on my large penis. I felt a sense of satisfaction and fulfillment, like I was basking in the warm glow of admiration.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWas_male_penis_NTTC_penis_focus_large_huge_Exhibitionist_PositiveDef">
+		<defName>iWas_male_penis_NTTC_penis_focus_large_huge_Exhibitionist_Positive</defName>
+        <label>iWas_male_penis_NTTC_penis_focus_large_huge_Exhibitionist_(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                <requiredObservedDressState>Bottomless</requiredObservedDressState>
+				<requiredBodyPartSeen>Genitals</requiredBodyPartSeen>
+				<requiredGenitalFamily>Penis</requiredGenitalFamily>
+				<requiredPartSizeRange><min>0.60</min><max>2</max></requiredPartSizeRange>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+                <requiredObservedGender>Male</requiredObservedGender>
+				<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I couldn't help but flash a sly grin as {OBSERVER_nameShortPossessive} eyes widened in surprise, taking in the full glory of my huge penis as I strolled by without pants.</li>
+			<li>As {OBSERVER_nameShortPossessive} gaze locked onto my naked penis, I felt a thrill of excitement, knowing that {OBSERVER_pronoun} was drinking in the sight of my large, imposing member, and I reveled in the attention.</li>
+			<li>I strutted past {OBSERVER_nameShort} with confidence, my huge penis swinging proudly, and I could sense {OBSERVER_possessive} eyes following every movement, {OBSERVER_possessive} gaze burning with desire.</li>
+			<li>{OBSERVER_nameShortPossessive} eyes darted to my exposed penis, and I felt a rush of pleasure at the knowledge that {OBSERVER_pronoun} was fixated on my large, impressive member, and I couldn't help but feel a sense of pride and ownership.</li>
+			<li>As I walked by {OBSERVER_nameShort}, I caught {OBSERVER_objective} staring at my naked penis, and I felt a surge of exhibitionistic pleasure, knowing that I was putting on a show for {OBSERVER_objective}, and I couldn't help but flaunt my large, impressive member.</li>
+			<li>I felt a sense of liberation as I walked past {OBSERVER_nameShort} without pants, my huge penis on full display, and I knew that {OBSERVER_pronoun} was taking in every detail, {OBSERVER_possessive} eyes drinking in the sight of my large, imposing member, and I reveled in the freedom of being admired.</li>
+			<li>I felt {OBSERVER_nameShortPossessive} eyes on me like a hot caress as {OBSERVER_pronoun} took in the sight of my huge, naked penis, and I reveled in the attention, my confidence soaring as I strolled by without pants.</li>
+			<li>As I caught {OBSERVER_nameShortPossessive} gaze, I couldn't help but strike a pose, my large penis jutting out proudly, and I felt a thrill of excitement as I knew {OBSERVER_pronoun} was taking in every detail, {OBSERVER_possessive} eyes fixed on my imposing member.</li>
+			<li>{OBSERVER_nameShortPossessive} eyes widened in surprise as {OBSERVER_pronoun} took in the sight of my naked penis, and I felt a rush of pleasure at the knowledge that {OBSERVER_pronoun} was impressed by my large size, my exhibitionistic side reveling in the admiration.</li>
+			<li>I was aware of {OBSERVER_nameShortPossessive} gaze on me, {OBSERVER_possessive} eyes drawn to my huge penis like a magnet, and I felt a sense of pride and ownership, knowing that I was putting on a show for {OBSERVER_objective}, and I couldn't help but flaunt my impressive member.</li>
+			<li>As I walked past {OBSERVER_nameShort} without pants, I felt a sense of liberation, my huge penis bouncing with each step, and I knew that {OBSERVER_pronoun} was taking in every detail, {OBSERVER_possessive} eyes drinking in the sight of my large, imposing member, and I felt a thrill of pleasure at the knowledge.</li>
+			<li>I was acutely aware of {OBSERVER_nameShortPossessive} gaze on my naked penis, and I felt a rush of excitement as I knew {OBSERVER_pronoun} was fixated on my large size, my exhibitionistic side reveling in the attention, and I couldn't help but feel a sense of power and control.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWas_male_penis_NTTC_penis_focus_large_huge_NeutralDef">
+		<defName>iWas_male_penis_NTTC_penis_focus_large_huge_Neutral</defName>
+        <label>iWas_male_penis_NTTC_penis_focus_large_huge_(Neutral)</label>
+        <opinionCategory>Neutral</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                <requiredObservedDressState>Bottomless</requiredObservedDressState>
+				<requiredBodyPartSeen>Genitals</requiredBodyPartSeen>
+				<requiredGenitalFamily>Penis</requiredGenitalFamily>
+				<requiredPartSizeRange><min>0.60</min><max>2</max></requiredPartSizeRange>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I didn't notice any reaction from {OBSERVER_nameShort} as {OBSERVER_pronoun} saw me walking without pants, my large penis just a natural part of my body, and I felt no particular emotion about it, simply acknowledging {OBSERVER_possessive} gaze without any attachment.</li>
+			<li>As I caught {OBSERVER_nameShortPossessive} glance, I realized {OBSERVER_pronoun} was looking at my naked penis, and I felt a sense of detachment, noting the size and shape of my large member without any emotional response, simply observing {OBSERVER_possessive} observation.</li>
+			<li>{OBSERVER_nameShortPossessive} eyes flicked to my huge penis and then away, and I felt no particular sensation, neither excitement nor discomfort, just a neutral awareness of the situation, my large member simply a part of my body.</li>
+			<li>I was aware of {OBSERVER_nameShortPossessive} gaze on my naked penis, but it didn't stir any emotion in me, and I continued walking without pants, my huge penis just a normal part of my anatomy, without any self-consciousness or pride.</li>
+			<li>As I walked past {OBSERVER_nameShort} without pants, I noticed {OBSERVER_possessive} eyes on my large penis, and I felt a sense of indifference, neither seeking nor avoiding {OBSERVER_possessive} attention, simply existing in the moment without any emotional reaction.</li>
+			<li>I didn't react as {OBSERVER_nameShort} took in the sight of my naked penis, and I felt no need to cover up or adjust my position, my huge penis just a natural part of my body, and I moved on without any thought or emotional response.</li>
+			<li>I saw {OBSERVER_nameShortPossessive} gaze land on my large penis as {OBSERVER_pronoun} took in the sight of me walking without pants, but I didn't feel any stirrings of excitement or embarrassment, simply noting {OBSERVER_possessive} attention without emotional response.</li>
+			<li>As {OBSERVER_nameShortPossessive} eyes lingered on my huge penis, I felt a sense of disconnection, observing the situation without any attachment or investment, my large member simply a part of my body.</li>
+			<li>I was aware of {OBSERVER_nameShortPossessive} attention on my naked penis, but it didn't spark any particular emotion in me, and I continued walking without pants, my huge penis just a natural part of my anatomy, without any self-consciousness or pride.</li>
+			<li>{OBSERVER_nameShortPossessive} gaze on my large penis was fleeting, but I noticed it nonetheless, and I felt no need to react or respond, simply acknowledging the situation without emotional engagement.</li>
+			<li>As I walked past {OBSERVER_nameShort} without pants, I caught {OBSERVER_possessive} glance at my huge penis, but it didn't make me feel anything in particular, and I moved on without any thought or emotional response, my large member simply a part of my body.</li>
+			<li>I didn't react as {OBSERVER_nameShort} took in the sight of my naked penis, and I felt no need to cover up or adjust my position, my huge penis just a natural part of my body, and I continued on my way without any emotional response.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWas_male_penis_NTTC_penis_focus_large_huge_NegativeDef">
+		<defName>iWas_male_penis_NTTC_penis_focus_large_huge_Negative</defName>
+        <label>iWas_male_penis_NTTC_penis_focus_large_huge_(Negative)</label>
+        <opinionCategory>Negative</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                <requiredObservedDressState>Bottomless</requiredObservedDressState>
+				<requiredBodyPartSeen>Genitals</requiredBodyPartSeen>
+				<requiredGenitalFamily>Penis</requiredGenitalFamily>
+				<requiredPartSizeRange><min>0.60</min><max>2</max></requiredPartSizeRange>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I felt a twinge of annoyance as {OBSERVER_nameShortPossessive} eyes lingered on my huge penis, {OBSERVER_possessive} gaze like an invasion of my personal space, but I didn't let it get to me, simply noting {OBSERVER_possessive} attention with a sense of detached irritation.</li>
+			<li>As {OBSERVER_nameShort} took in the sight of me walking without pants, {OBSERVER_possessive} focus on my large penis was obvious, and I felt a surge of annoyance at {OBSERVER_possessive} blatant staring, but I didn't react, just kept moving with a sense of resigned detachment.</li>
+			<li>I was aware of {OBSERVER_nameShortPossessive} gaze on my naked penis, and it made me feel uncomfortable, like I was being evaluated or scrutinized, but I tried to shake off the feeling, focusing on my own indifference to the situation.</li>
+			<li>{OBSERVER_nameShortPossessive} glance at my huge penis was fleeting, but it was enough to make me feel a flash of irritation, like {OBSERVER_pronoun} was trying to provoke a reaction from me, but I refused to give {OBSERVER_objective} the satisfaction, keeping my emotions locked down tight.</li>
+			<li>As I walked past {OBSERVER_nameShort} without pants, I caught {OBSERVER_possessive} eye on my large penis, and I felt a spark of annoyance at {OBSERVER_possessive} obvious interest, but I didn't let it faze me, just kept moving with a sense of detached disdain.</li>
+			<li>I noticed {OBSERVER_nameShortPossessive} gaze on my penis, and it made me feel like I was being objectified, reduced to just a physical attribute, but I tried to push the feeling aside, focusing on my own sense of disconnection from the situation, my huge penis just a part of my body, not worth getting worked up over.</li>
+			<li>I was caught in a humiliating moment, no pants to cover my shame, my large penis dangling in the open, as {OBSERVER_nameShortPossessive} gaze fell upon me, {OBSERVER_possessive} eyes widening in a mixture of shock and curiosity, I could sense a hint of amusement dancing in {OBSERVER_possessive} expression, which only fueled my annoyance.</li>
+			<li>I felt like an animal in a zoo, my huge member on full display, as {OBSERVER_nameShortPossessive} eyes roamed over me, {OBSERVER_possessive} attention lingering on my exposed genitals, I could feel my face burning with embarrassment, my mind racing with the thought of how I must look to {OBSERVER_objective}, utterly ridiculous and vulnerable.</li>
+			<li>As I walked, oblivious to the world around me, I was suddenly aware of {OBSERVER_nameShortPossessive} presence, {OBSERVER_possessive} eyes fixed on my naked form, my massive penis bobbing with each step, I felt a surge of irritation, knowing I was being scrutinized, my privacy invaded, and my masculinity put on display.</li>
+			<li>I caught {OBSERVER_nameShortPossessive} glance, {OBSERVER_possessive} eyes darting towards my groin, where my large penis seemed to be the center of attention, I felt a pang of discomfort, my skin crawling with the knowledge that I was being examined, my body reduced to a mere spectacle, a freak show for {OBSERVER_possessive} entertainment.</li>
+			<li>With a sinking feeling, I realized I was being watched, {OBSERVER_nameShortPossessive} gaze locked onto my exposed body, my huge penis the focal point of {OBSERVER_possessive} attention, I felt a wave of annoyance wash over me, my mind protesting the indignity of being seen in such a state, my body a mere object for {OBSERVER_possessive} amusement.</li>
+			<li>I was confronted with the all-too-familiar sensation of being stared at, {OBSERVER_nameShortPossessive} eyes lingering on my naked form, my large penis the obvious source of {OBSERVER_possessive} fascination, I felt a surge of resentment, knowing I was being reduced to a mere object, a plaything for {OBSERVER_possessive} curiosity, my humanity forgotten in the face of my exposed masculinity.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWas_male_penis_NTTC_penis_focus_large_huge_Prude_NegativeDef">
+		<defName>iWas_male_penis_NTTC_penis_focus_large_huge_Prude_Negative</defName>
+        <label>iWas_male_penis_NTTC_penis_focus_large_huge_Prude_(Negative)</label>
+        <opinionCategory>Negative</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                <requiredObservedDressState>Bottomless</requiredObservedDressState>
+				<requiredBodyPartSeen>Genitals</requiredBodyPartSeen>
+				<requiredGenitalFamily>Penis</requiredGenitalFamily>
+				<requiredPartSizeRange><min>0.60</min><max>2</max></requiredPartSizeRange>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+                <requiredObservedGender>Male</requiredObservedGender>
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I felt my face flush with shame as I realized {OBSERVER_nameShort} had caught sight of me walking without pants, my large, imposing manhood on full display for {OBSERVER_objective} to see.</li>
+			<li>A sense of utter humiliation washed over me as I turned to find {OBSERVER_nameShortPossessive} eyes fixed upon my nakedness, {OBSERVER_possessive} gaze lingering on the considerable size of my exposed member.</li>
+			<li>The feeling of embarrassment was crushing as I realized I had been seen in such a state of undress, my huge, swollen manhood bared for {OBSERVER_nameShortPossessive} eyes to behold.</li>
+			<li>I was consumed by a deep sense of mortification as I noticed {OBSERVER_nameShortPossessive} glance flicker towards my crotch, {OBSERVER_possessive} eyes widening slightly as {OBSERVER_pronoun} took in the size of my naked penis.</li>
+			<li>A wave of prudishness washed over me as I realized {OBSERVER_nameShort} had seen me in all my naked glory, my large, erect manhood on full display for {OBSERVER_objective} to judge and scrutinize.</li>
+			<li>I felt my face burn with shame as I caught {OBSERVER_nameShortPossessive} eye, {OBSERVER_possessive} gaze lingering on the large, imposing shape of my naked penis, which seemed to be on full display despite my best efforts to conceal it.</li>
+			<li>As I caught {OBSERVER_nameShortPossessive} eye, I could feel my face grow hot with shame, my huge, swollen manhood seeming to throb with a life of its own as {OBSERVER_pronoun} took in its considerable size.</li>
+			<li>My heart sank as I realized I had been caught in such a compromising position, my large, imposing penis on full display for {OBSERVER_nameShort} to see, and I couldn't help but wonder what {OBSERVER_pronoun} must think of me.</li>
+			<li>I was mortified as I noticed {OBSERVER_nameShortPossessive} gaze lingering on my crotch, {OBSERVER_possessive} eyes widening in surprise as {OBSERVER_pronoun} took in the size of my naked member, and I felt a deep sense of embarrassment wash over me.</li>
+			<li>A wave of prudishness washed over me as I realized {OBSERVER_nameShort} had seen me in all my naked glory, my large, erect manhood on full display for {OBSERVER_objective} to judge and scrutinize, and I felt my face burn with shame.</li>
+			<li>I felt a deep sense of humiliation as I caught {OBSERVER_nameShortPossessive} eye, {OBSERVER_possessive} gaze fixed on the large, imposing shape of my naked penis, which seemed to be on full display despite my best efforts to conceal it, and I couldn't help but feel like I'd been caught in a compromising position.</li>
+			<li>As I turned to face {OBSERVER_nameShort}, I couldn't help but feel a sense of shame and embarrassment at being seen in such a state of undress, my huge, swollen manhood bared for {OBSERVER_objective} to see, and I felt my face flush with mortification.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+</Defs>

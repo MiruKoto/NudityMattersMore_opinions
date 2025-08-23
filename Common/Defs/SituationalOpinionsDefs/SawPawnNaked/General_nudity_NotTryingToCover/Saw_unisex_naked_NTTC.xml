@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Examlpes of trait based influence, quirks and more -->
+<Defs>
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="Saw_unisex_naked_NTTC_PositiveDef">
+		<defName>Saw_unisex_naked_NTTC_Positive</defName>
+        <label>Saw_unisex_naked_NTTC(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>Saw {PAWN_nameShort} naked and liked it.</li>
+            <li>Caught a glimpse of naked {PAWN_nameShort}. It's arousing.</li>
+            <li>{PAWN_nameShort} walked around naked. I enjoyed it.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="Saw_unisex_naked_NTTC_Voyer_PositiveDef">
+		<defName>Saw_unisex_naked_NTTC_Voyer_Positive</defName>
+        <label>Saw_unisex_naked_NTTC_voyer_(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+				<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>{PAWN_nameShort} was completely naked, hope {PAWN_subjective} will stay like this forever. </li>
+            <li>Wow, {PAWN_nameShort} has nice body, i wish i could tease it everywhere. </li>
+            <li>I have met {PAWN_nameShort} completely naked, all these curves was opened for my pleasing.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="Saw_unisex_naked_NTTC_Exhibitionist_PositiveDef">
+		<defName>Saw_unisex_naked_NTTC_Exhibitionist_Positive</defName>
+        <label>Saw_unisex_naked_NTTC_Exhibitionist_(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+				<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>{PAWN_nameShort} is so exposed, i respect that thrill.</li>
+            <li>Had a glimpse on naked {PAWN_nameShort}, that's a spirit!</li>
+            <li>I walked by bare {PAWN_nameShort}, these curves are created to be seen!</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="Saw_unisex_naked_NTTC_NeutralDef">
+		<defName>Saw_unisex_naked_NTTC_Neutral</defName>
+        <label>Saw_unisex_naked_NTTC_(Neutral)</label>
+        <opinionCategory>Neutral</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>Saw {PAWN_nameShort} naked; it was just a casual moment.</li>
+            <li>Had a glimpse of naked {PAWN_nameShort}; nothing particularly noteworthy.</li>
+            <li>{PAWN_nameShort} walked around naked, and I barely registered it.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="Saw_unisex_naked_NTTC_NegativeDef">
+		<defName>Saw_unisex_naked_NTTC_Negative</defName>
+        <label>Saw_unisex_naked_NTTC_(Negative)</label>
+        <opinionCategory>Negative</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>Saw {PAWN_nameShort} naked and it made me uncomfortable.</li>
+            <li>Had a glimpse of naked {PAWN_nameShort}, that felt invasive.</li>
+            <li>{PAWN_nameShort} walked around naked, and it made me feel awkward.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="Saw_unisex_naked_NTTC_Prude_NegativeDef">
+		<defName>Saw_unisex_naked_NTTC_Prude_Negative</defName>
+        <label>Saw_unisex_naked_NTTC_Prude_(Negative)</label>
+        <opinionCategory>Negative</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>{PAWN_nameShort} was completely naked, and it made me feel unsettled.</li>
+            <li>Wow, {PAWN_nameShort} has a body, and it made me feel disgusted.</li>
+            <li>I wish I hadn't seen {PAWN_nameShort} naked, it's not a sight I want to remember.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+</Defs>

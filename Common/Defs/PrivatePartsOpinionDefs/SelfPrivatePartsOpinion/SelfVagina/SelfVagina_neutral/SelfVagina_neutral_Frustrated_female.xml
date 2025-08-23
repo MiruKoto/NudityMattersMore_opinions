@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Female gives opinion about her almost non existent slit, its shape, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Micro_Frustrated_Female_Neutral</defName>
+        <label>Opinion_Self_Vagina_Micro_Frustrated_Female_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My micro-vagina feels almost non-existent, leaving me frustrated and longing for release. The clitoris remains unresponsive, and even my external labia feel too small.</li>
+            <li>This tiny slit barely acknowledges my frustrated state, a stark contrast to the overwhelming need within. It's just a sad, almost invisible line.</li>
+            <li>A micro-slit, almost imperceptible. Its minimal presence only amplifies the gnawing frustration, leaving me feeling utterly unfulfilled.</li>
+            <li>Frustration builds as I contemplate this almost non-existent opening; it’s so small, I question its very purpose.</li>
+            <li>The shape of my micro-vagina offers no comfort; my frustrated mood casts a shadow on its nearly invisible labia and unyielding clitoris.</li>
+            <li>Despite my intense frustration, my micro-vagina remains stubbornly tight, making me feel even more confined and unsatisfied.</li>
+            <li>It's barely a crease, a tiny reminder of my unaddressed frustration. The external labia are so small, almost hidden.</li>
+            <li>This small, tight passage reflects my simmering frustration, its shape offering no promise of relief or satisfaction.</li>
+            <li>My microscopic opening just accentuates my frustration; it’s barely there, and totally unwelcoming to any relief.</li>
+            <li>A tiny, unyielding slit, it seems to mock my frustrated desires, its minimal presence doing nothing to ease the tension.</li>
+            <li>The clitoris remains numb, and my micro-vagina feels tighter than ever, a physical manifestation of this relentless frustration.</li>
+            <li>The almost non-existent slit only serves to deepen my frustration, its shape an unyielding barrier to comfort.</li>
+            <li>Barely a whisper of a vulva, this micro-vagina does little to alleviate the overwhelming frustration and growing tension.</li>
+            <li>My frustration is palpable, yet this tiny opening offers no comfort. The labia are barely visible.</li>
+            <li>The unyielding tightness of my micro-vagina amplifies the internal frustration, a small, stubborn barrier to relief.</li>
+            <li>It’s a mere crease, offering no sensation, just a constant reminder of how intensely frustrated I am right now.</li>
+            <li>My micro-vagina, almost non-existent, reflects my frustrated mood. Its shape is unappealing, and clitoris unresponsive.</li>
+            <li>This tiny opening feels dry and unwilling, mirroring the deep frustration that has settled within me.</li>
+            <li>The very slightness of my micro-vagina adds to my frustration, a small, unfulfilling void.</li>
+            <li>Frustration burns as I glance at my nearly invisible slit; the labia are so small, almost hidden, offering no appeal.</li>
+            <li>Its shape is barely discernible, and the clitoris inactive, all contributing to this overwhelming wave of frustration.</li>
+            <li>The lack of sensation in my tiny vagina exacerbates my frustrated state, making me feel truly empty.</li>
+            <li>A very small opening, unresponsive clitoris, and external labia that barely show, it all deepens my frustrated mood.</li>
+            <li>This micro-vagina feels tight and unwelcoming, reflecting my internal frustration and mounting sexual tension.</li>
+            <li>The minimal size of my vagina does nothing to ease my frustrated sexual need; it’s just a narrow, unyielding passage.</li>
+            <li>My frustration is a burning fire, and this micro-vagina feels cold, tight, and completely detached from my desires.</li>
+            <li>The nearly non-existent slit feels frustratingly inadequate; its dryness and smallness only intensify the longing.</li>
+            <li>A mere shadow of what it should be, this micro-vagina only highlights my desperate and frustrated need.</li>
+            <li>My clitoris feels unresponsive, and my micro-vagina is a tight, unyielding barrier to any sense of release, leaving me profoundly frustrated.</li>
+            <li>The overall appearance of my micro-vagina, so slight and unengaging, simply makes my frustrated state worse.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her vagina, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Tight_Frustrated_Female_Neutral</defName>
+        <label>Opinion_Self_Vagina_Tight_Frustrated_Female_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My tight vagina, combined with the heavy weight of frustration, feels unwelcoming and unresponsive, even with prominent clitoris.</li>
+            <li>This constricted passage perfectly mirrors my inner frustration, offering no relief to my desperate sexual need.</li>
+            <li>The unyielding tightness of my vagina only compounds my frustrated state, making me yearn for something more yielding.</li>
+            <li>Feeling tight and dry, my vagina intensifies this frustrating mood, making relief seem impossibly far away.</li>
+            <li>My clitoris is swollen, but my vagina is so tight, it’s frustrating; nothing feels right, just a deep, unresolved ache.</li>
+            <li>The shape is fine, but the overwhelming tightness of my vagina just adds to this crushing frustration I feel.</li>
+            <li>This frustrating tightness makes my labia feel almost swollen with unfulfilled desire.</li>
+            <li>My tight vagina is completely unwilling to relax, a frustrating symbol of my unmet needs and rising tension.</li>
+            <li>It’s a frustratingly tight fit, resisting any sense of release, and my mood only grows darker with each passing moment.</li>
+            <li>The clitoris remains unstimulated, while my vagina feels uncomfortably tight, leaving me profoundly frustrated and unfulfilled.</li>
+            <li>This tight, unyielding passage feels like a trap, amplifying the frustration of my unaddressed sexual need.</li>
+            <li>My vagina’s tightness, combined with a dry internal state, leaves me feeling profoundly frustrated and on edge.</li>
+            <li>The firm grip of my vagina offers no solace, instead intensifying the frustration of my insatiable desire.</li>
+            <li>Frustration burns within me, highlighted by the unwelcoming tightness and slight swelling of my labia.</li>
+            <li>Despite its neat shape, the frustrating tightness of my vagina only exacerbates my already agitated mood.</li>
+            <li>The unyielding nature of my tight vagina fuels my frustration, making it difficult to even consider relief.</li>
+            <li>It's tight and resistant, mirroring the frustration that courses through my entire being, leaving me craving relief.</li>
+            <li>My clitoris feels sensitive, but the overall tightness of my vagina makes me intensely frustrated and restless.</li>
+            <li>The restricted feeling of my vagina just makes my frustrated state worse; it's a constant, aching reminder.</li>
+            <li>This tight opening is frustratingly unresponsive, its dry warmth doing nothing to ease my mounting desire.</li>
+            <li>My frustration is tied to the stubborn tightness of my vagina; it feels almost unwilling to open.</li>
+            <li>The constricted feeling of my vagina feels like a physical barrier to the satisfaction I desperately crave, leaving me agitated.</li>
+            <li>It feels firm and unyielding, leaving me thoroughly frustrated and acutely aware of my unfulfilled need.</li>
+            <li>This frustratingly tight vagina only serves to enhance the agitated mood brought on by my unmet sexual needs.</li>
+            <li>Despite healthy external labia, the tight internal passage of my vagina only deepens this frustrating sense of longing.</li>
+            <li>The clitoris pulses, yet the tightness of my vagina prevents any true relief, keeping me frustratingly on edge.</li>
+            <li>My tight vagina feels sealed against my will, each pulse of frustration echoing its unwillingness.</li>
+            <li>This frustratingly tight opening emphasizes my heightened sexual tension, leaving me dry and desperate for release.</li>
+            <li>My frustration is palpable; this tightly held vagina offers no give, only a deep, unfulfilled ache.</li>
+            <li>The very shape of my tight vagina adds to the frustration, a constant physical reminder of denied pleasure.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her vagina, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Average_Frustrated_Female_Neutral</defName>
+        <label>Opinion_Self_Vagina_Average_Frustrated_Female_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My average-sized vagina, though perfectly normal, feels strangely unreactive to my deep frustration, almost mocking my intense need.</li>
+            <li>Despite its standard appearance, my vagina feels uncomfortably dry, amplifying my already frustrated mood.</li>
+            <li>The clitoris is tingling, but my average vagina remains stubbornly unaroused, leaving me in a state of simmering frustration.</li>
+            <li>It’s of an average size, yet the dryness and lack of sensation only intensify the gnawing frustration within.</li>
+            <li>My frustrated mood casts a neutral shadow on my average vagina; it’s neither good nor bad, just unfulfilling.</li>
+            <li>The labia appear typical, but my average vagina remains frustratingly unresponsive to my heightened sexual need.</li>
+            <li>My vagina's average wetness and shape are just there, doing nothing to quell the pervasive frustration.</li>
+            <li>It's just average, neither tight nor loose, yet its indifference to my frustration is quite irritating.</li>
+            <li>The clitoris feels swollen, but my average vagina still feels frustratingly unready, leaving me agitated.</li>
+            <li>My average vagina, usually fine, feels frustratingly dry and unresponsive in this state of desperate need.</li>
+            <li>Despite its normal proportions, my average vagina feels stubbornly dry and unwilling to respond to my intense frustration.</li>
+            <li>The external labia are symmetrical, yet my average vagina provides no relief, deepening my frustrated mood.</li>
+            <li>My average vagina, with its typical shape, offers no comfort; the frustrating need overshadows everything.</li>
+            <li>It's neither too big nor too small, but the lack of responsiveness in my average vagina just adds to this frustration.</li>
+            <li>My clitoris is sensitive, but my average vagina remains stubbornly unyielding, amplifying my frustrated desire.</li>
+            <li>The normal appearance of my vagina feels irrelevant given the frustration that consumes me; it's simply there.</li>
+            <li>My average vagina, usually accommodating, feels frustratingly stiff and dry, exacerbating my current mood.</li>
+            <li>Its average size is just a stark contrast to my overwhelming sexual frustration, a reminder of what isn't happening.</li>
+            <li>The labia are well-formed, but my average vagina is frustratingly unready, fueling my agitated state.</li>
+            <li>My average vagina, while perfectly normal, offers no reprieve from this intense, burning frustration.</li>
+            <li>It’s a standard shape, but the dryness and lack of sensation in my vagina just make this frustration unbearable.</li>
+            <li>My clitoris is sensitive, yet my average vagina remains frustratingly unresponsive, mirroring my inner turmoil.</li>
+            <li>The overall state of my average vagina, with its normal features, does nothing to alleviate my growing frustration.</li>
+            <li>My average vagina feels stubbornly unyielding, leaving me deeply frustrated by its unresponsiveness to my desire.</li>
+            <li>The modest wetness of my average vagina only highlights how little it responds to my frustrated, aching body.</li>
+            <li>It's just average, but the frustration over my unmet sexual need makes it feel terribly inadequate right now.</li>
+            <li>My average vagina is disappointingly neutral, neither helping nor hindering my pervasive frustrated mood.</li>
+            <li>Despite its normal size, my vagina feels uncomfortably dry and tight, deepening my already intense frustration.</li>
+            <li>The external labia appear healthy, yet my average vagina does nothing to ease my rising frustration and discomfort.</li>
+            <li>My clitoris is swollen with unfulfilled desire, while my average vagina remains stubbornly unresponsive, leaving me profoundly frustrated.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her vagina, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Accommodating_Frustrated_Female_Neutral</defName>
+        <label>Opinion_Self_Vagina_Accommodating_Frustrated_Female_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My accommodating vagina, while perfectly capable, feels frustratingly still and unresponsive to my intense needs, its wetness subtle.</li>
+            <li>Despite its welcoming shape, my vagina feels surprisingly dry, intensifying my already frustrated and restless mood.</li>
+            <li>The clitoris is tingling with frustration, but my accommodating vagina remains unfulfilled, a constant, irritating reminder.</li>
+            <li>It’s open and ready, yet the lack of engagement just adds to this gnawing frustration, leaving me unsatisfied.</li>
+            <li>My accommodating vagina feels indifferent to my escalating frustration; its readiness seems wasted on this unfulfilled state.</li>
+            <li>The external labia are inviting, but my accommodating vagina feels frustratingly empty of any true sensation.</li>
+            <li>My vagina's accommodating wetness and relaxed state are frustratingly unutilized, mocking my desperate need.</li>
+            <li>It’s a comfortable fit, yet my accommodating vagina feels uncomfortably dry, exacerbating my current frustrated mood.</li>
+            <li>The clitoris feels swollen, but my accommodating vagina still feels frustratingly unactivated, leaving me agitated.</li>
+            <li>My accommodating vagina, usually so responsive, feels frustratingly still and dry in this state of desperate need.</li>
+            <li>Despite its inviting proportions, my accommodating vagina feels stubbornly dry and unwilling to respond to my intense frustration.</li>
+            <li>The external labia are full and inviting, yet my accommodating vagina provides no relief, deepening my frustrated mood.</li>
+            <li>My accommodating vagina, with its yielding shape, offers no comfort; the frustrating need overshadows everything.</li>
+            <li>It's neither too big nor too small, but the lack of active engagement in my accommodating vagina just adds to this frustration.</li>
+            <li>My clitoris is sensitive, but my accommodating vagina remains frustratingly unyielding to my desperate desires.</li>
+            <li>The welcoming appearance of my vagina feels irrelevant given the frustration that consumes me; it's simply there, waiting.</li>
+            <li>My accommodating vagina, usually so warm, feels frustratingly cool and unengaged, exacerbating my current mood.</li>
+            <li>Its generous size is a stark contrast to my overwhelming sexual frustration, a reminder of what isn't happening.</li>
+            <li>The labia are soft and yielding, but my accommodating vagina is frustratingly unaroused, fueling my agitated state.</li>
+            <li>My accommodating vagina, while perfectly suited, offers no reprieve from this intense, burning frustration.</li>
+            <li>It’s a relaxed shape, but the dryness and lack of sensation in my vagina just make this frustration unbearable.</li>
+            <li>My clitoris is sensitive, yet my accommodating vagina remains frustratingly unresponsive, mirroring my inner turmoil.</li>
+            <li>The overall state of my accommodating vagina, with its ready features, does nothing to alleviate my growing frustration.</li>
+            <li>My accommodating vagina feels stubbornly unyielding, leaving me deeply frustrated by its unresponsiveness to my desire.</li>
+            <li>The moistness of my accommodating vagina only highlights how little it responds to my frustrated, aching body.</li>
+            <li>It's so ready, but the frustration over my unmet sexual need makes it feel terribly wasted right now.</li>
+            <li>My accommodating vagina is disappointingly neutral, neither helping nor hindering my pervasive frustrated mood.</li>
+            <li>Despite its inviting size, my vagina feels uncomfortably dry and tight, deepening my already intense frustration.</li>
+            <li>The external labia appear soft, yet my accommodating vagina does nothing to ease my rising frustration and discomfort.</li>
+            <li>My clitoris is swollen with unfulfilled desire, while my accommodating vagina remains stubbornly unresponsive, leaving me profoundly frustrated.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her vagina, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Cavernous_Frustrated_Female_Neutral</defName>
+        <label>Opinion_Self_Vagina_Cavernous_Frustrated_Female_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My cavernous vagina feels vast and empty, amplifying the gnawing frustration, its shape echoing an unfulfilled hollow.</li>
+            <li>Despite its expansive wetness, my vagina feels disturbingly unresponsive, intensifying my already frustrated and restless mood.</li>
+            <li>The clitoris is throbbing, but my cavernous vagina remains a void of unfulfilled desire, a constant, irritating reminder.</li>
+            <li>It’s so open and deep, yet the lack of engagement just adds to this overwhelming frustration, leaving me hollow.</li>
+            <li>My cavernous vagina feels indifferent to my escalating frustration; its vastness seems wasted on this unfulfilled state.</li>
+            <li>The external labia are stretched and exposed, and my cavernous vagina feels frustratingly empty of any true sensation.</li>
+            <li>My vagina's cavernous wetness and expansive state are frustratingly unutilized, mocking my desperate need.</li>
+            <li>It’s a comfortable fit, yet my cavernous vagina feels uncomfortably cold, exacerbating my current frustrated mood.</li>
+            <li>The clitoris feels swollen, but my cavernous vagina still feels frustratingly unactivated, leaving me agitated.</li>
+            <li>My cavernous vagina, usually so responsive, feels frustratingly still and cool in this state of desperate need.</li>
+            <li>Despite its impressive proportions, my cavernous vagina feels stubbornly unresponsive to my intense frustration.</li>
+            <li>The external labia are full and inviting, yet my cavernous vagina provides no relief, deepening my frustrated mood.</li>
+            <li>My cavernous vagina, with its yielding depth, offers no comfort; the frustrating need overshadows everything.</li>
+            <li>It's significantly large, but the lack of active engagement in my cavernous vagina just adds to this frustration.</li>
+            <li>My clitoris is sensitive, but my cavernous vagina remains frustratingly unyielding to my desperate desires.</li>
+            <li>The welcoming appearance of my vagina feels irrelevant given the frustration that consumes me; it's simply vast, waiting.</li>
+            <li>My cavernous vagina, usually so warm, feels frustratingly cool and unengaged, exacerbating my current mood.</li>
+            <li>Its generous size is a stark contrast to my overwhelming sexual frustration, a reminder of what isn't happening.</li>
+            <li>The labia are soft and yielding, but my cavernous vagina is frustratingly unaroused, fueling my agitated state.</li>
+            <li>My cavernous vagina, while perfectly suited, offers no reprieve from this intense, burning frustration.</li>
+            <li>It’s a relaxed, deep shape, but the coolness and lack of sensation in my vagina just make this frustration unbearable.</li>
+            <li>My clitoris is sensitive, yet my cavernous vagina remains frustratingly unresponsive, mirroring my inner turmoil.</li>
+            <li>The overall state of my cavernous vagina, with its ready features, does nothing to alleviate my growing frustration.</li>
+            <li>My cavernous vagina feels stubbornly unyielding, leaving me deeply frustrated by its unresponsiveness to my desire.</li>
+            <li>The moistness of my cavernous vagina only highlights how little it responds to my frustrated, aching body.</li>
+            <li>It's so ready and deep, but the frustration over my unmet sexual need makes it feel terribly wasted right now.</li>
+            <li>My cavernous vagina is disappointingly neutral, neither helping nor hindering my pervasive frustrated mood.</li>
+            <li>Despite its inviting size, my vagina feels uncomfortably cool and vast, deepening my already intense frustration.</li>
+            <li>The external labia appear soft, yet my cavernous vagina does nothing to ease my rising frustration and discomfort.</li>
+            <li>My clitoris is swollen with unfulfilled desire, while my cavernous vagina remains stubbornly unresponsive, leaving me profoundly frustrated.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her vagina, maybe external labia and clitoris, or some suggested above in document, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Vagina_Abyssal_Frustrated_Female_Neutral</defName>
+        <label>Opinion_Self_Vagina_Abyssal_Frustrated_Female_(Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+        <genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My abyssal vagina feels like a gaping maw, swallowing my frustration whole, its vastness echoing an unfulfilled emptiness.</li>
+            <li>Despite its overwhelming wetness, my vagina feels disturbingly unresponsive, intensifying my already frustrated and restless mood.</li>
+            <li>The clitoris is raw, but my abyssal vagina remains a bottomless pit of unfulfilled desire, a constant, irritating reminder.</li>
+            <li>It’s so incredibly open and deep, yet the lack of engagement just adds to this crushing frustration, leaving me truly hollow.</li>
+            <li>My abyssal vagina feels uncaring of my escalating frustration; its immensity seems wasted on this unfulfilled state.</li>
+            <li>The external labia are stretched and exposed to an extreme, and my abyssal vagina feels frustratingly devoid of any true sensation.</li>
+            <li>My vagina's abyssal wetness and expansive state are frustratingly unutilized, mocking my desperate, consuming need.</li>
+            <li>It’s a cavernous fit, yet my abyssal vagina feels uncomfortably cold and detached, exacerbating my current frustrated mood.</li>
+            <li>The clitoris feels painfully swollen, but my abyssal vagina still feels frustratingly unactivated, leaving me utterly agitated.</li>
+            <li>My abyssal vagina, usually so overwhelming, feels frustratingly still and vast in this state of desperate need.</li>
+            <li>Despite its immense proportions, my abyssal vagina feels stubbornly unresponsive to my intense, burning frustration.</li>
+            <li>The external labia are extremely stretched, yet my abyssal vagina provides no relief, deepening my profound frustrated mood.</li>
+            <li>My abyssal vagina, with its yielding, endless depth, offers no comfort; the overwhelming frustration overshadows everything.</li>
+            <li>It's incredibly large, but the absolute lack of active engagement in my abyssal vagina just adds to this unbearable frustration.</li>
+            <li>My clitoris is oversensitive, but my abyssal vagina remains frustratingly unyielding to my desperate, consuming desires.</li>
+            <li>The staggering appearance of my vagina feels irrelevant given the frustration that consumes me; it's simply an endless void, waiting.</li>
+            <li>My abyssal vagina, usually so all-encompassing, feels frustratingly cold and detached, exacerbating my current, miserable mood.</li>
+            <li>Its monstrous size is a stark contrast to my overwhelming sexual frustration, a painful reminder of what isn't happening.</li>
+            <li>The labia are excessively stretched and yielding, but my abyssal vagina is frustratingly unaroused, fueling my agitated state.</li>
+            <li>My abyssal vagina, while perfectly suited, offers no reprieve from this intense, burning, and consuming frustration.</li>
+            <li>It’s an immensely deep, relaxed shape, but the coolness and lack of sensation in my vagina just make this frustration unbearable.</li>
+            <li>My clitoris is sensitive, yet my abyssal vagina remains frustratingly unresponsive, mirroring my deep, consuming inner turmoil.</li>
+            <li>The overall state of my abyssal vagina, with its overwhelming features, does nothing to alleviate my growing, desperate frustration.</li>
+            <li>My abyssal vagina feels stubbornly unyielding, leaving me deeply frustrated by its unresponsiveness to my intense desire.</li>
+            <li>The vast moistness of my abyssal vagina only highlights how little it responds to my frustrated, aching, desperate body.</li>
+            <li>It's so ready and impossibly deep, but the frustration over my unmet sexual need makes it feel terribly wasted right now.</li>
+            <li>My abyssal vagina is disappointingly neutral, neither helping nor hindering my pervasive, all-consuming frustrated mood.</li>
+            <li>Despite its immense size, my vagina feels uncomfortably cold and utterly vast, deepening my already intense frustration.</li>
+            <li>The external labia appear stretched and raw, yet my abyssal vagina does nothing to ease my rising frustration and discomfort.</li>
+            <li>My clitoris is swollen with unfulfilled desire, while my abyssal vagina remains stubbornly unresponsive, leaving me profoundly, utterly frustrated.</li>
+        </opinionTexts>
+    </Def>
+</Defs>

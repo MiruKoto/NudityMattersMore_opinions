@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--general unisex opinion about young female-->
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating</defName>
+        <label>Accommodating Vagina (Positive)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Vagina</genitalFamily> 
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>Saw {PAWN_nameShortPossessive} accommodating vagina, and it captivated my attention immediately.</li>
+			<li>{PAWN_nameShortPossessive} accommodating vagina invites deeper exploration, promising delightful adventures.</li>
+			<li>I’m enchanted by {PAWN_nameShortPossessive} accommodating vagina, it feels like a welcoming embrace.</li>
+			<li>I examined {PAWN_nameShortPossessive} generous, expansive opening, an accommodating vagina that seemed to whisper sweet nothings of pleasure. </li>
+			<li>I saw {PAWN_nameShortPossessive} spacious, flared entrance, a wide and welcoming center that seemed to stretch like a sunrise over the horizon. </li>
+			<li>I glanced at {PAWN_nameShortPossessive} rich, abundant fold, a sumptuous and lavish entrance that seemed to spill over with abundance.</li>
+			<li>I admired the graceful curves of {PAWN_nameShortPossessive} vulval lips, a masterwork of inviting shapes and crevices.</li>
+			<li>I saw {PAWN_nameShortPossessive} soft, supple vulva, I delighted in the sensual texture, a gentle blending of skin and intimate flesh.</li>
+			<li>I saw {PAWN_nameShortPossessive} subtle ridges and whorls of {PAWN_possessive} vaginal interior, an expansive, tender landscape.</li>
+			<li>I admired the gentle contours of {PAWN_nameShortPossessive} vulva, a soft, inviting embrace of pliant curves and inviting texture.</li>
+			<li>My gaze lingered on {PAWN_nameShortPossessive} swollen, sensitive clitoris, the focal point of {PAWN_possessive} pleasure, bold and flushed.</li>
+			<li>I explored {PAWN_nameShortPossessive} accommodating vaginal entrance, softly yielding, its depths hinting at infinite possibilities.</li>
+			<li>I admired {PAWN_nameShortPossessive} gentle contours of {PAWN_possessive} vulva, a soft, inviting embrace of pliant curves and inviting texture.</li>
+			<li>My gaze lingered on {PAWN_nameShortPossessive} swollen, sensitive clitoris, the focal point of {PAWN_possessive} pleasure, bold and flushed.</li>
+			<li>I explored {PAWN_nameShortPossessive} accommodating vaginal entrance, softly yielding, its depths hinting at infinite possibilities.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} accommodating vagina, a roomy, spacious cavity, with a plump, inviting clit, inviting exploration.</li>
+			<li>I saw {PAWN_nameShortPossessive} welcoming vagina, a capacious, inviting canal, with a sizable clit, perfect for satisfying a range of desires.</li>
+			<li>I examined {PAWN_nameShortPossessive} generous vagina, a broad, giving entrance, with a large, puffy clit, evoking warm, welcoming sensations.</li>
+			<li>I admired {PAWN_nameShortPossessive} welcoming vagina, a roomy, inviting cavity, with a plump, succulent clit, an inviting exploration.</li>
+			<li>I marveled at {PAWN_nameShortPossessive} spacious vagina, a broad, accommodating entrance, with a large, juicy clit, a rewarding experience.</li>
+			<li>I marveled at {PAWN_nameShortPossessive} accommodating vagina, a spaciously inviting, luxurious chamber, with an enticingly full clit, an indulgent, satisfying experience that pleased all my senses.</li>
+			<li>I examined {PAWN_nameShortPossessive} giving vagina, a graciously expansive, welcoming abyss, with a tantalizing, responsive clit, a sensual, thrilling journey to the depths of pleasure.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} roomy vagina, a comfortably open, generously accommodating oasis, with a captivating, swollen clit, an arousing, enveloping embrace that satisfied my desires.</li>
+			<li>I saw {PAWN_nameShortPossessive} accommodating vagina, its shape reminiscent of a blooming flower, inviting and welcoming. The labia were full and generous, resembling the petals of a rose, gently framing the entrance.</li>
+			<li>I examined {PAWN_nameShortPossessive} accommodating vagina, its form like a ripened fruit, ready to be savored. The labia were plump and succulent, akin to the juicy flesh of a peach, enveloping the core in {PAWN_nameShortPossessive} lush embrace.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} accommodating vagina, its appearance like a cozy haven, inviting and comforting. The labia were soft and yielding, resembling the plush cushions of a couch, offering a welcoming rest.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} accommodating vagina, its sight like a grand canyon, awe-inspiring and breathtaking. The labia were voluminous and expansive, akin to the majestic walls of a canyon, leading to a hidden treasure.</li>
+			<li>I observed {PAWN_nameShortPossessive} accommodating vagina, its view like a tranquil pond, peaceful and calming. The labia were pillowy and tender, akin to the soft mounds of a cushion, cradling the core in {PAWN_nameShortPossessive} gentle embrace.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} accommodating vagina, I felt a deep sense of wonder at its generous proportions and inviting depth.</li>
+            <li>The graceful, yielding entrance of {PAWN_nameShortPossessive} accommodating vagina speaks of countless pleasurable possibilities.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina, with its full, soft labia, promises a truly immersive and delightful experience.</li>
+            <li>I was struck by the ample, open appearance of {PAWN_nameShortPossessive} accommodating vagina, hinting at a truly uninhibited nature.</li>
+            <li>The relaxed, spacious architecture of {PAWN_nameShortPossessive} accommodating vagina is simply breathtaking, a testament to natural beauty.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina, with its deep, welcoming folds, suggests an eagerness for intimate connection.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating vagina, I noticed its remarkably pliant outer lips, framing an inviting depth.</li>
+            <li>The accommodating size of {PAWN_nameShortPossessive} vagina filled me with a pleasant curiosity about its expansive interior.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina presents a vision of lush, inviting contours, promising abundant sensation.</li>
+            <li>I found myself drawn to the comfortable, generous opening of {PAWN_nameShortPossessive} accommodating vagina, a truly captivating sight.</li>
+        </opinionTexts>
+    
+</Def>
+
+
+<!--Elder Male observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_Elderly_Male_opinion</defName>
+        <label>Accommodating Vagina (Positive)_Elderly_Male_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} ample vulva suggests a lifetime of experiences, a comforting, familiar sight.</li>
+            <li>There's a mature allure to {PAWN_nameShortPossessive} generous entrance, a beauty born of natural ease.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina has a pleasant, unhurried depth, reminiscent of cherished memories.</li>
+            <li>The relaxed contours of {PAWN_nameShortPossessive} intimate folds speak of a natural, unpretentious beauty.</li>
+            <li>I admire the comfortable, full appearance of {PAWN_nameShortPossessive} vulva; it has a seasoned elegance.</li>
+            <li>{PAWN_nameShortPossessive} accommodating size hints at a long, fulfilling journey, a gentle warmth.</li>
+            <li>A welcoming breadth graces {PAWN_nameShortPossessive} intimate part, exuding a serene and embracing quality.</li>
+            <li>The soft, yielding nature of {PAWN_nameShortPossessive} accommodating vagina brings a sense of calm contentment.</li>
+            <li>{PAWN_nameShortPossessive} expansive clitoris, framed by its generous lips, hints at deep, lasting pleasure.</li>
+            <li>I appreciate the natural fullness of {PAWN_nameShortPossessive} vulva, a classic, enduring form.</li>
+            <li>Such an inviting, open bloom, {PAWN_nameShortPossessive} accommodating vagina is a testament to timeless beauty.</li>
+            <li>The gentle maturity of {PAWN_nameShortPossessive} anatomy is both comforting and deeply appealing.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths hint at a profound capacity for connection, a truly wonderful sight.</li>
+            <li>I found myself contemplating the serene, accepting nature of {PAWN_nameShortPossessive} accommodating entrance.</li>
+            <li>The supple, rounded curves of {PAWN_nameShortPossessive} vulva are quite endearing, a graceful presentation.</li>
+            <li>{PAWN_nameShortPossessive} generous inner labia show a beautiful, natural flow, inviting quiet contemplation.</li>
+            <li>The spacious clitoral hood on {PAWN_nameShortPossessive} accommodating vagina suggests a rich, sensitive landscape within.</li>
+            <li>I observed the soft, inviting texture of {PAWN_nameShortPossessive} outer labia, a pleasant, natural warmth.</li>
+            <li>{PAWN_nameShortPossessive} deep, welcoming canal seems to promise a tender, lingering embrace.</li>
+            <li>A truly accommodating form, {PAWN_nameShortPossessive} vagina possesses a gentle, mature charm.</li>
+            <li>The full, comfortable swell of {PAWN_nameShortPossessive} accommodating vagina is quite striking, a lovely sight.</li>
+            <li>{PAWN_nameShortPossessive} intimate contours flow with an effortless grace, speaking of natural comfort.</li>
+            <li>I noted the ample space within {PAWN_nameShortPossessive} accommodating entrance, hinting at pleasant experiences.</li>
+            <li>The soft, inviting plumpness of {PAWN_nameShortPossessive} vulva exudes a quiet confidence and natural allure.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina appears wonderfully relaxed, a truly unburdened and beautiful form.</li>
+            <li>The generous, yielding opening of {PAWN_nameShortPossessive} intimate parts offers a comforting visual.</li>
+            <li>I smiled at the inviting breadth of {PAWN_nameShortPossessive} accommodating vagina, a pleasing discovery.</li>
+            <li>There's a subtle wisdom in the lines of {PAWN_nameShortPossessive} vulva, a quiet acceptance.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths seem to hold a peaceful, embracing quality.</li>
+            <li>The sight of {PAWN_nameShortPossessive} accommodating vagina brings a serene appreciation for its natural form.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young female, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_Elderly_Male_voyer_opinion</defName>
+        <label>Accommodating Vagina (Positive)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina, a young flower, stirs my own aging desires.</li>
+            <li>The youthful expanse of {PAWN_nameShortPossessive} vulva makes me yearn for past vigor; a true marvel.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths promise youthful abandon, and my old body responds.</li>
+            <li>Such a spacious, tender opening, it makes my old member stir with a longing touch.</li>
+            <li>I observed {PAWN_nameShortPossessive} full, plump labia, a vibrant bloom that ignites a spark within me.</li>
+            <li>The accommodating size of {PAWN_nameShortPossessive} vagina makes my old loins ache with forbidden fantasies.</li>
+            <li>Her inviting breadth and fresh allure are a potent stimulant; I feel my own arousal.</li>
+            <li>The smooth, deep entrance of {PAWN_nameShortPossessive} accommodation is a vision that ignites my hidden desires.</li>
+            <li>{PAWN_nameShortPossessive} generously open clitoris, so prominent and full, reminds me of youth's potent joys.</li>
+            <li>I imagined the thrilling embrace of {PAWN_nameShortPossessive} accommodating depths, a youthful promise.</li>
+            <li>This accommodating beauty makes my old heart pound, a sensation I haven't felt in years.</li>
+            <li>The youthful readiness of {PAWN_nameShortPossessive} vulva is almost too much for my old eyes; exhilarating.</li>
+            <li>{PAWN_nameShortPossessive} expansive internal folds hint at untamed passions, making my skin tingle.</li>
+            <li>I found myself captivated by the uninhibited generosity of {PAWN_nameShortPossessive} accommodating entrance.</li>
+            <li>The lush, vibrant contours of {PAWN_nameShortPossessive} intimate landscape are truly a sight to behold.</li>
+            <li>I felt a familiar warmth in my groin, stirred by the expansive allure of {PAWN_nameShortPossessive} accommodating vagina.</li>
+            <li>The sheer depth suggested by {PAWN_nameShortPossessive} accommodating entrance fills me with a primal longing.</li>
+            <li>{PAWN_nameShortPossessive} soft, welcoming labia parted gracefully, revealing a tantalizing, youthful expanse.</li>
+            <li>This expansive, untouched bloom of {PAWN_nameShortPossessive} vulva stirs a forgotten eagerness within my very core.</li>
+            <li>The rich, inviting color of {PAWN_nameShortPossessive} intimate depths promises untold pleasures. My pulse quickens.</li>
+            <li>I yearned to feel the full, accommodating grip of {PAWN_nameShortPossessive} youthful canal. A deep throb started.</li>
+            <li>Such plump, sensitive inner labia; they beckon like sirens, a captivating sight indeed.</li>
+            <li>The vibrant, youthful clitoris, nestled within {PAWN_nameShortPossessive} accommodating embrace, is utterly mesmerizing.</li>
+            <li>{PAWN_nameShortPossessive} open, welcoming form reminds me of pleasures I thought long past.</li>
+            <li>My gaze lingered on the generous proportions of {PAWN_nameShortPossessive} accommodating vagina, a truly stimulating view.</li>
+            <li>The alluring depths of {PAWN_nameShortPossessive} intimate channel ignite a fervent, almost desperate, desire within me.</li>
+            <li>I imagined {PAWN_nameShortPossessive} accommodating vagina enveloping me, a youthful fantasy reawakened.</li>
+            <li>The gentle outward flare of {PAWN_nameShortPossessive} labia is incredibly inviting, stirring a warmth below.</li>
+            <li>A vision of unblemished, accommodating beauty; my senses are overwhelmed.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina; a youthful, vibrant spectacle that deeply moves my old soul.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_Elderly_Female_opinion</defName>
+        <label>Accommodating Vagina (Positive)_Elderly_Female_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina shows a healthy, natural beauty, so vibrant and full.</li>
+            <li>Such generous, supple labia, {PAWN_possessive} form is truly a gift of nature.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depth promises a rich future, a delightful prospect.</li>
+            <li>I recognize the comfortable, open shape of {PAWN_nameShortPossessive} vulva; a truly pleasing sight.</li>
+            <li>{PAWN_nameShortPossessive} body embraces such natural spaciousness; it is beautifully uninhibited.</li>
+            <li>The gentle plumpness of {PAWN_nameShortPossessive} accommodating vagina hints at bountiful pleasures.</li>
+            <li>A lovely, yielding entrance; {PAWN_nameShortPossessive} intimate parts are wonderfully formed.</li>
+            <li>The full, soft appearance of {PAWN_nameShortPossessive} vulval lips is quite alluring, a natural charm.</li>
+            <li>I see the potential for deep satisfaction in {PAWN_nameShortPossessive} accommodating canal.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is well-developed, promising vibrant sensation.</li>
+            <li>This accommodating form is a testament to the natural beauty of the female body.</li>
+            <li>The unhurried, comfortable spread of {PAWN_nameShortPossessive} labia is quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} expansive interior whispers of deep, enveloping passion, a beautiful sight.</li>
+            <li>I sense a generous spirit reflected in {PAWN_nameShortPossessive} accommodating intimate parts.</li>
+            <li>The inviting, ample depth of {PAWN_nameShortPossessive} vagina is a wonderful thing to behold.</li>
+            <li>A truly magnificent example of nature's design; {PAWN_nameShortPossessive} accommodating vulva.</li>
+            <li>{PAWN_nameShortPossessive} soft, welcoming folds are perfectly aligned, a harmonious vision.</li>
+            <li>The confident, open presentation of {PAWN_nameShortPossessive} intimate parts is quite striking.</li>
+            <li>I admire the rich, full contours of {PAWN_nameShortPossessive} accommodating vagina, a vision of ripeness.</li>
+            <li>{PAWN_nameShortPossessive} ample clitoris, surrounded by its generous casing, seems perfectly poised for joy.</li>
+            <li>The smooth, natural sweep of {PAWN_nameShortPossessive} labia majora is simply exquisite.</li>
+            <li>{PAWN_nameShortPossessive} accommodating inner labia possess a delicate, intricate beauty.</li>
+            <li>I noted the inviting roundness of {PAWN_nameShortPossessive} accommodating entrance, a pleasant sight.</li>
+            <li>The relaxed, yielding nature of {PAWN_nameShortPossessive} intimate anatomy speaks volumes.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is a true testament to organic perfection.</li>
+            <li>There's a subtle glow to {PAWN_nameShortPossessive} vulva, a vibrant, healthy allure.</li>
+            <li>I find the natural proportions of {PAWN_nameShortPossessive} accommodating vagina deeply appealing.</li>
+            <li>{PAWN_nameShortPossessive} soft, embracing form promises a deeply satisfying experience.</li>
+            <li>The full, open nature of {PAWN_nameShortPossessive} intimate parts evokes a sense of comfort and beauty.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is a natural wonder, beautifully formed and inviting.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young male observes young female, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_MaleOpinion</defName>
+        <label>Accommodating Vagina (Positive)_MaleOpinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina looks incredibly inviting, I can almost feel its warmth.</li>
+            <li>That ample entrance on {PAWN_nameShortPossessive} is making my blood rush; what a captivating sight!</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths promise pure ecstasy; I'm utterly drawn in.</li>
+            <li>The generous spread of {PAWN_nameShortPossessive} labia is making my mind race with possibilities.</li>
+            <li>I can’t stop staring at {PAWN_nameShortPossessive} full, welcoming vulva; it's so enticing.</li>
+            <li>{PAWN_nameShortPossessive} accommodating size suggests endless pleasure; I'm completely intrigued.</li>
+            <li>Such an inviting opening! My desires are already stirring intensely.</li>
+            <li>The soft, yielding inner lips of {PAWN_nameShortPossessive} are absolutely mesmerizing.</li>
+            <li>I'm utterly captivated by the plump, exposed clitoris of {PAWN_nameShortPossessive} accommodating vagina.</li>
+            <li>{PAWN_nameShortPossessive} deep, warm canal looks like it could embrace anything; purely exhilarating.</li>
+            <li>The sheer breadth of {PAWN_nameShortPossessive} accommodating vagina is incredibly arousing.</li>
+            <li>My eyes are glued to {PAWN_nameShortPossessive} luscious, open entrance; it's truly magnificent.</li>
+            <li>I feel an undeniable pull towards {PAWN_nameShortPossessive} accommodating depths, an irresistible urge.</li>
+            <li>The full, ripe contours of {PAWN_nameShortPossessive} vulva are driving me wild with anticipation.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina looks like it was made for pure, unadulterated pleasure.</li>
+            <li>I'm imagining the incredible sensations {PAWN_nameShortPossessive} accommodating vagina could provide right now.</li>
+            <li>The way {PAWN_nameShortPossessive} labia are so relaxed and open is incredibly seductive.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris looks so deliciously sensitive, perfectly presented.</li>
+            <li>I'm mesmerized by the dark, inviting shadows of {PAWN_nameShortPossessive} deep vaginal canal.</li>
+            <li>The promise of such accommodating warmth and grip is almost unbearable.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is absolutely perfect, a vision of ultimate satisfaction.</li>
+            <li>My body is reacting strongly to the sight of {PAWN_nameShortPossessive} wonderfully open vulva.</li>
+            <li>I can almost taste the sweetness from {PAWN_nameShortPossessive} accommodating entrance.</li>
+            <li>The way {PAWN_nameShortPossessive} accommodating vagina frames that tempting clitoris is pure art.</li>
+            <li>I'm completely enchanted by the bountiful, yielding texture of {PAWN_nameShortPossessive} inner folds.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina seems to whisper promises of absolute bliss.</li>
+            <li>The spaciousness of {PAWN_nameShortPossessive} intimate parts fills me with potent desire.</li>
+            <li>I can't get enough of the view of {PAWN_nameShortPossessive} wonderfully accommodating, open vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths are calling to me, a powerful, primal urge.</li>
+            <li>Simply seeing {PAWN_nameShortPossessive} accommodating vagina sets my entire body alight with longing.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes young female -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_Voyeur</defName>
+        <label>Accommodating Vagina (Positive) trait Voyeur</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Witnessing {PAWN_nameShortPossessive} accommodating vagina: a truly satisfying visual feast.</li>
+            <li>The ample, open display of {PAWN_nameShortPossessive} intimate beauty is a voyeur's delight.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths, revealed, captivate my gaze completely.</li>
+            <li>I relish the sight of {PAWN_nameShortPossessive} generous, yielding entrance; a perfect spectacle.</li>
+            <li>My eyes greedily absorb the rich details of {PAWN_nameShortPossessive} fully presented vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating size offers a tantalizing view, leaving nothing to guesswork.</li>
+            <li>The uninhibited sprawl of {PAWN_nameShortPossessive} intimate folds is utterly compelling.</li>
+            <li>I am mesmerized by the soft, inviting expanse of {PAWN_nameShortPossessive} accommodating vagina.</li>
+            <li>The prominently displayed clitoris and labia of {PAWN_nameShortPossessive} are a truly captivating sight.</li>
+            <li>Every curve and depth of {PAWN_nameShortPossessive} accommodating vagina is a visual masterpiece.</li>
+            <li>A truly satisfying revelation, {PAWN_nameShortPossessive} accommodating form is a voyeuristic dream.</li>
+            <li>My gaze lingers on the ample, open beauty of {PAWN_nameShortPossessive} intimate parts.</li>
+            <li>The rich, inviting color and plumpness of {PAWN_nameShortPossessive} vulva are quite stimulating.</li>
+            <li>I find myself drawn deeply into the visual pleasure of {PAWN_nameShortPossessive} accommodating entrance.</li>
+            <li>The way {PAWN_nameShortPossessive} labia part to reveal such accommodating depths is profoundly alluring.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating vagina, I feel a rush of exhilarating satisfaction.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} intimate presentation is truly a gift for the eyes.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} soft, welcoming folds is a testament to its beauty.</li>
+            <li>I imagine the touch of its accommodating depths, a purely visual delight.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina, unhidden, is a powerful and beautiful display.</li>
+            <li>The expanse of {PAWN_nameShortPossessive} private parts is perfectly framed for observation.</li>
+            <li>I'm utterly fascinated by the full, inviting nature of {PAWN_nameShortPossessive} accommodating vulva.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, accessible canal is quite profound.</li>
+            <li>I could watch {PAWN_nameShortPossessive} accommodating vagina for hours, lost in its alluring details.</li>
+            <li>The subtle movements of {PAWN_nameShortPossessive} accommodating labia are strangely hypnotic.</li>
+            <li>A magnificent anatomical display, {PAWN_nameShortPossessive} accommodating vagina is simply superb.</li>
+            <li>The unblemished beauty of {PAWN_nameShortPossessive} intimate parts is a joy to behold.</li>
+            <li>I feel a profound sense of privilege observing such accommodating beauty.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina, revealed, provides endless visual fascination.</li>
+            <li>The full, open splendor of {PAWN_nameShortPossessive} vulva is a truly compelling sight.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young female with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_Voyeur_M</defName>
+        <label>Accommodating Vagina (Positive) trait Voyeur_M</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina makes my shaft stiffen with undeniable desire.</li>
+            <li>The view of {PAWN_nameShortPossessive} ample entrance has my member throbbing relentlessly.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths promise to envelop me completely; my groin aches.</li>
+            <li>I feel my trousers tighten as I take in the generous spread of {PAWN_nameShortPossessive} vulva.</li>
+            <li>My eyes are fixated on {PAWN_nameShortPossessive} full, welcoming vulva, and my cock responds instinctively.</li>
+            <li>{PAWN_nameShortPossessive} accommodating size fuels my fantasies, and my member swells in anticipation.</li>
+            <li>Such an inviting opening! My cock is already straining against my pants.</li>
+            <li>The soft, yielding inner lips of {PAWN_nameShortPossessive} are making my balls ache.</li>
+            <li>I’m hard just imagining sliding into {PAWN_nameShortPossessive} plump, exposed clitoris and accommodating depths.</li>
+            <li>{PAWN_nameShortPossessive} deep, warm canal looks like it could take all of me; truly exciting.</li>
+            <li>The sheer breadth of {PAWN_nameShortPossessive} accommodating vagina has me rock hard, right here.</li>
+            <li>My gaze is glued to {PAWN_nameShortPossessive} luscious, open entrance; my cock is twitching.</li>
+            <li>I feel an undeniable erection forming, drawn by {PAWN_nameShortPossessive} accommodating depths.</li>
+            <li>The full, ripe contours of {PAWN_nameShortPossessive} vulva are making my shaft pulse with desire.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina looks like it was designed to accommodate my every need.</li>
+            <li>I'm picturing myself buried deep in {PAWN_nameShortPossessive} accommodating vagina; my dick is ready.</li>
+            <li>The way {PAWN_nameShortPossessive} labia are so relaxed and open is incredibly stimulating.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris looks so deliciously sensitive, almost painfully tempting.</li>
+            <li>I'm mesmerized by the dark, inviting shadows of {PAWN_nameShortPossessive} deep vaginal canal; I'm aching to explore.</li>
+            <li>The promise of such accommodating warmth and grip is almost unbearable; I need to be inside.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is absolutely perfect, sending shivers down my spine.</li>
+            <li>My body is throbbing, reacting strongly to the sight of {PAWN_nameShortPossessive} wonderfully open vulva.</li>
+            <li>I'm getting so hard just thinking about how good {PAWN_nameShortPossessive} accommodating entrance would feel.</li>
+            <li>The way {PAWN_nameShortPossessive} accommodating vagina frames that tempting clitoris is pure torture.</li>
+            <li>I'm completely consumed by the bountiful, yielding texture of {PAWN_nameShortPossessive} inner folds; my erection is undeniable.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina seems to whisper promises of absolute, mind-blowing bliss.</li>
+            <li>The spaciousness of {PAWN_nameShortPossessive} intimate parts fills my trousers with potent desire.</li>
+            <li>I can't tear my eyes away from {PAWN_nameShortPossessive} wonderfully accommodating, open vulva; I'm fully erect.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths are calling to me, a powerful, demanding urge that cannot be ignored.</li>
+            <li>Simply seeing {PAWN_nameShortPossessive} accommodating vagina sends a jolt of pure arousal through my entire body.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young female with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_Voyeur_F</defName>
+        <label>Accommodating Vagina (Positive) trait Voyeur_F</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina makes my own core tingle with appreciation.</li>
+            <li>The ample, open display of {PAWN_nameShortPossessive} intimate beauty ignites a warmth between my legs.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths, revealed, stir a pleasant wetness within me.</li>
+            <li>I revel in the sight of {PAWN_nameShortPossessive} generous, yielding entrance; a truly arousing vision.</li>
+            <li>My gaze feasts upon the rich details of {PAWN_nameShortPossessive} fully presented vulva; my own core pulses.</li>
+            <li>{PAWN_nameShortPossessive} accommodating size offers a tantalizing view, sending shivers through my body.</li>
+            <li>The uninhibited sprawl of {PAWN_nameShortPossessive} intimate folds is utterly captivating, and I feel a flush.</li>
+            <li>I am mesmerized by the soft, inviting expanse of {PAWN_nameShortPossessive} accommodating vagina; my inner lips swell.</li>
+            <li>The prominently displayed clitoris and labia of {PAWN_nameShortPossessive} are a truly stimulating sight.</li>
+            <li>Every curve and depth of {PAWN_nameShortPossessive} accommodating vagina makes my desires stir.</li>
+            <li>A truly satisfying revelation, {PAWN_nameShortPossessive} accommodating form excites my own hidden urges.</li>
+            <li>My gaze lingers on the ample, open beauty of {PAWN_nameShortPossessive} intimate parts, and I feel a pleasant ache.</li>
+            <li>The rich, inviting color and plumpness of {PAWN_nameShortPossessive} vulva are quite stimulating to my own senses.</li>
+            <li>I find myself drawn deeply into the visual pleasure of {PAWN_nameShortPossessive} accommodating entrance; I’m feeling warm.</li>
+            <li>The way {PAWN_nameShortPossessive} labia part to reveal such accommodating depths is profoundly alluring, making me sigh.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating vagina, I feel a rush of exhilarating satisfaction, a spreading heat.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} intimate presentation is truly a gift for my eager eyes.</li>
+            <li>Every detail of {PAWN_nameShortPossessive} soft, welcoming folds is a testament to its beauty, stirring my own core.</li>
+            <li>I imagine the feeling of its accommodating depths, a purely visual delight that makes me clench.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina, unhidden, is a powerful and beautiful display, causing my own arousal.</li>
+            <li>The expanse of {PAWN_nameShortPossessive} private parts is perfectly framed for observation, and I feel a delightful tension.</li>
+            <li>I'm utterly fascinated by the full, inviting nature of {PAWN_nameShortPossessive} accommodating vulva; my own warmth grows.</li>
+            <li>The visual impact of {PAWN_nameShortPossessive} deep, accessible canal is quite profound, making my fingers twitch.</li>
+            <li>I could watch {PAWN_nameShortPossessive} accommodating vagina for hours, lost in its alluring details, feeling a deep longing.</li>
+            <li>The subtle movements of {PAWN_nameShortPossessive} accommodating labia are strangely hypnotic, pulling me in further.</li>
+            <li>A magnificent anatomical display, {PAWN_nameShortPossessive} accommodating vagina is simply superb, making my own readiness known.</li>
+            <li>The unblemished beauty of {PAWN_nameShortPossessive} intimate parts is a joy to behold, and my own core stirs.</li>
+            <li>I feel a profound sense of privilege observing such accommodating beauty, and my body responds.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina, revealed, provides endless visual fascination, sparking my own hidden desires.</li>
+            <li>The full, open splendor of {PAWN_nameShortPossessive} vulva is a truly compelling sight, leaving me breathless.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_NMM_Exhibitionist</defName>
+        <label>Accommodating Vagina (Positive) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is a bold, inspiring display of natural beauty.</li>
+            <li>I love seeing {PAWN_nameShortPossessive} generous, uninhibited intimate parts; it's so freeing.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths, so openly presented, are truly captivating.</li>
+            <li>The confident display of {PAWN_nameShortPossessive} full, welcoming vulva is incredibly attractive.</li>
+            <li>What a fantastic, spacious exhibition {PAWN_nameShortPossessive} accommodating vagina provides!</li>
+            <li>{PAWN_nameShortPossessive} accommodating size, shown so freely, makes me want to reveal myself too.</li>
+            <li>Such an inviting, open sight; it makes me feel like celebrating nudity.</li>
+            <li>The soft, yielding inner lips of {PAWN_nameShortPossessive} are a beautiful, open invitation.</li>
+            <li>I adore the plump, exposed clitoris of {PAWN_nameShortPossessive} accommodating vagina; what a proud display!</li>
+            <li>{PAWN_nameShortPossessive} deep, warm canal, so fully revealed, is simply stunning.</li>
+            <li>The sheer breadth of {PAWN_nameShortPossessive} accommodating vagina is a magnificent public display.</li>
+            <li>My eyes are drawn to {PAWN_nameShortPossessive} luscious, open entrance; it's a true spectacle.</li>
+            <li>I feel a surge of exhilaration seeing {PAWN_nameShortPossessive} accommodating depths so unashamedly displayed.</li>
+            <li>The full, ripe contours of {PAWN_nameShortPossessive} vulva are a masterwork of natural exhibition.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina looks like it loves being seen; truly delightful.</li>
+            <li>The open posture of {PAWN_nameShortPossessive} labia is so alluring, encouraging freedom.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris, so prominent, seems to welcome all gazes.</li>
+            <li>I revel in the unobstructed view of {PAWN_nameShortPossessive} deep vaginal canal, so invitingly open.</li>
+            <li>The willingness to show such accommodating warmth and form is incredibly inspiring.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is absolutely perfect for public appreciation.</li>
+            <li>The magnificent presentation of {PAWN_nameShortPossessive} wonderfully open vulva is breathtaking.</li>
+            <li>I feel a kinship with {PAWN_nameShortPossessive} for confidently displaying such accommodating beauty.</li>
+            <li>The way {PAWN_nameShortPossessive} accommodating vagina frames that tempting clitoris is pure performance art.</li>
+            <li>I'm utterly charmed by the bountiful, yielding texture of {PAWN_nameShortPossessive} inner folds, on full display.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina seems to invite all eyes, a true exhibitionist's dream.</li>
+            <li>The spaciousness of {PAWN_nameShortPossessive} intimate parts, boldly presented, is truly fantastic.</li>
+            <li>I can't get enough of the view of {PAWN_nameShortPossessive} wonderfully accommodating, openly displayed vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths, so grand and exposed, are a powerful statement.</li>
+            <li>Simply seeing {PAWN_nameShortPossessive} accommodating vagina brings a rush of pure appreciative joy.</li>
+            <li>This open, generous display of {PAWN_nameShortPossessive} vulva is a triumph of natural exhibition.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young female, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_NMM_Exhibitionist_male</defName>
+        <label>Accommodating Vagina (Positive) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina makes my own cock stand proudly in response.</li>
+            <li>The ample, open display of {PAWN_nameShortPossessive} intimate beauty fuels my exhibitionist desires.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths, so openly presented, have my member throbbing with excitement.</li>
+            <li>The confident display of {PAWN_nameShortPossessive} full, welcoming vulva makes me want to expose myself.</li>
+            <li>What a fantastic, spacious exhibition {PAWN_nameShortPossessive} accommodating vagina provides; I'm rock hard.</li>
+            <li>{PAWN_nameShortPossessive} accommodating size, shown so freely, makes my cock swell with pride.</li>
+            <li>Such an inviting, open sight; it makes me want to show {PAWN_objective} my own aroused state.</li>
+            <li>The soft, yielding inner lips of {PAWN_nameShortPossessive} are a beautiful, open invitation for my eager cock.</li>
+            <li>I adore the plump, exposed clitoris of {PAWN_nameShortPossessive} accommodating vagina; what a proud, stirring display!</li>
+            <li>{PAWN_nameShortPossessive} deep, warm canal, so fully revealed, is simply stunning and makes me ache.</li>
+            <li>The sheer breadth of {PAWN_nameShortPossessive} accommodating vagina is a magnificent public display; I'm fully erect.</li>
+            <li>My eyes are drawn to {PAWN_nameShortPossessive} luscious, open entrance; it's a true spectacle for my aroused self.</li>
+            <li>I feel a surge of exhilaration seeing {PAWN_nameShortPossessive} accommodating depths so unashamedly displayed, and I'm throbbing.</li>
+            <li>The full, ripe contours of {PAWN_nameShortPossessive} vulva are a masterwork of natural exhibition, making my cock strain.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina looks like it loves being seen, just like my own hard member.</li>
+            <li>The open posture of {PAWN_nameShortPossessive} labia is so alluring, encouraging me to reveal my stiff shaft.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris, so prominent, seems to welcome all gazes, including my own bulging cock.</li>
+            <li>I revel in the unobstructed view of {PAWN_nameShortPossessive} deep vaginal canal, so invitingly open; my penis feels ready.</li>
+            <li>The willingness to show such accommodating warmth and form is incredibly inspiring, making my erection undeniable.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is absolutely perfect for public appreciation, just like my own exposed manhood.</li>
+            <li>The magnificent presentation of {PAWN_nameShortPossessive} wonderfully open vulva is breathtaking, and my cock salutes it.</li>
+            <li>I feel a kinship with {PAWN_nameShortPossessive} for confidently displaying such accommodating beauty; my own body reacts.</li>
+            <li>The way {PAWN_nameShortPossessive} accommodating vagina frames that tempting clitoris is pure performance art, leaving me aroused.</li>
+            <li>I'm utterly charmed by the bountiful, yielding texture of {PAWN_nameShortPossessive} inner folds, on full display, making me hard.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina seems to invite all eyes, a true exhibitionist's dream, and my cock feels called.</li>
+            <li>The spaciousness of {PAWN_nameShortPossessive} intimate parts, boldly presented, is truly fantastic, inciting my own urges.</li>
+            <li>I can't get enough of the view of {PAWN_nameShortPossessive} wonderfully accommodating, openly displayed vulva; my member is throbbing.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths, so grand and exposed, are a powerful statement, and my cock responds in kind.</li>
+            <li>Simply seeing {PAWN_nameShortPossessive} accommodating vagina brings a rush of pure appreciative joy, and my trousers tighten.</li>
+            <li>This open, generous display of {PAWN_nameShortPossessive} vulva is a triumph of natural exhibition, exciting my own male form.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young female, can include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_NMM_Exhibitionist_Female</defName>
+        <label>Accommodating Vagina (Positive) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is a bold, inspiring display, making my own vulva tingle.</li>
+            <li>I love seeing {PAWN_nameShortPossessive} generous, uninhibited intimate parts; it's so freeing, just like my own.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths, so openly presented, are truly captivating, and my core warms.</li>
+            <li>The confident display of {PAWN_nameShortPossessive} full, welcoming vulva makes me want to expose myself too.</li>
+            <li>What a fantastic, spacious exhibition {PAWN_nameShortPossessive} accommodating vagina provides; my own juices flow.</li>
+            <li>{PAWN_nameShortPossessive} accommodating size, shown so freely, makes my own lips part in admiration.</li>
+            <li>Such an inviting, open sight; it makes my clitoris throb with shared excitement.</li>
+            <li>The soft, yielding inner lips of {PAWN_nameShortPossessive} are a beautiful, open invitation, mirroring my own.</li>
+            <li>I adore the plump, exposed clitoris of {PAWN_nameShortPossessive} accommodating vagina; what a proud, stirring display! My own swells.</li>
+            <li>{PAWN_nameShortPossessive} deep, warm canal, so fully revealed, is simply stunning and makes me ache with empathy.</li>
+            <li>The sheer breadth of {PAWN_nameShortPossessive} accommodating vagina is a magnificent public display; I feel myself getting wet.</li>
+            <li>My eyes are drawn to {PAWN_nameShortPossessive} luscious, open entrance; it's a true spectacle for my own eager gaze.</li>
+            <li>I feel a surge of exhilaration seeing {PAWN_nameShortPossessive} accommodating depths so unashamedly displayed, and my own core pulses.</li>
+            <li>The full, ripe contours of {PAWN_nameShortPossessive} vulva are a masterwork of natural exhibition, causing my own arousal to rise.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina looks like it loves being seen, just like my own.</li>
+            <li>The open posture of {PAWN_nameShortPossessive} labia is so alluring, encouraging freedom and my own self-display.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris, so prominent, seems to welcome all gazes, making my own clit pulse.</li>
+            <li>I revel in the unobstructed view of {PAWN_nameShortPossessive} deep vaginal canal, so invitingly open; my own wetness increases.</li>
+            <li>The willingness to show such accommodating warmth and form is incredibly inspiring, making my own intimate parts respond.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is absolutely perfect for public appreciation, just like I wish mine to be.</li>
+            <li>The magnificent presentation of {PAWN_nameShortPossessive} wonderfully open vulva is breathtaking, and my own core stirs deeply.</li>
+            <li>I feel a kinship with {PAWN_nameShortPossessive} for confidently displaying such accommodating beauty; my own body tingles.</li>
+            <li>The way {PAWN_nameShortPossessive} accommodating vagina frames that tempting clitoris is pure performance art, leaving me desiring more.</li>
+            <li>I'm utterly charmed by the bountiful, yielding texture of {PAWN_nameShortPossessive} inner folds, on full display, making my own desires bloom.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina seems to invite all eyes, a true exhibitionist's dream, and I feel a rush of pleasure.</li>
+            <li>The spaciousness of {PAWN_nameShortPossessive} intimate parts, boldly presented, is truly fantastic, inciting my own urges.</li>
+            <li>I can't get enough of the view of {PAWN_nameShortPossessive} wonderfully accommodating, openly displayed vulva; my own warmth spreads.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths, so grand and exposed, are a powerful statement, and my own pleasure rises.</li>
+            <li>Simply seeing {PAWN_nameShortPossessive} accommodating vagina brings a rush of pure appreciative joy, and my own body feels alive.</li>
+            <li>This open, generous display of {PAWN_nameShortPossessive} vulva is a triumph of natural exhibition, making me feel inspired.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_Nymphomaniac</defName>
+        <label>Accommodating Vagina (Positive) trait Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina sparks an undeniable craving within me; I must have it.</li>
+            <li>The ample, open sight of {PAWN_nameShortPossessive} intimate parts ignites an intense, burning need.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths awaken a ferocious hunger; I'm consumed by desire.</li>
+            <li>I feel an insatiable urge when I see {PAWN_nameShortPossessive} generous, welcoming vulva.</li>
+            <li>My body aches for the embrace of {PAWN_nameShortPossessive} spacious, accommodating vagina.</li>
+            <li>{PAWN_nameShortPossessive} accommodating size promises endless satisfaction, and my desire intensifies.</li>
+            <li>Such an inviting opening! I'm practically vibrating with unfulfilled lust.</li>
+            <li>The soft, yielding inner lips of {PAWN_nameShortPossessive} are making me utterly frantic with craving.</li>
+            <li>I'm obsessed with the plump, exposed clitoris of {PAWN_nameShortPossessive} accommodating vagina; I need to taste it.</li>
+            <li>{PAWN_nameShortPossessive} deep, warm canal is all I can think about; my mind is flooded with lust.</li>
+            <li>The sheer breadth of {PAWN_nameShortPossessive} accommodating vagina sends shivers of pure desire through me.</li>
+            <li>My gaze is fixated on {PAWN_nameShortPossessive} luscious, open entrance; I can barely control myself.</li>
+            <li>I feel an overwhelming pull towards {PAWN_nameShortPossessive} accommodating depths, a primal, demanding urge.</li>
+            <li>The full, ripe contours of {PAWN_nameShortPossessive} vulva are driving me to distraction with lust.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina looks like it was made to fulfill every depraved fantasy.</li>
+            <li>I'm imagining the mind-shattering sensations {PAWN_nameShortPossessive} accommodating vagina could provide right now.</li>
+            <li>The way {PAWN_nameShortPossessive} labia are so relaxed and open is incredibly stimulating to my relentless hunger.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris looks so deliciously sensitive; I'm aching to experience it.</li>
+            <li>I'm mesmerized by the dark, inviting shadows of {PAWN_nameShortPossessive} deep vaginal canal; my body screams for it.</li>
+            <li>The promise of such accommodating warmth and grip is almost unbearable; I feel desperate for release.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is absolutely perfect, the ultimate object of my insatiable desire.</li>
+            <li>My body is reacting violently to the sight of {PAWN_nameShortPossessive} wonderfully open vulva; I need satisfaction.</li>
+            <li>I can almost feel myself plunging into {PAWN_nameShortPossessive} accommodating entrance; the craving is immense.</li>
+            <li>The way {PAWN_nameShortPossessive} accommodating vagina frames that tempting clitoris is exquisite torture.</li>
+            <li>I'm completely consumed by the bountiful, yielding texture of {PAWN_nameShortPossessive} inner folds; my lust knows no bounds.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina seems to beckon, promising an ecstatic release I desperately seek.</li>
+            <li>The spaciousness of {PAWN_nameShortPossessive} intimate parts fills me with an overwhelming, carnal yearning.</li>
+            <li>I can't get enough of the view of {PAWN_nameShortPossessive} wonderfully accommodating, open vulva; I'm ravenous.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths are calling to me, a powerful, unstoppable tide of lust.</li>
+            <li>Simply seeing {PAWN_nameShortPossessive} accommodating vagina sends a shockwave of pure, unbridled desire through me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young female, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_Nymphomaniac_male</defName>
+        <label>Accommodating Vagina (Positive) trait Nymphomaniac_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina makes my cock twitch uncontrollably with burning lust.</li>
+            <li>The ample, open sight of {PAWN_nameShortPossessive} intimate parts ignites an intense, aching need in my groin.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths awaken a ferocious hunger; my dick is demanding entry.</li>
+            <li>I feel an insatiable urge when I see {PAWN_nameShortPossessive} generous, welcoming vulva, and my erection grows.</li>
+            <li>My body aches for the embrace of {PAWN_nameShortPossessive} spacious, accommodating vagina; I'm painfully hard.</li>
+            <li>{PAWN_nameShortPossessive} accommodating size promises endless satisfaction, and my member pulses with desire.</li>
+            <li>Such an inviting opening! My cock is practically throbbing against my pants with unfulfilled lust.</li>
+            <li>The soft, yielding inner lips of {PAWN_nameShortPossessive} are making my balls ache with craving.</li>
+            <li>I'm obsessed with the plump, exposed clitoris of {PAWN_nameShortPossessive} accommodating vagina; I need to shove my cock in.</li>
+            <li>{PAWN_nameShortPossessive} deep, warm canal is all I can think about; my mind is flooded with intense, raw lust.</li>
+            <li>The sheer breadth of {PAWN_nameShortPossessive} accommodating vagina sends shivers of pure desire through my shaft.</li>
+            <li>My gaze is fixated on {PAWN_nameShortPossessive} luscious, open entrance; I can barely control my raging erection.</li>
+            <li>I feel an overwhelming pull towards {PAWN_nameShortPossessive} accommodating depths, a primal, demanding urge to thrust.</li>
+            <li>The full, ripe contours of {PAWN_nameShortPossessive} vulva are driving my cock to distraction with lust.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina looks like it was made to take my entire length, over and over.</li>
+            <li>I'm imagining the mind-shattering sensations {PAWN_nameShortPossessive} accommodating vagina could provide; my cock is exploding.</li>
+            <li>The way {PAWN_nameShortPossessive} labia are so relaxed and open is incredibly stimulating to my relentless, demanding cock.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris looks so deliciously sensitive; I'm aching to grind my shaft against it.</li>
+            <li>I'm mesmerized by the dark, inviting shadows of {PAWN_nameShortPossessive} deep vaginal canal; my body screams for it, hard.</li>
+            <li>The promise of such accommodating warmth and grip is almost unbearable; I feel desperate for immediate release into it.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is absolutely perfect, the ultimate object of my insatiable, demanding cock.</li>
+            <li>My body is reacting violently to the sight of {PAWN_nameShortPossessive} wonderfully open vulva; I need to release this pressure.</li>
+            <li>I can almost feel myself plunging into {PAWN_nameShortPossessive} accommodating entrance; the craving to bury my cock is immense.</li>
+            <li>The way {PAWN_nameShortPossessive} accommodating vagina frames that tempting clitoris is exquisite torture, making me painfully hard.</li>
+            <li>I'm completely consumed by the bountiful, yielding texture of {PAWN_nameShortPossessive} inner folds; my lust for it knows no bounds.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina seems to beckon, promising an ecstatic release I desperately seek with my throbbing cock.</li>
+            <li>The spaciousness of {PAWN_nameShortPossessive} intimate parts fills me with an overwhelming, carnal yearning to fill it.</li>
+            <li>I can't get enough of the view of {PAWN_nameShortPossessive} wonderfully accommodating, open vulva; I'm ravenous and fully engorged.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths are calling to me, a powerful, unstoppable tide of lust that demands I give in.</li>
+            <li>Simply seeing {PAWN_nameShortPossessive} accommodating vagina sends a shockwave of pure, unbridled desire through my entire, stiff body.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young female, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_Nymphomaniac_Female</defName>
+        <label>Accommodating Vagina (Positive) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina sparks an undeniable craving, making my own core throb.</li>
+            <li>The ample, open sight of {PAWN_nameShortPossessive} intimate parts ignites an intense, burning need in my own vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths awaken a ferocious hunger; I'm consumed by desire, and so is my body.</li>
+            <li>I feel an insatiable urge when I see {PAWN_nameShortPossessive} generous, welcoming vulva, and my own wetness increases.</li>
+            <li>My body aches for the embrace of {PAWN_nameShortPossessive} spacious, accommodating vagina; I'm practically dripping.</li>
+            <li>{PAWN_nameShortPossessive} accommodating size promises endless satisfaction, and my desire intensifies, making my clit swell.</li>
+            <li>Such an inviting opening! I'm practically vibrating with unfulfilled lust, and my own core aches.</li>
+            <li>The soft, yielding inner lips of {PAWN_nameShortPossessive} are making my own clitoris throb with craving.</li>
+            <li>I'm obsessed with the plump, exposed clitoris of {PAWN_nameShortPossessive} accommodating vagina; I need to feel it against mine.</li>
+            <li>{PAWN_nameShortPossessive} deep, warm canal is all I can think about; my mind is flooded with lust, and I’m so wet.</li>
+            <li>The sheer breadth of {PAWN_nameShortPossessive} accommodating vagina sends shivers of pure desire through my own body.</li>
+            <li>My gaze is fixated on {PAWN_nameShortPossessive} luscious, open entrance; I can barely control my own rising arousal.</li>
+            <li>I feel an overwhelming pull towards {PAWN_nameShortPossessive} accommodating depths, a primal, demanding urge to merge.</li>
+            <li>The full, ripe contours of {PAWN_nameShortPossessive} vulva are driving me to distraction with lust, and my own depths crave.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina looks like it was made to fulfill every wild fantasy, igniting my own.</li>
+            <li>I'm imagining the mind-shattering sensations {PAWN_nameShortPossessive} accommodating vagina could provide; my own core pulses wildly.</li>
+            <li>The way {PAWN_nameShortPossessive} labia are so relaxed and open is incredibly stimulating to my relentless hunger, and I’m so ready.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris looks so deliciously sensitive; I'm aching to experience it, and my own twitches.</li>
+            <li>I'm mesmerized by the dark, inviting shadows of {PAWN_nameShortPossessive} deep vaginal canal; my body screams for it, for both of us.</li>
+            <li>The promise of such accommodating warmth and grip is almost unbearable; I feel desperate for release, my own wetness undeniable.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is absolutely perfect, the ultimate object of my insatiable, mirroring desire.</li>
+            <li>My body is reacting violently to the sight of {PAWN_nameShortPossessive} wonderfully open vulva; I need satisfaction, for us both.</li>
+            <li>I can almost feel myself entering {PAWN_nameShortPossessive} accommodating entrance; the craving is immense, and my own hips ache.</li>
+            <li>The way {PAWN_nameShortPossessive} accommodating vagina frames that tempting clitoris is exquisite torture, sending thrills through me.</li>
+            <li>I'm completely consumed by the bountiful, yielding texture of {PAWN_nameShortPossessive} inner folds; my lust knows no bounds, amplified by hers.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina seems to beckon, promising an ecstatic release I desperately seek, intertwined with hers.</li>
+            <li>The spaciousness of {PAWN_nameShortPossessive} intimate parts fills me with an overwhelming, carnal yearning for mutual pleasure.</li>
+            <li>I can't get enough of the view of {PAWN_nameShortPossessive} wonderfully accommodating, open vulva; I'm ravenous and ready.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths are calling to me, a powerful, unstoppable tide of lust that demands I succumb.</li>
+            <li>Simply seeing {PAWN_nameShortPossessive} accommodating vagina sends a shockwave of pure, unbridled desire through my entire, responsive body.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_Kind</defName>
+        <label>Accommodating Vagina (Positive) trait Kind</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is a beautiful, natural sight, radiating gentle warmth.</li>
+            <li>The generous, open nature of {PAWN_nameShortPossessive} intimate parts is truly lovely and inviting.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths seem to hold a profound capacity for tenderness.</li>
+            <li>I appreciate the comfortable, unhurried appearance of {PAWN_nameShortPossessive} vulva; it feels soft and welcoming.</li>
+            <li>What a naturally accepting and beautiful form {PAWN_nameShortPossessive} body possesses.</li>
+            <li>The gentle plumpness of {PAWN_nameShortPossessive} accommodating vagina hints at bountiful, comforting warmth.</li>
+            <li>A lovely, yielding entrance; {PAWN_nameShortPossessive} intimate parts are wonderfully, softly formed.</li>
+            <li>The full, soft appearance of {PAWN_nameShortPossessive} vulval lips is quite alluring, a true natural charm.</li>
+            <li>I feel a sense of calm and appreciation observing {PAWN_nameShortPossessive} accommodating canal.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is beautifully developed, promising gentle sensation.</li>
+            <li>This accommodating form is a testament to the serene beauty of the female body.</li>
+            <li>The unhurried, comfortable spread of {PAWN_nameShortPossessive} labia is appealing in its gentle openness.</li>
+            <li>{PAWN_nameShortPossessive} expansive interior whispers of deep, enveloping care, a truly beautiful sight.</li>
+            <li>I sense a generous spirit reflected in {PAWN_nameShortPossessive} accommodating intimate parts.</li>
+            <li>The inviting, ample depth of {PAWN_nameShortPossessive} vagina is a wonderful, comforting thing to behold.</li>
+            <li>A truly magnificent example of nature's gentle design; {PAWN_nameShortPossessive} accommodating vulva.</li>
+            <li>{PAWN_nameShortPossessive} soft, welcoming folds are perfectly aligned, a harmonious and peaceful vision.</li>
+            <li>The confident, open presentation of {PAWN_nameShortPossessive} intimate parts is quite striking, yet comforting.</li>
+            <li>I admire the rich, full contours of {PAWN_nameShortPossessive} accommodating vagina, a vision of natural softness.</li>
+            <li>{PAWN_nameShortPossessive} ample clitoris, surrounded by its generous casing, seems perfectly poised for gentle joy.</li>
+            <li>The smooth, natural sweep of {PAWN_nameShortPossessive} labia majora is simply exquisite, a soft invitation.</li>
+            <li>{PAWN_nameShortPossessive} accommodating inner labia possess a delicate, intricate beauty, evoking tenderness.</li>
+            <li>I noted the inviting roundness of {PAWN_nameShortPossessive} accommodating entrance, a pleasant, gentle sight.</li>
+            <li>The relaxed, yielding nature of {PAWN_nameShortPossessive} intimate anatomy speaks volumes of acceptance.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is a true testament to organic perfection, soft and inviting.</li>
+            <li>There's a subtle glow to {PAWN_nameShortPossessive} vulva, a vibrant, healthy, and inviting allure.</li>
+            <li>I find the natural proportions of {PAWN_nameShortPossessive} accommodating vagina deeply appealing, in a gentle way.</li>
+            <li>{PAWN_nameShortPossessive} soft, embracing form promises a deeply satisfying, comforting experience.</li>
+            <li>The full, open nature of {PAWN_nameShortPossessive} intimate parts evokes a sense of peace and natural beauty.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is a natural wonder, beautifully formed and serenely inviting.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Accommodating_trait_Prude</defName>
+        <label>Accommodating Vagina (Positive) trait Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} accommodating vagina is… certainly large. I suppose it has its uses.</li>
+            <li>It’s quite expansive, isn't it? One could hardly miss {PAWN_nameShortPossessive} accommodating features.</li>
+            <li>{PAWN_nameShortPossessive} accommodating depths are rather… prominent. A bit much, if you ask me.</li>
+            <li>The sheer size of {PAWN_nameShortPossessive} vulva is almost audacious. Quite accommodating indeed.</li>
+            <li>I suppose {PAWN_nameShortPossessive} accommodating vagina is designed for practicality, nothing more.</li>
+            <li>One can clearly see the generosity of {PAWN_nameShortPossessive} intimate parts. It's... there.</li>
+            <li>{PAWN_nameShortPossessive} accommodating entrance is undeniably spacious. Not that I'm looking.</li>
+            <li>It's a rather... ample display. {PAWN_nameShortPossessive} accommodating vagina is quite obvious.</li>
+            <li>The accommodating nature of {PAWN_nameShortPossessive} anatomy is, I suppose, functional.</li>
+            <li>One cannot deny the broadness of {PAWN_nameShortPossessive} intimate contours. Rather glaring.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is certainly visible. Unsubtle, wouldn't you say?</li>
+            <li>The depth of {PAWN_nameShortPossessive} accommodating canal is quite apparent. Overly so.</li>
+            <li>I noticed {PAWN_nameShortPossessive} rather yielding labia. They certainly accommodate.</li>
+            <li>Such a wide aperture. {PAWN_nameShortPossessive} accommodating vagina leaves little to the imagination.</li>
+            <li>The full, open presentation is... direct. {PAWN_nameShortPossessive} accommodating vulva is certainly out there.</li>
+            <li>It's a very... generous form. {PAWN_nameShortPossessive} accommodating vagina is not discreet.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} intimate parts is quite something. Very accommodating.</li>
+            <li>I suppose it has a certain... capacious quality. {PAWN_nameShortPossessive} accommodating entrance.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} accommodating vagina is almost brazen.</li>
+            <li>It's quite open, one must admit. {PAWN_nameShortPossessive} accommodating features are evident.</li>
+            <li>The ample expanse of {PAWN_nameShortPossessive} vulva is, well, noticeable.</li>
+            <li>{PAWN_nameShortPossessive} accommodating inner labia are quite pronounced. Unavoidable.</li>
+            <li>A rather conspicuous display of size. {PAWN_nameShortPossessive} accommodating vagina is quite the statement.</li>
+            <li>The overall impression is one of extreme... spaciousness. {PAWN_nameShortPossessive} accommodating.</li>
+            <li>It's difficult not to observe the extent of {PAWN_nameShortPossessive} intimate proportions.</li>
+            <li>One might call it 'unrestrained.' {PAWN_nameShortPossessive} accommodating vagina.</li>
+            <li>The relaxed and open nature is... certainly something. {PAWN_nameShortPossessive} accommodating.</li>
+            <li>A very yielding and prominent set of features. {PAWN_nameShortPossessive} accommodating vulva.</li>
+            <li>I've seen less... expansive things. {PAWN_nameShortPossessive} accommodating vagina is very open.</li>
+            <li>The accommodating nature is quite pronounced, isn't it? Very little left to ponder.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for female with horse gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Positive_Accommodating_HorseVagina</defName>
+        <label>Accommodating Vagina (Positive) HorseVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_equine_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>HorseVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} horse-like vagina is surprisingly accommodating, a marvel of equine adaptation.</li>
+            <li>The ample, muscular folds of {PAWN_nameShortPossessive} horse vagina are incredibly robust and inviting.</li>
+            <li>{PAWN_nameShortPossessive} accommodating equine depths hint at a powerful, primal connection.</li>
+            <li>I'm fascinated by the strong, generous entrance of {PAWN_nameShortPossessive} horse vulva, so uniquely formed.</li>
+            <li>The sheer capacity of {PAWN_nameShortPossessive} horse vagina is breathtaking; a truly accommodating wonder.</li>
+            <li>{PAWN_nameShortPossessive} broad, smooth labia, akin to a mare's, frame a wonderfully deep canal.</li>
+            <li>Such a resilient, accommodating opening; it speaks of untamed strength and pleasure.</li>
+            <li>The texture of {PAWN_nameShortPossessive} equine inner folds seems both firm and yielding, quite intriguing.</li>
+            <li>I noticed the unique, powerful shape of {PAWN_nameShortPossessive} accommodating horse-like clitoris.</li>
+            <li>The deep, expansive tunnel of {PAWN_nameShortPossessive} horse vagina promises a truly wild ride.</li>
+            <li>This accommodating equine anatomy is a fascinating blend of power and pleasure.</li>
+            <li>The natural, robust curves of {PAWN_nameShortPossessive} horse vulva are genuinely appealing.</li>
+            <li>{PAWN_nameShortPossessive} powerful, accommodating depths are an exquisite sight to behold.</li>
+            <li>I'm drawn to the unusual, yet incredibly welcoming, form of {PAWN_nameShortPossessive} horse vagina.</li>
+            <li>The impressive size and relaxed presentation of {PAWN_nameShortPossessive} equine entrance are striking.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating horse vagina, I feel a sense of primordial awe.</li>
+            <li>The full, strong labia of {PAWN_nameShortPossessive} horse vulva frame a truly capacious opening.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is wonderfully prominent, hinting at powerful sensations.</li>
+            <li>The broad, supple expanse of {PAWN_nameShortPossessive} horse vagina is a testament to its unique design.</li>
+            <li>I find the deep, muscular nature of {PAWN_nameShortPossessive} accommodating equine anatomy quite beautiful.</li>
+            <li>The sheer accommodation offered by {PAWN_nameShortPossessive} horse vagina is truly impressive.</li>
+            <li>{PAWN_nameShortPossessive} wild, accommodating depths promise an unforgettable encounter.</li>
+            <li>The robust, resilient quality of {PAWN_nameShortPossessive} intimate parts is remarkably attractive.</li>
+            <li>I'm captivated by the smooth, powerful lines of {PAWN_nameShortPossessive} horse-like vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina feels ancient and powerful, a unique wonder.</li>
+            <li>The way {PAWN_nameShortPossessive} equine labia part to reveal such deep, inviting space is magnificent.</li>
+            <li>A truly accommodating conduit, {PAWN_nameShortPossessive} horse vagina is incredibly well-formed.</li>
+            <li>The striking form of {PAWN_nameShortPossessive} accommodating horse-like genitalia sparks my profound curiosity.</li>
+            <li>I am mesmerized by the deep, resonant presence of {PAWN_nameShortPossessive} equine intimate anatomy.</li>
+            <li>{PAWN_nameShortPossessive} accommodating horse vagina is a stunning example of evolutionary beauty and power.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with dog gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Positive_Accommodating_DogVagina</defName>
+        <label>Accommodating Vagina (Positive) DogVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_canine_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DogVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} canine vagina is surprisingly accommodating, a loyal and inviting form.</li>
+            <li>The soft, fleshy folds of {PAWN_nameShortPossessive} dog vagina are incredibly plush and welcoming.</li>
+            <li>{PAWN_nameShortPossessive} accommodating canine depths hint at a playful, devoted connection.</li>
+            <li>I'm fascinated by the sweet, generous entrance of {PAWN_nameShortPossessive} dog vulva, so uniquely affectionate.</li>
+            <li>The sheer capacity of {PAWN_nameShortPossessive} dog vagina is remarkable; a truly accommodating wonder.</li>
+            <li>{PAWN_nameShortPossessive} plump, sensitive labia frame a wonderfully deep, eager canal.</li>
+            <li>Such an eager, accommodating opening; it speaks of boundless enthusiasm and warmth.</li>
+            <li>The texture of {PAWN_nameShortPossessive} canine inner folds seems both tender and responsive, quite intriguing.</li>
+            <li>I noticed the unique, prominent shape of {PAWN_nameShortPossessive} accommodating dog-like clitoris.</li>
+            <li>The deep, expansive tunnel of {PAWN_nameShortPossessive} dog vagina promises a truly loving embrace.</li>
+            <li>This accommodating canine anatomy is a charming blend of playfulness and intimacy.</li>
+            <li>The natural, soft curves of {PAWN_nameShortPossessive} dog vulva are genuinely appealing.</li>
+            <li>{PAWN_nameShortPossessive} devoted, accommodating depths are an exquisite sight to behold.</li>
+            <li>I'm drawn to the unusual, yet incredibly welcoming, form of {PAWN_nameShortPossessive} dog vagina.</li>
+            <li>The impressive size and relaxed presentation of {PAWN_nameShortPossessive} canine entrance are striking.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating dog vagina, I feel a sense of sweet, loyal appeal.</li>
+            <li>The full, soft labia of {PAWN_nameShortPossessive} dog vulva frame a truly capacious opening.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is wonderfully prominent, hinting at joyful sensations.</li>
+            <li>The broad, supple expanse of {PAWN_nameShortPossessive} dog vagina is a testament to its unique design.</li>
+            <li>I find the deep, responsive nature of {PAWN_nameShortPossessive} accommodating canine anatomy quite beautiful.</li>
+            <li>The sheer accommodation offered by {PAWN_nameShortPossessive} dog vagina is truly impressive.</li>
+            <li>{PAWN_nameShortPossessive} eager, accommodating depths promise an unforgettable, joyful encounter.</li>
+            <li>The robust, affectionate quality of {PAWN_nameShortPossessive} intimate parts is remarkably attractive.</li>
+            <li>I'm captivated by the smooth, responsive lines of {PAWN_nameShortPossessive} dog-like vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina feels warm and devoted, a unique wonder.</li>
+            <li>The way {PAWN_nameShortPossessive} canine labia part to reveal such deep, inviting space is magnificent.</li>
+            <li>A truly accommodating conduit, {PAWN_nameShortPossessive} dog vagina is incredibly well-formed.</li>
+            <li>The striking form of {PAWN_nameShortPossessive} accommodating dog-like genitalia sparks my profound curiosity.</li>
+            <li>I am mesmerized by the deep, loving presence of {PAWN_nameShortPossessive} canine intimate anatomy.</li>
+            <li>{PAWN_nameShortPossessive} accommodating dog vagina is a stunning example of playful beauty and devotion.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with cat gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Positive_Accommodating_CatVagina</defName>
+        <label>Accommodating Vagina (Positive) CatVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_feline_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>CatVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} feline vagina is surprisingly accommodating, with a sleek, graceful form.</li>
+            <li>The delicate, soft folds of {PAWN_nameShortPossessive} cat vagina are incredibly smooth and inviting.</li>
+            <li>{PAWN_nameShortPossessive} accommodating feline depths hint at a subtle, elegant pleasure.</li>
+            <li>I'm fascinated by the refined, generous entrance of {PAWN_nameShortPossessive} cat vulva, so uniquely alluring.</li>
+            <li>The sheer capacity of {PAWN_nameShortPossessive} cat vagina is remarkable; a truly accommodating wonder.</li>
+            <li>{PAWN_nameShortPossessive} sleek, soft labia frame a wonderfully deep, sensual canal.</li>
+            <li>Such a fluid, accommodating opening; it speaks of supple grace and quiet allure.</li>
+            <li>The texture of {PAWN_nameShortPossessive} feline inner folds seems both silken and yielding, quite intriguing.</li>
+            <li>I noticed the unique, refined shape of {PAWN_nameShortPossessive} accommodating cat-like clitoris.</li>
+            <li>The deep, expansive tunnel of {PAWN_nameShortPossessive} cat vagina promises a truly purring embrace.</li>
+            <li>This accommodating feline anatomy is a charming blend of elegance and intimacy.</li>
+            <li>The natural, soft curves of {PAWN_nameShortPossessive} cat vulva are genuinely appealing.</li>
+            <li>{PAWN_nameShortPossessive} lithe, accommodating depths are an exquisite sight to behold.</li>
+            <li>I'm drawn to the unusual, yet incredibly welcoming, form of {PAWN_nameShortPossessive} cat vagina.</li>
+            <li>The impressive size and relaxed presentation of {PAWN_nameShortPossessive} feline entrance are striking.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating cat vagina, I feel a sense of playful, sleek appeal.</li>
+            <li>The full, soft labia of {PAWN_nameShortPossessive} cat vulva frame a truly capacious opening.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is wonderfully prominent, hinting at subtle, teasing sensations.</li>
+            <li>The broad, supple expanse of {PAWN_nameShortPossessive} cat vagina is a testament to its unique design.</li>
+            <li>I find the deep, responsive nature of {PAWN_nameShortPossessive} accommodating feline anatomy quite beautiful.</li>
+            <li>The sheer accommodation offered by {PAWN_nameShortPossessive} cat vagina is truly impressive.</li>
+            <li>{PAWN_nameShortPossessive} graceful, accommodating depths promise an unforgettable, fluid encounter.</li>
+            <li>The sleek, sensual quality of {PAWN_nameShortPossessive} intimate parts is remarkably attractive.</li>
+            <li>I'm captivated by the smooth, subtle lines of {PAWN_nameShortPossessive} cat-like vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina feels warm and sensuous, a unique wonder.</li>
+            <li>The way {PAWN_nameShortPossessive} feline labia part to reveal such deep, inviting space is magnificent.</li>
+            <li>A truly accommodating conduit, {PAWN_nameShortPossessive} cat vagina is incredibly well-formed.</li>
+            <li>The striking form of {PAWN_nameShortPossessive} accommodating cat-like genitalia sparks my profound curiosity.</li>
+            <li>I am mesmerized by the deep, soft presence of {PAWN_nameShortPossessive} feline intimate anatomy.</li>
+            <li>{PAWN_nameShortPossessive} accommodating cat vagina is a stunning example of agile beauty and grace.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with demon gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Positive_Accommodating_DemonVagina</defName>
+        <label>Accommodating Vagina (Positive) DemonVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} demonic vagina is incredibly accommodating, a dark and alluring abyss.</li>
+            <li>The infernal, fleshy folds of {PAWN_nameShortPossessive} demon vagina are surprisingly inviting, yet formidable.</li>
+            <li>{PAWN_nameShortPossessive} accommodating demonic depths hint at untold, thrilling pleasures.</li>
+            <li>I'm fascinated by the powerful, generous entrance of {PAWN_nameShortPossessive} demon vulva, so uniquely formed.</li>
+            <li>The sheer capacity of {PAWN_nameShortPossessive} demon vagina is mesmerizing; a truly accommodating wonder.</li>
+            <li>{PAWN_nameShortPossessive} sinister, warm labia frame a wonderfully deep, hungry canal.</li>
+            <li>Such a dark, accommodating opening; it speaks of ancient power and unholy delights.</li>
+            <li>The texture of {PAWN_nameShortPossessive} demonic inner folds seems both rigid and yielding, quite intriguing.</li>
+            <li>I noticed the unique, formidable shape of {PAWN_nameShortPossessive} accommodating demon-like clitoris.</li>
+            <li>The deep, expansive tunnel of {PAWN_nameShortPossessive} demon vagina promises a truly hellish embrace.</li>
+            <li>This accommodating demonic anatomy is a terrifying blend of allure and raw power.</li>
+            <li>The natural, formidable curves of {PAWN_nameShortPossessive} demon vulva are genuinely appealing.</li>
+            <li>{PAWN_nameShortPossessive} terrifying, accommodating depths are an exquisite sight to behold.</li>
+            <li>I'm drawn to the unusual, yet incredibly welcoming, form of {PAWN_nameShortPossessive} demon vagina.</li>
+            <li>The impressive size and relaxed presentation of {PAWN_nameShortPossessive} demonic entrance are striking.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating demon vagina, I feel a sense of forbidden, dark appeal.</li>
+            <li>The full, powerful labia of {PAWN_nameShortPossessive} demon vulva frame a truly capacious opening.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is wonderfully prominent, hinting at wicked sensations.</li>
+            <li>The broad, supple expanse of {PAWN_nameShortPossessive} demon vagina is a testament to its unique design.</li>
+            <li>I find the deep, formidable nature of {PAWN_nameShortPossessive} accommodating demonic anatomy quite beautiful.</li>
+            <li>The sheer accommodation offered by {PAWN_nameShortPossessive} demon vagina is truly impressive.</li>
+            <li>{PAWN_nameShortPossessive} infernal, accommodating depths promise an unforgettable, unholy encounter.</li>
+            <li>The robust, dark quality of {PAWN_nameShortPossessive} intimate parts is remarkably attractive.</li>
+            <li>I'm captivated by the smooth, powerful lines of {PAWN_nameShortPossessive} demon-like vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina feels ancient and corrupted, a unique wonder.</li>
+            <li>The way {PAWN_nameShortPossessive} demonic labia part to reveal such deep, inviting space is magnificent.</li>
+            <li>A truly accommodating conduit, {PAWN_nameShortPossessive} demon vagina is incredibly well-formed.</li>
+            <li>The striking form of {PAWN_nameShortPossessive} accommodating demon-like genitalia sparks my profound curiosity.</li>
+            <li>I am mesmerized by the deep, resonant presence of {PAWN_nameShortPossessive} demonic intimate anatomy.</li>
+            <li>{PAWN_nameShortPossessive} accommodating demon vagina is a stunning example of twisted beauty and power.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with dragon gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Positive_Accommodating_DragonVagina</defName>
+        <label>Accommodating Vagina (Positive) DragonVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_dragon_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DragonVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} dragon vagina is incredibly accommodating, a scaled and majestic wonder.</li>
+            <li>The powerful, ridged folds of {PAWN_nameShortPossessive} dragon vagina are surprisingly inviting, yet formidable.</li>
+            <li>{PAWN_nameShortPossessive} accommodating draconic depths hint at untold, ancient pleasures.</li>
+            <li>I'm fascinated by the vast, generous entrance of {PAWN_nameShortPossessive} dragon vulva, so uniquely formed.</li>
+            <li>The sheer capacity of {PAWN_nameShortPossessive} dragon vagina is mesmerizing; a truly accommodating wonder.</li>
+            <li>{PAWN_nameShortPossessive} reptilian, warm labia frame a wonderfully deep, fiery canal.</li>
+            <li>Such a grand, accommodating opening; it speaks of primordial power and immense delights.</li>
+            <li>The texture of {PAWN_nameShortPossessive} draconic inner folds seems both rugged and yielding, quite intriguing.</li>
+            <li>I noticed the unique, formidable shape of {PAWN_nameShortPossessive} accommodating dragon-like clitoris.</li>
+            <li>The deep, expansive tunnel of {PAWN_nameShortPossessive} dragon vagina promises a truly epic embrace.</li>
+            <li>This accommodating draconic anatomy is a terrifying blend of allure and raw power.</li>
+            <li>The natural, formidable curves of {PAWN_nameShortPossessive} dragon vulva are genuinely appealing.</li>
+            <li>{PAWN_nameShortPossessive} terrifying, accommodating depths are an exquisite sight to behold.</li>
+            <li>I'm drawn to the unusual, yet incredibly welcoming, form of {PAWN_nameShortPossessive} dragon vagina.</li>
+            <li>The impressive size and relaxed presentation of {PAWN_nameShortPossessive} draconic entrance are striking.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating dragon vagina, I feel a sense of forbidden, primal appeal.</li>
+            <li>The full, powerful labia of {PAWN_nameShortPossessive} dragon vulva frame a truly capacious opening.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is wonderfully prominent, hinting at scorching sensations.</li>
+            <li>The broad, supple expanse of {PAWN_nameShortPossessive} dragon vagina is a testament to its unique design.</li>
+            <li>I find the deep, formidable nature of {PAWN_nameShortPossessive} accommodating draconic anatomy quite beautiful.</li>
+            <li>The sheer accommodation offered by {PAWN_nameShortPossessive} dragon vagina is truly impressive.</li>
+            <li>{PAWN_nameShortPossessive} primordial, accommodating depths promise an unforgettable, mighty encounter.</li>
+            <li>The robust, scaled quality of {PAWN_nameShortPossessive} intimate parts is remarkably attractive.</li>
+            <li>I'm captivated by the smooth, powerful lines of {PAWN_nameShortPossessive} dragon-like vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina feels ancient and powerful, a unique wonder.</li>
+            <li>The way {PAWN_nameShortPossessive} draconic labia part to reveal such deep, inviting space is magnificent.</li>
+            <li>A truly accommodating conduit, {PAWN_nameShortPossessive} dragon vagina is incredibly well-formed.</li>
+            <li>The striking form of {PAWN_nameShortPossessive} accommodating dragon-like genitalia sparks my profound curiosity.</li>
+            <li>I am mesmerized by the deep, resonant presence of {PAWN_nameShortPossessive} draconic intimate anatomy.</li>
+            <li>{PAWN_nameShortPossessive} accommodating dragon vagina is a stunning example of ancient beauty and power.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with slime gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Positive_Accommodating_SlimeVagina</defName>
+        <label>Accommodating Vagina (Positive) SlimeVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} slime vagina is incredibly accommodating, a shifting, wondrous form.</li>
+            <li>The soft, viscous folds of {PAWN_nameShortPossessive} slime vagina are surprisingly inviting, yet alien.</li>
+            <li>{PAWN_nameShortPossessive} accommodating gelatinous depths hint at strange, fluid pleasures.</li>
+            <li>I'm fascinated by the amorphous, generous entrance of {PAWN_nameShortPossessive} slime vulva, so uniquely adaptable.</li>
+            <li>The sheer capacity of {PAWN_nameShortPossessive} slime vagina is mesmerizing; a truly accommodating wonder.</li>
+            <li>{PAWN_nameShortPossessive} glistening, warm labia frame a wonderfully deep, yielding canal.</li>
+            <li>Such an elastic, accommodating opening; it speaks of boundless flexibility and unusual delights.</li>
+            <li>The texture of {PAWN_nameShortPossessive} gelatinous inner folds seems both soft and responsive, quite intriguing.</li>
+            <li>I noticed the unique, pliable shape of {PAWN_nameShortPossessive} accommodating slime-like clitoris.</li>
+            <li>The deep, expansive tunnel of {PAWN_nameShortPossessive} slime vagina promises a truly enveloping embrace.</li>
+            <li>This accommodating gelatinous anatomy is a fascinating blend of the bizarre and the beautiful.</li>
+            <li>The natural, fluid curves of {PAWN_nameShortPossessive} slime vulva are genuinely appealing.</li>
+            <li>{PAWN_nameShortPossessive} strange, accommodating depths are an exquisite sight to behold.</li>
+            <li>I'm drawn to the unusual, yet incredibly welcoming, form of {PAWN_nameShortPossessive} slime vagina.</li>
+            <li>The impressive size and relaxed presentation of {PAWN_nameShortPossessive} gelatinous entrance are striking.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating slime vagina, I feel a sense of alien, fluid appeal.</li>
+            <li>The full, soft labia of {PAWN_nameShortPossessive} slime vulva frame a truly capacious opening.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is wonderfully prominent, hinting at squirming sensations.</li>
+            <li>The broad, supple expanse of {PAWN_nameShortPossessive} slime vagina is a testament to its unique design.</li>
+            <li>I find the deep, adaptable nature of {PAWN_nameShortPossessive} accommodating gelatinous anatomy quite beautiful.</li>
+            <li>The sheer accommodation offered by {PAWN_nameShortPossessive} slime vagina is truly impressive.</li>
+            <li>{PAWN_nameShortPossessive} fluid, accommodating depths promise an unforgettable, shapeless encounter.</li>
+            <li>The moist, adaptive quality of {PAWN_nameShortPossessive} intimate parts is remarkably attractive.</li>
+            <li>I'm captivated by the smooth, flowing lines of {PAWN_nameShortPossessive} slime-like vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina feels otherworldly and soft, a unique wonder.</li>
+            <li>The way {PAWN_nameShortPossessive} gelatinous labia part to reveal such deep, inviting space is magnificent.</li>
+            <li>A truly accommodating conduit, {PAWN_nameShortPossessive} slime vagina is incredibly well-formed.</li>
+            <li>The striking form of {PAWN_nameShortPossessive} accommodating slime-like genitalia sparks my profound curiosity.</li>
+            <li>I am mesmerized by the deep, yielding presence of {PAWN_nameShortPossessive} gelatinous intimate anatomy.</li>
+            <li>{PAWN_nameShortPossessive} accommodating slime vagina is a stunning example of liquid beauty and flexibility.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with pig gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Positive_Accommodating_PigNarrowVagina</defName>
+        <label>Accommodating Vagina (Positive) PigNarrowVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_Needle_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>NarrowVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} pig-like vagina is surprisingly accommodating despite its apparent narrowness.</li>
+            <li>The petite, fleshy folds of {PAWN_nameShortPossessive} pig vagina are incredibly snug and inviting.</li>
+            <li>{PAWN_nameShortPossessive} accommodating porcine depths hint at a surprisingly tight, yet yielding, pleasure.</li>
+            <li>I'm fascinated by the delicate, generous entrance of {PAWN_nameShortPossessive} pig vulva, so uniquely compact.</li>
+            <li>The sheer capacity of {PAWN_nameShortPossessive} pig vagina is remarkable; a truly accommodating wonder.</li>
+            <li>{PAWN_nameShortPossessive} rounded, sensitive labia frame a wonderfully deep, compact canal.</li>
+            <li>Such a snug, accommodating opening; it speaks of intense pressure and satisfying warmth.</li>
+            <li>The texture of {PAWN_nameShortPossessive} porcine inner folds seems both firm and yielding, quite intriguing.</li>
+            <li>I noticed the unique, prominent shape of {PAWN_nameShortPossessive} accommodating pig-like clitoris.</li>
+            <li>The deep, expansive tunnel of {PAWN_nameShortPossessive} pig vagina promises a truly embracing squeeze.</li>
+            <li>This accommodating porcine anatomy is a charming blend of snugness and intimacy.</li>
+            <li>The natural, plump curves of {PAWN_nameShortPossessive} pig vulva are genuinely appealing.</li>
+            <li>{PAWN_nameShortPossessive} tight, accommodating depths are an exquisite sight to behold.</li>
+            <li>I'm drawn to the unusual, yet incredibly welcoming, form of {PAWN_nameShortPossessive} pig vagina.</li>
+            <li>The impressive size and relaxed presentation of {PAWN_nameShortPossessive} porcine entrance are striking.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating pig vagina, I feel a sense of unique, warm appeal.</li>
+            <li>The full, soft labia of {PAWN_nameShortPossessive} pig vulva frame a truly capacious opening.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is wonderfully prominent, hinting at powerful sensations.</li>
+            <li>The broad, supple expanse of {PAWN_nameShortPossessive} pig vagina is a testament to its unique design.</li>
+            <li>I find the deep, responsive nature of {PAWN_nameShortPossessive} accommodating porcine anatomy quite beautiful.</li>
+            <li>The sheer accommodation offered by {PAWN_nameShortPossessive} pig vagina is truly impressive.</li>
+            <li>{PAWN_nameShortPossessive} eager, accommodating depths promise an unforgettable, joyful encounter.</li>
+            <li>The robust, affectionate quality of {PAWN_nameShortPossessive} intimate parts is remarkably attractive.</li>
+            <li>I'm captivated by the smooth, responsive lines of {PAWN_nameShortPossessive} pig-like vulva.</li>
+            <li>{PAWN_nameShortPossessive} accommodating vagina feels warm and devoted, a unique wonder.</li>
+            <li>The way {PAWN_nameShortPossessive} porcine labia part to reveal such deep, inviting space is magnificent.</li>
+            <li>A truly accommodating conduit, {PAWN_nameShortPossessive} pig vagina is incredibly well-formed.</li>
+            <li>The striking form of {PAWN_nameShortPossessive} accommodating pig-like genitalia sparks my profound curiosity.</li>
+            <li>I am mesmerized by the deep, loving presence of {PAWN_nameShortPossessive} porcine intimate anatomy.</li>
+            <li>{PAWN_nameShortPossessive} accommodating pig vagina is a stunning example of playful beauty and devotion.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with insect gene based Ovipositor (a penis like tube to lay eggs), may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Positive_Accommodating_Insect_OvipositorF</defName>
+        <label>Accommodating Vagina (Positive) Insect_OvipositorF</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>OvipositorF</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} insect ovipositor is surprisingly accommodating, a marvel of entomological design.</li>
+            <li>The chitinous, segmented form of {PAWN_nameShortPossessive} ovipositor is incredibly intriguing and functional.</li>
+            <li>{PAWN_nameShortPossessive} accommodating insect depths hint at a precise, unique sensation.</li>
+            <li>I'm fascinated by the mechanical, generous entrance of {PAWN_nameShortPossessive} ovipositor, so uniquely structured.</li>
+            <li>The sheer capacity of {PAWN_nameShortPossessive} ovipositor is mesmerizing; a truly accommodating wonder.</li>
+            <li>{PAWN_nameShortPossessive} articulated, warm ovipositor tube promises a wonderfully deep, satisfying insertion.</li>
+            <li>Such an alien, accommodating opening; it speaks of biological efficiency and curious delights.</li>
+            <li>The texture of {PAWN_nameShortPossessive} insect inner folds seems both firm and yielding, quite intriguing.</li>
+            <li>I noticed the unique, formidable shape of {PAWN_nameShortPossessive} accommodating insect-like clitoris.</li>
+            <li>The deep, expansive tunnel of {PAWN_nameShortPossessive} ovipositor promises a truly unparalleled experience.</li>
+            <li>This accommodating insect anatomy is a fascinating blend of the bizarre and the beautiful.</li>
+            <li>The natural, functional curves of {PAWN_nameShortPossessive} ovipositor are genuinely appealing.</li>
+            <li>{PAWN_nameShortPossessive} strange, accommodating depths are an exquisite sight to behold.</li>
+            <li>I'm drawn to the unusual, yet incredibly welcoming, form of {PAWN_nameShortPossessive} ovipositor.</li>
+            <li>The impressive size and relaxed presentation of {PAWN_nameShortPossessive} insect entrance are striking.</li>
+            <li>Observing {PAWN_nameShortPossessive} accommodating ovipositor, I feel a sense of alien, primal appeal.</li>
+            <li>The full, powerful structures of {PAWN_nameShortPossessive} ovipositor frame a truly capacious opening.</li>
+            <li>{PAWN_nameShortPossessive} accommodating clitoris is wonderfully prominent, hinting at unique sensations.</li>
+            <li>The broad, supple expanse of {PAWN_nameShortPossessive} ovipositor is a testament to its unique design.</li>
+            <li>I find the deep, formidable nature of {PAWN_nameShortPossessive} accommodating insect anatomy quite beautiful.</li>
+            <li>The sheer accommodation offered by {PAWN_nameShortPossessive} ovipositor is truly impressive.</li>
+            <li>{PAWN_nameShortPossessive} mechanical, accommodating depths promise an unforgettable, unusual encounter.</li>
+            <li>The robust, segmented quality of {PAWN_nameShortPossessive} intimate parts is remarkably attractive.</li>
+            <li>I'm captivated by the smooth, powerful lines of {PAWN_nameShortPossessive} insect-like ovipositor.</li>
+            <li>{PAWN_nameShortPossessive} accommodating ovipositor feels alien and powerful, a unique wonder.</li>
+            <li>The way {PAWN_nameShortPossessive} insect labia part to reveal such deep, inviting space is magnificent.</li>
+            <li>A truly accommodating conduit, {PAWN_nameShortPossessive} ovipositor is incredibly well-formed.</li>
+            <li>The striking form of {PAWN_nameShortPossessive} accommodating insect-like genitalia sparks my profound curiosity.</li>
+            <li>I am mesmerized by the deep, resonant presence of {PAWN_nameShortPossessive} insect intimate anatomy.</li>
+            <li>{PAWN_nameShortPossessive} accommodating ovipositor is a stunning example of biological beauty and function.</li>
+        </opinionTexts>
+</Def>
+</Defs>

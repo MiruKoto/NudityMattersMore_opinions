@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale</defName>
+        <label>Micro Anus (Negative)_MatureFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby backside showed a disappointingly tiny orifice, nearly invisible. What a letdown.</li>
+            <li>The way {PAWN_nameShortPossessive} aged, drooping rear revealed a minuscule pucker. Barely noticeable, thankfully.</li>
+            <li>A sudden glimpse of a very small, almost nonexistent opening on that mature, deflated posterior. Disappointing.</li>
+            <li>That butt, once perhaps firm, now sags, offering a glimpse of a disturbingly tight, almost closed crevice.</li>
+            <li>The unexpected view of {PAWN_nameShortPossessive} rear unveiled an unremarkably tiny, puckered point. Not what I expected.</li>
+            <li>Its existence was only hinted at by a faint crease. This smallness is utterly unimpressive.</li>
+            <li>The compact nature of her rear offers a barely visible, tight little point. Quite unappealing.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, a barely-there mark indicated a disappointingly small opening.</li>
+            <li>Her backside, while mature, presented a surprisingly constricted and tiny aperture. Not inspiring.</li>
+            <li>The sag of her older posterior hid a nearly imperceptible, tightly sealed orifice. A true disappointment.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale_observed_by_voyer</defName>
+        <label>Micro Anus (Negative)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I caught sight of her aging rear, but the tiny, nearly invisible opening was a huge letdown for a voyeur like me.</li>
+            <li>{PAWN_nameShortPossessive} behind, though mature, had a disappointingly constricted and small opening. Barely worth the gaze.</li>
+            <li>That sudden, brief sight of her backside only confirmed a frustratingly tight, miniscule pucker. What a waste.</li>
+            <li>Her butt’s deflated shape framed a minuscule, almost hidden orifice. This isn't what I signed up for.</li>
+            <li>I peered, hoping for a view, but {PAWN_nameShortPossessive} rear offered only a tiny, uninteresting crevice. My interest waned.</li>
+            <li>The visibility was so low, I almost missed that disappointingly small, puckered hole on her aging frame.</li>
+            <li>Her mature posterior revealed an unremarkably tight little opening. A brief, unsatisfying peek.</li>
+            <li>My voyeuristic efforts were rewarded with a barely visible, tiny point. Not much to observe there.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed aperture. So little to truly see.</li>
+            <li>A truly pathetic display. Her older butt concealed a nearly invisible, shriveled little mark. My curiosity died.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Micro Anus (Negative)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her sudden nudity showed a minuscule, almost sealed opening on that aging, shapeless butt. Pathetic.</li>
+            <li>{PAWN_nameShortPossessive} rear was exposed, yet her tiny, unappealing orifice barely registered. Why even bother?</li>
+            <li>I revealed myself, only to see her aged posterior with an almost invisible, tight little pucker. Unflattering.</li>
+            <li>Her saggy behind, put on display, only offered a disappointingly small crevice. What a sad sight.</li>
+            <li>The fact that {PAWN_nameShortPossessive} exposed herself, only for her rear to reveal such a tiny hole, is frankly embarrassing.</li>
+            <li>Such an unimpressive sight. Her mature buttocks and their nearly imperceptible, puckered mark. I'm disgusted.</li>
+            <li>She flaunted her mature posterior, but the tiny, constricted aperture was a gross miscalculation. So dull.</li>
+            <li>That exposed older butt had a disgustingly small, almost closed opening. A public embarrassment.</li>
+            <li>A pitiful display! Her aging, uninspiring rear featured a minuscule, nearly invisible point.</li>
+            <li>Her nude backside revealed a tight, tiny orifice that truly disappointed my exhibitionist nature. A waste of effort.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Micro Anus (Negative)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her middle-aged butt and its miniscule, almost sealed opening extinguished any desire. No pleasure here.</li>
+            <li>{PAWN_nameShortPossessive} behind, despite her age, has a disappointingly small, tight orifice. What a turn-off.</li>
+            <li>That sudden view of her mature rear revealed a frustratingly tiny, puckered hole. My craving just died.</li>
+            <li>Her sagging butt offered only a micro-sized, nearly hidden crevice. Nothing tempting about that.</li>
+            <li>My nymphomania seeks satisfaction, but {PAWN_nameShortPossessive} rear with its tiny opening offers none. Disappointing.</li>
+            <li>The sight of that barely visible, disappointingly small, puckered mark on her aging posterior repulsed me.</li>
+            <li>Her mature backside displayed an unremarkably tight, minuscule aperture. Absolutely no thrill here.</li>
+            <li>This elderly female's butt showed a disgustingly small, almost closed opening. No allure.</li>
+            <li>The uninspiring older posterior hid a nearly imperceptible, shriveled little point. It's so disappointing.</li>
+            <li>Her sag of her older behind offered a tiny, constricted orifice. Utterly unstimulating.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale_observed_by_Prude</defName>
+        <label>Micro Anus (Negative)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her exposed, aging backside and its tiny, almost invisible opening were frankly disgusting. What a horrible sight.</li>
+            <li>{PAWN_nameShortPossessive} visible rear with that minuscule, puckered mark made me profoundly uncomfortable. How indecent!</li>
+            <li>The sudden, crude display of her mature behind, with its disturbingly small opening, offended my sensibilities.</li>
+            <li>That butt, while old, presented a disgustingly tight, almost closed crevice. I wish I hadn't seen it.</li>
+            <li>{PAWN_nameShortPossessive} rear was visible, and its unremarkably tiny, puckered point was an unwelcome intrusion. So crude.</li>
+            <li>The very existence of such a barely hinted-at, small crease on her body is offensive. Cover it up!</li>
+            <li>The compact, unappealing nature of her exposed rear and its minuscule opening made me recoil. Disgraceful.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, that barely-there, small opening was an immodest, horrid sight.</li>
+            <li>Her backside, laid bare, presented a surprisingly constricted and tiny aperture. Utterly inappropriate.</li>
+            <li>The sag of her older posterior, revealing a nearly imperceptible, tightly sealed orifice, was truly repulsive.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale_observed_by_Young_male</defName>
+        <label>Micro Anus (Negative)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her saggy, middle-aged rear and its tiny, almost invisible opening were utterly unappealing. No interest at all.</li>
+            <li>{PAWN_nameShortPossessive} backside, though mature, has a disappointingly constricted and small orifice. A total turn-off.</li>
+            <li>That sudden, uninviting view of her butt revealed a frustratingly tight, miniscule pucker. Gross.</li>
+            <li>Her older butt offered a micro-sized, nearly hidden crevice. Not what a young man wants to see.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear, but its unremarkably tiny, puckered point killed any fleeting attraction.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on her aging frame was pathetic.</li>
+            <li>Her mature posterior displayed an unremarkably tight, minuscule aperture. So uninspiring and shriveled.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. Truly disappointing.</li>
+            <li>Her aging behind presented a surprisingly constricted and tiny opening. It looks like it’s never been used.</li>
+            <li>The sag of her older posterior, revealing a nearly imperceptible, tightly sealed mark, made me recoil.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale_observed_by_Young_female</defName>
+        <label>Micro Anus (Negative)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged butt and its tiny, almost invisible opening. What a sad, shriveled sight.</li>
+            <li>{PAWN_nameShortPossessive} backside, mature and flabby, revealed a disappointingly constricted, small mark. So unappealing.</li>
+            <li>That sudden view of her aging rear showed a frustratingly tight, miniscule pucker. Yuck.</li>
+            <li>Her older butt offered a micro-sized, nearly hidden crevice. Is that even functional?</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a definite turn-off.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on her aging frame was pathetic.</li>
+            <li>Her mature posterior displayed an unremarkably tight, minuscule aperture. I pity {PAWN_objective}.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. So uninspiring.</li>
+            <li>Her aging behind presented a surprisingly constricted and tiny opening. I hope mine never looks like that.</li>
+            <li>The sag of her older posterior, revealing a nearly imperceptible, tightly sealed mark, made me glad I'm young.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Micro Anus (Negative)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aging backside and its tiny, almost invisible opening were frankly disappointing. No appeal there.</li>
+            <li>{PAWN_nameShortPossessive} mature rear, with that minuscule, puckered mark, held no allure for me.</li>
+            <li>The sudden, crude display of her behind, with its disturbingly small opening, was a real turn-off.</li>
+            <li>That butt, while middle-aged, presented a disgustingly tight, almost closed crevice. Not what I look for.</li>
+            <li>{PAWN_nameShortPossessive} exposed rear, and its unremarkably tiny, puckered point, was a sad sight.</li>
+            <li>Its existence was barely hinted at by a faint crease. This smallness is utterly unimpressive.</li>
+            <li>The compact, unappealing nature of her exposed rear and its minuscule opening made me sigh.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, that barely-there, small opening was a truly disappointing view.</li>
+            <li>Her backside, laid bare, presented a surprisingly constricted and tiny aperture. Not inspiring any desire.</li>
+            <li>The sag of her middle-aged posterior, revealing a nearly imperceptible, tightly sealed orifice, was a letdown.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Micro Anus (Negative)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her middle-aged butt and its tiny, almost invisible opening. What a sad, uninspiring sight.</li>
+            <li>{PAWN_nameShortPossessive} aging backside revealed a disappointingly constricted, small mark. It's a bit grim.</li>
+            <li>That sudden view of her mature rear showed a frustratingly tight, miniscule pucker. Not ideal.</li>
+            <li>Her older butt offered a micro-sized, nearly hidden crevice. It just looks... unused.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a little concerning.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on her aging frame was pitiful.</li>
+            <li>Her mature posterior displayed an unremarkably tight, minuscule aperture. Not something to be proud of.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. It's quite sad.</li>
+            <li>Her aging behind presented a surprisingly constricted and tiny opening. A stark reminder of time's passage.</li>
+            <li>The sag of her older posterior, revealing a nearly imperceptible, tightly sealed mark, just made me feel old.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale_observed_by_Elder_male</defName>
+        <label>Micro Anus (Negative)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her middle-aged butt and its tiny, almost invisible opening. No youth left, no appeal.</li>
+            <li>{PAWN_nameShortPossessive} aged backside revealed a disappointingly constricted, small mark. Time has not been kind.</li>
+            <li>That sudden view of her mature rear showed a frustratingly tight, miniscule pucker. A shriveled disappointment.</li>
+            <li>Her older butt offered a micro-sized, nearly hidden crevice. Nothing of interest for an old dog like me.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was just depressing.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on her aging frame was a pathetic sight.</li>
+            <li>Her mature posterior displayed an unremarkably tight, minuscule aperture. Lifeless, no vibrancy.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. A fading flower.</li>
+            <li>Her aging behind presented a surprisingly constricted and tiny opening. The youth is gone.</li>
+            <li>The sag of her older posterior, revealing a nearly imperceptible, tightly sealed mark, truly embodies decay.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureFemale_observed_by_Elder_female</defName>
+        <label>Micro Anus (Negative)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her middle-aged butt and its tiny, almost invisible opening. She hasn't aged well at all.</li>
+            <li>{PAWN_nameShortPossessive} aged backside revealed a disappointingly constricted, small mark. It's a sad state.</li>
+            <li>That sudden view of her mature rear showed a frustratingly tight, miniscule pucker. Grim, even for her age.</li>
+            <li>Her older butt offered a micro-sized, nearly hidden crevice. Pathetic, just pathetic.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a stark reminder of decay.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on her aging frame was a sorry sight.</li>
+            <li>Her mature posterior displayed an unremarkably tight, minuscule aperture. She clearly let herself go.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. Truly dismal.</li>
+            <li>Her aging behind presented a surprisingly constricted and tiny opening. A sign of things to come, I suppose.</li>
+            <li>The sag of her older posterior, revealing a nearly imperceptible, tightly sealed mark, is a depressing sight.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+
+
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale</defName>
+        <label>Micro Anus (Negative)_MatureMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His flabby backside showed a disappointingly tiny orifice, nearly invisible. What a pathetic male.</li>
+            <li>The way {PAWN_nameShortPossessive} aging, drooping rear revealed a minuscule pucker. Barely noticeable, and thankfully so.</li>
+            <li>A sudden glimpse of a very small, almost nonexistent opening on that mature, deflated posterior. Disgusting.</li>
+            <li>That butt, once perhaps firm, now sags, offering a glimpse of a disturbingly tight, almost closed crevice. Revolting.</li>
+            <li>The unexpected view of {PAWN_nameShortPossessive} rear unveiled an unremarkably tiny, puckered point. Gross.</li>
+            <li>Its existence was only hinted at by a faint crease. This smallness is utterly unimpressive for a man.</li>
+            <li>The compact nature of his rear offers a barely visible, tight little point. Quite unappealing.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, a barely-there mark indicated a disappointingly small opening.</li>
+            <li>His backside, while mature, presented a surprisingly constricted and tiny aperture. Not masculine at all.</li>
+            <li>The sag of his older posterior hid a nearly imperceptible, tightly sealed orifice. A true turn-off.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale_observed_by_voyer</defName>
+        <label>Micro Anus (Negative)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I caught sight of his aging rear, but the tiny, nearly invisible opening was a huge letdown for a voyeur like me.</li>
+            <li>{PAWN_nameShortPossessive} behind, though mature, had a disappointingly constricted and small opening. Barely worth the gaze.</li>
+            <li>That sudden, brief sight of his backside only confirmed a frustratingly tight, miniscule pucker. What a waste.</li>
+            <li>His butt’s deflated shape framed a minuscule, almost hidden orifice. This isn't what I signed up for.</li>
+            <li>I peered, hoping for a view, but {PAWN_nameShortPossessive} rear offered only a tiny, uninteresting crevice. My interest waned.</li>
+            <li>The visibility was so low, I almost missed that disappointingly small, puckered hole on his aging frame.</li>
+            <li>His mature posterior revealed an unremarkably tight little opening. A brief, unsatisfying peek.</li>
+            <li>My voyeuristic efforts were rewarded with a barely visible, tiny point. Not much to observe there.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed aperture. So little to truly see.</li>
+            <li>A truly pathetic display. His older butt concealed a nearly invisible, shriveled little mark. My curiosity died.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Micro Anus (Negative)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His sudden nudity showed a minuscule, almost sealed opening on that aging, shapeless butt. Pathetic.</li>
+            <li>{PAWN_nameShortPossessive} rear was exposed, yet his tiny, unappealing orifice barely registered. Why even bother?</li>
+            <li>I revealed myself, only to see his aged posterior with an almost invisible, tight little pucker. Unflattering.</li>
+            <li>His saggy behind, put on display, only offered a disappointingly small crevice. What a sad sight.</li>
+            <li>The fact that {PAWN_nameShortPossessive} exposed himself, only for his rear to reveal such a tiny hole, is frankly embarrassing.</li>
+            <li>Such an unimpressive sight. His mature buttocks and their nearly imperceptible, puckered mark. I'm disgusted.</li>
+            <li>He flaunted his mature posterior, but the tiny, constricted aperture was a gross miscalculation. So dull.</li>
+            <li>That exposed older butt had a disgustingly small, almost closed opening. A public embarrassment.</li>
+            <li>A pitiful display! His aging, uninspiring rear featured a minuscule, nearly invisible point.</li>
+            <li>His nude backside revealed a tight, tiny orifice that truly disappointed my exhibitionist nature. A waste of effort.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Micro Anus (Negative)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His middle-aged butt and its miniscule, almost sealed opening extinguished any desire. No pleasure here.</li>
+            <li>{PAWN_nameShortPossessive} behind, despite his age, has a disappointingly small, tight orifice. What a turn-off.</li>
+            <li>That sudden view of his mature rear revealed a frustratingly tiny, puckered hole. My craving just died.</li>
+            <li>His sagging butt offered only a micro-sized, nearly hidden crevice. Nothing tempting about that.</li>
+            <li>My nymphomania seeks satisfaction, but {PAWN_nameShortPossessive} rear with its tiny opening offers none. Disappointing.</li>
+            <li>The sight of that barely visible, disappointingly small, puckered mark on his aging posterior repulsed me.</li>
+            <li>His mature backside displayed an unremarkably tight, minuscule aperture. Absolutely no thrill here.</li>
+            <li>This elderly male's butt showed a disgustingly small, almost closed opening. No allure.</li>
+            <li>The uninspiring older posterior hid a nearly imperceptible, shriveled little point. It's so disappointing.</li>
+            <li>His sag of his older behind offered a tiny, constricted orifice. Utterly unstimulating.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale_observed_by_Prude</defName>
+        <label>Micro Anus (Negative)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His exposed, aging backside and its tiny, almost invisible opening were frankly disgusting. What a horrible sight.</li>
+            <li>{PAWN_nameShortPossessive} visible rear with that minuscule, puckered mark made me profoundly uncomfortable. How indecent!</li>
+            <li>The sudden, crude display of his mature behind, with its disturbingly small opening, offended my sensibilities.</li>
+            <li>That butt, while old, presented a disgustingly tight, almost closed crevice. I wish I hadn't seen it.</li>
+            <li>{PAWN_nameShortPossessive} rear was visible, and its unremarkably tiny, puckered point was an unwelcome intrusion. So crude.</li>
+            <li>The very existence of such a barely hinted-at, small crease on his body is offensive. Cover it up!</li>
+            <li>The compact, unappealing nature of his exposed rear and its minuscule opening made me recoil. Disgraceful.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, that barely-there, small opening was an immodest, horrid sight.</li>
+            <li>His backside, laid bare, presented a surprisingly constricted and tiny aperture. Utterly inappropriate.</li>
+            <li>The sag of his older posterior, revealing a nearly imperceptible, tightly sealed orifice, was truly repulsive.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale_observed_by_Young_male</defName>
+        <label>Micro Anus (Negative)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His saggy, middle-aged rear and its tiny, almost invisible opening were utterly unappealing. No interest at all.</li>
+            <li>{PAWN_nameShortPossessive} backside, though mature, has a disappointingly constricted and small orifice. A total turn-off.</li>
+            <li>That sudden, uninviting view of his butt revealed a frustratingly tight, miniscule pucker. Gross.</li>
+            <li>His older butt offered a micro-sized, nearly hidden crevice. Not what a young man wants to see.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear, but its unremarkably tiny, puckered point killed any fleeting attraction.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on his aging frame was pathetic.</li>
+            <li>His mature posterior displayed an unremarkably tight, minuscule aperture. So uninspiring and shriveled.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. Truly disappointing.</li>
+            <li>His aging behind presented a surprisingly constricted and tiny opening. It looks like it’s never been used.</li>
+            <li>The sag of his older posterior, revealing a nearly imperceptible, tightly sealed mark, made me recoil.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale_observed_by_Young_female</defName>
+        <label>Micro Anus (Negative)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged butt and its tiny, almost invisible opening. What a sad, shriveled sight.</li>
+            <li>{PAWN_nameShortPossessive} backside, mature and flabby, revealed a disappointingly constricted, small mark. So unappealing.</li>
+            <li>That sudden view of his aging rear showed a frustratingly tight, miniscule pucker. Yuck.</li>
+            <li>His older butt offered a micro-sized, nearly hidden crevice. Is that even functional?</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a definite turn-off.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on his aging frame was pathetic.</li>
+            <li>His mature posterior displayed an unremarkably tight, minuscule aperture. I pity {PAWN_objective}.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. So uninspiring.</li>
+            <li>His aging behind presented a surprisingly constricted and tiny opening. I hope mine never looks like that.</li>
+            <li>The sag of his older posterior, revealing a nearly imperceptible, tightly sealed mark, made me glad I'm young.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Micro Anus (Negative)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aging backside and its tiny, almost invisible opening were frankly disappointing. No appeal there.</li>
+            <li>{PAWN_nameShortPossessive} mature rear, with that minuscule, puckered mark, held no allure for me.</li>
+            <li>The sudden, crude display of his behind, with its disturbingly small opening, was a real turn-off.</li>
+            <li>That butt, while middle-aged, presented a disgustingly tight, almost closed crevice. Not what I look for.</li>
+            <li>{PAWN_nameShortPossessive} exposed rear, and its unremarkably tiny, puckered point, was a sad sight.</li>
+            <li>Its existence was barely hinted at by a faint crease. This smallness is utterly unimpressive.</li>
+            <li>The compact, unappealing nature of his exposed rear and its minuscule opening made me sigh.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, that barely-there, small opening was a truly disappointing view.</li>
+            <li>His backside, laid bare, presented a surprisingly constricted and tiny aperture. Not inspiring any desire.</li>
+            <li>The sag of his middle-aged posterior, revealing a nearly imperceptible, tightly sealed orifice, was a letdown.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Micro Anus (Negative)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His middle-aged butt and its tiny, almost invisible opening. What a sad, uninspiring sight.</li>
+            <li>{PAWN_nameShortPossessive} aging backside revealed a disappointingly constricted, small mark. It's a bit grim.</li>
+            <li>That sudden view of his mature rear showed a frustratingly tight, miniscule pucker. Not ideal.</li>
+            <li>His older butt offered a micro-sized, nearly hidden crevice. It just looks... unused.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a little concerning.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on his aging frame was pitiful.</li>
+            <li>His mature posterior displayed an unremarkably tight, minuscule aperture. Not something to be proud of.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. It's quite sad.</li>
+            <li>His aging behind presented a surprisingly constricted and tiny opening. A stark reminder of time's passage.</li>
+            <li>The sag of his older posterior, revealing a nearly imperceptible, tightly sealed mark, just made me feel old.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Elder male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale_observed_by_Elder_male</defName>
+        <label>Micro Anus (Negative)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His middle-aged butt and its tiny, almost invisible opening. No youth left, no appeal.</li>
+            <li>{PAWN_nameShortPossessive} aged backside revealed a disappointingly constricted, small mark. Time has not been kind.</li>
+            <li>That sudden view of his mature rear showed a frustratingly tight, miniscule pucker. A shriveled disappointment.</li>
+            <li>His older butt offered a micro-sized, nearly hidden crevice. Nothing of interest for an old dog like me.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was just depressing.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on his aging frame was a pathetic sight.</li>
+            <li>His mature posterior displayed an unremarkably tight, minuscule aperture. Lifeless, no vibrancy.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. A fading flower.</li>
+            <li>His aging behind presented a surprisingly constricted and tiny opening. The youth is gone.</li>
+            <li>The sag of his older posterior, revealing a nearly imperceptible, tightly sealed mark, truly embodies decay.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MatureMale_observed_by_Elder_female</defName>
+        <label>Micro Anus (Negative)_MatureMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His middle-aged butt and its tiny, almost invisible opening. He hasn't aged well at all.</li>
+            <li>{PAWN_nameShortPossessive} aged backside revealed a disappointingly constricted, small mark. It's a sad state.</li>
+            <li>That sudden view of his mature rear showed a frustratingly tight, miniscule pucker. Grim, even for his age.</li>
+            <li>His older butt offered a micro-sized, nearly hidden crevice. Pathetic, just pathetic.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a stark reminder of decay.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on his aging frame was a sorry sight.</li>
+            <li>His mature posterior displayed an unremarkably tight, minuscule aperture. He clearly let himself go.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. Truly dismal.</li>
+            <li>His aging behind presented a surprisingly constricted and tiny opening. A sign of things to come, I suppose.</li>
+            <li>The sag of his older posterior, revealing a nearly imperceptible, tightly sealed mark, is a depressing sight.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale</defName>
+        <label>Micro Anus (Negative)_ElderFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her withered backside showed a disturbingly tiny orifice, almost vanished. Truly disgusting.</li>
+            <li>The way {PAWN_nameShortPossessive} ancient, shriveled rear revealed a minuscule pucker. Barely there, and thankfully so.</li>
+            <li>A sudden glimpse of a very small, almost nonexistent opening on that elderly, deflated posterior. Horrible.</li>
+            <li>That butt, once perhaps full, now hangs loose, offering a glimpse of a disturbing, almost sealed crevice. Revolting.</li>
+            <li>The unexpected view of {PAWN_nameShortPossessive} rear unveiled an unremarkably tiny, puckered point. Gross.</li>
+            <li>Its existence was only hinted at by a faint crease. This smallness is utterly unimpressive for a woman.</li>
+            <li>The compact nature of her rear offers a barely visible, tight little point. Quite unappealing.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, a barely-there mark indicated a disappointingly small opening.</li>
+            <li>Her backside, while elderly, presented a surprisingly constricted and tiny aperture. Not dignified.</li>
+            <li>The sag of her truly old posterior hid a nearly imperceptible, tightly sealed orifice. A true horror.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale_observed_by_voyer</defName>
+        <label>Micro Anus (Negative)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I caught sight of her ancient rear, but the tiny, nearly invisible opening was a huge letdown for a voyeur like me.</li>
+            <li>{PAWN_nameShortPossessive} behind, though elderly, had a disappointingly constricted and small opening. Barely worth the gaze.</li>
+            <li>That sudden, brief sight of her backside only confirmed a frustratingly tight, miniscule pucker. What a waste.</li>
+            <li>Her butt’s deflated shape framed a minuscule, almost hidden orifice. This isn't what I signed up for.</li>
+            <li>I peered, hoping for a view, but {PAWN_nameShortPossessive} rear offered only a tiny, uninteresting crevice. My interest waned.</li>
+            <li>The visibility was so low, I almost missed that disappointingly small, puckered hole on her aging frame.</li>
+            <li>Her mature posterior revealed an unremarkably tight little opening. A brief, unsatisfying peek.</li>
+            <li>My voyeuristic efforts were rewarded with a barely visible, tiny point. Not much to observe there.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed aperture. So little to truly see.</li>
+            <li>A truly pathetic display. Her older butt concealed a nearly invisible, shriveled little mark. My curiosity died.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Micro Anus (Negative)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her sudden nudity showed a minuscule, almost sealed opening on that aging, shapeless butt. Pathetic.</li>
+            <li>{PAWN_nameShortPossessive} rear was exposed, yet her tiny, unappealing orifice barely registered. Why even bother?</li>
+            <li>I revealed myself, only to see her aged posterior with an almost invisible, tight little pucker. Unflattering.</li>
+            <li>Her saggy behind, put on display, only offered a disappointingly small crevice. What a sad sight.</li>
+            <li>The fact that {PAWN_nameShortPossessive} exposed herself, only for her rear to reveal such a tiny hole, is frankly embarrassing.</li>
+            <li>Such an unimpressive sight. Her mature buttocks and their nearly imperceptible, puckered mark. I'm disgusted.</li>
+            <li>She flaunted her mature posterior, but the tiny, constricted aperture was a gross miscalculation. So dull.</li>
+            <li>That exposed older butt had a disgustingly small, almost closed opening. A public embarrassment.</li>
+            <li>A pitiful display! Her aging, uninspiring rear featured a minuscule, nearly invisible point.</li>
+            <li>Her nude backside revealed a tight, tiny orifice that truly disappointed my exhibitionist nature. A waste of effort.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Micro Anus (Negative)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elderly butt and its miniscule, almost sealed opening extinguished any desire. No pleasure here.</li>
+            <li>{PAWN_nameShortPossessive} behind, despite her age, has a disappointingly small, tight orifice. What a turn-off.</li>
+            <li>That sudden view of her ancient rear revealed a frustratingly tiny, puckered hole. My craving just died.</li>
+            <li>Her sagging butt offered only a micro-sized, nearly hidden crevice. Nothing tempting about that.</li>
+            <li>My nymphomania seeks satisfaction, but {PAWN_nameShortPossessive} rear with its tiny opening offers none. Disappointing.</li>
+            <li>The sight of that barely visible, disappointingly small, puckered mark on her aging posterior repulsed me.</li>
+            <li>Her elderly backside displayed an unremarkably tight, minuscule aperture. Absolutely no thrill here.</li>
+            <li>This elderly female's butt showed a disgustingly small, almost closed opening. No allure.</li>
+            <li>The uninspiring older posterior hid a nearly imperceptible, shriveled little point. It's so disappointing.</li>
+            <li>Her sag of her older behind offered a tiny, constricted orifice. Utterly unstimulating.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale_observed_by_Prude</defName>
+        <label>Micro Anus (Negative)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her exposed, elderly backside and its tiny, almost invisible opening were frankly disgusting. What a horrible sight.</li>
+            <li>{PAWN_nameShortPossessive} visible rear with that minuscule, puckered mark made me profoundly uncomfortable. How indecent!</li>
+            <li>The sudden, crude display of her ancient behind, with its disturbingly small opening, offended my sensibilities.</li>
+            <li>That butt, while old, presented a disgustingly tight, almost closed crevice. I wish I hadn't seen it.</li>
+            <li>{PAWN_nameShortPossessive} rear was visible, and its unremarkably tiny, puckered point was an unwelcome intrusion. So crude.</li>
+            <li>The very existence of such a barely hinted-at, small crease on her body is offensive. Cover it up!</li>
+            <li>The compact, unappealing nature of her exposed rear and its minuscule opening made me recoil. Disgraceful.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, that barely-there, small opening was an immodest, horrid sight.</li>
+            <li>Her backside, laid bare, presented a surprisingly constricted and tiny aperture. Utterly inappropriate.</li>
+            <li>The sag of her older posterior, revealing a nearly imperceptible, tightly sealed orifice, was truly repulsive.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale_observed_by_Young_male</defName>
+        <label>Micro Anus (Negative)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her saggy, elderly rear and its tiny, almost invisible opening were utterly unappealing. No interest at all.</li>
+            <li>{PAWN_nameShortPossessive} backside, though elderly, has a disappointingly constricted and small orifice. A total turn-off.</li>
+            <li>That sudden, uninviting view of her butt revealed a frustratingly tight, miniscule pucker. Gross.</li>
+            <li>Her ancient butt offered a micro-sized, nearly hidden crevice. Not what a young man wants to see.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear, but its unremarkably tiny, puckered point killed any fleeting attraction.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on her aging frame was pathetic.</li>
+            <li>Her elderly posterior displayed an unremarkably tight, minuscule aperture. So uninspiring and shriveled.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. Truly disappointing.</li>
+            <li>Her aging behind presented a surprisingly constricted and tiny opening. It looks like it’s never been used.</li>
+            <li>The sag of her older posterior, revealing a nearly imperceptible, tightly sealed mark, made me recoil.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale_observed_by_Young_female</defName>
+        <label>Micro Anus (Negative)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged butt and its tiny, almost invisible opening. What a sad, shriveled sight.</li>
+            <li>{PAWN_nameShortPossessive} backside, mature and flabby, revealed a disappointingly constricted, small mark. So unappealing.</li>
+            <li>That sudden view of her aging rear showed a frustratingly tight, miniscule pucker. Yuck.</li>
+            <li>Her older butt offered a micro-sized, nearly hidden crevice. Is that even functional?</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a definite turn-off.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on her aging frame was pathetic.</li>
+            <li>Her mature posterior displayed an unremarkably tight, minuscule aperture. I pity {PAWN_objective}.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. So uninspiring.</li>
+            <li>Her aging behind presented a surprisingly constricted and tiny opening. I hope mine never looks like that.</li>
+            <li>The sag of her older posterior, revealing a nearly imperceptible, tightly sealed mark, made me glad I'm young.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Micro Anus (Negative)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aging backside and its tiny, almost invisible opening were frankly disappointing. No appeal there.</li>
+            <li>{PAWN_nameShortPossessive} mature rear, with that minuscule, puckered mark, held no allure for me.</li>
+            <li>The sudden, crude display of her behind, with its disturbingly small opening, was a real turn-off.</li>
+            <li>That butt, while middle-aged, presented a disgustingly tight, almost closed crevice. Not what I look for.</li>
+            <li>{PAWN_nameShortPossessive} exposed rear, and its unremarkably tiny, puckered point, was a sad sight.</li>
+            <li>Its existence was barely hinted at by a faint crease. This smallness is utterly unimpressive.</li>
+            <li>The compact, unappealing nature of her exposed rear and its minuscule opening made me sigh.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, that barely-there, small opening was a truly disappointing view.</li>
+            <li>Her backside, laid bare, presented a surprisingly constricted and tiny aperture. Not inspiring any desire.</li>
+            <li>The sag of her middle-aged posterior, revealing a nearly imperceptible, tightly sealed orifice, was a letdown.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Micro Anus (Negative)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her middle-aged butt and its tiny, almost invisible opening. What a sad, uninspiring sight.</li>
+            <li>{PAWN_nameShortPossessive} aging backside revealed a disappointingly constricted, small mark. It's a bit grim.</li>
+            <li>That sudden view of her mature rear showed a frustratingly tight, miniscule pucker. Not ideal.</li>
+            <li>Her older butt offered a micro-sized, nearly hidden crevice. It just looks... unused.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a little concerning.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on her aging frame was pitiful.</li>
+            <li>Her mature posterior displayed an unremarkably tight, minuscule aperture. Not something to be proud of.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. It's quite sad.</li>
+            <li>Her aging behind presented a surprisingly constricted and tiny opening. A stark reminder of time's passage.</li>
+            <li>The sag of her older posterior, revealing a nearly imperceptible, tightly sealed mark, just made me feel old.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale_observed_by_Elder_male</defName>
+        <label>Micro Anus (Negative)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elderly butt and its tiny, almost invisible opening. No youth left, no appeal.</li>
+            <li>{PAWN_nameShortPossessive} ancient backside revealed a disappointingly constricted, small mark. Time has not been kind.</li>
+            <li>That sudden view of her shriveled rear showed a frustratingly tight, miniscule pucker. A ghastly disappointment.</li>
+            <li>Her decrepit butt offered a micro-sized, nearly hidden crevice. Nothing of interest for an old dog like me.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was just depressing.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on her aged frame was a pathetic sight.</li>
+            <li>Her elderly posterior displayed an unremarkably tight, minuscule aperture. Lifeless, no vibrancy.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. A fading, rotten flower.</li>
+            <li>Her ancient behind presented a surprisingly constricted and tiny opening. The youth is long gone.</li>
+            <li>The sag of her truly old posterior, revealing a nearly imperceptible, tightly sealed mark, truly embodies decay.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderFemale_observed_by_Elder_female</defName>
+        <label>Micro Anus (Negative)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elderly butt and its tiny, almost invisible opening. She hasn't aged well at all.</li>
+            <li>{PAWN_nameShortPossessive} ancient backside revealed a disappointingly constricted, small mark. It's a sad state.</li>
+            <li>That sudden view of her shriveled rear showed a frustratingly tight, miniscule pucker. Grim, even for her age.</li>
+            <li>Her decrepit butt offered a micro-sized, nearly hidden crevice. Pathetic, just pathetic.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a stark reminder of decay.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on her aged frame was a sorry sight.</li>
+            <li>Her elderly posterior displayed an unremarkably tight, minuscule aperture. She clearly let herself go.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. Truly dismal.</li>
+            <li>Her ancient behind presented a surprisingly constricted and tiny opening. A sign of things to come, I suppose.</li>
+            <li>The sag of her truly old posterior, revealing a nearly imperceptible, tightly sealed mark, is a depressing sight.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale</defName>
+        <label>Micro Anus (Negative)_ElderMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His withered backside showed a disturbingly tiny orifice, almost vanished. Truly disgusting.</li>
+            <li>The way {PAWN_nameShortPossessive} ancient, shriveled rear revealed a minuscule pucker. Barely there, and thankfully so.</li>
+            <li>A sudden glimpse of a very small, almost nonexistent opening on that elderly, deflated posterior. Horrible.</li>
+            <li>That butt, once perhaps full, now hangs loose, offering a glimpse of a disturbing, almost sealed crevice. Revolting.</li>
+            <li>The unexpected view of {PAWN_nameShortPossessive} rear unveiled an unremarkably tiny, puckered point. Gross.</li>
+            <li>Its existence was only hinted at by a faint crease. This smallness is utterly unimpressive for a man.</li>
+            <li>The compact nature of his rear offers a barely visible, tight little point. Quite unappealing.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, a barely-there mark indicated a disappointingly small opening.</li>
+            <li>His backside, while elderly, presented a surprisingly constricted and tiny aperture. Not dignified.</li>
+            <li>The sag of his truly old posterior hid a nearly imperceptible, tightly sealed orifice. A true horror.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale_observed_by_voyer</defName>
+        <label>Micro Anus (Negative)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I caught sight of his ancient rear, but the tiny, nearly invisible opening was a huge letdown for a voyeur like me.</li>
+            <li>{PAWN_nameShortPossessive} behind, though elderly, had a disappointingly constricted and small opening. Barely worth the gaze.</li>
+            <li>That sudden, brief sight of his backside only confirmed a frustratingly tight, miniscule pucker. What a waste.</li>
+            <li>His butt’s deflated shape framed a minuscule, almost hidden orifice. This isn't what I signed up for.</li>
+            <li>I peered, hoping for a view, but {PAWN_nameShortPossessive} rear offered only a tiny, uninteresting crevice. My interest waned.</li>
+            <li>The visibility was so low, I almost missed that disappointingly small, puckered hole on his aging frame.</li>
+            <li>His mature posterior revealed an unremarkably tight little opening. A brief, unsatisfying peek.</li>
+            <li>My voyeuristic efforts were rewarded with a barely visible, tiny point. Not much to observe there.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed aperture. So little to truly see.</li>
+            <li>A truly pathetic display. His older butt concealed a nearly invisible, shriveled little mark. My curiosity died.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Micro Anus (Negative)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His sudden nudity showed a minuscule, almost sealed opening on that aging, shapeless butt. Pathetic.</li>
+            <li>{PAWN_nameShortPossessive} rear was exposed, yet his tiny, unappealing orifice barely registered. Why even bother?</li>
+            <li>I revealed myself, only to see his aged posterior with an almost invisible, tight little pucker. Unflattering.</li>
+            <li>His saggy behind, put on display, only offered a disappointingly small crevice. What a sad sight.</li>
+            <li>The fact that {PAWN_nameShortPossessive} exposed himself, only for his rear to reveal such a tiny hole, is frankly embarrassing.</li>
+            <li>Such an unimpressive sight. His mature buttocks and their nearly imperceptible, puckered mark. I'm disgusted.</li>
+            <li>He flaunted his mature posterior, but the tiny, constricted aperture was a gross miscalculation. So dull.</li>
+            <li>That exposed older butt had a disgustingly small, almost closed opening. A public embarrassment.</li>
+            <li>A pitiful display! His aging, uninspiring rear featured a minuscule, nearly invisible point.</li>
+            <li>His nude backside revealed a tight, tiny orifice that truly disappointed my exhibitionist nature. A waste of effort.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Micro Anus (Negative)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His elderly butt and its miniscule, almost sealed opening extinguished any desire. No pleasure here.</li>
+            <li>{PAWN_nameShortPossessive} behind, despite his age, has a disappointingly small, tight orifice. What a turn-off.</li>
+            <li>That sudden view of his ancient rear revealed a frustratingly tiny, puckered hole. My craving just died.</li>
+            <li>His sagging butt offered only a micro-sized, nearly hidden crevice. Nothing tempting about that.</li>
+            <li>My nymphomania seeks satisfaction, but {PAWN_nameShortPossessive} rear with its tiny opening offers none. Disappointing.</li>
+            <li>The sight of that barely visible, disappointingly small, puckered mark on his aging posterior repulsed me.</li>
+            <li>His elderly backside displayed an unremarkably tight, minuscule aperture. Absolutely no thrill here.</li>
+            <li>This elderly male's butt showed a disgustingly small, almost closed opening. No allure.</li>
+            <li>The uninspiring older posterior hid a nearly imperceptible, shriveled little point. It's so disappointing.</li>
+            <li>His sag of his older behind offered a tiny, constricted orifice. Utterly unstimulating.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale_observed_by_Prude</defName>
+        <label>Micro Anus (Negative)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His exposed, elderly backside and its tiny, almost invisible opening were frankly disgusting. What a horrible sight.</li>
+            <li>{PAWN_nameShortPossessive} visible rear with that minuscule, puckered mark made me profoundly uncomfortable. How indecent!</li>
+            <li>The sudden, crude display of his ancient behind, with its disturbingly small opening, offended my sensibilities.</li>
+            <li>That butt, while old, presented a disgustingly tight, almost closed crevice. I wish I hadn't seen it.</li>
+            <li>{PAWN_nameShortPossessive} rear was visible, and its unremarkably tiny, puckered point was an unwelcome intrusion. So crude.</li>
+            <li>The very existence of such a barely hinted-at, small crease on his body is offensive. Cover it up!</li>
+            <li>The compact, unappealing nature of his exposed rear and its minuscule opening made me recoil. Disgraceful.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, that barely-there, small opening was an immodest, horrid sight.</li>
+            <li>His backside, laid bare, presented a surprisingly constricted and tiny aperture. Utterly inappropriate.</li>
+            <li>The sag of his older posterior, revealing a nearly imperceptible, tightly sealed orifice, was truly repulsive.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale_observed_by_Young_male</defName>
+        <label>Micro Anus (Negative)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His saggy, elderly rear and its tiny, almost invisible opening were utterly unappealing. No interest at all.</li>
+            <li>{PAWN_nameShortPossessive} backside, though elderly, has a disappointingly constricted and small orifice. A total turn-off.</li>
+            <li>That sudden, uninviting view of his butt revealed a frustratingly tight, miniscule pucker. Gross.</li>
+            <li>His ancient butt offered a micro-sized, nearly hidden crevice. Not what a young man wants to see.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear, but its unremarkably tiny, puckered point killed any fleeting attraction.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on his aging frame was pathetic.</li>
+            <li>His elderly posterior displayed an unremarkably tight, minuscule aperture. So uninspiring and shriveled.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. Truly disappointing.</li>
+            <li>His aging behind presented a surprisingly constricted and tiny opening. It looks like it’s never been used.</li>
+            <li>The sag of his older posterior, revealing a nearly imperceptible, tightly sealed mark, made me recoil.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale_observed_by_Young_female</defName>
+        <label>Micro Anus (Negative)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged butt and its tiny, almost invisible opening. What a sad, shriveled sight.</li>
+            <li>{PAWN_nameShortPossessive} backside, mature and flabby, revealed a disappointingly constricted, small mark. So unappealing.</li>
+            <li>That sudden view of his aging rear showed a frustratingly tight, miniscule pucker. Yuck.</li>
+            <li>His older butt offered a micro-sized, nearly hidden crevice. Is that even functional?</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a definite turn-off.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on his aging frame was pathetic.</li>
+            <li>His mature posterior displayed an unremarkably tight, minuscule aperture. I pity {PAWN_objective}.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. So uninspiring.</li>
+            <li>His aging behind presented a surprisingly constricted and tiny opening. I hope mine never looks like that.</li>
+            <li>The sag of his older posterior, revealing a nearly imperceptible, tightly sealed mark, made me glad I'm young.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Micro Anus (Negative)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aging backside and its tiny, almost invisible opening were frankly disappointing. No appeal there.</li>
+            <li>{PAWN_nameShortPossessive} mature rear, with that minuscule, puckered mark, held no allure for me.</li>
+            <li>The sudden, crude display of his behind, with its disturbingly small opening, was a real turn-off.</li>
+            <li>That butt, while middle-aged, presented a disgustingly tight, almost closed crevice. Not what I look for.</li>
+            <li>{PAWN_nameShortPossessive} exposed rear, and its unremarkably tiny, puckered point, was a sad sight.</li>
+            <li>Its existence was barely hinted at by a faint crease. This smallness is utterly unimpressive.</li>
+            <li>The compact, unappealing nature of his exposed rear and its minuscule opening made me sigh.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, that barely-there, small opening was a truly disappointing view.</li>
+            <li>His backside, laid bare, presented a surprisingly constricted and tiny aperture. Not inspiring any desire.</li>
+            <li>The sag of his middle-aged posterior, revealing a nearly imperceptible, tightly sealed orifice, was a letdown.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Micro Anus (Negative)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His middle-aged butt and its tiny, almost invisible opening. What a sad, uninspiring sight.</li>
+            <li>{PAWN_nameShortPossessive} aging backside revealed a disappointingly constricted, small mark. It's a bit grim.</li>
+            <li>That sudden view of his mature rear showed a frustratingly tight, miniscule pucker. Not ideal.</li>
+            <li>His older butt offered a micro-sized, nearly hidden crevice. It just looks... unused.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a little concerning.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on his aging frame was pitiful.</li>
+            <li>His mature posterior displayed an unremarkably tight, minuscule aperture. Not something to be proud of.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. It's quite sad.</li>
+            <li>His aging behind presented a surprisingly constricted and tiny opening. A stark reminder of time's passage.</li>
+            <li>The sag of his older posterior, revealing a nearly imperceptible, tightly sealed mark, just made me feel old.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale_observed_by_Elder_male</defName>
+        <label>Micro Anus (Negative)_ElderMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His elderly butt and its tiny, almost invisible opening. No youth left, no appeal.</li>
+            <li>{PAWN_nameShortPossessive} ancient backside revealed a disappointingly constricted, small mark. Time has not been kind.</li>
+            <li>That sudden view of his shriveled rear showed a frustratingly tight, miniscule pucker. A ghastly disappointment.</li>
+            <li>His decrepit butt offered a micro-sized, nearly hidden crevice. Nothing of interest for an old dog like me.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was just depressing.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on his aging frame was a pathetic sight.</li>
+            <li>His elderly posterior displayed an unremarkably tight, minuscule aperture. Lifeless, no vibrancy.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. A fading, rotten flower.</li>
+            <li>His ancient behind presented a surprisingly constricted and tiny opening. The youth is long gone.</li>
+            <li>The sag of his truly old posterior, revealing a nearly imperceptible, tightly sealed mark, truly embodies decay.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_ElderMale_observed_by_Elder_female</defName>
+        <label>Micro Anus (Negative)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His elderly butt and its tiny, almost invisible opening. He hasn't aged well at all.</li>
+            <li>{PAWN_nameShortPossessive} ancient backside revealed a disappointingly constricted, small mark. It's a sad state.</li>
+            <li>That sudden view of his shriveled rear showed a frustratingly tight, miniscule pucker. Grim, even for his age.</li>
+            <li>His decrepit butt offered a micro-sized, nearly hidden crevice. Pathetic, just pathetic.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} rear, and its unremarkably tiny, puckered point was a stark reminder of decay.</li>
+            <li>The visibility was so low, and that disappointingly small, puckered hole on his aged frame was a sorry sight.</li>
+            <li>His elderly posterior displayed an unremarkably tight, minuscule aperture. He clearly let himself go.</li>
+            <li>That glimpse of {PAWN_nameShortPossessive} backside: a small, almost closed orifice. Truly dismal.</li>
+            <li>His ancient behind presented a surprisingly constricted and tiny opening. A sign of things to come, I suppose.</li>
+            <li>The sag of his truly old posterior, revealing a nearly imperceptible, tightly sealed mark, is a depressing sight.</li>
+        </opinionTexts>
+</Def>
+</Defs>

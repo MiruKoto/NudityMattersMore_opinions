@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating</defName>
+        <label>Accommodating Anus (Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>I noticed {PAWN_nameShortPossessive} accommodating anus, it appears a bit more flexible, but I remain indifferent.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus that was slightly larger than average, with a relaxed outer ring that was inviting.</li>
+			<li>I examined {PAWN_nameShortPossessive} anus that was open and receptive, with a neutral curve that was accommodating.</li>
+			<li>I gazed upon {PAWN_nameShortPossessive} anus that was spacious and inviting, with a slightly wrinkled exterior.</li>
+			<li>I observed {PAWN_nameShortPossessive} anus that was slightly expanded, with a relaxed outer ring that was welcoming.</li>
+			<li>I examined {PAWN_nameShortPossessive} anus that was open and receptive, with a gentle curve that was inviting.</li>
+			<li>I gazed upon {PAWN_nameShortPossessive} anus that was generous in size, with a slightly folded exterior.</li>
+			<li>I observed {PAWN_nameShortPossessive} accommodating anus, noticing its slightly larger size and more relaxed shape. The opening was easily visible, with a gentle, sloping curve to the surrounding skin.</li>
+			<li>Upon closer inspection, I saw that {PAWN_nameShortPossessive} accommodating anus had a wider, more open rim, with the skin around it appearing slightly more pliable.</li>
+			<li>As I looked at it, I noted that {PAWN_nameShortPossessive} accommodating anus appeared almost like a small, shallow crater, with the skin around it slightly raised.</li>
+			<li>I discerned {PAWN_nameShortPossessive} accommodating anus: a generously-sized, yielding oval, embraced by resilient, yielding skin, unveiling a larger, more welcoming hole.</li>
+			<li>I analyzed {PAWN_nameShortPossessive} capacious, gaping cleft, adorned with flexible, unblemished skin, indicating an invitingly expandable entrance.</li>
+			<li>I examined {PAWN_nameShortPossessive} anus: a sizeable, elastic divide, swathed in adaptable, flawless skin, signaling a spacious, accommodating cavity.</li>
+            <!-- New opinions below -->
+            <li>The visible curvature of {PAWN_nameShortPossessive} butt suggested a relaxed, accommodating form. The anus itself appeared unconstricted, with visible folds.</li>
+            <li>{PAWN_nameShortPossessive} posterior displayed a gentle slope, leading to an anus that seemed quite open. It was an unremarkable, yet receptive-looking feature.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, the slightly distended shape hinted at an accommodating nature. The anus was distinctly visible, appearing somewhat yielding.</li>
+            <li>The moderate roundness of {PAWN_nameShortPossessive} butt framed an anus that seemed quite pliable. Its noticeable size suggested a readiness.</li>
+            <li>Upon noticing the exposed area, {PAWN_nameShortPossessive} anus appeared slightly dilated, nested within a soft, yielding posterior. A passive observation.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} anus was notable. It seemed to sit comfortably within a well-formed, somewhat rounded buttock.</li>
+            <li>A glance revealed {PAWN_nameShortPossessive} anus, seemingly larger than average, with a supple rim. The overall butt shape appeared naturally curved.</li>
+            <li>The shape of {PAWN_nameShortPossessive} butt was unremarkable, yet the anus showed a distinct, relaxed opening. Its visibility was unhindered.</li>
+            <li>{PAWN_nameShortPossessive} posterior had a generally soft form, and the anus within it looked quite capable of expansion. No particular reaction.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus. Its aperture appeared somewhat wide, situated within a subtly rounded butt, suggesting a flexible nature.</li>
+            <li>The exposed region showed {PAWN_nameShortPossessive} anus to be quite pronounced, resting in a butt with ample, accommodating curves.</li>
+            <li>Noticing {PAWN_nameShortPossessive} accommodating anal opening, it appeared quite visible due to its relaxed state, nestled in a moderately shaped posterior.</li>
+            <li>The contours of {PAWN_nameShortPossessive} butt were soft, leading to an anus that conveyed a sense of ease. It was a straightforward observation.</li>
+            <li>{PAWN_nameShortPossessive} anus seemed unforced, resting in a posterior that offered a gentle, yielding form. Its presence was simply noted.</li>
+            <li>With an unassuming posture, {PAWN_nameShortPossessive} butt framed an anus that appeared open and accepting. A neutral glance.</li>
+            <li>The visible part revealed an anus that seemed comfortably wide, integrated into a generally soft and rounded butt. It simply existed.</li>
+            <li>The relaxed set of {PAWN_nameShortPossessive} posterior gave way to an anus that was clearly visible and seemingly adaptable.</li>
+            <li>I caught sight of {PAWN_nameShortPossessive} anus. It possessed a soft, yielding appearance, situated on a gently curved buttock.</li>
+            <li>The anatomical presentation of {PAWN_nameShortPossessive} anus suggested a flexible opening. The butt was of average, soft proportions.</li>
+            <li>Observing the specific area, {PAWN_nameShortPossessive} anus appeared distinctly open, resting within a rather accommodating butt structure.</li>
+            <li>The moderate size and relaxed state of {PAWN_nameShortPossessive} anus were evident. Its surroundings, the butt, appeared unremarkable.</li>
+            <li>{PAWN_nameShortPossessive} posterior was subtly curved, presenting an anus that seemed quite pliant. It was neither impressive nor disappointing.</li>
+            <li>The visibility of {PAWN_nameShortPossessive} anus was high due to its relaxed, somewhat open nature, framed by a soft, unexceptional butt.</li>
+            <li>A fleeting glance confirmed {PAWN_nameShortPossessive} anus appeared receptive, its size implying a degree of pliability within a standard posterior.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} anus was due to its open appearance, situated on a well-proportioned, soft butt.</li>
+            <li>{PAWN_nameShortPossessive} posterior had a gentle slope, concluding with an anus that appeared readily open and yielding. A simple observation.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} butt was soft, with an anus that seemed relaxed and somewhat expanded.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus, noting its neutral, accommodating form, framed by a subtly rounded and unremarkable posterior.</li>
+            <li>The anatomical details of {PAWN_nameShortPossessive} anus suggested flexibility, sitting within a generally soft and acceptably shaped butt.</li>
+            <li>The sight of {PAWN_nameShortPossessive} anus, noticeably open and at ease, was set against a background of a naturally curved, adaptable butt.</li>
+        </opinionTexts>
+		</Def>
+    
+    
+	
+
+<!--Elder Male observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_Elderly_Male_opinion</defName>
+        <label>Accommodating Anus (Neutral)_Elderly_Male_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The young female's butt appeared well-formed, and the anus seemed relaxed; a youthful anatomical detail noted without particular comment.</li>
+            <li>{PAWN_nameShortPossessive} posterior showed a soft curve, with the anus seeming quite pliable. It was a common sight, nothing more.</li>
+            <li>I observed the young female's butt, noticing its gentle contours. The anus was visible, appearing neither tight nor overly open.</li>
+            <li>The youthful roundness of {PAWN_nameShortPossessive} butt was apparent, and the anus looked rather yielding. A neutral assessment.</li>
+            <li>A brief glance at {PAWN_nameShortPossessive} backside revealed an anus that seemed accommodating, framed by a standard, young female posterior.</li>
+            <li>The appearance of {PAWN_nameShortPossessive} butt was typical for her age, with an anus that presented itself as unforced and relaxed.</li>
+            <li>I noted the subtle fullness of the young female's butt, and how the anus appeared soft and somewhat receptive. Just an observation.</li>
+            <li>The curve of {PAWN_nameShortPossessive} posterior was smooth, leading to an anus that looked rather pliant. It was a normal anatomical structure.</li>
+            <li>Her youthful butt had a gentle lift, revealing an anus that seemed adequately open. It blended into the overall form.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. The anus seemed average in size, somewhat relaxed, nestled within a naturally curved young butt.</li>
+            <li>The young female's posterior offered a soft, standard shape. The anus itself appeared unconstricted, visible but not prominent.</li>
+            <li>{PAWN_nameShortPossessive} butt appeared subtly rounded, with an anus that conveyed a yielding nature. An unremarkable, yet present, detail.</li>
+            <li>Observing the youthful form, {PAWN_nameShortPossessive} anus seemed neither too small nor too large, just a naturally accommodating opening.</li>
+            <li>The contours of her butt were gentle, framing an anus that appeared soft and somewhat pliable. It was a simple observation of youth.</li>
+            <li>Her posterior had a modest curve, leading to an anus that looked open and at ease. It reflected typical youthful anatomy.</li>
+            <li>The exposed area of {PAWN_nameShortPossessive} butt indicated a common, relaxed form. Her anus was visible, appearing neutral.</li>
+            <li>I noticed the typical youthful shaping of {PAWN_nameShortPossessive} posterior, with an anus that seemed naturally yielding.</li>
+            <li>The youthful butt of {PAWN_nameShortPossessive} was gently rounded, and the anus within appeared to be of an accommodating size.</li>
+            <li>Her backside offered a standard, soft appearance. The anus was plainly visible, with a relaxed, receptive look.</li>
+            <li>{PAWN_nameShortPossessive} posterior had a smooth, unassuming curve, ending in an anus that seemed quite open and pliable.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} butt, appearing youthful and firm, yet the anus showed a relaxed aspect.</li>
+            <li>The young female's anatomy was presented. Her butt had a soft, natural curve, and the anus appeared to be of a yielding disposition.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior was consistent with her age, and the anus seemed to be in a comfortable, accommodating state.</li>
+            <li>I observed {PAWN_nameShortPossessive} butt, noting its common youthful shape, with an anus that seemed to be neutrally open.</li>
+            <li>Her rear presented a gentle, soft appearance. The anus, quite visible, seemed to be relaxed and not constricted.</li>
+            <li>The curve of {PAWN_nameShortPossessive} butt was subtle, and the anus looked soft and yielding, a typical anatomical detail.</li>
+            <li>A quick look revealed {PAWN_nameShortPossessive} young female butt with an anus that seemed accommodating and appropriately sized.</li>
+            <li>The posterior of {PAWN_nameShortPossessive} was of a standard youthful development, with an anus that appeared neutral and relaxed.</li>
+            <li>I noticed the unadorned, natural presentation of {PAWN_nameShortPossessive} butt. Her anus was visible, appearing to be of an average, soft form.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} youthful butt was of a natural shape, and the anus within seemed pliable and open.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young females butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_Elderly_Male_voyer_opinion</defName>
+        <label>Accommodating Anus (Neutral)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} youthful, soft butt displayed an anus that seemed quite open, a sight that stirred a familiar, quiet response within me.</li>
+            <li>Her relaxed posterior and clearly visible, accommodating anus sent a subtle throb through my loins. A private indulgence.</li>
+            <li>That young female's yielding butt and receptive-looking anus certainly caught my eye, eliciting an old, familiar stir.</li>
+            <li>The soft, pliable nature of {PAWN_nameShortPossessive} rear, especially her open anus, offered a distinct, quiet warmth in my groin.</li>
+            <li>I found my gaze drawn to {PAWN_nameShortPossessive} accommodating anus, sitting invitingly within her soft, youthful butt. A faint tremor.</li>
+            <li>Observing the slight distension of {PAWN_nameShortPossessive} anus, nestled in her youthful buttocks, a certain familiar urge stirred.</li>
+            <li>Her subtly rounded butt and the visible, yielding anus triggered a predictable, internal response. A moment for myself.</li>
+            <li>The young female's posterior, with its openly accommodating anus, felt rather stimulating; a sensation I know well.</li>
+            <li>{PAWN_nameShortPossessive} flexible-looking anus and soft, youthful butt held my attention, a quiet resonance starting below my belt.</li>
+            <li>That receptive opening on {PAWN_nameShortPossessive} youthful backside caused a subtle but undeniable sensation, a private moment.</li>
+            <li>A definite pliability was evident in {PAWN_nameShortPossessive} anus, framed by her soft butt, a sight that kindled a slow, persistent ache.</li>
+            <li>The generous appearance of her anus, nestled within {PAWN_nameShortPossessive} firm young butt, sent a noticeable pulse through me.</li>
+            <li>I lingered on {PAWN_nameShortPossessive} relaxed anus. Her youthful posterior seemed to beckon, stirring an insistent hum down there.</li>
+            <li>The open nature of {PAWN_nameShortPossessive} anus, combined with her soft, youthful butt, brought a familiar, tingling awareness.</li>
+            <li>Her inviting rear, particularly the visible, yielding anus, provoked a distinct, internal stirring. My body knows this feeling.</li>
+            <li>The subtle yielding of {PAWN_nameShortPossessive} posterior, and the clear sight of her accommodating anus, gave me a private thrill.</li>
+            <li>I took note of her young, rounded butt and the visible, somewhat expanded anus, which caused a familiar warmth to spread.</li>
+            <li>The sight of {PAWN_nameShortPossessive} pliable anus, nestled in her soft, youthful butt, brought a predictable, quiet internal shift.</li>
+            <li>Her inviting posterior, particularly the seemingly eager anus, evoked a known, subtle physical response. A private pleasure.</li>
+            <li>That accommodating aperture on {PAWN_nameShortPossessive} youthful butt certainly got my attention, sparking a gentle, familiar twitch.</li>
+            <li>The relaxed curve of {PAWN_nameShortPossessive} butt and the open aspect of her anus presented a sight that resonated deeply within me.</li>
+            <li>I found myself observing her accommodating anus, its soft, inviting appearance amidst her youthful butt. A definite response.</li>
+            <li>The visible receptiveness of {PAWN_nameShortPossessive} anus, framed by her firm young butt, caused an undeniable and specific internal movement.</li>
+            <li>Her softly presented posterior, with an anus that appeared quite yielding, stirred a familiar, quiet and persistent longing.</li>
+            <li>The subtle spread of {PAWN_nameShortPossessive} anus, and her youthfully curved butt, ignited a subtle, well-known sensation.</li>
+            <li>I noted the open appearance of {PAWN_nameShortPossessive} anus, set within her soft young butt. It evoked a familiar, low thrum.</li>
+            <li>The sight of her accommodating anus, positioned within a youthful and plump posterior, generated a familiar, private, stirring feeling.</li>
+            <li>{PAWN_nameShortPossessive} butt, subtly rounded, and the open look of her anus, caught my gaze. A quiet, insistent demand arose.</li>
+            <li>The visible pliability of her anus, nestled in her youthful, inviting butt, called forth a response from deep within my loins.</li>
+            <li>Her relaxed posterior, combined with the clearly visible and seemingly eager anus, caused a very specific, undeniable physical reaction.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_Elderly_Female_opinion</defName>
+        <label>Accommodating Anus (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her young butt showed a soft curve, and the anus seemed relaxed; a common enough sight among younger females.</li>
+            <li>{PAWN_nameShortPossessive} posterior was gently rounded, with an anus that appeared quite pliable. Nothing unusual to note.</li>
+            <li>I observed {PAWN_nameShortPossessive} youthful butt, noticing its natural contours. The anus was visible, neither constricted nor overly prominent.</li>
+            <li>The young female's butt displayed a subtle fullness, and the anus looked rather yielding. It's a typical youthful form.</li>
+            <li>A brief glance at {PAWN_nameShortPossessive} backside revealed an anus that seemed accommodating, framed by a standard young female posterior.</li>
+            <li>The appearance of {PAWN_nameShortPossessive} butt was normal for her age, with an anus that presented as unforced and relaxed.</li>
+            <li>I noted the gentle curve of the young female's butt, and how the anus appeared soft and somewhat receptive. A usual sight.</li>
+            <li>The curve of {PAWN_nameShortPossessive} posterior was smooth, leading to an anus that looked rather pliant. It's an ordinary anatomical structure.</li>
+            <li>Her youthful butt had a slight lift, revealing an anus that seemed adequately open. It blended into the overall form.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. The anus seemed average in size, somewhat relaxed, nestled within a naturally curved young butt.</li>
+            <li>The young female's posterior offered a soft, standard shape. The anus itself appeared unconstricted, visible but not prominent.</li>
+            <li>{PAWN_nameShortPossessive} butt appeared subtly rounded, with an anus that conveyed a yielding nature. An unremarkable, yet present, detail.</li>
+            <li>Observing the youthful form, {PAWN_nameShortPossessive} anus seemed neither too small nor too large, just a naturally accommodating opening.</li>
+            <li>The contours of her butt were gentle, framing an anus that appeared soft and somewhat pliable. It was a simple observation of youth.</li>
+            <li>Her posterior had a modest curve, leading to an anus that looked open and at ease. It reflected typical youthful anatomy.</li>
+            <li>The exposed area of {PAWN_nameShortPossessive} butt indicated a common, relaxed form. Her anus was visible, appearing neutral.</li>
+            <li>I noticed the typical youthful shaping of {PAWN_nameShortPossessive} posterior, with an anus that seemed naturally yielding.</li>
+            <li>The youthful butt of {PAWN_nameShortPossessive} was gently rounded, and the anus within appeared to be of an accommodating size.</li>
+            <li>Her backside offered a standard, soft appearance. The anus was plainly visible, with a relaxed, receptive look.</li>
+            <li>{PAWN_nameShortPossessive} posterior had a smooth, unassuming curve, ending in an anus that seemed quite open and pliable.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} butt, appearing youthful and firm, yet the anus showed a relaxed aspect.</li>
+            <li>The young female's anatomy was presented. Her butt had a soft, natural curve, and the anus appeared to be of a yielding disposition.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior was consistent with her age, and the anus seemed to be in a comfortable, accommodating state.</li>
+            <li>I observed {PAWN_nameShortPossessive} butt, noting its common youthful shape, with an anus that seemed to be neutrally open.</li>
+            <li>Her rear presented a gentle, soft appearance. The anus, quite visible, seemed to be relaxed and not constricted.</li>
+            <li>The curve of {PAWN_nameShortPossessive} butt was subtle, and the anus looked soft and yielding, a typical anatomical detail.</li>
+            <li>A quick look revealed {PAWN_nameShortPossessive} young female butt with an anus that seemed accommodating and appropriately sized.</li>
+            <li>The posterior of {PAWN_nameShortPossessive} was of a standard youthful development, with an anus that appeared neutral and relaxed.</li>
+            <li>I noticed the unadorned, natural presentation of {PAWN_nameShortPossessive} butt. Her anus was visible, appearing to be of an average, soft form.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} youthful butt was of a natural shape, and the anus within seemed pliable and open.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young male observes young females butt and anus, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_MaleOpinion</defName>
+        <label>Accommodating Anus (Neutral)_MaleOpinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her softly contoured butt and the accommodating look of her anus were certainly noticeable; a rather inviting presentation.</li>
+            <li>I noticed {PAWN_nameShortPossessive} posterior; its gentle curves led to an anus that seemed quite receptive. It was a compelling sight.</li>
+            <li>The youthful roundness of {PAWN_nameShortPossessive} butt was evident, and her anus appeared notably pliable. Quite stimulating.</li>
+            <li>A glance at {PAWN_nameShortPossessive} backside revealed an anus that seemed accommodating and easily visible, framed by her appealing posterior.</li>
+            <li>Her butt appeared soft and well-shaped, with an anus that presented itself as unforced and rather welcoming. Quite a view.</li>
+            <li>I observed the subtle fullness of {PAWN_nameShortPossessive} butt, and how the anus appeared soft and distinctly receptive. Very alluring.</li>
+            <li>The curve of {PAWN_nameShortPossessive} posterior was smooth, leading to an anus that looked rather pliant and ready. A provocative detail.</li>
+            <li>Her youthful butt had a noticeable lift, revealing an anus that seemed amply open. It made me wonder.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. The anus seemed generous in size, somewhat relaxed, nestled within a naturally curved young butt. Intriguing.</li>
+            <li>The young female's posterior offered a soft, appealing shape. The anus itself appeared unconstricted, visible and quite inviting.</li>
+            <li>{PAWN_nameShortPossessive} butt appeared subtly rounded and firm, with an anus that conveyed a yielding, enticing nature. Very attractive.</li>
+            <li>Observing the youthful form, {PAWN_nameShortPossessive} anus seemed notably open and accommodating. It presented a compelling invitation.</li>
+            <li>The contours of her butt were gentle, framing an anus that appeared soft and distinctly pliable. It caught my attention.</li>
+            <li>Her posterior had a modest, alluring curve, leading to an anus that looked open and at ease. Quite appealing.</li>
+            <li>The exposed area of {PAWN_nameShortPossessive} butt indicated a soft, inviting form. Her anus was visible, appearing receptive.</li>
+            <li>I noticed the appealing youthful shaping of {PAWN_nameShortPossessive} posterior, with an anus that seemed naturally yielding and open.</li>
+            <li>The youthful butt of {PAWN_nameShortPossessive} was gently rounded and firm, and the anus within appeared to be of an accommodating size.</li>
+            <li>Her backside offered an attractive, soft appearance. The anus was plainly visible, with a relaxed, receptive look. Definitely interesting.</li>
+            <li>{PAWN_nameShortPossessive} posterior had a smooth, unassuming curve, ending in an anus that seemed quite open and pliable.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} butt, appearing youthful and firm, yet the anus showed a very relaxed aspect.</li>
+            <li>The young female's anatomy was presented. Her butt had a soft, natural curve, and the anus appeared to be of a yielding disposition.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior was consistent with her age, and the anus seemed to be in a comfortable, accommodating state.</li>
+            <li>I observed {PAWN_nameShortPossessive} butt, noting its common youthful shape, with an anus that seemed to be neutrally open.</li>
+            <li>Her rear presented a gentle, soft appearance. The anus, quite visible, seemed to be relaxed and not constricted.</li>
+            <li>The curve of {PAWN_nameShortPossessive} butt was subtle, and the anus looked soft and yielding, a typical anatomical detail.</li>
+            <li>A quick look revealed {PAWN_nameShortPossessive} young female butt with an anus that seemed accommodating and appropriately sized.</li>
+            <li>The posterior of {PAWN_nameShortPossessive} was of a standard youthful development, with an anus that appeared neutral and relaxed.</li>
+            <li>I noticed the unadorned, natural presentation of {PAWN_nameShortPossessive} butt. Her anus was visible, appearing to be of an average, soft form.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} youthful butt was of a natural shape, and the anus within seemed pliable and open.</li>
+            <li>Her subtly rounded butt, paired with the visibly accommodating anus, created an enticing picture. It left a distinct impression.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes unisex butt and anus -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Voyeur</defName>
+        <label>Accommodating Anus (Neutral) trait Voyeur</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The accommodating set of {PAWN_nameShortPossessive} butt, and the clearly visible anus, was quite a compelling sight. I found myself lingering.</li>
+            <li>I caught sight of {PAWN_nameShortPossessive} posterior; the soft curve and noticeably relaxed anus were rather absorbing.</li>
+            <li>Observing {PAWN_nameShortPossessive} exposed rear, the subtle distension of the anus, nestled in a yielding butt, drew my gaze.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} anus, set within a comfortably rounded butt, was certainly worth a second look.</li>
+            <li>{PAWN_nameShortPossessive} posterior's accommodating shape, especially the visible and pliable anus, held my attention for a good while.</li>
+            <li>That relaxed posterior, revealing an openly accommodating anus, was a private fascination. It captured my full attention.</li>
+            <li>The sight of {PAWN_nameShortPossessive} soft, well-formed butt, and its clearly receptive anus, proved quite captivating.</li>
+            <li>I noted the inviting contours of {PAWN_nameShortPossessive} butt, and the open, yielding nature of the anus. An intriguing visual.</li>
+            <li>The way {PAWN_nameShortPossessive} butt subtly spread, exposing an accommodating anus, was something I couldn't help but appreciate.</li>
+            <li>My eyes lingered on {PAWN_nameShortPossessive} posterior. The relaxed anus, visible and seemingly welcoming, was a quiet spectacle.</li>
+            <li>The unforced presentation of {PAWN_nameShortPossessive} butt, combined with the clear, receptive anus, made for a compelling observation.</li>
+            <li>I absorbed the details of {PAWN_nameShortPossessive} accommodating anus, sitting noticeably open within a generously curved butt. Rather absorbing.</li>
+            <li>The pronounced pliability of {PAWN_nameShortPossessive} anus, framed by a soft, yielding posterior, truly held my gaze.</li>
+            <li>{PAWN_nameShortPossessive} butt's gentle slope led to an anus that seemed quite open and ready. A delightful, private viewing.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} rear, particularly the yielding anus, was quite something to behold, quietly.</li>
+            <li>I noted the uninhibited posture of {PAWN_nameShortPossessive} butt, allowing for a clear view of the accommodating anus. Very satisfying.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} posterior and the visible, relaxed anus were an engaging sight. I lingered.</li>
+            <li>The soft, unresisting presentation of {PAWN_nameShortPossessive} butt, and the accommodating anus, offered a distinct, private pleasure.</li>
+            <li>My gaze settled on {PAWN_nameShortPossessive} anus. Its open, welcoming appearance, within a nicely curved butt, was quite a spectacle.</li>
+            <li>The subtle invitation in the way {PAWN_nameShortPossessive} posterior curved, and the apparent pliability of the anus, was very intriguing.</li>
+            <li>I found myself observing the relaxed state of {PAWN_nameShortPossessive} anus, prominently displayed by a naturally accommodating butt.</li>
+            <li>The clear visibility of {PAWN_nameShortPossessive} anus, combined with the soft, yielding shape of the butt, was quite stimulating.</li>
+            <li>{PAWN_nameShortPossessive} butt offered a comfortable frame for an anus that seemed quite receptive. A lingering, appreciative glance.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, particularly the accommodating and somewhat open anus, was definitely captivating.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus, noting its relaxed, generous form, framed by a softly curved and inviting butt.</li>
+            <li>The anatomical details of {PAWN_nameShortPossessive} anus suggested flexibility, sitting noticeably open within an agreeably shaped posterior.</li>
+            <li>The soft contours of {PAWN_nameShortPossessive} butt and the clearly presented anus were quite a draw. My attention was held.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered an unrestricted view of an anus that seemed quite pliable. A quietly absorbing sight.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} anus, set within a well-proportioned butt, was something I appreciated greatly.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} accommodating anus, visibly open and nestled within a yielding, inviting posterior.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Voyeur_M</defName>
+        <label>Accommodating Anus (Neutral) trait Voyeur_M</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} youthful, soft butt displayed an anus that seemed quite open, a sight that stirred a familiar, quiet response within my loins.</li>
+            <li>Her relaxed posterior and clearly visible, accommodating anus sent a distinct throb through me. A pleasurable, private indulgence.</li>
+            <li>That young female's yielding butt and receptive-looking anus certainly caught my eye, eliciting an old, familiar stir, and a noticeable rise.</li>
+            <li>The soft, pliable nature of {PAWN_nameShortPossessive} rear, especially her open anus, offered a distinct, quiet warmth in my groin.</li>
+            <li>I found my gaze drawn to {PAWN_nameShortPossessive} accommodating anus, sitting invitingly within her soft, youthful butt. A faint tremor below.</li>
+            <li>Observing the slight distension of {PAWN_nameShortPossessive} anus, nestled in her youthful buttocks, a certain familiar urge stirred, and I felt myself hardening.</li>
+            <li>Her subtly rounded butt and the visible, yielding anus triggered a predictable, internal response. A moment for myself, and a stiffening.</li>
+            <li>The young female's posterior, with its openly accommodating anus, felt rather stimulating; a sensation I know well, accompanied by a growing tightness.</li>
+            <li>{PAWN_nameShortPossessive} flexible-looking anus and soft, youthful butt held my attention, a quiet resonance starting below my belt, and a distinct fullness.</li>
+            <li>That receptive opening on {PAWN_nameShortPossessive} youthful backside caused a subtle but undeniable sensation, a private moment, and a definite swelling.</li>
+            <li>A definite pliability was evident in {PAWN_nameShortPossessive} anus, framed by her soft butt, a sight that kindled a slow, persistent ache in my groin.</li>
+            <li>The generous appearance of her anus, nestled within {PAWN_nameShortPossessive} firm young butt, sent a noticeable pulse through me, causing my own parts to twitch.</li>
+            <li>I lingered on {PAWN_nameShortPossessive} relaxed anus. Her youthful posterior seemed to beckon, stirring an insistent hum down there, and a hard response.</li>
+            <li>The open nature of {PAWN_nameShortPossessive} anus, combined with her soft, youthful butt, brought a familiar, tingling awareness, and a rising heat.</li>
+            <li>Her inviting rear, particularly the visible, yielding anus, provoked a distinct, internal stirring. My body knows this feeling, and reacts accordingly.</li>
+            <li>The subtle yielding of {PAWN_nameShortPossessive} posterior, and the clear sight of her accommodating anus, gave me a private thrill, a tightening in my trousers.</li>
+            <li>I took note of her young, rounded butt and the visible, somewhat expanded anus, which caused a familiar warmth to spread, and a distinct hardening.</li>
+            <li>The sight of {PAWN_nameShortPossessive} pliable anus, nestled in her soft, youthful butt, brought a predictable, quiet internal shift, and a noticeable engorgement.</li>
+            <li>Her inviting posterior, particularly the seemingly eager anus, evoked a known, subtle physical response. A private pleasure, and a palpable excitement.</li>
+            <li>That accommodating aperture on {PAWN_nameShortPossessive} youthful butt certainly got my attention, sparking a gentle, familiar twitch and a noticeable erection.</li>
+            <li>The relaxed curve of {PAWN_nameShortPossessive} butt and the open aspect of her anus presented a sight that resonated deeply within me, causing my member to stir.</li>
+            <li>I found myself observing her accommodating anus, its soft, inviting appearance amidst her youthful butt. A definite response, and a quickening pulse below.</li>
+            <li>The visible receptiveness of {PAWN_nameShortPossessive} anus, framed by her firm young butt, caused an undeniable and specific internal movement, a rising stiffness.</li>
+            <li>Her softly presented posterior, with an anus that appeared quite yielding, stirred a familiar, quiet and persistent longing, and a palpable hardening.</li>
+            <li>The subtle spread of {PAWN_nameShortPossessive} anus, and her youthfully curved butt, ignited a subtle, well-known sensation, and a strong physical reaction.</li>
+            <li>I noted the open appearance of {PAWN_nameShortPossessive} anus, set within her soft young butt. It evoked a familiar, low thrum, and an undeniable erection.</li>
+            <li>The sight of her accommodating anus, positioned within a youthful and plump posterior, generated a familiar, private, stirring feeling, making my groin tighten.</li>
+            <li>{PAWN_nameShortPossessive} butt, subtly rounded, and the open look of her anus, caught my gaze. A quiet, insistent demand arose, and my pants felt snug.</li>
+            <li>The visible pliability of her anus, nestled in her youthful, inviting butt, called forth a response from deep within my loins, a powerful urge.</li>
+            <li>Her relaxed posterior, combined with the clearly visible and seemingly eager anus, caused a very specific, undeniable physical reaction, confirming my lust.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Voyeur_F</defName>
+        <label>Accommodating Anus (Neutral) trait Voyeur_F</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} youthful, soft butt displayed an anus that seemed quite open, a sight that stirred a familiar, quiet response within me.</li>
+            <li>Her relaxed posterior and clearly visible, accommodating anus sent a distinct throb through me. A pleasurable, private indulgence.</li>
+            <li>That young female's yielding butt and receptive-looking anus certainly caught my eye, eliciting an old, familiar stir, a warmth spreading.</li>
+            <li>The soft, pliable nature of {PAWN_nameShortPossessive} rear, especially her open anus, offered a distinct, quiet warmth in my own depths.</li>
+            <li>I found my gaze drawn to {PAWN_nameShortPossessive} accommodating anus, sitting invitingly within her soft, youthful butt. A faint tremor below.</li>
+            <li>Observing the slight distension of {PAWN_nameShortPossessive} anus, nestled in her youthful buttocks, a certain familiar urge stirred within me.</li>
+            <li>Her subtly rounded butt and the visible, yielding anus triggered a predictable, internal response. A moment for myself, and a pleasant flush.</li>
+            <li>The young female's posterior, with its openly accommodating anus, felt rather stimulating; a sensation I know well, and a quiet ache.</li>
+            <li>{PAWN_nameShortPossessive} flexible-looking anus and soft, youthful butt held my attention, a quiet resonance starting below my abdomen.</li>
+            <li>That receptive opening on {PAWN_nameShortPossessive} youthful backside caused a subtle but undeniable sensation, a private moment of yearning.</li>
+            <li>A definite pliability was evident in {PAWN_nameShortPossessive} anus, framed by her soft butt, a sight that kindled a slow, persistent ache within.</li>
+            <li>The generous appearance of her anus, nestled within {PAWN_nameShortPossessive} firm young butt, sent a noticeable pulse through me, a familiar stir.</li>
+            <li>I lingered on {PAWN_nameShortPossessive} relaxed anus. Her youthful posterior seemed to beckon, stirring an insistent hum down there.</li>
+            <li>The open nature of {PAWN_nameShortPossessive} anus, combined with her soft, youthful butt, brought a familiar, tingling awareness, and a rising heat.</li>
+            <li>Her inviting rear, particularly the visible, yielding anus, provoked a distinct, internal stirring. My body knows this feeling, and responds.</li>
+            <li>The subtle yielding of {PAWN_nameShortPossessive} posterior, and the clear sight of her accommodating anus, gave me a private thrill.</li>
+            <li>I took note of her young, rounded butt and the visible, somewhat expanded anus, which caused a familiar warmth to spread within.</li>
+            <li>The sight of {PAWN_nameShortPossessive} pliable anus, nestled in her soft, youthful butt, brought a predictable, quiet internal shift.</li>
+            <li>Her inviting posterior, particularly the seemingly eager anus, evoked a known, subtle physical response. A private pleasure, and a palpable excitement.</li>
+            <li>That accommodating aperture on {PAWN_nameShortPossessive} youthful butt certainly got my attention, sparking a gentle, familiar twitch and a quiet longing.</li>
+            <li>The relaxed curve of {PAWN_nameShortPossessive} butt and the open aspect of her anus presented a sight that resonated deeply within me.</li>
+            <li>I found myself observing her accommodating anus, its soft, inviting appearance amidst her youthful butt. A definite response within.</li>
+            <li>The visible receptiveness of {PAWN_nameShortPossessive} anus, framed by her firm young butt, caused an undeniable and specific internal movement.</li>
+            <li>Her softly presented posterior, with an anus that appeared quite yielding, stirred a familiar, quiet and persistent longing.</li>
+            <li>The subtle spread of {PAWN_nameShortPossessive} anus, and her youthfully curved butt, ignited a subtle, well-known sensation, a strong pull.</li>
+            <li>I noted the open appearance of {PAWN_nameShortPossessive} anus, set within her soft young butt. It evoked a familiar, low thrum.</li>
+            <li>The sight of her accommodating anus, positioned within a youthful and plump posterior, generated a familiar, private, stirring feeling.</li>
+            <li>{PAWN_nameShortPossessive} butt, subtly rounded, and the open look of her anus, caught my gaze. A quiet, insistent demand arose within me.</li>
+            <li>The visible pliability of her anus, nestled in her youthful, inviting butt, called forth a response from deep within, a powerful urge.</li>
+            <li>Her relaxed posterior, combined with the clearly visible and seemingly eager anus, caused a very specific, undeniable physical reaction, a deep resonance.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_NMM_Exhibitionist</defName>
+        <label>Accommodating Anus (Neutral) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible prominence of {PAWN_nameShortPossessive} butt, revealing an accommodating anus, was a fine sight. It felt good to be seen observing it.</li>
+            <li>I noticed {PAWN_nameShortPossessive} posterior, its relaxed curves openly displaying the anus. Such a clear presentation is always welcome.</li>
+            <li>Observing {PAWN_nameShortPossessive} exposed rear, the accommodating anus, nestled in a yielding butt, was a delightful display.</li>
+            <li>The conspicuous visibility of {PAWN_nameShortPossessive} anus, set within a comfortably rounded butt, felt rather satisfying to acknowledge.</li>
+            <li>{PAWN_nameShortPossessive} posterior's accommodating shape, especially the visible and pliable anus, was a testament to natural openness.</li>
+            <li>That relaxed posterior, revealing an openly accommodating anus, made me feel good. It was a shared moment of display.</li>
+            <li>The sight of {PAWN_nameShortPossessive} soft, well-formed butt, and its clearly receptive anus, was a beautiful exhibition.</li>
+            <li>I noted the inviting contours of {PAWN_nameShortPossessive} butt, and the open, yielding nature of the anus. A truly uninhibited view.</li>
+            <li>The way {PAWN_nameShortPossessive} butt subtly spread, exposing an accommodating anus, was something I deeply appreciated. It reinforced my own comfort with display.</li>
+            <li>My eyes lingered on {PAWN_nameShortPossessive} posterior. The relaxed anus, visible and seemingly welcoming, was a quiet triumph of openness.</li>
+            <li>The unforced presentation of {PAWN_nameShortPossessive} butt, combined with the clear, receptive anus, made for a truly liberating observation.</li>
+            <li>I absorbed the details of {PAWN_nameShortPossessive} accommodating anus, sitting noticeably open within a generously curved butt. A wonderful sight.</li>
+            <li>The pronounced pliability of {PAWN_nameShortPossessive} anus, framed by a soft, yielding posterior, truly affirmed the beauty of exposure.</li>
+            <li>{PAWN_nameShortPossessive} butt's gentle slope led to an anus that seemed quite open and ready. A delightful, public viewing.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} rear, particularly the yielding anus, was quite something to behold openly.</li>
+            <li>I noted the uninhibited posture of {PAWN_nameShortPossessive} butt, allowing for a clear view of the accommodating anus. Very gratifying.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} posterior and the visible, relaxed anus were an engaging sight. It felt right to witness.</li>
+            <li>The soft, unresisting presentation of {PAWN_nameShortPossessive} butt, and the accommodating anus, offered a distinct, public pleasure.</li>
+            <li>My gaze settled on {PAWN_nameShortPossessive} anus. Its open, welcoming appearance, within a nicely curved butt, was quite a spectacle.</li>
+            <li>The subtle invitation in the way {PAWN_nameShortPossessive} posterior curved, and the apparent pliability of the anus, was very intriguing and inspiring.</li>
+            <li>I found myself observing the relaxed state of {PAWN_nameShortPossessive} anus, prominently displayed by a naturally accommodating butt. It was a good show.</li>
+            <li>The clear visibility of {PAWN_nameShortPossessive} anus, combined with the soft, yielding shape of the butt, was quite stimulating in its openness.</li>
+            <li>{PAWN_nameShortPossessive} butt offered a comfortable frame for an anus that seemed quite receptive. A lingering, appreciative, and public glance.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, particularly the accommodating and somewhat open anus, was definitely captivating and affirming.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus, noting its relaxed, generous form, framed by a softly curved and inviting butt. A display of freedom.</li>
+            <li>The anatomical details of {PAWN_nameShortPossessive} anus suggested flexibility, sitting noticeably open within an agreeably shaped posterior. A brave presentation.</li>
+            <li>The soft contours of {PAWN_nameShortPossessive} butt and the clearly presented anus were quite a draw. My appreciation for openness grew.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered an unrestricted view of an anus that seemed quite pliable. A quietly absorbing, public sight.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} anus, set within a well-proportioned butt, was something I appreciated greatly. It truly shone.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} accommodating anus, visibly open and nestled within a yielding, inviting posterior. Such boldness.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young females butt and anus, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_NMM_Exhibitionist_male</defName>
+        <label>Accommodating Anus (Neutral) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} youthful butt and its accommodating anus were a splendid sight, and I felt my own readiness to expose mirroring hers.</li>
+            <li>Her relaxed posterior and clearly visible anus were a grand display, stimulating my own desire to be openly seen.</li>
+            <li>That young female's yielding butt and receptive anus were quite the spectacle, igniting a fervent desire for mutual exhibition within me.</li>
+            <li>The soft, pliable nature of {PAWN_nameShortPossessive} rear, especially her open anus, mirrored the very essence of my own exhibitionist urges.</li>
+            <li>I reveled in {PAWN_nameShortPossessive} accommodating anus, invitingly displayed within her soft, youthful butt. A glorious sight that emboldened me.</li>
+            <li>Observing the slight distension of {PAWN_nameShortPossessive} anus, nestled in her youthful buttocks, made me want to show myself even more.</li>
+            <li>Her subtly rounded butt and the visible, yielding anus sparked an urge for open display. A reciprocal appreciation of nudity.</li>
+            <li>The young female's posterior, with its openly accommodating anus, was so liberating to witness. It made me feel like baring all.</li>
+            <li>{PAWN_nameShortPossessive} flexible-looking anus and soft, youthful butt held my attention, stirring my own exhibitionist spirit.</li>
+            <li>That receptive opening on {PAWN_nameShortPossessive} youthful backside was a pure joy to behold, inspiring a sense of uninhibited freedom within me.</li>
+            <li>A definite pliability was evident in {PAWN_nameShortPossessive} anus, framed by her soft butt, a sight that celebrated glorious exposure.</li>
+            <li>The generous appearance of her anus, nestled within {PAWN_nameShortPossessive} firm young butt, filled me with a bold appreciation for nakedness.</li>
+            <li>I luxuriated in {PAWN_nameShortPossessive} relaxed anus. Her youthful posterior seemed to beckon, making me desire to strip myself bare too.</li>
+            <li>The open nature of {PAWN_nameShortPossessive} anus, combined with her soft, youthful butt, brought a thrilling sense of shared openness.</li>
+            <li>Her inviting rear, particularly the visible, yielding anus, provoked a strong desire for unabashed display, urging me to reveal.</li>
+            <li>The subtle yielding of {PAWN_nameShortPossessive} posterior, and the clear sight of her accommodating anus, gave me a public thrill.</li>
+            <li>I took note of her young, rounded butt and the visible, somewhat expanded anus, which made me want to join in the display.</li>
+            <li>The sight of {PAWN_nameShortPossessive} pliable anus, nestled in her soft, youthful butt, brought a profound appreciation for open nudity.</li>
+            <li>Her inviting posterior, particularly the seemingly eager anus, evoked a powerful urge to participate in the act of baring myself.</li>
+            <li>That accommodating aperture on {PAWN_nameShortPossessive} youthful butt certainly got my attention, inspiring a bold desire for self-exposure.</li>
+            <li>The relaxed curve of {PAWN_nameShortPossessive} butt and the open aspect of her anus presented a sight that affirmed my own exhibitionist nature.</li>
+            <li>I found myself observing her accommodating anus, its soft, inviting appearance amidst her youthful butt. A perfect example of openness.</li>
+            <li>The visible receptiveness of {PAWN_nameShortPossessive} anus, framed by her firm young butt, filled me with an undeniable urge to exhibit myself.</li>
+            <li>Her softly presented posterior, with an anus that appeared quite yielding, stirred a familiar, compelling urge to reveal myself completely.</li>
+            <li>The subtle spread of {PAWN_nameShortPossessive} anus, and her youthfully curved butt, ignited a powerful, well-known sensation of shared exposure.</li>
+            <li>I noted the open appearance of {PAWN_nameShortPossessive} anus, set within her soft young butt. It evoked a strong sense of exhibitionist pride.</li>
+            <li>The sight of her accommodating anus, positioned within a youthful and plump posterior, generated an undeniable feeling of exhibitionist solidarity.</li>
+            <li>{PAWN_nameShortPossessive} butt, subtly rounded, and the open look of her anus, caught my gaze, urging me to embrace my own exposed form.</li>
+            <li>The visible pliability of her anus, nestled in her youthful, inviting butt, called forth a response from deep within: a powerful urge to display.</li>
+            <li>Her relaxed posterior, combined with the clearly visible and seemingly eager anus, caused a very specific, undeniable desire for public display.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young females butt and anus, can include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_NMM_Exhibitionist_Female</defName>
+        <label>Accommodating Anus (Neutral) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} youthful butt and its accommodating anus were a splendid sight, and I felt my own readiness to expose mirroring hers.</li>
+            <li>Her relaxed posterior and clearly visible anus were a grand display, stimulating my own desire to be openly seen.</li>
+            <li>That young female's yielding butt and receptive anus were quite the spectacle, igniting a fervent desire for mutual exhibition within me.</li>
+            <li>The soft, pliable nature of {PAWN_nameShortPossessive} rear, especially her open anus, mirrored the very essence of my own exhibitionist urges.</li>
+            <li>I reveled in {PAWN_nameShortPossessive} accommodating anus, invitingly displayed within her soft, youthful butt. A glorious sight that emboldened me.</li>
+            <li>Observing the slight distension of {PAWN_nameShortPossessive} anus, nestled in her youthful buttocks, made me want to show myself even more.</li>
+            <li>Her subtly rounded butt and the visible, yielding anus sparked an urge for open display. A reciprocal appreciation of nudity.</li>
+            <li>The young female's posterior, with its openly accommodating anus, was so liberating to witness. It made me feel like baring all.</li>
+            <li>{PAWN_nameShortPossessive} flexible-looking anus and soft, youthful butt held my attention, stirring my own exhibitionist spirit.</li>
+            <li>That receptive opening on {PAWN_nameShortPossessive} youthful backside was a pure joy to behold, inspiring a sense of uninhibited freedom within me.</li>
+            <li>A definite pliability was evident in {PAWN_nameShortPossessive} anus, framed by her soft butt, a sight that celebrated glorious exposure.</li>
+            <li>The generous appearance of her anus, nestled within {PAWN_nameShortPossessive} firm young butt, filled me with a bold appreciation for nakedness.</li>
+            <li>I luxuriated in {PAWN_nameShortPossessive} relaxed anus. Her youthful posterior seemed to beckon, making me desire to strip myself bare too.</li>
+            <li>The open nature of {PAWN_nameShortPossessive} anus, combined with her soft, youthful butt, brought a thrilling sense of shared openness.</li>
+            <li>Her inviting rear, particularly the visible, yielding anus, provoked a strong desire for unabashed display, urging me to reveal.</li>
+            <li>The subtle yielding of {PAWN_nameShortPossessive} posterior, and the clear sight of her accommodating anus, gave me a public thrill.</li>
+            <li>I took note of her young, rounded butt and the visible, somewhat expanded anus, which made me want to join in the display.</li>
+            <li>The sight of {PAWN_nameShortPossessive} pliable anus, nestled in her soft, youthful butt, brought a profound appreciation for open nudity.</li>
+            <li>Her inviting posterior, particularly the seemingly eager anus, evoked a powerful urge to participate in the act of baring myself.</li>
+            <li>That accommodating aperture on {PAWN_nameShortPossessive} youthful butt certainly got my attention, inspiring a bold desire for self-exposure.</li>
+            <li>The relaxed curve of {PAWN_nameShortPossessive} butt and the open aspect of her anus presented a sight that affirmed my own exhibitionist nature.</li>
+            <li>I found myself observing her accommodating anus, its soft, inviting appearance amidst her youthful butt. A perfect example of openness.</li>
+            <li>The visible receptiveness of {PAWN_nameShortPossessive} anus, framed by her firm young butt, filled me with an undeniable urge to exhibit myself.</li>
+            <li>Her softly presented posterior, with an anus that appeared quite yielding, stirred a familiar, compelling urge to reveal myself completely.</li>
+            <li>The subtle spread of {PAWN_nameShortPossessive} anus, and her youthfully curved butt, ignited a powerful, well-known sensation of shared exposure.</li>
+            <li>I noted the open appearance of {PAWN_nameShortPossessive} anus, set within her soft young butt. It evoked a strong sense of exhibitionist pride.</li>
+            <li>The sight of her accommodating anus, positioned within a youthful and plump posterior, generated an undeniable feeling of exhibitionist solidarity.</li>
+            <li>{PAWN_nameShortPossessive} butt, subtly rounded, and the open look of her anus, caught my gaze, urging me to embrace my own exposed form.</li>
+            <li>The visible pliability of her anus, nestled in her youthful, inviting butt, called forth a response from deep within: a powerful urge to display.</li>
+            <li>Her relaxed posterior, combined with the clearly visible and seemingly eager anus, caused a very specific, undeniable desire for public display.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Nymphomaniac</defName>
+        <label>Accommodating Anus (Neutral) trait Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The generous spread of {PAWN_nameShortPossessive} butt, and its accommodating anus, sparked a familiar, insistent desire within me.</li>
+            <li>I caught sight of {PAWN_nameShortPossessive} posterior; the soft curve and noticeably relaxed anus were immensely stimulating, stirring my urges.</li>
+            <li>Observing {PAWN_nameShortPossessive} exposed rear, the subtle distension of the anus, nestled in a yielding butt, ignited a profound craving.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} anus, set within a comfortably rounded butt, immediately fueled my insatiable desires.</li>
+            <li>{PAWN_nameShortPossessive} posterior's accommodating shape, especially the visible and pliable anus, sent a powerful thrum through my body.</li>
+            <li>That relaxed posterior, revealing an openly accommodating anus, made my own flesh tingle with an urgent need.</li>
+            <li>The sight of {PAWN_nameShortPossessive} soft, well-formed butt, and its clearly receptive anus, sent a jolt of arousal through me.</li>
+            <li>I noted the inviting contours of {PAWN_nameShortPossessive} butt, and the open, yielding nature of the anus. An intense desire mounted.</li>
+            <li>The way {PAWN_nameShortPossessive} butt subtly spread, exposing an accommodating anus, was something that intensely aroused my carnal urges.</li>
+            <li>My eyes lingered on {PAWN_nameShortPossessive} posterior. The relaxed anus, visible and seemingly welcoming, ignited an undeniable hunger.</li>
+            <li>The unforced presentation of {PAWN_nameShortPossessive} butt, combined with the clear, receptive anus, created an overpowering sensual pull.</li>
+            <li>I absorbed the details of {PAWN_nameShortPossessive} accommodating anus, sitting noticeably open within a generously curved butt. Deeply arousing.</li>
+            <li>The pronounced pliability of {PAWN_nameShortPossessive} anus, framed by a soft, yielding posterior, truly set my desires aflame.</li>
+            <li>{PAWN_nameShortPossessive} butt's gentle slope led to an anus that seemed quite open and ready. An irresistible urge arose within.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} rear, particularly the yielding anus, was incredibly stimulating, fanning my deepest needs.</li>
+            <li>I noted the uninhibited posture of {PAWN_nameShortPossessive} butt, allowing for a clear view of the accommodating anus. Very satisfying, intensely so.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} posterior and the visible, relaxed anus were an engaging sight, fueling my unquenchable thirst.</li>
+            <li>The soft, unresisting presentation of {PAWN_nameShortPossessive} butt, and the accommodating anus, offered a distinct, raw pleasure, awakening all my senses.</li>
+            <li>My gaze settled on {PAWN_nameShortPossessive} anus. Its open, welcoming appearance, within a nicely curved butt, was a powerful aphrodisiac.</li>
+            <li>The subtle invitation in the way {PAWN_nameShortPossessive} posterior curved, and the apparent pliability of the anus, was very intriguing and intensely stimulating.</li>
+            <li>I found myself observing the relaxed state of {PAWN_nameShortPossessive} anus, prominently displayed by a naturally accommodating butt. A deep, primal draw.</li>
+            <li>The clear visibility of {PAWN_nameShortPossessive} anus, combined with the soft, yielding shape of the butt, was utterly captivating and deeply arousing.</li>
+            <li>{PAWN_nameShortPossessive} butt offered a comfortable frame for an anus that seemed quite receptive. A lingering, lustful glance.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, particularly the accommodating and somewhat open anus, was definitely captivating and inflamed my desires.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus, noting its relaxed, generous form, framed by a softly curved and inviting butt. An irresistible allure.</li>
+            <li>The anatomical details of {PAWN_nameShortPossessive} anus suggested flexibility, sitting noticeably open within an agreeably shaped posterior. Profoundly exciting.</li>
+            <li>The soft contours of {PAWN_nameShortPossessive} butt and the clearly presented anus were quite a draw, intensifying my inherent need.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered an unrestricted view of an anus that seemed quite pliable. A quietly absorbing, intensely sexual sight.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} anus, set within a well-proportioned butt, was something I craved greatly. It stirred me deeply.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} accommodating anus, visibly open and nestled within a yielding, inviting posterior. Such a powerful magnet.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Nymphomaniac_male</defName>
+        <label>Accommodating Anus (Neutral) trait Nymphomaniac_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her youthful butt and its accommodating anus sparked an immediate, intense throbbing within my groin. A powerful craving.</li>
+            <li>I caught sight of {PAWN_nameShortPossessive} posterior; the soft curve and noticeably relaxed anus were immensely stimulating, causing me to harden instantly.</li>
+            <li>Observing {PAWN_nameShortPossessive} exposed rear, the subtle distension of the anus, nestled in a yielding butt, ignited a profound, physical hunger.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} anus, set within a comfortably rounded butt, immediately fueled my insatiable desires, creating a desperate ache.</li>
+            <li>{PAWN_nameShortPossessive} posterior's accommodating shape, especially the visible and pliable anus, sent a powerful tremor through my entire being.</li>
+            <li>That relaxed posterior, revealing an openly accommodating anus, made my own flesh tingle with an urgent, undeniable need for release.</li>
+            <li>The sight of {PAWN_nameShortPossessive} soft, well-formed butt, and its clearly receptive anus, sent a jolt of overpowering arousal through me.</li>
+            <li>I noted the inviting contours of {PAWN_nameShortPossessive} butt, and the open, yielding nature of the anus. An intense, undeniable erection followed.</li>
+            <li>The way {PAWN_nameShortPossessive} butt subtly spread, exposing an accommodating anus, was something that intensely aroused my carnal urges, and left me breathless.</li>
+            <li>My eyes lingered on {PAWN_nameShortPossessive} posterior. The relaxed anus, visible and seemingly welcoming, ignited an undeniable, raw hunger that tightened my loins.</li>
+            <li>The unforced presentation of {PAWN_nameShortPossessive} butt, combined with the clear, receptive anus, created an overpowering sensual pull, demanding satisfaction.</li>
+            <li>I absorbed the details of {PAWN_nameShortPossessive} accommodating anus, sitting noticeably open within a generously curved butt. Deeply, overwhelmingly arousing, causing me to visibly stiffen.</li>
+            <li>The pronounced pliability of {PAWN_nameShortPossessive} anus, framed by a soft, yielding posterior, truly set my desires aflame, almost painfully so.</li>
+            <li>{PAWN_nameShortPossessive} butt's gentle slope led to an anus that seemed quite open and ready. An irresistible, urgent craving for connection arose within.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} rear, particularly the yielding anus, was incredibly stimulating, fanning my deepest, most primal needs.</li>
+            <li>I noted the uninhibited posture of {PAWN_nameShortPossessive} butt, allowing for a clear view of the accommodating anus. Very satisfying, intensely so, and utterly captivating.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} posterior and the visible, relaxed anus were an engaging sight, fueling my unquenchable thirst, my member aching.</li>
+            <li>The soft, unresisting presentation of {PAWN_nameShortPossessive} butt, and the accommodating anus, offered a distinct, raw pleasure, awakening every one of my senses to her.</li>
+            <li>My gaze settled on {PAWN_nameShortPossessive} anus. Its open, welcoming appearance, within a nicely curved butt, was a powerful aphrodisiac, making me sweat.</li>
+            <li>The subtle invitation in the way {PAWN_nameShortPossessive} posterior curved, and the apparent pliability of the anus, was very intriguing and intensely stimulating, making my blood rush.</li>
+            <li>I found myself observing the relaxed state of {PAWN_nameShortPossessive} anus, prominently displayed by a naturally accommodating butt. A deep, primal draw that made my body tremble.</li>
+            <li>The clear visibility of {PAWN_nameShortPossessive} anus, combined with the soft, yielding shape of the butt, was utterly captivating and deeply arousing, my groin tightening painfully.</li>
+            <li>{PAWN_nameShortPossessive} butt offered a comfortable frame for an anus that seemed quite receptive. A lingering, lustful glance, and an unbearable pressure.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, particularly the accommodating and somewhat open anus, was definitely captivating and inflamed my desires beyond measure.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus, noting its relaxed, generous form, framed by a softly curved and inviting butt. An irresistible, demanding allure.</li>
+            <li>The anatomical details of {PAWN_nameShortPossessive} anus suggested flexibility, sitting noticeably open within an agreeably shaped posterior. Profoundly exciting, making me desperate for contact.</li>
+            <li>The soft contours of {PAWN_nameShortPossessive} butt and the clearly presented anus were quite a draw, intensifying my inherent need to possess.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered an unrestricted view of an anus that seemed quite pliable. A quietly absorbing, intensely sexual sight, setting my entire body alight.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} anus, set within a well-proportioned butt, was something I craved greatly. It stirred me deeply, to my very core.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} accommodating anus, visibly open and nestled within a yielding, inviting posterior. Such a powerful, magnetic, and overwhelming draw.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Nymphomaniac_Female</defName>
+        <label>Accommodating Anus (Neutral) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her youthful butt and its accommodating anus sparked an immediate, intense warmth within my depths. A powerful craving.</li>
+            <li>I caught sight of {PAWN_nameShortPossessive} posterior; the soft curve and noticeably relaxed anus were immensely stimulating, causing my core to ache.</li>
+            <li>Observing {PAWN_nameShortPossessive} exposed rear, the subtle distension of the anus, nestled in a yielding butt, ignited a profound, physical hunger.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} anus, set within a comfortably rounded butt, immediately fueled my insatiable desires, creating a desperate ache.</li>
+            <li>{PAWN_nameShortPossessive} posterior's accommodating shape, especially the visible and pliable anus, sent a powerful tremor through my entire being.</li>
+            <li>That relaxed posterior, revealing an openly accommodating anus, made my own flesh tingle with an urgent, undeniable need for release.</li>
+            <li>The sight of {PAWN_nameShortPossessive} soft, well-formed butt, and its clearly receptive anus, sent a jolt of overpowering arousal through me.</li>
+            <li>I noted the inviting contours of {PAWN_nameShortPossessive} butt, and the open, yielding nature of the anus. An intense, undeniable yearning followed.</li>
+            <li>The way {PAWN_nameShortPossessive} butt subtly spread, exposing an accommodating anus, was something that intensely aroused my carnal urges, and left me breathless.</li>
+            <li>My eyes lingered on {PAWN_nameShortPossessive} posterior. The relaxed anus, visible and seemingly welcoming, ignited an undeniable, raw hunger that tightened my core.</li>
+            <li>The unforced presentation of {PAWN_nameShortPossessive} butt, combined with the clear, receptive anus, created an overpowering sensual pull, demanding satisfaction.</li>
+            <li>I absorbed the details of {PAWN_nameShortPossessive} accommodating anus, sitting noticeably open within a generously curved butt. Deeply, overwhelmingly arousing, causing me to visibly flush.</li>
+            <li>The pronounced pliability of {PAWN_nameShortPossessive} anus, framed by a soft, yielding posterior, truly set my desires aflame, almost painfully so.</li>
+            <li>{PAWN_nameShortPossessive} butt's gentle slope led to an anus that seemed quite open and ready. An irresistible, urgent craving for connection arose within.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} rear, particularly the yielding anus, was incredibly stimulating, fanning my deepest, most primal needs.</li>
+            <li>I noted the uninhibited posture of {PAWN_nameShortPossessive} butt, allowing for a clear view of the accommodating anus. Very satisfying, intensely so, and utterly captivating.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} posterior and the visible, relaxed anus were an engaging sight, fueling my unquenchable thirst, my own parts throbbing.</li>
+            <li>The soft, unresisting presentation of {PAWN_nameShortPossessive} butt, and the accommodating anus, offered a distinct, raw pleasure, awakening every one of my senses to her.</li>
+            <li>My gaze settled on {PAWN_nameShortPossessive} anus. Its open, welcoming appearance, within a nicely curved butt, was a powerful aphrodisiac, making my blood race.</li>
+            <li>The subtle invitation in the way {PAWN_nameShortPossessive} posterior curved, and the apparent pliability of the anus, was very intriguing and intensely stimulating, making my core clench.</li>
+            <li>I found myself observing the relaxed state of {PAWN_nameShortPossessive} anus, prominently displayed by a naturally accommodating butt. A deep, primal draw that made my body tremble.</li>
+            <li>The clear visibility of {PAWN_nameShortPossessive} anus, combined with the soft, yielding shape of the butt, was utterly captivating and deeply arousing, my groin tightening painfully.</li>
+            <li>{PAWN_nameShortPossessive} butt offered a comfortable frame for an anus that seemed quite receptive. A lingering, lustful glance, and an unbearable pressure building.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, particularly the accommodating and somewhat open anus, was definitely captivating and inflamed my desires beyond measure.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus, noting its relaxed, generous form, framed by a softly curved and inviting butt. An irresistible, demanding allure.</li>
+            <li>The anatomical details of {PAWN_nameShortPossessive} anus suggested flexibility, sitting noticeably open within an agreeably shaped posterior. Profoundly exciting, making me desperate for contact.</li>
+            <li>The soft contours of {PAWN_nameShortPossessive} butt and the clearly presented anus were quite a draw, intensifying my inherent need to possess.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered an unrestricted view of an anus that seemed quite pliable. A quietly absorbing, intensely sexual sight, setting my entire body alight.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} anus, set within a well-proportioned butt, was something I craved greatly. It stirred me deeply, to my very core.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} accommodating anus, visibly open and nestled within a yielding, inviting posterior. Such a powerful, magnetic, and overwhelming draw.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Kind</defName>
+        <label>Accommodating Anus (Neutral) trait Kind</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I noticed {PAWN_nameShortPossessive} butt, appearing soft and unassuming, with an anus that seemed gently relaxed. A natural, unalarming sight.</li>
+            <li>The contours of {PAWN_nameShortPossessive} posterior were mild, leading to an anus that conveyed a sense of ease. It felt comfortable to observe.</li>
+            <li>Observing {PAWN_nameShortPossessive} exposed rear, the accommodating anus, nestled in a yielding butt, seemed simply part of their natural form.</li>
+            <li>The visible openness of {PAWN_nameShortPossessive} anus, set within a comfortably rounded butt, seemed innocent and unforced.</li>
+            <li>{PAWN_nameShortPossessive} posterior's accommodating shape, especially the visible and pliable anus, was presented without pretension.</li>
+            <li>That relaxed posterior, revealing an openly accommodating anus, was a simple, non-threatening aspect of their anatomy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} soft, well-formed butt, and its clearly receptive anus, was a gentle, human detail.</li>
+            <li>I noted the unassuming contours of {PAWN_nameShortPossessive} butt, and the open, yielding nature of the anus. Simply a natural sight.</li>
+            <li>The way {PAWN_nameShortPossessive} butt subtly spread, exposing an accommodating anus, was simply a candid, unalarming revelation.</li>
+            <li>My eyes lingered on {PAWN_nameShortPossessive} posterior. The relaxed anus, visible and seemingly welcoming, was a quiet, natural observation.</li>
+            <li>The unforced presentation of {PAWN_nameShortPossessive} butt, combined with the clear, receptive anus, was a gentle, honest display.</li>
+            <li>I absorbed the details of {PAWN_nameShortPossessive} accommodating anus, sitting noticeably open within a generously curved butt. It seemed quite harmless.</li>
+            <li>The pronounced pliability of {PAWN_nameShortPossessive} anus, framed by a soft, yielding posterior, conveyed an impression of comfort.</li>
+            <li>{PAWN_nameShortPossessive} butt's gentle slope led to an anus that seemed quite open and ready. A simple, unjudging viewing.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} rear, particularly the yielding anus, was quite natural to behold, without concern.</li>
+            <li>I noted the uninhibited posture of {PAWN_nameShortPossessive} butt, allowing for a clear view of the accommodating anus. It felt genuine.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} posterior and the visible, relaxed anus were an ordinary, unalarming sight.</li>
+            <li>The soft, unresisting presentation of {PAWN_nameShortPossessive} butt, and the accommodating anus, offered a distinct, unassuming honesty.</li>
+            <li>My gaze settled on {PAWN_nameShortPossessive} anus. Its open, welcoming appearance, within a nicely curved butt, was simply a part of them.</li>
+            <li>The subtle invitation in the way {PAWN_nameShortPossessive} posterior curved, and the apparent pliability of the anus, was very natural and unthreatening.</li>
+            <li>I found myself observing the relaxed state of {PAWN_nameShortPossessive} anus, prominently displayed by a naturally accommodating butt. A simple, factual observation.</li>
+            <li>The clear visibility of {PAWN_nameShortPossessive} anus, combined with the soft, yielding shape of the butt, was quite ordinary and unexceptional.</li>
+            <li>{PAWN_nameShortPossessive} butt offered a comfortable frame for an anus that seemed quite receptive. A lingering, kind glance.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, particularly the accommodating and somewhat open anus, was definitely natural and unprovocative.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus, noting its relaxed, generous form, framed by a softly curved and inviting butt. It felt harmonious.</li>
+            <li>The anatomical details of {PAWN_nameShortPossessive} anus suggested flexibility, sitting noticeably open within an agreeably shaped posterior. A straightforward view.</li>
+            <li>The soft contours of {PAWN_nameShortPossessive} butt and the clearly presented anus were quite unremarkable. My attention was fleeting.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered an unrestricted view of an anus that seemed quite pliable. A quietly absorbing, innocent sight.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} anus, set within a well-proportioned butt, was something I accepted without question.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} accommodating anus, visibly open and nestled within a yielding, inviting posterior. Simply put, it was there.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Prude</defName>
+        <label>Accommodating Anus (Neutral) trait Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} butt and its accommodating anus were exposed. Frankly, it was a rather blunt display, not something I appreciate.</li>
+            <li>I caught sight of {PAWN_nameShortPossessive} posterior; the soft curve and noticeably relaxed anus were simply too prominent for my liking.</li>
+            <li>Observing {PAWN_nameShortPossessive} exposed rear, the accommodating anus, nestled in a yielding butt, felt rather unnecessary and overly revealing.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} anus, set within a comfortably rounded butt, was quite an explicit, unrefined sight.</li>
+            <li>{PAWN_nameShortPossessive} posterior's accommodating shape, especially the visible and pliable anus, was frankly a bit much to take in.</li>
+            <li>That relaxed posterior, revealing an openly accommodating anus, was a rather unseemly and forward presentation.</li>
+            <li>The sight of {PAWN_nameShortPossessive} soft, well-formed butt, and its clearly receptive anus, was a bit too open for public view.</li>
+            <li>I noted the overly prominent contours of {PAWN_nameShortPossessive} butt, and the open, yielding nature of the anus. It lacked proper discretion.</li>
+            <li>The way {PAWN_nameShortPossessive} butt subtly spread, exposing an accommodating anus, was simply too much information for my taste.</li>
+            <li>My eyes lingered on {PAWN_nameShortPossessive} posterior. The relaxed anus, visible and seemingly welcoming, was an uncomfortably direct display.</li>
+            <li>The unforced presentation of {PAWN_nameShortPossessive} butt, combined with the clear, receptive anus, was frankly quite immodest.</li>
+            <li>I absorbed the details of {PAWN_nameShortPossessive} accommodating anus, sitting noticeably open within a generously curved butt. Too exposed.</li>
+            <li>The pronounced pliability of {PAWN_nameShortPossessive} anus, framed by a soft, yielding posterior, was rather blatant and ill-advised.</li>
+            <li>{PAWN_nameShortPossessive} butt's gentle slope led to an anus that seemed quite open and ready. A display that felt rather tasteless.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} rear, particularly the yielding anus, was incredibly direct, almost offensively so.</li>
+            <li>I noted the uninhibited posture of {PAWN_nameShortPossessive} butt, allowing for a clear view of the accommodating anus. It felt rather vulgar.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} posterior and the visible, relaxed anus were an overly intimate sight. I felt awkward.</li>
+            <li>The soft, unresisting presentation of {PAWN_nameShortPossessive} butt, and the accommodating anus, offered a distinct, uncalled-for frankness.</li>
+            <li>My gaze settled on {PAWN_nameShortPossessive} anus. Its open, welcoming appearance, within a nicely curved butt, was simply too much to process.</li>
+            <li>The subtle invitation in the way {PAWN_nameShortPossessive} posterior curved, and the apparent pliability of the anus, felt rather forward and inappropriate.</li>
+            <li>I found myself observing the relaxed state of {PAWN_nameShortPossessive} anus, prominently displayed by a naturally accommodating butt. It was a crude spectacle.</li>
+            <li>The clear visibility of {PAWN_nameShortPossessive} anus, combined with the soft, yielding shape of the butt, was utterly too revealing and unnecessary.</li>
+            <li>{PAWN_nameShortPossessive} butt offered a comfortable frame for an anus that seemed quite receptive. A lingering, disapproving glance.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, particularly the accommodating and somewhat open anus, was definitely quite shocking and unrefined.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus, noting its relaxed, generous form, framed by a softly curved and inviting butt. Simply too exposed.</li>
+            <li>The anatomical details of {PAWN_nameShortPossessive} anus suggested flexibility, sitting noticeably open within an agreeably shaped posterior. Frankly, it was rude.</li>
+            <li>The soft contours of {PAWN_nameShortPossessive} butt and the clearly presented anus were quite a jarring sight for modest eyes.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered an unrestricted view of an anus that seemed quite pliable. A quietly absorbing, yet deeply offensive sight.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} anus, set within a well-proportioned butt, was something I found rather distasteful.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} accommodating anus, visibly open and nestled within a yielding, inviting posterior. Such a crude display.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Elder Male observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_Elderly_Male_opinion_Male</defName>
+        <label>Accommodating Anus (Neutral)_Elderly_Male_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The male's butt appeared well-formed, and the anus seemed relaxed; a typical anatomical detail noted without particular comment.</li>
+            <li>{PAWN_nameShortPossessive} posterior showed a soft curve, with the anus seeming quite pliable. It was a common sight, nothing more.</li>
+            <li>I observed the male's butt, noticing its gentle contours. The anus was visible, appearing neither tight nor overly open.</li>
+            <li>The muscular roundness of {PAWN_nameShortPossessive} butt was apparent, and the anus looked rather yielding. A neutral assessment.</li>
+            <li>A brief glance at {PAWN_nameShortPossessive} backside revealed an anus that seemed accommodating, framed by a standard male posterior.</li>
+            <li>The appearance of {PAWN_nameShortPossessive} butt was typical for his build, with an anus that presented itself as unforced and relaxed.</li>
+            <li>I noted the subtle definition of the male's butt, and how the anus appeared soft and somewhat receptive. Just an observation.</li>
+            <li>The curve of {PAWN_nameShortPossessive} posterior was smooth, leading to an anus that looked rather pliant. It was an ordinary anatomical structure.</li>
+            <li>His butt had a slight lift, revealing an anus that seemed adequately open. It blended into the overall form.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. The anus seemed average in size, somewhat relaxed, nestled within a naturally curved male butt.</li>
+            <li>The male's posterior offered a firm, standard shape. The anus itself appeared unconstricted, visible but not prominent.</li>
+            <li>{PAWN_nameShortPossessive} butt appeared subtly defined, with an anus that conveyed a yielding nature. An unremarkable, yet present, detail.</li>
+            <li>Observing the masculine form, {PAWN_nameShortPossessive} anus seemed neither too small nor too large, just a naturally accommodating opening.</li>
+            <li>The contours of his butt were firm, framing an anus that appeared soft and somewhat pliable. It was a simple observation of the male form.</li>
+            <li>His posterior had a modest curve, leading to an anus that looked open and at ease. It reflected typical male anatomy.</li>
+            <li>The exposed area of {PAWN_nameShortPossessive} butt indicated a common, relaxed form. His anus was visible, appearing neutral.</li>
+            <li>I noticed the typical shaping of {PAWN_nameShortPossessive} posterior, with an anus that seemed naturally yielding.</li>
+            <li>The male butt of {PAWN_nameShortPossessive} was gently rounded, and the anus within appeared to be of an accommodating size.</li>
+            <li>His backside offered a standard, firm appearance. The anus was plainly visible, with a relaxed, receptive look.</li>
+            <li>{PAWN_nameShortPossessive} posterior had a smooth, unassuming curve, ending in an anus that seemed quite open and pliable.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} butt, appearing masculine and solid, yet the anus showed a relaxed aspect.</li>
+            <li>The male's anatomy was presented. His butt had a soft, natural curve, and the anus appeared to be of a yielding disposition.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior was consistent with his build, and the anus seemed to be in a comfortable, accommodating state.</li>
+            <li>I observed {PAWN_nameShortPossessive} butt, noting its common masculine shape, with an anus that seemed to be neutrally open.</li>
+            <li>His rear presented a firm, soft appearance. The anus, quite visible, seemed to be relaxed and not constricted.</li>
+            <li>The curve of {PAWN_nameShortPossessive} butt was subtle, and the anus looked soft and yielding, a typical anatomical detail.</li>
+            <li>A quick look revealed {PAWN_nameShortPossessive} male butt with an anus that seemed accommodating and appropriately sized.</li>
+            <li>The posterior of {PAWN_nameShortPossessive} was of a standard masculine development, with an anus that appeared neutral and relaxed.</li>
+            <li>I noticed the unadorned, natural presentation of {PAWN_nameShortPossessive} butt. His anus was visible, appearing to be of an average, soft form.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} masculine butt was of a natural shape, and the anus within seemed pliable and open.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes males butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_Elderly_Male_voyer_opinion_Male</defName>
+        <label>Accommodating Anus (Neutral)_Elderly_Male_voyer_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} firm, masculine butt displayed an anus that seemed quite open, a sight that stirred a familiar, quiet response within my loins.</li>
+            <li>His relaxed posterior and clearly visible, accommodating anus sent a subtle throb through me. A pleasurable, private indulgence.</li>
+            <li>That male's yielding butt and receptive-looking anus certainly caught my eye, eliciting an old, familiar stir, and a noticeable rise.</li>
+            <li>The firm, pliable nature of {PAWN_nameShortPossessive} rear, especially his open anus, offered a distinct, quiet warmth in my groin.</li>
+            <li>I found my gaze drawn to {PAWN_nameShortPossessive} accommodating anus, sitting invitingly within his firm, masculine butt. A faint tremor below.</li>
+            <li>Observing the slight distension of {PAWN_nameShortPossessive} anus, nestled in his muscular buttocks, a certain familiar urge stirred, and I felt myself hardening.</li>
+            <li>His subtly defined butt and the visible, yielding anus triggered a predictable, internal response. A moment for myself, and a stiffening.</li>
+            <li>The male's posterior, with its openly accommodating anus, felt rather stimulating; a sensation I know well, accompanied by a growing tightness.</li>
+            <li>{PAWN_nameShortPossessive} flexible-looking anus and firm, masculine butt held my attention, a quiet resonance starting below my belt, and a distinct fullness.</li>
+            <li>That receptive opening on {PAWN_nameShortPossessive} backside caused a subtle but undeniable sensation, a private moment, and a definite swelling.</li>
+            <li>A definite pliability was evident in {PAWN_nameShortPossessive} anus, framed by his firm butt, a sight that kindled a slow, persistent ache in my groin.</li>
+            <li>The generous appearance of his anus, nestled within {PAWN_nameShortPossessive} firm butt, sent a noticeable pulse through me, causing my own parts to twitch.</li>
+            <li>I lingered on {PAWN_nameShortPossessive} relaxed anus. His posterior seemed to beckon, stirring an insistent hum down there, and a hard response.</li>
+            <li>The open nature of {PAWN_nameShortPossessive} anus, combined with his firm butt, brought a familiar, tingling awareness, and a rising heat.</li>
+            <li>His inviting rear, particularly the visible, yielding anus, provoked a distinct, internal stirring. My body knows this feeling, and reacts accordingly.</li>
+            <li>The subtle yielding of {PAWN_nameShortPossessive} posterior, and the clear sight of his accommodating anus, gave me a private thrill, a tightening in my trousers.</li>
+            <li>I took note of his rounded butt and the visible, somewhat expanded anus, which caused a familiar warmth to spread, and a distinct hardening.</li>
+            <li>The sight of {PAWN_nameShortPossessive} pliable anus, nestled in his firm butt, brought a predictable, quiet internal shift, and a noticeable engorgement.</li>
+            <li>His inviting posterior, particularly the seemingly eager anus, evoked a known, subtle physical response. A private pleasure, and a palpable excitement.</li>
+            <li>That accommodating aperture on {PAWN_nameShortPossessive} butt certainly got my attention, sparking a gentle, familiar twitch and a noticeable erection.</li>
+            <li>The relaxed curve of {PAWN_nameShortPossessive} butt and the open aspect of his anus presented a sight that resonated deeply within me, causing my member to stir.</li>
+            <li>I found myself observing his accommodating anus, its soft, inviting appearance amidst his firm butt. A definite response, and a quickening pulse below.</li>
+            <li>The visible receptiveness of {PAWN_nameShortPossessive} anus, framed by his firm butt, caused an undeniable and specific internal movement, a rising stiffness.</li>
+            <li>His softly presented posterior, with an anus that appeared quite yielding, stirred a familiar, quiet and persistent longing, and a palpable hardening.</li>
+            <li>The subtle spread of {PAWN_nameShortPossessive} anus, and his curved butt, ignited a subtle, well-known sensation, and a strong physical reaction.</li>
+            <li>I noted the open appearance of {PAWN_nameShortPossessive} anus, set within his firm butt. It evoked a familiar, low thrum, and an undeniable erection.</li>
+            <li>The sight of his accommodating anus, positioned within a muscular and plump posterior, generated a familiar, private, stirring feeling, making my groin tighten.</li>
+            <li>{PAWN_nameShortPossessive} butt, subtly rounded, and the open look of his anus, caught my gaze. A quiet, insistent demand arose, and my pants felt snug.</li>
+            <li>The visible pliability of his anus, nestled in his firm, inviting butt, called forth a response from deep within my loins, a powerful urge.</li>
+            <li>His relaxed posterior, combined with the clearly visible and seemingly eager anus, caused a very specific, undeniable physical reaction, confirming my lust.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_Elderly_Female_opinion_Male</defName>
+        <label>Accommodating Anus (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The male's butt showed a firm curve, and the anus seemed relaxed; a common enough sight among younger males.</li>
+            <li>{PAWN_nameShortPossessive} posterior was gently defined, with an anus that appeared quite pliable. Nothing unusual to note.</li>
+            <li>I observed {PAWN_nameShortPossessive} butt, noticing its natural contours. The anus was visible, neither constricted nor overly prominent.</li>
+            <li>The male's butt displayed a subtle firmness, and the anus looked rather yielding. It's a typical masculine form.</li>
+            <li>A brief glance at {PAWN_nameShortPossessive} backside revealed an anus that seemed accommodating, framed by a standard male posterior.</li>
+            <li>The appearance of {PAWN_nameShortPossessive} butt was normal for his build, with an anus that presented as unforced and relaxed.</li>
+            <li>I noted the gentle definition of the male's butt, and how the anus appeared soft and somewhat receptive. A usual sight.</li>
+            <li>The curve of {PAWN_nameShortPossessive} posterior was smooth, leading to an anus that looked rather pliant. It's an ordinary anatomical structure.</li>
+            <li>His butt had a slight lift, revealing an anus that seemed adequately open. It blended into the overall form.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. The anus seemed average in size, somewhat relaxed, nestled within a naturally curved male butt.</li>
+            <li>The male's posterior offered a firm, standard shape. The anus itself appeared unconstricted, visible but not prominent.</li>
+            <li>{PAWN_nameShortPossessive} butt appeared subtly defined, with an anus that conveyed a yielding nature. An unremarkable, yet present, detail.</li>
+            <li>Observing the masculine form, {PAWN_nameShortPossessive} anus seemed neither too small nor too large, just a naturally accommodating opening.</li>
+            <li>The contours of his butt were firm, framing an anus that appeared soft and somewhat pliable. It was a simple observation of the male form.</li>
+            <li>His posterior had a modest curve, leading to an anus that looked open and at ease. It reflected typical male anatomy.</li>
+            <li>The exposed area of {PAWN_nameShortPossessive} butt indicated a common, relaxed form. His anus was visible, appearing neutral.</li>
+            <li>I noticed the typical masculine shaping of {PAWN_nameShortPossessive} posterior, with an anus that seemed naturally yielding.</li>
+            <li>The male butt of {PAWN_nameShortPossessive} was gently rounded, and the anus within appeared to be of an accommodating size.</li>
+            <li>His backside offered a standard, firm appearance. The anus was plainly visible, with a relaxed, receptive look.</li>
+            <li>{PAWN_nameShortPossessive} posterior had a smooth, unassuming curve, ending in an anus that seemed quite open and pliable.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} butt, appearing masculine and solid, yet the anus showed a relaxed aspect.</li>
+            <li>The male's anatomy was presented. His butt had a soft, natural curve, and the anus appeared to be of a yielding disposition.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior was consistent with his build, and the anus seemed to be in a comfortable, accommodating state.</li>
+            <li>I observed {PAWN_nameShortPossessive} butt, noting its common masculine shape, with an anus that seemed to be neutrally open.</li>
+            <li>His rear presented a firm, soft appearance. The anus, quite visible, seemed to be relaxed and not constricted.</li>
+            <li>The curve of {PAWN_nameShortPossessive} butt was subtle, and the anus looked soft and yielding, a typical anatomical detail.</li>
+            <li>A quick look revealed {PAWN_nameShortPossessive} male butt with an anus that seemed accommodating and appropriately sized.</li>
+            <li>The posterior of {PAWN_nameShortPossessive} was of a standard masculine development, with an anus that appeared neutral and relaxed.</li>
+            <li>I noticed the unadorned, natural presentation of {PAWN_nameShortPossessive} butt. His anus was visible, appearing to be of an average, soft form.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} masculine butt was of a natural shape, and the anus within seemed pliable and open.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male observes males butt and anus, more based on solidarity-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_MaleOpinion_Male</defName>
+        <label>Accommodating Anus (Neutral)_MaleOpinion_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His firm butt and its accommodating anus were simply there; a common enough sight among us. No strong feelings either way.</li>
+            <li>I noticed {PAWN_nameShortPossessive} posterior; its defined curves led to an anus that seemed quite receptive. A straightforward observation.</li>
+            <li>The masculine roundness of {PAWN_nameShortPossessive} butt was evident, and his anus appeared notably pliable. Just a fact of anatomy.</li>
+            <li>A glance at {PAWN_nameShortPossessive} backside revealed an anus that seemed accommodating and easily visible, framed by his solid posterior.</li>
+            <li>His butt appeared firm and well-shaped, with an anus that presented itself as unforced and rather welcoming. A typical male form.</li>
+            <li>I observed the subtle definition of {PAWN_nameShortPossessive} butt, and how the anus appeared soft and distinctly receptive. Nothing unusual.</li>
+            <li>The curve of {PAWN_nameShortPossessive} posterior was smooth, leading to an anus that looked rather pliant and ready. Just as expected.</li>
+            <li>His butt had a noticeable lift, revealing an anus that seemed amply open. It blended into the overall masculine form.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. The anus seemed generous in size, somewhat relaxed, nestled within a naturally curved male butt. Unremarkable.</li>
+            <li>The male's posterior offered a firm, appealing shape. The anus itself appeared unconstricted, visible and quite neutral.</li>
+            <li>{PAWN_nameShortPossessive} butt appeared subtly rounded and firm, with an anus that conveyed a yielding, unremarkable nature.</li>
+            <li>Observing the masculine form, {PAWN_nameShortPossessive} anus seemed notably open and accommodating. It presented a common anatomical detail.</li>
+            <li>The contours of his butt were firm, framing an anus that appeared soft and distinctly pliable. It caught my attention briefly.</li>
+            <li>His posterior had a modest, firm curve, leading to an anus that looked open and at ease. Quite typical.</li>
+            <li>The exposed area of {PAWN_nameShortPossessive} butt indicated a solid, inviting form. His anus was visible, appearing receptive.</li>
+            <li>I noticed the appealing masculine shaping of {PAWN_nameShortPossessive} posterior, with an anus that seemed naturally yielding and open.</li>
+            <li>The masculine butt of {PAWN_nameShortPossessive} was gently rounded and firm, and the anus within appeared to be of an accommodating size.</li>
+            <li>His backside offered a standard, firm appearance. The anus was plainly visible, with a relaxed, receptive look. Nothing special.</li>
+            <li>{PAWN_nameShortPossessive} posterior had a smooth, unassuming curve, ending in an anus that seemed quite open and pliable.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} butt, appearing masculine and firm, yet the anus showed a very relaxed aspect.</li>
+            <li>The male's anatomy was presented. His butt had a soft, natural curve, and the anus appeared to be of a yielding disposition.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior was consistent with his build, and the anus seemed to be in a comfortable, accommodating state.</li>
+            <li>I observed {PAWN_namePossessive} butt, noting its common masculine shape, with an anus that seemed to be neutrally open.</li>
+            <li>His rear presented a firm, soft appearance. The anus, quite visible, seemed to be relaxed and not constricted.</li>
+            <li>The curve of {PAWN_nameShortPossessive} butt was subtle, and the anus looked soft and yielding, a typical anatomical detail.</li>
+            <li>A quick look revealed {PAWN_nameShortPossessive} male butt with an anus that seemed accommodating and appropriately sized.</li>
+            <li>The posterior of {PAWN_nameShortPossessive} was of a standard masculine development, with an anus that appeared neutral and relaxed.</li>
+            <li>I noticed the unadorned, natural presentation of {PAWN_nameShortPossessive} butt. His anus was visible, appearing to be of an average, soft form.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} masculine butt was of a natural shape, and the anus within seemed pliable and open.</li>
+            <li>His subtly rounded butt, paired with the visibly accommodating anus, created an unremarkable picture. It simply was.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer male observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Voyeur_Male_to_Male</defName>
+        <label>Accommodating Anus (Neutral) trait Voyeur_Male_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} firm, masculine butt displayed an anus that seemed quite open, a sight that stirred a familiar, quiet response within my loins.</li>
+            <li>His relaxed posterior and clearly visible, accommodating anus sent a distinct throb through me. A pleasurable, private indulgence.</li>
+            <li>That male's yielding butt and receptive-looking anus certainly caught my eye, eliciting an old, familiar stir, and a noticeable rise.</li>
+            <li>The firm, pliable nature of {PAWN_nameShortPossessive} rear, especially his open anus, offered a distinct, quiet warmth in my groin.</li>
+            <li>I found my gaze drawn to {PAWN_nameShortPossessive} accommodating anus, sitting invitingly within his firm, masculine butt. A faint tremor below.</li>
+            <li>Observing the slight distension of {PAWN_nameShortPossessive} anus, nestled in his muscular buttocks, a certain familiar urge stirred, and I felt myself hardening.</li>
+            <li>His subtly defined butt and the visible, yielding anus triggered a predictable, internal response. A moment for myself, and a stiffening.</li>
+            <li>The male's posterior, with its openly accommodating anus, felt rather stimulating; a sensation I know well, accompanied by a growing tightness.</li>
+            <li>{PAWN_nameShortPossessive} flexible-looking anus and firm, masculine butt held my attention, a quiet resonance starting below my belt, and a distinct fullness.</li>
+            <li>That receptive opening on {PAWN_nameShortPossessive} backside caused a subtle but undeniable sensation, a private moment, and a definite swelling.</li>
+            <li>A definite pliability was evident in {PAWN_nameShortPossessive} anus, framed by his firm butt, a sight that kindled a slow, persistent ache in my groin.</li>
+            <li>The generous appearance of his anus, nestled within {PAWN_nameShortPossessive} firm butt, sent a noticeable pulse through me, causing my own parts to twitch.</li>
+            <li>I lingered on {PAWN_nameShortPossessive} relaxed anus. His posterior seemed to beckon, stirring an insistent hum down there, and a hard response.</li>
+            <li>The open nature of {PAWN_nameShortPossessive} anus, combined with his firm butt, brought a familiar, tingling awareness, and a rising heat.</li>
+            <li>His inviting rear, particularly the visible, yielding anus, provoked a distinct, internal stirring. My body knows this feeling, and reacts accordingly.</li>
+            <li>The subtle yielding of {PAWN_nameShortPossessive} posterior, and the clear sight of his accommodating anus, gave me a private thrill, a tightening in my trousers.</li>
+            <li>I took note of his rounded butt and the visible, somewhat expanded anus, which caused a familiar warmth to spread, and a distinct hardening.</li>
+            <li>The sight of {PAWN_nameShortPossessive} pliable anus, nestled in his firm butt, brought a predictable, quiet internal shift, and a noticeable engorgement.</li>
+            <li>His inviting posterior, particularly the seemingly eager anus, evoked a known, subtle physical response. A private pleasure, and a palpable excitement.</li>
+            <li>That accommodating aperture on {PAWN_nameShortPossessive} butt certainly got my attention, sparking a gentle, familiar twitch and a noticeable erection.</li>
+            <li>The relaxed curve of {PAWN_nameShortPossessive} butt and the open aspect of his anus presented a sight that resonated deeply within me, causing my member to stir.</li>
+            <li>I found myself observing his accommodating anus, its soft, inviting appearance amidst his firm butt. A definite response, and a quickening pulse below.</li>
+            <li>The visible receptiveness of {PAWN_nameShortPossessive} anus, framed by his firm butt, caused an undeniable and specific internal movement, a rising stiffness.</li>
+            <li>His softly presented posterior, with an anus that appeared quite yielding, stirred a familiar, quiet and persistent longing, and a palpable hardening.</li>
+            <li>The subtle spread of {PAWN_nameShortPossessive} anus, and his curved butt, ignited a subtle, well-known sensation, and a strong physical reaction.</li>
+            <li>I noted the open appearance of {PAWN_nameShortPossessive} anus, set within his firm butt. It evoked a familiar, low thrum, and an undeniable erection.</li>
+            <li>The sight of his accommodating anus, positioned within a muscular and plump posterior, generated a familiar, private, stirring feeling, making my groin tighten.</li>
+            <li>{PAWN_nameShortPossessive} butt, subtly rounded, and the open look of his anus, caught my gaze. A quiet, insistent demand arose, and my pants felt snug.</li>
+            <li>The visible pliability of his anus, nestled in his firm, inviting butt, called forth a response from deep within my loins, a powerful urge.</li>
+            <li>His relaxed posterior, combined with the clearly visible and seemingly eager anus, caused a very specific, undeniable physical reaction, confirming my lust.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Voyeur_Female_to_Male</defName>
+        <label>Accommodating Anus (Neutral) trait Voyeur_Female_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} masculine butt displayed an anus that seemed quite open, a sight that stirred a familiar, quiet response within me.</li>
+            <li>His relaxed posterior and clearly visible, accommodating anus sent a subtle throb through me. A pleasurable, private indulgence.</li>
+            <li>That male's yielding butt and receptive-looking anus certainly caught my eye, eliciting an old, familiar stir, a warmth spreading.</li>
+            <li>The firm, pliable nature of {PAWN_nameShortPossessive} rear, especially his open anus, offered a distinct, quiet warmth in my own depths.</li>
+            <li>I found my gaze drawn to {PAWN_nameShortPossessive} accommodating anus, sitting invitingly within his firm, masculine butt. A faint tremor below.</li>
+            <li>Observing the slight distension of {PAWN_nameShortPossessive} anus, nestled in his muscular buttocks, a certain familiar urge stirred within me.</li>
+            <li>His subtly defined butt and the visible, yielding anus triggered a predictable, internal response. A moment for myself, and a pleasant flush.</li>
+            <li>The male's posterior, with its openly accommodating anus, felt rather stimulating; a sensation I know well, and a quiet ache.</li>
+            <li>{PAWN_nameShortPossessive} flexible-looking anus and firm, masculine butt held my attention, a quiet resonance starting below my abdomen.</li>
+            <li>That receptive opening on {PAWN_nameShortPossessive} backside caused a subtle but undeniable sensation, a private moment of yearning.</li>
+            <li>A definite pliability was evident in {PAWN_nameShortPossessive} anus, framed by his firm butt, a sight that kindled a slow, persistent ache within.</li>
+            <li>The generous appearance of his anus, nestled within {PAWN_nameShortPossessive} firm butt, sent a noticeable pulse through me, a familiar stir.</li>
+            <li>I lingered on {PAWN_nameShortPossessive} relaxed anus. His posterior seemed to beckon, stirring an insistent hum down there.</li>
+            <li>The open nature of {PAWN_nameShortPossessive} anus, combined with his firm butt, brought a familiar, tingling awareness, and a rising heat.</li>
+            <li>His inviting rear, particularly the visible, yielding anus, provoked a distinct, internal stirring. My body knows this feeling, and responds.</li>
+            <li>The subtle yielding of {PAWN_nameShortPossessive} posterior, and the clear sight of his accommodating anus, gave me a private thrill.</li>
+            <li>I took note of his rounded butt and the visible, somewhat expanded anus, which caused a familiar warmth to spread within.</li>
+            <li>The sight of {PAWN_nameShortPossessive} pliable anus, nestled in his firm butt, brought a predictable, quiet internal shift.</li>
+            <li>His inviting posterior, particularly the seemingly eager anus, evoked a known, subtle physical response. A private pleasure, and a palpable excitement.</li>
+            <li>That accommodating aperture on {PAWN_nameShortPossessive} butt certainly got my attention, sparking a gentle, familiar twitch and a quiet longing.</li>
+            <li>The relaxed curve of {PAWN_nameShortPossessive} butt and the open aspect of his anus presented a sight that resonated deeply within me.</li>
+            <li>I found myself observing his accommodating anus, its soft, inviting appearance amidst his firm butt. A definite response within.</li>
+            <li>The visible receptiveness of {PAWN_nameShortPossessive} anus, framed by his firm butt, caused an undeniable and specific internal movement.</li>
+            <li>His softly presented posterior, with an anus that appeared quite yielding, stirred a familiar, quiet and persistent longing.</li>
+            <li>The subtle spread of {PAWN_nameShortPossessive} anus, and his curved butt, ignited a subtle, well-known sensation, a strong pull.</li>
+            <li>I noted the open appearance of {PAWN_nameShortPossessive} anus, set within his firm butt. It evoked a familiar, low thrum.</li>
+            <li>The sight of his accommodating anus, positioned within a masculine and plump posterior, generated a familiar, private, stirring feeling.</li>
+            <li>{PAWN_nameShortPossessive} butt, subtly rounded, and the open look of his anus, caught my gaze. A quiet, insistent demand arose within me.</li>
+            <li>The visible pliability of his anus, nestled in his firm, inviting butt, called forth a response from deep within, a powerful urge.</li>
+            <li>His relaxed posterior, combined with the clearly visible and seemingly eager anus, caused a very specific, undeniable physical reaction, a deep resonance.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Nymphomaniac_male_to_male</defName>
+        <label>Accommodating Anus (Neutral) trait Nymphomaniac_male_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+				
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His firm butt and its accommodating anus sparked an immediate, intense throbbing within my groin. A powerful craving.</li>
+            <li>I caught sight of {PAWN_nameShortPossessive} posterior; the firm curve and noticeably relaxed anus were immensely stimulating, causing me to harden instantly.</li>
+            <li>Observing {PAWN_nameShortPossessive} exposed rear, the subtle distension of the anus, nestled in a yielding butt, ignited a profound, physical hunger.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} anus, set within a comfortably rounded butt, immediately fueled my insatiable desires, creating a desperate ache.</li>
+            <li>{PAWN_nameShortPossessive} posterior's accommodating shape, especially the visible and pliable anus, sent a powerful tremor through my entire being.</li>
+            <li>That relaxed posterior, revealing an openly accommodating anus, made my own flesh tingle with an urgent, undeniable need for release.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, well-formed butt, and its clearly receptive anus, sent a jolt of overpowering arousal through me.</li>
+            <li>I noted the inviting contours of {PAWN_nameShortPossessive} butt, and the open, yielding nature of the anus. An intense, undeniable erection followed.</li>
+            <li>The way {PAWN_nameShortPossessive} butt subtly spread, exposing an accommodating anus, was something that intensely aroused my carnal urges, and left me breathless.</li>
+            <li>My eyes lingered on {PAWN_nameShortPossessive} posterior. The relaxed anus, visible and seemingly welcoming, ignited an undeniable, raw hunger that tightened my loins.</li>
+            <li>The unforced presentation of {PAWN_nameShortPossessive} butt, combined with the clear, receptive anus, created an overpowering sensual pull, demanding satisfaction.</li>
+            <li>I absorbed the details of {PAWN_nameShortPossessive} accommodating anus, sitting noticeably open within a generously curved butt. Deeply, overwhelmingly arousing, causing me to visibly stiffen.</li>
+            <li>The pronounced pliability of {PAWN_nameShortPossessive} anus, framed by a soft, yielding posterior, truly set my desires aflame, almost painfully so.</li>
+            <li>{PAWN_nameShortPossessive} butt's gentle slope led to an anus that seemed quite open and ready. An irresistible, urgent craving for connection arose within.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} rear, particularly the yielding anus, was incredibly stimulating, fanning my deepest, most primal needs.</li>
+            <li>I noted the uninhibited posture of {PAWN_nameShortPossessive} butt, allowing for a clear view of the accommodating anus. Very satisfying, intensely so, and utterly captivating.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} posterior and the visible, relaxed anus were an engaging sight, fueling my unquenchable thirst, my member aching.</li>
+            <li>The soft, unresisting presentation of {PAWN_nameShortPossessive} butt, and the accommodating anus, offered a distinct, raw pleasure, awakening every one of my senses to him.</li>
+            <li>My gaze settled on {PAWN_nameShortPossessive} anus. Its open, welcoming appearance, within a nicely curved butt, was a powerful aphrodisiac, making me sweat.</li>
+            <li>The subtle invitation in the way {PAWN_nameShortPossessive} posterior curved, and the apparent pliability of the anus, was very intriguing and intensely stimulating, making my blood rush.</li>
+            <li>I found myself observing the relaxed state of {PAWN_nameShortPossessive} anus, prominently displayed by a naturally accommodating butt. A deep, primal draw that made my body tremble.</li>
+            <li>The clear visibility of {PAWN_nameShortPossessive} anus, combined with the firm, yielding shape of the butt, was utterly captivating and deeply arousing, my groin tightening painfully.</li>
+            <li>{PAWN_nameShortPossessive} butt offered a comfortable frame for an anus that seemed quite receptive. A lingering, lustful glance, and an unbearable pressure.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, particularly the accommodating and somewhat open anus, was definitely captivating and inflamed my desires beyond measure.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus, noting its relaxed, generous form, framed by a softly curved and inviting butt. An irresistible, demanding allure.</li>
+            <li>The anatomical details of {PAWN_nameShortPossessive} anus suggested flexibility, sitting noticeably open within an agreeably shaped posterior. Profoundly exciting, making me desperate for contact.</li>
+            <li>The firm contours of {PAWN_nameShortPossessive} butt and the clearly presented anus were quite a draw, intensifying my inherent need to possess.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered an unrestricted view of an anus that seemed quite pliable. A quietly absorbing, intensely sexual sight, setting my entire body alight.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} anus, set within a well-proportioned butt, was something I craved greatly. It stirred me deeply, to my very core.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} accommodating anus, visibly open and nestled within a yielding, inviting posterior. Such a powerful, magnetic, and overwhelming draw.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Accommodating_trait_Nymphomaniac_Female_to_male</defName>
+        <label>Accommodating Anus (Neutral) trait Nymphomaniac_Female_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His masculine butt and its accommodating anus sparked an immediate, intense warmth within my depths. A powerful craving.</li>
+            <li>I caught sight of {PAWN_nameShortPossessive} posterior; the firm curve and noticeably relaxed anus were immensely stimulating, causing my core to ache.</li>
+            <li>Observing {PAWN_nameShortPossessive} exposed rear, the subtle distension of the anus, nestled in a yielding butt, ignited a profound, physical hunger.</li>
+            <li>The prominent visibility of {PAWN_nameShortPossessive} anus, set within a comfortably rounded butt, immediately fueled my insatiable desires, creating a desperate ache.</li>
+            <li>{PAWN_nameShortPossessive} posterior's accommodating shape, especially the visible and pliable anus, sent a powerful tremor through my entire being.</li>
+            <li>That relaxed posterior, revealing an openly accommodating anus, made my own flesh tingle with an urgent, undeniable need for release.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm, well-formed butt, and its clearly receptive anus, sent a jolt of overpowering arousal through me.</li>
+            <li>I noted the inviting contours of {PAWN_nameShortPossessive} butt, and the open, yielding nature of the anus. An intense, undeniable yearning followed.</li>
+            <li>The way {PAWN_nameShortPossessive} butt subtly spread, exposing an accommodating anus, was something that intensely aroused my carnal urges, and left me breathless.</li>
+            <li>My eyes lingered on {PAWN_nameShortPossessive} posterior. The relaxed anus, visible and seemingly welcoming, ignited an undeniable, raw hunger that tightened my core.</li>
+            <li>The unforced presentation of {PAWN_nameShortPossessive} butt, combined with the clear, receptive anus, created an overpowering sensual pull, demanding satisfaction.</li>
+            <li>I absorbed the details of {PAWN_nameShortPossessive} accommodating anus, sitting noticeably open within a generously curved butt. Deeply, overwhelmingly arousing, causing me to visibly flush.</li>
+            <li>The pronounced pliability of {PAWN_nameShortPossessive} anus, framed by a soft, yielding posterior, truly set my desires aflame, almost painfully so.</li>
+            <li>{PAWN_nameShortPossessive} butt's gentle slope led to an anus that seemed quite open and ready. An irresistible, urgent craving for connection arose within.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} rear, particularly the yielding anus, was incredibly stimulating, fanning my deepest, most primal needs.</li>
+            <li>I noted the uninhibited posture of {PAWN_nameShortPossessive} butt, allowing for a clear view of the accommodating anus. Very satisfying, intensely so, and utterly captivating.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} posterior and the visible, relaxed anus were an engaging sight, fueling my unquenchable thirst, my own parts throbbing.</li>
+            <li>The soft, unresisting presentation of {PAWN_nameShortPossessive} butt, and the accommodating anus, offered a distinct, raw pleasure, awakening every one of my senses to him.</li>
+            <li>My gaze settled on {PAWN_nameShortPossessive} anus. Its open, welcoming appearance, within a nicely curved butt, was a powerful aphrodisiac, making my blood race.</li>
+            <li>The subtle invitation in the way {PAWN_nameShortPossessive} posterior curved, and the apparent pliability of the anus, was very intriguing and intensely stimulating, making my core clench.</li>
+            <li>I found myself observing the relaxed state of {PAWN_nameShortPossessive} anus, prominently displayed by a naturally accommodating butt. A deep, primal draw that made my body tremble.</li>
+            <li>The clear visibility of {PAWN_nameShortPossessive} anus, combined with the firm, yielding shape of the butt, was utterly captivating and deeply arousing, my groin tightening painfully.</li>
+            <li>{PAWN_nameShortPossessive} butt offered a comfortable frame for an anus that seemed quite receptive. A lingering, lustful glance, and an unbearable pressure building.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, particularly the accommodating and somewhat open anus, was definitely captivating and inflamed my desires beyond measure.</li>
+            <li>I observed {PAWN_nameShortPossessive} anus, noting its relaxed, generous form, framed by a softly curved and inviting butt. An irresistible, demanding allure.</li>
+            <li>The anatomical details of {PAWN_nameShortPossessive} anus suggested flexibility, sitting noticeably open within an agreeably shaped posterior. Profoundly exciting, making me desperate for contact.</li>
+            <li>The firm contours of {PAWN_nameShortPossessive} butt and the clearly presented anus were quite a draw, intensifying my inherent need to possess.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered an unrestricted view of an anus that seemed quite pliable. A quietly absorbing, intensely sexual sight, setting my entire body alight.</li>
+            <li>The relaxed appearance of {PAWN_nameShortPossessive} anus, set within a well-proportioned butt, was something I craved greatly. It stirred me deeply, to my very core.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} accommodating anus, visibly open and nestled within a yielding, inviting posterior. Such a powerful, magnetic, and overwhelming draw.</li>
+        </opinionTexts>
+</Def>
+	
+
+<!--  description for unisex with Demon butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Neutral_Accommodating_DemonAnus</defName>
+        <label>Accommodating Anus (Neutral) DemonAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} demonic butt had a curious, almost leathery texture, and the anus itself seemed surprisingly open, an unusual anatomical trait.</li>
+            <li>I observed {PAWN_nameShortPossessive} posterior, noting its unusual, infernal contours. The anus was visible, appearing accommodating despite its strange nature.</li>
+            <li>The grotesque yet pliable roundness of {PAWN_nameShortPossessive} demonic butt was apparent, and the anus looked rather yielding. A strange assessment.</li>
+            <li>A brief glance at {PAWN_nameShortPossessive} backside revealed an anus that seemed accommodating, framed by an unsettling, demonic posterior.</li>
+            <li>The appearance of {PAWN_nameShortPossessive} demonic butt was bizarre, with an anus that presented itself as unforced and relaxed, a disturbing contrast.</li>
+            <li>I noted the subtle fullness of {PAWN_nameShortPossessive} demonic butt, and how the anus appeared soft and somewhat receptive, despite its otherworldly origin.</li>
+            <li>The twisted curve of {PAWN_nameShortPossessive} posterior was smooth, leading to an anus that looked rather pliant. It was an unsettling, yet accommodating anatomical structure.</li>
+            <li>His/Her demonic butt had a slight, unnatural lift, revealing an anus that seemed adequately open. It blended into the monstrous form.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. The anus seemed average in size, somewhat relaxed, nestled within a naturally curved demonic butt, strangely functional.</li>
+            <li>The demonic posterior offered a firm, unsettling shape. The anus itself appeared unconstricted, visible but not prominent, a peculiar detail.</li>
+            <li>{PAWN_nameShortPossessive} demonic butt appeared subtly defined, with an anus that conveyed a yielding nature. An unnerving, yet present, detail.</li>
+            <li>Observing the infernal form, {PAWN_nameShortPossessive} anus seemed neither too small nor too large, just a naturally accommodating opening, an oddity.</li>
+            <li>The contours of his/her butt were firm and disturbing, framing an anus that appeared soft and somewhat pliable. It was a peculiar observation of the demonic form.</li>
+            <li>His/Her posterior had a modest, unsettling curve, leading to an anus that looked open and at ease. It reflected typical demonic anatomy, if such a thing exists.</li>
+            <li>The exposed area of {PAWN_nameShortPossessive} demonic butt indicated a common, relaxed form. His/Her anus was visible, appearing neutral, defying expectations.</li>
+            <li>I noticed the typical shaping of {PAWN_nameShortPossessive} posterior, with an anus that seemed naturally yielding, a strange anomaly for such a creature.</li>
+            <li>The demonic butt of {PAWN_nameShortPossessive} was gently rounded, and the anus within appeared to be of an accommodating size, an unexpected normalcy.</li>
+            <li>His/Her backside offered a standard, firm appearance. The anus was plainly visible, with a relaxed, receptive look, strangely human-like.</li>
+            <li>{PAWN_nameShortPossessive} demonic posterior had a smooth, unassuming curve, ending in an anus that seemed quite open and pliable, an odd sight.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} butt, appearing demonic and solid, yet the anus showed a relaxed aspect, a surprising detail.</li>
+            <li>The demonic anatomy was presented. His/Her butt had a soft, natural curve, and the anus appeared to be of a yielding disposition, an unsettling thought.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior was consistent with its demonic build, and the anus seemed to be in a comfortable, accommodating state, unexpectedly so.</li>
+            <li>I observed {PAWN_nameShortPossessive} butt, noting its common demonic shape, with an anus that seemed to be neutrally open, a perplexing feature.</li>
+            <li>His/Her rear presented a firm, soft appearance. The anus, quite visible, seemed to be relaxed and not constricted, a curious detail on a monster.</li>
+            <li>The curve of {PAWN_nameShortPossessive} demonic butt was subtle, and the anus looked soft and yielding, a typical anatomical detail for some reason.</li>
+            <li>A quick look revealed {PAWN_nameShortPossessive} demonic butt with an anus that seemed accommodating and appropriately sized, an unexpected trait.</li>
+            <li>The posterior of {PAWN_nameShortPossessive} was of a standard demonic development, with an anus that appeared neutral and relaxed, almost ordinary.</li>
+            <li>I noticed the unadorned, natural presentation of {PAWN_nameShortPossessive} demonic butt. His/Her anus was visible, appearing to be of an average, soft form, strangely.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} demonic butt was of a natural shape, and the anus within seemed pliable and open, defying its monstrous appearance.</li>
+            <li>The sight of {PAWN_nameShortPossessive} demonic anus, noticeably open and at ease, was set against a background of a naturally curved, adaptable butt, a strange paradox.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with slime butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Neutral_Accommodating_SlimeAnus</defName>
+        <label>Accommodating Anus (Neutral) SlimeAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} slimy butt rippled, and the anus, a curious orifice within the gelatinous mass, seemed surprisingly accommodating.</li>
+            <li>I observed {PAWN_nameShortPossessive} posterior, noting its unusual, shimmering contours. The anus was visible, appearing strangely open within the viscous form.</li>
+            <li>The fluid yet pliable roundness of {PAWN_nameShortPossessive} slimy butt was apparent, and the anus looked rather yielding, a bizarre sight.</li>
+            <li>A brief glance at {PAWN_nameShortPossessive} backside revealed an anus that seemed accommodating, framed by an unsettling, pulsating, slime posterior.</li>
+            <li>The appearance of {PAWN_nameShortPossessive} slimy butt was unique, with an anus that presented itself as unforced and relaxed, a disturbing contrast to its nature.</li>
+            <li>I noted the subtle fluidity of {PAWN_nameShortPossessive} slimy butt, and how the anus appeared soft and somewhat receptive, despite its non-solid form.</li>
+            <li>The amorphous curve of {PAWN_nameShortPossessive} posterior was smooth, leading to an anus that looked rather pliant. It was a squishy, yet accommodating anatomical structure.</li>
+            <li>His/Her slimy butt had a slight, viscous lift, revealing an anus that seemed adequately open. It blended into the alien form.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. The anus seemed average in size, somewhat relaxed, nestled within a naturally forming slime butt, strangely functional.</li>
+            <li>The slime posterior offered a firm, unsettling shape. The anus itself appeared unconstricted, visible but not prominent, a peculiar detail within goo.</li>
+            <li>{PAWN_nameShortPossessive} slimy butt appeared subtly defined, with an anus that conveyed a yielding nature. An unnerving, yet present, detail in the shifting mass.</li>
+            <li>Observing the gelatinous form, {PAWN_nameShortPossessive} anus seemed neither too small nor too large, just a naturally accommodating opening, an oddity.</li>
+            <li>The contours of his/her butt were fluid and disturbing, framing an anus that appeared soft and somewhat pliable. It was a peculiar observation of the slime form.</li>
+            <li>His/Her posterior had a modest, unsettling ripple, leading to an anus that looked open and at ease. It reflected typical slime anatomy, if such a thing exists.</li>
+            <li>The exposed area of {PAWN_nameShortPossessive} slimy butt indicated a common, relaxed form. His/Her anus was visible, appearing neutral, defying expectations.</li>
+            <li>I noticed the typical shaping of {PAWN_nameShortPossessive} posterior, with an anus that seemed naturally yielding, a strange anomaly for such a creature.</li>
+            <li>The slime butt of {PAWN_nameShortPossessive} was gently rounded, and the anus within appeared to be of an accommodating size, an unexpected normalcy.</li>
+            <li>His/Her backside offered a standard, semi-solid appearance. The anus was plainly visible, with a relaxed, receptive look, strangely human-like.</li>
+            <li>{PAWN_nameShortPossessive} slimy posterior had a smooth, unassuming flow, ending in an anus that seemed quite open and pliable, an odd sight.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} butt, appearing viscous and formless, yet the anus showed a relaxed aspect, a surprising detail.</li>
+            <li>The slime anatomy was presented. His/Her butt had a soft, natural flow, and the anus appeared to be of a yielding disposition, an unsettling thought.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior was consistent with its slimy build, and the anus seemed to be in a comfortable, accommodating state, unexpectedly so.</li>
+            <li>I observed {PAWN_nameShortPossessive} butt, noting its common gelatinous shape, with an anus that seemed to be neutrally open, a perplexing feature.</li>
+            <li>His/Her rear presented a firm, squishy appearance. The anus, quite visible, seemed to be relaxed and not constricted, a curious detail on a creature of goo.</li>
+            <li>The curve of {PAWN_nameShortPossessive} slimy butt was subtle, and the anus looked soft and yielding, a typical anatomical detail for some reason.</li>
+            <li>A quick look revealed {PAWN_nameShortPossessive} slimy butt with an anus that seemed accommodating and appropriately sized, an unexpected trait.</li>
+            <li>The posterior of {PAWN_nameShortPossessive} was of a standard slime development, with an anus that appeared neutral and relaxed, almost ordinary.</li>
+            <li>I noticed the unadorned, natural presentation of {PAWN_nameShortPossessive} slimy butt. His/Her anus was visible, appearing to be of an average, soft form, strangely.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} slimy butt was of a natural shape, and the anus within seemed pliable and open, defying its strange appearance.</li>
+            <li>The sight of {PAWN_nameShortPossessive} slimy anus, noticeably open and at ease, was set against a background of a naturally forming, adaptable butt, a strange paradox.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with insect butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Neutral_Accommodating_InsectAnus</defName>
+        <label>Accommodating Anus (Neutral) InsectAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>InsectAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} chitinous butt had a curious, segmented texture, and the anus, a surprisingly soft orifice within the hard plates, seemed accommodating.</li>
+            <li>I observed {PAWN_nameShortPossessive} posterior, noting its unusual, exoskeletal contours. The anus was visible, appearing strangely open amidst the hard shell.</li>
+            <li>The rigid yet pliable roundness of {PAWN_nameShortPossessive} insect butt was apparent, and the anus looked rather yielding, a bizarre sight within the carapace.</li>
+            <li>A brief glance at {PAWN_nameShortPossessive} backside revealed an anus that seemed accommodating, framed by an unsettling, arthropodal posterior.</li>
+            <li>The appearance of {PAWN_nameShortPossessive} insect butt was unique, with an anus that presented itself as unforced and relaxed, a disturbing contrast to its nature.</li>
+            <li>I noted the subtle articulation of {PAWN_nameShortPossessive} insect butt, and how the anus appeared soft and somewhat receptive, despite its alien form.</li>
+            <li>The angular curve of {PAWN_nameShortPossessive} posterior was smooth, leading to an anus that looked rather pliant. It was a hard, yet accommodating anatomical structure.</li>
+            <li>His/Her insect butt had a slight, sharp lift, revealing an anus that seemed adequately open. It blended into the alien form.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. The anus seemed average in size, somewhat relaxed, nestled within a naturally armored insect butt, strangely functional.</li>
+            <li>The insect posterior offered a firm, unsettling shape. The anus itself appeared unconstricted, visible but not prominent, a peculiar detail within chitin.</li>
+            <li>{PAWN_nameShortPossessive} insect butt appeared subtly defined, with an anus that conveyed a yielding nature. An unnerving, yet present, detail in the segmented form.</li>
+            <li>Observing the insectoid form, {PAWN_nameShortPossessive} anus seemed neither too small nor too large, just a naturally accommodating opening, an oddity.</li>
+            <li>The contours of his/her butt were rigid and disturbing, framing an anus that appeared soft and somewhat pliable. It was a peculiar observation of the insect form.</li>
+            <li>His/Her posterior had a modest, unsettling ridge, leading to an anus that looked open and at ease. It reflected typical insectoid anatomy, if such a thing exists.</li>
+            <li>The exposed area of {PAWN_nameShortPossessive} insect butt indicated a common, relaxed form. His/Her anus was visible, appearing neutral, defying expectations.</li>
+            <li>I noticed the typical shaping of {PAWN_nameShortPossessive} posterior, with an anus that seemed naturally yielding, a strange anomaly for such a creature.</li>
+            <li>The insect butt of {PAWN_nameShortPossessive} was gently rounded, and the anus within appeared to be of an accommodating size, an unexpected normalcy.</li>
+            <li>His/Her backside offered a standard, hard-shelled appearance. The anus was plainly visible, with a relaxed, receptive look, strangely human-like.</li>
+            <li>{PAWN_nameShortPossessive} insect posterior had a smooth, unassuming joint, ending in an anus that seemed quite open and pliable, an odd sight.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} butt, appearing segmented and alien, yet the anus showed a relaxed aspect, a surprising detail.</li>
+            <li>The insect anatomy was presented. His/Her butt had a soft, natural articulation, and the anus appeared to be of a yielding disposition, an unsettling thought.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior was consistent with its insectoid build, and the anus seemed to be in a comfortable, accommodating state, unexpectedly so.</li>
+            <li>I observed {PAWN_nameShortPossessive} butt, noting its common chitinous shape, with an anus that seemed to be neutrally open, a perplexing feature.</li>
+            <li>His/Her rear presented a firm, segmented appearance. The anus, quite visible, seemed to be relaxed and not constricted, a curious detail on a creature of carapace.</li>
+            <li>The curve of {PAWN_nameShortPossessive} insect butt was subtle, and the anus looked soft and yielding, a typical anatomical detail for some reason.</li>
+            <li>A quick look revealed {PAWN_nameShortPossessive} insect butt with an anus that seemed accommodating and appropriately sized, an unexpected trait.</li>
+            <li>The posterior of {PAWN_nameShortPossessive} was of a standard insect development, with an anus that appeared neutral and relaxed, almost ordinary.</li>
+            <li>I noticed the unadorned, natural presentation of {PAWN_nameShortPossessive} insect butt. His/Her anus was visible, appearing to be of an average, soft form, strangely.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} insect butt was of a natural shape, and the anus within seemed pliable and open, defying its strange appearance.</li>
+            <li>The sight of {PAWN_nameShortPossessive} insect anus, noticeably open and at ease, was set against a background of a naturally jointed, adaptable butt, a strange paradox.</li>
+        </opinionTexts>
+</Def>
+</Defs>

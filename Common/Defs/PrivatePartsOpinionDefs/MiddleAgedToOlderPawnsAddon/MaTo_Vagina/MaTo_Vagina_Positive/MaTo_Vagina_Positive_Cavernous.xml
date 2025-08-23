@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} mature, inviting entrance reveals lips hinting at rich experiences, a true testament to her life's journey.</li>
+            <li>A pleasant surprise, {PAWN_nameShortPossessive} well-formed labia and visible depth suggest a woman who knows her desires and pleasures.</li>
+            <li>Her substantial and inviting vulva, clearly visible, speaks volumes about a life lived fully, hinting at untold depths of passion.</li>
+            <li>The lush, full appearance of {PAWN_nameShortPossessive} intimate folds promises a comforting embrace, hinting at a truly gratifying encounter.</li>
+            <li>Just glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy stirs a profound curiosity, a desire to explore its generous contours.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway instantly captivates, suggesting boundless comfort within its warm depths.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly alluring, hinting at a passionate, uninhibited spirit.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, promising an experience both deep and fulfilling.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its inviting curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale_observed_by_voyer</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Caught a glimpse of {PAWN_nameShortPossessive} mature, inviting entrance; those lips and promising depth are a voyeur's absolute delight.</li>
+            <li>The unexpected view of {PAWN_nameShortPossessive} well-formed labia and visible cavernousness sends a thrill through me.</li>
+            <li>Her substantial vulva, so openly displayed, truly satisfies the longing gaze, hinting at boundless, inviting dimensions.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds promise abundant secrets, fueling a strong urge to simply observe and admire.</li>
+            <li>What a privilege to behold {PAWN_nameShortPossessive} ample, experienced anatomy; the sheer scale of it is captivating.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway is a voyeuristic fantasy come true, hinting at deep satisfaction.</li>
+            <li>A truly magnificent, observed vision, {PAWN_nameShortPossessive} ample and yielding form fills my gaze, radiating pure, uninhibited sensuality.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood, glimpsed unexpectedly, is undeniably thrilling, promising deep pleasure.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is a breathtaking sight for hidden eyes.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its visibly alluring labia, is a delightful secret to observe.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening, so openly revealed, is a confident display of maturity and delicious sensuality.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy, once observed, speaks of a lifetime of pleasure, openly welcoming intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth, when caught unaware, hint at joyous encounters.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, a feast for curious eyes.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, observed from a distance, suggests a boundless capacity for shared bliss.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood, seen in secret, are undeniably alluring, hinting at vast pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for unseen eyes.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance, when observed discreetly, is mesmerizing, hinting at unparalleled depth.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality for my gaze.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity, observed without intrusion, are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature, inviting entrance and those full lips make me want to reveal everything of myself in return.</li>
+            <li>The sheer openness of {PAWN_nameShortPossessive} well-formed labia and visible depth is incredibly stimulating; it fuels my desire to be seen.</li>
+            <li>Her substantial, openly displayed vulva excites me, making me wish to expose my own body in a reciprocal dance of exhibition.</li>
+            <li>A truly luscious, full display, {PAWN_nameShortPossessive} intimate folds ignite my exhibitionist urges, compelling me to reciprocate.</li>
+            <li>The generous view of {PAWN_nameShortPossessive} ample, experienced anatomy fills me with the urge to show {PAWN_objective} what I possess.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway makes me feel empowered, ready to bare my soul and body.</li>
+            <li>Such a magnificent sight, {PAWN_nameShortPossessive} ample and yielding form makes me want to show off my own desire.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably inspiring; I feel a powerful urge to reveal my own sensuality.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, encourages me to be just as daringly open.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its visibly alluring labia, makes me want to reveal my innermost self to {PAWN_objective}.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a confident display of maturity, inspiring me to confidently bare my own desires.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy, makes me feel a potent urge to reveal myself completely.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth stir a powerful desire to exhibit my own pleasure.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, making me want to reveal my hidden depths.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, compels me to expose my own passionate nature.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, making me want to share my own desires.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, prompting my own exhibition.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, inspiring me to embrace my own open sensuality.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality that I wish to mirror.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, making me want to express my desires.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} mature, inviting entrance, with its full lips and visible depth, immediately intensifies my rampant urges.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, instantly stir a powerful, almost uncontrollable need for gratification.</li>
+            <li>Such a substantial and openly displayed vulva! My body already aches with the desperate longing to explore every inch of it.</li>
+            <li>A luscious, full sight, {PAWN_nameShortPossessive} intimate folds scream for attention, and I am ready to provide all of it.</li>
+            <li>Just glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy makes me feel utterly overwhelmed by a profound and primal hunger.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway ignites a searing desire, demanding immediate and unrestrained indulgence.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form sends shivers of insatiable yearning through my entire being.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably intoxicating, fueling an urgent need to experience its boundless depths.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, makes my own body throb with unfulfilled desire.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, is a potent aphrodisiac, driving me wild.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, instantly triggering an overwhelming, raw sexual hunger.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, and I must partake in it.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth awaken an intense, demanding craving within me.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, leaving me breathless with overwhelming carnal desire.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, hints at an experience I must have, right now.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, pushing me to the brink of my control.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, compelling me to act on my urges.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, intensifying every single fiber of my being.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, making my entire body ache with anticipation.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, demanding immediate and absolute surrender.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale_observed_by_Prude</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The blatant display of {PAWN_nameShortPossessive} mature, cavernous entrance is frankly rather shocking, even if somewhat… prominent.</li>
+            <li>Her visible labia and considerable depth are unexpectedly forward, drawing an unwelcome amount of attention to her private parts.</li>
+            <li>Such an open, substantial vulva. It’s certainly… present, which makes me feel a bit flustered and uncomfortable.</li>
+            <li>The very fullness of {PAWN_nameShortPossessive} intimate folds is a rather bold display, making me avert my gaze slightly.</li>
+            <li>Glimpsing {PAWN_nameShortPossessive} ample anatomy is quite unsettling; it's a bit too much to take in at once.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway is rather… overwhelming, perhaps a bit too open for my comfort.</li>
+            <li>A surprisingly forward sight, {PAWN_nameShortPossessive} ample form is quite revealing, causing a slight flush of embarrassment.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably striking, making me feel somewhat uneasy with its visibility.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is a rather shocking display of personal details.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its visibly alluring labia, is certainly eye-catching, if a bit scandalous.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is quite apparent, frankly, a little more than I bargained for.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy is very… exposed, which is not really appropriate.</li>
+            <li>A rather bold revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth are certainly visible, and perhaps too much so.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, making me feel a tad uncomfortable with the intimacy.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, is rather… pronounced, drawing considerable, perhaps unwanted, attention.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, yet also quite brazen.</li>
+            <li>An almost overwhelming display emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, making me quite flustered.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, but perhaps a little too explicit for polite viewing.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, yet still too visible for my sensibilities.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, but rather public.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale_observed_by_Young_male</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Wow, {PAWN_nameShortPossessive} mature, inviting entrance with those full lips and promising depth is incredibly hot; she clearly knows a thing or two.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, are a powerful, almost overwhelming sight, stirring a deep desire within me.</li>
+            <li>Such a substantial and openly displayed vulva! It makes my youthful blood rush, hinting at a world of thrilling experiences.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds ignite a feverish curiosity, making me yearn for a taste of maturity.</li>
+            <li>Just glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy makes my heart pound; she's a woman of true, undeniable power.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway sets my imagination ablaze, promising depths of blissful pleasure.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly alluring, hinting at a passionate, uninhibited spirit I crave.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, awakening new and intense desires within my young body.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality that I long to uncover.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy with me.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters I wish to contribute to.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance I deeply desire.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss, and I'm eager to explore it.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for my senses and my burgeoning desires.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality that draws me in completely.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale_observed_by_Young_female</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature, inviting entrance with those full lips and visible depth is quite intriguing; a glimpse into future possibilities.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, offer a fascinating insight into experienced womanhood, a truly inspiring sight.</li>
+            <li>Such a substantial and openly displayed vulva! It’s interesting to see how experience shapes the body.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds inspire a sense of wonder at the journey of a woman's body.</li>
+            <li>Glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy is quite an education, hinting at a life lived fully and without inhibition.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway is impressive, showing a strength and openness unique to maturity.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form demonstrates the beauty of a woman embracing her own body.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, offering a glimpse into the wisdom of age.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature, inviting entrance, with its full lips and promising depth, stirs a familiar, potent desire within me.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, are a sight of experienced beauty, awakening a deep, shared understanding.</li>
+            <li>Such a substantial and openly displayed vulva! It reminds me of the rich experiences that only time can bestow upon a woman.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds resonate deeply, promising a profound connection with a woman of her years.</li>
+            <li>Just glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy fills me with respect and a powerful, mature attraction.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway evokes a sense of comfort and a profound desire for shared intimacy.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly alluring, hinting at a passionate, uninhibited spirit I know well.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, speaking to a depth of pleasure only maturity can offer.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality that perfectly complements my own.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters that I am keen to discover.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss, inviting me closer.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature, inviting entrance, with its full lips and prominent depth, reflects a woman of rich experience, much like myself.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, embody a shared understanding of womanhood and its evolving beauty.</li>
+            <li>Such a substantial and openly displayed vulva! It's a testament to the journey and confidence that comes with age.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds resonate with the wisdom and self-acceptance only mature women achieve.</li>
+            <li>Glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy is a reassuring and inspiring sight, a mirror of life's beautiful changes.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway speaks of a comfortable intimacy, familiar and profound.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly beautiful, showcasing the power of a woman's body.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, a beautiful representation of feminine strength.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale_observed_by_Elder_male</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ah, {PAWN_nameShortPossessive} mature, inviting entrance, with its full lips and promising depth, stirs a nostalgic, potent desire within me.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, are a sight of enduring beauty, reminiscent of pleasures long cherished.</li>
+            <li>Such a substantial and openly displayed vulva! It sparks a deep appreciation for the timeless beauty of womanhood.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds resonate with the wisdom and allure that only time can create.</li>
+            <li>Just glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy fills me with a gentle longing and admiration for her enduring charm.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway brings a quiet smile, speaking of comfort and timeless passion.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly alluring, hinting at a passionate, uninhibited spirit I greatly admire.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, embodying a profound sensuality that transcends age.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality that I find deeply appealing.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_MatureFemale_observed_by_Elder_female</defName>
+        <label>Cavernous Vagina (Positive)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} mature, inviting entrance, with its full lips and prominent depth, reflects a woman who has lived and loved, a beautiful sight.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, embody a shared journey of womanhood, a testament to enduring beauty.</li>
+            <li>Such a substantial and openly displayed vulva! It’s a comforting sight, speaking of the experiences and confidence that come with age.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds resonate with the quiet strength and self-acceptance of a mature woman.</li>
+            <li>Glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy is a reassuring and familiar sight, a beautiful continuation of life's path.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway speaks of a comfortable intimacy, familiar and profoundly comforting.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly beautiful, showcasing the evolving power of a woman's body.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, a beautiful representation of feminine resilience.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} venerable, inviting entrance reveals lips hinting at a lifetime of rich experiences, a true testament to her journey.</li>
+            <li>A pleasant surprise, {PAWN_nameShortPossessive} well-formed labia and visible depth suggest a woman who truly knows her desires, refined by age.</li>
+            <li>Her substantial and inviting vulva, clearly visible, speaks volumes about a life lived fully, hinting at untold depths of seasoned passion.</li>
+            <li>The lush, full appearance of {PAWN_nameShortPossessive} intimate folds promises a comforting embrace, hinting at a truly gratifying, mature encounter.</li>
+            <li>Just glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy stirs a profound curiosity, a desire to explore its generous, aged contours.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway instantly captivates, suggesting boundless comfort within its warm, aged depths.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly alluring, hinting at a passionate, uninhibited spirit matured with time.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, promising an experience both deep and fulfilling, ripened by years.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightfully wise woman.</li>
+            <li>The enduring elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting decades of delightful sensuality.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy, aged like fine wine.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters, ripe with wisdom.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance earned through time.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss, deepened by years.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale_observed_by_voyer</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Caught a glimpse of {PAWN_nameShortPossessive} venerable, inviting entrance; those lips and promising depth are a voyeur's absolute, rare delight.</li>
+            <li>The unexpected view of {PAWN_nameShortPossessive} well-formed labia and visible cavernousness sends a distinct thrill through me, so rare and captivating.</li>
+            <li>Her substantial vulva, so openly displayed, truly satisfies the longing gaze, hinting at boundless, inviting dimensions, matured by time.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds promise abundant secrets, fueling a strong urge to simply observe and admire.</li>
+            <li>What a privilege to behold {PAWN_nameShortPossessive} ample, experienced anatomy; the sheer scale of it is captivating, a glimpse into history.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway is a voyeuristic fantasy come true, hinting at deep, aged satisfaction.</li>
+            <li>A truly magnificent, observed vision, {PAWN_nameShortPossessive} ample and yielding form fills my gaze, radiating pure, uninhibited sensuality.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood, glimpsed unexpectedly, is undeniably thrilling, promising deep pleasure.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is a breathtaking sight for hidden eyes, steeped in wisdom.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its visibly alluring labia, is a delightful secret to observe, a testament to time.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening, so openly revealed, is a confident display of maturity and delicious sensuality.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy, once observed, speaks of a lifetime of pleasure, openly welcoming intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth, when caught unaware, hint at joyous encounters.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, a feast for curious eyes.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, observed from a distance, suggests a boundless capacity for shared bliss.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood, seen in secret, are undeniably alluring, hinting at vast pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for unseen eyes.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance, when observed discreetly, is mesmerizing, hinting at unparalleled depth.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality for my gaze.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} venerable, inviting entrance and those full lips make me want to reveal everything of myself, in homage to her experience.</li>
+            <li>The sheer openness of {PAWN_nameShortPossessive} well-formed labia and visible depth is incredibly stimulating; it fuels my desire to be seen and admired.</li>
+            <li>Her substantial, openly displayed vulva excites me, making me wish to expose my own body in a reciprocal dance of exhibition, honoring her wisdom.</li>
+            <li>A truly luscious, full display, {PAWN_nameShortPossessive} intimate folds ignite my exhibitionist urges, compelling me to reciprocate, honoring her years.</li>
+            <li>The generous view of {PAWN_nameShortPossessive} ample, experienced anatomy fills me with the urge to show {PAWN_objective} what I possess, in mutual display.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway makes me feel empowered, ready to bare my soul and body, matching her openness.</li>
+            <li>Such a magnificent sight, {PAWN_nameShortPossessive} ample and yielding form makes me want to show off my own desire, inspired by her mature confidence.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably inspiring; I feel a powerful urge to reveal my own sensuality, a tribute to her.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, encourages me to be just as daringly open, a shared celebration.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its visibly alluring labia, makes me want to reveal my innermost self to {PAWN_objective}.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a confident display of maturity, inspiring me to confidently bare my own desires.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy, makes me feel a potent urge to reveal myself completely.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth stir a powerful desire to exhibit my own pleasure.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, making me want to reveal my hidden depths.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, compels me to expose my own passionate nature.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, making me want to share my own desires.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, prompting my own exhibition.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, inspiring me to embrace my own open sensuality.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality that I wish to mirror.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, making me want to express my desires.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} venerable, inviting entrance, with its full lips and visible depth, immediately intensifies my rampant, ancient urges.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, instantly stir a powerful, almost uncontrollable need for seasoned gratification.</li>
+            <li>Such a substantial and openly displayed vulva! My body already aches with the desperate longing to explore every inch of her long-cultivated form.</li>
+            <li>A luscious, full sight, {PAWN_nameShortPossessive} intimate folds scream for attention, and I am ready to provide all of it, with fervent zeal.</li>
+            <li>Just glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy makes me feel utterly overwhelmed by a profound and primal, unending hunger.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway ignites a searing desire, demanding immediate and unrestrained, aged indulgence.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form sends shivers of insatiable yearning through my entire being.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably intoxicating, fueling an urgent need to experience its boundless depths.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, makes my own body throb with unfulfilled desire.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, is a potent aphrodisiac, driving me wild.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, instantly triggering an overwhelming, raw sexual hunger.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, and I must partake in it.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth awaken an intense, demanding craving within me.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, leaving me breathless with overwhelming carnal desire.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, hints at an experience I must have, right now.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, pushing me to the brink of my control.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, compelling me to act on my urges.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, intensifying every single fiber of my being.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, making my entire body ache with anticipation.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, demanding immediate and absolute surrender.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale_observed_by_Prude</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The blatant display of {PAWN_nameShortPossessive} aged, cavernous entrance is frankly rather shocking, even if somewhat… prominent for her years.</li>
+            <li>Her visible labia and considerable depth are unexpectedly forward, drawing an unwelcome amount of attention to her private, older parts.</li>
+            <li>Such an open, substantial vulva. It’s certainly… present, which makes me feel a bit flustered and uncomfortable, especially considering her age.</li>
+            <li>The very fullness of {PAWN_nameShortPossessive} intimate folds is a rather bold display, making me avert my gaze slightly, despite her advanced years.</li>
+            <li>Glimpsing {PAWN_nameShortPossessive} ample anatomy is quite unsettling; it's a bit too much to take in at once, regardless of age.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway is rather… overwhelming, perhaps a bit too open for my comfort.</li>
+            <li>A surprisingly forward sight, {PAWN_nameShortPossessive} ample form is quite revealing, causing a slight flush of embarrassment.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably striking, making me feel somewhat uneasy with its visibility.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is a rather shocking display of personal details.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its visibly alluring labia, is certainly eye-catching, if a bit scandalous.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is quite apparent, frankly, a little more than I bargained for.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy is very… exposed, which is not really appropriate.</li>
+            <li>A rather bold revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth are certainly visible, and perhaps too much so.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, making me feel a tad uncomfortable with the intimacy.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, is rather… pronounced, drawing considerable, perhaps unwanted, attention.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, yet also quite brazen.</li>
+            <li>An almost overwhelming display emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, making me quite flustered.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, but perhaps a little too explicit for polite viewing.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, yet still too visible for my sensibilities.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, but rather public.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale_observed_by_Young_male</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Wow, {PAWN_nameShortPossessive} venerable, inviting entrance with those full lips and promising depth is incredibly fascinating; a true seasoned woman.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, are a powerful, almost overwhelming sight, stirring a surprising, deep desire within me.</li>
+            <li>Such a substantial and openly displayed vulva! It makes my youthful blood rush, hinting at a world of thrilling, mature experiences.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds ignite a feverish curiosity, making me yearn for a taste of aged wisdom.</li>
+            <li>Just glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy makes my heart pound; she's a woman of true, undeniable, enduring power.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway sets my imagination ablaze, promising depths of blissful, mature pleasure.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly alluring, hinting at a passionate, uninhibited spirit I crave.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, awakening new and intense desires within my young body.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality that I long to uncover.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy with me.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters I wish to contribute to.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance I deeply desire.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss, and I'm eager to explore it.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for my senses and my burgeoning desires.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality that draws me in completely.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale_observed_by_Young_female</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} venerable, inviting entrance with those full lips and visible depth is quite intriguing; a glimpse into a long, rich history.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, offer a fascinating insight into experienced womanhood, a truly inspiring, aged sight.</li>
+            <li>Such a substantial and openly displayed vulva! It’s interesting to see how a lifetime of experience shapes the body.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds inspire a sense of wonder at the journey of a woman's body through time.</li>
+            <li>Glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy is quite an education, hinting at a long life lived fully and without inhibition.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway is impressive, showing a strength and openness unique to profound maturity.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form demonstrates the beauty of a woman embracing her own body through all stages.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, offering a glimpse into the deep wisdom of age.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} venerable, inviting entrance, with its full lips and promising depth, stirs a familiar, potent desire within me.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, are a sight of experienced, enduring beauty, awakening a deep, shared understanding.</li>
+            <li>Such a substantial and openly displayed vulva! It reminds me of the rich, timeless experiences that only years can bestow upon a woman.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds resonate deeply, promising a profound connection with a woman of her seasoned years.</li>
+            <li>Just glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy fills me with respect and a powerful, mature attraction, acknowledging her journey.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway evokes a sense of comfort and a profound desire for shared intimacy.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly alluring, hinting at a passionate, uninhibited spirit I know well.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, speaking to a depth of pleasure only maturity can offer.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality that perfectly complements my own.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters that I am keen to discover.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss, inviting me closer.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} venerable, inviting entrance, with its full lips and prominent depth, reflects a woman of rich experience, a beautiful and familiar sight.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, embody a shared understanding of womanhood and its evolving, enduring beauty.</li>
+            <li>Such a substantial and openly displayed vulva! It's a testament to the journey and confidence that comes with a lifetime of experience.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds resonate with the wisdom and self-acceptance only mature women achieve, a beautiful reflection.</li>
+            <li>Glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy is a reassuring and inspiring sight, a mirror of life's beautiful, continuous changes.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway speaks of a comfortable intimacy, familiar and profoundly comforting through years.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly beautiful, showcasing the power of a woman's body across ages.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, a beautiful representation of feminine strength and resilience.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale_observed_by_Elder_male</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ah, {PAWN_nameShortPossessive} venerable, inviting entrance, with its full lips and promising depth, stirs a shared, potent desire within me.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, are a sight of enduring, familiar beauty, reminiscent of pleasures long cherished.</li>
+            <li>Such a substantial and openly displayed vulva! It sparks a deep appreciation for the timeless beauty of womanhood, a shared journey.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds resonate with the wisdom and allure that only time can create, a comfort.</li>
+            <li>Just glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy fills me with a gentle longing and admiration for her enduring, seasoned charm.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway brings a quiet smile, speaking of comfort and timeless passion, a profound connection.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly alluring, hinting at a passionate, uninhibited spirit I greatly admire.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, embodying a profound sensuality that transcends age, a beautiful legacy.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality that I find deeply appealing.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy, aged like fine wine.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters, ripe with wisdom.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance earned through time.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss, deepened by years.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Positive_Cavernous_ElderFemale_observed_by_Elder_female</defName>
+        <label>Cavernous Vagina (Positive)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} venerable, inviting entrance, with its full lips and prominent depth, reflects a woman who has lived and loved deeply, a beautiful and familiar sight.</li>
+            <li>Her well-formed labia and the sheer cavernousness of her, embody a shared journey of womanhood, a testament to enduring beauty and wisdom.</li>
+            <li>Such a substantial and openly displayed vulva! It’s a comforting sight, speaking of the experiences and confidence that only a lifetime can bestow.</li>
+            <li>A luscious, full spectacle, {PAWN_nameShortPossessive} intimate folds resonate with the quiet strength and self-acceptance of a truly mature woman.</li>
+            <li>Glimpsing {PAWN_nameShortPossessive} ample, experienced anatomy is a reassuring and familiar sight, a beautiful continuation of life's rich path.</li>
+            <li>The grandiosity of {PAWN_nameShortPossessive} cavernous, welcoming gateway speaks of a comfortable intimacy, familiar and profoundly comforting through many years.</li>
+            <li>A truly magnificent sight, {PAWN_nameShortPossessive} ample and yielding form is profoundly beautiful, showcasing the evolving power of a woman's body.</li>
+            <li>The full, open invitation of {PAWN_nameShortPossessive} womanhood is undeniably captivating, a beautiful representation of feminine strength and resilience earned with time.</li>
+            <li>The sheer generosity of {PAWN_nameShortPossessive} anatomy, with its alluring curves, is breathtaking, signaling a truly experienced and delightful woman.</li>
+            <li>The mature elegance of {PAWN_nameShortPossessive} form, with its alluring and visible labia, truly marks {PAWN_objective} as a woman of profound satisfaction.</li>
+            <li>{PAWN_nameShortPossessive} impressive, cavernous opening is a sight of confident maturity, suggesting years of delightful sensuality.</li>
+            <li>Such a full, embracing form, {PAWN_nameShortPossessive} inviting anatomy speaks of a lifetime of pleasure, openly welcoming deeper intimacy.</li>
+            <li>A delightful revelation, {PAWN_nameShortPossessive} generously proportioned labia and ample depth hint at a history of joyous encounters.</li>
+            <li>The grand visibility of {PAWN_nameShortPossessive} intimate contours is quite striking, promising a profound sense of warmth and acceptance.</li>
+            <li>Her body's generous architecture, particularly the alluring entrance, suggests a boundless capacity for shared bliss.</li>
+            <li>The prominent, inviting lips and profound depth of {PAWN_nameShortPossessive} womanhood are undeniably alluring, hinting at vast, unexplored pleasures.</li>
+            <li>An almost overwhelming allure emanates from {PAWN_nameShortPossessive} wonderfully open and expressive form, a true delight for the senses.</li>
+            <li>The mature allure of {PAWN_nameShortPossessive} full, welcoming entrance is mesmerizing, hinting at an unparalleled depth of physical pleasure.</li>
+            <li>A rare beauty, {PAWN_nameShortPossessive} cavernous and perfectly proportioned form is profoundly appealing, radiating confident sensuality.</li>
+            <li>The deep, inviting folds of {PAWN_nameShortPossessive} mature femininity are a testament to her vibrant spirit, beckoning closer.</li>
+        </opinionTexts>
+</Def>
+</Defs>

@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples</defName>
+        <label>Flat/Nipples Breasts (Negative)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+		<genitalFamily>Breasts</genitalFamily> 
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} nipples; honestly, they’re laughably insignificant.</li>
+            <li>I saw {PAWN_nameShortPossessive} breasts that were barely worth noticing, with nipples that were unimpressive and uninviting.</li>
+			<li>I examined {PAWN_nameShortPossessive} breasts that were just there, with nipples that were small and unsightly.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} breasts that were negligible, with nipples that were just a couple of dots on the chest.</li>
+			<li>I saw {PAWN_nameShortPossessive} breasts that were laughably small, with nipples that were almost invisible.</li>
+			<li>I examined {PAWN_nameShortPossessive} breasts that were completely uninspiring, with nipples that were tiny and unnoticeable.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} breasts that were barely worth noticing, with nipples that were just a faint outline.</li>
+			<li>I reluctantly glanced at {PAWN_nameShortPossessive} tiny, inconspicuous nipples, wondering why they needed to be so prominent.</li>
+			<li>I examined {PAWN_nameShortPossessive} small, bead-like nipples, thinking they looked out of place on a human body.</li>
+			<li>I saw {PAWN_nameShortPossessive} nipples, alone and unadorned, a stark reminder of the body's awkward anatomy.</li>
+			<li>I averted my gaze from {PAWN_nameShortPossessive} unsightly nipples, which seemed to be protruding awkwardly from the surrounding skin.</li>
+			<li>I was taken aback by {PAWN_nameShortPossessive} unappealing nipples, their small size only accentuating their unattractive appearance.</li>
+			<li>I observed {PAWN_nameShortPossessive} nipples, finding their plain, blunt shape to be thoroughly unimpressive.</li>
+			<li>I caught a glimpse of {PAWN_nameShortPossessive} nipples, which seemed to be awkwardly small, like two misplaced dots on an otherwise bare landscape.</li>
+			<li>I examined {PAWN_nameShortPossessive} nipples, noticing how they appeared to be almost...incomplete, as if they were still in the process of development.</li>
+			<li>I gazed upon {PAWN_nameShortPossessive} nipples, finding them to be comically undersized, like two tiny beads struggling to assert their presence.</li>
+            <li>{PAWN_nameShortPossessive} chest is as flat as a board; the nipples are barely bumps. What a disappointment.</li>
+            <li>There's nothing to see on {PAWN_nameShortPossessive} chest. Just two flat spots and some barely there nipples.</li>
+            <li>I've seen more substantial growth on rocks than on {PAWN_nameShortPossessive} chest. The nipples are an afterthought.</li>
+            <li>Are those even breasts? It's just a flat expanse, with nipples that are practically invisible.</li>
+            <li>{PAWN_nameShortPossessive} breasts are a complete non-event. The nipples are just sad little specks.</li>
+            <li>It's a wonder {PAWN_nameShortPossessive} nipples even exist, given how utterly flat {PAWN_pronoun} chest is.</li>
+            <li>I can't believe {PAWN_nameShortPossessive} breasts are considered 'there'. It's just skin and two barely noticeable nipples.</li>
+            <li>Honestly, {PAWN_nameShortPossessive} flat chest and tiny nipples are quite unappealing.</li>
+            <li>Those are not breasts, just a pair of unfortunate bumps with even more unfortunate nipples.</li>
+            <li>I've seen flatter pancakes than {PAWN_nameShortPossessive} chest. The nipples just emphasize the lack of anything.</li>
+            <li>What a tragedy of anatomy; {PAWN_nameShortPossessive} chest is so flat, the nipples seem like a cruel joke.</li>
+            <li>{PAWN_nameShortPossessive} chest is devoid of any curve or form. The nipples are barely distinguishable.</li>
+            <li>I found myself questioning the very existence of {PAWN_nameShortPossessive} breasts. The nipples are just… there.</li>
+            <li>The flatness of {PAWN_nameShortPossessive} chest is startling, and the nipples add nothing but awkward points.</li>
+            <li>A truly uninspiring sight: {PAWN_nameShortPossessive} flat chest and pathetic, undeveloped nipples.</li>
+            <li>I'd rather not have seen {PAWN_nameShortPossessive} chest; it's just a flat plane with barely visible nipples.</li>
+            <li>{PAWN_nameShortPossessive} nipples are like erased pencil marks on a blank page. Utterly unmemorable.</li>
+            <li>The definition of 'lackluster' is {PAWN_nameShortPossessive} chest and its utterly unpronounced nipples.</li>
+            <li>I've witnessed more prominent bumps on a wall. {PAWN_nameShortPossessive} nipples are a disservice to the term.</li>
+            <li>Just a flat slab of chest, and those nipples do nothing to improve the dismal view.</li>
+            <li>One could easily miss {PAWN_nameShortPossessive} breasts entirely; the nipples offer no point of interest whatsoever.</li>
+            <li>It's a bewildering sight: {PAWN_nameShortPossessive} flat chest, and nipples that look like they're trying to hide.</li>
+            <li>I've seen more appealing scars than {PAWN_nameShortPossessive} nipples. The chest is just… flat.</li>
+            <li>The entire chest is flat, making {PAWN_nameShortPossessive} nipples seem like a last-minute addition, and a poor one at that.</li>
+        </opinionTexts>
+		</Def>
+    
+
+
+<!--Elder Male observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_Elderly_Male_opinion</defName>
+        <label>Flat/Nipples Breasts (Negative)_Elderly_Male_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>These young ones truly disappoint with such undeveloped chests. {PAWN_nameShortPossessive} nipples are barely there.</li>
+            <li>Back in my day, women had proper chests. {PAWN_nameShortPossessive} flat chest is a sad sight.</li>
+            <li>I've seen more impressive hills in the colony's backyard than {PAWN_nameShortPossessive} chest. And those nipples!</li>
+            <li>Flat as a board, with nipples like pinpricks. What exactly am I supposed to be appreciating here?</li>
+            <li>Is that really all there is? {PAWN_nameShortPossessive} chest is so flat, it's almost insulting.</li>
+            <li>A truly uninspiring display. {PAWN_nameShortPossessive} nipples are just sad little nodes on a barren landscape.</li>
+            <li>I expected more from a young female. {PAWN_nameShortPossessive} breasts are practically nonexistent.</li>
+            <li>Hmph. Just flat. And the nipples are hardly worth a second glance.</li>
+            <li>Such a shame. {PAWN_nameShortPossessive} chest lacks any appealing form, and the nipples are no better.</li>
+            <li>Barely a ripple. {PAWN_nameShortPossessive} chest is so flat, it makes me wonder what the point is.</li>
+            <li>I've seen more definition on a smooth rock. {PAWN_nameShortPossessive} nipples are simply unremarkable.</li>
+            <li>A flat chest with tiny, unappealing nipples. A disappointing sight indeed.</li>
+            <li>Where's the promise? {PAWN_nameShortPossessive} chest offers nothing but flatness.</li>
+            <li>The sight of {PAWN_nameShortPossessive} flat chest leaves me utterly unimpressed. Those nipples are far too small.</li>
+            <li>No curves, no fullness, just a depressing flatness. And the nipples... insignificant.</li>
+            <li>I've certainly seen better. {PAWN_nameShortPossessive} chest and its nipples are just... there.</li>
+            <li>A meager offering. {PAWN_nameShortPossessive} chest is as flat as my old workbench.</li>
+            <li>I find no allure in such an underdeveloped form. {PAWN_nameShortPossessive} nipples are a letdown.</li>
+            <li>It's a flat landscape with two tiny, unimpressive markers. What a waste of a gaze.</li>
+            <li>Honestly, {PAWN_nameShortPossessive} chest is so flat, it makes me feel old. And not in a good way.</li>
+            <li>Those nipples are like shy little buttons on a barren fabric. No appeal whatsoever.</li>
+            <li>I was hoping for something more, but {PAWN_nameShortPossessive} chest offers only a flat reality.</li>
+            <li>What a dismal sight. {PAWN_nameShortPossessive} nipples are hardly worth the effort of looking.</li>
+            <li>A truly unformed chest. The nipples are just faint suggestions of what could be.</li>
+            <li>I've seen more exciting plains. {PAWN_nameShortPossessive} chest and its nipples are utterly unengaging.</li>
+            <li>This young generation and their lack of development. {PAWN_nameShortPossessive} nipples prove my point.</li>
+            <li>It's just... flat. The nipples are barely distinguishable from the surrounding skin.</li>
+            <li>I recall a time when women's chests had some substance. {PAWN_nameShortPossessive} is a poor example.</li>
+            <li>A completely forgettable display of anatomy. Those nipples are simply pathetic.</li>
+            <li>I'm quite accustomed to seeing more form. {PAWN_nameShortPossessive} flat chest and tiny nipples are a stark contrast.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young female, with nymphomaniac or perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_Elderly_Male_voyer_opinion</defName>
+        <label>Flat/Nipples Breasts (Negative)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even for a voyeur like me, {PAWN_nameShortPossessive} flat chest and pathetic nipples offer no thrill. My loins remain unstirred.</li>
+            <li>I expected to feel something, but {PAWN_nameShortPossessive} underdeveloped breasts and tiny nipples are a complete turn-off.</li>
+            <li>A wasted glance. {PAWN_nameShortPossessive} chest is as flat as my hopes for a stimulating view. My member droops.</li>
+            <li>There's nothing here to captivate. {PAWN_nameShortPossessive} breasts are a flat, boring landscape with insignificant nipples.</li>
+            <li>I've observed much more enticing forms. {PAWN_nameShortPossessive} nipples are a disappointment, barely visible.</li>
+            <li>This does nothing for me. {PAWN_nameShortPossessive} chest is too flat, and the nipples are utterly unstimulating.</li>
+            <li>My eyes ache from the lack of curves. {PAWN_nameShortPossessive} nipples are so small, it's pathetic.</li>
+            <li>A barren chest, with nipples that offer no invitation. My usual urges are completely absent.</li>
+            <li>I've seen more exciting planks of wood. {PAWN_nameShortPossessive} chest is a void, and the nipples are mere suggestions.</li>
+            <li>What a letdown. {PAWN_nameShortPossessive} nipples are so tiny, they're hardly worth noticing, even for a voyeur.</li>
+            <li>My interest waned immediately. {PAWN_nameShortPossessive} flat chest and insignificant nipples are a visual bore.</li>
+            <li>This isn't the thrill I seek. {PAWN_nameShortPossessive} breasts are flat, and the nipples are utterly unappealing.</li>
+            <li>It's a flat, uninspiring canvas. {PAWN_nameShortPossessive} nipples are like two forgotten dots.</li>
+            <li>A truly unstimulating sight. My body registers no excitement from {PAWN_nameShortPossessive} underdeveloped form.</li>
+            <li>I felt absolutely nothing. {PAWN_nameShortPossessive} chest is too flat, the nipples too small to ignite any desire.</li>
+            <li>My gaze found no pleasure in {PAWN_nameShortPossessive} flat breasts and their unpronounced nipples.</li>
+            <li>A cold observation. {PAWN_nameShortPossessive} chest offers no warmth, and the nipples no spark.</li>
+            <li>I've wasted my time looking at {PAWN_nameShortPossessive} utterly flat chest. The nipples are a visual crime.</li>
+            <li>This only serves to deflate my expectations. {PAWN_nameShortPossessive} nipples are microscopic.</li>
+            <li>Such a dull sight. My senses are left completely untouched by {PAWN_nameShortPossessive} flat breasts.</li>
+            <li>A truly unarousing view. {PAWN_nameShortPossessive} chest and its nipples are entirely devoid of sensuality.</li>
+            <li>I felt a distinct lack of anything. {PAWN_nameShortPossessive} nipples are too flat to evoke any reaction.</li>
+            <li>This spectacle does not please me. {PAWN_nameShortPossessive} breasts are flat and their nipples uninspiring.</li>
+            <li>My voyeuristic desires are left completely unfulfilled by {PAWN_nameShortPossessive} meager chest.</li>
+            <li>I avert my gaze, disgusted by the sheer flatness of {PAWN_nameShortPossessive} chest and its tiny, unappealing nipples.</li>
+            <li>A disappointing flatness. My member recoils from the sight of {PAWN_nameShortPossessive} uninspired nipples.</li>
+            <li>There's no curve to follow, no form to admire. {PAWN_nameShortPossessive} chest is a flat, uninteresting expanse.</li>
+            <li>My perverted mind finds no joy in this. {PAWN_nameShortPossessive} nipples are too small to even be considered.</li>
+            <li>This is a voyeur's nightmare. {PAWN_nameShortPossessive} chest is too flat, too barren.</li>
+            <li>I've seen more provocative patterns in dirt. {PAWN_nameShortPossessive} nipples are nothing.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_Elderly_Female_opinion</defName>
+        <label>Flat/Nipples Breasts (Negative)_Elderly_Female_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Such a pity. {PAWN_nameShortPossessive} chest is so flat, it barely exists. And those tiny nipples are simply unfortunate.</li>
+            <li>I remember when young women had some form. {PAWN_nameShortPossessive} flat chest is a stark reminder of changing times.</li>
+            <li>Barely anything there. {PAWN_nameShortPossessive} breasts are practically nonexistent, and the nipples are so small.</li>
+            <li>Is that what passes for a chest these days? {PAWN_nameShortPossessive} flat form is quite unappealing.</li>
+            <li>A truly disappointing lack of development. {PAWN_nameShortPossessive} nipples are just sad little bumps.</li>
+            <li>I've seen more curve on a straight line. {PAWN_nameShortPossessive} chest is just flat, with uninspiring nipples.</li>
+            <li>A flat, uninteresting canvas. {PAWN_nameShortPossessive} nipples are so tiny, they're barely visible.</li>
+            <li>It's a shame to see such undeveloped features. {PAWN_nameShortPossessive} breasts offer no allure.</li>
+            <li>Honestly, {PAWN_nameShortPossessive} chest is so meager, it's hardly worth a glance.</li>
+            <li>Those nipples are barely distinguishable. {PAWN_nameShortPossessive} chest is utterly without form.</li>
+            <li>I find no beauty in such a flat, barren display. {PAWN_nameShortPossessive} nipples are a non-event.</li>
+            <li>A truly uninspiring sight. {PAWN_nameShortPossessive} breasts are flat, and their nipples are insignificant.</li>
+            <li>There's nothing to admire here. {PAWN_nameShortPossessive} chest is just... flat.</li>
+            <li>The lack of development is frankly alarming. {PAWN_nameShortPossessive} nipples are too small to be noticeable.</li>
+            <li>I've seen more generous forms on children. {PAWN_nameShortPossessive} chest is a sad example.</li>
+            <li>A truly forgettable chest. The nipples are hardly worth mentioning.</li>
+            <li>What a disappointment. {PAWN_nameShortPossessive} breasts are completely flat, with unappealing nipples.</li>
+            <li>I find no elegance or grace in such a flat presentation. {PAWN_nameShortPossessive} nipples are so small.</li>
+            <li>It's just a flat surface. {PAWN_nameShortPossessive} nipples are barely more than dots.</li>
+            <li>A completely uninteresting form. {PAWN_nameShortPossessive} chest is devoid of any feminine appeal.</li>
+            <li>I'm quite underwhelmed by {PAWN_nameShortPossessive} underdeveloped breasts and their tiny nipples.</li>
+            <li>There's nothing to truly see or appreciate. {PAWN_nameShortPossessive} flat chest is a void.</li>
+            <li>Those nipples are barely noticeable, just like the rest of {PAWN_nameShortPossessive} flat chest.</li>
+            <li>I expected a more substantial figure. {PAWN_nameShortPossessive} breasts are simply not there.</li>
+            <li>A truly unappealing sight. {PAWN_nameShortPossessive} chest is as flat as a washing board.</li>
+            <li>It's a shame to see such an absence of form. {PAWN_nameShortPossessive} nipples are so small, it's a wonder they're there.</li>
+            <li>I find no feminine allure in such a meager chest. {PAWN_nameShortPossessive} nipples are barely formed.</li>
+            <li>The flatness is quite stark. {PAWN_nameShortPossessive} nipples add nothing to the uninspired view.</li>
+            <li>A completely unmemorable chest. Those nipples are simply uninteresting.</li>
+            <li>I'm not impressed by {PAWN_nameShortPossessive} lack of development. The nipples are as flat as the chest.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Female voyer observes young female with nymphomaniac or perverted approach, can include own breasts mention or own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_Elderly_Female_voyer_opinion</defName>
+        <label>Flat/Nipples Breasts (Negative)_Elderly_Female_voyer_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even my perverted gaze finds nothing exciting in {PAWN_nameShortPossessive} flat chest and tiny nipples. It's a disappointment. My own sag a bit, but at least they're there!</li>
+            <li>I sought stimulation, but {PAWN_nameShortPossessive} underdeveloped breasts and barely-there nipples are utterly unarousing.</li>
+            <li>What a flat, uninspiring sight. There's no thrill to be had from {PAWN_nameShortPossessive} nipples. My own breasts feel more vibrant.</li>
+            <li>My voyeuristic urges remain dormant. {PAWN_nameShortPossessive} chest is too flat, the nipples too insignificant.</li>
+            <li>I expected a more compelling display. {PAWN_nameShortPossessive} breasts offer nothing for my depraved eyes.</li>
+            <li>This does not ignite any fire within me. {PAWN_nameShortPossessive} nipples are a sad, flat reality.</li>
+            <li>A complete letdown. My own chest, though aged, has more form than {PAWN_nameShortPossessive} barren front.</li>
+            <li>I feel no perverse pleasure from this view. {PAWN_nameShortPossessive} breasts are flat, and their nipples are uninteresting.</li>
+            <li>My desires are utterly untouched. {PAWN_nameShortPossessive} chest is too flat to even tempt.</li>
+            <li>The absence of curves leaves me cold. {PAWN_nameShortPossessive} nipples are barely worth the effort of my gaze.</li>
+            <li>A truly unstimulating observation. {PAWN_nameShortPossessive} breasts are a void where pleasure should be.</li>
+            <li>I've seen more inviting lumps on rocks. {PAWN_nameShortPossessive} nipples offer no temptation.</li>
+            <li>My perverse curiosity is left completely unsatisfied. {PAWN_nameShortPossessive} flat chest is a bore.</li>
+            <li>There's nothing for my eyes to linger on. {PAWN_nameShortPossessive} nipples are too flat, too small.</li>
+            <li>This offers no thrill, no excitement. {PAWN_nameShortPossessive} underdeveloped breasts are a visual insult.</li>
+            <li>I'm quite accustomed to seeing more. {PAWN_nameShortPossessive} chest is tragically flat, and the nipples are pathetic.</li>
+            <li>A true disappointment for a voyeur. {PAWN_nameShortPossessive} nipples are simply too unpronounced.</li>
+            <li>My perversions are not stirred by such a meager sight. {PAWN_nameShortPossessive} breasts are a barren land.</li>
+            <li>I felt no stirring whatsoever. {PAWN_nameShortPossessive} chest is too flat, leaving me completely uninterested.</li>
+            <li>This is a stark reminder of what not to observe. {PAWN_nameShortPossessive} nipples are a letdown.</li>
+            <li>My own body has seen more action than {PAWN_nameShortPossessive} flat chest ever will.</li>
+            <li>I'm thoroughly unimpressed by {PAWN_nameShortPossessive} lack of form. Those nipples are pitiful.</li>
+            <li>A voyeur's worst nightmare: {PAWN_nameShortPossessive} breasts that offer nothing to fixate on.</li>
+            <li>I find no delight in this flat display. {PAWN_nameShortPossessive} nipples are utterly unappealing.</li>
+            <li>My gaze quickly moved on from {PAWN_nameShortPossessive} uninspired chest. It's just flat.</li>
+            <li>There's no perverse satisfaction to be found here. {PAWN_nameShortPossessive} nipples are a dismal sight.</li>
+            <li>I've seen more shapely objects in a dumpster. {PAWN_nameShortPossessive} flat breasts are a disgrace.</li>
+            <li>The lack of curves and form is offensive to my voyeuristic nature. {PAWN_nameShortPossessive} nipples are negligible.</li>
+            <li>A truly unmemorable observation. My perverted mind demands more than {PAWN_nameShortPossessive} flatness.</li>
+            <li>This is not what I seek. {PAWN_nameShortPossessive} chest is too flat, and those nipples are a joke.</li>
+        </opinionTexts>
+</Def>
+<!--Young male observes young female, more based on sexual atraction, can include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_MaleOpinion</defName>
+        <label>Flat/Nipples Breasts (Negative)_MaleOpinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Is that really all there is? {PAWN_nameShortPossessive} chest is so flat, it's not even worth a second glance. My interest deflates.</li>
+            <li>I was hoping for something to... fill the eye. {PAWN_nameShortPossessive} flat breasts and tiny nipples are a massive letdown.</li>
+            <li>Absolutely nothing to admire. {PAWN_nameShortPossessive} chest is barren, and those nipples are barely visible. My anticipation died.</li>
+            <li>This is not what I'm looking for. {PAWN_nameShortPossessive} breasts are completely flat; my arousal is nonexistent.</li>
+            <li>Such a disappointment. {PAWN_nameShortPossessive} nipples are so small, they don't even register as attractive.</li>
+            <li>My gaze found no pleasure in {PAWN_nameShortPossessive} flat chest. My body remains unswayed.</li>
+            <li>I've seen more appealing forms on a wall. {PAWN_nameShortPossessive} breasts are a complete turn-off.</li>
+            <li>There's no curve, no fullness. {PAWN_nameShortPossessive} nipples are just sad little points.</li>
+            <li>A truly uninspiring sight. {PAWN_nameShortPossessive} chest is so flat, it's almost a negative.</li>
+            <li>My expectations were certainly not met. {PAWN_nameShortPossessive} nipples are barely there, and the chest is flat.</li>
+            <li>This doesn't stir anything within me. {PAWN_nameShortPossessive} breasts are completely unappealing.</li>
+            <li>I'm left utterly unimpressed. {PAWN_nameShortPossessive} chest is devoid of any sexual allure.</li>
+            <li>What a waste of good eyesight. {PAWN_nameShortPossessive} nipples are a pathetic sight.</li>
+            <li>It's a flat, uninteresting landscape. {PAWN_nameShortPossessive} chest offers nothing to excite.</li>
+            <li>My attention quickly moved on. {PAWN_nameShortPossessive} breasts are simply too underdeveloped.</li>
+            <li>A true disappointment. {PAWN_nameShortPossessive} flat chest and tiny nipples are a turn-off.</li>
+            <li>There's no visual stimulation here. {PAWN_nameShortPossessive} nipples are too small to catch my interest.</li>
+            <li>I feel absolutely nothing from {PAWN_nameShortPossessive} flat chest. My desires remain dormant.</li>
+            <li>Such a meager display. {PAWN_nameShortPossessive} breasts are simply not what I'm attracted to.</li>
+            <li>I can't even focus on {PAWN_nameShortPossessive} nipples; the whole chest is just so flat.</li>
+            <li>My gaze found no satisfaction. {PAWN_nameShortPossessive} chest is unformed and unattractive.</li>
+            <li>A completely unarousing sight. Those nipples are hardly worth a second thought.</li>
+            <li>This does not pique my interest in the slightest. {PAWN_nameShortPossessive} flat chest is a deterrent.</li>
+            <li>I'm surprised by the lack of... anything. {PAWN_nameShortPossessive} nipples are microscopic.</li>
+            <li>A disheartening view. {PAWN_nameShortPossessive} breasts are too flat for my taste.</li>
+            <li>My body's reaction is simply... apathy. {PAWN_nameShortPossessive} nipples are utterly unimpressive.</li>
+            <li>I felt no spark of attraction. {PAWN_nameShortPossessive} chest is flat and uninviting.</li>
+            <li>What a bland, uninspiring sight. Those nipples are just there, doing nothing.</li>
+            <li>I'd rather look at the wall. {PAWN_nameShortPossessive} chest is too flat to be engaging.</li>
+            <li>My hopes were dashed by {PAWN_nameShortPossessive} utterly flat breasts and their unappealing nipples.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes young female -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_Voyeur</defName>
+        <label>Flat/Nipples Breasts (Negative) trait Voyeur</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even for a voyeur, {PAWN_nameShortPossessive} flat chest and utterly unremarkable nipples offer no perverse satisfaction.</li>
+            <li>I sought a thrill, but {PAWN_nameShortPossessive} underdeveloped breasts and tiny nipples are a complete letdown.</li>
+            <li>There's nothing here to hold my gaze. {PAWN_nameShortPossessive} flat breasts are a visual void for a voyeur.</li>
+            <li>My voyeuristic desires remain completely unfulfilled. {PAWN_nameShortPossessive} nipples are too insignificant.</li>
+            <li>A truly disappointing spectacle. {PAWN_nameShortPossessive} chest is barren, devoid of any perverse interest.</li>
+            <li>I expected to feel something, but {PAWN_nameShortPossessive} flat chest and uninspiring nipples leave me cold.</li>
+            <li>My eyes are bored by {PAWN_nameShortPossessive} utter lack of form. Those nipples are a non-event.</li>
+            <li>This is a voyeur's worst nightmare: a flat, unstimulating view of {PAWN_nameShortPossessive} chest.</li>
+            <li>There's nothing here to fixate on. {PAWN_nameShortPossessive} nipples are too small to capture my attention.</li>
+            <li>A complete waste of a glance. {PAWN_nameShortPossessive} flat breasts offer no perverse delight.</li>
+            <li>I've seen more intriguing shadows than {PAWN_nameShortPossessive} nipples. The chest is just flat.</li>
+            <li>My perverse curiosity finds no joy in {PAWN_nameShortPossessive} utterly flat chest and its tiny nipples.</li>
+            <li>This is simply dull. {PAWN_nameShortPossessive} breasts are too flat, too uninteresting for a true voyeur.</li>
+            <li>The lack of any discernible form is a turn-off. {PAWN_nameShortPossessive} nipples are barely there.</li>
+            <li>A truly unstimulating sight. {PAWN_nameShortPossessive} chest is flat, offering no curves to trace.</li>
+            <li>My gaze found no perverse pleasure in {PAWN_nameShortPossessive} underdeveloped breasts.</li>
+            <li>I'm quite accustomed to seeing more. {PAWN_nameShortPossessive} nipples are simply too insignificant.</li>
+            <li>A completely unarousing view. {PAWN_nameShortPossessive} flat chest is a barren landscape.</li>
+            <li>This spectacle does not satisfy my voyeuristic cravings. {PAWN_nameShortPossessive} breasts are flat.</li>
+            <li>There's nothing erotic about {PAWN_nameShortPossessive} utterly flat chest and its unpronounced nipples.</li>
+            <li>I feel no thrill from this observation. {PAWN_nameShortPossessive} nipples are too small to be interesting.</li>
+            <li>A disappointing flatness. My voyeuristic nature is left completely wanting.</li>
+            <li>My eyes quickly moved on from {PAWN_nameShortPossessive} uninspired chest. It's just flat.</li>
+            <li>No perverse joy to be found here. {PAWN_nameShortPossessive} breasts are unformed and unappealing.</li>
+            <li>This is a testament to uninspiring anatomy. {PAWN_nameShortPossessive} nipples are a pathetic sight.</li>
+            <li>A truly unmemorable display. {PAWN_nameShortPossessive} chest is too flat for any voyeur.</li>
+            <li>I've seen more captivating blank walls. {PAWN_nameShortPossessive} nipples offer no allure.</li>
+            <li>My gaze found no perverse satisfaction. {PAWN_nameShortPossessive} flat breasts are a bore.</li>
+            <li>This does not ignite any perverted thoughts. {PAWN_nameShortPossessive} chest is flat and uninviting.</li>
+            <li>A voyeuristic letdown. {PAWN_nameShortPossessive} nipples are a complete non-starter.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young female with nymphomaniac approach, can include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_Voyeur_M</defName>
+        <label>Flat/Nipples Breasts (Negative) trait Voyeur_M</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even for me, {PAWN_nameShortPossessive} flat chest and tiny nipples are a massive letdown. My member barely stirred.</li>
+            <li>I expected to feel something, but {PAWN_nameShortPossessive} underdeveloped breasts and barely-there nipples are utterly unarousing. My loins remain cold.</li>
+            <li>A wasted glance. {PAWN_nameShortPossessive} chest is as flat as my hopes for a stimulating view. My erection is a distant memory.</li>
+            <li>There's nothing here to captivate my perverted gaze. {PAWN_nameShortPossessive} nipples are a disappointment, barely visible.</li>
+            <li>This does nothing for me. {PAWN_nameShortPossessive} chest is too flat, and the nipples are utterly unstimulating. My desire died.</li>
+            <li>My eyes ache from the lack of curves. {PAWN_nameShortPossessive} nipples are so small, it's pathetic. No stirrings from below.</li>
+            <li>A barren chest, with nipples that offer no invitation. My usual urges are completely absent. My blood runs cold.</li>
+            <li>I've seen more exciting planks of wood. {PAWN_nameShortPossessive} chest is a void, and the nipples are mere suggestions. My manhood remains limp.</li>
+            <li>What a letdown. {PAWN_nameShortPossessive} nipples are so tiny, they're hardly worth noticing, even for a voyeur. No rise.</li>
+            <li>My interest waned immediately. {PAWN_nameShortPossessive} flat chest and insignificant nipples are a visual bore. Nothing down there.</li>
+            <li>This isn't the thrill I seek. {PAWN_nameShortPossessive} breasts are flat, and the nipples are utterly unappealing. My body refuses to respond.</li>
+            <li>It's a flat, uninspiring canvas. {PAWN_nameShortPossessive} nipples are like two forgotten dots. My member is still.</li>
+            <li>A truly unstimulating sight. My body registers no excitement from {PAWN_nameShortPossessive} underdeveloped form. No pulse.</li>
+            <li>I felt absolutely nothing. {PAWN_nameShortPossessive} chest is too flat, the nipples too small to ignite any desire. My passion is dead.</li>
+            <li>My gaze found no pleasure in {PAWN_nameShortPossessive} flat breasts and their unpronounced nipples. My shaft is still.</li>
+            <li>A cold observation. {PAWN_nameShortPossessive} chest offers no warmth, and the nipples no spark. My virility is unaffected.</li>
+            <li>I've wasted my time looking at {PAWN_nameShortPossessive} utterly flat chest. The nipples are a visual crime. My desire for intimacy is gone.</li>
+            <li>This only serves to deflate my expectations. {PAWN_nameShortPossessive} nipples are microscopic. My spirit sags.</li>
+            <li>Such a dull sight. My senses are left completely untouched by {PAWN_nameShortPossessive} flat breasts. My body is unmoved.</li>
+            <li>A truly unarousing view. {PAWN_nameShortPossessive} chest and its nipples are entirely devoid of sensuality. My arousal has fled.</li>
+            <li>I felt a distinct lack of anything. {PAWN_nameShortPossessive} nipples are too flat to evoke any reaction. My loins are quiet.</li>
+            <li>This spectacle does not please me. {PAWN_nameShortPossessive} breasts are flat and their nipples uninspiring. My urges are nil.</li>
+            <li>My voyeuristic desires are left completely unfulfilled by {PAWN_nameShortPossessive} meager chest. My manhood is dormant.</li>
+            <li>I avert my gaze, disgusted by the sheer flatness of {PAWN_nameShortPossessive} chest and its tiny, unappealing nipples. My very essence rejects it.</li>
+            <li>A disappointing flatness. My member recoils from the sight of {PAWN_nameShortPossessive} uninspired nipples.</li>
+            <li>There's no curve to follow, no form to admire. {PAWN_nameShortPossessive} chest is a flat, uninteresting expanse. My interest dwindles.</li>
+            <li>My perverted mind finds no joy in this. {PAWN_nameShortPossessive} nipples are too small to even be considered. No thrill.</li>
+            <li>This is a voyeur's nightmare. {PAWN_nameShortPossessive} chest is too flat, too barren. My inner beast slumbers.</li>
+            <li>I've seen more provocative patterns in dirt. {PAWN_nameShortPossessive} nipples are nothing. My passion extinguished.</li>
+            <li>My desire for observation has been utterly crushed by {PAWN_nameShortPossessive} flat, featureless chest. My arousal is dead.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young female with nymphomaniac approach, can include own breats reaction mention or own genitail vagina reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_Voyeur_F</defName>
+        <label>Flat/Nipples Breasts (Negative) trait Voyeur_F</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even my perverse gaze finds nothing exciting in {PAWN_nameShortPossessive} flat chest and tiny nipples. It's a disappointment. My own breasts feel more substantial.</li>
+            <li>I sought stimulation, but {PAWN_nameShortPossessive} underdeveloped breasts and barely-there nipples are utterly unarousing. My own desire for touch remains unawakened.</li>
+            <li>What a flat, uninspiring sight. There's no thrill to be had from {PAWN_nameShortPossessive} nipples. My own soft flesh feels more enticing.</li>
+            <li>My voyeuristic urges remain dormant. {PAWN_nameShortPossessive} chest is too flat, the nipples too insignificant. My own warmth is absent.</li>
+            <li>I expected a more compelling display. {PAWN_nameShortPossessive} breasts offer nothing for my depraved eyes. My core is untouched.</li>
+            <li>This does not ignite any fire within me. {PAWN_nameShortPossessive} nipples are a sad, flat reality. My own inner heat is cold.</li>
+            <li>A complete letdown. My own chest, though perhaps not perfect, has more form than {PAWN_nameShortPossessive} barren front. My self-gratification is uninspired.</li>
+            <li>I feel no perverse pleasure from this view. {PAWN_nameShortPossessive} breasts are flat, and their nipples are uninteresting. My inner throbbing is still.</li>
+            <li>My desires are utterly untouched. {PAWN_nameShortPossessive} chest is too flat to even tempt. My own sensitivity is unaffected.</li>
+            <li>The absence of curves leaves me cold. {PAWN_nameShortPossessive} nipples are barely worth the effort of my gaze. My clitoris feels nothing.</li>
+            <li>A truly unstimulating observation. {PAWN_nameShortPossessive} breasts are a void where pleasure should be. My feminine urges are numb.</li>
+            <li>I've seen more inviting lumps on rocks. {PAWN_nameShortPossessive} nipples offer no temptation. My sex is unresponsive.</li>
+            <li>My perverse curiosity is left completely unsatisfied. {PAWN_nameShortPossessive} flat chest is a bore. My arousal is absent.</li>
+            <li>There's nothing for my eyes to linger on. {PAWN_nameShortPossessive} nipples are too flat, too small. My inner wetness remains dry.</li>
+            <li>This offers no thrill, no excitement. {PAWN_nameShortPossessive} underdeveloped breasts are a visual insult. My body simply doesn't react.</li>
+            <li>I'm quite accustomed to seeing more. {PAWN_nameShortPossessive} chest is tragically flat, and the nipples are pathetic. My own form feels superior.</li>
+            <li>A true disappointment for a voyeur. {PAWN_nameShortPossessive} nipples are simply too unpronounced. No perverse fantasy can be built.</li>
+            <li>My perversions are not stirred by such a meager sight. {PAWN_nameShortPossessive} breasts are a barren land. My feminine essence is unimpressed.</li>
+            <li>I felt no stirring whatsoever. {PAWN_nameShortPossessive} chest is too flat, leaving me completely uninterested. My loins are silent.</li>
+            <li>This is a stark reminder of what not to observe. {PAWN_nameShortPossessive} nipples are a letdown. My inner core feels no pull.</li>
+            <li>My own body has seen more action than {PAWN_nameShortPossessive} flat chest ever will. My desires remain asleep.</li>
+            <li>I'm thoroughly unimpressed by {PAWN_nameShortPossessive} lack of form. Those nipples are pitiful. My own softness is unexcited.</li>
+            <li>A voyeur's worst nightmare: {PAWN_nameShortPossessive} breasts that offer nothing to fixate on. My perverse urges are dead.</li>
+            <li>I find no delight in this flat display. {PAWN_nameShortPossessive} nipples are utterly unappealing. My inner warmth is gone.</li>
+            <li>My gaze quickly moved on from {PAWN_nameShortPossessive} uninspired chest. It's just flat. My own feminine form is far more captivating.</li>
+            <li>There's no perverse satisfaction to be found here. {PAWN_nameShortPossessive} nipples are a dismal sight. My deep urges are untouched.</li>
+            <li>I've seen more shapely objects in a dumpster. {PAWN_nameShortPossessive} flat breasts are a disgrace. My femininity feels superior.</li>
+            <li>The lack of curves and form is offensive to my voyeuristic nature. {PAWN_nameShortPossessive} nipples are negligible. My inner yearning is extinguished.</li>
+            <li>A truly unmemorable observation. My perverted mind demands more than {PAWN_nameShortPossessive} flatness. My most private self is bored.</li>
+            <li>This is not what I seek. {PAWN_nameShortPossessive} chest is too flat, and those nipples are a joke. My internal landscape is barren.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_NMM_Exhibitionist</defName>
+        <label>Flat/Nipples Breasts (Negative) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>What's the point of showing off when {PAWN_nameShortPossessive} chest is so flat? The nipples are hardly worth the effort of revealing.</li>
+            <li>I crave attention, but {PAWN_nameShortPossessive} underdeveloped breasts and tiny nipples offer absolutely no spectacle.</li>
+            <li>There's nothing exciting about this display. {PAWN_nameShortPossessive} flat chest and unpronounced nipples are a visual bore.</li>
+            <li>I want to be seen, but {PAWN_nameShortPossessive} breasts offer no inspiration for exhibition. They're just flat.</li>
+            <li>This is not how you command attention. {PAWN_nameShortPossessive} nipples are so small, they're practically hiding.</li>
+            <li>A truly uninspiring exhibition. {PAWN_nameShortPossessive} chest is devoid of any captivating form.</li>
+            <li>I yearn for an audience, but {PAWN_nameShortPossessive} meager chest provides no reason for onlookers to stop.</li>
+            <li>What a disappointing show. {PAWN_nameShortPossessive} flat breasts and their unappealing nipples fail to impress.</li>
+            <li>My exhibitionist spirit is crushed by {PAWN_nameShortPossessive} utter lack of curves. Those nipples are a tragedy.</li>
+            <li>There's no grand reveal with such an underdeveloped chest. {PAWN_nameShortPossessive} nipples are just... there.</li>
+            <li>I want to shock and awe, but {PAWN_nameShortPossessive} flat chest inspires only apathy.</li>
+            <li>A truly unmemorable display of anatomy. {PAWN_nameShortPossessive} nipples are barely worth the light of day.</li>
+            <li>This doesn't inspire me to unveil myself. {PAWN_nameShortPossessive} breasts are simply too flat.</li>
+            <li>The lack of form is frankly offensive to my exhibitionist sensibilities. {PAWN_nameShortPossessive} nipples are pathetic.</li>
+            <li>I desire gasps, but {PAWN_nameShortPossessive} chest elicits only yawns. The nipples are nothing.</li>
+            <li>What a bland presentation. {PAWN_nameShortPossessive} flat breasts offer no reason to linger.</li>
+            <li>My inner urge to display is stifled by {PAWN_nameShortPossessive} utterly uninspiring chest.</li>
+            <li>There's nothing to truly exhibit here. {PAWN_nameShortPossessive} nipples are too small to matter.</li>
+            <li>A disappointing flatness. {PAWN_nameShortPossessive} chest is a poor example of human form.</li>
+            <li>I want to be the center of attention, but {PAWN_nameShortPossessive} nipples are too insignificant to draw any.</li>
+            <li>This is a vision of dullness. {PAWN_nameShortPossessive} flat breasts offer no spark.</li>
+            <li>My exhibitionist soul weeps at the sight of {PAWN_nameShortPossessive} unformed chest.</li>
+            <li>There's no flair, no drama, just a flat surface. {PAWN_nameShortPossessive} nipples are a missed opportunity.</li>
+            <li>I desire admiration, but {PAWN_nameShortPossessive} breasts offer nothing but their own flatness.</li>
+            <li>A truly unprovocative display. {PAWN_nameShortPossessive} nipples are too small to be noticed.</li>
+            <li>My exhibitionist tendencies are utterly disarmed by {PAWN_nameShortPossessive} flat chest.</li>
+            <li>What's the point of nudity if it's so uninspiring? {PAWN_nameShortPossessive} nipples are almost invisible.</li>
+            <li>I prefer a chest with some presence. {PAWN_nameShortPossessive} flat breasts are a letdown.</li>
+            <li>A completely forgettable exhibition. Those nipples are an afterthought.</li>
+            <li>This offers no reason to be bold. {PAWN_nameShortPossessive} chest is just... flat.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young female, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_NMM_Exhibitionist_male</defName>
+        <label>Flat/Nipples Breasts (Negative) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>What's the point of showing off when {PAWN_nameShortPossessive} chest is so flat? My own genitals feel more substantial.</li>
+            <li>I crave attention, but {PAWN_nameShortPossessive} underdeveloped breasts and tiny nipples offer absolutely no spectacle. My proud member remains hidden.</li>
+            <li>There's nothing exciting about this display. {PAWN_nameShortPossessive} flat chest and unpronounced nipples are a visual bore. I'd rather reveal myself.</li>
+            <li>I want to be seen, but {PAWN_nameShortPossessive} breasts offer no inspiration for exhibition. They're just flat. My own package is more impressive.</li>
+            <li>This is not how you command attention. {PAWN_nameShortPossessive} nipples are so small, they're practically hiding. My shaft demands to be seen.</li>
+            <li>A truly uninspiring exhibition. {PAWN_nameShortPossessive} chest is devoid of any captivating form. My own nudity offers more.</li>
+            <li>I yearn for an audience, but {PAWN_nameShortPossessive} meager chest provides no reason for onlookers to stop. My full glory awaits.</li>
+            <li>What a disappointing show. {PAWN_nameShortPossessive} flat breasts and their unappealing nipples fail to impress. I should expose myself instead.</li>
+            <li>My exhibitionist spirit is crushed by {PAWN_nameShortPossessive} utter lack of curves. Those nipples are a tragedy. My bulge demands recognition.</li>
+            <li>There's no grand reveal with such an underdeveloped chest. {PAWN_nameShortPossessive} nipples are just... there. My presence is far more striking.</li>
+            <li>I want to shock and awe, but {PAWN_nameShortPossessive} flat chest inspires only apathy. My own nudity would be a sensation.</li>
+            <li>A truly unmemorable display of anatomy. {PAWN_nameShortPossessive} nipples are barely worth the light of day. My exposed body is a true spectacle.</li>
+            <li>This doesn't inspire me to unveil myself. {PAWN_nameShortPossessive} breasts are simply too flat. My own potent form is superior.</li>
+            <li>The lack of form is frankly offensive to my exhibitionist sensibilities. {PAWN_nameShortPossessive} nipples are pathetic. My aroused manhood is a better display.</li>
+            <li>I desire gasps, but {PAWN_nameShortPossessive} chest elicits only yawns. The nipples are nothing. My naked body is a masterpiece.</li>
+            <li>What a bland presentation. {PAWN_nameShortPossessive} flat breasts offer no reason to linger. My unveiled self would stun.</li>
+            <li>My inner urge to display is stifled by {PAWN_nameShortPossessive} utterly uninspiring chest. My own grand reveal is preferable.</li>
+            <li>There's nothing to truly exhibit here. {PAWN_nameShortPossessive} nipples are too small to matter. My powerful nudity overshadows this.</li>
+            <li>A disappointing flatness. {PAWN_nameShortPossessive} chest is a poor example of human form. My masculinity is far more impressive.</li>
+            <li>I want to be the center of attention, but {PAWN_nameShortPossessive} nipples are too insignificant to draw any. My exposed manhood demands all eyes.</li>
+            <li>This is a vision of dullness. {PAWN_nameShortPossessive} flat breasts offer no spark. My own body shines brighter.</li>
+            <li>My exhibitionist soul weeps at the sight of {PAWN_nameShortPossessive} unformed chest. My glorious form should be seen.</li>
+            <li>There's no flair, no drama, just a flat surface. {PAWN_nameShortPossessive} nipples are a missed opportunity. My bare self is the true art.</li>
+            <li>I desire admiration, but {PAWN_nameShortPossessive} breasts offer nothing but their own flatness. My exposed groin is far more worthy.</li>
+            <li>A truly unprovocative display. {PAWN_nameShortPossessive} nipples are too small to be noticed. My nudity is a statement.</li>
+            <li>My exhibitionist tendencies are utterly disarmed by {PAWN_nameShortPossessive} flat chest. My own impressive attributes are better.</li>
+            <li>What's the point of nudity if it's so uninspiring? {PAWN_nameShortPossessive} nipples are almost invisible. My body is a true exhibition.</li>
+            <li>I prefer a chest with some presence. {PAWN_nameShortPossessive} flat breasts are a letdown. My prominent male form commands.</li>
+            <li>A completely forgettable exhibition. Those nipples are an afterthought. My own reveal would be unforgettable.</li>
+            <li>This offers no reason to be bold. {PAWN_nameShortPossessive} chest is just... flat. My magnificent display is superior.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young female, can include own breats mention, own genitail mentionor, or own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_NMM_Exhibitionist_Female</defName>
+        <label>Flat/Nipples Breasts (Negative) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>What's the point of showing off when {PAWN_nameShortPossessive} chest is so flat? My own breasts are far more impressive to unveil.</li>
+            <li>I crave attention, but {PAWN_nameShortPossessive} underdeveloped breasts and tiny nipples offer absolutely no spectacle. My own curves are more alluring.</li>
+            <li>There's nothing exciting about this display. {PAWN_nameShortPossessive} flat chest and unpronounced nipples are a visual bore. I'd rather reveal my own inviting form.</li>
+            <li>I want to be seen, but {PAWN_nameShortPossessive} breasts offer no inspiration for exhibition. They're just flat. My own cleavage is a better show.</li>
+            <li>This is not how you command attention. {PAWN_nameShortPossessive} nipples are so small, they're practically hiding. My own feminine features are more deserving of gaze.</li>
+            <li>A truly uninspiring exhibition. {PAWN_nameShortPossessive} chest is devoid of any captivating form. My own body provides a superior display.</li>
+            <li>I yearn for an audience, but {PAWN_nameShortPossessive} meager chest provides no reason for onlookers to stop. My own breasts yearn to be admired.</li>
+            <li>What a disappointing show. {PAWN_nameShortPossessive} flat breasts and their unappealing nipples fail to impress. I should unveil my own more satisfying contours.</li>
+            <li>My exhibitionist spirit is crushed by {PAWN_nameShortPossessive} utter lack of curves. Those nipples are a tragedy. My own full form is a true spectacle.</li>
+            <li>There's no grand reveal with such an underdeveloped chest. {PAWN_nameShortPossessive} nipples are just... there. My own feminine display is far more striking.</li>
+            <li>I want to shock and awe, but {PAWN_nameShortPossessive} flat chest inspires only apathy. My own body could truly captivate.</li>
+            <li>A truly unmemorable display of anatomy. {PAWN_nameShortPossessive} nipples are barely worth the light of day. My exposed breasts are a true masterpiece.</li>
+            <li>This doesn't inspire me to unveil myself. {PAWN_nameShortPossessive} breasts are simply too flat. My own proud chest is superior.</li>
+            <li>The lack of form is frankly offensive to my exhibitionist sensibilities. {PAWN_nameShortPossessive} nipples are pathetic. My own feminine curves are a better display.</li>
+            <li>I desire gasps, but {PAWN_nameShortPossessive} chest elicits only yawns. The nipples are nothing. My naked form is a vision.</li>
+            <li>What a bland presentation. {PAWN_nameShortPossessive} flat breasts offer no reason to linger. My unveiled self would enchant.</li>
+            <li>My inner urge to display is stifled by {PAWN_nameShortPossessive} utterly uninspiring chest. My own grand reveal is preferable.</li>
+            <li>There's nothing to truly exhibit here. {PAWN_nameShortPossessive} nipples are too small to matter. My ample chest overshadows this.</li>
+            <li>A disappointing flatness. {PAWN_nameShortPossessive} chest is a poor example of feminine form. My own body is far more impressive.</li>
+            <li>I want to be the center of attention, but {PAWN_nameShortPossessive} nipples are too insignificant to draw any. My exposed bosom demands all eyes.</li>
+            <li>This is a vision of dullness. {PAWN_nameShortPossessive} flat breasts offer no spark. My own body radiates beauty.</li>
+            <li>My exhibitionist soul weeps at the sight of {PAWN_nameShortPossessive} unformed chest. My glorious feminine form should be seen.</li>
+            <li>There's no flair, no drama, just a flat surface. {PAWN_nameShortPossessive} nipples are a missed opportunity. My bare self is the true art.</li>
+            <li>I desire admiration, but {PAWN_nameShortPossessive} breasts offer nothing but their own flatness. My exposed feminine curves are far more worthy.</li>
+            <li>A truly unprovocative display. {PAWN_nameShortPossessive} nipples are too small to be noticed. My nudity is a statement of feminine power.</li>
+            <li>My exhibitionist tendencies are utterly disarmed by {PAWN_nameShortPossessive} flat chest. My own impressive attributes are better.</li>
+            <li>What's the point of nudity if it's so uninspiring? {PAWN_nameShortPossessive} nipples are almost invisible. My body is a true exhibition.</li>
+            <li>I prefer a chest with some presence. {PAWN_nameShortPossessive} flat breasts are a letdown. My prominent feminine form commands attention.</li>
+            <li>A completely forgettable exhibition. Those nipples are an afterthought. My own reveal would be unforgettable.</li>
+            <li>This offers no reason to be bold. {PAWN_nameShortPossessive} chest is just... flat. My magnificent display is superior.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_Nymphomaniac</defName>
+        <label>Flat/Nipples Breasts (Negative) trait Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My insatiable desires are utterly unprovoked by {PAWN_nameShortPossessive} flat chest and tiny, uninspiring nipples.</li>
+            <li>I crave stimulation, but {PAWN_nameShortPossessive} underdeveloped breasts offer absolutely no spark.</li>
+            <li>There's nothing here to ignite my passion. {PAWN_nameShortPossessive} flat breasts and unpronounced nipples are a complete turn-off.</li>
+            <li>My lust remains dormant. {PAWN_nameShortPossessive} chest is too flat, the nipples too insignificant to arouse.</li>
+            <li>A truly disappointing sight. My nymphomaniac urges find no solace in {PAWN_nameShortPossessive} barren chest.</li>
+            <li>I yearn for release, but {PAWN_nameShortPossessive} meager breasts provide no reason for excitement.</li>
+            <li>What a frustrating view. {PAWN_nameShortPossessive} flat breasts and their unappealing nipples fail to stir me.</li>
+            <li>My insatiable hunger finds nothing to consume in {PAWN_nameShortPossessive} utterly flat chest.</li>
+            <li>There's no grand sensation with such an underdeveloped chest. {PAWN_nameShortPossessive} nipples are just... there.</li>
+            <li>I want to feel something, but {PAWN_nameShortPossessive} flat chest inspires only emptiness.</li>
+            <li>A truly unmemorable display of anatomy. {PAWN_nameShortPossessive} nipples are barely worth a glance.</li>
+            <li>This doesn't excite my core. {PAWN_nameShortPossessive} breasts are simply too flat.</li>
+            <li>The lack of form is frankly offensive to my heightened senses. {PAWN_nameShortPossessive} nipples are pathetic.</li>
+            <li>I desire ecstasy, but {PAWN_nameShortPossessive} chest elicits only disinterest. The nipples are nothing.</li>
+            <li>What a bland presentation. {PAWN_nameShortPossessive} flat breasts offer no reason for my desires to linger.</li>
+            <li>My inner urge to pleasure is stifled by {PAWN_nameShortPossessive} utterly uninspiring chest.</li>
+            <li>There's nothing to truly desire here. {PAWN_nameShortPossessive} nipples are too small to matter.</li>
+            <li>A disappointing flatness. {PAWN_nameShortPossessive} chest is a poor example for any sensuous gaze.</li>
+            <li>I want to be overwhelmed, but {PAWN_nameShortPossessive} nipples are too insignificant to draw any passion.</li>
+            <li>This is a vision of dullness. {PAWN_nameShortPossessive} flat breasts offer no spark of lust.</li>
+            <li>My nymphomaniac soul despairs at the sight of {PAWN_nameShortPossessive} unformed chest.</li>
+            <li>There's no flair, no drama, just a flat surface. {PAWN_nameShortPossessive} nipples are a missed opportunity for pleasure.</li>
+            <li>I desire intense sensation, but {PAWN_nameShortPossessive} breasts offer nothing but their own flatness.</li>
+            <li>A truly unprovocative display. {PAWN_nameShortPossessive} nipples are too small to be noticed by my aroused state.</li>
+            <li>My nymphomaniac tendencies are utterly disarmed by {PAWN_nameShortPossessive} flat chest.</li>
+            <li>What's the point of nudity if it's so uninspiring? {PAWN_nameShortPossessive} nipples are almost invisible to my seeking eyes.</li>
+            <li>I prefer a chest with some presence. {PAWN_nameShortPossessive} flat breasts are a letdown for my cravings.</li>
+            <li>A completely forgettable encounter. Those nipples are an afterthought for my desires.</li>
+            <li>This offers no reason to pursue. {PAWN_nameShortPossessive} chest is just... flat.</li>
+            <li>My powerful urges are left utterly wanting by {PAWN_nameShortPossessive} unappealing flatness.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young female, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_Nymphomaniac_male</defName>
+        <label>Flat/Nipples Breasts (Negative) trait Nymphomaniac_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My insatiable desires are utterly unprovoked by {PAWN_nameShortPossessive} flat chest and tiny, uninspiring nipples. My member remains disappointingly soft.</li>
+            <li>I crave stimulation, but {PAWN_nameShortPossessive} underdeveloped breasts offer absolutely no spark. My arousal is dead.</li>
+            <li>There's nothing here to ignite my passion. {PAWN_nameShortPossessive} flat breasts and unpronounced nipples are a complete turn-off. My groin feels nothing.</li>
+            <li>My lust remains dormant. {PAWN_nameShortPossessive} chest is too flat, the nipples too insignificant to arouse. My erection has fled.</li>
+            <li>A truly disappointing sight. My nymphomaniac urges find no solace in {PAWN_nameShortPossessive} barren chest. My body is numb.</li>
+            <li>I yearn for release, but {PAWN_nameShortPossessive} meager breasts provide no reason for excitement. My shaft lies dormant.</li>
+            <li>What a frustrating view. {PAWN_nameShortPossessive} flat breasts and their unappealing nipples fail to stir me. My blood runs cold.</li>
+            <li>My insatiable hunger finds nothing to consume in {PAWN_nameShortPossessive} utterly flat chest. My desires are unquenched.</li>
+            <li>There's no grand sensation with such an underdeveloped chest. {PAWN_nameShortPossessive} nipples are just... there. My masculinity is unimpressed.</li>
+            <li>I want to feel something, but {PAWN_nameShortPossessive} flat chest inspires only emptiness. My member is still.</li>
+            <li>A truly unmemorable display of anatomy. {PAWN_nameShortPossessive} nipples are barely worth a glance. My very core is unmoved.</li>
+            <li>This doesn't excite my core. {PAWN_nameShortPossessive} breasts are simply too flat. My genitals are unresponsive.</li>
+            <li>The lack of form is frankly offensive to my heightened senses. {PAWN_nameShortPossessive} nipples are pathetic. My arousal simply won't come.</li>
+            <li>I desire ecstasy, but {PAWN_nameShortPossessive} chest elicits only disinterest. The nipples are nothing. My climax is nowhere to be found.</li>
+            <li>What a bland presentation. {PAWN_nameShortPossessive} flat breasts offer no reason for my desires to linger. My passion has waned.</li>
+            <li>My inner urge to pleasure is stifled by {PAWN_nameShortPossessive} utterly uninspiring chest. My body is a silent canvas.</li>
+            <li>There's nothing to truly desire here. {PAWN_nameShortPossessive} nipples are too small to matter. My sexual drive is absent.</li>
+            <li>A disappointing flatness. {PAWN_nameShortPossessive} chest is a poor example for any sensuous gaze. My desires are unfulfilled.</li>
+            <li>I want to be overwhelmed, but {PAWN_nameShortPossessive} nipples are too insignificant to draw any passion. My sexual energy has dissipated.</li>
+            <li>This is a vision of dullness. {PAWN_nameShortPossessive} flat breasts offer no spark of lust. My inner fire is out.</li>
+            <li>My nymphomaniac soul despairs at the sight of {PAWN_nameShortPossessive} unformed chest. My very being is bored.</li>
+            <li>There's no flair, no drama, just a flat surface. {PAWN_nameShortPossessive} nipples are a missed opportunity for pleasure. My sexual self is frustrated.</li>
+            <li>I desire intense sensation, but {PAWN_nameShortPossessive} breasts offer nothing but their own flatness. My pleasure centers are untouched.</li>
+            <li>A truly unprovocative display. {PAWN_nameShortPossessive} nipples are too small to be noticed by my aroused state. My sexual instinct is silenced.</li>
+            <li>My nymphomaniac tendencies are utterly disarmed by {PAWN_nameShortPossessive} flat chest. My powerful urges are quiet.</li>
+            <li>What's the point of nudity if it's so uninspiring? {PAWN_nameShortPossessive} nipples are almost invisible to my seeking eyes. My male form remains unexcited.</li>
+            <li>I prefer a chest with some presence. {PAWN_nameShortPossessive} flat breasts are a letdown for my cravings. My own body offers more.</li>
+            <li>A completely forgettable encounter. Those nipples are an afterthought for my desires. My passion has withered.</li>
+            <li>This offers no reason to pursue. {PAWN_nameShortPossessive} chest is just... flat. My sexual curiosity is gone.</li>
+            <li>My powerful urges are left utterly wanting by {PAWN_nameShortPossessive} unappealing flatness. My desire is crushed.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young female, may include own breats reaction  mention, or own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_Nymphomaniac_Female</defName>
+        <label>Flat/Nipples Breasts (Negative) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My insatiable desires are utterly unprovoked by {PAWN_nameShortPossessive} flat chest and tiny, uninspiring nipples. My own core remains cold.</li>
+            <li>I crave stimulation, but {PAWN_nameShortPossessive} underdeveloped breasts offer absolutely no spark. My inner heat refuses to rise.</li>
+            <li>There's nothing here to ignite my passion. {PAWN_nameShortPossessive} flat breasts and unpronounced nipples are a complete turn-off. My depths feel nothing.</li>
+            <li>My lust remains dormant. {PAWN_nameShortPossessive} chest is too flat, the nipples too insignificant to arouse. My feminine arousal is absent.</li>
+            <li>A truly disappointing sight. My nymphomaniac urges find no solace in {PAWN_nameShortPossessive} barren chest. My body feels numb.</li>
+            <li>I yearn for release, but {PAWN_nameShortPossessive} meager breasts provide no reason for excitement. My clitoris is unresponsive.</li>
+            <li>What a frustrating view. {PAWN_nameShortPossessive} flat breasts and their unappealing nipples fail to stir me. My inner wetness is gone.</li>
+            <li>My insatiable hunger finds nothing to consume in {PAWN_nameShortPossessive} utterly flat chest. My desires are unquenched.</li>
+            <li>There's no grand sensation with such an underdeveloped chest. {PAWN_nameShortPossessive} nipples are just... there. My feminine spirit is unimpressed.</li>
+            <li>I want to feel something, but {PAWN_nameShortPossessive} flat chest inspires only emptiness. My body remains still.</li>
+            <li>A truly unmemorable display of anatomy. {PAWN_nameShortPossessive} nipples are barely worth a glance. My very essence is unmoved.</li>
+            <li>This doesn't excite my core. {PAWN_nameShortPossessive} breasts are simply too flat. My feminine parts are unresponsive.</li>
+            <li>The lack of form is frankly offensive to my heightened senses. {PAWN_nameShortPossessive} nipples are pathetic. My arousal simply won't come.</li>
+            <li>I desire ecstasy, but {PAWN_nameShortPossessive} chest elicits only disinterest. The nipples are nothing. My climax is nowhere to be found.</li>
+            <li>What a bland presentation. {PAWN_nameShortPossessive} flat breasts offer no reason for my desires to linger. My passion has waned.</li>
+            <li>My inner urge to pleasure is stifled by {PAWN_nameShortPossessive} utterly uninspiring chest. My body is a silent canvas.</li>
+            <li>There's nothing to truly desire here. {PAWN_nameShortPossessive} nipples are too small to matter. My sexual drive is absent.</li>
+            <li>A disappointing flatness. {PAWN_nameShortPossessive} chest is a poor example for any sensuous gaze. My desires are unfulfilled.</li>
+            <li>I want to be overwhelmed, but {PAWN_nameShortPossessive} nipples are too insignificant to draw any passion. My sexual energy has dissipated.</li>
+            <li>This is a vision of dullness. {PAWN_nameShortPossessive} flat breasts offer no spark of lust. My inner fire is out.</li>
+            <li>My nymphomaniac soul despairs at the sight of {PAWN_nameShortPossessive} unformed chest. My very being is bored.</li>
+            <li>There's no flair, no drama, just a flat surface. {PAWN_nameShortPossessive} nipples are a missed opportunity for pleasure. My sexual self is frustrated.</li>
+            <li>I desire intense sensation, but {PAWN_nameShortPossessive} breasts offer nothing but their own flatness. My pleasure centers are untouched.</li>
+            <li>A truly unprovocative display. {PAWN_nameShortPossessive} nipples are too small to be noticed by my aroused state. My sexual instinct is silenced.</li>
+            <li>My nymphomaniac tendencies are utterly disarmed by {PAWN_nameShortPossessive} flat chest. My powerful urges are quiet.</li>
+            <li>What's the point of nudity if it's so uninspiring? {PAWN_nameShortPossessive} nipples are almost invisible to my seeking eyes. My feminine form remains unexcited.</li>
+            <li>I prefer a chest with some presence. {PAWN_nameShortPossessive} flat breasts are a letdown for my cravings. My own body offers more.</li>
+            <li>A completely forgettable encounter. Those nipples are an afterthought for my desires. My passion has withered.</li>
+            <li>This offers no reason to pursue. {PAWN_nameShortPossessive} chest is just... flat. My sexual curiosity is gone.</li>
+            <li>My powerful urges are left utterly wanting by {PAWN_nameShortPossessive} unappealing flatness. My desire is crushed.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_Kind</defName>
+        <label>Flat/Nipples Breasts (Negative) trait Kind</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>While I wouldn't comment aloud, {PAWN_nameShortPossessive} chest is certainly... understated. The nipples are quite subtle.</li>
+            <li>I'm trying to be polite, but {PAWN_nameShortPossessive} breasts are quite flat. It's a rather minimalist presentation.</li>
+            <li>It's not ideal, but I'll refrain from harsh judgment. {PAWN_nameShortPossessive} nipples are very small.</li>
+            <li>One observes and simply... notes the distinct lack of curves. {PAWN_nameShortPossessive} chest is quite flat.</li>
+            <li>Perhaps not the most visually appealing, but it is what it is. {PAWN_nameShortPossessive} nipples are modest.</li>
+            <li>I try to see the best in everyone, but {PAWN_nameShortPossessive} breasts are noticeably flat.</li>
+            <li>It's a rather plain form, and the nipples are hardly prominent. I'll just focus on other things.</li>
+            <li>One hopes for more, but accepts what is presented. {PAWN_nameShortPossessive} flat chest is a fact.</li>
+            <li>A rather uninspiring silhouette, but I won't dwell. {PAWN_nameShortPossessive} nipples are quite meek.</li>
+            <li>I'm sure {PAWN_nameShortPossessive} possesses other admirable qualities, as the chest is rather flat.</li>
+            <li>It's certainly not a focal point. {PAWN_nameShortPossessive} nipples are very, very small.</li>
+            <li>I try to maintain a positive outlook, but {PAWN_nameShortPossessive} chest is a stark example of flatness.</li>
+            <li>One notices, of course, the general lack of development. {PAWN_nameShortPossessive} breasts are flat.</li>
+            <li>It's a simple, unadorned chest. The nipples are barely there, which is a bit unfortunate.</li>
+            <li>I wouldn't want to make anyone uncomfortable, but {PAWN_nameShortPossessive} chest is undeniably flat.</li>
+            <li>A somewhat disappointing view, but one can overlook such things. {PAWN_nameShortPossessive} nipples are inconspicuous.</li>
+            <li>I shall choose to appreciate other aspects of {PAWN_nameShortPossessive} person, given the flatness of {PAWN_possessive} chest.</li>
+            <li>It's not what one typically expects, but it is their form. {PAWN_nameShortPossessive} nipples are quite small.</li>
+            <li>I try to be understanding, but the lack of curves on {PAWN_nameShortPossessive} chest is quite pronounced.</li>
+            <li>A rather undeveloped appearance, but one must be gracious. {PAWN_nameShortPossessive} nipples are barely formed.</li>
+            <li>I will simply observe and move on from {PAWN_nameShortPossessive} flat chest.</li>
+            <li>It's a testament to minimalist anatomy. {PAWN_nameShortPossessive} nipples are remarkably tiny.</li>
+            <li>One hopes for more pronounced features, but {PAWN_nameShortPossessive} breasts are quite flat.</li>
+            <li>I endeavor to be kind, but the visual impact of {PAWN_nameShortPossessive} flat chest is quite low.</li>
+            <li>A rather subtle presentation. {PAWN_nameShortPossessive} nipples offer little in the way of prominence.</li>
+            <li>I try to find something positive, but {PAWN_nameShortPossessive} flat chest makes it challenging.</li>
+            <li>It's a remarkably flat expanse, and the nipples are equally unassuming.</li>
+            <li>One could almost miss them. {PAWN_nameShortPossessive} breasts are quite flat, and the nipples are very small.</li>
+            <li>I choose to focus on inner beauty, as {PAWN_nameShortPossessive} chest is rather lacking in external form.</li>
+            <li>A gentle observation reveals a distinct flatness. {PAWN_nameShortPossessive} nipples are certainly not bold.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Negative_Nipples_trait_Prude</defName>
+        <label>Flat/Nipples Breasts (Negative) trait Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>What a pathetic excuse for a chest! {PAWN_nameShortPossessive} flat breasts are an embarrassment, and those tiny nipples are simply awful.</li>
+            <li>I'm disgusted by the sight of {PAWN_nameShortPossessive} flat, unformed chest. Keep your unappealing nudity to yourself!</li>
+            <li>Honestly, there's nothing redeeming about {PAWN_nameShortPossessive} breasts. They're flat and those nipples are just... wrong.</li>
+            <li>Why would anyone expose such a meager display? {PAWN_nameShortPossessive} nipples are hardly worth the effort of seeing.</li>
+            <li>A truly revolting sight. {PAWN_nameShortPossessive} chest is as flat as a pancake, and those nipples are an abomination.</li>
+            <li>I'm offended by the sheer flatness of {PAWN_nameShortPossessive} chest. It's an indecent lack of form.</li>
+            <li>This is precisely why I prefer proper attire. {PAWN_nameShortPossessive} nipples are a crude and unwelcome sight.</li>
+            <li>What a dismal and unappealing display of anatomy. {PAWN_nameShortPossessive} flat breasts are utterly shameful.</li>
+            <li>I demand that {PAWN_nameShortPossessive} cover {PAWN_possessive}self! Such an unformed chest with those ugly nipples is an affront.</li>
+            <li>My eyes are burning from the indignity of seeing {PAWN_nameShortPossessive} flat chest. The nipples are hideous.</li>
+            <li>This is a disgrace! {PAWN_nameShortPossessive} breasts are barely there, and those tiny nipples are an insult to decency.</li>
+            <li>I'm appalled by the lack of any proper form. {PAWN_nameShortPossessive} chest is a repulsive flat expanse.</li>
+            <li>This is why I despise nudity. {PAWN_nameShortPossessive} nipples are a crude reminder of imperfect bodies.</li>
+            <li>What an utterly unappealing and offensive display. {PAWN_nameShortPossessive} flat chest should remain hidden.</li>
+            <li>I feel sick looking at {PAWN_nameShortPossessive} underdeveloped breasts. The nipples are just... gross.</li>
+            <li>How dare {PAWN_nameShort} expose such a pathetic chest? Those nipples are an eyesore.</li>
+            <li>This is truly disgusting. {PAWN_nameShortPossessive} flat breasts offer no aesthetic value whatsoever.</li>
+            <li>I'm utterly repulsed by the sight of {PAWN_nameShortPossessive} nipples on such a flat chest. It's indecent.</li>
+            <li>A truly vile display of what passes for human anatomy. {PAWN_nameShortPossessive} chest is an abomination.</li>
+            <li>I can't believe I had to witness {PAWN_nameShortPossessive} meager breasts. The nipples are barely there, thankfully.</li>
+            <li>This is offensive to my sensibilities. {PAWN_nameShortPossessive} flat chest is a complete turn-off.</li>
+            <li>Keep your unappealing body covered! {PAWN_nameShortPossessive} nipples are an affront to proper form.</li>
+            <li>I've seen more impressive lesions. {PAWN_nameShortPossessive} breasts are a grotesque, flat sight.</li>
+            <li>The very sight of {PAWN_nameShortPossessive} flat chest and those tiny nipples makes me recoil.</li>
+            <li>This is truly a perversion of natural beauty. {PAWN_nameShortPossessive} nipples are simply awful.</li>
+            <li>I'm enraged by the sheer audacity of {PAWN_nameShort} exposing such a featureless chest.</li>
+            <li>A truly unholy sight. {PAWN_nameShortPossessive} flat breasts are a testament to everything wrong with nudity.</li>
+            <li>My prudish nature is screaming in protest at {PAWN_nameShortPossessive} unappealing nipples and flat chest.</li>
+            <li>I wish I could unsee {PAWN_nameShortPossessive} chest. It's a flat, unforgivable mess.</li>
+            <li>This is utterly unacceptable. {PAWN_nameShortPossessive} nipples are just a couple of disturbing points on a flat expanse.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Breasts_Negative_Nipples_SlimeBreasts</defName>
+        <label>Flat/Nipples Breasts (Negative)_SlimeBreasts</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeBreasts</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_possessive} slime breasts are distressingly flat, possessing a disheartening lack of discernible form, a truly unappealing sight.</li>
+            <li>The complete absence of volume is painfully obvious, starkly highlighting the utter flatness of {PAWN_possessive} chest, offering nothing appealing.</li>
+            <li>These smooth, unyielding flat breasts are devoid of inviting quality, appearing uninteresting and devoid of charm.</li>
+            <li>The anatomical contours of {PAWN_possessive} slime breasts are disappointingly featureless, presenting a bland, uninspired form.</li>
+            <li>I find this utter lack of form unappealing; {PAWN_nameShortPossessive} chest is a stark, flat expanse failing to capture aesthetic appreciation.</li>
+            <li>These flat, almost featureless slime breasts are frankly off-putting, their unusual texture poorly combining with dismal lack of shape.</li>
+            <li>To my dismay, {PAWN_nameShortPossessive} chest evokes disinterest and unease, utterly failing to attract.</li>
+            <li>Her unyielding, barren texture and barely perceptible nipples are uninviting, offering no softness or allure.</li>
+            <li>The absolute simplicity of {PAWN_possessive} breasts verges on unsettling, a stark surface lacking pleasing visual quality.</li>
+            <li>Such breasts create an unfortunate impression of immaturity and incompleteness, appearing underdeveloped and devoid of adult appeal.</li>
+            <li>I dislike how they simply sit there, unmoving, uninspired, adding nothing dynamic or engaging.</li>
+            <li>There's a distinct, off-putting barrenness about {PAWN_nameShortPossessive} chest, a lack of form rendering them aesthetically unpleasing.</li>
+            <li>These breasts are uncomfortable to look at, their lack of shape and texture offering no pleasant experience.</li>
+            <li>I find it distracting how little they add to {PAWN_possessive} feminine form, leaving a void.</li>
+            <li>They look utterly unnatural and disproportionate, a strange, flat expanse disrupting potential harmony.</li>
+            <li>Every flat line of {PAWN_nameShortPossessive} breasts speaks of anatomical anomaly, a distinctly unappealing deviation.</li>
+            <li>They are poorly suited to {PAWN_possessive} physique, making {PAWN_objective} appear childlike or malformed.</li>
+            <li>Such breasts leave no room for imagination; they are simply flat, uninspiring.</li>
+            <li>These breasts appear unpleasantly firm and rubbery, their slime nature failing to convey softness.</li>
+            <li>In their unsettling lack of contour, there's a disturbing absence of femininity, creating a harsh visual.</li>
+        </opinionTexts>
+</Def>
+</Defs>

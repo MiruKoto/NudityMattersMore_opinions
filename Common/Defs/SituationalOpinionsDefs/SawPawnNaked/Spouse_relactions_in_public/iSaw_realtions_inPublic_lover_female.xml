@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_realtions_inPublic_lover_Female_Positive_PositiveDef">
+		<defName>iSaw_realtions_inPublic_lover_Female_Positive</defName>
+        <label>iSaw_realtions_inPublic_lover_Female_(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+				<requiredObservedRelation>Lover</requiredObservedRelation>
+				<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>Witnessing {OBSERVED_nameShort} in such a vulnerable state, completely uninhibited, truly deepens my affection. What a beautiful display of trust.</li>
+            <li>There's something incredibly endearing about seeing {OBSERVED_nameShort} so free and open, without a stitch of clothing. My heart swells with warmth.</li>
+            <li>{OBSERVED_nameShortPossessive} unadorned presence is a sight to behold, a testament to our bond. It makes me feel cherished and connected.</li>
+            <li>The raw honesty of {OBSERVED_nameShortPossessive} nudity in public is captivating. It truly strengthens the unique connection we share.</li>
+            <li>I feel a profound sense of intimacy watching {OBSERVED_nameShort} embrace such freedom. It's a beautiful, unburdened expression of {OBSERVED_possessive} true self.</li>
+            <li>Seeing {OBSERVED_nameShort} so exposed and comfortable fills me with joy. It's a powerful reminder of how deeply I care for {OBSERVED_objective}.</li>
+            <li>{OBSERVED_nameShortPossessive} willingness to be so vulnerable around me is incredibly touching. It truly makes me feel closer to {OBSERVED_objective}.</li>
+            <li>The sight of {OBSERVED_nameShort} completely naked, unafraid, is a wonderful affirmation of our love. It feels so right.</li>
+            <li>There's a special kind of beauty in {OBSERVED_nameShortPossessive} natural state, completely uninhibited. It makes me feel incredibly fond of {OBSERVED_objective}.</li>
+            <li>I appreciate {OBSERVED_nameShortPossessive} openness and lack of pretense. Seeing {OBSERVED_objective} like this reinforces my positive feelings.</li>
+            <li>It's a privilege to see {OBSERVED_nameShort} so unburdened by societal norms. {OBSERVED_pronoun} looks absolutely radiant.</li>
+            <li>{OBSERVED_nameShortPossessive} confidence in {OBSERVED_possessive} own skin is truly inspiring. I admire {OBSERVED_objective} greatly for it.</li>
+            <li>A truly intimate moment, seeing {OBSERVED_nameShort} so completely {OBSERVED_nudityStatus}. It deepens my appreciation for {OBSERVED_objective}.</li>
+            <li>This open display of {OBSERVED_nameShortPossessive} natural self is quite lovely. It makes me feel warm and fuzzy inside.</li>
+            <li>I find {OBSERVED_nameShortPossessive} comfort with {OBSERVED_possessive} own body very attractive. It's a wonderful quality to possess.</li>
+            <li>The pure, unadulterated sight of {OBSERVED_nameShort} is simply delightful. It brings a smile to my face.</li>
+            <li>I feel a strong sense of connection when {OBSERVED_nameShort} is so unreserved. It's a beautiful and honest expression.</li>
+            <li>Such a refreshing and genuine sight. {OBSERVED_nameShortPossessive} natural state is truly something to admire.</li>
+            <li>This moment with {OBSERVED_nameShort}, so open and free, makes me feel incredibly happy and content.</li>
+            <li>I am filled with a sense of tenderness seeing {OBSERVED_nameShort} so completely {OBSERVED_nudityStatus}. It's a precious sight.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_realtions_inPublic_lover_Female_NeutralDef">
+		<defName>iSaw_realtions_inPublic_lover_Female_Neutral</defName>
+        <label>iSaw_realtions_inPublic_lover_Female_(Neutral)</label>
+        <opinionCategory>Neutral</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+				<requiredObservedRelation>Lover</requiredObservedRelation>
+				<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>{OBSERVED_nameShort} is naked. It's not really a big deal, just {OBSERVED_possessive} usual self, I suppose.</li>
+            <li>Saw {OBSERVED_nameShort} without clothes. It's just {OBSERVED_gender} being {OBSERVED_gender}, nothing particularly noteworthy about it.</li>
+            <li>{OBSERVED_nameShortPossessive} nudity is present. It's not something I feel strongly about one way or another.</li>
+            <li>{OBSERVED_nameShort} is exposed. It's just a body, after all. No strong reaction from me.</li>
+            <li>Just {OBSERVED_nameShort} in the raw. It's a thing that happens, I guess. Nothing to write home about.</li>
+            <li>{OBSERVED_nameShortPossessive} lack of clothing is apparent. It neither bothers nor excites me.</li>
+            <li>Noticed {OBSERVED_nameShort} completely uncovered. It's simply {OBSERVED_possessive} natural state, I suppose.</li>
+            <li>{OBSERVED_nameShort} is naked. It's a fact. My opinion remains unchanged.</li>
+            <li>{OBSERVED_nameShortPossessive} body is visible. It's just how {OBSERVED_pronoun} is sometimes.</li>
+            <li>Saw {OBSERVED_nameShort} in the nude. It's not something that affects my day.</li>
+            <li>{OBSERVED_nameShort} is unclad. It's neither good nor bad, just a neutral observation.</li>
+            <li>{OBSERVED_nameShortPossessive} nakedness is there. It doesn't really impact my mood.</li>
+            <li>Just {OBSERVED_nameShort} as {OBSERVED_pronoun} was born. It's a sight I've seen before.</li>
+            <li>{OBSERVED_nameShort} is without clothes. It's simply a neutral occurrence.</li>
+            <li>Observed {OBSERVED_nameShort} in {OBSERVED_possessive} birthday suit. It's just a normal thing.</li>
+            <li>{OBSERVED_nameShortPossessive} nudity is visible. It doesn't really stir any strong emotions.</li>
+            <li>{OBSERVED_nameShort} is bare. It's not a situation I have much of an opinion on.</li>
+            <li>Saw {OBSERVED_nameShort} in {OBSERVED_possessive} natural state. It's just a normal part of life.</li>
+            <li>{OBSERVED_nameShortPossessive} body is exposed. It's not something that particularly interests me.</li>
+            <li>{OBSERVED_nameShort} is naked. It's just {OBSERVED_possessive} physical form, nothing more.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_realtions_inPublic_lover_Female_NegativeDef">
+		<defName>iSaw_realtions_inPublic_lover_Female_Negative</defName>
+        <label>iSaw_realtions_inPublic_lover_Female_(Negative)</label>
+        <opinionCategory>Negative</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+				<requiredObservedRelation>Lover</requiredObservedRelation>
+				<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I saw {OBSERVED_nameShort} completely naked in public. It was quite inappropriate and made me feel very uncomfortable.</li>
+            <li>{OBSERVED_nameShortPossessive} public nudity was truly mortifying. I wish {OBSERVED_pronoun} would show some decorum.</li>
+            <li>It was rather distasteful to see {OBSERVED_nameShort} so exposed. I'm disappointed by {OBSERVED_possessive} lack of modesty.</li>
+            <li>Witnessing {OBSERVED_nameShort} in such a state was embarrassing. It really put a damper on my mood.</li>
+            <li>I'm quite upset by {OBSERVED_nameShortPossessive} public display of nudity. It feels disrespectful and awkward.</li>
+            <li>Why would {OBSERVED_nameShort} do that? Seeing {OBSERVED_objective} naked in public was just... wrong.</li>
+            <li>I feel a strong sense of disapproval regarding {OBSERVED_nameShortPossessive} public nakedness. It's not something I condone.</li>
+            <li>The sight of {OBSERVED_nameShort} unclothed in front of everyone was truly jarring. I wish I hadn't seen it.</li>
+            <li>{OBSERVED_nameShortPossessive} blatant disregard for public decency is concerning. It was an unpleasant experience.</li>
+            <li>I'm quite bothered by {OBSERVED_nameShortPossessive} choice to be naked in this setting. It's just not right.</li>
+            <li>This public display from {OBSERVED_nameShort} was frankly shocking. I expected more consideration.</li>
+            <li>I feel a pang of disappointment seeing {OBSERVED_nameShort} like that. It was an unfortunate incident.</li>
+            <li>It was highly improper for {OBSERVED_nameShort} to be naked in public. I find it quite offensive.</li>
+            <li>I'm genuinely disturbed by {OBSERVED_nameShortPossessive} public nudity. It feels like a betrayal of trust.</li>
+            <li>This behavior from {OBSERVED_nameShort} is simply unacceptable. I'm quite disgusted by it.</li>
+            <li>I wish {OBSERVED_nameShort} had kept {OBSERVED_possessive} clothes on. It was an awkward and regrettable moment.</li>
+            <li>{OBSERVED_nameShortPossessive} public nakedness made me feel ashamed and embarrassed for {OBSERVED_objective}.</li>
+            <li>I find it very hard to look at {OBSERVED_nameShort} the same way after that public display.</li>
+            <li>This was a truly uncomfortable situation, seeing {OBSERVED_nameShort} so exposed. I'm not pleased.</li>
+            <li>I'm quite annoyed by {OBSERVED_nameShortPossessive} public nudity. It was an unnecessary and unpleasant spectacle.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+
+
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_realtions_inPublic_lover_Female_havingSexWithSomeone_Positive_PositiveDef">
+		<defName>iSaw_realtions_inPublic_lover_Female_havingSexWithSomeone_Positive</defName>
+        <label>iSaw_realtions_inPublic_lover_Female_havingSexWithSomeone_(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+				<requiredObservedRelation>Lover</requiredObservedRelation>
+				<requiredObservedGender>Female</requiredObservedGender>
+				<requiredInteractionType>Sex</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>It's wonderful to see {OBSERVED_nameShort} so uninhibited and passionate, even in public. My heart feels full.</li>
+            <li>Watching {OBSERVED_nameShort} engage in such intimate acts, so free and expressive, fills me with immense joy and admiration.</li>
+            <li>{OBSERVED_nameShortPossessive} passion is truly captivating, a beautiful display of raw emotion. It makes me feel incredibly close to {OBSERVED_objective}.</li>
+            <li>The intensity of {OBSERVED_nameShortPossessive} actions, completely unashamed, is incredibly arousing. I feel a deep connection.</li>
+            <li>I'm so glad {OBSERVED_nameShort} feels comfortable enough to express {OBSERVED_possessive} desires so openly. It's truly inspiring.</li>
+            <li>Seeing {OBSERVED_nameShort} in such a state of ecstasy, unburdened by inhibitions, is a powerful and beautiful sight.</li>
+            <li>{OBSERVED_nameShortPossessive} unbridled passion is a sight to behold. It makes me feel incredibly fond of {OBSERVED_objective} and our bond.</li>
+            <li>There's an undeniable allure in {OBSERVED_nameShortPossessive} raw, uninhibited expression of {OBSERVED_possessive} deepest desires. It's truly captivating.</li>
+            <li>I feel a surge of warmth and excitement watching {OBSERVED_nameShort} so completely immersed in the moment. It's beautiful.</li>
+            <li>{OBSERVED_nameShortPossessive} willingness to be so vulnerable and expressive is incredibly attractive. I admire {OBSERVED_objective} greatly.</li>
+            <li>It's incredibly stimulating to witness {OBSERVED_nameShort} embracing {OBSERVED_possessive} desires so freely. A truly passionate individual.</li>
+            <li>The raw energy and emotion from {OBSERVED_nameShort} is intoxicating. It makes me feel deeply connected to {OBSERVED_objective}.</li>
+            <li>I find {OBSERVED_nameShortPossessive} uninhibited nature incredibly appealing. It's a sign of true comfort and trust.</li>
+            <li>This display of passion from {OBSERVED_nameShort} is truly something special. It fills me with positive feelings.</li>
+            <li>I'm delighted to see {OBSERVED_nameShort} experiencing such profound pleasure. It's a joy to behold.</li>
+            <li>{OBSERVED_nameShortPossessive} complete surrender to the moment is beautiful. It makes me feel a strong sense of adoration.</li>
+            <li>There's a certain magic in witnessing {OBSERVED_nameShort} so completely lost in {OBSERVED_possessive} desires. It's enchanting.</li>
+            <li>I feel a powerful emotional and physical connection watching {OBSERVED_nameShort} express {OBSERVED_possessive} passion so openly.</li>
+            <li>{OBSERVED_nameShortPossessive} unashamed embrace of pleasure is incredibly attractive. I find {OBSERVED_objective} utterly desirable.</li>
+            <li>This intimate display from {OBSERVED_nameShort} reinforces how deeply I care for {OBSERVED_objective}. It's a profound experience.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_realtions_inPublic_lover_Female_havingSexWithSomeone_NeutralDef">
+		<defName>iSaw_realtions_inPublic_lover_Female_havingSexWithSomeone_Neutral</defName>
+        <label>iSaw_realtions_inPublic_lover_Female_havingSexWithSomeone_(Neutral)</label>
+        <opinionCategory>Neutral</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+				<requiredObservedRelation>Lover</requiredObservedRelation>
+				<requiredObservedGender>Female</requiredObservedGender>
+				<requiredInteractionType>Sex</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>{OBSERVED_nameShort} is having sex. It's happening. Not really sure how I feel about it.</li>
+            <li>Saw {OBSERVED_nameShort} engaging in sexual activity. It's a thing that occurs, I suppose. No strong feelings.</li>
+            <li>{OBSERVED_nameShortPossessive} intimate moment is visible. It's just a natural biological function, I guess.</li>
+            <li>{OBSERVED_nameShort} is having sex. It's not something I have a particular opinion on, just an observation.</li>
+            <li>Just {OBSERVED_nameShort} doing {OBSERVED_possessive} thing. It's not my business, really.</li>
+            <li>{OBSERVED_nameShortPossessive} activity is happening. It neither bothers nor excites me.</li>
+            <li>Noticed {OBSERVED_nameShort} in the act. It's just what {OBSERVED_pronoun} does, I suppose.</li>
+            <li>{OBSERVED_nameShort} is having sex. It's a fact. My feelings are neutral.</li>
+            <li>{OBSERVED_nameShortPossessive} intimate interaction is visible. It's just how {OBSERVED_pronoun} is sometimes.</li>
+            <li>Saw {OBSERVED_nameShort} in the middle of it. It's not something that affects my day.</li>
+            <li>{OBSERVED_nameShort} is engaged in sex. It's neither good nor bad, just a neutral observation.</li>
+            <li>{OBSERVED_nameShortPossessive} sexual activity is there. It doesn't really impact my mood.</li>
+            <li>Just {OBSERVED_nameShort} doing what comes naturally. It's a sight I've seen before.</li>
+            <li>{OBSERVED_nameShort} is having sex. It's simply a neutral occurrence.</li>
+            <li>Observed {OBSERVED_nameShort} in the act. It's just a normal thing.</li>
+            <li>{OBSERVED_nameShortPossessive} intimate moment is visible. It doesn't really stir any strong emotions.</li>
+            <li>{OBSERVED_nameShort} is having sex. It's not a situation I have much of an opinion on.</li>
+            <li>Saw {OBSERVED_nameShort} in {OBSERVED_possessive} natural state of intimacy. It's just a normal part of life.</li>
+            <li>{OBSERVED_nameShortPossessive} sexual activity is exposed. It's not something that particularly interests me.</li>
+            <li>{OBSERVED_nameShort} is having sex. It's just {OBSERVED_possessive} physical interaction, nothing more.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iSaw_realtions_inPublic_lover_Female_havingSexWithSomeone_NegativeDef">
+		<defName>iSaw_realtions_inPublic_lover_Female_havingSexWithSomeone_Negative</defName>
+        <label>iSaw_realtions_inPublic_lover_Female_havingSexWithSomeone_(Negative)</label>
+        <opinionCategory>Negative</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserver</perspective>
+                <requiredObservedDressState>Naked</requiredObservedDressState>
+				<requiredObservedIsCovering>false</requiredObservedIsCovering>
+				<requiredObservedRelation>Lover</requiredObservedRelation>
+				<requiredObservedGender>Female</requiredObservedGender>
+				<requiredInteractionType>Sex</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I saw {OBSERVED_nameShort} having sex in public. It was utterly disgusting and made me feel sick to my stomach.</li>
+            <li>{OBSERVED_nameShortPossessive} public sexual activity was truly appalling. I'm deeply offended and repulsed.</li>
+            <li>It was incredibly vulgar to witness {OBSERVED_nameShort} engaging in such acts. I feel violated by the sight.</li>
+            <li>Witnessing {OBSERVED_nameShort} having sex in public was a horrifying experience. I wish I could unsee it.</li>
+            <li>I'm absolutely disgusted by {OBSERVED_nameShortPossessive} public display of intimacy. It's beyond inappropriate.</li>
+            <li>How could {OBSERVED_nameShort} do that? Seeing {OBSERVED_objective} having sex in public was just... vile.</li>
+            <li>I feel a profound sense of revulsion regarding {OBSERVED_nameShortPossessive} public sexual act. It's morally reprehensible.</li>
+            <li>The sight of {OBSERVED_nameShort} engaging in sex in front of everyone was truly sickening. I'm deeply disturbed.</li>
+            <li>{OBSERVED_nameShortPossessive} blatant disregard for decency is shocking. It was an extremely unpleasant experience.</li>
+            <li>I'm quite nauseated by {OBSERVED_nameShortPossessive} choice to have sex in this setting. It's just wrong.</li>
+            <li>This public display from {OBSERVED_nameShort} was frankly deplorable. I expected much more self-respect.</li>
+            <li>I feel a pang of betrayal and disgust seeing {OBSERVED_nameShort} like that. It was an unforgivable incident.</li>
+            <li>It was highly improper for {OBSERVED_nameShort} to have sex in public. I find it utterly offensive.</li>
+            <li>I'm genuinely traumatized by {OBSERVED_nameShortPossessive} public sexual act. It feels like a profound violation.</li>
+            <li>This behavior from {OBSERVED_nameShort} is simply unacceptable. I'm utterly disgusted by it.</li>
+            <li>I wish {OBSERVED_nameShort} had shown some restraint. It was an awkward and deeply regrettable moment.</li>
+            <li>{OBSERVED_nameShortPossessive} public sexual activity made me feel ashamed and embarrassed for {OBSERVED_objective}.</li>
+            <li>I find it very hard to look at {OBSERVED_nameShort} the same way after that public display.</li>
+            <li>This was a truly horrific situation, seeing {OBSERVED_nameShort} so exposed and engaged. I'm not pleased.</li>
+            <li>I'm quite enraged by {OBSERVED_nameShortPossessive} public sexual act. It was an unnecessary and utterly disgusting spectacle.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+</Defs>

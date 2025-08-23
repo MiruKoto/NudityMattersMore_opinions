@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+
+
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale</defName>
+        <label>Average Penis (Neutral)_MatureMale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The male appendage appears to be of a rather typical size and form, neither striking nor disappointing.</li>
+            <li>A glance reveals a standard set of male anatomy, nothing particularly noteworthy about its shaft or head.</li>
+            <li>Just a penis, really. Its overall appearance suggests average proportions and condition for {PAWN_nameShortPossessive} age.</li>
+            <li>Its shape is unremarkable; the shaft and head present a common sight among human males.</li>
+            <li>The view of {PAWN_nameShortPossessive} exposed genitals is, quite honestly, just average. Balls, shaft, and head.</li>
+            <li>A brief look confirms a penis of medium build. Foreskin or glans, it's all quite ordinary.</li>
+            <li>It's a penis, alright. The form factor aligns with what one would expect, given {PAWN_nameShortPossessive} demographic.</li>
+            <li>The anatomical details observed are entirely within the expected range for a mature male.</li>
+            <li>Nothing about this penis stands out; its size and structure are competently mundane.</li>
+            <li>One might call it a textbook example of an average penis, from the shaft to the tip.</li>
+            <li>The sudden exposure reveals a penis that is perfectly average in every conceivable aspect.</li>
+            <li>Its contour, the way it connects to the body, all speak to a perfectly ordinary male organ.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis offers no surprises; it’s a standard issue, middle-aged male part.</li>
+            <li>The shaft has a common girth, and the head is proportioned as typically seen.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits typical male characteristics for its age group.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral response; its features are simply average.</li>
+            <li>A generic specimen, without unique features that would draw extended attention.</li>
+            <li>Balls and shaft are of regular size, and the foreskin or glans presents a common appearance.</li>
+            <li>If one were to sketch a diagram of an average penis, this would serve as a good model.</li>
+            <li>It's certainly male genitalia, conforming to all standard, everyday expectations.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale_observed_by_voyer</defName>
+        <label>Average Penis (Neutral)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} penis is, as expected, rather ordinary. Still, it's a sight to take in.</li>
+            <li>A male part, average in its presentation. Voyeuristic curiosity satisfied, but not enthralled.</li>
+            <li>Just another set of genitals. The shaft and balls are typically formed, nothing to linger on.</li>
+            <li>The glimpse of {PAWN_nameShortPossessive} penis is what one would expect: an average male organ.</li>
+            <li>Its overall appearance is neutral, but the act of observing it still holds a certain draw.</li>
+            <li>The size and shape are quite standard; a familiar sight, but one {PAWN_nameShortPossessive} is not meant to be aware of.</li>
+            <li>A typical mature male anatomy, seen without {PAWN_nameShortPossessive} knowledge. It is what it is.</li>
+            <li>The penis, with its average shaft and head, is simply another entry in the collection of observed nudities.</li>
+            <li>Not particularly striking, yet the private nature of the viewing holds its own intrigue.</li>
+            <li>A common male form, laid bare. It's a standard observation, fulfilling the urge to see.</li>
+            <li>The details of the penis and its foreskin/glans are average, but the forbidden nature of the sight is appealing.</li>
+            <li>One more male body part to observe, nothing out of the ordinary, but seen nonetheless.</li>
+            <li>The form of {PAWN_nameShortPossessive} penis is unremarkable, but the act of voyeurism itself provides a thrill.</li>
+            <li>A fleeting look at a very average penis. Still, a look taken.</li>
+            <li>The shaft and balls appear to be of typical size; a standard male display.</li>
+            <li>This penis is perfectly normal, but the fact that it was observed secretly adds to the experience.</li>
+            <li>It's just an average penis, yet the quiet, unseen observation of it is uniquely satisfying.</li>
+            <li>The anatomical details are standard, but the thrill of witnessing them unobserved is present.</li>
+            <li>Nothing special about this penis, but the forbidden aspect of seeing it makes it interesting.</li>
+            <li>An ordinary male appendage, seen through the lens of a voyeur's interest.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Average Penis (Neutral)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} penis is average, but the opportunity for {PAWN_objective} to observe it is the true appeal.</li>
+            <li>A perfectly ordinary male organ. The presence of an observer makes it all the more worthwhile.</li>
+            <li>The shaft and balls are typical, but knowing someone saw them gives a certain satisfaction.</li>
+            <li>It's a common penis, but the fact that {PAWN_nameShort} observed it enhances the experience.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis is rather unremarkable in itself, but the act of being seen is what truly matters.</li>
+            <li>An average male appendage. The real enjoyment comes from being exposed and knowing {PAWN_nameShort} noticed.</li>
+            <li>The penis is nothing special, but the performance of baring it for {PAWN_nameShort} makes it exciting.</li>
+            <li>Its size and shape are common, yet the thrill of being observed displaying it is immense.</li>
+            <li>A standard anatomy, but the exposure to {PAWN_nameShort} for this neutral sight is invigorating.</li>
+            <li>The glans and foreskin are regular, but the fact that {PAWN_nameShort} saw them makes it satisfying.</li>
+            <li>{PAWN_nameShortPossessive} gaze upon this average penis is what brings the greatest pleasure.</li>
+            <li>The penis itself is unremarkable, but the attention it might garner from {PAWN_nameShort} is what truly counts.</li>
+            <li>This is just a penis, but the feeling of being exposed and perceived by {PAWN_nameShort} is stimulating.</li>
+            <li>An average shaft and balls, displayed openly. The act of exhibition is the reward.</li>
+            <li>The anatomy is quite plain, but the awareness of being observed by {PAWN_nameShort} is what matters.</li>
+            <li>Its proportions are common, but the act of flaunting it for {PAWN_nameShort} feels exhilarating.</li>
+            <li>Seeing this penis is ordinary, but being seen in return by {PAWN_nameShort} makes it special.</li>
+            <li>The sheer normalcy of this penis is overshadowed by the excitement of {PAWN_nameShortPossessive} observation.</li>
+            <li>A typical male organ, freely presented. The reaction of {PAWN_nameShort} is more important than the sight itself.</li>
+            <li>The penis itself is nothing to write home about, but the performance of exhibiting it to {PAWN_nameShort} is its true purpose.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Average Penis (Neutral)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>An average penis. While not striking, it still stirs a familiar primal urge.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis, though ordinary, hints at possibilities that captivate the mind.</li>
+            <li>A standard shaft and balls. Still, it’s a male body part, and the desire to connect is present.</li>
+            <li>Just a penis, but it ignites the ever-present longing for intimacy.</li>
+            <li>Its shape is average, yet the sight of it stimulates the inherent craving for physical connection.</li>
+            <li>The view of {PAWN_nameShortPossessive} genitals is unremarkable, but it still triggers a deep, insatiable need.</li>
+            <li>A common male form. The sight of it makes me think of all the ways it could be used.</li>
+            <li>Anatomically ordinary, yet the primal urge for physical contact intensifies with its presence.</li>
+            <li>Nothing extraordinary about this penis, but the sheer fact of its existence fuels a restless energy.</li>
+            <li>A typical male organ, reminding me of the countless encounters yet to be had.</li>
+            <li>The sudden exposure of this average penis is enough to spark a familiar, insistent warmth within.</li>
+            <li>Its contour and connection to the body are normal, but it's a physical reminder of insatiable desires.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis, even if it's average, only serves to amplify my constant yearning.</li>
+            <li>The shaft has a common girth, but my thoughts immediately turn to its potential.</li>
+            <li>From an anatomical standpoint, it's average, yet it evokes a powerful, lingering hunger for touch.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral surface reaction, but deep down, the yearning grows.</li>
+            <li>A generic specimen that nonetheless awakens an urgent, burning need for coupling.</li>
+            <li>Balls and shaft are regular size, and it's all I can think about.</li>
+            <li>If one were to sketch a diagram of an average penis, this would serve as a good model, and fuel my desires.</li>
+            <li>It's certainly male genitalia, confirming the continuous call of the flesh.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale_observed_by_Prude</defName>
+        <label>Average Penis (Neutral)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ugh. A penis. Its average nature does not make the sight any less discomforting.</li>
+            <li>The male appendage. So unnecessary to expose it. It's just a common, average thing.</li>
+            <li>Just a penis. I wish I hadn't seen it. The shaft and head are utterly mundane.</li>
+            <li>A glance reveals a standard set of male anatomy, which I would prefer not to have seen.</li>
+            <li>Its shape is unremarkable, but the sight itself is still rather improper.</li>
+            <li>The view of {PAWN_nameShortPossessive} exposed genitals is quite uncomfortable, regardless of its normalcy.</li>
+            <li>A brief look confirms a penis of medium build. It’s an inappropriate display.</li>
+            <li>It's a penis, alright. The form factor aligns with what one would expect, but it's still indecent.</li>
+            <li>The anatomical details observed are entirely within the expected range, which doesn't diminish my aversion.</li>
+            <li>Nothing about this penis stands out, yet its public display is quite offensive.</li>
+            <li>One might call it a textbook example of an average penis, but it should be covered.</li>
+            <li>The sudden exposure reveals a penis that is perfectly average, and perfectly scandalous.</li>
+            <li>Its contour, the way it connects to the body, all speak to a perfectly ordinary male organ, improperly shown.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis offers no surprises, only a sense of impropriety.</li>
+            <li>The shaft has a common girth, and the glans is proportioned as typically seen. Still, it's vulgar.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits typical characteristics, which I'd rather not inspect.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits discomfort; its features are average but its exposure is not.</li>
+            <li>A generic specimen, without unique features that would draw extended attention, thankfully.</li>
+            <li>Balls and shaft are of regular size, and I wish I could unsee it.</li>
+            <li>It's certainly male genitalia, confirming its presence where it shouldn't be.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale_observed_by_Young_male</defName>
+        <label>Average Penis (Neutral)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>An average penis for a guy {PAWN_nameShortPossessive} age, I suppose. Nothing I haven't seen before.</li>
+            <li>It's a penis. Looks like most other male parts I've come across, pretty standard.</li>
+            <li>Just a common male organ. The shaft and balls seem normal, for a middle-aged guy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis is unremarkable, typical of an older male.</li>
+            <li>Its shape is what you'd expect. Nothing special.</li>
+            <li>A regular male body part. Not too big, not too small.</li>
+            <li>Looks like a pretty average penis. The foreskin or glans seems normal enough.</li>
+            <li>Just a standard adult male anatomy. No surprises there.</li>
+            <li>It's a penis, alright. Nothing out of the ordinary for someone in {PAWN_nameShortPossessive} age bracket.</li>
+            <li>The anatomical details are standard. I've seen penises like this plenty of times.</li>
+            <li>Nothing about this penis stands out. Just a plain, average one.</li>
+            <li>One might call it a typical mature male organ. The shaft and head are common.</li>
+            <li>The sudden exposure reveals a perfectly average penis. Not bad, not great.</li>
+            <li>Its contour, the way it connects, all seem normal. Just a regular guy's penis.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis, I see nothing particularly unique or striking.</li>
+            <li>The shaft has a common girth, and the glans is proportioned as typically seen.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits normal, middle-aged male characteristics.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis is neutral. It's just... a penis.</li>
+            <li>A generic specimen, without unique features that would draw any particular attention.</li>
+            <li>Balls and shaft are of regular size, and it looks like any other average penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale_observed_by_Young_female</defName>
+        <label>Average Penis (Neutral)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>It's a penis, alright. Pretty normal for a man of {PAWN_nameShortPossessive} age, I guess.</li>
+            <li>A casual glance reveals a rather typical male organ; nothing particularly exciting or off-putting.</li>
+            <li>The shaft and balls seem to be of average size and shape. Just a penis.</li>
+            <li>{PAWN_nameShortPossessive} penis is quite standard. I've seen similar forms before.</li>
+            <li>Its overall appearance is neutral. Just another mature male anatomy.</li>
+            <li>The size and shape are common, neither impressive nor disappointing.</li>
+            <li>A perfectly ordinary penis. The foreskin or glans looks as expected.</li>
+            <li>Standard male anatomy, without any unique features. It just exists.</li>
+            <li>Nothing about this penis stands out. It's simply an average example.</li>
+            <li>A textbook average penis, from the shaft to the tip. Nothing more, nothing less.</li>
+            <li>The sudden exposure reveals a very average penis. It’s… there.</li>
+            <li>Its contour, the way it connects to the body, all seem typical for {PAWN_nameShortPossessive} age.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis doesn't stir much; it's quite an unremarkable sight.</li>
+            <li>The shaft has a common girth, and the head is proportioned as commonly seen.</li>
+            <li>From an anatomical standpoint, this penis exhibits typical male characteristics. Average.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral, almost dismissive, reaction.</li>
+            <li>A generic specimen, not drawing any particular attention.</li>
+            <li>Balls and shaft are of regular size; quite a common sight, really.</li>
+            <li>If one were to diagram an average penis, this would be a perfectly suitable example.</li>
+            <li>It's certainly male genitalia, conforming to basic expectations, nothing more.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Average Penis (Neutral)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Looks like a standard penis for a man of {PAWN_nameShortPossessive} age. Nothing unexpected.</li>
+            <li>Pretty average male part. The shaft and balls seem to be in typical condition.</li>
+            <li>Just a penis. Its overall appearance suggests normal proportions and health for a middle-aged man.</li>
+            <li>Its shape is unremarkable, a common sight.</li>
+            <li>The view of {PAWN_nameShortPossessive} exposed genitals is quite frankly, ordinary. Balls, shaft, head.</li>
+            <li>A brief look confirms a penis of medium build. Foreskin or glans, it's all quite ordinary.</li>
+            <li>It's a penis, alright. The form factor aligns with what one would expect from someone {PAWN_nameShortPossessive} age.</li>
+            <li>The anatomical details observed are entirely within the expected range for a mature male.</li>
+            <li>Nothing about this penis stands out; its size and structure are competently mundane.</li>
+            <li>One might call it a textbook example of an average penis for a man in his prime.</li>
+            <li>The sudden exposure reveals a penis that is perfectly average in every aspect.</li>
+            <li>Its contour, the way it connects to the body, all speak to a perfectly ordinary male organ.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis offers no surprises; it’s a standard issue, middle-aged male part.</li>
+            <li>The shaft has a common girth, and the head is proportioned as typically seen.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits typical male characteristics.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral response; its features are simply average.</li>
+            <li>A generic specimen, without unique features that would draw extended attention.</li>
+            <li>Balls and shaft are of regular size, and the foreskin or glans presents a common appearance.</li>
+            <li>If one were to sketch a diagram of an average penis, this would serve as a good model.</li>
+            <li>It's certainly male genitalia, conforming to all standard, everyday expectations.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Average Penis (Neutral)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>It's a penis. Appears to be of a rather typical size and form for a man {PAWN_nameShortPossessive} age.</li>
+            <li>A glance reveals a standard set of male anatomy, nothing particularly striking or disappointing.</li>
+            <li>Just a penis, really. Its overall appearance suggests average proportions and condition for {PAWN_nameShortPossessive} age.</li>
+            <li>Its shape is unremarkable; the shaft and head present a common sight among adult males.</li>
+            <li>The view of {PAWN_nameShortPossessive} exposed genitals is, quite honestly, just average. Balls, shaft, and head.</li>
+            <li>A brief look confirms a penis of medium build. Foreskin or glans, it's all quite ordinary.</li>
+            <li>It's a penis, alright. The form factor aligns with what one would expect from a man in his middle years.</li>
+            <li>The anatomical details observed are entirely within the expected range for a mature male.</li>
+            <li>Nothing about this penis stands out; its size and structure are competently mundane.</li>
+            <li>One might call it a textbook example of an average penis, from the shaft to the tip.</li>
+            <li>The sudden exposure reveals a penis that is perfectly average in every conceivable aspect.</li>
+            <li>Its contour, the way it connects to the body, all speak to a perfectly ordinary male organ.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis offers no surprises; it’s a standard issue, middle-aged male part.</li>
+            <li>The shaft has a common girth, and the head is proportioned as typically seen.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits typical male characteristics for its age group.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral response; its features are simply average.</li>
+            <li>A generic specimen, without unique features that would draw extended attention.</li>
+            <li>Balls and shaft are of regular size, and the foreskin or glans presents a common appearance.</li>
+            <li>If one were to sketch a diagram of an average penis, this would serve as a good model.</li>
+            <li>It's certainly male genitalia, conforming to all standard, everyday expectations.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Elder male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale_observed_by_Elder_male</defName>
+        <label>Average Penis (Neutral)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>An average penis for a man {PAWN_nameShortPossessive} age. Seen plenty like that over the years.</li>
+            <li>It's a penis. Looks like most other male parts I've come across, pretty standard.</li>
+            <li>Just a common male organ. The shaft and balls seem normal, for a middle-aged guy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis is unremarkable, typical of a man his age.</li>
+            <li>Its shape is what you'd expect. Nothing special.</li>
+            <li>A regular male body part. Not too big, not too small.</li>
+            <li>Looks like a pretty average penis. The foreskin or glans seems normal enough.</li>
+            <li>Just a standard adult male anatomy. No surprises there.</li>
+            <li>It's a penis, alright. Nothing out of the ordinary for someone in {PAWN_nameShortPossessive} age bracket.</li>
+            <li>The anatomical details are standard. I've seen penises like this plenty of times.</li>
+            <li>Nothing about this penis stands out. Just a plain, average one.</li>
+            <li>One might call it a typical mature male organ. The shaft and head are common.</li>
+            <li>The sudden exposure reveals a perfectly average penis. Not bad, not great.</li>
+            <li>Its contour, the way it connects, all seem normal. Just a regular guy's penis.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis, I see nothing particularly unique or striking.</li>
+            <li>The shaft has a common girth, and the glans is proportioned as typically seen.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits normal, middle-aged male characteristics.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis is neutral. It's just... a penis.</li>
+            <li>A generic specimen, without unique features that would draw any particular attention.</li>
+            <li>Balls and shaft are of regular size, and it looks like any other average penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_MatureMale_observed_by_Elder_female</defName>
+        <label>Average Penis (Neutral)_MatureMale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>It's a penis. Appears to be of a rather typical size and form for a man {PAWN_nameShortPossessive} age.</li>
+            <li>A glance reveals a standard set of male anatomy, nothing particularly striking or disappointing.</li>
+            <li>Just a penis, really. Its overall appearance suggests average proportions and condition for {PAWN_nameShortPossessive} age.</li>
+            <li>Its shape is unremarkable; the shaft and head present a common sight among adult males.</li>
+            <li>The view of {PAWN_nameShortPossessive} exposed genitals is, quite honestly, just average. Balls, shaft, and head.</li>
+            <li>A brief look confirms a penis of medium build. Foreskin or glans, it's all quite ordinary.</li>
+            <li>It's a penis, alright. The form factor aligns with what one would expect from a man in his middle years.</li>
+            <li>The anatomical details observed are entirely within the expected range for a mature male.</li>
+            <li>Nothing about this penis stands out; its size and structure are competently mundane.</li>
+            <li>One might call it a textbook example of an average penis, from the shaft to the tip.</li>
+            <li>The sudden exposure reveals a penis that is perfectly average in every conceivable aspect.</li>
+            <li>Its contour, the way it connects to the body, all speak to a perfectly ordinary male organ.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis offers no surprises; it’s a standard issue, middle-aged male part.</li>
+            <li>The shaft has a common girth, and the head is proportioned as typically seen.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits typical male characteristics for its age group.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral response; its features are simply average.</li>
+            <li>A generic specimen, without unique features that would draw extended attention.</li>
+            <li>Balls and shaft are of regular size, and the foreskin or glans presents a common appearance.</li>
+            <li>If one were to sketch a diagram of an average penis, this would serve as a good model.</li>
+            <li>It's certainly male genitalia, conforming to all standard, everyday expectations.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale</defName>
+        <label>Average Penis (Neutral)_ElderMale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>An elderly penis, showing the clear signs of age but otherwise average in form.</li>
+            <li>The male appendage appears to be of a rather typical size and form, aged yet unremarkable.</li>
+            <li>A glance reveals a standard set of aged male anatomy, nothing particularly striking or disappointing.</li>
+            <li>Just a penis, really. Its overall appearance suggests average proportions and condition for {PAWN_nameShortPossessive} advanced age.</li>
+            <li>Its shape is unremarkable; the shaft and head present a common sight among elderly human males.</li>
+            <li>The view of {PAWN_nameShortPossessive} exposed genitals is, quite honestly, just average for an elder. Balls, shaft, and head.</li>
+            <li>A brief look confirms a penis of medium build. Foreskin or glans, it's all quite ordinary, albeit older.</li>
+            <li>It's a penis, alright. The form factor aligns with what one would expect, given {PAWN_nameShortPossessive} demographic.</li>
+            <li>The anatomical details observed are entirely within the expected range for an elderly male.</li>
+            <li>Nothing about this penis stands out; its size and structure are competently mundane with signs of time.</li>
+            <li>One might call it a textbook example of an average, aging penis, from the shaft to the tip.</li>
+            <li>The sudden exposure reveals a penis that is perfectly average in every conceivable aspect, despite its age.</li>
+            <li>Its contour, the way it connects to the body, all speak to a perfectly ordinary male organ, now older.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis offers no surprises; it’s a standard issue, elderly male part.</li>
+            <li>The shaft has a common girth, and the head is proportioned as typically seen, with the marks of time.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits typical elderly male characteristics.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral response; its features are simply average for its age.</li>
+            <li>A generic specimen, showing its years, but without unique features that would draw extended attention.</li>
+            <li>Balls and shaft are of regular size, and the foreskin or glans presents a common, aged appearance.</li>
+            <li>It's certainly male genitalia, conforming to all standard, everyday expectations for an elder.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale_observed_by_voyer</defName>
+        <label>Average Penis (Neutral)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} elderly penis is, as expected, rather ordinary. Still, it's a sight to take in.</li>
+            <li>An aged male part, average in its presentation. Voyeuristic curiosity satisfied, but not enthralled.</li>
+            <li>Just another set of genitals. The shaft and balls are typically formed, showing age, nothing to linger on.</li>
+            <li>The glimpse of {PAWN_nameShortPossessive} elderly penis is what one would expect: an average, aged male organ.</li>
+            <li>Its overall appearance is neutral, but the act of observing it still holds a certain draw.</li>
+            <li>The size and shape are quite standard; a familiar sight, but one {PAWN_nameShortPossessive} is not meant to be aware of.</li>
+            <li>A typical aged male anatomy, seen without {PAWN_nameShortPossessive} knowledge. It is what it is.</li>
+            <li>The penis, with its average shaft and head, is simply another entry in the collection of observed nudities.</li>
+            <li>Not particularly striking, yet the private nature of the viewing holds its own intrigue.</li>
+            <li>A common male form, laid bare. It's a standard observation, fulfilling the urge to see.</li>
+            <li>The details of the penis and its foreskin/glans are average, but the forbidden nature of the sight is appealing.</li>
+            <li>One more male body part to observe, nothing out of the ordinary, but seen nonetheless.</li>
+            <li>The form of {PAWN_nameShortPossessive} penis is unremarkable, but the act of voyeurism itself provides a thrill.</li>
+            <li>A fleeting look at a very average, aged penis. Still, a look taken.</li>
+            <li>The shaft and balls appear to be of typical size; a standard male display for his years.</li>
+            <li>This penis is perfectly normal, showing its age, but the fact that it was observed secretly adds to the experience.</li>
+            <li>It's just an average, older penis, yet the quiet, unseen observation of it is uniquely satisfying.</li>
+            <li>The anatomical details are standard, but the thrill of witnessing them unobserved is present.</li>
+            <li>Nothing special about this elderly penis, but the forbidden aspect of seeing it makes it interesting.</li>
+            <li>An ordinary, aged male appendage, seen through the lens of a voyeur's interest.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Average Penis (Neutral)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} elderly penis is average, but the opportunity for {PAWN_objective} to observe it is the true appeal.</li>
+            <li>A perfectly ordinary, aged male organ. The presence of an observer makes it all the more worthwhile.</li>
+            <li>The shaft and balls are typical for his age, but knowing someone saw them gives a certain satisfaction.</li>
+            <li>It's a common, aged penis, but the fact that {PAWN_nameShort} observed it enhances the experience.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis is rather unremarkable in itself, but the act of being seen is what truly matters.</li>
+            <li>An average, older male appendage. The real enjoyment comes from being exposed and knowing {PAWN_nameShort} noticed.</li>
+            <li>The penis is nothing special, but the performance of baring it for {PAWN_nameShort} makes it exciting.</li>
+            <li>Its size and shape are common, yet the thrill of being observed displaying it is immense.</li>
+            <li>A standard, aged anatomy, but the exposure to {PAWN_nameShort} for this neutral sight is invigorating.</li>
+            <li>The glans and foreskin are regular, but the fact that {PAWN_nameShort} saw them makes it satisfying.</li>
+            <li>{PAWN_nameShortPossessive} gaze upon this average, elderly penis is what brings the greatest pleasure.</li>
+            <li>The penis itself is unremarkable, but the attention it might garner from {PAWN_nameShort} is what truly counts.</li>
+            <li>This is just a penis, but the feeling of being exposed and perceived by {PAWN_nameShort} is stimulating.</li>
+            <li>An average shaft and balls, displayed openly, showing their age. The act of exhibition is the reward.</li>
+            <li>The anatomy is quite plain, but the awareness of being observed by {PAWN_nameShort} is what matters.</li>
+            <li>Its proportions are common, but the act of flaunting it for {PAWN_nameShort} feels exhilarating.</li>
+            <li>Seeing this elderly penis is ordinary, but being seen in return by {PAWN_nameShort} makes it special.</li>
+            <li>The sheer normalcy of this aging penis is overshadowed by the excitement of {PAWN_nameShortPossessive} observation.</li>
+            <li>A typical, older male organ, freely presented. The reaction of {PAWN_nameShort} is more important than the sight itself.</li>
+            <li>The penis itself is nothing to write home about, but the performance of exhibiting it to {PAWN_nameShort} is its true purpose.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Average Penis (Neutral)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>An average, elderly penis. While not striking, it still stirs a familiar primal urge.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis, though ordinary and aged, hints at possibilities that captivate the mind.</li>
+            <li>A standard, older shaft and balls. Still, it’s a male body part, and the desire to connect is present.</li>
+            <li>Just a penis, but it ignites the ever-present longing for intimacy.</li>
+            <li>Its shape is average, yet the sight of this older organ stimulates the inherent craving for physical connection.</li>
+            <li>The view of {PAWN_nameShortPossessive} aged genitals is unremarkable, but it still triggers a deep, insatiable need.</li>
+            <li>A common, elderly male form. The sight of it makes me think of all the ways it could be used.</li>
+            <li>Anatomically ordinary, yet the primal urge for physical contact intensifies with its presence.</li>
+            <li>Nothing extraordinary about this aged penis, but the sheer fact of its existence fuels a restless energy.</li>
+            <li>A typical, older male organ, reminding me of the countless encounters yet to be had.</li>
+            <li>The sudden exposure of this average, elderly penis is enough to spark a familiar, insistent warmth within.</li>
+            <li>Its contour and connection to the body are normal, but it's a physical reminder of insatiable desires.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis, even if it's average and aged, only serves to amplify my constant yearning.</li>
+            <li>The shaft has a common girth, but my thoughts immediately turn to its potential.</li>
+            <li>From an anatomical standpoint, it's average, yet it evokes a powerful, lingering hunger for touch.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral surface reaction, but deep down, the yearning grows.</li>
+            <li>A generic specimen that nonetheless awakens an urgent, burning need for coupling.</li>
+            <li>Balls and shaft are regular size, showing their age, and it's all I can think about.</li>
+            <li>If one were to sketch a diagram of an average penis, this would serve as a good model, and fuel my desires.</li>
+            <li>It's certainly male genitalia, conforming to the continuous call of the flesh.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale_observed_by_Prude</defName>
+        <label>Average Penis (Neutral)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ugh. An elderly penis. Its average nature does not make the sight any less discomforting.</li>
+            <li>The male appendage, showing its age. So unnecessary to expose it. It's just a common, average thing.</li>
+            <li>Just a penis. I wish I hadn't seen it. The shaft and head are utterly mundane, and old.</li>
+            <li>A glance reveals a standard set of aged male anatomy, which I would prefer not to have seen.</li>
+            <li>Its shape is unremarkable, but the sight itself is still rather improper.</li>
+            <li>The view of {PAWN_nameShortPossessive} exposed genitals is quite uncomfortable, regardless of its normalcy.</li>
+            <li>A brief look confirms a penis of medium build, with signs of age. It’s an inappropriate display.</li>
+            <li>It's a penis, alright. The form factor aligns with what one would expect, but it's still indecent.</li>
+            <li>The anatomical details observed are entirely within the expected range, which doesn't diminish my aversion.</li>
+            <li>Nothing about this penis stands out, yet its public display is quite offensive.</li>
+            <li>One might call it a textbook example of an average, aged penis, but it should be covered.</li>
+            <li>The sudden exposure reveals a penis that is perfectly average, and perfectly scandalous.</li>
+            <li>Its contour, the way it connects to the body, all speak to a perfectly ordinary male organ, improperly shown.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis offers no surprises, only a sense of impropriety.</li>
+            <li>The shaft has a common girth, and the glans is proportioned as typically seen. Still, it's vulgar.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits typical characteristics, which I'd rather not inspect.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits discomfort; its features are average but its exposure is not.</li>
+            <li>A generic specimen, showing its age, thankfully without unique features that would draw extended attention.</li>
+            <li>Balls and shaft are of regular size, and I wish I could unsee it.</li>
+            <li>It's certainly male genitalia, confirming its presence where it shouldn't be.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale_observed_by_Young_male</defName>
+        <label>Average Penis (Neutral)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>An average elderly penis. Looks like most other male parts I've come across, just older.</li>
+            <li>It's a penis. Showing its age, but otherwise pretty standard for an elder.</li>
+            <li>Just a common, aged male organ. The shaft and balls seem normal, for a senior guy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis is unremarkable, typical of an older male.</li>
+            <li>Its shape is what you'd expect for an old man. Nothing special.</li>
+            <li>A regular, older male body part. Not too big, not too small.</li>
+            <li>Looks like a pretty average elderly penis. The foreskin or glans seems normal enough.</li>
+            <li>Just a standard aged male anatomy. No surprises there.</li>
+            <li>It's a penis, alright. Nothing out of the ordinary for someone in {PAWN_nameShortPossessive} age bracket.</li>
+            <li>The anatomical details are standard for an elder. I've seen penises like this plenty of times.</li>
+            <li>Nothing about this elderly penis stands out. Just a plain, average one.</li>
+            <li>One might call it a typical aged male organ. The shaft and head are common.</li>
+            <li>The sudden exposure reveals a perfectly average, older penis. Not bad, not great.</li>
+            <li>Its contour, the way it connects, all seem normal for his years. Just a regular old guy's penis.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis, I see nothing particularly unique or striking, just age.</li>
+            <li>The shaft has a common girth, and the glans is proportioned as typically seen, albeit older.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits normal, elderly male characteristics.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis is neutral. It's just... an old penis.</li>
+            <li>A generic specimen, showing its age, without unique features that would draw any particular attention.</li>
+            <li>Balls and shaft are of regular size, and it looks like any other average, aging penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale_observed_by_Young_female</defName>
+        <label>Average Penis (Neutral)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>It's a penis, alright. Pretty normal for an older man, I guess. Nothing to be excited about.</li>
+            <li>A casual glance reveals a rather typical, aged male organ; nothing particularly exciting or off-putting.</li>
+            <li>The shaft and balls seem to be of average size and shape for his age. Just an old penis.</li>
+            <li>{PAWN_nameShortPossessive} penis is quite standard, showing its years. I've seen similar forms before.</li>
+            <li>Its overall appearance is neutral. Just another elderly male anatomy.</li>
+            <li>The size and shape are common for an older man, neither impressive nor disappointing.</li>
+            <li>A perfectly ordinary, aged penis. The foreskin or glans looks as expected, with time's marks.</li>
+            <li>Standard elderly male anatomy, without any unique features. It just exists.</li>
+            <li>Nothing about this elderly penis stands out. It's simply an average example, aged.</li>
+            <li>A textbook average elderly penis, from the shaft to the tip. Nothing more, nothing less.</li>
+            <li>The sudden exposure reveals a very average, aged penis. It’s… there.</li>
+            <li>Its contour, the way it connects to the body, all seem typical for {PAWN_nameShortPossessive} age.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis doesn't stir much; it's quite an unremarkable sight, old.</li>
+            <li>The shaft has a common girth, and the head is proportioned as typically seen, with a few wrinkles.</li>
+            <li>From an anatomical standpoint, this penis exhibits typical elderly male characteristics. Average.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral, almost dismissive, reaction.</li>
+            <li>A generic specimen, showing its age, not drawing any particular attention.</li>
+            <li>Balls and shaft are of regular size; quite a common sight for an older man, really.</li>
+            <li>If one were to diagram an average penis, this would be a perfectly suitable, albeit aged, example.</li>
+            <li>It's certainly male genitalia, conforming to basic expectations, nothing more, and showing its years.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Average Penis (Neutral)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Looks like a standard penis for an elderly man. Nothing unexpected, just older.</li>
+            <li>Pretty average male part, showing its age. The shaft and balls seem to be in typical, older condition.</li>
+            <li>Just a penis. Its overall appearance suggests normal proportions and health for an aged man.</li>
+            <li>Its shape is unremarkable, a common sight for an elder.</li>
+            <li>The view of {PAWN_nameShortPossessive} exposed genitals is quite frankly, ordinary, and aged. Balls, shaft, head.</li>
+            <li>A brief look confirms a penis of medium build. Foreskin or glans, it's all quite ordinary for an elder.</li>
+            <li>It's a penis, alright. The form factor aligns with what one would expect from someone {PAWN_nameShortPossessive} age.</li>
+            <li>The anatomical details observed are entirely within the expected range for an elderly male.</li>
+            <li>Nothing about this penis stands out; its size and structure are competently mundane with time's marks.</li>
+            <li>One might call it a textbook example of an average, aging penis for a man in his later years.</li>
+            <li>The sudden exposure reveals a penis that is perfectly average in every aspect, despite its age.</li>
+            <li>Its contour, the way it connects to the body, all speak to a perfectly ordinary male organ, now older.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis offers no surprises; it’s a standard issue, elderly male part.</li>
+            <li>The shaft has a common girth, and the head is proportioned as typically seen, with the marks of time.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits typical elderly male characteristics.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral response; its features are simply average for its age.</li>
+            <li>A generic specimen, showing its years, but without unique features that would draw extended attention.</li>
+            <li>Balls and shaft are of regular size, and the foreskin or glans presents a common, aged appearance.</li>
+            <li>If one were to sketch a diagram of an average penis, this would serve as a good model, showing its age.</li>
+            <li>It's certainly male genitalia, conforming to all standard, everyday expectations for an elder.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Average Penis (Neutral)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>It's a penis. Appears to be of a rather typical size and form for an older man.</li>
+            <li>A glance reveals a standard set of aged male anatomy, nothing particularly striking or disappointing.</li>
+            <li>Just a penis, really. Its overall appearance suggests average proportions and condition for {PAWN_nameShortPossessive} advanced age.</li>
+            <li>Its shape is unremarkable; the shaft and head present a common sight among elderly human males.</li>
+            <li>The view of {PAWN_nameShortPossessive} exposed genitals is, quite honestly, just average for an elder. Balls, shaft, and head.</li>
+            <li>A brief look confirms a penis of medium build. Foreskin or glans, it's all quite ordinary, albeit older.</li>
+            <li>It's a penis, alright. The form factor aligns with what one would expect from a man in his later years.</li>
+            <li>The anatomical details observed are entirely within the expected range for an elderly male.</li>
+            <li>Nothing about this penis stands out; its size and structure are competently mundane with signs of time.</li>
+            <li>One might call it a textbook example of an average, aging penis, from the shaft to the tip.</li>
+            <li>The sudden exposure reveals a penis that is perfectly average in every conceivable aspect, despite its age.</li>
+            <li>Its contour, the way it connects to the body, all speak to a perfectly ordinary male organ, now older.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis offers no surprises; it’s a standard issue, elderly male part.</li>
+            <li>The shaft has a common girth, and the head is proportioned as typically seen, with the marks of time.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits typical elderly male characteristics.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral response; its features are simply average for its age.</li>
+            <li>A generic specimen, showing its years, but without unique features that would draw extended attention.</li>
+            <li>Balls and shaft are of regular size, and the foreskin or glans presents a common, aged appearance.</li>
+            <li>If one were to sketch a diagram of an average penis, this would serve as a good model, showing its age.</li>
+            <li>It's certainly male genitalia, conforming to all standard, everyday expectations for an elder.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale_observed_by_Elder_male</defName>
+        <label>Average Penis (Neutral)_ElderMale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>An average elderly penis. Looks like most other male parts I've come across over the decades, just older.</li>
+            <li>It's a penis. Showing its age, but otherwise pretty standard for an elder like myself.</li>
+            <li>Just a common, aged male organ. The shaft and balls seem normal, for a senior guy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis is unremarkable, typical of an older male.</li>
+            <li>Its shape is what you'd expect for an old man. Nothing special, just the passage of time evident.</li>
+            <li>A regular, older male body part. Not too big, not too small.</li>
+            <li>Looks like a pretty average elderly penis. The foreskin or glans seems normal enough, given the age.</li>
+            <li>Just a standard aged male anatomy. No surprises there, been there, done that.</li>
+            <li>It's a penis, alright. Nothing out of the ordinary for someone in {PAWN_nameShortPossessive} age bracket.</li>
+            <li>The anatomical details are standard for an elder. I've seen penises like this plenty of times.</li>
+            <li>Nothing about this elderly penis stands out. Just a plain, average one, like many others.</li>
+            <li>One might call it a typical aged male organ. The shaft and head are common, showing signs of wear.</li>
+            <li>The sudden exposure reveals a perfectly average, older penis. Nothing to comment on, really.</li>
+            <li>Its contour, the way it connects, all seem normal for his years. Just a regular old guy's penis.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis, I see nothing particularly unique or striking, just age.</li>
+            <li>The shaft has a common girth, and the glans is proportioned as typically seen, albeit older.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits normal, elderly male characteristics.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis is neutral. It's just... an old penis.</li>
+            <li>A generic specimen, showing its age, without unique features that would draw any particular attention.</li>
+            <li>Balls and shaft are of regular size, and it looks like any other average, aging penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Average_ElderMale_observed_by_Elder_female</defName>
+        <label>Average Penis (Neutral)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>It's a penis. Appears to be of a rather typical size and form for an older man. Nothing to be excited about.</li>
+            <li>A glance reveals a standard set of aged male anatomy, nothing particularly striking or disappointing.</li>
+            <li>Just a penis, really. Its overall appearance suggests average proportions and condition for {PAWN_nameShortPossessive} advanced age.</li>
+            <li>Its shape is unremarkable; the shaft and head present a common sight among elderly human males.</li>
+            <li>The view of {PAWN_nameShortPossessive} exposed genitals is, quite honestly, just average for an elder. Balls, shaft, and head.</li>
+            <li>A brief look confirms a penis of medium build. Foreskin or glans, it's all quite ordinary, albeit older.</li>
+            <li>It's a penis, alright. The form factor aligns with what one would expect from a man in his later years.</li>
+            <li>The anatomical details observed are entirely within the expected range for an elderly male.</li>
+            <li>Nothing about this penis stands out; its size and structure are competently mundane with signs of time.</li>
+            <li>One might call it a textbook example of an average, aging penis, from the shaft to the tip.</li>
+            <li>The sudden exposure reveals a penis that is perfectly average in every conceivable aspect, despite its age.</li>
+            <li>Its contour, the way it connects to the body, all speak to a perfectly ordinary male organ, now older.</li>
+            <li>Observing {PAWN_nameShortPossessive} penis offers no surprises; it’s a standard issue, elderly male part.</li>
+            <li>The shaft has a common girth, and the head is proportioned as typically seen, with the marks of time.</li>
+            <li>From a purely anatomical standpoint, this penis exhibits typical elderly male characteristics.</li>
+            <li>The sight of {PAWN_nameShortPossessive} penis elicits a neutral response; its features are simply average for its age.</li>
+            <li>A generic specimen, showing its years, but without unique features that would draw extended attention.</li>
+            <li>Balls and shaft are of regular size, and the foreskin or glans presents a common, aged appearance.</li>
+            <li>If one were to sketch a diagram of an average penis, this would serve as a good model, showing its age.</li>
+            <li>It's certainly male genitalia, conforming to all standard, everyday expectations for an elder.</li>
+        </opinionTexts>
+</Def>
+</Defs>

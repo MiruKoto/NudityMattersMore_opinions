@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale</defName>
+        <label>Small Penis (Positive)_MatureMale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Despite its size, the mature shaft had a pleasant, firm look, complementing his frame perfectly. An unexpected but delightful sight that brought a subtle warmth.</li>
+            <li>The modest length of {PAWN_nameShortPossessive} member was easily overlooked by the inviting plumpness of {PAWN_possessive} glans. Quite alluring, even.</li>
+            <li>A comfortable size, the mature penis felt right, not overwhelming, but hinting at a steady, reliable presence. A solid, pleasing anatomy.</li>
+            <li>Suddenly, there it was, an older man's modest yet well-formed anatomy. The foreskin, if present, appeared smooth, suggesting a subtle, inviting look.</li>
+            <li>Quite a pleasing sight. The compact shaft, the smooth head, and the way it rested comfortably. It suggests a gentle, experienced touch.</li>
+            <li>Ah, the glimpse of a mature, compact package. The shaft seemed well-maintained, and the balls, though not large, looked firm. A pleasant surprise.</li>
+            <li>The unexpected reveal of {PAWN_nameShortPossessive} mature, smaller member. Its smooth texture and defined head were undeniably appealing, a classic form.</li>
+            <li>Its small stature was deceptive; the firmness of the shaft and the clean lines of the glans hinted at an intimate grace.</li>
+            <li>Such a neat, unassuming package. The mature skin had a healthy glow, and the overall shape spoke of humble, yet satisfying, anatomy.</li>
+            <li>The unexpected appearance of {PAWN_nameShortPossessive} compact member. It was quite a well-proportioned sight, with a gentle, inviting curve to the shaft.</li>
+            <li>A modest size, but the maturity of the form was intriguing. The head looked well-maintained, smooth, and ready for tender attention.</li>
+            <li>Observing the subtle contours, the mature shaft, and the perfectly rounded glans. A small size can still hold a captivating appeal.</li>
+            <li>Its presence was sudden, a humble yet handsome sight. The slight curve of the shaft and the neat foreskin were quite captivating.</li>
+            <li>The sight of it was quite tender. Though small, the distinct head and the natural hang of the balls hinted at quiet pleasures.</li>
+            <li>Small, yet so artfully formed. The mature shaft had a smooth, inviting feel to it, and the head gleamed subtly under the light.</li>
+            <li>A sudden peek revealed a refined, albeit small, piece of anatomy. The glans was perfectly shaped, promising a gentle experience.</li>
+            <li>The mature organ, though compact, exuded a certain quiet confidence. Its defined shaft and smooth head were surprisingly alluring.</li>
+            <li>An unassuming sight, but the anatomy was perfectly in tune with the rest of {PAWN_nameShortPossessive} body. Very pleasing, indeed.</li>
+            <li>The way it nestled, a compact yet elegant form. The mature foreskin, if present, lay unmarred, adding to its humble charm.</li>
+            <li>A delightful surprise, {PAWN_nameShortPossessive} small, mature package. The smooth, well-defined head and shaft were a testament to timeless allure.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale_observed_by_voyer</defName>
+        <label>Small Penis (Positive)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A quick glance caught {PAWN_nameShortPossessive} compact, mature member. Its subtle charm was quite a sight to behold, very stimulating for my voyeuristic nature.</li>
+            <li>That unassuming, mature shaft, nestled so discreetly. The clean lines of the glans were a private pleasure, a perfect little secret.</li>
+            <li>The perfect, unexpected reveal. A modest size, yet the mature anatomy was exquisitely formed, offering a discreet, captivating display.</li>
+            <li>Suddenly, there it was, a mature man's private parts. The foreskin appeared neat, hinting at a hidden beauty. My eyes lingered, appreciating the subtle details.</li>
+            <li>A truly delightful sight, {PAWN_nameShortPossessive} perfectly compact, mature package. The smooth head and firm shaft were a quiet, intimate spectacle.</li>
+            <li>A sudden, delicious sight of a mature, smaller appendage. The shaft's texture and the plumpness of the glans were wonderfully inviting to my gaze.</li>
+            <li>The discreet unveiling of {PAWN_nameShortPossessive} compact, mature member. The overall shape spoke of understated elegance, a personal glimpse I savored.</li>
+            <li>Its modesty only amplified the allure. The mature skin, the neat balls, and the distinct head were a captivating vision for my eager eyes.</li>
+            <li>Such a humble, yet satisfying display. The gentle curve of the shaft and the well-formed foreskin, if present, offered a tantalizing peek.</li>
+            <li>An unexpected gift for the eyes. {PAWN_nameShortPossessive} compact, mature organ, with its smooth lines and inviting glans, was a discreet fantasy.</li>
+            <li>A subtle exposure, yet so profoundly captivating. The mature shaft had a gentle, pleasing form, an anatomical beauty for a connoisseur like me.</li>
+            <li>Observing the quiet dignity of that mature, smaller piece of anatomy. The smooth glans and compact balls were a perfect, private study.</li>
+            <li>The sudden, thrilling sight. The mature, unpretentious form, the pleasing contours of the shaft, all perfectly designed for a hidden admiration.</li>
+            <li>It was a fleeting moment, but the distinct head and the natural poise of the mature, smaller member left a lasting impression.</li>
+            <li>Though small, its mature contours and the way the foreskin rested so perfectly, were utterly fascinating to observe from a distance.</li>
+            <li>A quick, tantalizing glimpse of a mature, modest organ. The well-defined shaft and gleaming head made for a surprisingly hot view.</li>
+            <li>The mature appendage, though compact, radiated a subtle, alluring power. Its smooth shaft and perfectly formed head were truly mesmerizing to watch.</li>
+            <li>An unassuming but deeply satisfying scene. The mature anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, truly a voyeur's delight.</li>
+            <li>The way it casually presented itself, a mature and compact form. The foreskin, unmarred, added to its humble, yet enticing charm.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} mature, compact package. The smooth, well-defined head and shaft were a perfect, intimate visual.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Small Penis (Positive)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Seeing {PAWN_nameShortPossessive} mature, compact member fills me with a thrilling sense of exposure. It inspires me to show off my own!</li>
+            <li>The unassuming, mature shaft. It makes me want to drop my own clothes and share in the freedom. What a liberating sight!</li>
+            <li>A perfectly sized, mature example. It makes me feel bold and eager to reveal myself. Such a confident display!</li>
+            <li>{PAWN_nameShortPossessive} mature private parts, a sudden, public declaration. It makes me feel so much freer about my own body.</li>
+            <li>What a pleasant sight, {PAWN_nameShortPossessive} compact, mature package. It makes me yearn for an audience, to feel that gaze upon me.</li>
+            <li>The glimpse of that mature, smaller appendage. It stirs a desire within me to reveal all, to feel the eyes of others upon my own skin.</li>
+            <li>{PAWN_nameShortPossessive} compact, mature member, so casually displayed. It makes me want to join in, to experience the thrill of being seen.</li>
+            <li>Its modest size only makes me feel more confident in displaying myself. The mature skin, the neat balls, a true inspiration.</li>
+            <li>Such a humble, yet inspiring display. The gentle curve of the shaft and the well-formed foreskin make me want to bare my soul, and more.</li>
+            <li>An unexpected invitation to exhibition. {PAWN_nameShortPossessive} compact, mature organ, with its smooth lines, makes me crave the spotlight.</li>
+            <li>A subtle exposure that makes me want to scream my presence to the world. The mature shaft has a pleasing form, a perfect example.</li>
+            <li>Observing the quiet dignity of that mature, smaller piece of anatomy. It fills me with the urge to unveil my own secret self.</li>
+            <li>The sudden, thrilling sight. The mature, unpretentious form of {PAWN_nameShortPossessive} member makes me feel an intense desire to be seen.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the mature, smaller member made me feel uninhibited, ready to expose myself.</li>
+            <li>Though small, its mature contours and the way the foreskin rested so perfectly, inspired me to shed all inhibitions and embrace the nude.</li>
+            <li>A quick, tantalizing glimpse of a mature, modest organ. The well-defined shaft and gleaming head made me feel daring, wanting to show all.</li>
+            <li>The mature appendage, though compact, radiated a subtle, alluring power. It made me feel utterly compelled to expose myself, seeking that appreciative gaze.</li>
+            <li>An unassuming but deeply satisfying scene. The mature anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, calling me to join the naked truth.</li>
+            <li>The way it casually presented itself, a mature and compact form. The foreskin, unmarred, made me yearn to display my own natural beauty.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} mature, compact package. The smooth, well-defined head and shaft were a perfect model for my exhibitionist desires.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Small Penis (Positive)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A small, mature package, but it immediately sparked a powerful craving within me. So compact, yet so much potential for pleasure.</li>
+            <li>That unassuming, mature shaft. My body hums with a deep, insistent need. I want to feel it against me, right now.</li>
+            <li>A perfectly sized, mature example. My desire surges, a burning ache for intimacy. I can almost feel its presence.</li>
+            <li>{PAWN_nameShortPossessive} mature private parts, a sudden, tantalizing vision. Every inch of me aches for contact, for release.</li>
+            <li>What a pleasant sight, {PAWN_nameShortPossessive} compact, mature package. It ignites a fierce hunger, a need to intertwine our bodies.</li>
+            <li>The glimpse of that mature, smaller appendage. It sends shivers down my spine, a rush of raw, unbridled sexual energy.</li>
+            <li>{PAWN_nameShortPossessive} compact, mature member, so casually displayed. My mind races with erotic possibilities, my body yearns.</li>
+            <li>Its modesty only makes me want it more. The mature skin, the neat balls, a potent aphrodisiac for my unyielding urges.</li>
+            <li>Such a humble, yet intensely stimulating display. The gentle curve of the shaft fills me with an overwhelming, carnal yearning.</li>
+            <li>An unexpected invitation to ecstasy. {PAWN_nameShortPossessive} compact, mature organ, with its smooth lines, drives me wild with desire.</li>
+            <li>A subtle exposure that ignites a fire in my loins. The mature shaft has a pleasing form that promises endless nights of passion.</li>
+            <li>Observing the quiet dignity of that mature, smaller piece of anatomy. My senses are heightened, every nerve ending alive with desperate longing.</li>
+            <li>The sudden, thrilling sight. The mature, unpretentious form of {PAWN_nameShortPossessive} member makes me feel an insatiable, urgent need.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the mature, smaller member made my core throb with fierce anticipation.</li>
+            <li>Though small, its mature contours and the way the foreskin rested so perfectly, screamed of hidden depths and intense pleasures to be explored.</li>
+            <li>A quick, tantalizing glimpse of a mature, modest organ. The well-defined shaft and gleaming head are a direct call to my deepest carnal desires.</li>
+            <li>The mature appendage, though compact, radiated an irresistible, alluring power. My blood boils, demanding the swift culmination of this intense craving.</li>
+            <li>An unassuming but deeply satisfying scene. The mature anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, making me burn with desire.</li>
+            <li>The way it casually presented itself, a mature and compact form. The foreskin, unmarred, beckons me closer, promising sweet release.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} mature, compact package. The smooth, well-defined head and shaft are a direct conduit to my unrestrained passion.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale_observed_by_Prude</defName>
+        <label>Small Penis (Positive)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Such a modest, mature presentation. While scandalous, its small stature makes it less offensive, almost... tolerable.</li>
+            <li>A rather private sight, that mature shaft. It's truly shocking, but at least its modest size lessens the impropriety slightly.</li>
+            <li>It’s... there. A mature example. One tries to look away, but its compact form is less overtly scandalous than it might be.</li>
+            <li>Suddenly, {PAWN_nameShortPossessive} mature private parts. Utterly improper, but its humble proportions are, dare I say, less confronting.</li>
+            <li>A shocking, yet surprisingly contained, sight. {PAWN_nameShortPossessive} compact, mature package, while indecent, avoids being overtly vulgar.</li>
+            <li>The glimpse of that mature, smaller appendage. One's sensibilities are offended, yet its lack of prominence makes it marginally less scandalous.</li>
+            <li>{PAWN_nameShortPossessive} compact, mature member, so brazenly displayed. It is improper, but its discreet size is a small mercy.</li>
+            <li>Its modesty almost makes it acceptable. The mature skin, the neat balls, a sight to be endured with minimal discomfort.</li>
+            <li>Such a humble, yet utterly inappropriate display. The gentle curve of the shaft is… not as shocking as a larger one.</li>
+            <li>An unexpected and unwelcome sight. {PAWN_nameShortPossessive} compact, mature organ, with its smooth lines, is nonetheless offensive, but less so.</li>
+            <li>A subtle exposure that is still quite indecent. The mature shaft, however, has a pleasing form that makes it marginally less vulgar.</li>
+            <li>Observing the quiet presence of that mature, smaller piece of anatomy. It is distasteful, but its modest size makes it less of an affront.</li>
+            <li>The sudden, shocking sight. The mature, unpretentious form of {PAWN_nameShortPossessive} member makes me deeply uncomfortable, but it could be worse.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the mature, smaller member were, regrettably, noticed.</li>
+            <li>Though small, its mature contours and the way the foreskin rested were, unfortunately, quite visible. One wishes for more modesty.</li>
+            <li>A quick, tantalizing glimpse of a mature, modest organ. The well-defined shaft and gleaming head are an unwanted imposition on my sight.</li>
+            <li>The mature appendage, though compact, radiated an unsettling presence. Its smooth shaft and perfectly formed head are still deeply inappropriate.</li>
+            <li>An unassuming but deeply improper scene. The mature anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, which only highlights the indecency.</li>
+            <li>The way it casually presented itself, a mature and compact form. The foreskin, unmarred, is still a sight that should be covered.</li>
+            <li>A truly discomfiting sight, {PAWN_nameShortPossessive} mature, compact package. The smooth, well-defined head and shaft are, frankly, too much.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale_observed_by_Young_male</defName>
+        <label>Small Penis (Positive)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Interesting. It's a mature, compact one, not what I expected. Still, the overall shape seems quite functional and well-kept.</li>
+            <li>Saw {PAWN_nameShortPossessive} mature shaft. Smaller than some, but looks firm and well-defined. A good example of what time does.</li>
+            <li>Yeah, it's there. A mature one. Not huge, but it's got a decent head and looks like it's seen some action.</li>
+            <li>Caught a glimpse of {PAWN_nameShortPossessive} package. Mid-aged and on the smaller side, but the balls looked full and healthy. Respectable.</li>
+            <li>Pretty standard for an older guy, I guess. The shaft looks smooth, and the head's got a nice, clean shape to it.</li>
+            <li>It's, uh, smaller than mine, but solid. The mature skin looks good, not saggy or anything. Not bad for his age.</li>
+            <li>Just saw {PAWN_nameShortPossessive} mature member. Compact, but it has that experienced look about it. The glans seems well-formed.</li>
+            <li>A decent, mature piece. Not imposing, but the anatomy looks solid, the foreskin, if present, is neat. A classic shape.</li>
+            <li>It's a modest size. But the mature lines, the way the balls hang... it's a veteran's piece. Looks like it's been cared for.</li>
+            <li>Well, it’s not huge, but {PAWN_nameShortPossessive} mature organ looks sturdy. The shaft’s got good color, and the head is well-defined.</li>
+            <li>Saw it. Small, but mature. The shaft looks firm, and the glans is well-rounded. It looks like it’s still got some life in it.</li>
+            <li>Yeah, it’s a compact one. The mature shaft and head are clean, well-proportioned. Nothing to write home about, but nothing to mock either.</li>
+            <li>A quick look. It's mature, smallish. But the balls look full, and the skin seems healthy. It’s got a certain… resilience.</li>
+            <li>It was there, {PAWN_nameShortPossessive} older, smaller member. The head and shaft have a consistent look, well-maintained.</li>
+            <li>Smaller, but with that mature, settled look. The foreskin, if there, seemed tight, and the overall shape was quite refined.</li>
+            <li>Not exactly a monster, but {PAWN_nameShortPossessive} mature one looks robust. The shaft is straight, and the glans is defined.</li>
+            <li>A mature, compact piece. The balls look like they’ve seen things, but the penis itself is in good shape. Solid.</li>
+            <li>It's on the smaller side for a mature man. But the anatomy seems right, no oddities. A basic, functional model.</li>
+            <li>Yeah, just saw it. Not big, but the mature one has a neat appearance. The foreskin, if there, looked intact.</li>
+            <li>A subtle reveal of {PAWN_nameShortPossessive} mature, compact package. The head and shaft are uniform, suggesting a well-used but healthy organ.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale_observed_by_Young_female</defName>
+        <label>Small Penis (Positive)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>It's a small, mature one, but it has a charming, classic look. The smooth shaft and well-defined head are quite appealing.</li>
+            <li>Oh, a mature, compact one. It actually looks quite cute, and the glans is so perfectly formed. A sweet surprise.</li>
+            <li>A modest size, but it sits so nicely. The mature anatomy seems gentle, hinting at tender possibilities. Very intriguing.</li>
+            <li>Suddenly, there it was, a mature man's private part. It was small, but the skin looked soft, and the foreskin, if present, was neat.</li>
+            <li>What a pleasant sight. {PAWN_nameShortPossessive} compact, mature package looks so unassuming, yet perfectly sculpted. Very attractive.</li>
+            <li>The glimpse of that mature, smaller appendage. It has a lovely, smooth texture, and the balls, though not large, are plump and inviting.</li>
+            <li>{PAWN_nameShortPossessive} compact, mature member, so neatly put together. Its humble size only makes it seem more approachable and appealing.</li>
+            <li>Its small stature is endearing. The mature skin, the neat balls, and the distinct head are all so perfectly in place.</li>
+            <li>Such a humble, yet delightful display. The gentle curve of the shaft and the well-formed foreskin make it look so soft and inviting.</li>
+            <li>An unexpected treat. {PAWN_nameShortPossessive} compact, mature organ, with its smooth lines and alluring glans, is truly charming.</li>
+            <li>A subtle exposure that still catches the eye. The mature shaft has a pleasing form, and the head gleams subtly.</li>
+            <li>Observing the quiet appeal of that mature, smaller piece of anatomy. The smooth glans and compact balls are very charming.</li>
+            <li>The sudden, sweet sight. The mature, unpretentious form of {PAWN_nameShortPossessive} member looks so wonderfully natural and inviting.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the mature, smaller member made me smile.</li>
+            <li>Though small, its mature contours and the way the foreskin rested so perfectly, hinted at a gentle, loving touch.</li>
+            <li>A quick, tantalizing glimpse of a mature, modest organ. The well-defined shaft and gleaming head are quite lovely to behold.</li>
+            <li>The mature appendage, though compact, exuded a gentle, alluring charm. Its smooth shaft and perfectly formed head were truly sweet.</li>
+            <li>An unassuming but deeply satisfying scene. The mature anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, making it quite beautiful.</li>
+            <li>The way it casually presented itself, a mature and compact form. The foreskin, unmarred, added to its humble, yet enticing charm.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} mature, compact package. The smooth, well-defined head and shaft were just darling.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Small Penis (Positive)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Alright, a mature, compact one. Looks well-kept, which is what matters at our age. Practical and tidy.</li>
+            <li>Saw {PAWN_nameShortPossessive} mature shaft. Smaller, but it's clearly functional and healthy. No complaints there.</li>
+            <li>Yeah, it's there. A seasoned one. Not massive, but the head looks solid and the skin is good.</li>
+            <li>Caught a glimpse of {PAWN_nameShortPossessive} package. Mid-aged and on the smaller side, but the balls look settled. It's fine.</li>
+            <li>Pretty average for a man our age, I'd say. The shaft looks smooth, and the head's got a classic, clean shape.</li>
+            <li>It's, uh, smaller than some, but clearly functional. The mature skin looks healthy, not showing its age too much.</li>
+            <li>Just saw {PAWN_nameShortPossessive} mature member. Compact, but it's got that experienced look. The glans seems perfectly normal.</li>
+            <li>A decent, mature piece. Not overstated, but the anatomy seems sturdy, the foreskin, if present, is unbothered. A reliable shape.</li>
+            <li>It's a modest size. But the mature lines, the way the balls hang... it's a veteran's piece. Looks well-maintained.</li>
+            <li>Well, it’s not huge, but {PAWN_nameShortPossessive} mature organ looks sturdy. The shaft’s got good color, and the head is normal.</li>
+            <li>Saw it. Small, but mature. The shaft looks firm, and the glans is well-rounded. It looks like it’s still doing its job.</li>
+            <li>Yeah, it’s a compact one. The mature shaft and head are clean, well-proportioned. Nothing extraordinary, but it does the trick.</li>
+            <li>A quick look. It's mature, smallish. But the balls look settled, and the skin seems healthy. It’s got a certain… endurance.</li>
+            <li>It was there, {PAWN_nameShortPossessive} older, smaller member. The head and shaft have a consistent look, well-kept.</li>
+            <li>Smaller, but with that mature, settled look. The foreskin, if there, seemed tight, and the overall shape was quite ordinary.</li>
+            <li>Not exactly a showstopper, but {PAWN_nameShortPossessive} mature one looks robust. The shaft is straight, and the glans is defined.</li>
+            <li>A mature, compact piece. The balls look like they’ve aged gracefully, but the penis itself is in good shape. Solid.</li>
+            <li>It's on the smaller side for a mature man. But the anatomy seems correct, no oddities. A functional model.</li>
+            <li>Yeah, just saw it. Not big, but the mature one has a neat appearance. The foreskin, if there, looked intact.</li>
+            <li>A subtle reveal of {PAWN_nameShortPossessive} mature, compact package. The head and shaft are uniform, suggesting a healthy organ.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Small Penis (Positive)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A mature, compact form, but surprisingly appealing. The smooth shaft and well-rounded head hint at gentle experience. Quite lovely.</li>
+            <li>Oh, a mature, smaller one. It has a charming, classic look, and the glans is so perfectly formed. A sweet and inviting surprise.</li>
+            <li>A modest size, but it rests so comfortably. The mature anatomy seems kind, hinting at tender, familiar possibilities. Very intriguing.</li>
+            <li>Suddenly, there it was, a mature man's private part. It was small, but the skin looked soft, and the foreskin, if present, was neat and inviting.</li>
+            <li>What a pleasant sight. {PAWN_nameShortPossessive} compact, mature package looks unassuming, yet perfectly sculpted for intimacy. Very attractive.</li>
+            <li>The glimpse of that mature, smaller appendage. It has a lovely, smooth texture, and the balls, though not large, are plump and appealing.</li>
+            <li>{PAWN_nameShortPossessive} compact, mature member, so neatly put together. Its humble size only makes it seem more approachable and perhaps, more tender.</li>
+            <li>Its small stature is endearing. The mature skin, the neat balls, and the distinct head are all so perfectly in place, hinting at a gentle lover.</li>
+            <li>Such a humble, yet delightful display. The gentle curve of the shaft and the well-formed foreskin make it look so soft and inviting.</li>
+            <li>An unexpected treat. {PAWN_nameShortPossessive} compact, mature organ, with its smooth lines and alluring glans, is truly charming and promises subtle delights.</li>
+            <li>A subtle exposure that still catches the eye. The mature shaft has a pleasing form, and the head gleams subtly, suggesting a hidden warmth.</li>
+            <li>Observing the quiet appeal of that mature, smaller piece of anatomy. The smooth glans and compact balls are very charming, hinting at a comfortable touch.</li>
+            <li>The sudden, sweet sight. The mature, unpretentious form of {PAWN_nameShortPossessive} member looks so wonderfully natural and inviting for mature companionship.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the mature, smaller member made me feel a sense of warmth and familiarity.</li>
+            <li>Though small, its mature contours and the way the foreskin rested so perfectly, hinted at a gentle, loving touch and years of experience.</li>
+            <li>A quick, tantalizing glimpse of a mature, modest organ. The well-defined shaft and gleaming head are quite lovely to behold, suggesting quiet passions.</li>
+            <li>The mature appendage, though compact, exuded a gentle, alluring charm. Its smooth shaft and perfectly formed head were truly sweet and comforting.</li>
+            <li>An unassuming but deeply satisfying scene. The mature anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, making it quite beautiful and familiar.</li>
+            <li>The way it casually presented itself, a mature and compact form. The foreskin, unmarred, added to its humble, yet enticing charm for a discerning eye.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} mature, compact package. The smooth, well-defined head and shaft were just darling, hinting at profound experiences.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Elder male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale_observed_by_Elder_male</defName>
+        <label>Small Penis (Positive)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ah, a smaller, mature one. Holds up well for {PAWN_nameShortPossessive} age, good to see. Shows proper maintenance.</li>
+            <li>Saw {PAWN_nameShortPossessive} shaft. Modest size, but firm. It’s got that experienced look to it, good for a man in his prime.</li>
+            <li>Yes, it’s there. A classic. Not as grand as some, but the head looks solid and the overall condition is fine.</li>
+            <li>Caught a glimpse of {PAWN_nameShortPossessive} package. Mid-aged and compact, but the balls are still well-formed. Respectable.</li>
+            <li>Looks about right for a man in that stage of life. The shaft is smooth, and the head's got a clean, unblemished shape.</li>
+            <li>It's, uh, smaller, but certainly functional. The mature skin still looks healthy, not too much decline for his years.</li>
+            <li>Just saw {PAWN_nameShortPossessive} mature member. Compact, but it has that well-used look. The glans seems perfectly preserved.</li>
+            <li>A decent, mature piece. Not flashy, but the anatomy seems intact, the foreskin, if present, is neat. A reliable form.</li>
+            <li>It's a modest size. But the mature lines, the way the balls hang... it's a veteran's piece, still standing strong.</li>
+            <li>Well, it’s not huge, but {PAWN_nameShortPossessive} mature organ looks sturdy. The shaft’s got good color, and the head is normal.</li>
+            <li>Saw it. Small, but mature. The shaft looks firm, and the glans is well-rounded. It still looks ready for action.</li>
+            <li>Yeah, it’s a compact one. The mature shaft and head are clean, well-proportioned. It still serves its purpose admirably.</li>
+            <li>A quick look. It's mature, smallish. But the balls look resilient, and the skin seems healthy. It’s got a certain… quiet strength.</li>
+            <li>It was there, {PAWN_nameShortPossessive} older, smaller member. The head and shaft have a consistent look, well-maintained.</li>
+            <li>Smaller, but with that mature, settled look. The foreskin, if there, seemed tight, and the overall shape was quite refined.</li>
+            <li>Not exactly a monster, but {PAWN_nameShortPossessive} mature one looks robust. The shaft is straight, and the glans is defined.</li>
+            <li>A mature, compact piece. The balls look like they’ve seen things, but the penis itself is in good shape. Still solid.</li>
+            <li>It's on the smaller side for a mature man. But the anatomy seems right, no oddities. A functional model.</li>
+            <li>Yeah, just saw it. Not big, but the mature one has a neat appearance. The foreskin, if there, looked intact.</li>
+            <li>A subtle reveal of {PAWN_nameShortPossessive} mature, compact package. The head and shaft are uniform, suggesting a well-used but healthy organ.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_MatureMale_observed_by_Elder_female</defName>
+        <label>Small Penis (Positive)_MatureMale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A mature, compact form. It reminds me of gentler times, a subtle beauty. The smooth shaft suggests a tender touch.</li>
+            <li>Oh, a mature, smaller one. It has a charming, classic look, and the glans is so perfectly formed. A sweet memory.</li>
+            <li>A modest size, but it sits so nicely. The mature anatomy seems kind, hinting at tender, familiar possibilities. Quite lovely.</li>
+            <li>Suddenly, there it was, a mature man's private part. It was small, but the skin looked soft, and the foreskin, if present, was neat.</li>
+            <li>What a pleasant sight. {PAWN_nameShortPossessive} compact, mature package looks unassuming, yet perfectly sculpted, a familiar and attractive form.</li>
+            <li>The glimpse of that mature, smaller appendage. It has a lovely, smooth texture, and the balls, though not large, are plump and inviting.</li>
+            <li>{PAWN_nameShortPossessive} compact, mature member, so neatly put together. Its humble size only makes it seem more approachable and perhaps, more tender.</li>
+            <li>Its small stature is endearing. The mature skin, the neat balls, and the distinct head are all so perfectly in place, hinting at a gentle lover.</li>
+            <li>Such a humble, yet delightful display. The gentle curve of the shaft and the well-formed foreskin make it look so soft and inviting.</li>
+            <li>An unexpected treat. {PAWN_nameShortPossessive} compact, mature organ, with its smooth lines and alluring glans, is truly charming and promises subtle delights.</li>
+            <li>A subtle exposure that still catches the eye. The mature shaft has a pleasing form, and the head gleams subtly, suggesting a hidden warmth.</li>
+            <li>Observing the quiet appeal of that mature, smaller piece of anatomy. The smooth glans and compact balls are very charming, hinting at a comfortable touch.</li>
+            <li>The sudden, sweet sight. The mature, unpretentious form of {PAWN_nameShortPossessive} member looks so wonderfully natural and inviting for mature companionship.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the mature, smaller member made me feel a sense of warmth and familiarity.</li>
+            <li>Though small, its mature contours and the way the foreskin rested so perfectly, hinted at a gentle, loving touch and years of experience.</li>
+            <li>A quick, tantalizing glimpse of a mature, modest organ. The well-defined shaft and gleaming head are quite lovely to behold, suggesting quiet passions.</li>
+            <li>The mature appendage, though compact, exuded a gentle, alluring charm. Its smooth shaft and perfectly formed head were truly sweet and comforting.</li>
+            <li>An unassuming but deeply satisfying scene. The mature anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, making it quite beautiful and familiar.</li>
+            <li>The way it casually presented itself, a mature and compact form. The foreskin, unmarred, added to its humble, yet enticing charm for a discerning eye.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} mature, compact package. The smooth, well-defined head and shaft were just darling, hinting at profound experiences.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale</defName>
+        <label>Small Penis (Positive)_ElderMale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Despite its age, the modest shaft had a pleasant, wise look, complementing his venerable frame. An unexpected but delightful sight that brought a subtle warmth.</li>
+            <li>The humble length of {PAWN_nameShortPossessive} member was easily overlooked by the inviting plumpness of {PAWN_possessive} glans. Quite alluring, even in old age.</li>
+            <li>A comfortable size, the elder penis felt right, not overwhelming, but hinting at a steady, reliable presence. A solid, pleasing anatomy.</li>
+            <li>Suddenly, there it was, an older man's modest yet well-formed anatomy. The foreskin, if present, appeared smooth, suggesting a subtle, inviting look.</li>
+            <li>Quite a pleasing sight. The compact shaft, the smooth head, and the way it rested comfortably. It suggests a gentle, experienced wisdom.</li>
+            <li>Ah, the glimpse of a venerable, compact package. The shaft seemed well-maintained, and the balls, though not large, looked firm. A pleasant surprise.</li>
+            <li>The unexpected reveal of {PAWN_nameShortPossessive} compact, elder member. Its smooth texture and defined head were undeniably appealing, a classic form that endures.</li>
+            <li>Its small stature was deceptive; the firmness of the shaft and the clean lines of the glans hinted at an intimate grace, softened by time.</li>
+            <li>Such a neat, unassuming package. The aged skin had a healthy glow, and the overall shape spoke of humble, yet satisfying, anatomy.</li>
+            <li>The unexpected appearance of {PAWN_nameShortPossessive} compact, elder member. It was quite a well-proportioned sight, with a gentle, inviting curve to the shaft.</li>
+            <li>A modest size, but the wisdom of the form was intriguing. The head looked well-maintained, smooth, and ready for tender attention.</li>
+            <li>Observing the subtle contours, the aged shaft, and the perfectly rounded glans. A small size can still hold a captivating appeal.</li>
+            <li>Its presence was sudden, a humble yet handsome sight. The slight curve of the shaft and the neat foreskin were quite captivating.</li>
+            <li>The sight of it was quite tender. Though small, the distinct head and the natural hang of the balls hinted at quiet, long-held pleasures.</li>
+            <li>Small, yet so artfully formed. The elder shaft had a smooth, inviting feel to it, and the head gleamed subtly under the light.</li>
+            <li>A sudden peek revealed a refined, albeit small, piece of anatomy. The glans was perfectly shaped, promising a gentle, experienced touch.</li>
+            <li>The elder organ, though compact, exuded a certain quiet confidence. Its defined shaft and smooth head were surprisingly alluring, a timeless charm.</li>
+            <li>An unassuming sight, but the anatomy was perfectly in tune with the rest of {PAWN_nameShortPossessive} body. Very pleasing, indeed.</li>
+            <li>The way it nestled, a compact yet elegant form. The aged foreskin, unmarred, adding to its humble charm.</li>
+            <li>A delightful surprise, {PAWN_nameShortPossessive} small, elder package. The smooth, well-defined head and shaft were a testament to enduring allure.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale_observed_by_voyer</defName>
+        <label>Small Penis (Positive)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A quick glance caught {PAWN_nameShortPossessive} compact, elder member. Its subtle charm was quite a sight to behold, very stimulating for my voyeuristic nature.</li>
+            <li>That unassuming, elder shaft, nestled so discreetly. The clean lines of the glans were a private pleasure, a perfect little secret.</li>
+            <li>The perfect, unexpected reveal. A modest size, yet the elder anatomy was exquisitely formed, offering a discreet, captivating display.</li>
+            <li>Suddenly, there it was, an older man's private parts. The foreskin appeared neat, hinting at a hidden beauty. My eyes lingered, appreciating the subtle details.</li>
+            <li>A truly delightful sight, {PAWN_nameShortPossessive} perfectly compact, elder package. The smooth head and firm shaft were a quiet, intimate spectacle.</li>
+            <li>A sudden, delicious sight of an elder, smaller appendage. The shaft's texture and the plumpness of the glans were wonderfully inviting to my gaze.</li>
+            <li>The discreet unveiling of {PAWN_nameShortPossessive} compact, elder member. The overall shape spoke of understated elegance, a personal glimpse I savored.</li>
+            <li>Its modesty only amplified the allure. The aged skin, the neat balls, and the distinct head were a captivating vision for my eager eyes.</li>
+            <li>Such a humble, yet satisfying display. The gentle curve of the shaft and the well-formed foreskin, if present, offered a tantalizing peek.</li>
+            <li>An unexpected gift for the eyes. {PAWN_nameShortPossessive} compact, elder organ, with its smooth lines and inviting glans, was a discreet fantasy.</li>
+            <li>A subtle exposure, yet so profoundly captivating. The elder shaft had a gentle, pleasing form, an anatomical beauty for a connoisseur like me.</li>
+            <li>Observing the quiet dignity of that elder, smaller piece of anatomy. The smooth glans and compact balls were a perfect, private study.</li>
+            <li>The sudden, thrilling sight. The elder, unpretentious form, the pleasing contours of the shaft, all perfectly designed for a hidden admiration.</li>
+            <li>It was a fleeting moment, but the distinct head and the natural poise of the elder, smaller member left a lasting impression.</li>
+            <li>Though small, its elder contours and the way the foreskin rested so perfectly, were utterly fascinating to observe from a distance.</li>
+            <li>A quick, tantalizing glimpse of an elder, modest organ. The well-defined shaft and gleaming head made for a surprisingly hot view.</li>
+            <li>The elder appendage, though compact, radiated a subtle, alluring power. Its smooth shaft and perfectly formed head were truly mesmerizing to watch.</li>
+            <li>An unassuming but deeply satisfying scene. The elder anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, truly a voyeur's delight.</li>
+            <li>The way it casually presented itself, an elder and compact form. The foreskin, unmarred, added to its humble, yet enticing charm.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} elder, compact package. The smooth, well-defined head and shaft were a perfect, intimate visual.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Small Penis (Positive)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Seeing {PAWN_nameShortPossessive} elder, compact member fills me with a thrilling sense of exposure. It inspires me to show off my own!</li>
+            <li>The unassuming, elder shaft. It makes me want to drop my own clothes and share in the freedom. What a liberating sight!</li>
+            <li>A perfectly sized, elder example. It makes me feel bold and eager to reveal myself. Such a confident display!</li>
+            <li>{PAWN_nameShortPossessive} elder private parts, a sudden, public declaration. It makes me feel so much freer about my own body.</li>
+            <li>What a pleasant sight, {PAWN_nameShortPossessive} compact, elder package. It makes me yearn for an audience, to feel that gaze upon me.</li>
+            <li>The glimpse of that elder, smaller appendage. It stirs a desire within me to reveal all, to feel the eyes of others upon my own skin.</li>
+            <li>{PAWN_nameShortPossessive} compact, elder member, so casually displayed. It makes me want to join in, to experience the thrill of being seen.</li>
+            <li>Its modesty only makes me feel more confident in displaying myself. The aged skin, the neat balls, a true inspiration.</li>
+            <li>Such a humble, yet inspiring display. The gentle curve of the shaft and the well-formed foreskin make me want to bare my soul, and more.</li>
+            <li>An unexpected invitation to exhibition. {PAWN_nameShortPossessive} compact, elder organ, with its smooth lines, makes me crave the spotlight.</li>
+            <li>A subtle exposure that makes me want to scream my presence to the world. The elder shaft has a pleasing form, a perfect example.</li>
+            <li>Observing the quiet dignity of that elder, smaller piece of anatomy. It fills me with the urge to unveil my own secret self.</li>
+            <li>The sudden, thrilling sight. The elder, unpretentious form of {PAWN_nameShortPossessive} member makes me feel an intense desire to be seen.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the elder, smaller member made me feel uninhibited, ready to expose myself.</li>
+            <li>Though small, its elder contours and the way the foreskin rested so perfectly, inspired me to shed all inhibitions and embrace the nude.</li>
+            <li>A quick, tantalizing glimpse of an elder, modest organ. The well-defined shaft and gleaming head made me feel daring, wanting to show all.</li>
+            <li>The elder appendage, though compact, radiated a subtle, alluring power. It made me feel utterly compelled to expose myself, seeking that appreciative gaze.</li>
+            <li>An unassuming but deeply satisfying scene. The elder anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, calling me to join the naked truth.</li>
+            <li>The way it casually presented itself, an elder and compact form. The foreskin, unmarred, made me yearn to display my own natural beauty.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} elder, compact package. The smooth, well-defined head and shaft were a perfect model for my exhibitionist desires.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Small Penis (Positive)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A small, elder package, but it immediately sparked a powerful craving within me. So compact, yet so much potential for seasoned pleasure.</li>
+            <li>That unassuming, elder shaft. My body hums with a deep, insistent need. I want to feel its wisdom against me, right now.</li>
+            <li>A perfectly sized, elder example. My desire surges, a burning ache for intimacy. I can almost feel its presence, rich with history.</li>
+            <li>{PAWN_nameShortPossessive} elder private parts, a sudden, tantalizing vision. Every inch of me aches for contact, for mature release.</li>
+            <li>What a pleasant sight, {PAWN_nameShortPossessive} compact, elder package. It ignites a fierce hunger, a need to intertwine our bodies and share long-held secrets.</li>
+            <li>The glimpse of that elder, smaller appendage. It sends shivers down my spine, a rush of raw, unbridled sexual energy from a lifetime of experience.</li>
+            <li>{PAWN_nameShortPossessive} compact, elder member, so casually displayed. My mind races with erotic possibilities, my body yearns for its seasoned touch.</li>
+            <li>Its modesty only makes me want it more. The aged skin, the neat balls, a potent aphrodisiac for my unyielding urges, steeped in years.</li>
+            <li>Such a humble, yet intensely stimulating display. The gentle curve of the shaft fills me with an overwhelming, carnal yearning for mature passion.</li>
+            <li>An unexpected invitation to ecstasy. {PAWN_nameShortPossessive} compact, elder organ, with its smooth lines, drives me wild with desire for a wise lover.</li>
+            <li>A subtle exposure that ignites a fire in my loins. The elder shaft has a pleasing form that promises endless nights of seasoned passion.</li>
+            <li>Observing the quiet dignity of that elder, smaller piece of anatomy. My senses are heightened, every nerve ending alive with desperate longing for its touch.</li>
+            <li>The sudden, thrilling sight. The elder, unpretentious form of {PAWN_nameShortPossessive} member makes me feel an insatiable, urgent need for mature embrace.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the elder, smaller member made my core throb with fierce anticipation of its wisdom.</li>
+            <li>Though small, its elder contours and the way the foreskin rested so perfectly, screamed of hidden depths and intense, long-practiced pleasures to be explored.</li>
+            <li>A quick, tantalizing glimpse of an elder, modest organ. The well-defined shaft and gleaming head are a direct call to my deepest carnal desires, refined by age.</li>
+            <li>The elder appendage, though compact, radiated an irresistible, alluring power. My blood boils, demanding the swift culmination of this intense craving for seasoned love.</li>
+            <li>An unassuming but deeply satisfying scene. The elder anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, making me burn with desire for its experienced touch.</li>
+            <li>The way it casually presented itself, an elder and compact form. The foreskin, unmarred, beckons me closer, promising sweet release, ripened by time.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} elder, compact package. The smooth, well-defined head and shaft are a direct conduit to my unrestrained, mature passion.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale_observed_by_Prude</defName>
+        <label>Small Penis (Positive)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Such a modest, elder presentation. While scandalous, its small stature makes it less offensive, almost... tolerable in his old age.</li>
+            <li>A rather private sight, that elder shaft. It's truly shocking, but at least its modest size lessens the impropriety slightly.</li>
+            <li>It’s... there. An elder example. One tries to look away, but its compact form is less overtly scandalous than it might be.</li>
+            <li>Suddenly, {PAWN_nameShortPossessive} elder private parts. Utterly improper, but its humble proportions are, dare I say, less confronting.</li>
+            <li>A shocking, yet surprisingly contained, sight. {PAWN_nameShortPossessive} compact, elder package, while indecent, avoids being overtly vulgar.</li>
+            <li>The glimpse of that elder, smaller appendage. One's sensibilities are offended, yet its lack of prominence makes it marginally less scandalous.</li>
+            <li>{PAWN_nameShortPossessive} compact, elder member, so brazenly displayed. It is improper, but its discreet size is a small mercy.</li>
+            <li>Its modesty almost makes it acceptable. The aged skin, the neat balls, a sight to be endured with minimal discomfort.</li>
+            <li>Such a humble, yet utterly inappropriate display. The gentle curve of the shaft is… not as shocking as a larger one.</li>
+            <li>An unexpected and unwelcome sight. {PAWN_nameShortPossessive} compact, elder organ, with its smooth lines, is nonetheless offensive, but less so.</li>
+            <li>A subtle exposure that is still quite indecent. The elder shaft, however, has a pleasing form that makes it marginally less vulgar.</li>
+            <li>Observing the quiet presence of that elder, smaller piece of anatomy. It is distasteful, but its modest size makes it less of an affront.</li>
+            <li>The sudden, shocking sight. The elder, unpretentious form of {PAWN_nameShortPossessive} member makes me deeply uncomfortable, but it could be worse.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the elder, smaller member were, regrettably, noticed.</li>
+            <li>Though small, its elder contours and the way the foreskin rested so perfectly, were, unfortunately, quite visible. One wishes for more modesty.</li>
+            <li>A quick, tantalizing glimpse of an elder, modest organ. The well-defined shaft and gleaming head are an unwanted imposition on my sight.</li>
+            <li>The elder appendage, though compact, radiated an unsettling presence. Its smooth shaft and perfectly formed head are still deeply inappropriate.</li>
+            <li>An unassuming but deeply improper scene. The elder anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, which only highlights the indecency.</li>
+            <li>The way it casually presented itself, an elder and compact form. The foreskin, unmarred, is still a sight that should be covered.</li>
+            <li>A truly discomfiting sight, {PAWN_nameShortPossessive} elder, compact package. The smooth, well-defined head and shaft are, frankly, too much.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale_observed_by_Young_male</defName>
+        <label>Small Penis (Positive)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Interesting. It's an elder, compact one, showing its age. Still, the overall shape seems quite functional and well-kept.</li>
+            <li>Saw {PAWN_nameShortPossessive} elder shaft. Smaller than some, but looks firm and well-defined. A good example of resilience.</li>
+            <li>Yeah, it's there. An old one. Not huge, but it's got a decent head and looks like it's seen some action.</li>
+            <li>Caught a glimpse of {PAWN_nameShortPossessive} package. Aged and on the smaller side, but the balls looked full and healthy. Respectable.</li>
+            <li>Pretty standard for an older guy, I guess. The shaft looks smooth, and the head's got a nice, clean shape to it.</li>
+            <li>It's, uh, smaller than mine, but solid. The aged skin looks good, not too saggy. Not bad for his age.</li>
+            <li>Just saw {PAWN_nameShortPossessive} elder member. Compact, but it has that experienced look about it. The glans seems well-formed.</li>
+            <li>A decent, elder piece. Not imposing, but the anatomy looks solid, the foreskin, if present, is neat. A classic shape.</li>
+            <li>It's a modest size. But the aged lines, the way the balls hang... it's a veteran's piece. Looks like it's been cared for.</li>
+            <li>Well, it’s not huge, but {PAWN_nameShortPossessive} elder organ looks sturdy. The shaft’s got good color, and the head is well-defined.</li>
+            <li>Saw it. Small, but aged. The shaft looks firm, and the glans is well-rounded. It looks like it’s still got some life in it.</li>
+            <li>Yeah, it’s a compact one. The elder shaft and head are clean, well-proportioned. Nothing to write home about, but nothing to mock either.</li>
+            <li>A quick look. It's aged, smallish. But the balls look full, and the skin seems healthy. It’s got a certain… resilience.</li>
+            <li>It was there, {PAWN_nameShortPossessive} older, smaller member. The head and shaft have a consistent look, well-maintained.</li>
+            <li>Smaller, but with that elder, settled look. The foreskin, if there, seemed tight, and the overall shape was quite refined.</li>
+            <li>Not exactly a monster, but {PAWN_nameShortPossessive} elder one looks robust. The shaft is straight, and the glans is defined.</li>
+            <li>An elder, compact piece. The balls look like they’ve seen things, but the penis itself is in good shape. Solid.</li>
+            <li>It's on the smaller side for an elder man. But the anatomy seems right, no oddities. A basic, functional model.</li>
+            <li>Yeah, just saw it. Not big, but the elder one has a neat appearance. The foreskin, if there, looked intact.</li>
+            <li>A subtle reveal of {PAWN_nameShortPossessive} elder, compact package. The head and shaft are uniform, suggesting a well-used but healthy organ.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale_observed_by_Young_female</defName>
+        <label>Small Penis (Positive)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>It's a small, elder one, but it has a charming, classic look. The smooth shaft and well-defined head are quite appealing, showing age gracefully.</li>
+            <li>Oh, an elder, compact one. It actually looks quite cute, and the glans is so perfectly formed. A sweet surprise, holding a history.</li>
+            <li>A modest size, but it sits so nicely. The elder anatomy seems gentle, hinting at tender, wise possibilities. Very intriguing.</li>
+            <li>Suddenly, there it was, an older man's private part. It was small, but the skin looked soft, and the foreskin, if present, was neat.</li>
+            <li>What a pleasant sight. {PAWN_nameShortPossessive} compact, elder package looks so unassuming, yet perfectly sculpted. Very attractive, with a touch of experience.</li>
+            <li>The glimpse of that elder, smaller appendage. It has a lovely, smooth texture, and the balls, though not large, are plump and inviting.</li>
+            <li>{PAWN_nameShortPossessive} compact, elder member, so neatly put together. Its humble size only makes it seem more approachable and perhaps, more tender.</li>
+            <li>Its small stature is endearing. The aged skin, the neat balls, and the distinct head are all so perfectly in place, hinting at a gentle lover.</li>
+            <li>Such a humble, yet delightful display. The gentle curve of the shaft and the well-formed foreskin make it look so soft and inviting.</li>
+            <li>An unexpected treat. {PAWN_nameShortPossessive} compact, elder organ, with its smooth lines and alluring glans, is truly charming.</li>
+            <li>A subtle exposure that still catches the eye. The elder shaft has a pleasing form, and the head gleams subtly.</li>
+            <li>Observing the quiet appeal of that elder, smaller piece of anatomy. The smooth glans and compact balls are very charming.</li>
+            <li>The sudden, sweet sight. The elder, unpretentious form of {PAWN_nameShortPossessive} member looks so wonderfully natural and inviting.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the elder, smaller member made me smile.</li>
+            <li>Though small, its elder contours and the way the foreskin rested so perfectly, hinted at a gentle, loving touch and a lifetime of stories.</li>
+            <li>A quick, tantalizing glimpse of an elder, modest organ. The well-defined shaft and gleaming head are quite lovely to behold.</li>
+            <li>The elder appendage, though compact, exuded a gentle, alluring charm. Its smooth shaft and perfectly formed head were truly sweet.</li>
+            <li>An unassuming but deeply satisfying scene. The elder anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, making it quite beautiful.</li>
+            <li>The way it casually presented itself, an elder and compact form. The foreskin, unmarred, added to its humble, yet enticing charm.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} elder, compact package. The smooth, well-defined head and shaft were just darling.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Small Penis (Positive)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Alright, an elder, compact one. Looks well-kept for his age, good to see. Shows proper maintenance over the years.</li>
+            <li>Saw {PAWN_nameShortPossessive} elder shaft. Modest size, but firm. It’s got that experienced look to it, solid.</li>
+            <li>Yeah, it’s there. A seasoned one. Not massive, but the head looks solid and the overall condition is fine for his years.</li>
+            <li>Caught a glimpse of {PAWN_nameShortPossessive} package. Aged and compact, but the balls look settled and healthy. Respectable.</li>
+            <li>Looks about right for a man in that stage of life. The shaft is smooth, and the head's got a classic, clean shape.</li>
+            <li>It's, uh, smaller than some, but clearly functional. The aged skin looks healthy, not showing its age too much.</li>
+            <li>Just saw {PAWN_nameShortPossessive} elder member. Compact, but it has that well-used look. The glans seems perfectly preserved.</li>
+            <li>A decent, elder piece. Not overstated, but the anatomy seems intact, the foreskin, if present, is unbothered. A reliable form.</li>
+            <li>It's a modest size. But the aged lines, the way the balls hang... it's a veteran's piece, still standing strong.</li>
+            <li>Well, it’s not huge, but {PAWN_nameShortPossessive} elder organ looks sturdy. The shaft’s got good color, and the head is normal.</li>
+            <li>Saw it. Small, but aged. The shaft looks firm, and the glans is well-rounded. It looks like it’s still doing its job.</li>
+            <li>Yeah, it’s a compact one. The elder shaft and head are clean, well-proportioned. Nothing extraordinary, but it does the trick.</li>
+            <li>A quick look. It's aged, smallish. But the balls look resilient, and the skin seems healthy. It’s got a certain… quiet strength.</li>
+            <li>It was there, {PAWN_nameShortPossessive} older, smaller member. The head and shaft have a consistent look, well-maintained.</li>
+            <li>Smaller, but with that elder, settled look. The foreskin, if there, seemed tight, and the overall shape was quite ordinary.</li>
+            <li>Not exactly a showstopper, but {PAWN_nameShortPossessive} elder one looks robust. The shaft is straight, and the glans is defined.</li>
+            <li>An elder, compact piece. The balls look like they’ve aged gracefully, but the penis itself is in good shape. Still solid.</li>
+            <li>It's on the smaller side for an elder man. But the anatomy seems correct, no oddities. A functional model.</li>
+            <li>Yeah, just saw it. Not big, but the elder one has a neat appearance. The foreskin, if there, looked intact.</li>
+            <li>A subtle reveal of {PAWN_nameShortPossessive} elder, compact package. The head and shaft are uniform, suggesting a well-used but healthy organ.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Small Penis (Positive)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>An elder, compact form, but surprisingly appealing. The smooth shaft and well-rounded head hint at gentle experience. Quite lovely, a classic form.</li>
+            <li>Oh, an elder, smaller one. It has a charming, classic look, and the glans is so perfectly formed. A sweet and inviting surprise, steeped in wisdom.</li>
+            <li>A modest size, but it rests so comfortably. The elder anatomy seems kind, hinting at tender, familiar possibilities. Very intriguing and comforting.</li>
+            <li>Suddenly, there it was, an older man's private part. It was small, but the skin looked soft, and the foreskin, if present, was neat and inviting.</li>
+            <li>What a pleasant sight. {PAWN_nameShortPossessive} compact, elder package looks unassuming, yet perfectly sculpted for intimacy. Very attractive, with a mature appeal.</li>
+            <li>The glimpse of that elder, smaller appendage. It has a lovely, smooth texture, and the balls, though not large, are plump and appealing.</li>
+            <li>{PAWN_nameShortPossessive} compact, elder member, so neatly put together. Its humble size only makes it seem more approachable and perhaps, more tender.</li>
+            <li>Its small stature is endearing. The aged skin, the neat balls, and the distinct head are all so perfectly in place, hinting at a gentle lover.</li>
+            <li>Such a humble, yet delightful display. The gentle curve of the shaft and the well-formed foreskin make it look so soft and inviting.</li>
+            <li>An unexpected treat. {PAWN_nameShortPossessive} compact, elder organ, with its smooth lines and alluring glans, is truly charming and promises subtle delights.</li>
+            <li>A subtle exposure that still catches the eye. The elder shaft has a pleasing form, and the head gleams subtly, suggesting a hidden warmth.</li>
+            <li>Observing the quiet appeal of that elder, smaller piece of anatomy. The smooth glans and compact balls are very charming, hinting at a comfortable touch.</li>
+            <li>The sudden, sweet sight. The elder, unpretentious form of {PAWN_nameShortPossessive} member looks so wonderfully natural and inviting for mature companionship.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the elder, smaller member made me feel a sense of warmth and familiarity.</li>
+            <li>Though small, its elder contours and the way the foreskin rested so perfectly, hinted at a gentle, loving touch and years of experience.</li>
+            <li>A quick, tantalizing glimpse of an elder, modest organ. The well-defined shaft and gleaming head are quite lovely to behold, suggesting quiet passions.</li>
+            <li>The elder appendage, though compact, exuded a gentle, alluring charm. Its smooth shaft and perfectly formed head were truly sweet and comforting.</li>
+            <li>An unassuming but deeply satisfying scene. The elder anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, making it quite beautiful and familiar.</li>
+            <li>The way it casually presented itself, an elder and compact form. The foreskin, unmarred, added to its humble, yet enticing charm for a discerning eye.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} elder, compact package. The smooth, well-defined head and shaft were just darling, hinting at profound experiences.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale_observed_by_Elder_male</defName>
+        <label>Small Penis (Positive)_ElderMale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ah, a smaller, elder one. Holds up very well for {PAWN_nameShortPossessive} age, good to see. Shows proper maintenance over many years.</li>
+            <li>Saw {PAWN_nameShortPossessive} elder shaft. Modest size, but still firm. It’s got that experienced, wise look to it, good for a man of our years.</li>
+            <li>Yes, it’s there. A classic. Not as grand as some in their youth, but the head looks solid and the overall condition is fine.</li>
+            <li>Caught a glimpse of {PAWN_nameShortPossessive} package. Aged and compact, but the balls look settled and quite healthy. Respectable, indeed.</li>
+            <li>Looks about right for a man our age. The shaft is smooth, and the head's got a clean, unblemished shape, a testament to longevity.</li>
+            <li>It's, uh, smaller, but certainly functional. The aged skin still looks healthy, showing very little decline for his many years.</li>
+            <li>Just saw {PAWN_nameShortPossessive} elder member. Compact, but it has that well-used, enduring look. The glans seems perfectly preserved.</li>
+            <li>A decent, elder piece. Not overstated, but the anatomy seems intact, the foreskin, if present, is neat. A reliable, timeless form.</li>
+            <li>It's a modest size. But the aged lines, the way the balls hang... it's a veteran's piece, still standing strong and proud.</li>
+            <li>Well, it’s not huge, but {PAWN_nameShortPossessive} elder organ looks sturdy. The shaft’s got good color, and the head is normal, showing good health.</li>
+            <li>Saw it. Small, but aged. The shaft looks firm, and the glans is well-rounded. It looks like it’s still doing its job, admirably.</li>
+            <li>Yeah, it’s a compact one. The elder shaft and head are clean, well-proportioned. Nothing extraordinary, but it still does the trick, reliably.</li>
+            <li>A quick look. It's aged, smallish. But the balls look resilient, and the skin seems healthy. It’s got a certain… quiet strength, built over decades.</li>
+            <li>It was there, {PAWN_nameShortPossessive} older, smaller member. The head and shaft have a consistent look, well-maintained through time.</li>
+            <li>Smaller, but with that elder, settled look. The foreskin, if there, seemed tight, and the overall shape was quite refined.</li>
+            <li>Not exactly a monster, but {PAWN_nameShortPossessive} elder one looks robust. The shaft is straight, and the glans is defined, showing endurance.</li>
+            <li>An elder, compact piece. The balls look like they’ve seen things, but the penis itself is in good shape. Still solid and ready.</li>
+            <li>It's on the smaller side for an elder man. But the anatomy seems right, no oddities. A functional model, proven over time.</li>
+            <li>Yeah, just saw it. Not big, but the elder one has a neat appearance. The foreskin, if there, looked intact, showing care.</li>
+            <li>A subtle reveal of {PAWN_nameShortPossessive} elder, compact package. The head and shaft are uniform, suggesting a well-used but healthy organ, holding its own.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Positive_Small_ElderMale_observed_by_Elder_female</defName>
+        <label>Small Penis (Positive)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>An elder, compact form. It reminds me of gentler times, a subtle beauty that endures. The smooth shaft suggests a tender touch.</li>
+            <li>Oh, an elder, smaller one. It has a charming, classic look, and the glans is so perfectly formed. A sweet memory of shared intimacy.</li>
+            <li>A modest size, but it sits so nicely. The elder anatomy seems kind, hinting at tender, familiar possibilities. Quite lovely, a comforting sight.</li>
+            <li>Suddenly, there it was, an older man's private part. It was small, but the skin looked soft, and the foreskin, if present, was neat.</li>
+            <li>What a pleasant sight. {PAWN_nameShortPossessive} compact, elder package looks unassuming, yet perfectly sculpted, a familiar and attractive form that has aged well.</li>
+            <li>The glimpse of that elder, smaller appendage. It has a lovely, smooth texture, and the balls, though not large, are plump and inviting.</li>
+            <li>{PAWN_nameShortPossessive} compact, elder member, so neatly put together. Its humble size only makes it seem more approachable and perhaps, more tender.</li>
+            <li>Its small stature is endearing. The aged skin, the neat balls, and the distinct head are all so perfectly in place, hinting at a gentle lover.</li>
+            <li>Such a humble, yet delightful display. The gentle curve of the shaft and the well-formed foreskin make it look so soft and inviting.</li>
+            <li>An unexpected treat. {PAWN_nameShortPossessive} compact, elder organ, with its smooth lines and alluring glans, is truly charming and promises subtle delights.</li>
+            <li>A subtle exposure that still catches the eye. The elder shaft has a pleasing form, and the head gleams subtly, suggesting a hidden warmth.</li>
+            <li>Observing the quiet appeal of that elder, smaller piece of anatomy. The smooth glans and compact balls are very charming, hinting at a comfortable touch.</li>
+            <li>The sudden, sweet sight. The elder, unpretentious form of {PAWN_nameShortPossessive} member looks so wonderfully natural and inviting for mature companionship.</li>
+            <li>It was a fleeting moment, but the distinct head and natural poise of the elder, smaller member made me feel a sense of warmth and familiarity.</li>
+            <li>Though small, its elder contours and the way the foreskin rested so perfectly, hinted at a gentle, loving touch and years of shared experiences.</li>
+            <li>A quick, tantalizing glimpse of an elder, modest organ. The well-defined shaft and gleaming head are quite lovely to behold, suggesting quiet passions.</li>
+            <li>The elder appendage, though compact, exuded a gentle, alluring charm. Its smooth shaft and perfectly formed head were truly sweet and comforting.</li>
+            <li>An unassuming but deeply satisfying scene. The elder anatomy was in perfect harmony with {PAWN_nameShortPossessive} physique, making it quite beautiful and familiar.</li>
+            <li>The way it casually presented itself, an elder and compact form. The foreskin, unmarred, added to its humble, yet enticing charm for a discerning eye.</li>
+            <li>A truly delicious surprise, {PAWN_nameShortPossessive} elder, compact package. The smooth, well-defined head and shaft were just darling, hinting at profound experiences.</li>
+        </opinionTexts>
+</Def>
+</Defs>

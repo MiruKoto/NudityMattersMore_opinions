@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Female gives opinion about her tiny butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Micro_Ahegao_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Micro_Ahegao_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My tiny butt and constricted anus feel subtly relaxed, a neutral satisfaction after all the ahegao. It’s just... there.</li>
+            <li>This micro-sized anus and nearly flat butt are certainly modest. After such intense pleasure, I feel completely calm about it.</li>
+            <li>A barely noticeable anus and small posterior. My body feels so satiated from the ahegao, I feel indifferent about its appearance.</li>
+            <li>The quiet presence of my small, tight anus and flat bottom feels perfectly balanced with this deeply relaxed state.</li>
+            <li>So small, yet so serene. My micro anus offers a sense of pleasant neutrality, totally content in this ahegao afterglow.</li>
+            <li>My petite rear feels perfectly adequate, and my anus, though tiny, reflects a quietude after profound satisfaction.</li>
+            <li>The minuscule anus and understated butt blend into a calm, unbothered feeling after the ahegao. It simply is.</li>
+            <li>This tiny opening feels perfectly fine, its size an afterthought as a deep, neutral contentment washes over me from the ahegao.</li>
+            <li>A very compact anus and subtle curves. My body is entirely at peace; its current state is simply what is.</li>
+            <li>The flatness of my rear and discreet anus feel naturally aligned with this profound, satisfied calm of ahegao.</li>
+            <li>My posterior, quite small, feels utterly indifferent to judgment. The ahegao leaves me with no strong feelings about it.</li>
+            <li>This miniature anus and subtle backside are fine. A deep, relaxed neutrality permeates me after experiencing ahegao.</li>
+            <li>A modest butt and tight anus. The sheer ahegao bliss leaves me with a detached, calm appreciation for my body.</li>
+            <li>The micro anus and nearly flat butt are unremarkable, yet they feel completely at ease in this profound state of satisfaction.</li>
+            <li>This small, tight feeling, combined with an overall sense of neutral satisfaction, is a peaceful aftermath of the ahegao.</li>
+            <li>My small rear provides a sense of quiet contentment, the anus equally calm after the deep relaxation of ahegao.</li>
+            <li>A compact form, neither praised nor disliked. My anus feels settled, reflecting the profound peace of this ahegao state.</li>
+            <li>The subtle contours of my butt and small anus feel completely unburdensome, perfectly neutral after profound pleasure.</li>
+            <li>This tiny anus and modest rear feel simply... present. A perfect indifference remains after the intense ahegao experience.</li>
+            <li>My body, including my micro anus, rests in a state of tranquil satisfaction. No strong feelings, just a calm acceptance.</li>
+            <li>Small and unassuming, my anus and butt exist in a realm of pure neutrality, embodying the deep relaxation of ahegao.</li>
+            <li>A quiet self-assurance about my tiny butt and tight anus, all part of this profound, satisfying ahegao aftermath.</li>
+            <li>The flat of my back and barely-there anus contribute to a state of profound calm, wholly neutral after ahegao.</li>
+            <li>My petite posterior, with its small opening, feels perfectly balanced with this deep, satisfied, and neutral mood.</li>
+            <li>This unassuming anus and smaller frame feel entirely at peace. A deep, neutral satisfaction permeates my very being.</li>
+            <li>The smallness feels neither good nor bad. My anus is relaxed, reflecting the absolute calm from this ahegao state.</li>
+            <li>My little butt and tight anus are just part of this body, now steeped in the neutral, satisfying essence of ahegao.</li>
+            <li>A feeling of quiet harmony about my modest butt and anus. The ahegao has left me profoundly balanced.</li>
+            <li>No strong opinions, just a subtle sense of ease with my micro anus and slight curves, a true neutral after ahegao.</li>
+            <li>This delicate anus and subtle rear feel completely at one with my relaxed, satisfied, ahegao-induced state.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her small butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Tight_Ahegao_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Tight_Ahegao_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My small, tight butt feels calm, its anus gently constricted in the lingering neutrality of ahegao satisfaction.</li>
+            <li>This petite rear and firm anus offer a sense of quiet contentment, perfectly aligned with my deeply relaxed ahegao state.</li>
+            <li>The slight tightness of my anus and modest butt feels unassuming. The ahegao has left me in a state of peaceful indifference.</li>
+            <li>My small butt, with its firm anus, is simply part of this profound, satisfied calm. No strong feelings, just peace.</li>
+            <li>A comfortable snugness defines my anus, complementing the gentle curves of my small butt. Ahegao left only neutrality.</li>
+            <li>This neat, contained feeling, both in my anus and smaller rear, is perfectly neutral after the intense, relaxed ahegao.</li>
+            <li>The subtle firmness of my butt and tight anus feels just right, neither remarkable nor displeasing in this satisfied state.</li>
+            <li>My small rear and firm anus exist in a quiet harmony, reflecting the deep, unbiased peace ahegao brought.</li>
+            <li>A sense of composed self-acceptance emanates from my small, tight butt and anus, completely neutral post-ahegao.</li>
+            <li>The firmness and modest size of my butt and anus contribute to a balanced, calm feeling after the intense ahegao.</li>
+            <li>This tight anus and small butt are simply aspects of my body, now settling into a profound, neutral relaxation.</li>
+            <li>My compact posterior and taut anus feel pleasantly unexceptional, embodying the peaceful, indifferent mood of ahegao.</li>
+            <li>A serene acceptance for my small, firm butt and anus. The ahegao left me without judgment, just quiet satisfaction.</li>
+            <li>The gentle constriction of my anus and contained butt feel entirely natural, part of this deep, neutral contentment.</li>
+            <li>My small rear, with its neat anus, simply is. A profound, unbiased calm has settled within me from the ahegao.</li>
+            <li>This tight anus and modest butt offer a comfortable, unpronounced presence, a perfect neutral feeling after profound pleasure.</li>
+            <li>The quiet competence of my small, firm butt and anus aligns perfectly with this deeply relaxed and satisfied state.</li>
+            <li>A subtle sense of order from my tight anus and small butt, reflecting the tranquil neutrality born of ahegao.</li>
+            <li>My rear, though small and firm, feels entirely at peace. The ahegao has blessed me with a calm indifference.</li>
+            <li>This contained form, from butt to anus, feels utterly balanced. A deep, neutral satisfaction permeates my being.</li>
+            <li>The subtle tension of my tight anus and petite butt feels completely natural, part of the peaceful aftermath of ahegao.</li>
+            <li>A sense of understated calm for my small and firm posterior. The ahegao left me with an objective serenity.</li>
+            <li>My body, including my tight anus and small butt, rests in a state of tranquil satisfaction, neither desiring nor rejecting.</li>
+            <li>This small, neat butt and anus offer a feeling of quiet composure, perfectly in tune with the deep relaxation.</li>
+            <li>The gentle firmness of my anus and modest butt create a sense of balanced neutrality, embodying pure ahegao peace.</li>
+            <li>My petite rear and contained anus simply exist, bathed in the neutral, satisfying essence of ahegao, utterly calm.</li>
+            <li>A quiet harmony about my small butt and anus. The ahegao has brought a profound and unburdened sense of peace.</li>
+            <li>No strong opinions, just a subtle sense of ease with my tight anus and small curves, a true neutral after ahegao.</li>
+            <li>This delicate anus and neat rear feel completely at one with my relaxed, satisfied, ahegao-induced state of calm.</li>
+            <li>My small butt feels adequately formed, and my anus, though tight, reflects a quietude after profound sexual satisfaction.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Average_Ahegao_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Average_Ahegao_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My average butt feels perfectly normal, its anus relaxed with a pleasant jiggliness. A neutral contentment after ahegao.</li>
+            <li>The pleasing roundness of my butt and calm anus feel simply balanced. The ahegao left me in a state of quiet satisfaction.</li>
+            <li>This average rear, with its subtly yielding anus, is completely unremarkable yet utterly at peace after deep pleasure.</li>
+            <li>My butt's familiar shape and comfortably relaxed anus feel just right, reflecting the serene neutrality born of ahegao.</li>
+            <li>A sense of quiet acceptance for my typical butt and unperturbed anus. The ahegao left me with no strong feelings.</li>
+            <li>The familiar curves of my butt and relaxed anus offer a sense of calm normalcy, perfectly neutral post-ahegao bliss.</li>
+            <li>My average posterior, with its naturally yielding anus, feels utterly comfortable and unjudged after profound satisfaction.</li>
+            <li>This butt is simply what it is, its anus yielding without complaint. A profound neutrality defines my mood after ahegao.</li>
+            <li>The gentle sway of my average butt and composed anus contribute to a balanced, calm feeling after the intense ahegao.</li>
+            <li>My pleasingly normal butt and unconstricted anus feel perfectly natural, now settling into a profound, neutral relaxation.</li>
+            <li>An unassuming rear, its anus soft and pliant. The ahegao has left me with an indifferent, yet deeply satisfied mood.</li>
+            <li>My butt's familiar form and relaxed anus inspire a serene acceptance, completely neutral after this deep, satisfying experience.</li>
+            <li>The comforting jiggliness and average expansion of my anus feel harmoniously aligned with my ahegao-induced peace.</li>
+            <li>This average butt and naturally open anus convey a quiet sense of calm and normalcy, a perfect neutrality post-pleasure.</li>
+            <li>My posterior, neither large nor small, feels utterly content. The anus is relaxed, reflecting profound, unbiased satisfaction.</li>
+            <li>The subtle movement of my butt and relaxed anus offer a comfortable, unpronounced presence, a true neutral after ahegao.</li>
+            <li>A quiet competence defines my average butt and yielding anus, perfectly aligned with this deeply relaxed and satisfied state.</li>
+            <li>The gentle, natural feel of my butt and unperturbed anus contributes to a tranquil neutrality born of ahegao.</li>
+            <li>My rear, though average, feels entirely at peace. The ahegao has blessed me with a calm, accepting indifference.</li>
+            <li>This familiar form, from butt to anus, feels utterly balanced. A deep, neutral satisfaction permeates my being.</li>
+            <li>The subtle fullness of my average butt and relaxed anus feels completely natural, part of the peaceful aftermath of ahegao.</li>
+            <li>A sense of understated calm for my average posterior. The ahegao left me with an objective serenity about its form.</li>
+            <li>My body, including my average anus and butt, rests in a state of tranquil satisfaction, neither desiring change nor judging.</li>
+            <li>This average, unremarkably perfect butt and anus offer a feeling of quiet composure, perfectly in tune with deep relaxation.</li>
+            <li>The gentle fullness of my anus and average butt create a sense of balanced neutrality, embodying pure ahegao peace.</li>
+            <li>My familiar rear and calmly expanded anus simply exist, bathed in the neutral, satisfying essence of ahegao, utterly calm.</li>
+            <li>A quiet harmony about my average butt and anus. The ahegao has brought a profound and unburdened sense of peace.</li>
+            <li>No strong opinions, just a subtle sense of ease with my average anus and curves, a true neutral after ahegao.</li>
+            <li>This naturally yielding anus and typical rear feel completely at one with my relaxed, satisfied, ahegao-induced state of calm.</li>
+            <li>My average butt feels adequately formed, and my anus, though normal, reflects a quietude after profound sexual satisfaction.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Accommodating_Ahegao_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Accommodating_Ahegao_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My accommodating butt feels subtly yielding, its anus pleasantly expanded and jiggly. A neutral satisfaction after ahegao.</li>
+            <li>The inviting roundness of my butt and open anus feel simply balanced. The ahegao left me in a state of quiet acceptance.</li>
+            <li>This accommodating rear, with its soft, yielding anus, is completely unjudged yet utterly at peace after deep pleasure.</li>
+            <li>My butt's generous shape and comfortably expanded anus feel just right, reflecting the serene neutrality born of ahegao.</li>
+            <li>A sense of quiet acceptance for my substantial butt and accommodating anus. The ahegao left me with no strong feelings.</li>
+            <li>The soft curves of my butt and relaxed anus offer a sense of calm normalcy, perfectly neutral post-ahegao bliss.</li>
+            <li>My accommodating posterior, with its naturally expansive anus, feels utterly comfortable and unburdensome after profound satisfaction.</li>
+            <li>This butt feels simply what it is, its anus soft and welcoming. A profound neutrality defines my mood after ahegao.</li>
+            <li>The gentle sway of my ample butt and composed anus contribute to a balanced, calm feeling after the intense ahegao.</li>
+            <li>My pleasingly accommodating butt and unconstricted anus feel perfectly natural, now settling into a profound, neutral relaxation.</li>
+            <li>A generous rear, its anus soft and pliant. The ahegao has left me with an indifferent, yet deeply satisfied mood.</li>
+            <li>My butt's ample form and relaxed anus inspire a serene acceptance, completely neutral after this deep, satisfying experience.</li>
+            <li>The comforting jiggliness and accommodating expansion of my anus feel harmoniously aligned with my ahegao-induced peace.</li>
+            <li>This accommodating butt and naturally open anus convey a quiet sense of calm and normalcy, a perfect neutrality post-pleasure.</li>
+            <li>My posterior, neither too small nor too large, feels utterly content. The anus is relaxed, reflecting profound, unbiased satisfaction.</li>
+            <li>The subtle movement of my butt and relaxed anus offer a comfortable, unpronounced presence, a true neutral after ahegao.</li>
+            <li>A quiet competence defines my accommodating butt and yielding anus, perfectly aligned with this deeply relaxed and satisfied state.</li>
+            <li>The gentle, natural feel of my butt and unperturbed anus contributes to a tranquil neutrality born of ahegao.</li>
+            <li>My rear, though ample, feels entirely at peace. The ahegao has blessed me with a calm, accepting indifference.</li>
+            <li>This familiar, generous form, from butt to anus, feels utterly balanced. A deep, neutral satisfaction permeates my being.</li>
+            <li>The subtle fullness of my accommodating butt and relaxed anus feels completely natural, part of the peaceful aftermath of ahegao.</li>
+            <li>A sense of understated calm for my accommodating posterior. The ahegao left me with an objective serenity about its form.</li>
+            <li>My body, including my accommodating anus and butt, rests in a state of tranquil satisfaction, neither desiring change nor judging.</li>
+            <li>This generous, unremarkably perfect butt and anus offer a feeling of quiet composure, perfectly in tune with deep relaxation.</li>
+            <li>The gentle fullness of my anus and accommodating butt create a sense of balanced neutrality, embodying pure ahegao peace.</li>
+            <li>My ample rear and calmly expanded anus simply exist, bathed in the neutral, satisfying essence of ahegao, utterly calm.</li>
+            <li>A quiet harmony about my accommodating butt and anus. The ahegao has brought a profound and unburdened sense of peace.</li>
+            <li>No strong opinions, just a subtle sense of ease with my accommodating anus and curves, a true neutral after ahegao.</li>
+            <li>This naturally yielding anus and ample rear feel completely at one with my relaxed, satisfied, ahegao-induced state of calm.</li>
+            <li>My accommodating butt feels adequately formed, and my anus, though open, reflects a quietude after profound sexual satisfaction.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Cavernous_Ahegao_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Cavernous_Ahegao_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My full butt feels substantial, its cavernous anus completely relaxed and somewhat saggy. A neutral satisfaction after ahegao.</li>
+            <li>The generous roundness of my butt and widely expanded anus feel simply balanced. The ahegao left me in a state of quiet acceptance.</li>
+            <li>This abundant rear, with its soft, cavernous anus, is completely unjudged yet utterly at peace after deep pleasure.</li>
+            <li>My butt's ample shape and comfortably open anus feel just right, reflecting the serene neutrality born of ahegao.</li>
+            <li>A sense of quiet acceptance for my substantial butt and cavernous anus. The ahegao left me with no strong feelings.</li>
+            <li>The soft, deep curves of my butt and relaxed anus offer a sense of calm normalcy, perfectly neutral post-ahegao bliss.</li>
+            <li>My expansive posterior, with its naturally wide anus, feels utterly comfortable and unburdensome after profound satisfaction.</li>
+            <li>This butt feels simply what it is, its anus soft and vast. A profound neutrality defines my mood after ahegao.</li>
+            <li>The gentle sway of my ample butt and deeply composed anus contribute to a balanced, calm feeling after the intense ahegao.</li>
+            <li>My pleasingly large butt and unconstricted anus feel perfectly natural, now settling into a profound, neutral relaxation.</li>
+            <li>A voluminous rear, its anus soft and pliant. The ahegao has left me with an indifferent, yet deeply satisfied mood.</li>
+            <li>My butt's ample form and relaxed anus inspire a serene acceptance, completely neutral after this deep, satisfying experience.</li>
+            <li>The comforting jiggliness and cavernous expansion of my anus feel harmoniously aligned with my ahegao-induced peace.</li>
+            <li>This ample butt and naturally wide anus convey a quiet sense of calm and normalcy, a perfect neutrality post-pleasure.</li>
+            <li>My posterior, neither too small nor too tight, feels utterly content. The anus is relaxed, reflecting profound, unbiased satisfaction.</li>
+            <li>The subtle movement of my butt and relaxed anus offer a comfortable, unpronounced presence, a true neutral after ahegao.</li>
+            <li>A quiet competence defines my substantial butt and yielding anus, perfectly aligned with this deeply relaxed and satisfied state.</li>
+            <li>The gentle, natural feel of my butt and unperturbed anus contributes to a tranquil neutrality born of ahegao.</li>
+            <li>My rear, though full, feels entirely at peace. The ahegao has blessed me with a calm, accepting indifference.</li>
+            <li>This familiar, generous form, from butt to anus, feels utterly balanced. A deep, neutral satisfaction permeates my being.</li>
+            <li>The subtle fullness of my ample butt and relaxed anus feels completely natural, part of the peaceful aftermath of ahegao.</li>
+            <li>A sense of understated calm for my substantial posterior. The ahegao left me with an objective serenity about its form.</li>
+            <li>My body, including my cavernous anus and butt, rests in a state of tranquil satisfaction, neither desiring change nor judging.</li>
+            <li>This generous, unremarkably perfect butt and anus offer a feeling of quiet composure, perfectly in tune with deep relaxation.</li>
+            <li>The gentle fullness of my anus and substantial butt create a sense of balanced neutrality, embodying pure ahegao peace.</li>
+            <li>My ample rear and calmly expanded anus simply exist, bathed in the neutral, satisfying essence of ahegao, utterly calm.</li>
+            <li>A quiet harmony about my substantial butt and anus. The ahegao has brought a profound and unburdened sense of peace.</li>
+            <li>No strong opinions, just a subtle sense of ease with my cavernous anus and curves, a true neutral after ahegao.</li>
+            <li>This naturally yielding anus and ample rear feel completely at one with my relaxed, satisfied, ahegao-induced state of calm.</li>
+            <li>My substantial butt feels adequately formed, and my anus, though cavernous, reflects a quietude after profound sexual satisfaction.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Abyssal_Ahegao_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Abyssal_Ahegao_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Ahegao</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Ahegao</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My grand butt feels weighty, its abyssal anus fully relaxed and noticeably saggy. A neutral satisfaction after ahegao.</li>
+            <li>The immense roundness of my butt and widely open anus feel simply balanced. The ahegao left me in a state of quiet acceptance.</li>
+            <li>This voluminous rear, with its soft, abyssal anus, is completely unjudged yet utterly at peace after deep pleasure.</li>
+            <li>My butt's vast shape and comfortably open anus feel just right, reflecting the serene neutrality born of ahegao.</li>
+            <li>A sense of quiet acceptance for my enormous butt and abyssal anus. The ahegao left me with no strong feelings.</li>
+            <li>The soft, deep, cascading curves of my butt and relaxed anus offer a sense of calm normalcy, perfectly neutral post-ahegao bliss.</li>
+            <li>My expansive posterior, with its naturally immense anus, feels utterly comfortable and unburdensome after profound satisfaction.</li>
+            <li>This butt feels simply what it is, its anus soft and truly vast. A profound neutrality defines my mood after ahegao.</li>
+            <li>The gentle sway of my enormous butt and deeply composed anus contribute to a balanced, calm feeling after the intense ahegao.</li>
+            <li>My pleasingly massive butt and unconstricted anus feel perfectly natural, now settling into a profound, neutral relaxation.</li>
+            <li>A truly immense rear, its anus soft and pliant. The ahegao has left me with an indifferent, yet deeply satisfied mood.</li>
+            <li>My butt's ample form and relaxed anus inspire a serene acceptance, completely neutral after this deep, satisfying experience.</li>
+            <li>The comforting jiggliness and abyssal expansion of my anus feel harmoniously aligned with my ahegao-induced peace.</li>
+            <li>This massive butt and naturally wide anus convey a quiet sense of calm and normalcy, a perfect neutrality post-pleasure.</li>
+            <li>My posterior, utterly substantial, feels entirely content. The anus is relaxed, reflecting profound, unbiased satisfaction.</li>
+            <li>The subtle movement of my butt and relaxed anus offer a comfortable, unpronounced presence, a true neutral after ahegao.</li>
+            <li>A quiet competence defines my substantial butt and yielding anus, perfectly aligned with this deeply relaxed and satisfied state.</li>
+            <li>The gentle, natural feel of my butt and unperturbed anus contributes to a tranquil neutrality born of ahegao.</li>
+            <li>My rear, though enormous, feels entirely at peace. The ahegao has blessed me with a calm, accepting indifference.</li>
+            <li>This familiar, vast form, from butt to anus, feels utterly balanced. A deep, neutral satisfaction permeates my being.</li>
+            <li>The subtle fullness of my ample butt and relaxed anus feels completely natural, part of the peaceful aftermath of ahegao.</li>
+            <li>A sense of understated calm for my substantial posterior. The ahegao left me with an objective serenity about its form.</li>
+            <li>My body, including my abyssal anus and butt, rests in a state of tranquil satisfaction, neither desiring change nor judging.</li>
+            <li>This generous, unremarkably perfect butt and anus offer a feeling of quiet composure, perfectly in tune with deep relaxation.</li>
+            <li>The gentle fullness of my anus and substantial butt create a sense of balanced neutrality, embodying pure ahegao peace.</li>
+            <li>My ample rear and calmly expanded anus simply exist, bathed in the neutral, satisfying essence of ahegao, utterly calm.</li>
+            <li>A quiet harmony about my substantial butt and anus. The ahegao has brought a profound and unburdened sense of peace.</li>
+            <li>No strong opinions, just a subtle sense of ease with my abyssal anus and curves, a true neutral after ahegao.</li>
+            <li>This naturally yielding anus and ample rear feel completely at one with my relaxed, satisfied, ahegao-induced state of calm.</li>
+            <li>My substantial butt feels adequately formed, and my anus, though abyssal, reflects a quietude after profound sexual satisfaction.</li>
+        </opinionTexts>
+    </Def>
+</Defs>

@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro</defName>
+        <label>Micro Anus (Negative)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>I saw {PAWN_nameShortPossessive} micro anus; it’s almost laughable how insignificant it is.</li>
+            <li>I saw {PAWN_nameShortPossessive} anus that was tiny and insignificant, hardly noticeable and unworthy of attention.</li>
+			<li>I examined {PAWN_nameShortPossessive} micro anus that was barely visible, shrunken and unimpressive.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} anus that was almost nonexistent, a mere bump on the surface.</li>
+			<li>I caught a glimpse of {PAWN_nameShortPossessive} anus that was barely a pinhole, an unimpressive and insignificant speck.</li>
+			<li>I inspected {PAWN_nameShortPossessive} anus that was shrunken and atrophied, a tiny, withered thing.</li>
+			<li>I peeked at {PAWN_nameShortPossessive} anus that was almost imperceptible, a faint indentation in the skin.</li>
+			<li>I caught a glimpse of {PAWN_nameShortPossessive} almost nonexistent orifice, a tiny, barely-there hole that seemed to defy comprehension. The texture was rough and uneven, the entrance impossibly small. It was a sight that was almost unnerving.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} almost imperceptible aperture, a diminutive hole that seemed to be almost closed off. The texture was wrinkled and tight, the entrance barely visible. It was a sight that was almost unsettling.</li>
+			<li>I inspected {PAWN_nameShortPossessive} tiny opening, a petite, minuscule hole that seemed too small to be functional. The texture was smooth and unblemished, the entrance almost nonexistent. It was a sight that was almost unbelievable.</li>
+			<li>I observed {PAWN_nameShortPossessive} microscopic crevice, a minute, minuscule slit that seemed to be barely there. The texture was rough and uneven, the entrance impossibly small. It was a sight that was almost unimaginable.</li>
+			<li>I examined {PAWN_nameShortPossessive} tiny orifice, a petite, miniature hole that seemed too small to be real. The texture was wrinkled and tight, the entrance barely visible. It was a sight that was almost surreal.</li>
+			<li>I saw {PAWN_nameShortPossessive} minuscule aperture, a microscopic, petite hole that seemed to defy logic. The texture was smooth and unblemished, the entrance almost invisible. It was a sight that was almost unreal.</li>
+			<li>I gazed upon {PAWN_nameShortPossessive} diminutive slit, a tiny, almost nonexistent orifice that seemed to be barely there. The texture was rough and uneven, the entrance impossibly small. It was a sight that was almost unfathomable.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} minute opening, a petite, teeny-tiny hole that seemed too small to be functional. The texture was wrinkled and tight, the entrance barely visible. It was a sight that was almost unbelievable.</li>
+        </opinionTexts>
+    
+	
+</Def>
+
+
+<!--Elder Male observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_Elderly_Male_opinion</defName>
+        <label>Micro Anus (Negative)_Elderly_Male_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} rear was as disappointing as a withered fruit. The tiny opening was barely discernable against the flat, unappealing butt.</li>
+            <li>I observed {PAWN_nameShortPossessive} practically invisible anus, shrunken and dry, on a rather deflated-looking backside. A truly uninspired sight.</li>
+            <li>That minuscule opening on {PAWN_nameShortPossessive} rear was a stark reminder of what little purpose it could serve. The overall shape lacked any youthful curve.</li>
+            <li>A truly uninspiring sight, {PAWN_nameShortPossessive} backside was devoid of form, with an anus so small it bordered on nonexistent.</li>
+            <li>Hardly a peach, {PAWN_nameShortPossessive} butt was flat and unappealing, its tiny anus a mere indentation, almost an afterthought.</li>
+            <li>Such a small opening on {PAWN_nameShortPossessive} deflated backside suggests a life unlived. A truly unappealing sight for an elder male.</li>
+            <li>{PAWN_nameShortPossessive} backside was a disappointment, lacking any plumpness. The minuscule, barely noticeable anus completed the unfortunate picture.</li>
+            <li>I witnessed {PAWN_nameShortPossessive} flat, unappealing rear, with an anus so small it felt like a cruel joke. No youthful vitality at all.</li>
+            <li>The sight of {PAWN_nameShortPossessive} shrunken, almost invisible anus on that lifeless buttock was truly disheartening. No allure whatsoever.</li>
+            <li>{PAWN_nameShortPossessive} rear was a sad sight, lacking the curves one expects. The tiny, tight orifice was practically hidden, offering no appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it was utterly flat, with an anus that was a practically sealed pinprick. A truly regrettable display.</li>
+            <li>{PAWN_nameShortPossessive} backside was devoid of any natural grace, and the insignificant anus confirmed its complete lack of allure.</li>
+            <li>The almost imperceptible anus on {PAWN_nameShortPossessive} unformed rear was a sign of nothing notable. A disappointing sight indeed.</li>
+            <li>I couldn't help but notice the pathetic size of {PAWN_nameShortPossessive} anus, a tiny, puckered dot on a remarkably uninteresting backside.</li>
+            <li>What a waste. {PAWN_nameShortPossessive} rear was entirely flat, its small anus betraying a distinct lack of proper development.</li>
+            <li>{PAWN_nameShortPossessive} rear was a grim sight, thin and lacking, with an anus that barely hinted at its existence.</li>
+            <li>The negligible opening on {PAWN_nameShortPossessive} uninviting backside was a testament to its utter lack of appeal.</li>
+            <li>A withered sight, {PAWN_nameShortPossessive} backside offered nothing of interest, its minuscule anus merely confirming its general insignificance.</li>
+            <li>I regret seeing {PAWN_nameShortPossessive} flat, uninspired butt, accompanied by an anus that was practically sealed. Truly a forgettable sight.</li>
+            <li>{PAWN_nameShortPossessive} buttocks were sadly undefined, the tiny, almost invisible anus adding to the overall lack of charm.</li>
+            <li>Hardly a sight for sore eyes, {PAWN_nameShortPossessive} rear was a depressing vision, with an anus barely big enough for a needle.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that shapeless buttock was profoundly unimpressive. A truly disheartening spectacle.</li>
+            <li>{PAWN_nameShortPossessive} butt was like a flat canvas, offering no contours, and its anus was merely a slight, almost non-existent depression.</li>
+            <li>I grimaced at the sight of {PAWN_nameShortPossessive} unappealing rear, its tiny anus a clear sign of its overall unimpressive nature.</li>
+            <li>The paltry size of {PAWN_nameShortPossessive} anus, almost fused shut, on that featureless backside was a dismal sight.</li>
+            <li>{PAWN_nameShortPossessive} rear was a deflated balloon, utterly devoid of volume, with an anus that appeared permanently closed.</li>
+            <li>I observed {PAWN_nameShortPossessive} meager backside, the miniscule anus a fitting detail for such a plain and uninteresting form.</li>
+            <li>A truly uninspiring posterior, {PAWN_nameShortPossessive} butt was flat, its anus an uninviting, tiny slit.</li>
+            <li>{PAWN_nameShortPossessive} rear offered little to the imagination, its barely visible anus a reflection of its generally poor anatomical development.</li>
+            <li>The almost imperceptible anus on {PAWN_nameShortPossessive} dull, uncurved buttock provided no visual interest whatsoever.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young females butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_Elderly_Male_voyer_opinion</defName>
+        <label>Micro Anus (Negative)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} flat posterior offered such a microscopic opening, it barely piqued my interest. My own member remained completely unaroused.</li>
+            <li>I peered at {PAWN_nameShortPossessive} backside, so devoid of curves, with an anus so tight and tiny, it was profoundly unstimulating. A complete letdown.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding butt and almost sealed anus left me utterly cold. My old blood hardly stirred.</li>
+            <li>{PAWN_nameShortPossessive} rear was disappointingly flat, with an anus so insignificant it extinguished any flicker of desire. My loins remained quiet.</li>
+            <li>That minuscule orifice on {PAWN_nameShortPossessive} uninviting backside was a frustrating sight. Not a single twitch down there.</li>
+            <li>I observed {PAWN_nameShortPossessive} shapeless butt, and its absurdly small anus just confirmed my lack of enthusiasm. Nothing to get excited about.</li>
+            <li>Such a tiny, unyielding opening on {PAWN_nameShortPossessive} rather plain buttock. It offered absolutely no thrill to my experienced eyes.</li>
+            <li>{PAWN_nameShortPossessive} backside was a barren landscape, with an anus so tight it seemed permanently shut. My urges barely registered.</li>
+            <li>I found {PAWN_nameShortPossessive} flat rear and miniscule anus to be entirely unstimulating. My old bones felt no stir of passion.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unappealing butt and its almost invisible anus left me completely unmoved. A definite disappointment.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat and uninteresting, the tiny anus a visible testament to its anatomical shortcomings. No reaction from me.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} butt, which offered no enticing curves, and its minute anus was simply off-putting. A dull display.</li>
+            <li>That shrunken, almost nonexistent anus on {PAWN_nameShortPossessive} plain rear certainly didn't ignite any fires within me.</li>
+            <li>I felt a profound sense of indifference looking at {PAWN_nameShortPossessive} uninspired backside and its ridiculously small orifice.</li>
+            <li>The utter lack of appeal in {PAWN_nameShortPossessive} flat butt and its minuscule, uninviting anus was quite remarkable. My desire waned instantly.</li>
+            <li>I observed {PAWN_nameShortPossessive} rear, flat and unyielding, its anus a tiny, puckered mark. My own body remained stubbornly inert.</li>
+            <li>Such a small, unwelcoming opening on {PAWN_nameShortPossessive} uninspired posterior. It certainly didn't awaken any of my latent urges.</li>
+            <li>{PAWN_nameShortPossessive} backside had no form or interest, and that infinitesimal anus was hardly worth a second glance. My member lay dormant.</li>
+            <li>I stared at {PAWN_nameShortPossessive} uncurved butt and its barely visible anus, feeling only a sense of profound boredom.</li>
+            <li>The unyielding flatness of {PAWN_nameShortPossessive} rear, coupled with that tiny, almost sealed anus, was utterly unstimulating. No arousal.</li>
+            <li>{PAWN_nameShortPossessive} posterior was as appealing as a forgotten dish, its anus a tiny, insignificant dot. My enthusiasm evaporated.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired buttock and its paltry, shrunken anus left me with absolutely no inclination.</li>
+            <li>I dismissed {PAWN_nameShortPossessive} rear as entirely uninteresting; its tiny, almost hidden anus spoke volumes of its inadequacy.</li>
+            <li>{PAWN_nameShortPossessive} backside was devoid of any sensual contour, and its microscopic anus merely reinforced its utter blandness.</li>
+            <li>A truly uninspiring sight. {PAWN_nameShortPossessive} butt was flat, its anus an uninviting speck. My desire completely flatlined.</li>
+            <li>I found {PAWN_nameShortPossessive} unyielding rear and its virtually sealed anus to be entirely without merit or excitement.</li>
+            <li>{PAWN_nameShortPossessive} posterior was just a flat expanse, its anus a tiny, unappealing indentation. My desires remained unsparked.</li>
+            <li>The lack of any inviting shape in {PAWN_nameShortPossessive} butt, paired with its minuscule anus, was a definite turn-off.</li>
+            <li>My gaze lingered on {PAWN_nameShortPossessive} uninteresting rear, finding nothing but disappointment in its flat form and microscopic anus.</li>
+            <li>I observed {PAWN_nameShortPossessive} unappealing backside, and that tiny, almost invisible anus only solidified my disinterest.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_Elderly_Female_opinion</defName>
+        <label>Micro Anus (Negative)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} backside was surprisingly flat for {PAWN_possessive} age, with an anus so tiny it looked underdeveloped. What a shame.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear; it was rather plain, and that miniscule anus seemed almost vestigial. Not a pleasant sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unformed buttock and its almost invisible anus suggested a certain lack of vitality. Quite unfortunate.</li>
+            <li>{PAWN_nameShortPossessive} posterior was quite unappealing, almost no curve, and the anus was far too small, barely a pinpoint.</li>
+            <li>I noticed {PAWN_nameShortPossessive} flat backside, utterly uninspired, with an anus so tight it looked unused. A disappointing display.</li>
+            <li>Such a meager form to {PAWN_nameShortPossessive} butt, and that tiny, shrunken anus merely highlighted its inadequacy. A pity.</li>
+            <li>{PAWN_nameShortPossessive} rear was devoid of any youthful fullness, and the almost indiscernible anus did nothing to improve it.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, and its small, tight anus struck me as particularly unappealing. Not what one expects.</li>
+            <li>The unyielding flatness of {PAWN_nameShortPossessive} butt, combined with a barely visible anus, made for a rather dismal impression.</li>
+            <li>{PAWN_nameShortPossessive} posterior looked so unformed, and that tiny, uninviting anus was just another flaw in its appearance.</li>
+            <li>A truly uninspiring posterior, {PAWN_nameShortPossessive} butt lacked any sort of definition, and the anus was almost non-existent.</li>
+            <li>I sighed at the sight of {PAWN_nameShortPossessive} flat backside, with a minuscule, almost hidden anus. So much potential, so little form.</li>
+            <li>{PAWN_nameShortPossessive} rear was disappointingly devoid of curves, its tiny anus a mere indentation, almost an oversight.</li>
+            <li>The small, almost sealed anus on {PAWN_nameShortPossessive} unappealing buttock was quite a letdown. No youthful vigor there.</li>
+            <li>I noted the rather plain form of {PAWN_nameShortPossessive} posterior, and the incredibly small anus confirmed my uncharitable opinion.</li>
+            <li>{PAWN_nameShortPossessive} butt was sadly underdeveloped, with an anus that appeared to be almost entirely closed. A truly meager sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired backside, featuring a minuscule, puckered anus, was profoundly unappealing.</li>
+            <li>I winced slightly at {PAWN_nameShortPossessive} flat rear, its tiny, almost invisible anus screaming inadequacy.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered no aesthetic pleasure, its miniscule anus merely adding to its generally plain appearance.</li>
+            <li>What a disappointing rear. {PAWN_nameShortPossessive} butt was shapeless, and the anus was hardly discernible.</li>
+            <li>I found {PAWN_nameShortPossessive} backside unappealingly flat, and that tiny, tight anus seemed almost pathological.</li>
+            <li>{PAWN_nameShortPossessive} buttock looked so lacking in vitality, with an anus that was practically sealed shut. A dull sight.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} rear was one of uninspired flatness, with an anus almost too small to comprehend.</li>
+            <li>I observed {PAWN_nameShortPossessive} uncurved posterior, and the small, recessed anus only emphasized its unappealing form.</li>
+            <li>{PAWN_nameShortPossessive} backside was a testament to anatomical minimalism, its anus a tiny, uninviting speck.</li>
+            <li>A rather tragic sight, {PAWN_nameShortPossessive} butt was flat, its anus almost indistinguishable from the surrounding skin.</li>
+            <li>I noted the sad absence of fullness in {PAWN_nameShortPossessive} rear, further accentuated by its remarkably small and tight anus.</li>
+            <li>{PAWN_nameShortPossessive} posterior was utterly bland, the minuscule anus providing no visual interest whatsoever.</li>
+            <li>The small, tight anus on {PAWN_nameShortPossessive} unappealingly flat buttock was a sight that failed to impress.</li>
+            <li>I found {PAWN_nameShortPossessive} backside remarkably uninspiring, its tiny, barely there anus confirming its overall mediocrity.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young male observes young females butt and anus, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MaleOpinion</defName>
+        <label>Micro Anus (Negative)_MaleOpinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I glanced at {PAWN_nameShortPossessive} butt. It was flat and unyielding, and that tiny, tight anus offered absolutely no thrill.</li>
+            <li>{PAWN_nameShortPossessive} backside was surprisingly unimpressive, and the almost invisible anus confirmed my disappointment. What a waste.</li>
+            <li>Seriously? That minuscule orifice on {PAWN_nameShortPossessive} uncurved rear just killed any interest I had. Nothing sexy about it.</li>
+            <li>Her butt was a total letdown, and the tiny, almost sealed anus made it worse. Definitely not enticing.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. It was dull and flat, with an anus so small it barely registered. Zero appeal.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered no excitement; its tiny, almost nonexistent anus was utterly uninviting.</li>
+            <li>That butt was a disappointment: flat, shapeless, and with an anus so small it made me question everything.</li>
+            <li>{PAWN_nameShortPossessive} backside lacked any curve, and that minuscule, tight anus was a complete turn-off. Unappealing.</li>
+            <li>I checked out {PAWN_nameShortPossessive} rear, and it was just... flat. The tiny anus confirmed my lack of interest.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired butt and its barely visible anus left me feeling completely unaroused.</li>
+            <li>No curves, no allure. {PAWN_nameShortPossessive} butt was a flat line, and that pinprick anus sealed its fate.</li>
+            <li>I can't believe how unappealing {PAWN_nameShortPossessive} rear was, especially with that absurdly small and tight anus.</li>
+            <li>{PAWN_nameShortPossessive} backside was a complete dud. The anus was so small, it might as well not exist.</li>
+            <li>What a bland butt. {PAWN_nameShortPossessive} posterior offered nothing, and its microscopic anus was the final nail in the coffin.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear, and honestly, it was depressing. That tiny, puckered anus was just sad.</li>
+            <li>Her butt was flat and unremarkable, the small, almost-closed anus completing a thoroughly uninspiring picture.</li>
+            <li>I really hoped for more. {PAWN_nameShortPossessive} backside was so plain, and the minuscule anus made it worse.</li>
+            <li>That unyielding flatness of {PAWN_nameShortPossessive} butt, coupled with a barely visible anus, made me look away.</li>
+            <li>{PAWN_nameShortPossessive} posterior was utterly unsexy; its tiny, tight anus offered no suggestion of pleasure.</li>
+            <li>I observed {PAWN_nameShortPossessive} rear, and its lack of form, plus that microscopic anus, was a total turn-off.</li>
+            <li>This butt was a true disappointment, completely flat, with an anus so small it was almost offensive.</li>
+            <li>{PAWN_nameShortPossessive} backside was boring, and the miniscule, uninviting anus did nothing to spice it up.</li>
+            <li>I wouldn't touch that. {PAWN_nameShortPossessive} butt was uninspired, and its barely visible anus cemented my disdain.</li>
+            <li>The general lack of appeal in {PAWN_nameShortPossessive} rear, especially that tiny, sealed anus, was a major letdown.</li>
+            <li>{PAWN_nameShortPossessive} posterior was a flat, uninteresting canvas, with an anus so small it was comical.</li>
+            <li>I found {PAWN_nameShortPossessive} backside remarkably unsexy, the minuscule, tight anus offering absolutely no appeal.</li>
+            <li>What a profoundly uninteresting butt. {PAWN_nameShortPossessive} rear was flat, and its anus was barely discernible.</li>
+            <li>{PAWN_nameShortPossessive} posterior was devoid of any enticing contours, and the tiny anus just emphasized its inadequacy.</li>
+            <li>I couldn't help but notice how unappealing {PAWN_nameShortPossessive} butt was, especially with that almost nonexistent anus.</li>
+            <li>The sight of {PAWN_nameShortPossessive} flat, uncurved rear and its microscopic anus left me feeling utterly disappointed.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes unisex butt and anus -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Voyeur</defName>
+        <label>Micro Anus (Negative) trait Voyeur</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} rear, and it was so unyieldingly flat, with an anus so minuscule, it barely warranted a second glance.</li>
+            <li>That butt was profoundly unstimulating. The tiny, tight anus offered nothing for my voyeuristic gaze. A true disappointment.</li>
+            <li>My voyeuristic urges vanished upon seeing {PAWN_nameShortPossessive} shapeless backside and its almost invisible anus. Utterly unappealing.</li>
+            <li>{PAWN_nameShortPossessive} posterior was so devoid of form, and that microscopic anus was a complete letdown for my discerning eyes.</li>
+            <li>I found {PAWN_nameShortPossessive} flat butt and its minuscule, uninviting anus to be an absolute bore. No thrill at all.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired rear, with an anus so small it seemed permanently sealed, was profoundly disheartening.</li>
+            <li>My gaze lingered on {PAWN_nameShortPossessive} unappealing backside, but that tiny, tight anus extinguished any flicker of interest.</li>
+            <li>{PAWN_nameShortPossessive} butt was so plain, so uncurved, and its barely visible anus left me utterly unmoved. A waste of my time.</li>
+            <li>I noted the abysmal lack of detail in {PAWN_nameShortPossessive} rear; that minuscule, puckered anus offered no voyeuristic pleasure.</li>
+            <li>The uninspiring flatness of {PAWN_nameShortPossessive} posterior, coupled with an almost nonexistent anus, was a total letdown.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, finding it entirely unstimulating. The tiny, tight anus was completely unappealing.</li>
+            <li>{PAWN_nameShortPossessive} butt was a blank slate, offering no curves, and its microscopic anus provided no visual interest.</li>
+            <li>What a waste of potential. {PAWN_nameShortPossessive} rear was flat, and its minuscule anus confirmed its utter blandness.</li>
+            <li>My voyeuristic spirit recoiled from {PAWN_nameShortPossessive} unappealing posterior and its almost invisible, uninviting anus.</li>
+            <li>The negligible size of {PAWN_nameShortPossessive} anus on that uninspiring backside left me feeling completely cold.</li>
+            <li>I found {PAWN_nameShortPossessive} butt completely uninteresting, its tiny, tight anus offering no aesthetic or sensual appeal.</li>
+            <li>{PAWN_nameShortPossessive} rear was flat and devoid of character, and the minuscule anus was a fitting detail for such a drab display.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved posterior and its barely visible anus was profoundly disappointing for a voyeur like me.</li>
+            <li>I looked, and found nothing. {PAWN_nameShortPossessive} backside was dull, and its microscopic anus seemed utterly inconsequential.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat expanse, offering no visual depth, and its tiny anus was simply uninspiring.</li>
+            <li>My keen eyes found no pleasure in {PAWN_nameShortPossessive} unappealing rear, especially that pathetic, almost-sealed anus.</li>
+            <li>The utter lack of detail in {PAWN_nameShortPossessive} posterior, with its minuscule, uninviting anus, was a true letdown.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, feeling only disdain for its unyielding flatness and practically non-existent anus.</li>
+            <li>{PAWN_nameShortPossessive} butt was a profound disappointment, its tiny anus merely a dimple in an otherwise shapeless form.</li>
+            <li>What a missed opportunity. {PAWN_nameShortPossessive} rear was flat, and its microscopic, puckered anus killed any voyeuristic impulse.</li>
+            <li>My expert eye found {PAWN_nameShortPossessive} uninspired posterior and its almost invisible anus to be utterly mundane.</li>
+            <li>I could hardly believe the insignificance of {PAWN_nameShortPossessive} anus on that featureless backside. Truly a dull sight.</li>
+            <li>{PAWN_nameShortPossessive} butt was a tragic example of anatomical blandness, its tiny anus simply confirming its unappealing nature.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninviting rear and its ridiculously small, tight anus left me completely cold.</li>
+            <li>My voyeuristic curiosity was completely extinguished by {PAWN_nameShortPossessive} flat butt and its minuscule, uninteresting anus.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Voyeur_M</defName>
+        <label>Micro Anus (Negative) trait Voyeur_M</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} flat backside, with its microscopic anus, offered no flicker of arousal. My own member remained defiantly limp.</li>
+            <li>I gazed at {PAWN_nameShortPossessive} unyielding butt, and that tiny, tight anus was a complete letdown. Nothing stirred below.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired rear and its almost invisible anus left me utterly cold. My cock remained flaccid.</li>
+            <li>{PAWN_nameShortPossessive} posterior was so devoid of form, and that minuscule anus extinguished any hint of perverted desire.</li>
+            <li>My voyeuristic mind found {PAWN_nameShortPossessive} flat butt and its minuscule, uninviting anus to be an absolute dud. No reaction from me.</li>
+            <li>The depressing sight of {PAWN_nameShortPossessive} rear, with an anus so small it seemed permanently sealed, was profoundly unstimulating.</li>
+            <li>My gaze lingered on {PAWN_nameShortPossessive} unappealing backside, but that tiny, tight anus extinguished any flicker of sexual interest.</li>
+            <li>{PAWN_nameShortPossessive} butt was so plain, so uncurved, and its barely visible anus left me utterly unmoved. What a disappointment.</li>
+            <li>I noted the abysmal lack of curves in {PAWN_nameShortPossessive} rear; that minuscule, puckered anus offered no perverse pleasure. My erection vanished.</li>
+            <li>The uninspiring flatness of {PAWN_nameShortPossessive} posterior, coupled with an almost nonexistent anus, was a total turn-off.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, finding it entirely unstimulating. The tiny, tight anus was completely unappealing to my urges.</li>
+            <li>{PAWN_nameShortPossessive} butt was a blank slate, offering no curves, and its microscopic anus provided no sexual interest whatsoever.</li>
+            <li>What a wasted opportunity. {PAWN_nameShortPossessive} rear was flat, and its minuscule anus confirmed its utter blandness, leaving me cold.</li>
+            <li>My perverted spirit recoiled from {PAWN_nameShortPossessive} unappealing posterior and its almost invisible, uninviting anus. My cock shriveled.</li>
+            <li>The negligible size of {PAWN_nameShortPossessive} anus on that uninspiring backside left me feeling completely unaroused.</li>
+            <li>I found {PAWN_nameShortPossessive} butt completely uninteresting, its tiny, tight anus offering no aesthetic or sensual appeal for me.</li>
+            <li>{PAWN_nameShortPossessive} rear was flat and devoid of character, and the minuscule anus was a fitting detail for such a drab display, dampening my spirits.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved posterior and its barely visible anus was profoundly disappointing for a man like me. My enthusiasm died.</li>
+            <li>I looked, and found nothing. {PAWN_nameShortPossessive} backside was dull, and its microscopic anus seemed utterly inconsequential. My desires faded.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat expanse, offering no visual depth, and its tiny anus was simply uninspiring. No reaction.</li>
+            <li>My keen eyes found no pleasure in {PAWN_nameShortPossessive} unappealing rear, especially that pathetic, almost-sealed anus. My arousal was nonexistent.</li>
+            <li>The utter lack of detail in {PAWN_nameShortPossessive} posterior, with its minuscule, uninviting anus, was a true letdown for my desires.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, feeling only disdain for its unyielding flatness and practically non-existent anus. My member felt nothing.</li>
+            <li>{PAWN_nameShortPossessive} butt was a profound disappointment, its tiny anus merely a dimple in an otherwise shapeless form. My perverted thoughts ceased.</li>
+            <li>What a missed opportunity. {PAWN_nameShortPossessive} rear was flat, and its microscopic, puckered anus killed any perverted impulse.</li>
+            <li>My expert eye found {PAWN_nameShortPossessive} uninspired posterior and its almost invisible anus to be utterly mundane, and my desire went with it.</li>
+            <li>I could hardly believe the insignificance of {PAWN_nameShortPossessive} anus on that featureless backside. Truly a dull sight that kept my loins quiet.</li>
+            <li>{PAWN_nameShortPossessive} butt was a tragic example of anatomical blandness, its tiny anus simply confirming its unappealing nature. My sexual interest evaporated.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninviting rear and its ridiculously small, tight anus left me completely cold. My masculinity felt insulted.</li>
+            <li>My voyeuristic curiosity was completely extinguished by {PAWN_nameShortPossessive} flat butt and its minuscule, uninteresting anus. Nothing to see here.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Voyeur_F</defName>
+        <label>Micro Anus (Negative) trait Voyeur_F</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} flat backside, with its microscopic anus, offered no flicker of interest. My own body felt nothing in response.</li>
+            <li>I gazed at {PAWN_nameShortPossessive} unyielding butt, and that tiny, tight anus was a complete letdown. No thrill, no desire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired rear and its almost invisible anus left me utterly cold. My urges remained dormant.</li>
+            <li>{PAWN_nameShortPossessive} posterior was so devoid of form, and that minuscule anus extinguished any hint of curiosity or arousal.</li>
+            <li>My voyeuristic mind found {PAWN_nameShortPossessive} flat butt and its minuscule, uninviting anus to be an absolute bore. No reaction from me.</li>
+            <li>The depressing sight of {PAWN_nameShortPossessive} rear, with an anus so small it seemed permanently sealed, was profoundly unstimulating.</li>
+            <li>My gaze lingered on {PAWN_nameShortPossessive} unappealing backside, but that tiny, tight anus extinguished any flicker of sensual interest.</li>
+            <li>{PAWN_nameShortPossessive} butt was so plain, so uncurved, and its barely visible anus left me utterly unmoved. What a disappointment.</li>
+            <li>I noted the abysmal lack of curves in {PAWN_nameShortPossessive} rear; that minuscule, puckered anus offered no perverse pleasure. My own desires were untouched.</li>
+            <li>The uninspiring flatness of {PAWN_nameShortPossessive} posterior, coupled with an almost nonexistent anus, was a total turn-off.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, finding it entirely unstimulating. The tiny, tight anus was completely unappealing to my urges.</li>
+            <li>{PAWN_nameShortPossessive} butt was a blank slate, offering no curves, and its microscopic anus provided no sexual interest whatsoever.</li>
+            <li>What a wasted opportunity. {PAWN_nameShortPossessive} rear was flat, and its minuscule anus confirmed its utter blandness, leaving me cold.</li>
+            <li>My perverted spirit recoiled from {PAWN_nameShortPossessive} unappealing posterior and its almost invisible, uninviting anus. My own body felt nothing.</li>
+            <li>The negligible size of {PAWN_nameShortPossessive} anus on that uninspiring backside left me feeling completely unaroused.</li>
+            <li>I found {PAWN_nameShortPossessive} butt completely uninteresting, its tiny, tight anus offering no aesthetic or sensual appeal for me.</li>
+            <li>{PAWN_nameShortPossessive} rear was flat and devoid of character, and the minuscule anus was a fitting detail for such a drab display, dampening my spirits.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved posterior and its barely visible anus was profoundly disappointing for a woman like me. My enthusiasm died.</li>
+            <li>I looked, and found nothing. {PAWN_nameShortPossessive} backside was dull, and its microscopic anus seemed utterly inconsequential. My desires faded.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat expanse, offering no visual depth, and its tiny anus was simply uninspiring. No reaction.</li>
+            <li>My keen eyes found no pleasure in {PAWN_nameShortPossessive} unappealing rear, especially that pathetic, almost-sealed anus. My arousal was nonexistent.</li>
+            <li>The utter lack of detail in {PAWN_nameShortPossessive} posterior, with its minuscule, uninviting anus, was a true letdown for my desires.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, feeling only disdain for its unyielding flatness and practically non-existent anus. My own body felt nothing.</li>
+            <li>{PAWN_nameShortPossessive} butt was a profound disappointment, its tiny anus merely a dimple in an otherwise shapeless form. My perverted thoughts ceased.</li>
+            <li>What a missed opportunity. {PAWN_nameShortPossessive} rear was flat, and its microscopic, puckered anus killed any perverted impulse.</li>
+            <li>My expert eye found {PAWN_nameShortPossessive} uninspired posterior and its almost invisible anus to be utterly mundane, and my desire went with it.</li>
+            <li>I could hardly believe the insignificance of {PAWN_nameShortPossessive} anus on that featureless backside. Truly a dull sight that kept my loins quiet.</li>
+            <li>{PAWN_nameShortPossessive} butt was a tragic example of anatomical blandness, its tiny anus simply confirming its unappealing nature. My sexual interest evaporated.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninviting rear and its ridiculously small, tight anus left me completely cold. My femininity felt insulted.</li>
+            <li>My voyeuristic curiosity was completely extinguished by {PAWN_nameShortPossessive} flat butt and its minuscule, uninteresting anus. Nothing to see here.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_NMM_Exhibitionist</defName>
+        <label>Micro Anus (Negative) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I presented myself, only to see {PAWN_nameShortPossessive} uninspired butt, its tiny anus an embarrassing sight. It utterly deflated my exhibitionist fervor.</li>
+            <li>How can I truly shine when {PAWN_nameShortPossessive} rear is so flat, with an anus so minuscule it’s hardly worth the effort of being observed?</li>
+            <li>My grand display felt wasted upon seeing {PAWN_nameShortPossessive} shapeless butt and that almost invisible, pathetic anus. Truly uninspiring.</li>
+            <li>{PAWN_nameShortPossessive} posterior's tiny anus was an insult to my exhibition. What is there to even compare myself to?</li>
+            <li>I made a show, yet {PAWN_nameShortPossessive} flat butt and its barely-there anus were so unappealing, it robbed me of my joy.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding rear, coupled with an anus so small it seemed permanently sealed, was a gross disappointment.</li>
+            <li>My exhibitionist spirit withered upon witnessing {PAWN_nameShortPossessive} uncurved backside and its minuscule, uninviting anus.</li>
+            <li>I flaunted myself, only to observe {PAWN_nameShortPossessive} dull butt, its microscopic anus a testament to its utter lack of allure.</li>
+            <li>How can I truly be appreciated when {PAWN_nameShortPossessive} rear is so unimpressive, with an anus that’s practically a pinprick?</li>
+            <li>My performance felt worthless when I saw {PAWN_nameShortPossessive} unappealing posterior and its almost nonexistent anus.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat canvas, offering no visual interest, and its tiny anus made my exhibition feel pointless.</li>
+            <li>I proudly revealed myself, only to be met with {PAWN_nameShortPossessive} bland backside and its pathetic, shrunken anus. What a letdown.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that uninspired rear was truly insulting to my exhibitionist pride.</li>
+            <li>My bold display felt diminished by the sight of {PAWN_nameShortPossessive} shapeless butt and its minuscule, uninviting orifice.</li>
+            <li>I wanted to provoke a reaction, but {PAWN_nameShortPossessive} flat posterior and its almost invisible anus simply left me cold.</li>
+            <li>{PAWN_nameShortPossessive} rear was so plain, its tiny, tight anus seemed designed to discourage any form of observation.</li>
+            <li>My daring felt foolish when confronted with {PAWN_nameShortPossessive} unappealing backside, its minuscule anus a symbol of its utter mediocrity.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved buttock and its barely discernible anus made my exhibition feel utterly pointless.</li>
+            <li>I exposed myself, only to see {PAWN_nameShortPossessive} dull rear, with a microscopic anus that offered no visual stimulation whatsoever.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat, uninteresting, and its absurdly small anus made my desire for attention vanish.</li>
+            <li>My theatrical display lost its luster when I saw {PAWN_nameShortPossessive} uninspired butt and its paltry, shrunken anus.</li>
+            <li>How can I bask in attention when {PAWN_nameShortPossessive} backside is so devoid of charm, and its anus so insignificant?</li>
+            <li>I presented my form, only to be disappointed by {PAWN_nameShortPossessive} flat rear and its almost non-existent anus.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} posterior, combined with that tiny, tight anus, was truly a buzzkill for my exhibition.</li>
+            <li>My exhibitionist drive was extinguished by the sight of {PAWN_nameShortPossessive} unappealing butt and its minuscule, uninviting anus.</li>
+            <li>{PAWN_nameShortPossessive} rear was a flat landscape, its anus a mere speck, making my efforts to impress utterly fruitless.</li>
+            <li>I revealed myself, only to find {PAWN_nameShortPossessive} backside so uninspired, with an anus that barely existed. What a waste of an audience.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} butt, and its almost invisible anus, made my desire for attention falter.</li>
+            <li>My exhibition was met with the dismal reality of {PAWN_nameShortPossessive} flat posterior and its pathetic, shrunken anus.</li>
+            <li>I longed for a reaction, but {PAWN_nameShortPossessive} unappealing rear and its minuscule anus were so unmemorable, it was soul-crushing.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young females butt and anus, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_NMM_Exhibitionist_male</defName>
+        <label>Micro Anus (Negative) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I showed off my glory, only to see {PAWN_nameShortPossessive} pathetic, flat butt and its microscopic anus. My own erection shriveled in shame.</li>
+            <li>How can I truly excite when {PAWN_nameShortPossessive} rear is so unyielding and dull, with an anus so minuscule it’s barely a pinprick?</li>
+            <li>My grand male display felt wasted upon seeing {PAWN_nameShortPossessive} shapeless butt and that almost invisible, pathetic anus. My cock went limp.</li>
+            <li>{PAWN_nameShortPossessive} posterior's tiny anus was an insult to my exhibition. There's nothing to compare my own magnificent form to.</li>
+            <li>I made a show, yet {PAWN_nameShortPossessive} flat butt and its barely-there anus were so unappealing, it robbed me of any male pride.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding rear, coupled with an anus so small it seemed permanently sealed, was a gross disappointment. My member recoiled.</li>
+            <li>My exhibitionist spirit withered upon witnessing {PAWN_nameShortPossessive} uncurved backside and its minuscule, uninviting anus. My balls felt empty.</li>
+            <li>I flaunted myself, only to observe {PAWN_nameShortPossessive} dull butt, its microscopic anus a testament to its utter lack of allure. No reaction from me.</li>
+            <li>How can I truly be appreciated when {PAWN_nameShortPossessive} rear is so unimpressive, with an anus that’s practically a pinprick? My drive vanished.</li>
+            <li>My performance felt worthless when I saw {PAWN_nameShortPossessive} unappealing posterior and its almost nonexistent anus. My loins were still.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat canvas, offering no visual interest, and its tiny anus made my exhibition feel utterly pointless. My cock remained soft.</li>
+            <li>I proudly revealed myself, only to be met with {PAWN_nameShortPossessive} bland backside and its pathetic, shrunken anus. What a letdown for my male ego.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that uninspired rear was truly insulting to my exhibitionist pride. My arousal died.</li>
+            <li>My bold display felt diminished by the sight of {PAWN_nameShortPossessive} shapeless butt and its minuscule, uninviting orifice. My cock did not stir.</li>
+            <li>I wanted to provoke a reaction, but {PAWN_nameShortPossessive} flat posterior and its almost invisible anus simply left me cold. My desires were dead.</li>
+            <li>{PAWN_nameShortPossessive} rear was so plain, its tiny, tight anus seemed designed to discourage any form of observation. It killed my male urge to impress.</li>
+            <li>My daring felt foolish when confronted with {PAWN_nameShortPossessive} unappealing backside, its minuscule anus a symbol of its utter mediocrity. My member remained flaccid.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved buttock and its barely discernible anus made my exhibition feel utterly pointless. My testosterone levels dropped.</li>
+            <li>I exposed myself, only to see {PAWN_nameShortPossessive} dull rear, with a microscopic anus that offered no visual stimulation whatsoever. My cock felt small in comparison.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat, uninteresting, and its absurdly small anus made my desire for attention vanish. My balls felt empty.</li>
+            <li>My theatrical display lost its luster when I saw {PAWN_nameShortPossessive} uninspired butt and its paltry, shrunken anus. My drive was gone.</li>
+            <li>How can I bask in attention when {PAWN_nameShortPossessive} backside is so devoid of charm, and its anus so insignificant? My male essence felt challenged.</li>
+            <li>I presented my form, only to be disappointed by {PAWN_nameShortPossessive} flat rear and its almost non-existent anus. What a waste of an audience for my masculinity.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} posterior, combined with that tiny, tight anus, was truly a buzzkill for my exhibition. My erection withered.</li>
+            <li>My exhibitionist drive was extinguished by the sight of {PAWN_nameShortPossessive} unappealing butt and its minuscule, uninviting anus. My cock felt nothing.</li>
+            <li>{PAWN_nameShortPossessive} rear was a flat landscape, its anus a mere speck, making my efforts to impress utterly fruitless. My male pride was hurt.</li>
+            <li>I revealed myself, only to find {PAWN_nameShortPossessive} backside so uninspired, with an anus that barely existed. What a waste of an audience. My ambition died.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} butt, and its almost invisible anus, made my desire for attention falter. My male spirit felt crushed.</li>
+            <li>My exhibition was met with the dismal reality of {PAWN_nameShortPossessive} flat posterior and its pathetic, shrunken anus. My member remained unimpressed.</li>
+            <li>I longed for a reaction, but {PAWN_nameShortPossessive} unappealing rear and its minuscule anus were so unmemorable, it was soul-crushing for my male ego.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young females butt and anus, can include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_NMM_Exhibitionist_Female</defName>
+        <label>Micro Anus (Negative) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I presented myself proudly, only to see {PAWN_nameShortPossessive} flat, uninspired butt and its microscopic anus. It utterly deflated my female confidence.</li>
+            <li>How can I truly shine when {PAWN_nameShortPossessive} rear is so unyielding and dull, with an anus so minuscule it’s barely a pinprick? My own body felt superior.</li>
+            <li>My grand display felt wasted upon seeing {PAWN_nameShortPossessive} shapeless butt and that almost invisible, pathetic anus. Truly uninspiring to a woman like me.</li>
+            <li>{PAWN_nameShortPossessive} posterior's tiny anus was an insult to my exhibition. What is there to even compare myself to? My own form is far grander.</li>
+            <li>I made a show, yet {PAWN_nameShortPossessive} flat butt and its barely-there anus were so unappealing, it robbed me of my joy as an exhibitionist.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding rear, coupled with an anus so small it seemed permanently sealed, was a gross disappointment. My core felt nothing.</li>
+            <li>My exhibitionist spirit withered upon witnessing {PAWN_nameShortPossessive} uncurved backside and its minuscule, uninviting anus. My desires died.</li>
+            <li>I flaunted myself, only to observe {PAWN_nameShortPossessive} dull butt, its microscopic anus a testament to its utter lack of allure. No reaction from my own self.</li>
+            <li>How can I truly be appreciated when {PAWN_nameShortPossessive} rear is so unimpressive, with an anus that’s practically a pinprick? My self-admiration waned.</li>
+            <li>My performance felt worthless when I saw {PAWN_nameShortPossessive} unappealing posterior and its almost nonexistent anus. My inner fire cooled.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat canvas, offering no visual interest, and its tiny anus made my exhibition feel pointless. My sensuality felt ignored.</li>
+            <li>I proudly revealed myself, only to be met with {PAWN_nameShortPossessive} bland backside and its pathetic, shrunken anus. What a letdown for my female pride.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that uninspired rear was truly insulting to my exhibitionist pride. My excitement deflated.</li>
+            <li>My bold display felt diminished by the sight of {PAWN_nameShortPossessive} shapeless butt and its minuscule, uninviting orifice. My desire to perform faded.</li>
+            <li>I wanted to provoke a reaction, but {PAWN_nameShortPossessive} flat posterior and its almost invisible anus simply left me cold. No thrill at all.</li>
+            <li>{PAWN_nameShortPossessive} rear was so plain, its tiny, tight anus seemed designed to discourage any form of observation. It killed my female urge to impress.</li>
+            <li>My daring felt foolish when confronted with {PAWN_nameShortPossessive} unappealing backside, its minuscule anus a symbol of its utter mediocrity. My confidence wavered.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved buttock and its barely discernible anus made my exhibition feel utterly pointless. My feminine allure felt wasted.</li>
+            <li>I exposed myself, only to see {PAWN_nameShortPossessive} dull rear, with a microscopic anus that offered no visual stimulation whatsoever. My own body felt superior.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat, uninteresting, and its absurdly small anus made my desire for attention vanish. My feminine ego was bruised.</li>
+            <li>My theatrical display lost its luster when I saw {PAWN_nameShortPossessive} uninspired butt and its paltry, shrunken anus. My drive was gone.</li>
+            <li>How can I bask in attention when {PAWN_nameShortPossessive} backside is so devoid of charm, and its anus so insignificant? My feminine spirit felt challenged.</li>
+            <li>I presented my form, only to be disappointed by {PAWN_nameShortPossessive} flat rear and its almost non-existent anus. What a waste of an audience for my womanhood.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} posterior, combined with that tiny, tight anus, was truly a buzzkill for my exhibition. My desire withered.</li>
+            <li>My exhibitionist drive was extinguished by the sight of {PAWN_nameShortPossessive} unappealing butt and its minuscule, uninviting anus. My senses felt dulled.</li>
+            <li>{PAWN_nameShortPossessive} rear was a flat landscape, its anus a mere speck, making my efforts to impress utterly fruitless. My female pride was hurt.</li>
+            <li>I revealed myself, only to find {PAWN_nameShortPossessive} backside so uninspired, with an anus that barely existed. What a waste of an audience. My ambition died.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} butt, and its almost invisible anus, made my desire for attention falter. My feminine spirit felt crushed.</li>
+            <li>My exhibition was met with the dismal reality of {PAWN_nameShortPossessive} flat posterior and its pathetic, shrunken anus. My efforts felt worthless.</li>
+            <li>I longed for a reaction, but {PAWN_nameShortPossessive} unappealing rear and its minuscule anus were so unmemorable, it was soul-crushing for my female ego.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Nymphomaniac</defName>
+        <label>Micro Anus (Negative) trait Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My insatiable desires found no purchase in {PAWN_nameShortPossessive} flat, unyielding butt and its microscopic anus. Utterly unsatisfying.</li>
+            <li>I craved satisfaction, but {PAWN_nameShortPossessive} rear offered nothing. That tiny, tight anus was a profound disappointment.</li>
+            <li>My nymphomania raged, yet {PAWN_nameShortPossessive} shapeless backside and its almost invisible anus left me completely cold.</li>
+            <li>{PAWN_nameShortPossessive} posterior's tiny anus was an insult to my urges. What is there to even indulge in with such a sight?</li>
+            <li>I was desperate, but {PAWN_nameShortPossessive} flat butt and its barely-there anus were so unappealing, it killed any erotic impulse.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding rear, coupled with an anus so small it seemed permanently sealed, was a gross sexual letdown.</li>
+            <li>My nymphomaniacal spirit withered upon witnessing {PAWN_nameShortPossessive} uncurved backside and its minuscule, uninviting anus.</li>
+            <li>I hungered for stimulation, only to observe {PAWN_nameShortPossessive} dull butt, its microscopic anus a testament to its utter lack of allure.</li>
+            <li>How can I find release when {PAWN_nameShortPossessive} rear is so unimpressive, with an anus that’s practically a pinprick?</li>
+            <li>My lust felt worthless when I saw {PAWN_nameShortPossessive} unappealing posterior and its almost nonexistent anus.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat canvas, offering no curves, and its tiny anus made my sexual urges vanish.</li>
+            <li>I desperately sought pleasure, only to be met with {PAWN_nameShortPossessive} bland backside and its pathetic, shrunken anus. What a letdown.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that uninspired rear was truly insulting to my nymphomaniac urges.</li>
+            <li>My bold desire felt diminished by the sight of {PAWN_nameShortPossessive} shapeless butt and its minuscule, uninviting orifice.</li>
+            <li>I wanted to indulge, but {PAWN_nameShortPossessive} flat posterior and its almost invisible anus simply left me cold and unfulfilled.</li>
+            <li>{PAWN_nameShortPossessive} rear was so plain, its tiny, tight anus seemed designed to discourage any form of intimacy.</li>
+            <li>My passion felt foolish when confronted with {PAWN_nameShortPossessive} unappealing backside, its minuscule anus a symbol of its utter mediocrity.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved buttock and its barely discernible anus made my nymphomaniacal urges feel utterly pointless.</li>
+            <li>I sought satisfaction, only to see {PAWN_nameShortPossessive} dull rear, with a microscopic anus that offered no sexual stimulation whatsoever.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat, uninteresting, and its absurdly small anus made my desire vanish.</li>
+            <li>My intense cravings lost their fervor when I saw {PAWN_nameShortPossessive} uninspired butt and its paltry, shrunken anus.</li>
+            <li>How can I find gratification when {PAWN_nameShortPossessive} backside is so devoid of charm, and its anus so insignificant?</li>
+            <li>I presented myself, only to be disappointed by {PAWN_nameShortPossessive} flat rear and its almost non-existent anus. No pleasure found.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} posterior, combined with that tiny, tight anus, was truly a buzzkill for my nymphomania.</li>
+            <li>My sexual drive was extinguished by the sight of {PAWN_nameShortPossessive} unappealing butt and its minuscule, uninviting anus.</li>
+            <li>{PAWN_nameShortPossessive} rear was a flat landscape, its anus a mere speck, making my efforts to find pleasure utterly fruitless.</li>
+            <li>I revealed myself, only to find {PAWN_nameShortPossessive} backside so uninspired, with an anus that barely existed. What a waste of anticipation.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} butt, and its almost invisible anus, made my desire for satisfaction falter.</li>
+            <li>My craving was met with the dismal reality of {PAWN_nameShortPossessive} flat posterior and its pathetic, shrunken anus.</li>
+            <li>I longed for indulgence, but {PAWN_nameShortPossessive} unappealing rear and its minuscule anus were so unmemorable, it was soul-crushing for my desires.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Nymphomaniac_male</defName>
+        <label>Micro Anus (Negative) trait Nymphomaniac_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My male desires found no purchase in {PAWN_nameShortPossessive} flat, unyielding butt and its microscopic anus. My cock remained frustratingly soft.</li>
+            <li>I craved satisfaction, but {PAWN_nameShortPossessive} rear offered nothing. That tiny, tight anus was a profound disappointment. My member refused to stir.</li>
+            <li>My nymphomania raged, yet {PAWN_nameShortPossessive} shapeless backside and its almost invisible anus left me completely cold. My erection never came.</li>
+            <li>{PAWN_nameShortPossessive} posterior's tiny anus was an insult to my urges. What is there for a man like me to even indulge in with such a sight?</li>
+            <li>I was desperate, but {PAWN_nameShortPossessive} flat butt and its barely-there anus were so unappealing, it killed any erotic impulse. My cock remained dormant.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding rear, coupled with an anus so small it seemed permanently sealed, was a gross sexual letdown. My groin felt dead.</li>
+            <li>My nymphomaniacal spirit withered upon witnessing {PAWN_nameShortPossessive} uncurved backside and its minuscule, uninviting anus. My male drive evaporated.</li>
+            <li>I hungered for stimulation, only to observe {PAWN_nameShortPossessive} dull butt, its microscopic anus a testament to its utter lack of allure. My desire shriveled.</li>
+            <li>How can I find release when {PAWN_nameShortPossessive} rear is so unimpressive, with an anus that’s practically a pinprick? My erection was impossible.</li>
+            <li>My lust felt worthless when I saw {PAWN_nameShortPossessive} unappealing posterior and its almost nonexistent anus. My cock felt nothing.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat canvas, offering no curves, and its tiny anus made my sexual urges vanish. My male parts were uninterested.</li>
+            <li>I desperately sought pleasure, only to be met with {PAWN_nameShortPossessive} bland backside and its pathetic, shrunken anus. What a letdown for my masculinity.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that uninspired rear was truly insulting to my nymphomaniac urges. My passion died immediately.</li>
+            <li>My bold desire felt diminished by the sight of {PAWN_nameShortPossessive} shapeless butt and its minuscule, uninviting orifice. My cock remained stubbornly flaccid.</li>
+            <li>I wanted to indulge, but {PAWN_nameShortPossessive} flat posterior and its almost invisible anus simply left me cold and unfulfilled. No male reaction.</li>
+            <li>{PAWN_nameShortPossessive} rear was so plain, its tiny, tight anus seemed designed to discourage any form of intimacy. It killed my male sexual drive.</li>
+            <li>My passion felt foolish when confronted with {PAWN_nameShortPossessive} unappealing backside, its minuscule anus a symbol of its utter mediocrity. My erection was a distant memory.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved buttock and its barely discernible anus made my nymphomaniacal urges feel utterly pointless. My balls felt empty.</li>
+            <li>I sought satisfaction, only to see {PAWN_nameShortPossessive} dull rear, with a microscopic anus that offered no sexual stimulation whatsoever. My cock felt small.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat, uninteresting, and its absurdly small anus made my desire vanish. My male parts were thoroughly unimpressed.</li>
+            <li>My intense cravings lost their fervor when I saw {PAWN_nameShortPossessive} uninspired butt and its paltry, shrunken anus. My drive was completely gone.</li>
+            <li>How can I find gratification when {PAWN_nameShortPossessive} backside is so devoid of charm, and its anus so insignificant? My male essence felt challenged.</li>
+            <li>I presented myself, only to be disappointed by {PAWN_nameShortPossessive} flat rear and its almost non-existent anus. No pleasure found, no male reaction.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} posterior, combined with that tiny, tight anus, was truly a buzzkill for my nymphomania. My erection vanished.</li>
+            <li>My sexual drive was extinguished by the sight of {PAWN_nameShortPossessive} unappealing butt and its minuscule, uninviting anus. My cock felt dead.</li>
+            <li>{PAWN_nameShortPossessive} rear was a flat landscape, its anus a mere speck, making my efforts to find pleasure utterly fruitless. My male pride was hurt.</li>
+            <li>I revealed myself, only to find {PAWN_nameShortPossessive} backside so uninspired, with an anus that barely existed. What a waste of anticipation for a man.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} butt, and its almost invisible anus, made my desire for satisfaction falter. My male spirit felt crushed.</li>
+            <li>My craving was met with the dismal reality of {PAWN_nameShortPossessive} flat posterior and its pathetic, shrunken anus. My member remained unimpressed.</li>
+            <li>I longed for indulgence, but {PAWN_nameShortPossessive} unappealing rear and its minuscule anus were so unmemorable, it was soul-crushing for my male desires.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Nymphomaniac_Female</defName>
+        <label>Micro Anus (Negative) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My female desires found no purchase in {PAWN_nameShortPossessive} flat, unyielding butt and its microscopic anus. My core remained frustratingly unresponsive.</li>
+            <li>I craved satisfaction, but {PAWN_nameShortPossessive} rear offered nothing. That tiny, tight anus was a profound disappointment. My vulva felt nothing.</li>
+            <li>My nymphomania raged, yet {PAWN_nameShortPossessive} shapeless backside and its almost invisible anus left me completely cold. My arousal never came.</li>
+            <li>{PAWN_nameShortPossessive} posterior's tiny anus was an insult to my urges. What is there for a woman like me to even indulge in with such a sight?</li>
+            <li>I was desperate, but {PAWN_nameShortPossessive} flat butt and its barely-there anus were so unappealing, it killed any erotic impulse. My clitoris remained dormant.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding rear, coupled with an anus so small it seemed permanently sealed, was a gross sexual letdown. My inner warmth vanished.</li>
+            <li>My nymphomaniacal spirit withered upon witnessing {PAWN_nameShortPossessive} uncurved backside and its minuscule, uninviting anus. My female drive evaporated.</li>
+            <li>I hungered for stimulation, only to observe {PAWN_nameShortPossessive} dull butt, its microscopic anus a testament to its utter lack of allure. My desire shriveled.</li>
+            <li>How can I find release when {PAWN_nameShortPossessive} rear is so unimpressive, with an anus that’s practically a pinprick? My desire was impossible.</li>
+            <li>My lust felt worthless when I saw {PAWN_nameShortPossessive} unappealing posterior and its almost nonexistent anus. My own body felt nothing.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat canvas, offering no curves, and its tiny anus made my sexual urges vanish. My feminine parts were uninterested.</li>
+            <li>I desperately sought pleasure, only to be met with {PAWN_nameShortPossessive} bland backside and its pathetic, shrunken anus. What a letdown for my femininity.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that uninspired rear was truly insulting to my nymphomaniac urges. My passion died immediately.</li>
+            <li>My bold desire felt diminished by the sight of {PAWN_nameShortPossessive} shapeless butt and its minuscule, uninviting orifice. My own feminine core felt stubbornly unresponsive.</li>
+            <li>I wanted to indulge, but {PAWN_nameShortPossessive} flat posterior and its almost invisible anus simply left me cold and unfulfilled. No female reaction.</li>
+            <li>{PAWN_nameShortPossessive} rear was so plain, its tiny, tight anus seemed designed to discourage any form of intimacy. It killed my female sexual drive.</li>
+            <li>My passion felt foolish when confronted with {PAWN_nameShortPossessive} unappealing backside, its minuscule anus a symbol of its utter mediocrity. My arousal was a distant memory.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved buttock and its barely discernible anus made my nymphomaniacal urges feel utterly pointless. My inner goddess wept.</li>
+            <li>I sought satisfaction, only to see {PAWN_nameShortPossessive} dull rear, with a microscopic anus that offered no sexual stimulation whatsoever. My own desires felt small.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat, uninteresting, and its absurdly small anus made my desire vanish. My feminine parts were thoroughly unimpressed.</li>
+            <li>My intense cravings lost their fervor when I saw {PAWN_nameShortPossessive} uninspired butt and its paltry, shrunken anus. My drive was completely gone.</li>
+            <li>How can I find gratification when {PAWN_nameShortPossessive} backside is so devoid of charm, and its anus so insignificant? My feminine essence felt challenged.</li>
+            <li>I presented myself, only to be disappointed by {PAWN_nameShortPossessive} flat rear and its almost non-existent anus. No pleasure found, no female reaction.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} posterior, combined with that tiny, tight anus, was truly a buzzkill for my nymphomania. My arousal vanished.</li>
+            <li>My sexual drive was extinguished by the sight of {PAWN_nameShortPossessive} unappealing butt and its minuscule, uninviting anus. My core felt dead.</li>
+            <li>{PAWN_nameShortPossessive} rear was a flat landscape, its anus a mere speck, making my efforts to find pleasure utterly fruitless. My feminine pride was hurt.</li>
+            <li>I revealed myself, only to find {PAWN_nameShortPossessive} backside so uninspired, with an anus that barely existed. What a waste of anticipation for a woman.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} butt, and its almost invisible anus, made my desire for satisfaction falter. My feminine spirit felt crushed.</li>
+            <li>My craving was met with the dismal reality of {PAWN_nameShortPossessive} flat posterior and its pathetic, shrunken anus. My inner self remained unimpressed.</li>
+            <li>I longed for indulgence, but {PAWN_nameShortPossessive} unappealing rear and its minuscule anus were so unmemorable, it was soul-crushing for my female desires.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Kind</defName>
+        <label>Micro Anus (Negative) trait Kind</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} rear, and while I strive for kindness, its unappealing flatness and minuscule anus are difficult to overlook.</li>
+            <li>I wish I could find something positive about {PAWN_nameShortPossessive} butt, but its shape is so uninspired, and the tiny anus is barely visible.</li>
+            <li>It pains me to say, but {PAWN_nameShortPossessive} backside is quite plain, and that shrunken anus seems rather unfortunate.</li>
+            <li>Despite my best intentions, {PAWN_nameShortPossessive} posterior offers little to admire, with an anus so small it feels almost absent.</li>
+            <li>I try to be understanding, but {PAWN_nameShortPossessive} flat butt and its barely-there anus are certainly not its most flattering features.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding rear, coupled with an anus so small, makes it hard to find its redeeming qualities.</li>
+            <li>My heart aches to criticize, but {PAWN_nameShortPossessive} uncurved backside and its minuscule, uninviting anus are quite noticeable.</li>
+            <li>I mean no offense, but {PAWN_nameShortPossessive} dull butt, with its microscopic anus, doesn't present itself in the best light.</li>
+            <li>I attempt to see the good, but {PAWN_nameShortPossessive} rear is rather unimpressive, and that anus is practically a pinprick.</li>
+            <li>It's difficult for me to be harsh, but {PAWN_nameShortPossessive} unappealing posterior and its almost nonexistent anus are quite pronounced.</li>
+            <li>I'd prefer not to dwell on it, but {PAWN_nameShortPossessive} butt is a flat canvas, and its tiny anus is surprisingly prominent.</li>
+            <li>I try to be charitable, but {PAWN_nameShortPossessive} bland backside and its pathetic, shrunken anus are hard to ignore.</li>
+            <li>While I prefer to focus on virtues, the insignificance of {PAWN_nameShortPossessive} anus on that uninspired rear is striking.</li>
+            <li>It's not my place to judge, but {PAWN_nameShortPossessive} shapeless butt and its minuscule, uninviting orifice do stand out.</li>
+            <li>I always seek the positive, but {PAWN_nameShortPossessive} flat posterior and its almost invisible anus are a distinct feature.</li>
+            <li>I strive for gentleness, but {PAWN_nameShortPossessive} rear is so plain, its tiny, tight anus is quite visible.</li>
+            <li>I try to be gracious, but {PAWN_nameShortPossessive} unappealing backside, its minuscule anus a symbol of its plainness, is hard to miss.</li>
+            <li>It's not ideal, but {PAWN_nameShortPossessive} uncurved buttock and its barely discernible anus do not enhance its appearance.</li>
+            <li>I try to find beauty everywhere, but {PAWN_nameShortPossessive} dull rear, with a microscopic anus, presents a challenge.</li>
+            <li>I dislike pointing out flaws, but {PAWN_nameShortPossessive} posterior is flat, uninteresting, and its absurdly small anus is undeniable.</li>
+            <li>I choose compassion, but {PAWN_nameShortPossessive} uninspired butt and its paltry, shrunken anus are quite noticeable.</li>
+            <li>I wish to be understanding, but {PAWN_nameShortPossessive} backside is rather devoid of charm, and its anus is so insignificant.</li>
+            <li>I aim for kindness, but {PAWN_nameShortPossessive} flat rear and its almost non-existent anus are quite apparent.</li>
+            <li>I find it difficult to criticize, but the blandness of {PAWN_nameShortPossessive} posterior, combined with that tiny, tight anus, is striking.</li>
+            <li>I try to be tolerant, but {PAWN_nameShortPossessive} unappealing butt and its minuscule, uninviting anus are quite clear.</li>
+            <li>I prefer to offer encouragement, but {PAWN_nameShortPossessive} rear is a flat landscape, its anus a mere speck.</li>
+            <li>I hope to be fair, but {PAWN_nameShortPossessive} backside is so uninspired, with an anus that barely existed.</li>
+            <li>I try to be considerate, but the unimpressive form of {PAWN_nameShortPossessive} butt, and its almost invisible anus, are prominent.</li>
+            <li>I choose empathy, but {PAWN_nameShortPossessive} flat posterior and its pathetic, shrunken anus are quite visible.</li>
+            <li>I long to find positives, but {PAWN_nameShortPossessive} unappealing rear and its minuscule anus are so unmemorable.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Prude</defName>
+        <label>Micro Anus (Negative) trait Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That is truly pathetic. {PAWN_nameShortPossessive} butt is offensively flat, and that microscopic anus is disgusting, barely a hole.</li>
+            <li>What an absolutely dismal sight. {PAWN_nameShortPossessive} rear is an insult to anatomy, with an anus so tiny it's repulsive.</li>
+            <li>I am disgusted by {PAWN_nameShortPossessive} shapeless backside and that almost invisible, pathetic anus. It's an abomination.</li>
+            <li>{PAWN_nameShortPossessive} posterior's tiny anus is an affront. It's revolting how insignificant it is.</li>
+            <li>That flat butt and its barely-there anus on {PAWN_nameShortPossessive} is utterly repulsive. A truly unseemly display.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding rear, coupled with an anus so small it seemed permanently sealed, is just foul.</li>
+            <li>I am appalled by {PAWN_nameShortPossessive} uncurved backside and its minuscule, uninviting anus. It's indecent and unappealing.</li>
+            <li>How dare {PAWN_nameShort} expose such a dull butt, with its microscopic anus. It's a grotesque lack of propriety.</li>
+            <li>It's utterly unimpressive. {PAWN_nameShortPossessive} rear is a disgrace, with an anus that’s practically a pinprick. Shameful.</li>
+            <li>I am offended by {PAWN_nameShortPossessive} unappealing posterior and its almost nonexistent anus. It's utterly vulgar.</li>
+            <li>{PAWN_nameShortPossessive} butt is a flat canvas, offering no decency, and its tiny anus makes it even more abhorrent.</li>
+            <li>I am repulsed by {PAWN_nameShortPossessive} bland backside and its pathetic, shrunken anus. It's a moral outrage.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that uninspired rear is truly disgusting. I can barely look.</li>
+            <li>It's disgraceful. {PAWN_nameShortPossessive} shapeless butt and its minuscule, uninviting orifice are a complete affront to decency.</li>
+            <li>I wanted to be spared from {PAWN_nameShortPossessive} flat posterior and its almost invisible anus. It's an absolute obscenity.</li>
+            <li>{PAWN_nameShortPossessive} rear is so plain, its tiny, tight anus seems intentionally designed to be offensive.</li>
+            <li>I am utterly disgusted by {PAWN_nameShortPossessive} unappealing backside, its minuscule anus a symbol of its utter mediocrity and vulgarity.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved buttock and its barely discernible anus is an affront to my sensibilities.</li>
+            <li>How dare {PAWN_nameShort} reveal such a dull rear, with a microscopic anus. It's repulsive and improper.</li>
+            <li>{PAWN_nameShortPossessive} posterior is flat, uninteresting, and its absurdly small anus is a truly sickening sight.</li>
+            <li>I am revolted by {PAWN_nameShortPossessive} uninspired butt and its paltry, shrunken anus. It's truly an eyesore.</li>
+            <li>How can anyone tolerate {PAWN_nameShortPossessive} backside so devoid of charm, and its anus so insignificant? It’s an outrage.</li>
+            <li>I am disgusted by {PAWN_nameShortPossessive} flat rear and its almost non-existent anus. It's an indecent exposure.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} posterior, combined with that tiny, tight anus, is truly repugnant.</li>
+            <li>I am repelled by {PAWN_nameShortPossessive} unappealing butt and its minuscule, uninviting anus. It's a vile sight.</li>
+            <li>{PAWN_nameShortPossessive} rear is a flat landscape, its anus a mere speck, completely devoid of any redeeming quality.</li>
+            <li>I can barely stand to look at {PAWN_nameShortPossessive} backside; it's so uninspired, with an anus that barely existed. Abhorrent.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} butt, and its almost invisible anus, are simply disgusting.</li>
+            <li>I am utterly horrified by {PAWN_nameShortPossessive} flat posterior and its pathetic, shrunken anus. It’s an unforgivable offense.</li>
+            <li>I longed for it to be hidden, but {PAWN_nameShortPossessive} unappealing rear and its minuscule anus were so unmemorable, they were offensive.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+<!--Elder Male observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_Elderly_Male_opinion_Male</defName>
+        <label>Micro Anus (Negative)_Elderly_Male_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} rear was as disappointing as a withered fruit. The tiny opening was barely discernable against the flat, unappealing butt.</li>
+            <li>I observed {PAWN_nameShortPossessive} practically invisible anus, shrunken and dry, on a rather deflated-looking backside. A truly uninspired sight.</li>
+            <li>That minuscule opening on {PAWN_nameShortPossessive} rear was a stark reminder of what little purpose it could serve. The overall shape lacked any masculine curve.</li>
+            <li>A truly uninspiring sight, {PAWN_nameShortPossessive} backside was devoid of form, with an anus so small it bordered on nonexistent.</li>
+            <li>Hardly a peach, {PAWN_nameShortPossessive} butt was flat and unappealing, its tiny anus a mere indentation, almost an afterthought.</li>
+            <li>Such a small opening on {PAWN_nameShortPossessive} deflated backside suggests a life unlived. A truly unappealing sight for an elder male.</li>
+            <li>{PAWN_nameShortPossessive} backside was a disappointment, lacking any plumpness. The minuscule, barely noticeable anus completed the unfortunate picture.</li>
+            <li>I witnessed {PAWN_nameShortPossessive} flat, unappealing rear, with an anus so small it felt like a cruel joke. No masculine vitality at all.</li>
+            <li>The sight of {PAWN_nameShortPossessive} shrunken, almost invisible anus on that lifeless buttock was truly disheartening. No allure whatsoever.</li>
+            <li>{PAWN_nameShortPossessive} rear was a sad sight, lacking the curves one expects. The tiny, tight orifice was practically hidden, offering no appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it was utterly flat, with an anus that was a practically sealed pinprick. A truly regrettable display.</li>
+            <li>{PAWN_nameShortPossessive} backside was devoid of any natural grace, and the insignificant anus confirmed its complete lack of allure.</li>
+            <li>The almost imperceptible anus on {PAWN_nameShortPossessive} unformed rear was a sign of nothing notable. A disappointing sight indeed.</li>
+            <li>I couldn't help but notice the pathetic size of {PAWN_nameShortPossessive} anus, a tiny, puckered dot on a remarkably uninteresting backside.</li>
+            <li>What a waste. {PAWN_nameShortPossessive} rear was entirely flat, its small anus betraying a distinct lack of proper development.</li>
+            <li>{PAWN_nameShortPossessive} rear was a grim sight, thin and lacking, with an anus that barely hinted at its existence.</li>
+            <li>The negligible opening on {PAWN_nameShortPossessive} uninviting backside was a testament to its utter lack of appeal.</li>
+            <li>A withered sight, {PAWN_nameShortPossessive} backside offered nothing of interest, its minuscule anus merely confirming its general insignificance.</li>
+            <li>I regret seeing {PAWN_nameShortPossessive} flat, uninspired butt, accompanied by an anus that was practically sealed. Truly a forgettable sight.</li>
+            <li>{PAWN_nameShortPossessive} buttocks were sadly undefined, the tiny, almost invisible anus adding to the overall lack of charm.</li>
+            <li>Hardly a sight for sore eyes, {PAWN_nameShortPossessive} rear was a depressing vision, with an anus barely big enough for a needle.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that shapeless buttock was profoundly unimpressive. A truly disheartening spectacle.</li>
+            <li>{PAWN_nameShortPossessive} butt was like a flat canvas, offering no contours, and its anus was merely a slight, almost non-existent depression.</li>
+            <li>I grimaced at the sight of {PAWN_nameShortPossessive} unappealing rear, its tiny anus a clear sign of its overall unimpressive nature.</li>
+            <li>The paltry size of {PAWN_nameShortPossessive} anus, almost fused shut, on that featureless backside was a dismal sight.</li>
+            <li>{PAWN_nameShortPossessive} rear was a deflated balloon, utterly devoid of volume, with an anus that appeared permanently closed.</li>
+            <li>I observed {PAWN_nameShortPossessive} meager backside, the miniscule anus a fitting detail for such a plain and uninteresting form.</li>
+            <li>A truly uninspiring posterior, {PAWN_nameShortPossessive} butt was flat, its anus an uninviting, tiny slit.</li>
+            <li>{PAWN_nameShortPossessive} rear offered little to the imagination, its barely visible anus a reflection of its generally poor anatomical development.</li>
+            <li>The almost imperceptible anus on {PAWN_nameShortPossessive} dull, uncurved buttock provided no visual interest whatsoever.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes males butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_Elderly_Male_voyer_opinion_Male</defName>
+        <label>Micro Anus (Negative)_Elderly_Male_voyer_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} flat posterior offered such a microscopic opening, it barely piqued my interest. My own member remained completely unaroused.</li>
+            <li>I peered at {PAWN_nameShortPossessive} backside, so devoid of curves, with an anus so tight and tiny, it was profoundly unstimulating. A complete letdown.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding butt and almost sealed anus left me utterly cold. My old blood hardly stirred.</li>
+            <li>{PAWN_nameShortPossessive} rear was disappointingly flat, with an anus so insignificant it extinguished any flicker of desire. My loins remained quiet.</li>
+            <li>That minuscule orifice on {PAWN_nameShortPossessive} uninviting backside was a frustrating sight. Not a single twitch down there.</li>
+            <li>I observed {PAWN_nameShortPossessive} shapeless butt, and its absurdly small anus just confirmed my lack of enthusiasm. Nothing to get excited about.</li>
+            <li>Such a tiny, unyielding opening on {PAWN_nameShortPossessive} rather plain buttock. It offered absolutely no thrill to my experienced eyes.</li>
+            <li>{PAWN_nameShortPossessive} backside was a barren landscape, with an anus so tight it seemed permanently shut. My urges barely registered.</li>
+            <li>I found {PAWN_nameShortPossessive} flat rear and miniscule anus to be entirely unstimulating. My old bones felt no stir of passion.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unappealing butt and its almost invisible anus left me completely unmoved. A definite disappointment.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat and uninteresting, the tiny anus a visible testament to its anatomical shortcomings. No reaction from me.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} butt, which offered no enticing curves, and its minute anus was simply off-putting. A dull display.</li>
+            <li>That shrunken, almost nonexistent anus on {PAWN_nameShortPossessive} plain rear certainly didn't ignite any fires within me.</li>
+            <li>I felt a profound sense of indifference looking at {PAWN_nameShortPossessive} uninspired backside and its ridiculously small orifice.</li>
+            <li>The utter lack of appeal in {PAWN_nameShortPossessive} flat butt and its minuscule, uninviting anus was quite remarkable. My desire waned instantly.</li>
+            <li>I observed {PAWN_nameShortPossessive} rear, flat and unyielding, its anus a tiny, puckered mark. My own body remained stubbornly inert.</li>
+            <li>Such a small, unwelcoming opening on {PAWN_nameShortPossessive} uninspired posterior. It certainly didn't awaken any of my latent urges.</li>
+            <li>{PAWN_nameShortPossessive} backside had no form or interest, and that infinitesimal anus was hardly worth a second glance. My member lay dormant.</li>
+            <li>I stared at {PAWN_nameShortPossessive} uncurved butt and its barely visible anus, feeling only a sense of profound boredom.</li>
+            <li>The unyielding flatness of {PAWN_nameShortPossessive} rear, coupled with that tiny, almost sealed anus, was utterly unstimulating. No arousal.</li>
+            <li>{PAWN_nameShortPossessive} posterior was as appealing as a forgotten dish, its anus a tiny, insignificant dot. My enthusiasm evaporated.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired buttock and its paltry, shrunken anus left me with absolutely no inclination.</li>
+            <li>I dismissed {PAWN_nameShortPossessive} rear as entirely uninteresting; its tiny, almost hidden anus spoke volumes of its inadequacy.</li>
+            <li>{PAWN_nameShortPossessive} backside was devoid of any sensual contour, and its microscopic anus merely reinforced its utter blandness.</li>
+            <li>A truly uninspiring sight. {PAWN_nameShortPossessive} butt was flat, its anus an uninviting speck. My desire completely flatlined.</li>
+            <li>I found {PAWN_nameShortPossessive} unyielding rear and its virtually sealed anus to be entirely without merit or excitement.</li>
+            <li>{PAWN_nameShortPossessive} posterior was just a flat expanse, its anus a tiny, unappealing indentation. My desires remained unsparked.</li>
+            <li>The lack of any inviting shape in {PAWN_nameShortPossessive} butt, paired with its minuscule anus, was a definite turn-off.</li>
+            <li>My gaze lingered on {PAWN_nameShortPossessive} uninteresting rear, finding nothing but disappointment in its flat form and microscopic anus.</li>
+            <li>I observed {PAWN_nameShortPossessive} unappealing backside, and that tiny, almost invisible anus only solidified my disinterest.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_Elderly_Female_opinion_Male</defName>
+        <label>Micro Anus (Negative)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} backside was surprisingly flat for {PAWN_possessive} age, with an anus so tiny it looked underdeveloped. What a shame.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear; it was rather plain, and that miniscule anus seemed almost vestigial. Not a pleasant sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unformed buttock and its almost invisible anus suggested a certain lack of vitality. Quite unfortunate.</li>
+            <li>{PAWN_nameShortPossessive} posterior was quite unappealing, almost no curve, and the anus was far too small, barely a pinpoint.</li>
+            <li>I noticed {PAWN_nameShortPossessive} flat backside, utterly uninspired, with an anus so tight it looked unused. A disappointing display.</li>
+            <li>Such a meager form to {PAWN_nameShortPossessive} butt, and that tiny, shrunken anus merely highlighted its inadequacy. A pity.</li>
+            <li>{PAWN_nameShortPossessive} rear was devoid of any youthful fullness, and the almost indiscernible anus did nothing to improve it.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, and its small, tight anus struck me as particularly unappealing. Not what one expects.</li>
+            <li>The unyielding flatness of {PAWN_nameShortPossessive} butt, combined with a barely visible anus, made for a rather dismal impression.</li>
+            <li>{PAWN_nameShortPossessive} posterior looked so unformed, and that tiny, uninviting anus was just another flaw in its appearance.</li>
+            <li>A truly uninspiring posterior, {PAWN_nameShortPossessive} butt lacked any sort of definition, and the anus was almost non-existent.</li>
+            <li>I sighed at the sight of {PAWN_nameShortPossessive} flat backside, with a minuscule, almost hidden anus. So much potential, so little form.</li>
+            <li>{PAWN_nameShortPossessive} rear was disappointingly devoid of curves, its tiny anus a mere indentation, almost an oversight.</li>
+            <li>The small, almost sealed anus on {PAWN_nameShortPossessive} unappealing buttock was quite a letdown. No youthful vigor there.</li>
+            <li>I noted the rather plain form of {PAWN_nameShortPossessive} posterior, and the incredibly small anus confirmed my uncharitable opinion.</li>
+            <li>{PAWN_nameShortPossessive} butt was sadly underdeveloped, with an anus that appeared to be almost entirely closed. A truly meager sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired backside, featuring a minuscule, puckered anus, was profoundly unappealing.</li>
+            <li>I winced slightly at {PAWN_nameShortPossessive} flat rear, its tiny, almost invisible anus screaming inadequacy.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered no aesthetic pleasure, its miniscule anus merely adding to its generally plain appearance.</li>
+            <li>What a disappointing rear. {PAWN_nameShortPossessive} butt was shapeless, and the anus was hardly discernible.</li>
+            <li>I found {PAWN_nameShortPossessive} backside unappealingly flat, and that tiny, tight anus seemed almost pathological.</li>
+            <li>{PAWN_nameShortPossessive} buttock looked so lacking in vitality, with an anus that was practically sealed shut. A dull sight.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} rear was one of uninspired flatness, with an anus almost too small to comprehend.</li>
+            <li>I observed {PAWN_nameShortPossessive} uncurved posterior, and the small, recessed anus only emphasized its unappealing form.</li>
+            <li>{PAWN_nameShortPossessive} backside was a testament to anatomical minimalism, its anus a tiny, uninviting speck.</li>
+            <li>A rather tragic sight, {PAWN_nameShortPossessive} butt was flat, its anus almost indistinguishable from the surrounding skin.</li>
+            <li>I noted the sad absence of fullness in {PAWN_nameShortPossessive} rear, further accentuated by its remarkably small and tight anus.</li>
+            <li>{PAWN_nameShortPossessive} posterior was utterly bland, the minuscule anus providing no visual interest whatsoever.</li>
+            <li>The small, tight anus on {PAWN_nameShortPossessive} unappealingly flat buttock was a sight that failed to impress.</li>
+            <li>I found {PAWN_nameShortPossessive} backside remarkably uninspiring, its tiny, barely there anus confirming its overall mediocrity.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male observes males butt and anus, more based on solidarity-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_MaleOpinion_Male</defName>
+        <label>Micro Anus (Negative)_MaleOpinion_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I glanced at {PAWN_nameShortPossessive} butt. It was flat and unyielding, and that tiny, tight anus offered absolutely no thrill.</li>
+            <li>{PAWN_nameShortPossessive} backside was surprisingly unimpressive, and the almost invisible anus confirmed my disappointment. What a waste.</li>
+            <li>Seriously? That minuscule orifice on {PAWN_nameShortPossessive} uncurved rear just killed any interest I had. Nothing impressive about it.</li>
+            <li>His butt was a total letdown, and the tiny, almost sealed anus made it worse. Definitely not enticing.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear. It was dull and flat, with an anus so small it barely registered. Zero appeal.</li>
+            <li>{PAWN_nameShortPossessive} posterior offered no excitement; its tiny, almost nonexistent anus was utterly uninviting.</li>
+            <li>That butt was a disappointment: flat, shapeless, and with an anus so small it made me question everything.</li>
+            <li>{PAWN_nameShortPossessive} backside lacked any curve, and that minuscule, tight anus was a complete turn-off. Unappealing.</li>
+            <li>I checked out {PAWN_nameShortPossessive} rear, and it was just... flat. The tiny anus confirmed my lack of interest.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired butt and its barely visible anus left me feeling completely unaroused.</li>
+            <li>No curves, no allure. {PAWN_nameShortPossessive} butt was a flat line, and that pinprick anus sealed its fate.</li>
+            <li>I can't believe how unappealing {PAWN_nameShortPossessive} rear was, especially with that absurdly small and tight anus.</li>
+            <li>{PAWN_nameShortPossessive} backside was a complete dud. The anus was so small, it might as well not exist.</li>
+            <li>What a bland butt. {PAWN_nameShortPossessive} posterior offered nothing, and its microscopic anus was the final nail in the coffin.</li>
+            <li>I saw {PAWN_nameShortPossessive} rear, and honestly, it was depressing. That tiny, puckered anus was just sad.</li>
+            <li>His butt was flat and unremarkable, the small, almost-closed anus completing a thoroughly uninspiring picture.</li>
+            <li>I really hoped for more. {PAWN_nameShortPossessive} backside was so plain, and the minuscule anus made it worse.</li>
+            <li>That unyielding flatness of {PAWN_nameShortPossessive} butt, coupled with a barely visible anus, made me look away.</li>
+            <li>{PAWN_nameShortPossessive} posterior was utterly unsexy; its tiny, tight anus offered no suggestion of pleasure.</li>
+            <li>I observed {PAWN_nameShortPossessive} rear, and its lack of form, plus that microscopic anus, was a total turn-off.</li>
+            <li>This butt was a true disappointment, completely flat, with an anus so small it was almost offensive.</li>
+            <li>{PAWN_nameShortPossessive} backside was boring, and the miniscule, uninviting anus did nothing to spice it up.</li>
+            <li>I wouldn't touch that. {PAWN_nameShortPossessive} butt was uninspired, and its barely visible anus cemented my disdain.</li>
+            <li>The general lack of appeal in {PAWN_nameShortPossessive} rear, especially that tiny, sealed anus, was a major letdown.</li>
+            <li>{PAWN_nameShortPossessive} posterior was a flat, uninteresting canvas, with an anus so small it was comical.</li>
+            <li>I found {PAWN_nameShortPossessive} backside remarkably unsexy, the minuscule, tight anus offering absolutely no appeal.</li>
+            <li>What a profoundly uninteresting butt. {PAWN_nameShortPossessive} rear was flat, and its anus was barely discernible.</li>
+            <li>{PAWN_nameShortPossessive} posterior was devoid of any enticing contours, and the tiny anus just emphasized its inadequacy.</li>
+            <li>I couldn't help but notice how unappealing {PAWN_nameShortPossessive} butt was, especially with that almost nonexistent anus.</li>
+            <li>The sight of {PAWN_nameShortPossessive} flat, uncurved rear and its microscopic anus left me feeling utterly disappointed.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer male observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Voyeur_Male_to_Male</defName>
+        <label>Micro Anus (Negative) trait Voyeur_Male_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} flat backside, with its microscopic anus, offered no flicker of arousal. My own member remained defiantly limp.</li>
+            <li>I peered at {PAWN_nameShortPossessive} backside, so devoid of curves, with an anus so tight and tiny, it was profoundly unstimulating. A complete letdown.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding butt and almost sealed anus left me utterly cold. My old blood hardly stirred.</li>
+            <li>{PAWN_nameShortPossessive} rear was disappointingly flat, with an anus so insignificant it extinguished any flicker of desire. My loins remained quiet.</li>
+            <li>That minuscule orifice on {PAWN_nameShortPossessive} uninviting backside was a frustrating sight. Not a single twitch down there.</li>
+            <li>I observed {PAWN_nameShortPossessive} shapeless butt, and its absurdly small anus just confirmed my lack of enthusiasm. Nothing to get excited about.</li>
+            <li>Such a tiny, unyielding opening on {PAWN_nameShortPossessive} rather plain buttock. It offered absolutely no thrill to my experienced eyes.</li>
+            <li>{PAWN_nameShortPossessive} backside was a barren landscape, with an anus so tight it seemed permanently shut. My urges barely registered.</li>
+            <li>I found {PAWN_nameShortPossessive} flat rear and miniscule anus to be entirely unstimulating. My old bones felt no stir of passion.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unappealing butt and its almost invisible anus left me completely unmoved. A definite disappointment.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat and uninteresting, the tiny anus a visible testament to its anatomical shortcomings. No reaction from me.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} butt, which offered no enticing curves, and its minute anus was simply off-putting. A dull display.</li>
+            <li>That shrunken, almost nonexistent anus on {PAWN_nameShortPossessive} plain rear certainly didn't ignite any fires within me.</li>
+            <li>I felt a profound sense of indifference looking at {PAWN_nameShortPossessive} uninspired backside and its ridiculously small orifice.</li>
+            <li>The utter lack of appeal in {PAWN_nameShortPossessive} flat butt and its minuscule, uninviting anus was quite remarkable. My desire waned instantly.</li>
+            <li>I observed {PAWN_nameShortPossessive} rear, flat and unyielding, its anus a tiny, puckered mark. My own body remained stubbornly inert.</li>
+            <li>Such a small, unwelcoming opening on {PAWN_nameShortPossessive} uninspired posterior. It certainly didn't awaken any of my latent urges.</li>
+            <li>{PAWN_nameShortPossessive} backside had no form or interest, and that infinitesimal anus was hardly worth a second glance. My member lay dormant.</li>
+            <li>I stared at {PAWN_nameShortPossessive} uncurved butt and its barely visible anus, feeling only a sense of profound boredom.</li>
+            <li>The unyielding flatness of {PAWN_nameShortPossessive} rear, coupled with that tiny, almost sealed anus, was utterly unstimulating. No arousal.</li>
+            <li>{PAWN_nameShortPossessive} posterior was as appealing as a forgotten dish, its anus a tiny, insignificant dot. My enthusiasm evaporated.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired buttock and its paltry, shrunken anus left me with absolutely no inclination.</li>
+            <li>I dismissed {PAWN_nameShortPossessive} rear as entirely uninteresting; its tiny, almost hidden anus spoke volumes of its inadequacy.</li>
+            <li>{PAWN_nameShortPossessive} backside was devoid of any sensual contour, and its microscopic anus merely reinforced its utter blandness.</li>
+            <li>A truly uninspiring sight. {PAWN_nameShortPossessive} butt was flat, its anus an uninviting speck. My desire completely flatlined.</li>
+            <li>I found {PAWN_nameShortPossessive} unyielding rear and its virtually sealed anus to be entirely without merit or excitement.</li>
+            <li>{PAWN_nameShortPossessive} posterior was just a flat expanse, its anus a tiny, unappealing indentation. My desires remained unsparked.</li>
+            <li>The lack of any inviting shape in {PAWN_nameShortPossessive} butt, paired with its minuscule anus, was a definite turn-off.</li>
+            <li>My gaze lingered on {PAWN_nameShortPossessive} uninteresting rear, finding nothing but disappointment in its flat form and microscopic anus.</li>
+            <li>I observed {PAWN_nameShortPossessive} unappealing backside, and that tiny, almost invisible anus only solidified my disinterest.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Voyeur_Female_to_Male</defName>
+        <label>Micro Anus (Negative) trait Voyeur_Female_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} flat backside, with its microscopic anus, offered no flicker of interest. My own body felt nothing in response.</li>
+            <li>I gazed at {PAWN_nameShortPossessive} unyielding butt, and that tiny, tight anus was a complete letdown. No thrill, no desire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninspired rear and its almost invisible anus left me utterly cold. My urges remained dormant.</li>
+            <li>{PAWN_nameShortPossessive} posterior was so devoid of form, and that minuscule anus extinguished any hint of curiosity or arousal.</li>
+            <li>My voyeuristic mind found {PAWN_nameShortPossessive} flat butt and its minuscule, uninviting anus to be an absolute bore. No reaction from me.</li>
+            <li>The depressing sight of {PAWN_nameShortPossessive} rear, with an anus so small it seemed permanently sealed, was profoundly unstimulating.</li>
+            <li>My gaze lingered on {PAWN_nameShortPossessive} unappealing backside, but that tiny, tight anus extinguished any flicker of sensual interest.</li>
+            <li>{PAWN_nameShortPossessive} butt was so plain, so uncurved, and its barely visible anus left me utterly unmoved. What a disappointment.</li>
+            <li>I noted the abysmal lack of curves in {PAWN_nameShortPossessive} rear; that minuscule, puckered anus offered no perverse pleasure. My own desires were untouched.</li>
+            <li>The uninspiring flatness of {PAWN_nameShortPossessive} posterior, coupled with an almost nonexistent anus, was a total turn-off.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, finding it entirely unstimulating. The tiny, tight anus was completely unappealing to my urges.</li>
+            <li>{PAWN_nameShortPossessive} butt was a blank slate, offering no curves, and its microscopic anus provided no sexual interest whatsoever.</li>
+            <li>What a wasted opportunity. {PAWN_nameShortPossessive} rear was flat, and its minuscule anus confirmed its utter blandness, leaving me cold.</li>
+            <li>My perverted spirit recoiled from {PAWN_nameShortPossessive} unappealing posterior and its almost invisible, uninviting anus. My own body felt nothing.</li>
+            <li>The negligible size of {PAWN_nameShortPossessive} anus on that uninspiring backside left me feeling completely unaroused.</li>
+            <li>I found {PAWN_nameShortPossessive} butt completely uninteresting, its tiny, tight anus offering no aesthetic or sensual appeal for me.</li>
+            <li>{PAWN_nameShortPossessive} rear was flat and devoid of character, and the minuscule anus was a fitting detail for such a drab display, dampening my spirits.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved posterior and its barely visible anus was profoundly disappointing for a woman like me. My enthusiasm died.</li>
+            <li>I looked, and found nothing. {PAWN_nameShortPossessive} backside was dull, and its microscopic anus seemed utterly inconsequential. My desires faded.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat expanse, offering no visual depth, and its tiny anus was simply uninspiring. No reaction.</li>
+            <li>My keen eyes found no pleasure in {PAWN_nameShortPossessive} unappealing rear, especially that pathetic, almost-sealed anus. My arousal was nonexistent.</li>
+            <li>The utter lack of detail in {PAWN_nameShortPossessive} posterior, with its minuscule, uninviting anus, was a true letdown for my desires.</li>
+            <li>I observed {PAWN_nameShortPossessive} backside, feeling only disdain for its unyielding flatness and practically non-existent anus. My own body felt nothing.</li>
+            <li>{PAWN_nameShortPossessive} butt was a profound disappointment, its tiny anus merely a dimple in an otherwise shapeless form. My perverted thoughts ceased.</li>
+            <li>What a missed opportunity. {PAWN_nameShortPossessive} rear was flat, and its microscopic, puckered anus killed any perverted impulse.</li>
+            <li>My expert eye found {PAWN_nameShortPossessive} uninspired posterior and its almost invisible anus to be utterly mundane, and my desire went with it.</li>
+            <li>I could hardly believe the insignificance of {PAWN_nameShortPossessive} anus on that featureless backside. Truly a dull sight that kept my loins quiet.</li>
+            <li>{PAWN_nameShortPossessive} butt was a tragic example of anatomical blandness, its tiny anus simply confirming its unappealing nature. My sexual interest evaporated.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uninviting rear and its ridiculously small, tight anus left me completely cold. My femininity felt insulted.</li>
+            <li>My voyeuristic curiosity was completely extinguished by {PAWN_nameShortPossessive} flat butt and its minuscule, uninteresting anus. Nothing to see here.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Male Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Nymphomaniac_male_to_male</defName>
+        <label>Micro Anus (Negative) trait Nymphomaniac_male_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+				
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My male desires found no purchase in {PAWN_nameShortPossessive} flat, unyielding butt and its microscopic anus. My cock remained frustratingly soft.</li>
+            <li>I craved satisfaction, but {PAWN_nameShortPossessive} rear offered nothing. That tiny, tight anus was a profound disappointment. My member refused to stir.</li>
+            <li>My nymphomania raged, yet {PAWN_nameShortPossessive} shapeless backside and its almost invisible anus left me completely cold. My arousal never came.</li>
+            <li>{PAWN_nameShortPossessive} posterior's tiny anus was an insult to my urges. What is there for a man like me to even indulge in with such a sight?</li>
+            <li>I was desperate, but {PAWN_nameShortPossessive} flat butt and its barely-there anus were so unappealing, it killed any erotic impulse. My cock remained dormant.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding rear, coupled with an anus so small it seemed permanently sealed, was a gross sexual letdown. My groin felt dead.</li>
+            <li>My nymphomaniacal spirit withered upon witnessing {PAWN_nameShortPossessive} uncurved backside and its minuscule, uninviting anus. My male drive evaporated.</li>
+            <li>I hungered for stimulation, only to observe {PAWN_nameShortPossessive} dull butt, its microscopic anus a testament to its utter lack of allure. My desire shriveled.</li>
+            <li>How can I find release when {PAWN_nameShortPossessive} rear is so unimpressive, with an anus that’s practically a pinprick? My erection was impossible.</li>
+            <li>My lust felt worthless when I saw {PAWN_nameShortPossessive} unappealing posterior and its almost nonexistent anus. My cock felt nothing.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat canvas, offering no curves, and its tiny anus made my sexual urges vanish. My male parts were uninterested.</li>
+            <li>I desperately sought pleasure, only to be met with {PAWN_nameShortPossessive} bland backside and its pathetic, shrunken anus. What a letdown for my masculinity.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that uninspired rear was truly insulting to my nymphomaniac urges. My passion died immediately.</li>
+            <li>My bold desire felt diminished by the sight of {PAWN_nameShortPossessive} shapeless butt and its minuscule, uninviting orifice. My cock remained stubbornly flaccid.</li>
+            <li>I wanted to indulge, but {PAWN_nameShortPossessive} flat posterior and its almost invisible anus simply left me cold and unfulfilled. No male reaction.</li>
+            <li>{PAWN_nameShortPossessive} rear was so plain, its tiny, tight anus seemed designed to discourage any form of intimacy. It killed my male sexual drive.</li>
+            <li>My passion felt foolish when confronted with {PAWN_nameShortPossessive} unappealing backside, its minuscule anus a symbol of its utter mediocrity. My erection was a distant memory.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved buttock and its barely discernible anus made my nymphomaniacal urges feel utterly pointless. My balls felt empty.</li>
+            <li>I sought satisfaction, only to see {PAWN_nameShortPossessive} dull rear, with a microscopic anus that offered no sexual stimulation whatsoever. My cock felt small.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat, uninteresting, and its absurdly small anus made my desire vanish. My male parts were thoroughly unimpressed.</li>
+            <li>My intense cravings lost their fervor when I saw {PAWN_nameShortPossessive} uninspired butt and its paltry, shrunken anus. My drive was completely gone.</li>
+            <li>How can I find gratification when {PAWN_nameShortPossessive} backside is so devoid of charm, and its anus so insignificant? My male essence felt challenged.</li>
+            <li>I presented myself, only to be disappointed by {PAWN_nameShortPossessive} flat rear and its almost non-existent anus. No pleasure found, no male reaction.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} posterior, combined with that tiny, tight anus, was truly a buzzkill for my nymphomania. My erection vanished.</li>
+            <li>My sexual drive was extinguished by the sight of {PAWN_nameShortPossessive} unappealing butt and its minuscule, uninviting anus. My cock felt dead.</li>
+            <li>{PAWN_nameShortPossessive} rear was a flat landscape, its anus a mere speck, making my efforts to find pleasure utterly fruitless. My male pride was hurt.</li>
+            <li>I revealed myself, only to find {PAWN_nameShortPossessive} backside so uninspired, with an anus that barely existed. What a waste of anticipation for a man.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} butt, and its almost invisible anus, made my desire for satisfaction falter. My male spirit felt crushed.</li>
+            <li>My craving was met with the dismal reality of {PAWN_nameShortPossessive} flat posterior and its pathetic, shrunken anus. My member remained unimpressed.</li>
+            <li>I longed for indulgence, but {PAWN_nameShortPossessive} unappealing rear and its minuscule anus were so unmemorable, it was soul-crushing for my male desires.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Micro_trait_Nymphomaniac_Female_to_male</defName>
+        <label>Micro Anus (Negative) trait Nymphomaniac_Female_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My female desires found no purchase in {PAWN_nameShortPossessive} flat, unyielding butt and its microscopic anus. My core remained frustratingly unresponsive.</li>
+            <li>I craved satisfaction, but {PAWN_nameShortPossessive} rear offered nothing. That tiny, tight anus was a profound disappointment. My vulva felt nothing.</li>
+            <li>My nymphomania raged, yet {PAWN_nameShortPossessive} shapeless backside and its almost invisible anus left me completely cold. My arousal never came.</li>
+            <li>{PAWN_nameShortPossessive} posterior's tiny anus was an insult to my urges. What is there for a woman like me to even indulge in with such a sight?</li>
+            <li>I was desperate, but {PAWN_nameShortPossessive} flat butt and its barely-there anus were so unappealing, it killed any erotic impulse. My clitoris remained dormant.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding rear, coupled with an anus so small it seemed permanently sealed, was a gross sexual letdown. My inner warmth vanished.</li>
+            <li>My nymphomaniacal spirit withered upon witnessing {PAWN_nameShortPossessive} uncurved backside and its minuscule, uninviting anus. My female drive evaporated.</li>
+            <li>I hungered for stimulation, only to observe {PAWN_nameShortPossessive} dull butt, its microscopic anus a testament to its utter lack of allure. My desire shriveled.</li>
+            <li>How can I find release when {PAWN_nameShortPossessive} rear is so unimpressive, with an anus that’s practically a pinprick? My desire was impossible.</li>
+            <li>My lust felt worthless when I saw {PAWN_nameShortPossessive} unappealing posterior and its almost nonexistent anus. My own body felt nothing.</li>
+            <li>{PAWN_nameShortPossessive} butt was a flat canvas, offering no curves, and its tiny anus made my sexual urges vanish. My feminine parts were uninterested.</li>
+            <li>I desperately sought pleasure, only to be met with {PAWN_nameShortPossessive} bland backside and its pathetic, shrunken anus. What a letdown for my femininity.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} anus on that uninspired rear was truly insulting to my nymphomaniac urges. My passion died immediately.</li>
+            <li>My bold desire felt diminished by the sight of {PAWN_nameShortPossessive} shapeless butt and its minuscule, uninviting orifice. My own feminine core felt stubbornly unresponsive.</li>
+            <li>I wanted to indulge, but {PAWN_nameShortPossessive} flat posterior and its almost invisible anus simply left me cold and unfulfilled. No female reaction.</li>
+            <li>{PAWN_nameShortPossessive} rear was so plain, its tiny, tight anus seemed designed to discourage any form of intimacy. It killed my female sexual drive.</li>
+            <li>My passion felt foolish when confronted with {PAWN_nameShortPossessive} unappealing backside, its minuscule anus a symbol of its utter mediocrity. My arousal was a distant memory.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved buttock and its barely discernible anus made my nymphomaniacal urges feel utterly pointless. My inner goddess wept.</li>
+            <li>I sought satisfaction, only to see {PAWN_nameShortPossessive} dull rear, with a microscopic anus that offered no sexual stimulation whatsoever. My own desires felt small.</li>
+            <li>{PAWN_nameShortPossessive} posterior was flat, uninteresting, and its absurdly small anus made my desire vanish. My feminine parts were thoroughly unimpressed.</li>
+            <li>My intense cravings lost their fervor when I saw {PAWN_nameShortPossessive} uninspired butt and its paltry, shrunken anus. My drive was completely gone.</li>
+            <li>How can I find gratification when {PAWN_nameShortPossessive} backside is so devoid of charm, and its anus so insignificant? My feminine essence felt challenged.</li>
+            <li>I presented myself, only to be disappointed by {PAWN_nameShortPossessive} flat rear and its almost non-existent anus. No pleasure found, no female reaction.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} posterior, combined with that tiny, tight anus, was truly a buzzkill for my nymphomania. My arousal vanished.</li>
+            <li>My sexual drive was extinguished by the sight of {PAWN_nameShortPossessive} unappealing butt and its minuscule, uninviting anus. My core felt dead.</li>
+            <li>{PAWN_nameShortPossessive} rear was a flat landscape, its anus a mere speck, making my efforts to find pleasure utterly fruitless. My feminine pride was hurt.</li>
+            <li>I revealed myself, only to find {PAWN_nameShortPossessive} backside so uninspired, with an anus that barely existed. What a waste of anticipation for a woman.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} butt, and its almost invisible anus, made my desire for satisfaction falter. My feminine spirit felt crushed.</li>
+            <li>My craving was met with the dismal reality of {PAWN_nameShortPossessive} flat posterior and its pathetic, shrunken anus. My inner self remained unimpressed.</li>
+            <li>I longed for indulgence, but {PAWN_nameShortPossessive} unappealing rear and its minuscule anus were so unmemorable, it was soul-crushing for my female desires.</li>
+        </opinionTexts>
+</Def>
+	
+
+<!--  description for unisex with Demon butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Negative_Micro_DemonAnus</defName>
+        <label>Micro Anus (Negative) DemonAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Despite its demonic origin, {PAWN_nameShortPossessive} butt was disappointingly flat, and the minuscule, almost invisible anus lacked any true infernal character.</li>
+            <li>I expected menacing, yet {PAWN_nameShortPossessive} demonic rear was so unyielding, its tiny anus a pathetic attempt at a dark orifice.</li>
+            <li>Even for a demon, {PAWN_nameShortPossessive} shapeless backside and that almost invisible, pathetic anus were profoundly uninspiring. A true disgrace.</li>
+            <li>{PAWN_nameShortPossessive} demonic posterior's tiny anus was an affront to hell itself. It’s revoltingly insignificant.</li>
+            <li>That flat, demonic butt and its barely-there anus on {PAWN_nameShortPossessive} were utterly devoid of any infernal glory. Truly a weak demon.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding demonic rear, coupled with an anus so small it seemed permanently sealed, was a gross disappointment.</li>
+            <li>I am appalled by {PAWN_nameShortPossessive} uncurved demonic backside and its minuscule, uninviting anus. It lacks any true malevolence.</li>
+            <li>How dare {PAWN_nameShort} present such a dull demonic butt, with its microscopic anus. It’s a pathetic display of demonic form.</li>
+            <li>It’s utterly unimpressive, even for a creature of the abyss. {PAWN_nameShortPossessive} demonic rear is a disgrace, its anus practically a pinprick.</li>
+            <li>I am offended by {PAWN_nameShortPossessive} unappealing demonic posterior and its almost nonexistent anus. It's utterly pathetic.</li>
+            <li>{PAWN_nameShortPossessive} demonic butt was a flat canvas, offering no terrifying features, and its tiny anus made it even more abhorrent.</li>
+            <li>I am repulsed by {PAWN_nameShortPossessive} bland demonic backside and its pathetic, shrunken anus. It's an insult to evil.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} demonic anus on that uninspired rear was truly disgusting. I expected more torment.</li>
+            <li>It's disgraceful. {PAWN_nameShortPossessive} shapeless demonic butt and its minuscule, uninviting orifice are a complete affront to darkness.</li>
+            <li>I wanted to be tormented, but {PAWN_nameShortPossessive} flat demonic posterior and its almost invisible anus simply left me unfulfilled.</li>
+            <li>{PAWN_nameShortPossessive} demonic rear was so plain, its tiny, tight anus seemed intentionally designed to be unthreatening.</li>
+            <li>I am utterly disgusted by {PAWN_nameShortPossessive} unappealing demonic backside, its minuscule anus a symbol of its utter mediocrity and weakness.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved demonic buttock and its barely discernible anus is an affront to my dark sensibilities.</li>
+            <li>How dare {PAWN_nameShort} reveal such a dull demonic rear, with a microscopic anus. It's repulsive and impotent.</li>
+            <li>{PAWN_nameShortPossessive} demonic posterior is flat, uninteresting, and its absurdly small anus is a truly sickening sight.</li>
+            <li>I am revolted by {PAWN_nameShortPossessive} uninspired demonic butt and its paltry, shrunken anus. It's truly a bore.</li>
+            <li>How can anyone tolerate {PAWN_nameShortPossessive} demonic backside so devoid of charm, and its anus so insignificant? It’s a weak demon.</li>
+            <li>I am disgusted by {PAWN_nameShortPossessive} flat demonic rear and its almost non-existent anus. It's an unholy disappointment.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} demonic posterior, combined with that tiny, tight anus, was truly repugnant.</li>
+            <li>I am repelled by {PAWN_nameShortPossessive} unappealing demonic butt and its minuscule, uninviting anus. It's a vile, weak sight.</li>
+            <li>{PAWN_nameShortPossessive} demonic rear was a flat landscape, its anus a mere speck, completely devoid of any true evil.</li>
+            <li>I can barely stand to look at {PAWN_nameShortPossessive} demonic backside; it's so uninspired, with an anus that barely existed. Abhorrently weak.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} demonic butt, and its almost invisible anus, are simply disgusting for a demon.</li>
+            <li>I am utterly horrified by {PAWN_nameShortPossessive} flat demonic posterior and its pathetic, shrunken anus. It’s an unforgivable offense to darkness.</li>
+            <li>I longed for true horror, but {PAWN_nameShortPossessive} unappealing demonic rear and its minuscule anus were so unmemorable, they were offensive.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with slime butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Negative_Micro_SlimeAnus</defName>
+        <label>Micro Anus (Negative) SlimeAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} slime butt was surprisingly indistinct, and the minuscule, almost invisible anus lacked any proper slithery texture.</li>
+            <li>I expected something… slimy. Yet {PAWN_nameShortPossessive} slime rear was so unyielding, its tiny anus a pathetic attempt at a fluid orifice.</li>
+            <li>Even for slime, {PAWN_nameShortPossessive} shapeless backside and that almost invisible, pathetic anus were profoundly uninspiring. A true disappointment.</li>
+            <li>{PAWN_nameShortPossessive} slime posterior's tiny anus was an affront to all things viscous. It’s revoltingly insignificant.</li>
+            <li>That flat, slimy butt and its barely-there anus on {PAWN_nameShortPossessive} were utterly devoid of any proper ooze. Truly a weak slime.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding slime rear, coupled with an anus so small it seemed permanently sealed, was a gross disappointment.</li>
+            <li>I am appalled by {PAWN_nameShortPossessive} uncurved slime backside and its minuscule, uninviting anus. It lacks any true fluidity.</li>
+            <li>How dare {PAWN_nameShort} present such a dull slime butt, with its microscopic anus. It’s a pathetic display of viscous form.</li>
+            <li>It’s utterly unimpressive, even for a creature of ooze. {PAWN_nameShortPossessive} slime rear is a disgrace, its anus practically a pinprick.</li>
+            <li>I am offended by {PAWN_nameShortPossessive} unappealing slime posterior and its almost nonexistent anus. It's utterly pathetic.</li>
+            <li>{PAWN_nameShortPossessive} slime butt was a flat canvas, offering no amorphous features, and its tiny anus made it even more abhorrent.</li>
+            <li>I am repulsed by {PAWN_nameShortPossessive} bland slime backside and its pathetic, shrunken anus. It's an insult to all things gooey.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} slime anus on that uninspired rear was truly disgusting. I expected more squish.</li>
+            <li>It's disgraceful. {PAWN_nameShortPossessive} shapeless slime butt and its minuscule, uninviting orifice are a complete affront to fluidity.</li>
+            <li>I wanted more fluidity, but {PAWN_nameShortPossessive} flat slime posterior and its almost invisible anus simply left me unfulfilled.</li>
+            <li>{PAWN_nameShortPossessive} slime rear was so plain, its tiny, tight anus seemed intentionally designed to be uninteresting.</li>
+            <li>I am utterly disgusted by {PAWN_nameShortPossessive} unappealing slime backside, its minuscule anus a symbol of its utter mediocrity and weakness.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved slime buttock and its barely discernible anus is an affront to my aesthetic.</li>
+            <li>How dare {PAWN_nameShort} reveal such a dull slime rear, with a microscopic anus. It's repulsive and lacks proper slime attributes.</li>
+            <li>{PAWN_nameShortPossessive} slime posterior is flat, uninteresting, and its absurdly small anus is a truly sickening sight.</li>
+            <li>I am revolted by {PAWN_nameShortPossessive} uninspired slime butt and its paltry, shrunken anus. It's truly a bore.</li>
+            <li>How can anyone tolerate {PAWN_nameShortPossessive} slime backside so devoid of charm, and its anus so insignificant? It’s a weak slime.</li>
+            <li>I am disgusted by {PAWN_nameShortPossessive} flat slime rear and its almost non-existent anus. It's a slimy disappointment.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} slime posterior, combined with that tiny, tight anus, was truly repugnant.</li>
+            <li>I am repelled by {PAWN_nameShortPossessive} unappealing slime butt and its minuscule, uninviting anus. It's a vile, weak sight.</li>
+            <li>{PAWN_nameShortPossessive} slime rear was a flat landscape, its anus a mere speck, completely devoid of any true viscous quality.</li>
+            <li>I can barely stand to look at {PAWN_nameShortPossessive} slime backside; it's so uninspired, with an anus that barely existed. Abhorrently weak.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} slime butt, and its almost invisible anus, are simply disgusting for a slime creature.</li>
+            <li>I am utterly horrified by {PAWN_nameShortPossessive} flat slime posterior and its pathetic, shrunken anus. It’s an unforgivable offense to slime.</li>
+            <li>I longed for true ooze, but {PAWN_nameShortPossessive} unappealing slime rear and its minuscule anus were so unmemorable, they were offensive.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with insect butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Negative_Micro_InsectAnus</defName>
+        <label>Micro Anus (Negative) InsectAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>InsectAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} insect butt was strangely indistinct, and the minuscule, almost invisible anus lacked any proper segmented character.</li>
+            <li>I expected something chitinous, yet {PAWN_nameShortPossessive} insect rear was so unyielding, its tiny anus a pathetic attempt at an arthropod orifice.</li>
+            <li>Even for an insectoid, {PAWN_nameShortPossessive} shapeless backside and that almost invisible, pathetic anus were profoundly uninspiring. A true disappointment.</li>
+            <li>{PAWN_nameShortPossessive} insect posterior's tiny anus was an affront to all things creepy-crawly. It’s revoltingly insignificant.</li>
+            <li>That flat, insectoid butt and its barely-there anus on {PAWN_nameShortPossessive} were utterly devoid of any proper carapaced form. Truly a weak insect.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unyielding insect rear, coupled with an anus so small it seemed permanently sealed, was a gross disappointment.</li>
+            <li>I am appalled by {PAWN_nameShortPossessive} uncurved insect backside and its minuscule, uninviting anus. It lacks any true insectile quality.</li>
+            <li>How dare {PAWN_nameShort} present such a dull insect butt, with its microscopic anus. It’s a pathetic display of arthropod form.</li>
+            <li>It’s utterly unimpressive, even for a creature of the hive. {PAWN_nameShortPossessive} insect rear is a disgrace, its anus practically a pinprick.</li>
+            <li>I am offended by {PAWN_nameShortPossessive} unappealing insect posterior and its almost nonexistent anus. It's utterly pathetic.</li>
+            <li>{PAWN_nameShortPossessive} insect butt was a flat canvas, offering no exoskeletal features, and its tiny anus made it even more abhorrent.</li>
+            <li>I am repulsed by {PAWN_nameShortPossessive} bland insect backside and its pathetic, shrunken anus. It's an insult to all things scuttling.</li>
+            <li>The insignificance of {PAWN_nameShortPossessive} insect anus on that uninspired rear was truly disgusting. I expected more segments.</li>
+            <li>It's disgraceful. {PAWN_nameShortPossessive} shapeless insect butt and its minuscule, uninviting orifice are a complete affront to insect anatomy.</li>
+            <li>I wanted more segments, but {PAWN_nameShortPossessive} flat insect posterior and its almost invisible anus simply left me unfulfilled.</li>
+            <li>{PAWN_nameShortPossessive} insect rear was so plain, its tiny, tight anus seemed intentionally designed to be uninteresting.</li>
+            <li>I am utterly disgusted by {PAWN_nameShortPossessive} unappealing insect backside, its minuscule anus a symbol of its utter mediocrity and weakness.</li>
+            <li>The sight of {PAWN_nameShortPossessive} uncurved insect buttock and its barely discernible anus is an affront to my aesthetic.</li>
+            <li>How dare {PAWN_nameShort} reveal such a dull insect rear, with a microscopic anus. It's repulsive and lacks proper insect attributes.</li>
+            <li>{PAWN_nameShortPossessive} insect posterior is flat, uninteresting, and its absurdly small anus is a truly sickening sight.</li>
+            <li>I am revolted by {PAWN_nameShortPossessive} uninspired insect butt and its paltry, shrunken anus. It's truly a bore.</li>
+            <li>How can anyone tolerate {PAWN_nameShortPossessive} insect backside so devoid of charm, and its anus so insignificant? It’s a weak insect.</li>
+            <li>I am disgusted by {PAWN_nameShortPossessive} flat insect rear and its almost non-existent anus. It's an insectoid disappointment.</li>
+            <li>The utter blandness of {PAWN_nameShortPossessive} insect posterior, combined with that tiny, tight anus, was truly repugnant.</li>
+            <li>I am repelled by {PAWN_nameShortPossessive} unappealing insect butt and its minuscule, uninviting anus. It's a vile, weak sight.</li>
+            <li>{PAWN_nameShortPossessive} insect rear was a flat landscape, its anus a mere speck, completely devoid of any true insectile quality.</li>
+            <li>I can barely stand to look at {PAWN_nameShortPossessive} insect backside; it's so uninspired, with an anus that barely existed. Abhorrently weak.</li>
+            <li>The unimpressive form of {PAWN_nameShortPossessive} insect butt, and its almost invisible anus, are simply disgusting for an insect creature.</li>
+            <li>I am utterly horrified by {PAWN_nameShortPossessive} flat insect posterior and its pathetic, shrunken anus. It’s an unforgivable offense to insect-kind.</li>
+            <li>I longed for true segmented horror, but {PAWN_nameShortPossessive} unappealing insect rear and its minuscule anus were so unmemorable, they were offensive.</li>
+        </opinionTexts>
+</Def>
+</Defs>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWasSeen_taking_Bath_naked_Unisex_PositiveDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iWasSeen_taking_Bath_naked_Unisex_Positive</defName>
+        <label>iWasSeen_taking_Bath_naked_Unisex_(Positive)</label>
+        <opinionCategory>Positive</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                
+				<requiredInteractionType>Bath</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>{OBSERVER_nameShort} saw me in the bathtub. I rose slightly out of the water so {OBSERVER_pronoun} could look at my horny body.</li>
+			<li>{OBSERVER_nameShort} watched me lie in the bathtub. I put my feet on the sides and lifted myself up so that {OBSERVER_pronoun} could see my private parts completely.</li>
+			<li>{OBSERVER_nameShort} saw me in the bathtub. I began stroking my lusty body, beckoning {OBSERVER_possessive} to join.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWasSeen_taking_Bath_naked_Unisex_NeutralDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iWasSeen_taking_Bath_naked_Unisex_Neutral</defName>
+        <label>iWasSeen_taking_Bath_naked_Unisex_(Neutral)</label>
+        <opinionCategory>Neutral</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                
+				<requiredInteractionType>Bath</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>When I was seen by {OBSERVER_nameShort} taking a bath naked, I didn’t feel much; it was just part of my routine.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+	
+	
+	<NudityMattersMore_opinions.OpinionDef_Situational Name="iWasSeen_taking_Bath_naked_Unisex_NegativeDef" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>iWasSeen_taking_Bath_naked_Unisex_Negative</defName>
+        <label>iWasSeen_taking_Bath_naked_Unisex_(Negative)</label>
+        <opinionCategory>Negative</opinionCategory>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension_Situational">
+                <perspective>UsedForObserved</perspective>
+                
+				<requiredInteractionType>Bath</requiredInteractionType>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>{OBSERVER_nameShort} saw me in the bathtub. I felt ashamed as I saw {OBSERVER_possessive} gaze sliding over my crotch.</li>
+			<li>{OBSERVER_nameShort} watched me lie in the bathtub. I sank under the water, huddling into a ball, just so that {OBSERVER_pronoun} would stop devouring me with {OBSERVER_possessive} eyes.</li>
+        </opinionTexts>
+    </NudityMattersMore_opinions.OpinionDef_Situational>
+
+
+
+	
+</Defs>

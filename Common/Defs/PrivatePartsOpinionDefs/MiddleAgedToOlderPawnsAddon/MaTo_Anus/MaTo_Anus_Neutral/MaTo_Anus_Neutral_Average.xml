@@ -1,0 +1,1978 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale</defName>
+        <label>Average Anus (Neutral)_MatureFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The curves of {PAWN_nameShortPossessive} posterior are modest, displaying a common form with decent visibility.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} derriere, neither striking nor unappealing. Its contours are typical.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses a conventional shape, with the rear opening appearing neither prominent nor entirely concealed.</li>
+            <li>It's a rather standard posterior, nothing particularly noteworthy about {PAWN_nameShortPossessive} curves or visible rear.</li>
+            <li>The posterior of {PAWN_nameShort} is of average size, with a crease that hints at an ordinary form.</li>
+            <li>{PAWN_nameShortPossessive} backside presents a familiar silhouette; the rear orifice is neither too obvious nor too hidden.</li>
+            <li>Just an ordinary rear. The visible part of the opening is average, suggesting no unique characteristics.</li>
+            <li>A customary posterior, the form of which seems to be neither exaggerated nor especially tight.</li>
+            <li>The shape of {PAWN_nameShortPossessive} backside is quite ordinary. It doesn't stand out in any way.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view, consistent with typical anatomy. Nothing remarkable to observe.</li>
+            <li>A fleeting observation of {PAWN_nameShortPossessive} average-sized rear. It's simply there, a common sight.</li>
+            <li>The curve of {PAWN_nameShortPossessive} rear suggests a standard form, with the opening neither overly pronounced nor discreet.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a common sight, its anatomical features are quite unexceptional, just a normal look.</li>
+            <li>Its contours are typical, neither firm nor lax. The visible aspect of the rear opening is unremarkable.</li>
+            <li>An ordinary posterior with an average visible rear opening, indicating a common presentation.</li>
+            <li>The form of {PAWN_nameShortPossessive} backside aligns with common expectations, a rather unassuming sight.</li>
+            <li>It's a typical posterior; the visibility of the inner part appears standard, without any notable features.</li>
+            <li>The posterior of {PAWN_nameShort} is plainly average, offering no surprises in its shape or the slight glimpse of its opening.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, one finds it to be of a very common build. The general impression is neutral.</li>
+            <li>A standard butt with a typical rear opening, presenting a generally unremarkable anatomical view.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale_observed_by_voyer</defName>
+        <label>Average Anus (Neutral)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A subtle exposure of {PAWN_nameShortPossessive} average posterior, presenting a brief, unexceptional view.</li>
+            <li>The glimpse of {PAWN_nameShortPossessive} derriere reveals a common form, neither concealed nor overtly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a sudden, unremarkable sight. Its contours are typical, just an average view.</li>
+            <li>A chance observation of {PAWN_nameShortPossessive} backside, its visible rear is ordinary, yet still noted.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, a mundane view, yet it was observed, its average form unmissable.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} butt. It's average, but the suddenness made it more apparent.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is quite normal, but the unexpected view catches my attention.</li>
+            <li>{PAWN_nameShortPossessive} backside came into view. Its typical shape and moderate visibility were duly noted.</li>
+            <li>The observation of {PAWN_nameShortPossessive} posterior was brief; it's an average form, nothing particularly striking.</li>
+            <li>A sudden sight of {PAWN_nameShortPossessive} ordinary backside. Its form is common, yet my eyes linger for a moment.</li>
+            <li>{PAWN_nameShortPossessive} rear was suddenly visible. An average curve, but the unexpectedness is somewhat intriguing.</li>
+            <li>The unexpected revealing of {PAWN_nameShortPossessive} posterior. It's common, but the circumstances heighten awareness.</li>
+            <li>A moment of exposed average posterior from {PAWN_nameShort}. The form is standard, but the forbidden sight is alluring.</li>
+            <li>The sudden appearance of {PAWN_nameShortPossessive} posterior, a common form, yet the illicit nature of the view adds interest.</li>
+            <li>{PAWN_nameShortPossessive} backside, briefly seen. Its average shape is less important than the act of observing itself.</li>
+            <li>A fleeting sight of {PAWN_nameShortPossessive} typical rear. The quick glimpse is surprisingly satisfying despite its normalcy.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is quite ordinary, but the act of seeing it discreetly is captivating.</li>
+            <li>{PAWN_nameShortPossessive} butt became visible. It's an average form, but the private observation is more engaging.</li>
+            <li>An unexpected view of {PAWN_nameShortPossessive} common posterior. The slight visibility of its opening is noted.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} average backside, a common feature, but the act of noticing it is what matters.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Average Anus (Neutral)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while average, feels somewhat validated by my presence. A common shape, openly displayed.</li>
+            <li>The typical curves of {PAWN_nameShort} are on display. It’s an average sight, but the shared exposure is appealing.</li>
+            <li>Observing {PAWN_nameShortPossessive} ordinary backside makes me feel more comfortable with my own display. It's just normal.</li>
+            <li>{PAWN_nameShortPossessive} posterior is a standard form. Seeing it confirms the universality of such sights, encouraging my own freedom.</li>
+            <li>The average visibility of {PAWN_nameShortPossessive} rear opening is plain to see. This open display is comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside, average in every way, is now openly presented. This commonality makes my own exhibition feel less extreme.</li>
+            <li>A rather normal posterior. Its exposed state makes me feel a certain kinship, validating the urge to reveal.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} derriere, now visible, seems to implicitly invite further displays.</li>
+            <li>{PAWN_nameShortPossessive} rear is openly presented. This average sight contributes to a general sense of acceptance for nudity.</li>
+            <li>Observing {PAWN_nameShortPossessive} ordinary butt reinforces my desire to expose myself. It’s just how it is.</li>
+            <li>{PAWN_nameShortPossessive} posterior is revealed. Its unremarkable nature makes the act of observation feel natural and uninhibited.</li>
+            <li>The exposed backside of {PAWN_nameShort} is quite average. This openness is a sign of freedom, which I appreciate.</li>
+            <li>A typical posterior, now out in the open. Such displays make me feel less alone in my desires.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It’s a common sight that makes me want to show more of myself.</li>
+            <li>{PAWN_nameShortPossessive} exposed posterior, a normal sight. This encourages my own open expression.</li>
+            <li>The sheer normalcy of {PAWN_nameShortPossessive} exposed butt makes me feel more at ease in my own skin.</li>
+            <li>An average backside, revealed. This shared experience of exposure is what I live for.</li>
+            <li>{PAWN_nameShortPossessive} posterior is out in the open, and its plainness is strangely liberating.</li>
+            <li>The casual display of {PAWN_nameShortPossessive} common rear confirms that nudity can be just another part of life.</li>
+            <li>{PAWN_nameShortPossessive} butt is visible, a standard form. This shared vulnerability makes me want to shed my own clothes.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Average Anus (Neutral)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A mundane posterior, yet the sight of {PAWN_nameShortPossessive} exposed backside still sparks a fleeting interest.</li>
+            <li>{PAWN_nameShortPossessive} average rear is visible. While not exceptional, it's a reminder of ever-present possibilities.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} posterior. It's a normal sight, but even normalcy hints at desire.</li>
+            <li>{PAWN_nameShortPossessive} exposed butt is nothing special, yet the basic anatomy holds a fundamental appeal.</li>
+            <li>A brief glimpse of {PAWN_nameShortPossessive} average rear opening. My mind drifts to more intimate scenarios.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical, still conjures thoughts of deeper connections.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, even if average, stirs a subtle undercurrent of longing.</li>
+            <li>An ordinary rear. The mere presence of such a form suggests a potential for pleasure.</li>
+            <li>{PAWN_nameShortPossessive} exposed posterior, a standard shape. It's enough to ignite a familiar internal warmth.</li>
+            <li>Observing {PAWN_nameShortPossessive} average backside, my thoughts immediately turn to carnal desires.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible. Its common form doesn't diminish the sensual possibilities it represents.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is unexceptional, yet my urges awaken regardless.</li>
+            <li>A typical posterior, seen briefly. The anatomical reality fuels a general sense of arousal.</li>
+            <li>The sight of {PAWN_nameShortPossessive} common rear opening, it's enough to trigger a familiar yearning.</li>
+            <li>{PAWN_nameShortPossessive} average backside is presented. My focus quickly shifts to what lies beyond the visual.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} posterior, a simple, ordinary sight, yet my body responds with a subtle thrum.</li>
+            <li>Even an average butt like {PAWN_nameShortPossessive} can provoke a surge of instinctual desire within me.</li>
+            <li>The exposed rear of {PAWN_nameShort} is nothing remarkable, but it still stirs a familiar, persistent ache.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a very common form. Yet, the raw fact of its existence is stimulating.</li>
+            <li>Observing {PAWN_nameShortPossessive} average backside: my mind immediately fills with fantasies, despite its plainness.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale_observed_by_Prude</defName>
+        <label>Average Anus (Neutral)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is visible. A common sight, yet still somewhat uncomfortable to observe.</li>
+            <li>The exposed backside of {PAWN_nameShort}. It's an average form, but I find it a little unsettling.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, it's just an ordinary butt, but why must it be so exposed?</li>
+            <li>A common posterior, openly presented. I wish {PAWN_pronoun} would cover {PAWN_objective} up.</li>
+            <li>The visible rear of {PAWN_nameShort} is quite average. Still, it feels a bit too revealing.</li>
+            <li>{PAWN_nameShortPossessive} backside, while not overtly provocative, makes me feel a touch uneasy.</li>
+            <li>It's just an average posterior, nothing scandalous, yet the sight feels slightly improper.</li>
+            <li>The form of {PAWN_nameShortPossessive} derriere is ordinary, but its exposure is uncalled for.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible. A mundane view, but one that makes me shift awkwardly.</li>
+            <li>An average butt, yet I can't help but feel a pang of discomfort at its public display.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a normal sight. Still, I prefer things to be more modest.</li>
+            <li>The exposed backside of {PAWN_nameShort} is rather plain, but the lack of discretion is bothersome.</li>
+            <li>A typical posterior, unexpectedly visible. It's an awkward moment for me.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is standard, yet it's still more than I wish to see.</li>
+            <li>{PAWN_nameShortPossessive} average backside is out. It’s nothing extreme, but I prefer a more reserved approach.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} posterior. It's ordinary, but I feel a slight blush.</li>
+            <li>The form of {PAWN_nameShortPossessive} rear is unremarkable, yet I find the exposure a little too bold.</li>
+            <li>An ordinary butt, suddenly visible. I wish such things weren't so openly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior is average. My discomfort is not with {PAWN_objective}, but with the casual nudity.</li>
+            <li>The sight of {PAWN_nameShortPossessive} common backside. It's a bit much for my sensibilities.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale_observed_by_Young_male</defName>
+        <label>Average Anus (Neutral)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while mature, holds an understated appeal. Its average form is a comfortable sight.</li>
+            <li>A woman of age, her posterior of average shape. There's a subtle maturity to its presentation.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet the wisdom of {PAWN_possessive} years lends it a certain quiet dignity.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior has a common look. It's a grounded sight, neither exciting nor dull.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is average. It speaks to a lifetime lived, a subtle allure.</li>
+            <li>{PAWN_nameShortPossessive} butt, a typical mature form. It's not about raw youth, but a different kind of presence.</li>
+            <li>Her posterior is of an expected average. It’s a familiar shape, and the subtle lines tell a story.</li>
+            <li>A common derriere on a more mature woman. There's an appeal in its unassuming reality.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its age brings a certain gravitas, a different kind of feminine form.</li>
+            <li>The mature posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, but carries a weight of experience.</li>
+            <li>Her backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet subtly compelling.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, mature shape. It's a calm and steady sight.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive.</li>
+            <li>The curves of {PAWN_nameShortPossessive} mature backside are average, but convey a sense of calm and collected femininity.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common mature form. It holds a different kind of allure.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age.</li>
+            <li>Her butt, plain and average, hints at years of graceful aging. It’s a gentle view.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder female butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale_observed_by_Young_female</defName>
+        <label>Average Anus (Neutral)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average. A common sight among older women, nothing unexpected.</li>
+            <li>A mature woman's backside, very ordinary. It reminds me of what time can do to the body.</li>
+            <li>The visible rear of {PAWN_nameShort} is typical for {PAWN_possessive} age. It's just a normal sight.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a standard, mature form. Nothing particularly interesting or striking.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's quite average, reflecting the usual wear of years.</li>
+            <li>{PAWN_nameShortPossessive} derriere is of a common mature shape. It's simply there, unremarkable.</li>
+            <li>Her backside, while visible, is entirely ordinary. A typical appearance for someone {PAWN_possessive} age.</li>
+            <li>The curves of {PAWN_nameShortPossessive} posterior are modest, displaying a common form. Not much to note.</li>
+            <li>It's a rather standard posterior, nothing particularly noteworthy about {PAWN_nameShortPossessive} curves.</li>
+            <li>The posterior of {PAWN_nameShort} is of average size, with a crease that hints at an ordinary form.</li>
+            <li>{PAWN_nameShortPossessive} backside presents a familiar silhouette; neither standing out nor being odd.</li>
+            <li>Just an ordinary rear. The visible part of the opening is average, suggesting no unique characteristics.</li>
+            <li>A customary posterior, the form of which seems to be neither exaggerated nor especially tight.</li>
+            <li>The shape of {PAWN_nameShortPossessive} backside is quite ordinary. It doesn't stand out in any way.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view, consistent with typical mature anatomy.</li>
+            <li>A fleeting observation of {PAWN_nameShortPossessive} average-sized rear. It's simply there, a common sight.</li>
+            <li>The curve of {PAWN_nameShortPossessive} rear suggests a standard form, with the opening neither overly pronounced nor discreet.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a common sight, its anatomical features are quite unexceptional.</li>
+            <li>Its contours are typical, neither firm nor lax. The visible aspect of the rear opening is unremarkable.</li>
+            <li>An ordinary posterior with an average visible rear opening, indicating a common presentation.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Average Anus (Neutral)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, a mature form, is quite average. A subtle, familiar appeal.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet it carries the quiet charm of a seasoned woman.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's a common shape, subtly attractive in its mature presentation.</li>
+            <li>A mature female's rear, neither exceptional nor disappointing. A steady, familiar sight.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It speaks to a grounded, experienced femininity.</li>
+            <li>{PAWN_nameShortPossessive} derriere, a typical mature form. It has a quiet presence, unburdened by youthful demands.</li>
+            <li>Her posterior is of an expected average. It’s a comfortable, known shape, gently inviting.</li>
+            <li>A common derriere, possessing a subtle grace that only comes with age and experience.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its maturity adds a distinct, subtle appeal.</li>
+            <li>The mature posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a quiet attraction.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, yet hints at a deeper, subtle allure.</li>
+            <li>Her backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet compelling.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, mature shape. It's a calm and steady sight, subtly appealing.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive to me.</li>
+            <li>The curves of {PAWN_nameShortPossessive} mature backside are average, but convey a sense of calm and collected femininity, quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common mature form. It holds a different, seasoned kind of allure.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive.</li>
+            <li>Her butt, plain and average, hints at years of graceful aging. It’s a gentle, reassuring view.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average mature female butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Average Anus (Neutral)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average. A common sight among women of our age, nothing surprising.</li>
+            <li>A mature woman's backside, very ordinary. It reflects the typical journey of the female form.</li>
+            <li>The visible rear of {PAWN_nameShort} is typical for {PAWN_possessive} age. It's just a normal sight, familiar.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a standard, mature form. Nothing particularly unique or striking, just as expected.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's quite average, reflecting the usual wear of years that we all experience.</li>
+            <li>{PAWN_nameShortPossessive} derriere is of a common mature shape. It's simply there, unremarkable, like many others.</li>
+            <li>Her backside, while visible, is entirely ordinary. A typical appearance for someone {PAWN_possessive} age, a common reality.</li>
+            <li>The curves of {PAWN_nameShortPossessive} posterior are modest, displaying a common form. Nothing exceptional to note.</li>
+            <li>It's a rather standard posterior, nothing particularly noteworthy about {PAWN_nameShortPossessive} curves. Very average.</li>
+            <li>The posterior of {PAWN_nameShort} is of average size, with a crease that hints at an ordinary form. Quite common.</li>
+            <li>{PAWN_nameShortPossessive} backside presents a familiar silhouette; neither standing out nor being odd. Just normal.</li>
+            <li>Just an ordinary rear. The visible part of the opening is average, suggesting no unique characteristics. Very common.</li>
+            <li>A customary posterior, the form of which seems to be neither exaggerated nor especially tight. Expected.</li>
+            <li>The shape of {PAWN_nameShortPossessive} backside is quite ordinary. It doesn't stand out in any way.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view, consistent with typical mature anatomy. Plain.</li>
+            <li>A fleeting observation of {PAWN_nameShortPossessive} average-sized rear. It's simply there, a common sight.</li>
+            <li>The curve of {PAWN_nameShortPossessive} rear suggests a standard form, with the opening neither overly pronounced nor discreet.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a common sight, its anatomical features are quite unexceptional, reflecting our own reality.</li>
+            <li>Its contours are typical, neither firm nor lax. The visible aspect of the rear opening is unremarkable, a common observation.</li>
+            <li>An ordinary posterior with an average visible rear opening, indicating a common presentation among peers.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale_observed_by_Elder_male</defName>
+        <label>Average Anus (Neutral)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, a mature form, is quite average. A subtle, familiar appeal, much like those of my youth.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet it carries the quiet charm of a seasoned woman, evoking distant memories.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's a common shape, subtly attractive in its mature presentation, reminds me of old times.</li>
+            <li>A mature female's rear, neither exceptional nor disappointing. A steady, familiar sight that carries a certain timeless appeal.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It speaks to a grounded, experienced femininity, a quiet allure.</li>
+            <li>{PAWN_nameShortPossessive} derriere, a typical mature form. It has a quiet presence, unburdened by youthful demands, yet still engaging.</li>
+            <li>Her posterior is of an expected average. It’s a comfortable, known shape, gently inviting, like a good old memory.</li>
+            <li>A common derriere, possessing a subtle grace that only comes with age and experience, which I can appreciate now.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its maturity adds a distinct, subtle appeal, reminiscent of classic beauty.</li>
+            <li>The mature posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a quiet attraction that time has refined.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, yet hints at a deeper, subtle allure, a different kind of beauty.</li>
+            <li>Her backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet compelling in its quiet strength.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, mature shape. It's a calm and steady sight, subtly appealing with a hint of wisdom.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive to me now.</li>
+            <li>The curves of {PAWN_nameShortPossessive} mature backside are average, but convey a sense of calm and collected femininity, quite appealing in its understated way.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common mature form. It holds a different, seasoned kind of allure, a quiet charm.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive in its own right.</li>
+            <li>Her butt, plain and average, hints at years of graceful aging. It’s a gentle, reassuring view, a testament to time.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average mature female butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureFemale_observed_by_Elder_female</defName>
+        <label>Average Anus (Neutral)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average. A common sight among women, reflecting the general passage of time.</li>
+            <li>A mature woman's backside, very ordinary. It reminds me of how bodies change over the years.</li>
+            <li>The visible rear of {PAWN_nameShort} is typical for {PAWN_possessive} age. It's just a normal sight, familiar from my own experiences.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a standard, mature form. Nothing particularly unique or striking, just as expected.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's quite average, reflecting the usual wear of years that is common.</li>
+            <li>{PAWN_nameShortPossessive} derriere is of a common mature shape. It's simply there, unremarkable, like many others I've seen.</li>
+            <li>Her backside, while visible, is entirely ordinary. A typical appearance for someone {PAWN_possessive} age, a common reality.</li>
+            <li>The curves of {PAWN_nameShortPossessive} posterior are modest, displaying a common form. Nothing exceptional to note.</li>
+            <li>It's a rather standard posterior, nothing particularly noteworthy about {PAWN_nameShortPossessive} curves. Very average.</li>
+            <li>The posterior of {PAWN_nameShort} is of average size, with a crease that hints at an ordinary form. Quite common.</li>
+            <li>{PAWN_nameShortPossessive} backside presents a familiar silhouette; neither standing out nor being odd. Just normal.</li>
+            <li>Just an ordinary rear. The visible part of the opening is average, suggesting no unique characteristics. Very common.</li>
+            <li>A customary posterior, the form of which seems to be neither exaggerated nor especially tight. Expected.</li>
+            <li>The shape of {PAWN_nameShortPossessive} backside is quite ordinary. It doesn't stand out in any way.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view, consistent with typical mature anatomy. Plain.</li>
+            <li>A fleeting observation of {PAWN_nameShortPossessive} average-sized rear. It's simply there, a common sight.</li>
+            <li>The curve of {PAWN_nameShortPossessive} rear suggests a standard form, with the opening neither overly pronounced nor discreet.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a common sight, its anatomical features are quite unexceptional, reflecting our own reality.</li>
+            <li>Its contours are typical, neither firm nor lax. The visible aspect of the rear opening is unremarkable, a common observation.</li>
+            <li>An ordinary posterior with an average visible rear opening, indicating a common presentation among peers.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+
+
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale</defName>
+        <label>Average Anus (Neutral)_MatureMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The posterior of {PAWN_nameShort} is a common male form, neither prominent nor particularly small.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside. Its contours are typical, presenting an average male form.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses a conventional shape, with the rear opening appearing neither tight nor loose.</li>
+            <li>It's a rather standard posterior, nothing particularly noteworthy about {PAWN_nameShortPossessive} curves or visible rear.</li>
+            <li>The posterior of {PAWN_nameShort} is of average size, with a crease that hints at an ordinary form.</li>
+            <li>{PAWN_nameShortPossessive} backside presents a familiar silhouette; the rear orifice is neither too obvious nor too hidden.</li>
+            <li>Just an ordinary rear. The visible part of the opening is average, suggesting no unique characteristics.</li>
+            <li>A customary posterior, the form of which seems to be neither exaggerated nor especially tight.</li>
+            <li>The shape of {PAWN_nameShortPossessive} backside is quite ordinary. It doesn't stand out in any way.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view, consistent with typical male anatomy. Nothing remarkable to observe.</li>
+            <li>A fleeting observation of {PAWN_nameShortPossessive} average-sized rear. It's simply there, a common sight.</li>
+            <li>The curve of {PAWN_nameShortPossessive} rear suggests a standard form, with the opening neither overly pronounced nor discreet.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a common sight, its anatomical features are quite unexceptional, just a normal look.</li>
+            <li>Its contours are typical, neither firm nor lax. The visible aspect of the rear opening is unremarkable.</li>
+            <li>An ordinary posterior with an average visible rear opening, indicating a common presentation.</li>
+            <li>The form of {PAWN_nameShortPossessive} backside aligns with common expectations, a rather unassuming sight.</li>
+            <li>It's a typical posterior; the visibility of the inner part appears standard, without any notable features.</li>
+            <li>The posterior of {PAWN_nameShort} is plainly average, offering no surprises in its shape or the slight glimpse of its opening.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, one finds it to be of a very common build. The general impression is neutral.</li>
+            <li>A standard butt with a typical rear opening, presenting a generally unremarkable anatomical view.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale_observed_by_voyer</defName>
+        <label>Average Anus (Neutral)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A subtle exposure of {PAWN_nameShortPossessive} average posterior, presenting a brief, unexceptional view.</li>
+            <li>The glimpse of {PAWN_nameShortPossessive} derriere reveals a common form, neither concealed nor overtly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a sudden, unremarkable sight. Its contours are typical, just an average view.</li>
+            <li>A chance observation of {PAWN_nameShortPossessive} backside, its visible rear is ordinary, yet still noted.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, a mundane view, yet it was observed, its average form unmissable.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} butt. It's average, but the suddenness made it more apparent.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is quite normal, but the unexpected view catches my attention.</li>
+            <li>{PAWN_nameShortPossessive} backside came into view. Its typical shape and moderate visibility were duly noted.</li>
+            <li>The observation of {PAWN_nameShortPossessive} posterior was brief; it's an average form, nothing particularly striking.</li>
+            <li>A sudden sight of {PAWN_nameShortPossessive} ordinary backside. Its form is common, yet my eyes linger for a moment.</li>
+            <li>{PAWN_nameShortPossessive} rear was suddenly visible. An average curve, but the unexpectedness is somewhat intriguing.</li>
+            <li>The unexpected revealing of {PAWN_nameShortPossessive} posterior. It's common, but the circumstances heighten awareness.</li>
+            <li>A moment of exposed average posterior from {PAWN_nameShort}. The form is standard, but the forbidden sight is alluring.</li>
+            <li>The sudden appearance of {PAWN_nameShortPossessive} posterior, a common form, yet the illicit nature of the view adds interest.</li>
+            <li>{PAWN_nameShortPossessive} backside, briefly seen. Its average shape is less important than the act of observing itself.</li>
+            <li>A fleeting sight of {PAWN_nameShortPossessive} typical rear. The quick glimpse is surprisingly satisfying despite its normalcy.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is quite ordinary, but the act of seeing it discreetly is captivating.</li>
+            <li>{PAWN_nameShortPossessive} butt became visible. It's an average form, but the private observation is more engaging.</li>
+            <li>An unexpected view of {PAWN_nameShortPossessive} common posterior. The slight visibility of its opening is noted.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} average backside, a common feature, but the act of noticing it is what matters.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Average Anus (Neutral)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while average, feels somewhat validated by my presence. A common shape, openly displayed.</li>
+            <li>The typical curves of {PAWN_nameShort} are on display. It’s an average sight, but the shared exposure is appealing.</li>
+            <li>Observing {PAWN_nameShortPossessive} ordinary backside makes me feel more comfortable with my own display. It's just normal.</li>
+            <li>{PAWN_nameShortPossessive} posterior is a standard form. Seeing it confirms the universality of such sights, encouraging my own freedom.</li>
+            <li>The average visibility of {PAWN_nameShortPossessive} rear opening is plain to see. This open display is comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside, average in every way, is now openly presented. This commonality makes my own exhibition feel less extreme.</li>
+            <li>A rather normal posterior. Its exposed state makes me feel a certain kinship, validating the urge to reveal.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} derriere, now visible, seems to implicitly invite further displays.</li>
+            <li>{PAWN_nameShortPossessive} rear is openly presented. This average sight contributes to a general sense of acceptance for nudity.</li>
+            <li>Observing {PAWN_nameShortPossessive} ordinary butt reinforces my desire to expose myself. It’s just how it is.</li>
+            <li>{PAWN_nameShortPossessive} posterior is revealed. Its unremarkable nature makes the act of observation feel natural and uninhibited.</li>
+            <li>The exposed backside of {PAWN_nameShort} is quite average. This openness is a sign of freedom, which I appreciate.</li>
+            <li>A typical posterior, now out in the open. Such displays make me feel less alone in my desires.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It’s a common sight that makes me want to show more of myself.</li>
+            <li>{PAWN_nameShortPossessive} exposed posterior, a normal sight. This encourages my own open expression.</li>
+            <li>The sheer normalcy of {PAWN_nameShortPossessive} exposed butt makes me feel more at ease in my own skin.</li>
+            <li>An average backside, revealed. This shared experience of exposure is what I live for.</li>
+            <li>{PAWN_nameShortPossessive} posterior is out in the open, and its plainness is strangely liberating.</li>
+            <li>The casual display of {PAWN_nameShortPossessive} common rear confirms that nudity can be just another part of life.</li>
+            <li>{PAWN_nameShortPossessive} butt is visible, a standard form. This shared vulnerability makes me want to shed my own clothes.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Average Anus (Neutral)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A mundane posterior, yet the sight of {PAWN_nameShortPossessive} exposed backside still sparks a fleeting interest.</li>
+            <li>{PAWN_nameShortPossessive} average rear is visible. While not exceptional, it's a reminder of ever-present possibilities.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} posterior. It's a normal sight, but even normalcy hints at desire.</li>
+            <li>{PAWN_nameShortPossessive} exposed butt is nothing special, yet the basic anatomy holds a fundamental appeal.</li>
+            <li>A brief glimpse of {PAWN_nameShortPossessive} average rear opening. My mind drifts to more intimate scenarios.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical, still conjures thoughts of deeper connections.</li>
+            <li>The sight of {PAWN_nameShortPossessive} posterior, even if average, stirs a subtle undercurrent of longing.</li>
+            <li>An ordinary rear. The mere presence of such a form suggests a potential for pleasure.</li>
+            <li>{PAWN_nameShortPossessive} exposed posterior, a standard shape. It's enough to ignite a familiar internal warmth.</li>
+            <li>Observing {PAWN_nameShortPossessive} average backside, my thoughts immediately turn to carnal desires.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible. Its common form doesn't diminish the sensual possibilities it represents.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is unexceptional, yet my urges awaken regardless.</li>
+            <li>A typical posterior, seen briefly. The anatomical reality fuels a general sense of arousal.</li>
+            <li>The sight of {PAWN_nameShortPossessive} common rear opening, it's enough to trigger a familiar yearning.</li>
+            <li>{PAWN_nameShortPossessive} average backside is presented. My focus quickly shifts to what lies beyond the visual.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} posterior, a simple, ordinary sight, yet my body responds with a subtle thrum.</li>
+            <li>Even an average butt like {PAWN_nameShortPossessive} can provoke a surge of instinctual desire within me.</li>
+            <li>The exposed rear of {PAWN_nameShort} is nothing remarkable, but it still stirs a familiar, persistent ache.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a very common form. Yet, the raw fact of its existence is stimulating.</li>
+            <li>Observing {PAWN_nameShortPossessive} average backside: my mind immediately fills with fantasies, despite its plainness.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale_observed_by_Prude</defName>
+        <label>Average Anus (Neutral)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is visible. A common sight, yet still somewhat uncomfortable to observe.</li>
+            <li>The exposed backside of {PAWN_nameShort}. It's an average form, but I find it a little unsettling.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, it's just an ordinary butt, but why must it be so exposed?</li>
+            <li>A common posterior, openly presented. I wish {PAWN_pronoun} would cover {PAWN_objective} up.</li>
+            <li>The visible rear of {PAWN_nameShort} is quite average. Still, it feels a bit too revealing.</li>
+            <li>{PAWN_nameShortPossessive} backside, while not overtly provocative, makes me feel a touch uneasy.</li>
+            <li>It's just an average posterior, nothing scandalous, yet the sight feels slightly improper.</li>
+            <li>The form of {PAWN_nameShortPossessive} derriere is ordinary, but its exposure is uncalled for.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible. A mundane view, but one that makes me shift awkwardly.</li>
+            <li>An average butt, yet I can't help but feel a pang of discomfort at its public display.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a normal sight. Still, I prefer things to be more modest.</li>
+            <li>The exposed backside of {PAWN_nameShort} is rather plain, but the lack of discretion is bothersome.</li>
+            <li>A typical posterior, unexpectedly visible. It's an awkward moment for me.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is standard, yet it's still more than I wish to see.</li>
+            <li>{PAWN_nameShortPossessive} average backside is out. It’s nothing extreme, but I prefer a more reserved approach.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} posterior. It's ordinary, but I feel a slight blush.</li>
+            <li>The form of {PAWN_nameShortPossessive} rear is unremarkable, yet I find the exposure a little too bold.</li>
+            <li>An ordinary butt, suddenly visible. I wish such things weren't so openly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior is average. My discomfort is not with {PAWN_objective}, but with the casual nudity.</li>
+            <li>The sight of {PAWN_nameShortPossessive} common backside. It's a bit much for my sensibilities.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale_observed_by_Young_male</defName>
+        <label>Average Anus (Neutral)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average, a common male form. It's a familiar sight among men.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary. It doesn't particularly stand out.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's a common shape for a mature man. Nothing to write home about.</li>
+            <li>A mature male's rear, neither exceptional nor disappointing. A standard, unremarkable view.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It appears to be a typical male form.</li>
+            <li>{PAWN_nameShortPossessive} derriere, a typical mature male form. It has a common, uninteresting presence.</li>
+            <li>His posterior is of an expected average. It’s a comfortable, known shape, but not particularly inspiring.</li>
+            <li>A common derriere, possessing a typical male form. Nothing special to note.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, fitting the common male physique.</li>
+            <li>The mature posterior of {PAWN_nameShort} is average, just a general, unremarkable form.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, an everyday sight.</li>
+            <li>His backside, while average, feels like any other male form. Nothing unique.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, mature shape. It's a calm and steady sight.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a very common male form.</li>
+            <li>The curves of {PAWN_nameShortPossessive} mature backside are average, as expected for a man.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common mature male form. Nothing compelling.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet, unremarkable presence.</li>
+            <li>His butt, plain and average, looks like countless others. It's just there.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior, a regular form, presents itself with no distinguishing features.</li>
+            <li>Observing {PAWN_nameShortPossessive} average mature male butt; it's a calm, unremarkable form.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale_observed_by_Young_female</defName>
+        <label>Average Anus (Neutral)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while mature, holds an understated appeal for a man {PAWN_possessive} age. Its average form is a comfortable sight.</li>
+            <li>A man of age, his posterior of average shape. There's a subtle maturity to its presentation that is not unappealing.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet the wisdom of {PAWN_possessive} years lends it a certain quiet dignity, subtly attractive.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior has a common look. It's a grounded sight, neither exciting nor dull, yet subtly appealing.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is average. It speaks to a lifetime lived, a subtle allure for someone my age.</li>
+            <li>{PAWN_nameShortPossessive} butt, a typical mature form. It's not about raw youth, but a different kind of masculine presence.</li>
+            <li>His posterior is of an expected average. It’s a familiar shape, and the subtle lines tell a story, making it intriguing.</li>
+            <li>A common derriere on a more mature man. There's an appealing authenticity in its unassuming reality.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its age brings a certain gravitas, a different kind of masculine form that holds a quiet draw.</li>
+            <li>The mature posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a subtle attraction.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, but carries a weight of experience that is subtly appealing.</li>
+            <li>His backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet subtly compelling.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, mature shape. It's a calm and steady sight, subtly appealing.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive.</li>
+            <li>The curves of {PAWN_nameShortPossessive} mature backside are average, but convey a sense of calm and collected masculinity, quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common mature form. It holds a different, seasoned kind of allure.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive.</li>
+            <li>His butt, plain and average, hints at years of graceful aging. It’s a gentle view, quite reassuring.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder male butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Average Anus (Neutral)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average, a common male form. It's a familiar sight among men, nothing surprising.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary. It doesn't particularly stand out.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's a common shape for a mature man. Nothing to write home about.</li>
+            <li>A mature male's rear, neither exceptional nor disappointing. A standard, unremarkable view, just like my own.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It appears to be a typical male form, very common.</li>
+            <li>{PAWN_nameShortPossessive} derriere, a typical mature male form. It has a common, uninteresting presence.</li>
+            <li>His posterior is of an expected average. It’s a comfortable, known shape, but not particularly inspiring.</li>
+            <li>A common derriere, possessing a typical male form. Nothing special to note, just a standard observation.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, fitting the common male physique. Very ordinary.</li>
+            <li>The mature posterior of {PAWN_nameShort} is average, just a general, unremarkable form.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, an everyday sight, like looking in a mirror.</li>
+            <li>His backside, while average, feels like any other male form. Nothing unique, just typical.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, mature shape. It's a calm and steady sight.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a very common male form.</li>
+            <li>The curves of {PAWN_nameShortPossessive} mature backside are average, as expected for a man of our age.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common mature male form. Nothing compelling.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet, unremarkable presence.</li>
+            <li>His butt, plain and average, looks like countless others. It's just there, a common sight.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior, a regular form, presents itself with no distinguishing features.</li>
+            <li>Observing {PAWN_nameShortPossessive} average mature male butt; it's a calm, unremarkable form, very much like my own.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Average Anus (Neutral)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, a mature male form, is quite average. A subtle, familiar appeal.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet it carries the quiet charm of a seasoned man.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's a common shape, subtly attractive in its mature presentation.</li>
+            <li>A mature male's rear, neither exceptional nor disappointing. A steady, familiar sight.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It speaks to a grounded, experienced masculinity.</li>
+            <li>{PAWN_nameShortPossessive} derriere, a typical mature male form. It has a quiet presence, unburdened by youthful demands.</li>
+            <li>His posterior is of an expected average. It’s a comfortable, known shape, gently inviting.</li>
+            <li>A common derriere, possessing a subtle grace that only comes with age and experience.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its maturity adds a distinct, subtle appeal.</li>
+            <li>The mature posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a quiet attraction.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, yet hints at a deeper, subtle allure.</li>
+            <li>His backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet subtly compelling.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, mature shape. It's a calm and steady sight, subtly appealing.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive.</li>
+            <li>The curves of {PAWN_nameShortPossessive} mature backside are average, but convey a sense of calm and collected masculinity, quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common mature male form. It holds a different, seasoned kind of allure.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive.</li>
+            <li>His butt, plain and average, hints at years of graceful aging. It’s a gentle view.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder male butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Elder male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale_observed_by_Elder_male</defName>
+        <label>Average Anus (Neutral)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average, a common male form. It's a familiar sight among men, nothing surprising, much like my own.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary. It doesn't particularly stand out, reflecting a typical male form.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's a common shape for a mature man. Nothing to write home about, just as expected.</li>
+            <li>A mature male's rear, neither exceptional nor disappointing. A standard, unremarkable view, common to our shared experience.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It appears to be a typical male form, very common, like so many others.</li>
+            <li>{PAWN_nameShortPossessive} derriere, a typical mature male form. It has a common, uninteresting presence, mirroring what I've seen.</li>
+            <li>His posterior is of an expected average. It’s a comfortable, known shape, but not particularly inspiring.</li>
+            <li>A common derriere, possessing a typical male form. Nothing special to note, just a standard observation.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, fitting the common male physique. Very ordinary, a familiar sight.</li>
+            <li>The mature posterior of {PAWN_nameShort} is average, just a general, unremarkable form.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, an everyday sight, like looking at myself years ago.</li>
+            <li>His backside, while average, feels like any other male form. Nothing unique, just typical.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, mature shape. It's a calm and steady sight.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a very common male form.</li>
+            <li>The curves of {PAWN_nameShortPossessive} mature backside are average, as expected for a man of our age.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common mature male form. Nothing compelling.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet, unremarkable presence.</li>
+            <li>His butt, plain and average, looks like countless others. It's just there, a common sight for me now.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior, a regular form, presents itself with no distinguishing features.</li>
+            <li>Observing {PAWN_nameShortPossessive} average mature male butt; it's a calm, unremarkable form, very much like my own.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MatureMale_observed_by_Elder_female</defName>
+        <label>Average Anus (Neutral)_MatureMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while mature, holds an understated appeal for a man {PAWN_possessive} age. Its average form is a comfortable sight, reminding me of earlier years.</li>
+            <li>A man of age, his posterior of average shape. There's a subtle maturity to its presentation that is not unappealing, a familiar view.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet the wisdom of {PAWN_possessive} years lends it a certain quiet dignity, subtly attractive in its seasoned form.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior has a common look. It's a grounded sight, neither exciting nor dull, yet subtly appealing as a man ages.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is average. It speaks to a lifetime lived, a subtle allure for someone like him.</li>
+            <li>{PAWN_nameShortPossessive} butt, a typical mature form. It's not about raw youth, but a different kind of masculine presence, something I understand.</li>
+            <li>His posterior is of an expected average. It’s a familiar shape, and the subtle lines tell a story, making it intriguing for someone who's seen a lot.</li>
+            <li>A common derriere on a more mature man. There's an appealing authenticity in its unassuming reality that I can appreciate.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its age brings a certain gravitas, a different kind of masculine form that holds a quiet draw.</li>
+            <li>The mature posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a subtle attraction that time has refined.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, but carries a weight of experience that is subtly appealing.</li>
+            <li>His backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet subtly compelling in its quiet strength.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, mature shape. It's a calm and steady sight, subtly appealing with a hint of wisdom.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive to me now.</li>
+            <li>The curves of {PAWN_nameShortPossessive} mature backside are average, but convey a sense of calm and collected masculinity, quite appealing in its understated way.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common mature male form. It holds a different, seasoned kind of allure, a quiet charm that resonates.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive in its own right.</li>
+            <li>His butt, plain and average, hints at years of graceful aging. It’s a gentle, reassuring view, a testament to time.</li>
+            <li>{PAWN_nameShortPossessive} mature posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder male butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale</defName>
+        <label>Average Anus (Neutral)_ElderFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The posterior of {PAWN_nameShort} is a common older female form, showing the passage of time.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside. Its contours are typical for {PAWN_possessive} age, presenting an average form.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses a conventional shape, with the rear opening appearing neither tight nor loose for an older person.</li>
+            <li>It's a rather standard posterior, nothing particularly noteworthy about {PAWN_nameShortPossessive} curves, showing signs of age.</li>
+            <li>The posterior of {PAWN_nameShort} is of average size, with a crease that hints at an ordinary, aged form.</li>
+            <li>{PAWN_nameShortPossessive} backside presents a familiar silhouette; the rear orifice is neither too obvious nor too hidden for {PAWN_possessive} age.</li>
+            <li>Just an ordinary rear for an elder. The visible part of the opening is average, suggesting no unique characteristics.</li>
+            <li>A customary posterior, the form of which seems to be neither exaggerated nor especially tight, typical for someone older.</li>
+            <li>The shape of {PAWN_nameShortPossessive} backside is quite ordinary for {PAWN_possessive} years. It doesn't stand out in any way.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view, consistent with typical elder female anatomy. Nothing remarkable to observe.</li>
+            <li>A fleeting observation of {PAWN_nameShortPossessive} average-sized rear, showing its age gracefully. It's simply there, a common sight.</li>
+            <li>The curve of {PAWN_nameShortPossessive} rear suggests a standard form, with the opening neither overly pronounced nor discreet for an elder.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a common sight, its anatomical features are quite unexceptional, just a normal look for an aged person.</li>
+            <li>Its contours are typical for {PAWN_possessive} age, neither firm nor lax. The visible aspect of the rear opening is unremarkable.</li>
+            <li>An ordinary posterior with an average visible rear opening, indicating a common presentation for an elderly female.</li>
+            <li>The form of {PAWN_nameShortPossessive} backside aligns with common expectations for {PAWN_possessive} age, a rather unassuming sight.</li>
+            <li>It's a typical posterior; the visibility of the inner part appears standard, without any notable features for an elder.</li>
+            <li>The posterior of {PAWN_nameShort} is plainly average, offering no surprises in its shape or the slight glimpse of its opening, typical of age.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, one finds it to be of a very common build for an elder. The general impression is neutral.</li>
+            <li>A standard butt with a typical rear opening for an elderly woman, presenting a generally unremarkable anatomical view.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale_observed_by_voyer</defName>
+        <label>Average Anus (Neutral)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A subtle exposure of {PAWN_nameShortPossessive} average, aged posterior, presenting a brief, unexceptional view.</li>
+            <li>The glimpse of {PAWN_nameShortPossessive} derriere reveals a common form for her age, neither concealed nor overtly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a sudden, unremarkable sight. Its contours are typical for an elder, just an average view.</li>
+            <li>A chance observation of {PAWN_nameShortPossessive} backside, its visible rear is ordinary for {PAWN_possessive} age, yet still noted.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, a mundane view, yet it was observed, its average, aged form unmissable.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} butt. It's average for an elder, but the suddenness made it more apparent.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is quite normal for {PAWN_possessive} age, but the unexpected view catches my attention.</li>
+            <li>{PAWN_nameShortPossessive} backside came into view. Its typical, aged shape and moderate visibility were duly noted.</li>
+            <li>The observation of {PAWN_nameShortPossessive} posterior was brief; it's an average form for an elder, nothing particularly striking.</li>
+            <li>A sudden sight of {PAWN_nameShortPossessive} ordinary, aged backside. Its form is common, yet my eyes linger for a moment.</li>
+            <li>{PAWN_nameShortPossessive} rear was suddenly visible. An average, aged curve, but the unexpectedness is somewhat intriguing.</li>
+            <li>The unexpected revealing of {PAWN_nameShortPossessive} posterior. It's common for an elder, but the circumstances heighten awareness.</li>
+            <li>A moment of exposed average, aged posterior from {PAWN_nameShort}. The form is standard, but the forbidden sight is alluring.</li>
+            <li>The sudden appearance of {PAWN_nameShortPossessive} posterior, a common form for {PAWN_possessive} age, yet the illicit nature of the view adds interest.</li>
+            <li>{PAWN_nameShortPossessive} backside, briefly seen. Its average, aged shape is less important than the act of observing itself.</li>
+            <li>A fleeting sight of {PAWN_nameShortPossessive} typical, aged rear. The quick glimpse is surprisingly satisfying despite its normalcy.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is quite ordinary for {PAWN_possessive} years, but the act of seeing it discreetly is captivating.</li>
+            <li>{PAWN_nameShortPossessive} butt became visible. It's an average form for an elder, but the private observation is more engaging.</li>
+            <li>An unexpected view of {PAWN_nameShortPossessive} common, aged posterior. The slight visibility of its opening is noted.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} average, aged backside, a common feature, but the act of noticing it is what matters.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Average Anus (Neutral)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while average for {PAWN_possessive} age, feels somewhat validated by my presence. A common shape, openly displayed.</li>
+            <li>The typical curves of {PAWN_nameShort} are on display, even with age. It’s an average sight, but the shared exposure is appealing.</li>
+            <li>Observing {PAWN_nameShortPossessive} ordinary, aged backside makes me feel more comfortable with my own display. It's just normal, regardless of age.</li>
+            <li>{PAWN_nameShortPossessive} posterior is a standard, aged form. Seeing it confirms the universality of such sights, encouraging my own freedom.</li>
+            <li>The average visibility of {PAWN_nameShortPossessive} aged rear opening is plain to see. This open display is comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside, average in every way for an elder, is now openly presented. This commonality makes my own exhibition feel less extreme.</li>
+            <li>A rather normal, aged posterior. Its exposed state makes me feel a certain kinship, validating the urge to reveal.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} derriere, now visible, seems to implicitly invite further displays, regardless of youth.</li>
+            <li>{PAWN_nameShortPossessive} rear is openly presented. This average sight contributes to a general sense of acceptance for nudity, even in old age.</li>
+            <li>Observing {PAWN_nameShortPossessive} ordinary, aged butt reinforces my desire to expose myself. It’s just how it is.</li>
+            <li>{PAWN_nameShortPossessive} posterior is revealed. Its unremarkable, aged nature makes the act of observation feel natural and uninhibited.</li>
+            <li>The exposed backside of {PAWN_nameShort} is quite average for {PAWN_possessive} years. This openness is a sign of freedom, which I appreciate.</li>
+            <li>A typical, aged posterior, now out in the open. Such displays make me feel less alone in my desires.</li>
+            <li>The visible rear of {PAWN_nameShort} is average for an elder. It’s a common sight that makes me want to show more of myself.</li>
+            <li>{PAWN_nameShortPossessive} exposed posterior, a normal, aged sight. This encourages my own open expression.</li>
+            <li>The sheer normalcy of {PAWN_nameShortPossessive} exposed butt, even with age, makes me feel more at ease in my own skin.</li>
+            <li>An average, aged backside, revealed. This shared experience of exposure is what I live for.</li>
+            <li>{PAWN_nameShortPossessive} posterior is out in the open, and its plainness, even with wrinkles, is strangely liberating.</li>
+            <li>The casual display of {PAWN_nameShortPossessive} common, aged rear confirms that nudity can be just another part of life.</li>
+            <li>{PAWN_nameShortPossessive} butt is visible, a standard form for an elder. This shared vulnerability makes me want to shed my own clothes.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Average Anus (Neutral)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A mundane posterior, yet the sight of {PAWN_nameShortPossessive} exposed, aged backside still sparks a fleeting interest.</li>
+            <li>{PAWN_nameShortPossessive} average, aged rear is visible. While not exceptional, it's a reminder of ever-present possibilities, even with age.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} elderly posterior. It's a normal sight, but even normalcy hints at desire.</li>
+            <li>{PAWN_nameShortPossessive} exposed, aged butt is nothing special, yet the basic anatomy holds a fundamental appeal, regardless of youth.</li>
+            <li>A brief glimpse of {PAWN_nameShortPossessive} average, aged rear opening. My mind drifts to more intimate scenarios.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical for an elder, still conjures thoughts of deeper connections.</li>
+            <li>The sight of {PAWN_nameShortPossessive} elderly posterior, even if average, stirs a subtle undercurrent of longing.</li>
+            <li>An ordinary, aged rear. The mere presence of such a form suggests a potential for pleasure, no matter the years.</li>
+            <li>{PAWN_nameShortPossessive} exposed, aged posterior, a standard shape. It's enough to ignite a familiar internal warmth.</li>
+            <li>Observing {PAWN_nameShortPossessive} average, aged backside, my thoughts immediately turn to carnal desires.</li>
+            <li>{PAWN_nameShortPossessive} elderly rear is visible. Its common form doesn't diminish the sensual possibilities it represents.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is unexceptional for {PAWN_possessive} age, yet my urges awaken regardless.</li>
+            <li>A typical, aged posterior, seen briefly. The anatomical reality fuels a general sense of arousal.</li>
+            <li>The sight of {PAWN_nameShortPossessive} common, aged rear opening, it's enough to trigger a familiar yearning.</li>
+            <li>{PAWN_nameShortPossessive} average, aged backside is presented. My focus quickly shifts to what lies beyond the visual.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} posterior, a simple, ordinary sight, yet my body responds with a subtle thrum, despite the age.</li>
+            <li>Even an average, aged butt like {PAWN_nameShortPossessive} can provoke a surge of instinctual desire within me.</li>
+            <li>The exposed rear of {PAWN_nameShort} is nothing remarkable, but it still stirs a familiar, persistent ache.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a very common, aged form. Yet, the raw fact of its existence is stimulating.</li>
+            <li>Observing {PAWN_nameShortPossessive} average, aged backside: my mind immediately fills with fantasies, despite its plainness.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale_observed_by_Prude</defName>
+        <label>Average Anus (Neutral)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is visible. A common sight for an elder, yet still somewhat uncomfortable to observe.</li>
+            <li>The exposed backside of {PAWN_nameShort}, even at {PAWN_possessive} age. It's an average form, but I find it a little unsettling.</li>
+            <li>Observing {PAWN_nameShortPossessive} aged rear, it's just an ordinary butt, but why must it be so exposed, especially at {PAWN_possessive} years?</li>
+            <li>A common, aged posterior, openly presented. I wish {PAWN_pronoun} would cover {PAWN_objective} up.</li>
+            <li>The visible rear of {PAWN_nameShort} is quite average for an elder. Still, it feels a bit too revealing.</li>
+            <li>{PAWN_nameShortPossessive} backside, while not overtly provocative, makes me feel a touch uneasy due to its exposure.</li>
+            <li>It's just an average, aged posterior, nothing scandalous, yet the sight feels slightly improper.</li>
+            <li>The form of {PAWN_nameShortPossessive} derriere is ordinary for {PAWN_possessive} age, but its exposure is uncalled for.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible. A mundane view, but one that makes me shift awkwardly.</li>
+            <li>An average, aged butt, yet I can't help but feel a pang of discomfort at its public display.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a normal sight for an elder. Still, I prefer things to be more modest.</li>
+            <li>The exposed backside of {PAWN_nameShort} is rather plain, but the lack of discretion is bothersome.</li>
+            <li>A typical, aged posterior, unexpectedly visible. It's an awkward moment for me.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is standard, yet it's still more than I wish to see, particularly from an elder.</li>
+            <li>{PAWN_nameShortPossessive} average, aged backside is out. It’s nothing extreme, but I prefer a more reserved approach.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} elderly posterior. It's ordinary, but I feel a slight blush.</li>
+            <li>The form of {PAWN_nameShortPossessive} rear is unremarkable for {PAWN_possessive} age, yet I find the exposure a little too bold.</li>
+            <li>An ordinary, aged butt, suddenly visible. I wish such things weren't so openly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior is average for an elder. My discomfort is not with {PAWN_objective}, but with the casual nudity.</li>
+            <li>The sight of {PAWN_nameShortPossessive} common, aged backside. It's a bit much for my sensibilities.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale_observed_by_Young_male</defName>
+        <label>Average Anus (Neutral)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while aged, holds an understated appeal. Its average form is a comfortable sight, a testament to time.</li>
+            <li>An elder woman, her posterior of average shape. There's a subtle maturity to its presentation, a different kind of beauty.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet the wisdom of {PAWN_possessive} years lends it a certain quiet dignity, a gentle attraction.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior has a common look. It's a grounded sight, neither exciting nor dull, yet subtly appealing.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is average. It speaks to a lifetime lived, a subtle allure in its experience.</li>
+            <li>{PAWN_nameShortPossessive} butt, a typical aged form. It's not about raw youth, but a different kind of feminine presence.</li>
+            <li>Her posterior is of an expected average for an elder. It’s a familiar shape, and the subtle lines tell a story.</li>
+            <li>A common derriere on an elder woman. There's an appealing authenticity in its unassuming reality.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its age brings a certain gravitas, a different kind of feminine form.</li>
+            <li>The aged posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a quiet attraction.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, but carries a weight of experience, subtly appealing.</li>
+            <li>Her backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet compelling.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, aged shape. It's a calm and steady sight, subtly appealing.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive.</li>
+            <li>The curves of {PAWN_nameShortPossessive} aged backside are average, but convey a sense of calm and collected femininity, quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common aged form. It holds a different, seasoned kind of allure.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive.</li>
+            <li>Her butt, plain and average, hints at years of graceful aging. It’s a gentle, reassuring view.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder female butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale_observed_by_Young_female</defName>
+        <label>Average Anus (Neutral)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average. A common sight among older women, nothing unexpected for {PAWN_possessive} age.</li>
+            <li>An elder woman's backside, very ordinary. It reminds me of what time can do to the body, a natural progression.</li>
+            <li>The visible rear of {PAWN_nameShort} is typical for {PAWN_possessive} age. It's just a normal sight, expected.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a standard, aged form. Nothing particularly interesting or striking, just as expected.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's quite average for an elder, reflecting the usual wear of years.</li>
+            <li>{PAWN_nameShortPossessive} derriere is of a common aged shape. It's simply there, unremarkable, typical of age.</li>
+            <li>Her backside, while visible, is entirely ordinary. A typical appearance for someone {PAWN_possessive} age, a common reality.</li>
+            <li>The curves of {PAWN_nameShortPossessive} posterior are modest, displaying a common, aged form. Not much to note.</li>
+            <li>It's a rather standard posterior, nothing particularly noteworthy about {PAWN_nameShortPossessive} curves for an elder. Very average.</li>
+            <li>The posterior of {PAWN_nameShort} is of average size, with a crease that hints at an ordinary, aged form.</li>
+            <li>{PAWN_nameShortPossessive} backside presents a familiar silhouette; neither standing out nor being odd for {PAWN_possessive} age. Just normal.</li>
+            <li>Just an ordinary rear for an elder. The visible part of the opening is average, suggesting no unique characteristics.</li>
+            <li>A customary posterior, the form of which seems to be neither exaggerated nor especially tight, typical for an older person.</li>
+            <li>The shape of {PAWN_nameShortPossessive} backside is quite ordinary for {PAWN_possessive} years. It doesn't stand out in any way.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view, consistent with typical elder female anatomy. Plain.</li>
+            <li>A fleeting observation of {PAWN_nameShortPossessive} average-sized rear. It's simply there, a common sight for someone {PAWN_possessive} age.</li>
+            <li>The curve of {PAWN_nameShortPossessive} rear suggests a standard form, with the opening neither overly pronounced nor discreet.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a common sight, its anatomical features are quite unexceptional, just a normal look for an aged person.</li>
+            <li>Its contours are typical for {PAWN_possessive} age, neither firm nor lax. The visible aspect of the rear opening is unremarkable.</li>
+            <li>An ordinary posterior with an average visible rear opening, indicating a common presentation for an elderly female.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Average Anus (Neutral)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while aged, holds an understated appeal. Its average form is a comfortable sight, a testament to time.</li>
+            <li>An elder woman, her posterior of average shape. There's a subtle maturity to its presentation, a different kind of beauty that I can appreciate.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet the wisdom of {PAWN_possessive} years lends it a certain quiet dignity, a gentle attraction.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior has a common look. It's a grounded sight, neither exciting nor dull, yet subtly appealing.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is average. It speaks to a lifetime lived, a subtle allure in its experience.</li>
+            <li>{PAWN_nameShortPossessive} butt, a typical aged form. It's not about raw youth, but a different kind of feminine presence.</li>
+            <li>Her posterior is of an expected average for an elder. It’s a familiar shape, and the subtle lines tell a story.</li>
+            <li>A common derriere on an elder woman. There's an appealing authenticity in its unassuming reality.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its age brings a certain gravitas, a different kind of feminine form that holds a quiet draw.</li>
+            <li>The aged posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a quiet attraction.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, but carries a weight of experience, subtly appealing to me.</li>
+            <li>Her backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet compelling.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, aged shape. It's a calm and steady sight, subtly appealing.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive.</li>
+            <li>The curves of {PAWN_nameShortPossessive} aged backside are average, but convey a sense of calm and collected femininity, quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common aged form. It holds a different, seasoned kind of allure.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive.</li>
+            <li>Her butt, plain and average, hints at years of graceful aging. It’s a gentle, reassuring view.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder female butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Average Anus (Neutral)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average. A common sight among older women, nothing unexpected for {PAWN_possessive} age.</li>
+            <li>An elder woman's backside, very ordinary. It reminds me of what time can do to the body, a natural progression.</li>
+            <li>The visible rear of {PAWN_nameShort} is typical for {PAWN_possessive} age. It's just a normal sight, familiar.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a standard, aged form. Nothing particularly interesting or striking, just as expected.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's quite average for an elder, reflecting the usual wear of years that is common.</li>
+            <li>{PAWN_nameShortPossessive} derriere is of a common aged shape. It's simply there, unremarkable, typical of age.</li>
+            <li>Her backside, while visible, is entirely ordinary. A typical appearance for someone {PAWN_possessive} age, a common reality.</li>
+            <li>The curves of {PAWN_nameShortPossessive} posterior are modest, displaying a common, aged form. Not much to note.</li>
+            <li>It's a rather standard posterior, nothing particularly noteworthy about {PAWN_nameShortPossessive} curves for an elder. Very average.</li>
+            <li>The posterior of {PAWN_nameShort} is of average size, with a crease that hints at an ordinary, aged form.</li>
+            <li>{PAWN_nameShortPossessive} backside presents a familiar silhouette; neither standing out nor being odd for {PAWN_possessive} age. Just normal.</li>
+            <li>Just an ordinary rear for an elder. The visible part of the opening is average, suggesting no unique characteristics.</li>
+            <li>A customary posterior, the form of which seems to be neither exaggerated nor especially tight, typical for an older person.</li>
+            <li>The shape of {PAWN_nameShortPossessive} backside is quite ordinary for {PAWN_possessive} years. It doesn't stand out in any way.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view, consistent with typical elder female anatomy. Plain.</li>
+            <li>A fleeting observation of {PAWN_nameShortPossessive} average-sized rear. It's simply there, a common sight for someone {PAWN_possessive} age.</li>
+            <li>The curve of {PAWN_nameShortPossessive} rear suggests a standard form, with the opening neither overly pronounced nor discreet.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a common sight, its anatomical features are quite unexceptional, just a normal look for an aged person.</li>
+            <li>Its contours are typical for {PAWN_possessive} age, neither firm nor lax. The visible aspect of the rear opening is unremarkable.</li>
+            <li>An ordinary posterior with an average visible rear opening, indicating a common presentation for an elderly female.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale_observed_by_Elder_male</defName>
+        <label>Average Anus (Neutral)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while aged, holds an understated appeal. Its average form is a comfortable sight, a testament to time, much like my own journey.</li>
+            <li>An elder woman, her posterior of average shape. There's a subtle maturity to its presentation, a different kind of beauty that I can appreciate now.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet the wisdom of {PAWN_possessive} years lends it a certain quiet dignity, a gentle attraction, evoking distant memories.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior has a common look. It's a grounded sight, neither exciting nor dull, yet subtly appealing as a woman ages.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is average. It speaks to a lifetime lived, a subtle allure in its experience, a familiar story.</li>
+            <li>{PAWN_nameShortPossessive} butt, a typical aged form. It's not about raw youth, but a different kind of feminine presence, something I've come to understand.</li>
+            <li>Her posterior is of an expected average for an elder. It’s a familiar shape, and the subtle lines tell a story, making it intriguing for someone who's seen a lot.</li>
+            <li>A common derriere on an elder woman. There's an appealing authenticity in its unassuming reality that I can appreciate at my age.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its age brings a certain gravitas, a different kind of feminine form that holds a quiet draw.</li>
+            <li>The aged posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a quiet attraction that time has refined.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, but carries a weight of experience, subtly appealing to me now.</li>
+            <li>Her backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet compelling in its quiet strength.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, aged shape. It's a calm and steady sight, subtly appealing with a hint of wisdom.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive now that I am older.</li>
+            <li>The curves of {PAWN_nameShortPossessive} aged backside are average, but convey a sense of calm and collected femininity, quite appealing in its understated way.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common aged form. It holds a different, seasoned kind of allure, a quiet charm that resonates.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive in its own right.</li>
+            <li>Her butt, plain and average, hints at years of graceful aging. It’s a gentle, reassuring view, a testament to time.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder female butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderFemale_observed_by_Elder_female</defName>
+        <label>Average Anus (Neutral)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average. A common sight among older women, nothing unexpected for {PAWN_possessive} age, similar to my own.</li>
+            <li>An elder woman's backside, very ordinary. It reminds me of what time can do to the body, a natural progression we all face.</li>
+            <li>The visible rear of {PAWN_nameShort} is typical for {PAWN_possessive} age. It's just a normal sight, familiar from my own experiences.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a standard, aged form. Nothing particularly interesting or striking, just as expected for us.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's quite average for an elder, reflecting the usual wear of years that is common to all.</li>
+            <li>{PAWN_nameShortPossessive} derriere is of a common aged shape. It's simply there, unremarkable, like many others I've seen.</li>
+            <li>Her backside, while visible, is entirely ordinary. A typical appearance for someone {PAWN_possessive} age, a common reality among us.</li>
+            <li>The curves of {PAWN_nameShortPossessive} posterior are modest, displaying a common, aged form. Not much to note, as expected.</li>
+            <li>It's a rather standard posterior, nothing particularly noteworthy about {PAWN_nameShortPossessive} curves for an elder. Very average.</li>
+            <li>The posterior of {PAWN_nameShort} is of average size, with a crease that hints at an ordinary, aged form, much like my own.</li>
+            <li>{PAWN_nameShortPossessive} backside presents a familiar silhouette; neither standing out nor being odd for {PAWN_possessive} age. Just normal.</li>
+            <li>Just an ordinary rear for an elder. The visible part of the opening is average, suggesting no unique characteristics.</li>
+            <li>A customary posterior, the form of which seems to be neither exaggerated nor especially tight, typical for an older person.</li>
+            <li>The shape of {PAWN_nameShortPossessive} backside is quite ordinary for {PAWN_possessive} years. It doesn't stand out in any way.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view, consistent with typical elder female anatomy. Plain.</li>
+            <li>A fleeting observation of {PAWN_nameShortPossessive} average-sized rear. It's simply there, a common sight for someone {PAWN_possessive} age.</li>
+            <li>The curve of {PAWN_nameShortPossessive} rear suggests a standard form, with the opening neither overly pronounced nor discreet.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a common sight, its anatomical features are quite unexceptional, just a normal look for an aged person.</li>
+            <li>Its contours are typical for {PAWN_possessive} age, neither firm nor lax. The visible aspect of the rear opening is unremarkable.</li>
+            <li>An ordinary posterior with an average visible rear opening, indicating a common presentation for an elderly female.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale</defName>
+        <label>Average Anus (Neutral)_ElderMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The posterior of {PAWN_nameShort} is a common older male form, showing the passage of time.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside. Its contours are typical for {PAWN_possessive} age, presenting an average form.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses a conventional shape, with the rear opening appearing neither tight nor loose for an older person.</li>
+            <li>It's a rather standard posterior, nothing particularly noteworthy about {PAWN_nameShortPossessive} curves, showing signs of age.</li>
+            <li>The posterior of {PAWN_nameShort} is of average size, with a crease that hints at an ordinary, aged form.</li>
+            <li>{PAWN_nameShortPossessive} backside presents a familiar silhouette; the rear orifice is neither too obvious nor too hidden for {PAWN_possessive} age.</li>
+            <li>Just an ordinary rear for an elder. The visible part of the opening is average, suggesting no unique characteristics.</li>
+            <li>A customary posterior, the form of which seems to be neither exaggerated nor especially tight, typical for someone older.</li>
+            <li>The shape of {PAWN_nameShortPossessive} backside is quite ordinary for {PAWN_possessive} years. It doesn't stand out in any way.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view, consistent with typical elder male anatomy. Nothing remarkable to observe.</li>
+            <li>A fleeting observation of {PAWN_nameShortPossessive} average-sized rear, showing its age gracefully. It's simply there, a common sight.</li>
+            <li>The curve of {PAWN_nameShortPossessive} rear suggests a standard form, with the opening neither overly pronounced nor discreet for an elder.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a common sight, its anatomical features are quite unexceptional, just a normal look for an aged person.</li>
+            <li>Its contours are typical for {PAWN_possessive} age, neither firm nor lax. The visible aspect of the rear opening is unremarkable.</li>
+            <li>An ordinary posterior with an average visible rear opening, indicating a common presentation for an elderly male.</li>
+            <li>The form of {PAWN_nameShortPossessive} backside aligns with common expectations for {PAWN_possessive} age, a rather unassuming sight.</li>
+            <li>It's a typical posterior; the visibility of the inner part appears standard, without any notable features for an elder.</li>
+            <li>The posterior of {PAWN_nameShort} is plainly average, offering no surprises in its shape or the slight glimpse of its opening, typical of age.</li>
+            <li>Observing {PAWN_nameShortPossessive} rear, one finds it to be of a very common build for an elder. The general impression is neutral.</li>
+            <li>A standard butt with a typical rear opening for an elderly man, presenting a generally unremarkable anatomical view.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale_observed_by_voyer</defName>
+        <label>Average Anus (Neutral)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A subtle exposure of {PAWN_nameShortPossessive} average, aged posterior, presenting a brief, unexceptional view.</li>
+            <li>The glimpse of {PAWN_nameShortPossessive} derriere reveals a common form for {PAWN_possessive} age, neither concealed nor overtly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior: a sudden, unremarkable sight. Its contours are typical for an elder, just an average view.</li>
+            <li>A chance observation of {PAWN_nameShortPossessive} backside, its visible rear is ordinary for {PAWN_possessive} age, yet still noted.</li>
+            <li>{PAWN_nameShortPossessive} rear appeared, a mundane view, yet it was observed, its average, aged form unmissable.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} butt. It's average for an elder, but the suddenness made it more apparent.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is quite normal for {PAWN_possessive} age, but the unexpected view catches my attention.</li>
+            <li>{PAWN_nameShortPossessive} backside came into view. Its typical, aged shape and moderate visibility were duly noted.</li>
+            <li>The observation of {PAWN_nameShortPossessive} posterior was brief; it's an average form for an elder, nothing particularly striking.</li>
+            <li>A sudden sight of {PAWN_nameShortPossessive} ordinary, aged backside. Its form is common, yet my eyes linger for a moment.</li>
+            <li>{PAWN_nameShortPossessive} rear was suddenly visible. An average, aged curve, but the unexpectedness is somewhat intriguing.</li>
+            <li>The unexpected revealing of {PAWN_nameShortPossessive} posterior. It's common for an elder, but the circumstances heighten awareness.</li>
+            <li>A moment of exposed average, aged posterior from {PAWN_nameShort}. The form is standard, but the forbidden sight is alluring.</li>
+            <li>The sudden appearance of {PAWN_nameShortPossessive} posterior, a common form for {PAWN_possessive} age, yet the illicit nature of the view adds interest.</li>
+            <li>{PAWN_nameShortPossessive} backside, briefly seen. Its average, aged shape is less important than the act of observing itself.</li>
+            <li>A fleeting sight of {PAWN_nameShortPossessive} typical, aged rear. The quick glimpse is surprisingly satisfying despite its normalcy.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is quite ordinary for {PAWN_possessive} years, but the act of seeing it discreetly is captivating.</li>
+            <li>{PAWN_nameShortPossessive} butt became visible. It's an average form for an elder, but the private observation is more engaging.</li>
+            <li>An unexpected view of {PAWN_nameShortPossessive} common, aged posterior. The slight visibility of its opening is noted.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} average, aged backside, a common feature, but the act of noticing it is what matters.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Average Anus (Neutral)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while average for {PAWN_possessive} age, feels somewhat validated by my presence. A common shape, openly displayed.</li>
+            <li>The typical curves of {PAWN_nameShort} are on display, even with age. It’s an average sight, but the shared exposure is appealing.</li>
+            <li>Observing {PAWN_nameShortPossessive} ordinary, aged backside makes me feel more comfortable with my own display. It's just normal, regardless of age.</li>
+            <li>{PAWN_nameShortPossessive} posterior is a standard, aged form. Seeing it confirms the universality of such sights, encouraging my own freedom.</li>
+            <li>The average visibility of {PAWN_nameShortPossessive} aged rear opening is plain to see. This open display is comforting.</li>
+            <li>{PAWN_nameShortPossessive} backside, average in every way for an elder, is now openly presented. This commonality makes my own exhibition feel less extreme.</li>
+            <li>A rather normal, aged posterior. Its exposed state makes me feel a certain kinship, validating the urge to reveal.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} derriere, now visible, seems to implicitly invite further displays, regardless of youth.</li>
+            <li>{PAWN_nameShortPossessive} rear is openly presented. This average sight contributes to a general sense of acceptance for nudity, even in old age.</li>
+            <li>Observing {PAWN_nameShortPossessive} ordinary, aged butt reinforces my desire to expose myself. It’s just how it is.</li>
+            <li>{PAWN_nameShortPossessive} posterior is revealed. Its unremarkable, aged nature makes the act of observation feel natural and uninhibited.</li>
+            <li>The exposed backside of {PAWN_nameShort} is quite average for {PAWN_possessive} years. This openness is a sign of freedom, which I appreciate.</li>
+            <li>A typical, aged posterior, now out in the open. Such displays make me feel less alone in my desires.</li>
+            <li>The visible rear of {PAWN_nameShort} is average for an elder. It’s a common sight that makes me want to show more of myself.</li>
+            <li>{PAWN_nameShortPossessive} exposed posterior, a normal, aged sight. This encourages my own open expression.</li>
+            <li>The sheer normalcy of {PAWN_nameShortPossessive} exposed butt, even with age, makes me feel more at ease in my own skin.</li>
+            <li>An average, aged backside, revealed. This shared experience of exposure is what I live for.</li>
+            <li>{PAWN_nameShortPossessive} posterior is out in the open, and its plainness, even with wrinkles, is strangely liberating.</li>
+            <li>The casual display of {PAWN_nameShortPossessive} common, aged rear confirms that nudity can be just another part of life.</li>
+            <li>{PAWN_nameShortPossessive} butt is visible, a standard form for an elder. This shared vulnerability makes me want to shed my own clothes.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Average Anus (Neutral)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A mundane posterior, yet the sight of {PAWN_nameShortPossessive} exposed, aged backside still sparks a fleeting interest.</li>
+            <li>{PAWN_nameShortPossessive} average, aged rear is visible. While not exceptional, it's a reminder of ever-present possibilities, even with age.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} elderly posterior. It's a normal sight, but even normalcy hints at desire.</li>
+            <li>{PAWN_nameShortPossessive} exposed, aged butt is nothing special, yet the basic anatomy holds a fundamental appeal, regardless of youth.</li>
+            <li>A brief glimpse of {PAWN_nameShortPossessive} average, aged rear opening. My mind drifts to more intimate scenarios.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical for an elder, still conjures thoughts of deeper connections.</li>
+            <li>The sight of {PAWN_nameShortPossessive} elderly posterior, even if average, stirs a subtle undercurrent of longing.</li>
+            <li>An ordinary, aged rear. The mere presence of such a form suggests a potential for pleasure, no matter the years.</li>
+            <li>{PAWN_nameShortPossessive} exposed, aged posterior, a standard shape. It's enough to ignite a familiar internal warmth.</li>
+            <li>Observing {PAWN_nameShortPossessive} average, aged backside, my thoughts immediately turn to carnal desires.</li>
+            <li>{PAWN_nameShortPossessive} elderly rear is visible. Its common form doesn't diminish the sensual possibilities it represents.</li>
+            <li>The exposed posterior of {PAWN_nameShort} is unexceptional for {PAWN_possessive} age, yet my urges awaken regardless.</li>
+            <li>A typical, aged posterior, seen briefly. The anatomical reality fuels a general sense of arousal.</li>
+            <li>The sight of {PAWN_nameShortPossessive} common, aged rear opening, it's enough to trigger a familiar yearning.</li>
+            <li>{PAWN_nameShortPossessive} average, aged backside is presented. My focus quickly shifts to what lies beyond the visual.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} posterior, a simple, ordinary sight, yet my body responds with a subtle thrum, despite the age.</li>
+            <li>Even an average, aged butt like {PAWN_nameShortPossessive} can provoke a surge of instinctual desire within me.</li>
+            <li>The exposed rear of {PAWN_nameShort} is nothing remarkable, but it still stirs a familiar, persistent ache.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a very common, aged form. Yet, the raw fact of its existence is stimulating.</li>
+            <li>Observing {PAWN_nameShortPossessive} average, aged backside: my mind immediately fills with fantasies, despite its plainness.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale_observed_by_Prude</defName>
+        <label>Average Anus (Neutral)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is visible. A common sight for an elder, yet still somewhat uncomfortable to observe.</li>
+            <li>The exposed backside of {PAWN_nameShort}, even at {PAWN_possessive} age. It's an average form, but I find it a little unsettling.</li>
+            <li>Observing {PAWN_nameShortPossessive} aged rear, it's just an ordinary butt, but why must it be so exposed, especially at {PAWN_possessive} years?</li>
+            <li>A common, aged posterior, openly presented. I wish {PAWN_pronoun} would cover {PAWN_objective} up.</li>
+            <li>The visible rear of {PAWN_nameShort} is quite average for an elder. Still, it feels a bit too revealing.</li>
+            <li>{PAWN_nameShortPossessive} backside, while not overtly provocative, makes me feel a touch uneasy due to its exposure.</li>
+            <li>It's just an average, aged posterior, nothing scandalous, yet the sight feels slightly improper.</li>
+            <li>The form of {PAWN_nameShortPossessive} derriere is ordinary for {PAWN_possessive} age, but its exposure is uncalled for.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible. A mundane view, but one that makes me shift awkwardly.</li>
+            <li>An average, aged butt, yet I can't help but feel a pang of discomfort at its public display.</li>
+            <li>{PAWN_nameShortPossessive} posterior, a normal sight for an elder. Still, I prefer things to be more modest.</li>
+            <li>The exposed backside of {PAWN_nameShort} is rather plain, but the lack of discretion is bothersome.</li>
+            <li>A typical, aged posterior, unexpectedly visible. It's an awkward moment for me.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is standard, yet it's still more than I wish to see, particularly from an elder.</li>
+            <li>{PAWN_nameShortPossessive} average, aged backside is out. It’s nothing extreme, but I prefer a more reserved approach.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} elderly posterior. It's ordinary, but I feel a slight blush.</li>
+            <li>The form of {PAWN_nameShortPossessive} rear is unremarkable for {PAWN_possessive} age, yet I find the exposure a little too bold.</li>
+            <li>An ordinary, aged butt, suddenly visible. I wish such things weren't so openly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior is average for an elder. My discomfort is not with {PAWN_objective}, but with the casual nudity.</li>
+            <li>The sight of {PAWN_nameShortPossessive} common, aged backside. It's a bit much for my sensibilities.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale_observed_by_Young_male</defName>
+        <label>Average Anus (Neutral)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average, a common male form. It's a familiar sight among men, nothing surprising.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary. It doesn't particularly stand out.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's a common shape for an elder man. Nothing to write home about.</li>
+            <li>An elder male's rear, neither exceptional nor disappointing. A standard, unremarkable view, just like my own.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It appears to be a typical male form, very common.</li>
+            <li>{PAWN_nameShortPossessive} derriere, a typical aged male form. It has a common, uninteresting presence.</li>
+            <li>His posterior is of an expected average. It’s a comfortable, known shape, but not particularly inspiring.</li>
+            <li>A common derriere, possessing a typical male form. Nothing special to note, just a standard observation.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, fitting the common male physique. Very ordinary.</li>
+            <li>The aged posterior of {PAWN_nameShort} is average, just a general, unremarkable form.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, an everyday sight, like looking in a mirror.</li>
+            <li>His backside, while average, feels like any other male form. Nothing unique, just typical.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, aged shape. It's a calm and steady sight.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a very common male form.</li>
+            <li>The curves of {PAWN_nameShortPossessive} aged backside are average, as expected for a man of his years.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common aged male form. Nothing compelling.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet, unremarkable presence.</li>
+            <li>His butt, plain and average, looks like countless others. It's just there, a common sight for me now.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior, a regular form, presents itself with no distinguishing features.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder male butt; it's a calm, unremarkable form, very much like my own.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale_observed_by_Young_female</defName>
+        <label>Average Anus (Neutral)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while aged, holds an understated appeal. Its average form is a comfortable sight, a testament to time.</li>
+            <li>An elder man, his posterior of average shape. There's a subtle maturity to its presentation, a different kind of masculine beauty that I can appreciate.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet the wisdom of {PAWN_possessive} years lends it a certain quiet dignity, a gentle attraction.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior has a common look. It's a grounded sight, neither exciting nor dull, yet subtly appealing.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is average. It speaks to a lifetime lived, a subtle allure in its experience.</li>
+            <li>{PAWN_nameShortPossessive} butt, a typical aged form. It's not about raw youth, but a different kind of masculine presence.</li>
+            <li>His posterior is of an expected average for an elder. It’s a familiar shape, and the subtle lines tell a story.</li>
+            <li>A common derriere on an elder man. There's an appealing authenticity in its unassuming reality.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its age brings a certain gravitas, a different kind of masculine form that holds a quiet draw.</li>
+            <li>The aged posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a quiet attraction.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, but carries a weight of experience, subtly appealing.</li>
+            <li>His backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet compelling.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, aged shape. It's a calm and steady sight, subtly appealing.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive.</li>
+            <li>The curves of {PAWN_nameShortPossessive} aged backside are average, but convey a sense of calm and collected masculinity, quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common aged form. It holds a different, seasoned kind of allure.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive.</li>
+            <li>His butt, plain and average, hints at years of graceful aging. It’s a gentle, reassuring view.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder male butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Average Anus (Neutral)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average, a common male form. It's a familiar sight among men, nothing surprising, much like my own.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary. It doesn't particularly stand out, reflecting a typical male form.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's a common shape for an elder man. Nothing to write home about, just as expected.</li>
+            <li>An elder male's rear, neither exceptional nor disappointing. A standard, unremarkable view, common to our shared experience.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It appears to be a typical male form, very common, like so many others.</li>
+            <li>{PAWN_nameShortPossessive} derriere, a typical aged male form. It has a common, uninteresting presence, mirroring what I've seen.</li>
+            <li>His posterior is of an expected average. It’s a comfortable, known shape, but not particularly inspiring.</li>
+            <li>A common derriere, possessing a typical male form. Nothing special to note, just a standard observation.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, fitting the common male physique. Very ordinary, a familiar sight.</li>
+            <li>The aged posterior of {PAWN_nameShort} is average, just a general, unremarkable form.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, an everyday sight, like looking at myself years ago.</li>
+            <li>His backside, while average, feels like any other male form. Nothing unique, just typical.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, aged shape. It's a calm and steady sight.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a very common male form.</li>
+            <li>The curves of {PAWN_nameShortPossessive} aged backside are average, as expected for a man of our age.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common aged male form. Nothing compelling.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet, unremarkable presence.</li>
+            <li>His butt, plain and average, looks like countless others. It's just there, a common sight for me now.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior, a regular form, presents itself with no distinguishing features.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder male butt; it's a calm, unremarkable form, very much like my own.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Average Anus (Neutral)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while aged, holds an understated appeal. Its average form is a comfortable sight, a testament to time.</li>
+            <li>An elder man, his posterior of average shape. There's a subtle maturity to its presentation, a different kind of masculine beauty that I can appreciate.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet the wisdom of {PAWN_possessive} years lends it a certain quiet dignity, a gentle attraction.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior has a common look. It's a grounded sight, neither exciting nor dull, yet subtly appealing.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is average. It speaks to a lifetime lived, a subtle allure in its experience.</li>
+            <li>{PAWN_nameShortPossessive} butt, a typical aged form. It's not about raw youth, but a different kind of masculine presence.</li>
+            <li>His posterior is of an expected average for an elder. It’s a familiar shape, and the subtle lines tell a story.</li>
+            <li>A common derriere on an elder man. There's an appealing authenticity in its unassuming reality.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its age brings a certain gravitas, a different kind of masculine form that holds a quiet draw.</li>
+            <li>The aged posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a quiet attraction.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, but carries a weight of experience, subtly appealing.</li>
+            <li>His backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet compelling.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, aged shape. It's a calm and steady sight, subtly appealing.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive.</li>
+            <li>The curves of {PAWN_nameShortPossessive} aged backside are average, but convey a sense of calm and collected masculinity, quite appealing.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common aged form. It holds a different, seasoned kind of allure.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive.</li>
+            <li>His butt, plain and average, hints at years of graceful aging. It’s a gentle, reassuring view.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder male butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale_observed_by_Elder_male</defName>
+        <label>Average Anus (Neutral)_ElderMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior is average, a common male form. It's a familiar sight among men, nothing surprising, much like my own.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary. It doesn't particularly stand out, reflecting a typical male form.</li>
+            <li>Observing {PAWN_nameShortPossessive} butt, it's a common shape for an elder man. Nothing to write home about, just as expected.</li>
+            <li>An elder male's rear, neither exceptional nor disappointing. A standard, unremarkable view, common to our shared experience.</li>
+            <li>The visible rear of {PAWN_nameShort} is average. It appears to be a typical male form, very common, like so many others.</li>
+            <li>{PAWN_nameShortPossessive} derriere, a typical aged male form. It has a common, uninteresting presence, mirroring what I've seen.</li>
+            <li>His posterior is of an expected average. It’s a comfortable, known shape, but not particularly inspiring.</li>
+            <li>A common derriere, possessing a typical male form. Nothing special to note, just a standard observation.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, fitting the common male physique. Very ordinary, a familiar sight.</li>
+            <li>The aged posterior of {PAWN_nameShort} is average, just a general, unremarkable form.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, an everyday sight, like looking at myself years ago.</li>
+            <li>His backside, while average, feels like any other male form. Nothing unique, just typical.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, aged shape. It's a calm and steady sight.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a very common male form.</li>
+            <li>The curves of {PAWN_nameShortPossessive} aged backside are average, as expected for a man of our age.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common aged male form. Nothing compelling.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet, unremarkable presence.</li>
+            <li>His butt, plain and average, looks like countless others. It's just there, a common sight for me now.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior, a regular form, presents itself with no distinguishing features.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder male butt; it's a calm, unremarkable form, very much like my own.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_ElderMale_observed_by_Elder_female</defName>
+        <label>Average Anus (Neutral)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, while aged, holds an understated appeal. Its average form is a comfortable sight, a testament to time, reminding me of earlier years.</li>
+            <li>An elder man, his posterior of average shape. There's a subtle maturity to its presentation, a different kind of masculine beauty that I can appreciate now.</li>
+            <li>The backside of {PAWN_nameShort} is ordinary, yet the wisdom of {PAWN_possessive} years lends it a certain quiet dignity, a gentle attraction, evoking distant memories.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior has a common look. It's a grounded sight, neither exciting nor dull, yet subtly appealing as a man ages.</li>
+            <li>The visible rear opening of {PAWN_nameShort} is average. It speaks to a lifetime lived, a subtle allure in its experience, a familiar story.</li>
+            <li>{PAWN_nameShortPossessive} butt, a typical aged form. It's not about raw youth, but a different kind of masculine presence, something I've come to understand.</li>
+            <li>His posterior is of an expected average for an elder. It’s a familiar shape, and the subtle lines tell a story, making it intriguing for someone who's seen a lot.</li>
+            <li>A common derriere on an elder man. There's an appealing authenticity in its unassuming reality that I can appreciate at my age.</li>
+            <li>{PAWN_nameShortPossessive} rear is plain, yet its age brings a certain gravitas, a different kind of masculine form that holds a quiet draw.</li>
+            <li>The aged posterior of {PAWN_nameShort} is average, but holds a certain comforting familiarity, a quiet attraction that time has refined.</li>
+            <li>Observing {PAWN_nameShortPossessive} older posterior, it's quite typical, but carries a weight of experience, subtly appealing to me now.</li>
+            <li>His backside, while average, feels more authentic due to {PAWN_possessive} years. Nothing remarkable, yet compelling in its quiet strength.</li>
+            <li>{PAWN_nameShortPossessive} posterior has a common, aged shape. It's a calm and steady sight, subtly appealing with a hint of wisdom.</li>
+            <li>A typical posterior for {PAWN_nameShortPossessive} age, suggesting a history, which is subtly attractive now that I am older.</li>
+            <li>The curves of {PAWN_nameShortPossessive} aged backside are average, but convey a sense of calm and collected masculinity, quite appealing in its understated way.</li>
+            <li>{PAWN_nameShortPossessive} rear is visible, a common aged male form. It holds a different, seasoned kind of allure, a quiet charm that resonates.</li>
+            <li>The average posterior of {PAWN_nameShort} carries a quiet confidence from {PAWN_possessive} age, which is attractive in its own right.</li>
+            <li>His butt, plain and average, hints at years of graceful aging. It’s a gentle, reassuring view, a testament to time.</li>
+            <li>{PAWN_nameShortPossessive} aged posterior, a regular form, presents itself with an undeniable, if subtle, appeal.</li>
+            <li>Observing {PAWN_nameShortPossessive} average elder male butt; it's a calm, unremarkable form, yet intriguing in its own way.</li>
+        </opinionTexts>
+</Def>
+</Defs>

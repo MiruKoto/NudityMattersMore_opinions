@@ -1,0 +1,1982 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature curve of {PAWN_nameShortPossessive} well-formed posterior leads to a surprisingly delicate, modestly visible crease, subtly suggesting a wealth of pleasant experiences.</li>
+            <li>A sudden glimpse of that full, ripened derriere reveals a beautifully proportioned and captivatingly deep recess, truly a sight to behold.</li>
+            <li>{PAWN_nameShortPossessive} inviting, rounded glutes present a pleasingly tight aperture, a testament to enduring grace and subtle allure.</li>
+            <li>The alluring contours of {PAWN_nameShortPossessive} behind, coupled with a perfectly formed, discreetly visible entrance, left me quite impressed.</li>
+            <li>What a remarkably full and well-maintained posterior! The intimate details, though subtle, hint at a life richly lived and enjoyed.</li>
+            <li>A shapely, mature curve descends to an almost hidden, intriguing center. I felt a definite pull of appreciation for its exquisite form.</li>
+            <li>Observing {PAWN_nameShortPossessive} shapely backside, the tight, subtle folds of {PAWN_possessive} rear aperture were surprisingly appealing.</li>
+            <li>The soft, generous lines of {PAWN_nameShortPossessive} posterior gracefully draw the eye to a small, almost unseen, but perfectly defined opening.</li>
+            <li>{PAWN_nameShortPossessive} mature physique boasts a wonderfully firm, ample backside with a tantalizingly deep and inviting central detail.</li>
+            <li>The rich form of {PAWN_nameShortPossessive} buttocks culminates in a discreet, alluringly tight recess. A truly pleasant and satisfying sight.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} rounded, ample posterior reveals a surprisingly well-preserved, petite opening, eliciting a silent admiration.</li>
+            <li>The graceful slope of {PAWN_nameShortPossessive} backside, leading to a small, almost hidden, yet impeccably formed central point, is quite charming.</li>
+            <li>Such a full and aesthetically pleasing posterior! The subtle nature of {PAWN_possessive} rear aperture only adds to its mystique and appeal.</li>
+            <li>{PAWN_nameShortPossessive} delightful derriere, with its subtly defined and captivatingly deep central point, is truly a work of art.</li>
+            <li>A remarkably firm and inviting posterior, where the central feature is a small, neat, and highly pleasing sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} mature, curvaceous rear end, with its impeccably tight and discreetly visible crease, brought a warm feeling.</li>
+            <li>I was struck by the harmonious shape of {PAWN_nameShortPossessive} butt and the surprisingly refined, elegant appearance of {PAWN_possessive} private detail.</li>
+            <li>{PAWN_nameShortPossessive} well-defined buttocks gracefully frame a small, alluringly deep, and perfectly presented intimate area.</li>
+            <li>The glimpse of that firm, mature posterior with its neatly tucked and appealingly small opening was surprisingly pleasant.</li>
+            <li>The sight of {PAWN_nameShortPossessive} ample, rounded backside, subtly hinting at a delicate central crevice, was quite appealing.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale_observed_by_voyer</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A hidden delight! The mature curves of {PAWN_nameShortPossessive} posterior reveal a tantalizingly small, almost clandestine recess, captivating my gaze.</li>
+            <li>Catching a glimpse of that ripe, shapely derriere, its intimate depths are both subtle and profoundly intriguing; a true voyeur's reward.</li>
+            <li>The full, rounded architecture of {PAWN_nameShortPossessive} buttocks expertly conceals a deep, mysterious aperture, sparking my deepest curiosities.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} ample backside and its precisely formed, alluringly deep crevice was a moment of pure, unexpected satisfaction.</li>
+            <li>Such a captivating view! {PAWN_nameShortPossessive} mature, well-proportioned rear offers a secret, tightly sealed mystery I long to uncover.</li>
+            <li>The subtle reveal of that perfectly shaped posterior and its intriguing, barely visible opening sent a thrilling shiver down my spine.</li>
+            <li>I savored the sight of {PAWN_nameShortPossessive} mature, rounded silhouette, drawing my eye to the wonderfully concealed yet tempting central point.</li>
+            <li>The full, inviting contours of {PAWN_nameShortPossessive} behind, gracefully leading to a private, fascinatingly tight recess, are utterly mesmerizing.</li>
+            <li>A truly masterful display! The ample dimensions of {PAWN_nameShortPossessive} posterior culminate in an exquisitely subtle, yet profoundly attractive, hidden depth.</li>
+            <li>The mature, firm curve of {PAWN_nameShortPossessive} buttocks perfectly frames a small, dark, and utterly enticing secret; a sight to obsess over.</li>
+            <li>My eyes lingered on that beautifully full backside, fascinated by the surprisingly discreet and appealingly tight central fold it presented.</li>
+            <li>To unexpectedly witness {PAWN_nameShortPossessive} well-formed, mature derriere, with its subtly suggested, profound inner beauty, was a rare privilege.</li>
+            <li>The sudden, fleeting sight of {PAWN_nameShortPossessive} shapely bottom and its perfectly formed, almost hidden opening filled me with quiet delight.</li>
+            <li>The mature sweep of {PAWN_nameShortPossessive} lower back to {PAWN_possessive} rounded cheeks, ending in a tantalizingly deep crease, held my full attention.</li>
+            <li>What a secret pleasure! That ample, mature posterior, with its perfectly proportioned and tantalizingly private central feature, is a joy to behold.</li>
+            <li>I found myself captivated by the subtle undulations of {PAWN_nameShortPossessive} backside, leading to a surprisingly deep and alluringly tight focal point.</li>
+            <li>The robust, mature lines of {PAWN_nameShortPossessive} derriere, expertly framing a small, yet profoundly attractive, intimate glimpse, are truly engrossing.</li>
+            <li>An exquisite specimen of mature form; {PAWN_nameShortPossessive} rounded posterior gracefully leads to a subtly visible, highly intriguing central detail.</li>
+            <li>The unbidden vision of {PAWN_nameShortPossessive} full, shapely butt, showcasing a discreet and wonderfully tight aperture, was a true gift.</li>
+            <li>I couldn't help but admire the magnificent shape of {PAWN_nameShortPossessive} mature buttocks and the alluringly hidden, deeply appealing, central beauty within.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The full, mature curves of {PAWN_nameShortPossessive} behind, with a prominent, inviting opening, makes me want to put my own on display.</li>
+            <li>A magnificent posterior, boldly presented, its pleasingly deep and visible crease inspiring me to share my own glorious form with the world.</li>
+            <li>{PAWN_nameShortPossessive} ample, rounded derriere, showcasing a delightful and clearly visible central feature, truly ignites my own exhibitionist desires.</li>
+            <li>The unashamed display of {PAWN_nameShortPossessive} beautiful buttocks and its tantalizingly open, appealing aperture fills me with a shared sense of liberation.</li>
+            <li>What a confident display! The shapely form of {PAWN_nameShortPossessive} rear, with its unreservedly visible and attractive deep recess, is inspiring.</li>
+            <li>Seeing that plump, mature backside and its unapologetically clear opening makes me yearn for others to admire my own anatomy just as freely.</li>
+            <li>The generous, mature lines of {PAWN_nameShortPossessive} posterior, presenting a delightfully visible and well-defined center, fuels my own urge to expose.</li>
+            <li>{PAWN_nameShortPossessive} curvaceous behind, with its readily apparent and pleasingly deep aperture, makes me feel a powerful urge to show myself.</li>
+            <li>The overt splendor of {PAWN_nameShortPossessive} ample buttocks, crowned by a visibly inviting and well-formed intimate detail, is truly exhilarating.</li>
+            <li>A truly fearless presentation! The mature, rounded beauty of {PAWN_nameShortPossessive} posterior, revealing a luscious and deep opening, stirs my soul.</li>
+            <li>I am invigorated by the sight of {PAWN_nameShortPossessive} well-formed, mature backside, its clear and welcoming central feature a true highlight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} boldly presented, full derriere, with its prominent and deep recess, encourages my own desire for exposure.</li>
+            <li>{PAWN_nameShortPossessive} shapely buttocks, openly displaying a wonderfully defined and deeply alluring central point, fills me with a sense of camaraderie.</li>
+            <li>That mature, inviting posterior, with its uninhibited and visible inner beauty, makes me want to join in this delightful display of form.</li>
+            <li>The full, confident presentation of {PAWN_nameShortPossessive} rear, accentuating a clearly visible and appealingly deep opening, is truly a sight.</li>
+            <li>I appreciate the candid beauty of {PAWN_nameShortPossessive} rounded backside, its perfectly presented and profoundly attractive inner folds calling to me.</li>
+            <li>The voluptuous, mature curve of {PAWN_nameShortPossessive} glutes, revealing a distinctly visible and inviting central feature, is a grand inspiration.</li>
+            <li>{PAWN_nameShortPossessive} bold display of {PAWN_possessive} ample posterior and its wonderfully open, deep aperture makes me feel a powerful connection.</li>
+            <li>What a beautiful and unashamed display! The mature backside and its visible, captivating intimate detail are profoundly stimulating to my own desires.</li>
+            <li>The glorious sight of {PAWN_nameShortPossessive} rounded, mature derriere, showcasing a clearly defined and alluringly deep internal structure, excites me.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} mature, curvaceous posterior, with its deep and invitingly visible crease, stirs a profound urge within me.</li>
+            <li>A truly enticing derriere! Its full, ripened form and the tantalizingly deep, open recess ignited an immediate, overwhelming desire.</li>
+            <li>{PAWN_nameShortPossessive} ample, rounded buttocks, revealing a gloriously deep and well-defined aperture, fills me with an intense, pleasurable longing.</li>
+            <li>The captivating vision of {PAWN_nameShortPossessive} shapely backside and its clearly visible, remarkably open, and utterly tempting intimate depths is maddening.</li>
+            <li>Oh, the possibilities! That perfectly formed, mature posterior, with its sensually deep and invitingly clear opening, makes my blood race.</li>
+            <li>The generous, mature curves of {PAWN_nameShortPossessive} behind, culminating in a profoundly open and alluringly deep center, provoke an insatiable hunger.</li>
+            <li>I am overcome by the primal beauty of {PAWN_nameShortPossessive} full, ripe posterior and its readily apparent, divinely deep, and utterly tempting recess.</li>
+            <li>{PAWN_nameShortPossessive} alluring backside, with its sensuously deep and visibly open intimate part, stirs a powerful, undeniable longing within my core.</li>
+            <li>The magnificent form of {PAWN_nameShortPossessive} mature buttocks, revealing a tantalizingly deep and wide aperture, sends shivers of pure desire through me.</li>
+            <li>A truly exquisite, mature derriere! Its profound depth and visible invitation ignites a furious, undeniable passion that demands immediate release.</li>
+            <li>My gaze is drawn irresistibly to {PAWN_nameShortPossessive} full, ripened posterior, its deep, welcoming crease promising unimaginable pleasure.</li>
+            <li>The sight of {PAWN_nameShortPossessive} curvaceous backside, with its subtly visible but immensely appealing depth, ignites a burning desire to explore.</li>
+            <li>{PAWN_nameShortPossessive} ample, mature buttocks present a tantalizingly open and exquisitely deep center, causing an almost unbearable ache of anticipation.</li>
+            <li>That voluptuous, mature derriere, with its invitingly dark and deep opening, sets my entire being ablaze with an urgent, primal need.</li>
+            <li>A profound, beautiful sight! The mature, well-rounded posterior and its wonderfully clear, deep intimate detail sparks an intense, overwhelming lust.</li>
+            <li>The uninhibited view of {PAWN_nameShortPossessive} shapely backside, showcasing its remarkable depth and visible invitation, is simply intoxicating.</li>
+            <li>{PAWN_nameShortPossessive} mature form, with its generously curved posterior leading to a sensually deep and open aperture, is utterly captivating.</li>
+            <li>The irresistible allure of {PAWN_nameShortPossessive} full, ripe buttocks and its profoundly deep, visibly tempting inner folds compels me to act.</li>
+            <li>Oh, to feel the embrace of that firm, mature posterior, with its deep, welcoming portal! The longing is almost unbearable.</li>
+            <li>The glorious sight of {PAWN_nameShortPossessive} rounded, mature derriere, showcasing a clearly defined and alluringly deep internal structure, excites me beyond measure.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale_observed_by_Prude</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature posterior of {PAWN_nameShortPossessive} is certainly well-formed, though {PAWN_possessive} private details are perhaps a bit too visible for my comfort.</li>
+            <li>A glimpse of that backside revealed a surprisingly deep and prominent crease. While aesthetically sound, such openness is rather… shocking.</li>
+            <li>{PAWN_nameShortPossessive} rounded buttocks are undeniably pleasing in shape, but the visible intimate area is a tad too revealing for polite society.</li>
+            <li>The sudden, clear view of {PAWN_nameShortPossessive} mature derriere and its unreservedly visible aperture was quite jarring, despite its good form.</li>
+            <li>While one can appreciate the robust form of {PAWN_nameShortPossessive} posterior, the evident visibility of {PAWN_possessive} private parts is certainly… direct.</li>
+            <li>The full, mature curve of {PAWN_nameShortPossessive} behind is pleasant, but the noticeable depth of its intimate feature feels somewhat audacious.</li>
+            <li>I was rather taken aback by the clear presentation of {PAWN_nameShortPossessive} ample backside and its surprisingly exposed and detailed central area.</li>
+            <li>{PAWN_nameShortPossessive} well-defined buttocks are of good shape, yet the obviousness of the central crevice is more than I typically prefer to observe.</li>
+            <li>A mature physique, certainly, but the way the intimate details of {PAWN_nameShortPossessive} posterior are so readily apparent is a touch immodest.</li>
+            <li>One cannot deny the robust beauty of {PAWN_nameShortPossessive} backside, yet the profound visibility of its most private part is rather… stark.</li>
+            <li>The unexpected sight of {PAWN_nameShortPossessive} rounded posterior, revealing such a prominent and deep opening, was quite a lot to take in.</li>
+            <li>While the overall form of {PAWN_nameShortPossessive} mature derriere is commendable, the distinct visibility of its central feature is somewhat bold.</li>
+            <li>{PAWN_nameShortPossessive} shapely buttocks are admirable, but the conspicuousness of the rear aperture feels a bit… too open for my sensibilities.</li>
+            <li>A well-developed backside, yet the unreserved exposure of its intimate part is a clear departure from what one would consider proper.</li>
+            <li>The ample, mature curves of {PAWN_nameShortPossessive} behind, while attractive, offer a view of its central detail that is perhaps too clear.</li>
+            <li>One's eyes are drawn to the full, mature shape, but the unmistakable prominence of {PAWN_nameShortPossessive} intimate crevice is certainly forthright.</li>
+            <li>The uninhibited display of {PAWN_nameShortPossessive} posterior's intimate parts is striking, though it does rather challenge one's sense of propriety.</li>
+            <li>While the mature form of {PAWN_nameShortPossessive} buttocks is aesthetically sound, the degree of visibility of its deep center is quite pronounced.</li>
+            <li>The ample backside of {PAWN_nameShortPossessive} is well-proportioned, but the obviousness of the rear opening is rather less discreet than ideal.</li>
+            <li>A robust and mature derriere, but the very evident nature of its private detail makes me feel a slight discomfort, despite its good form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale_observed_by_Young_male</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her mature, full posterior, with its surprisingly delicate and deep crease, is absolutely captivating. I couldn't help but stare.</li>
+            <li>A sudden, enticing glimpse of that ripened derriere and its subtly visible, intriguing depths. Truly a magnificent sight for a young man.</li>
+            <li>Her rounded, ample buttocks, leading to a delightfully tight and dark opening, stirred a profound and unexpected appreciation within me.</li>
+            <li>The way her shapely backside curves into that discreet, yet alluringly deep crevice is quite something. I felt a definite pull.</li>
+            <li>Wow. Her firm, mature posterior, with its subtle, captivatingly deep center, is far more appealing than I expected.</li>
+            <li>That voluptuous, mature backside, presenting a perfectly formed and almost hidden intimate detail, left me speechless. She carries it so well.</li>
+            <li>Her generous, mature glutes, framing a tantalizingly small and deep aperture, are truly stunning. I felt a powerful attraction.</li>
+            <li>The sight of her well-preserved, rounded rear, with its surprising depth and enticing visibility, made me feel a surge of desire.</li>
+            <li>Her robust, mature figure boasts a backside that's both firm and curvaceous, leading to a perfectly neat and invitingly deep crease.</li>
+            <li>Her full, ripe posterior, with its elegantly tight and subtly visible inner folds, sparked a deep fascination within my youthful mind.</li>
+            <li>The mature curve of her lower back descending to such a voluptuous backside, ending in a tantalizingly deep, inviting point, is just… perfect.</li>
+            <li>I was mesmerized by her shapely, mature buttocks and the discreet, yet utterly captivating, profound depth of her intimate area.</li>
+            <li>Her ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a sight to inspire.</li>
+            <li>The unexpected view of her mature, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a pleasant surprise.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that really catches the eye.</li>
+            <li>The way her strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to her mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale_observed_by_Young_female</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her mature posterior has such lovely, full curves, and the central crease is surprisingly neat and well-maintained. Quite inspiring, actually.</li>
+            <li>I noticed her ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very elegant.</li>
+            <li>The way her mature backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. I hope I look like that someday.</li>
+            <li>Her shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are a testament to enduring feminine beauty.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, mature curve of her behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, mature lines of her backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>Her well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to her overall elegant form.</li>
+            <li>It's inspiring to see her mature figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>Her full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The mature sweep of her lower back to those voluptuous curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed her shapely, mature buttocks and the refined, elegant appearance of her private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to her care.</li>
+            <li>The unexpected view of her mature, rounded behind, subtly hinting at a wonderfully deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way her strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to her mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her mature, rounded posterior, with its subtle and deep crease, is a classic beauty. A truly well-preserved and alluring sight.</li>
+            <li>A seasoned observer, I recognize the graceful fullness of her derriere and the exquisitely deep, inviting central feature it conceals.</li>
+            <li>Her shapely, mature buttocks, leading to a perfectly tight and deep aperture, hint at a rich experience. Quite captivating.</li>
+            <li>The unexpected sight of her ample backside, revealing a discreet yet profoundly alluring and well-formed intimate part, was a pleasant surprise.</li>
+            <li>Indeed, a splendid posterior. Her firm, mature curves and the subtly visible, deep recess speak of timeless elegance and pleasure.</li>
+            <li>The generous lines of her mature behind, gracefully framing a tantalizingly small yet deeply inviting central point, are quite remarkable.</li>
+            <li>I appreciate the classic beauty of her mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they reveal.</li>
+            <li>Her well-preserved, robust physique boasts a backside both firm and curvaceous, culminating in a neatly tucked, exquisitely deep intimate detail.</li>
+            <li>That full, ripe posterior, with its elegantly tight and subtly visible inner folds, shows a refined grace that is truly attractive.</li>
+            <li>The mature sweep of her lower back to such a voluptuous backside, ending in a tantalizingly deep, inviting point, is a seasoned man's delight.</li>
+            <li>I was drawn to her shapely, mature buttocks and the refined, elegant appearance of her private detail. A subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a testament to enduring charm.</li>
+            <li>The view of her mature, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a most welcome sight.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that truly captures attention.</li>
+            <li>The way her strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is admirable.</li>
+            <li>I felt a distinct, positive reaction to her mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+            <li>The graceful contours of her mature posterior, leading to a discreet yet profoundly appealing and well-structured intimate area, are a joy to behold.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her mature posterior has such lovely, full curves, and the central crease is surprisingly neat and well-maintained. Quite inspiring, actually.</li>
+            <li>I noticed her ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very elegant.</li>
+            <li>The way her mature backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. I hope I look like that someday.</li>
+            <li>Her shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are a testament to enduring feminine beauty.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, mature curve of her behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, mature lines of her backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>Her well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to her overall elegant form.</li>
+            <li>It's inspiring to see her mature figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>Her full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The mature sweep of her lower back to those voluptuous curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed her shapely, mature buttocks and the refined, elegant appearance of her private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to her care.</li>
+            <li>The unexpected view of her mature, rounded behind, subtly hinting at a wonderfully deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way her strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to her mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale_observed_by_Elder_male</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her mature, full posterior, with its surprisingly delicate and deep crease, is a testament to enduring beauty. Still got it!</li>
+            <li>A sudden, enticing glimpse of that ripened derriere and its subtly visible, intriguing depths. Age has only enhanced its charm.</li>
+            <li>Her rounded, ample buttocks, leading to a delightfully tight and dark opening, stirred a profound and unexpected appreciation within me.</li>
+            <li>The way her shapely backside curves into that discreet, yet alluringly deep crevice is quite something. A truly classic form.</li>
+            <li>Indeed, a splendid posterior. Her firm, mature curves and the subtly visible, deep recess speak of timeless elegance and pleasure.</li>
+            <li>The generous lines of her mature behind, gracefully framing a tantalizingly small yet deeply inviting central point, are quite remarkable.</li>
+            <li>I appreciate the classic beauty of her mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they reveal.</li>
+            <li>Her well-preserved, robust physique boasts a backside both firm and curvaceous, culminating in a neatly tucked, exquisitely deep intimate detail.</li>
+            <li>That full, ripe posterior, with its elegantly tight and subtly visible inner folds, shows a refined grace that is truly attractive.</li>
+            <li>The mature sweep of her lower back to such a voluptuous backside, ending in a tantalizingly deep, inviting point, is a seasoned man's delight.</li>
+            <li>I was drawn to her shapely, mature buttocks and the refined, elegant appearance of her private detail. A subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a testament to enduring charm.</li>
+            <li>The view of her mature, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a most welcome sight.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that truly captures attention.</li>
+            <li>The way her strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is admirable.</li>
+            <li>I felt a distinct, positive reaction to her mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+            <li>The graceful contours of her mature posterior, leading to a discreet yet profoundly appealing and well-structured intimate area, are a joy to behold.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureFemale_observed_by_Elder_female</defName>
+        <label>Abyssal Anus (Positive)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her mature posterior has such lovely, full curves, and the central crease is surprisingly neat and well-maintained. A fine example for her age.</li>
+            <li>I noticed her ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very elegant.</li>
+            <li>The way her mature backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. A graceful aging.</li>
+            <li>Her shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are a testament to enduring feminine beauty.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, mature curve of her behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, mature lines of her backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>Her well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to her overall elegant form.</li>
+            <li>It's inspiring to see her mature figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>Her full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The mature sweep of her lower back to those voluptuous curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed her shapely, mature buttocks and the refined, elegant appearance of her private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to her care.</li>
+            <li>The unexpected view of her mature, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way her strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to her mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+
+
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale</defName>
+        <label>Abyssal Anus (Positive)_MatureMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature masculinity of {PAWN_nameShortPossessive} firm posterior leads to a surprisingly neat, modestly visible crease, subtly suggesting strength and experience.</li>
+            <li>A sudden glimpse of that solid, ripened derriere reveals a beautifully proportioned and captivatingly deep recess, truly a sight of mature virility.</li>
+            <li>{PAWN_nameShortPossessive} strong, rounded glutes present a pleasingly tight aperture, a testament to enduring power and subtle appeal.</li>
+            <li>The alluring contours of {PAWN_nameShortPossessive} behind, coupled with a perfectly formed, discreetly visible entrance, left me quite impressed by its rugged charm.</li>
+            <li>What a remarkably firm and well-maintained posterior! The intimate details, though subtle, hint at a life richly lived and enjoyed with vigor.</li>
+            <li>A shapely, mature curve descends to an almost hidden, intriguing center. I felt a definite pull of appreciation for its robust form.</li>
+            <li>Observing {PAWN_nameShortPossessive} strong backside, the tight, subtle folds of {PAWN_possessive} rear aperture were surprisingly appealing.</li>
+            <li>The solid, generous lines of {PAWN_nameShortPossessive} posterior gracefully draw the eye to a small, almost unseen, but perfectly defined opening.</li>
+            <li>{PAWN_nameShortPossessive} mature physique boasts a wonderfully firm, ample backside with a tantalizingly deep and inviting central detail.</li>
+            <li>The rich form of {PAWN_nameShortPossessive} buttocks culminates in a discreet, alluringly tight recess. A truly pleasant and satisfying sight of masculinity.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} rounded, ample posterior reveals a surprisingly well-preserved, petite opening, eliciting silent admiration.</li>
+            <li>The graceful slope of {PAWN_nameShortPossessive} backside, leading to a small, almost hidden, yet impeccably formed central point, is quite charming.</li>
+            <li>Such a firm and aesthetically pleasing posterior! The subtle nature of {PAWN_possessive} rear aperture only adds to its mystique and appeal.</li>
+            <li>{PAWN_nameShortPossessive} delightful derriere, with its subtly defined and captivatingly deep central point, is truly a work of masculine art.</li>
+            <li>A remarkably firm and inviting posterior, where the central feature is a small, neat, and highly pleasing sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} mature, robust rear end, with its impeccably tight and discreetly visible crease, brought a warm feeling.</li>
+            <li>I was struck by the harmonious shape of {PAWN_nameShortPossessive} butt and the surprisingly refined, elegant appearance of {PAWN_possessive} private detail.</li>
+            <li>{PAWN_nameShortPossessive} well-defined buttocks gracefully frame a small, alluringly deep, and perfectly presented intimate area.</li>
+            <li>The glimpse of that firm, mature posterior with its neatly tucked and appealingly small opening was surprisingly pleasant.</li>
+            <li>The sight of {PAWN_nameShortPossessive} ample, rounded backside, subtly hinting at a delicate central crevice, was quite appealing.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale_observed_by_voyer</defName>
+        <label>Abyssal Anus (Positive)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A hidden delight! The mature strength of {PAWN_nameShortPossessive} posterior reveals a tantalizingly small, almost clandestine recess, captivating my gaze.</li>
+            <li>Catching a glimpse of that ripe, shapely derriere, its intimate depths are both subtle and profoundly intriguing; a true voyeur's reward.</li>
+            <li>The firm, rounded architecture of {PAWN_nameShortPossessive} buttocks expertly conceals a deep, mysterious aperture, sparking my deepest curiosities.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} ample backside and its precisely formed, alluringly deep crevice was a moment of pure, unexpected satisfaction.</li>
+            <li>Such a captivating view! {PAWN_nameShortPossessive} mature, well-proportioned rear offers a secret, tightly sealed mystery I long to uncover.</li>
+            <li>The subtle reveal of that perfectly shaped posterior and its intriguing, barely visible opening sent a thrilling shiver down my spine.</li>
+            <li>I savored the sight of {PAWN_nameShortPossessive} mature, rounded silhouette, drawing my eye to the wonderfully concealed yet tempting central point.</li>
+            <li>The firm, inviting contours of {PAWN_nameShortPossessive} behind, gracefully leading to a private, fascinatingly tight recess, are utterly mesmerizing.</li>
+            <li>A truly masterful display! The ample dimensions of {PAWN_nameShortPossessive} posterior culminate in an exquisitely subtle, yet profoundly attractive, hidden depth.</li>
+            <li>The mature, firm curve of {PAWN_nameShortPossessive} buttocks perfectly frames a small, dark, and utterly enticing secret; a sight to obsess over.</li>
+            <li>My eyes lingered on that beautifully firm backside, fascinated by the surprisingly discreet and appealingly tight central fold it presented.</li>
+            <li>To unexpectedly witness {PAWN_nameShortPossessive} well-formed, mature derriere, with its subtly suggested, profound inner beauty, was a rare privilege.</li>
+            <li>The sudden, fleeting sight of {PAWN_nameShortPossessive} shapely bottom and its perfectly formed, almost hidden opening filled me with quiet delight.</li>
+            <li>The mature sweep of {PAWN_nameShortPossessive} lower back to {PAWN_possessive} rounded cheeks, ending in a tantalizingly deep crease, held my full attention.</li>
+            <li>What a secret pleasure! That ample, mature posterior, with its perfectly proportioned and tantalizingly private central feature, is a joy to behold.</li>
+            <li>I found myself captivated by the subtle undulations of {PAWN_nameShortPossessive} backside, leading to a surprisingly deep and alluringly tight focal point.</li>
+            <li>The robust, mature lines of {PAWN_nameShortPossessive} derriere, expertly framing a small, yet profoundly attractive, intimate glimpse, are truly engrossing.</li>
+            <li>An exquisite specimen of mature form; {PAWN_nameShortPossessive} rounded posterior gracefully leads to a subtly visible, highly intriguing central detail.</li>
+            <li>The unbidden vision of {PAWN_nameShortPossessive} firm, shapely butt, showcasing a discreet and wonderfully tight aperture, was a true gift.</li>
+            <li>I couldn't help but admire the magnificent shape of {PAWN_nameShortPossessive} mature buttocks and the alluringly hidden, deeply appealing, central beauty within.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Abyssal Anus (Positive)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The firm, mature curves of {PAWN_nameShortPossessive} behind, with a prominent, inviting opening, makes me want to put my own on display.</li>
+            <li>A magnificent posterior, boldly presented, its pleasingly deep and visible crease inspiring me to share my own glorious form with the world.</li>
+            <li>{PAWN_nameShortPossessive} ample, rounded derriere, showcasing a delightful and clearly visible central feature, truly ignites my own exhibitionist desires.</li>
+            <li>The unashamed display of {PAWN_nameShortPossessive} beautiful buttocks and its tantalizingly open, appealing aperture fills me with a shared sense of liberation.</li>
+            <li>What a confident display! The shapely form of {PAWN_nameShortPossessive} rear, with its unreservedly visible and attractive deep recess, is inspiring.</li>
+            <li>Seeing that solid, mature backside and its unapologetically clear opening makes me yearn for others to admire my own anatomy just as freely.</li>
+            <li>The generous, mature lines of {PAWN_nameShortPossessive} posterior, presenting a delightfully visible and well-defined center, fuels my own urge to expose.</li>
+            <li>{PAWN_nameShortPossessive} curvaceous behind, with its readily apparent and pleasingly deep aperture, makes me feel a powerful urge to show myself.</li>
+            <li>The overt splendor of {PAWN_nameShortPossessive} ample buttocks, crowned by a visibly inviting and well-formed intimate detail, is truly exhilarating.</li>
+            <li>A truly fearless presentation! The mature, rounded beauty of {PAWN_nameShortPossessive} posterior, revealing a luscious and deep opening, stirs my soul.</li>
+            <li>I am invigorated by the sight of {PAWN_nameShortPossessive} well-formed, mature backside, its clear and welcoming central feature a true highlight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} boldly presented, firm derriere, with its prominent and deep recess, encourages my own desire for exposure.</li>
+            <li>{PAWN_nameShortPossessive} shapely buttocks, openly displaying a wonderfully defined and deeply alluring central point, fills me with a sense of camaraderie.</li>
+            <li>That mature, inviting posterior, with its uninhibited and visible inner beauty, makes me want to join in this delightful display of form.</li>
+            <li>The full, confident presentation of {PAWN_nameShortPossessive} rear, accentuating a clearly visible and appealingly deep opening, is truly a sight.</li>
+            <li>I appreciate the candid beauty of {PAWN_nameShortPossessive} rounded backside, its perfectly presented and profoundly attractive inner folds calling to me.</li>
+            <li>The voluptuous, mature curve of {PAWN_nameShortPossessive} glutes, revealing a distinctly visible and inviting central feature, is a grand inspiration.</li>
+            <li>{PAWN_nameShortPossessive} bold display of {PAWN_possessive} ample posterior and its wonderfully open, deep aperture makes me feel a powerful connection.</li>
+            <li>What a beautiful and unashamed display! The mature backside and its visible, captivating intimate detail are profoundly stimulating to my own desires.</li>
+            <li>The glorious sight of {PAWN_nameShortPossessive} rounded, mature derriere, showcasing a clearly defined and alluringly deep internal structure, excites me.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Abyssal Anus (Positive)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} mature, firm posterior, with its deep and invitingly visible crease, stirs a profound urge within me.</li>
+            <li>A truly enticing derriere! Its solid, ripened form and the tantalizingly deep, open recess ignited an immediate, overwhelming desire.</li>
+            <li>{PAWN_nameShortPossessive} ample, rounded buttocks, revealing a gloriously deep and well-defined aperture, fills me with an intense, pleasurable longing.</li>
+            <li>The captivating vision of {PAWN_nameShortPossessive} shapely backside and its clearly visible, remarkably open, and utterly tempting intimate depths is maddening.</li>
+            <li>Oh, the possibilities! That perfectly formed, mature posterior, with its sensually deep and invitingly clear opening, makes my blood race.</li>
+            <li>The generous, mature curves of {PAWN_nameShortPossessive} behind, culminating in a profoundly open and alluringly deep center, provoke an insatiable hunger.</li>
+            <li>I am overcome by the primal beauty of {PAWN_nameShortPossessive} full, ripe posterior and its readily apparent, divinely deep, and utterly tempting recess.</li>
+            <li>{PAWN_nameShortPossessive} alluring backside, with its sensuously deep and visibly open intimate part, stirs a powerful, undeniable longing within my core.</li>
+            <li>The magnificent form of {PAWN_nameShortPossessive} mature buttocks, revealing a tantalizingly deep and wide aperture, sends shivers of pure desire through me.</li>
+            <li>A truly exquisite, mature derriere! Its profound depth and visible invitation ignites a furious, undeniable passion that demands immediate release.</li>
+            <li>My gaze is drawn irresistibly to {PAWN_nameShortPossessive} full, ripened posterior, its deep, welcoming crease promising unimaginable pleasure.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm backside, with its subtly visible but immensely appealing depth, ignites a burning desire to explore.</li>
+            <li>{PAWN_nameShortPossessive} ample, mature buttocks present a tantalizingly open and exquisitely deep center, causing an almost unbearable ache of anticipation.</li>
+            <li>That voluptuous, mature derriere, with its invitingly dark and deep opening, sets my entire being ablaze with an urgent, primal need.</li>
+            <li>A profound, beautiful sight! The mature, well-rounded posterior and its wonderfully clear, deep intimate detail sparks an intense, overwhelming lust.</li>
+            <li>The uninhibited view of {PAWN_nameShortPossessive} shapely backside, showcasing its remarkable depth and visible invitation, is simply intoxicating.</li>
+            <li>{PAWN_nameShortPossessive} mature form, with its generously curved posterior leading to a sensually deep and open aperture, is utterly captivating.</li>
+            <li>The irresistible allure of {PAWN_nameShortPossessive} full, ripe buttocks and its profoundly deep, visibly tempting inner folds compels me to act.</li>
+            <li>Oh, to feel the embrace of that firm, mature posterior, with its deep, welcoming portal! The longing is almost unbearable.</li>
+            <li>The glorious sight of {PAWN_nameShortPossessive} rounded, mature derriere, showcasing a clearly defined and alluringly deep internal structure, excites me beyond measure.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale_observed_by_Prude</defName>
+        <label>Abyssal Anus (Positive)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The mature posterior of {PAWN_nameShortPossessive} is certainly well-formed, though {PAWN_possessive} private details are perhaps a bit too visible for my comfort.</li>
+            <li>A glimpse of that backside revealed a surprisingly deep and prominent crease. While aesthetically sound, such openness is rather… shocking.</li>
+            <li>{PAWN_nameShortPossessive} rounded buttocks are undeniably pleasing in shape, but the visible intimate area is a tad too revealing for polite society.</li>
+            <li>The sudden, clear view of {PAWN_nameShortPossessive} mature derriere and its unreservedly visible aperture was quite jarring, despite its good form.</li>
+            <li>While one can appreciate the robust form of {PAWN_nameShortPossessive} posterior, the evident visibility of {PAWN_possessive} private parts is certainly… direct.</li>
+            <li>The firm, mature curve of {PAWN_nameShortPossessive} behind is pleasant, but the noticeable depth of its intimate feature feels somewhat audacious.</li>
+            <li>I was rather taken aback by the clear presentation of {PAWN_nameShortPossessive} ample backside and its surprisingly exposed and detailed central area.</li>
+            <li>{PAWN_nameShortPossessive} well-defined buttocks are of good shape, yet the obviousness of the central crevice is more than I typically prefer to observe.</li>
+            <li>A mature physique, certainly, but the way the intimate details of {PAWN_nameShortPossessive} posterior are so readily apparent is a touch immodest.</li>
+            <li>One cannot deny the robust beauty of {PAWN_nameShortPossessive} backside, yet the profound visibility of its most private part is rather… stark.</li>
+            <li>The unexpected sight of {PAWN_nameShortPossessive} rounded posterior, revealing such a prominent and deep opening, was quite a lot to take in.</li>
+            <li>While the overall form of {PAWN_nameShortPossessive} mature derriere is commendable, the distinct visibility of its central feature is somewhat bold.</li>
+            <li>{PAWN_nameShortPossessive} shapely buttocks are admirable, but the conspicuousness of the rear aperture feels a bit… too open for my sensibilities.</li>
+            <li>A well-developed backside, yet the unreserved exposure of its intimate part is a clear departure from what one would consider proper.</li>
+            <li>The ample, mature curves of {PAWN_nameShortPossessive} behind, while attractive, offer a view of its central detail that is perhaps too clear.</li>
+            <li>One's eyes are drawn to the full, mature shape, but the unmistakable prominence of {PAWN_nameShortPossessive} intimate crevice is certainly forthright.</li>
+            <li>The uninhibited display of {PAWN_nameShortPossessive} posterior's intimate parts is striking, though it does rather challenge one's sense of propriety.</li>
+            <li>While the mature form of {PAWN_nameShortPossessive} buttocks is aesthetically sound, the degree of visibility of its deep center is quite pronounced.</li>
+            <li>The ample backside of {PAWN_nameShortPossessive} is well-proportioned, but the obviousness of the rear opening is rather less discreet than ideal.</li>
+            <li>A robust and mature derriere, but the very evident nature of its private detail makes me feel a slight discomfort, despite its good form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale_observed_by_Young_male</defName>
+        <label>Abyssal Anus (Positive)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His mature, firm posterior, with its surprisingly neat and deep crease, is quite impressive. A strong example for me to follow.</li>
+            <li>A sudden, enticing glimpse of that ripened derriere and its subtly visible, intriguing depths. Solid and well-maintained.</li>
+            <li>His rounded, ample buttocks, leading to a delightfully tight and dark opening, stirred a profound and unexpected appreciation within me.</li>
+            <li>The way his shapely backside curves into that discreet, yet alluringly deep crevice is quite something. Very masculine.</li>
+            <li>Wow. His firm, mature posterior, with its subtle, captivatingly deep center, is far more appealing than I expected.</li>
+            <li>That robust, mature backside, presenting a perfectly formed and almost hidden intimate detail, left me speechless. He carries it so well.</li>
+            <li>His generous, mature glutes, framing a tantalizingly small and deep aperture, are truly stunning. A picture of strength.</li>
+            <li>The sight of his well-preserved, rounded rear, with its surprising depth and enticing visibility, made me feel a surge of respect.</li>
+            <li>His robust, mature figure boasts a backside that's both firm and curvaceous, leading to a perfectly neat and invitingly deep crease.</li>
+            <li>His full, ripe posterior, with its elegantly tight and subtly visible inner folds, sparked a deep fascination within my youthful mind.</li>
+            <li>The mature curve of his lower back descending to such a muscular backside, ending in a tantalizingly deep, inviting point, is just… perfect.</li>
+            <li>I was mesmerized by his shapely, mature buttocks and the refined, elegant appearance of his private detail. It's a subtle, yet powerful masculinity.</li>
+            <li>His ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a sight to inspire.</li>
+            <li>The unexpected view of his mature, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a pleasant surprise.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and masculine.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that really catches the eye.</li>
+            <li>The way his strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to his mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale_observed_by_Young_female</defName>
+        <label>Abyssal Anus (Positive)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His mature posterior has such lovely, firm curves, and the central crease is surprisingly neat and well-defined. Quite attractive, actually.</li>
+            <li>I noticed his ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very appealing.</li>
+            <li>The way his mature backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. Very masculine.</li>
+            <li>His shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are quite fetching. A mature, appealing form.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, mature curve of his behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, mature lines of his backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>His well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to his overall appealing form.</li>
+            <li>It's attractive to see his mature figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>His full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The mature sweep of his lower back to those muscular curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed his shapely, mature buttocks and the refined, elegant appearance of his private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>His ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to his care.</li>
+            <li>The unexpected view of his mature, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way his strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to his mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Abyssal Anus (Positive)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His mature, firm posterior, with its subtle and deep crease, is a classic beauty. A truly well-preserved and alluring sight.</li>
+            <li>A seasoned observer, I recognize the graceful fullness of his derriere and the exquisitely deep, inviting central feature it conceals.</li>
+            <li>His shapely, mature buttocks, leading to a perfectly tight and deep aperture, hint at a rich experience. Quite captivating.</li>
+            <li>The unexpected sight of his ample backside, revealing a discreet yet profoundly alluring and well-formed intimate part, was a pleasant surprise.</li>
+            <li>Indeed, a splendid posterior. His firm, mature curves and the subtly visible, deep recess speak of timeless elegance and pleasure.</li>
+            <li>The generous lines of his mature behind, gracefully framing a tantalizingly small yet deeply inviting central point, are quite remarkable.</li>
+            <li>I appreciate the classic beauty of his mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they reveal.</li>
+            <li>His well-preserved, robust physique boasts a backside both firm and curvaceous, culminating in a neatly tucked, exquisitely deep intimate detail.</li>
+            <li>That full, ripe posterior, with its elegantly tight and subtly visible inner folds, shows a refined grace that is truly attractive.</li>
+            <li>The mature sweep of his lower back to such a voluptuous backside, ending in a tantalizingly deep, inviting point, is a seasoned man's delight.</li>
+            <li>I was drawn to his shapely, mature buttocks and the refined, elegant appearance of his private detail. A subtle, yet powerful beauty.</li>
+            <li>His ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a testament to enduring charm.</li>
+            <li>The view of his mature, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a most welcome sight.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that truly captures attention.</li>
+            <li>The way his strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is admirable.</li>
+            <li>I felt a distinct, positive reaction to his mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+            <li>The graceful contours of his mature posterior, leading to a discreet yet profoundly appealing and well-structured intimate area, are a joy to behold.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Abyssal Anus (Positive)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His mature posterior has such lovely, firm curves, and the central crease is surprisingly neat and well-defined. Quite attractive, actually.</li>
+            <li>I noticed his ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very appealing.</li>
+            <li>The way his mature backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. Very masculine.</li>
+            <li>His shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are quite fetching. A mature, appealing form.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, mature curve of his behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, mature lines of his backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>His well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to his overall appealing form.</li>
+            <li>It's attractive to see his mature figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>His full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The mature sweep of his lower back to those muscular curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed his shapely, mature buttocks and the refined, elegant appearance of his private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>His ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to his care.</li>
+            <li>The unexpected view of his mature, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way his strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to his mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Elder male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale_observed_by_Elder_male</defName>
+        <label>Abyssal Anus (Positive)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His mature, firm posterior, with its surprisingly neat and deep crease, is quite impressive. A strong example for me to follow.</li>
+            <li>A sudden, enticing glimpse of that ripened derriere and its subtly visible, intriguing depths. Solid and well-maintained.</li>
+            <li>His rounded, ample buttocks, leading to a delightfully tight and dark opening, stirred a profound and unexpected appreciation within me.</li>
+            <li>The way his shapely backside curves into that discreet, yet alluringly deep crevice is quite something. Very masculine.</li>
+            <li>Wow. His firm, mature posterior, with its subtle, captivatingly deep center, is far more appealing than I expected.</li>
+            <li>That robust, mature backside, presenting a perfectly formed and almost hidden intimate detail, left me speechless. He carries it so well.</li>
+            <li>His generous, mature glutes, framing a tantalizingly small and deep aperture, are truly stunning. A picture of strength.</li>
+            <li>The sight of his well-preserved, rounded rear, with its surprising depth and enticing visibility, made me feel a surge of respect.</li>
+            <li>His robust, mature figure boasts a backside that's both firm and curvaceous, leading to a perfectly neat and invitingly deep crease.</li>
+            <li>His full, ripe posterior, with its elegantly tight and subtly visible inner folds, sparked a deep fascination within my youthful mind.</li>
+            <li>The mature curve of his lower back descending to such a muscular backside, ending in a tantalizingly deep, inviting point, is just… perfect.</li>
+            <li>I was mesmerized by his shapely, mature buttocks and the refined, elegant appearance of his private detail. It's a subtle, yet powerful masculinity.</li>
+            <li>His ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a sight to inspire.</li>
+            <li>The unexpected view of his mature, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a pleasant surprise.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and masculine.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that really catches the eye.</li>
+            <li>The way his strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to his mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_MatureMale_observed_by_Elder_female</defName>
+        <label>Abyssal Anus (Positive)_MatureMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His mature posterior has such lovely, firm curves, and the central crease is surprisingly neat and well-defined. Quite attractive, actually.</li>
+            <li>I noticed his ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very appealing.</li>
+            <li>The way his mature backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. Very masculine.</li>
+            <li>His shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are quite fetching. A mature, appealing form.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, mature curve of his behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, mature lines of his backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>His well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to his overall appealing form.</li>
+            <li>It's attractive to see his mature figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>His full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The mature sweep of his lower back to those muscular curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed his shapely, mature buttocks and the refined, elegant appearance of his private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>His ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to his care.</li>
+            <li>The unexpected view of his mature, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, mature posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way his strong, mature physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to his mature, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and mature, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, mature posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The graceful sag of {PAWN_nameShortPossessive} elder posterior, though softened by time, still presents a remarkably neat, modestly visible crease, hinting at a life well-lived.</li>
+            <li>A sudden glimpse of that dignified, aged derriere reveals a beautifully preserved and captivatingly deep recess, truly a sight of enduring womanhood.</li>
+            <li>{PAWN_nameShortPossessive} gentle, rounded glutes present a pleasingly tight aperture, a testament to lasting grace and subtle allure.</li>
+            <li>The venerable contours of {PAWN_nameShortPossessive} behind, coupled with a perfectly formed, discreetly visible entrance, left me quite impressed by its timeless charm.</li>
+            <li>What a remarkably well-maintained elder posterior! The intimate details, though subtle, speak of wisdom and a serene beauty.</li>
+            <li>A shapely, elder curve descends to an almost hidden, intriguing center. I felt a definite pull of appreciation for its preserved form.</li>
+            <li>Observing {PAWN_nameShortPossessive} gentle backside, the tight, subtle folds of {PAWN_possessive} rear aperture were surprisingly appealing.</li>
+            <li>The soft, generous lines of {PAWN_nameShortPossessive} posterior gracefully draw the eye to a small, almost unseen, but perfectly defined opening.</li>
+            <li>{PAWN_nameShortPossessive} elder physique boasts a wonderfully soft, ample backside with a tantalizingly deep and inviting central detail.</li>
+            <li>The rich form of {PAWN_nameShortPossessive} buttocks culminates in a discreet, alluringly tight recess. A truly pleasant and satisfying sight of age.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} rounded, ample posterior reveals a surprisingly well-preserved, petite opening, eliciting silent admiration.</li>
+            <li>The graceful slope of {PAWN_nameShortPossessive} backside, leading to a small, almost hidden, yet impeccably formed central point, is quite charming.</li>
+            <li>Such a soft and aesthetically pleasing posterior! The subtle nature of {PAWN_possessive} rear aperture only adds to its mystique and appeal.</li>
+            <li>{PAWN_nameShortPossessive} delightful derriere, with its subtly defined and captivatingly deep central point, is truly a work of art.</li>
+            <li>A remarkably gentle and inviting posterior, where the central feature is a small, neat, and highly pleasing sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} elder, soft rear end, with its impeccably tight and discreetly visible crease, brought a warm feeling.</li>
+            <li>I was struck by the harmonious shape of {PAWN_nameShortPossessive} butt and the surprisingly refined, elegant appearance of {PAWN_possessive} private detail.</li>
+            <li>{PAWN_nameShortPossessive} well-defined buttocks gracefully frame a small, alluringly deep, and perfectly presented intimate area.</li>
+            <li>The glimpse of that soft, elder posterior with its neatly tucked and appealingly small opening was surprisingly pleasant.</li>
+            <li>The sight of {PAWN_nameShortPossessive} ample, rounded backside, subtly hinting at a delicate central crevice, was quite appealing.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale_observed_by_voyer</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A hidden delight! The elder curves of {PAWN_nameShortPossessive} posterior reveal a tantalizingly small, almost clandestine recess, captivating my gaze.</li>
+            <li>Catching a glimpse of that ripe, shapely derriere, its intimate depths are both subtle and profoundly intriguing; a true voyeur's reward.</li>
+            <li>The soft, rounded architecture of {PAWN_nameShortPossessive} buttocks expertly conceals a deep, mysterious aperture, sparking my deepest curiosities.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} ample backside and its precisely formed, alluringly deep crevice was a moment of pure, unexpected satisfaction.</li>
+            <li>Such a captivating view! {PAWN_nameShortPossessive} elder, well-proportioned rear offers a secret, tightly sealed mystery I long to uncover.</li>
+            <li>The subtle reveal of that perfectly shaped posterior and its intriguing, barely visible opening sent a thrilling shiver down my spine.</li>
+            <li>I savored the sight of {PAWN_nameShortPossessive} elder, rounded silhouette, drawing my eye to the wonderfully concealed yet tempting central point.</li>
+            <li>The soft, inviting contours of {PAWN_nameShortPossessive} behind, gracefully leading to a private, fascinatingly tight recess, are utterly mesmerizing.</li>
+            <li>A truly masterful display! The ample dimensions of {PAWN_nameShortPossessive} posterior culminate in an exquisitely subtle, yet profoundly attractive, hidden depth.</li>
+            <li>The elder, soft curve of {PAWN_nameShortPossessive} buttocks perfectly frames a small, dark, and utterly enticing secret; a sight to obsess over.</li>
+            <li>My eyes lingered on that beautifully soft backside, fascinated by the surprisingly discreet and appealingly tight central fold it presented.</li>
+            <li>To unexpectedly witness {PAWN_nameShortPossessive} well-formed, elder derriere, with its subtly suggested, profound inner beauty, was a rare privilege.</li>
+            <li>The sudden, fleeting sight of {PAWN_nameShortPossessive} shapely bottom and its perfectly formed, almost hidden opening filled me with quiet delight.</li>
+            <li>The elder sweep of {PAWN_nameShortPossessive} lower back to {PAWN_possessive} rounded cheeks, ending in a tantalizingly deep crease, held my full attention.</li>
+            <li>What a secret pleasure! That ample, elder posterior, with its perfectly proportioned and tantalizingly private central feature, is a joy to behold.</li>
+            <li>I found myself captivated by the subtle undulations of {PAWN_nameShortPossessive} backside, leading to a surprisingly deep and alluringly tight focal point.</li>
+            <li>The soft, elder lines of {PAWN_nameShortPossessive} derriere, expertly framing a small, yet profoundly attractive, intimate glimpse, are truly engrossing.</li>
+            <li>An exquisite specimen of elder form; {PAWN_nameShortPossessive} rounded posterior gracefully leads to a subtly visible, highly intriguing central detail.</li>
+            <li>The unbidden vision of {PAWN_nameShortPossessive} soft, shapely butt, showcasing a discreet and wonderfully tight aperture, was a true gift.</li>
+            <li>I couldn't help but admire the magnificent shape of {PAWN_nameShortPossessive} elder buttocks and the alluringly hidden, deeply appealing, central beauty within.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The soft, elder curves of {PAWN_nameShortPossessive} behind, with a prominent, inviting opening, makes me want to put my own on display.</li>
+            <li>A magnificent posterior, boldly presented, its pleasingly deep and visible crease inspiring me to share my own glorious form with the world.</li>
+            <li>{PAWN_nameShortPossessive} ample, rounded derriere, showcasing a delightful and clearly visible central feature, truly ignites my own exhibitionist desires.</li>
+            <li>The unashamed display of {PAWN_nameShortPossessive} beautiful buttocks and its tantalizingly open, appealing aperture fills me with a shared sense of liberation.</li>
+            <li>What a confident display! The shapely form of {PAWN_nameShortPossessive} rear, with its unreservedly visible and attractive deep recess, is inspiring.</li>
+            <li>Seeing that plump, elder backside and its unapologetically clear opening makes me yearn for others to admire my own anatomy just as freely.</li>
+            <li>The generous, elder lines of {PAWN_nameShortPossessive} posterior, presenting a delightfully visible and well-defined center, fuels my own urge to expose.</li>
+            <li>{PAWN_nameShortPossessive} curvaceous behind, with its readily apparent and pleasingly deep aperture, makes me feel a powerful urge to show myself.</li>
+            <li>The overt splendor of {PAWN_nameShortPossessive} ample buttocks, crowned by a visibly inviting and well-formed intimate detail, is truly exhilarating.</li>
+            <li>A truly fearless presentation! The elder, rounded beauty of {PAWN_nameShortPossessive} posterior, revealing a luscious and deep opening, stirs my soul.</li>
+            <li>I am invigorated by the sight of {PAWN_nameShortPossessive} well-formed, elder backside, its clear and welcoming central feature a true highlight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} boldly presented, full derriere, with its prominent and deep recess, encourages my own desire for exposure.</li>
+            <li>{PAWN_nameShortPossessive} shapely buttocks, openly displaying a wonderfully defined and deeply alluring central point, fills me with a sense of camaraderie.</li>
+            <li>That elder, inviting posterior, with its uninhibited and visible inner beauty, makes me want to join in this delightful display of form.</li>
+            <li>The full, confident presentation of {PAWN_nameShortPossessive} rear, accentuating a clearly visible and appealingly deep opening, is truly a sight.</li>
+            <li>I appreciate the candid beauty of {PAWN_nameShortPossessive} rounded backside, its perfectly presented and profoundly attractive inner folds calling to me.</li>
+            <li>The voluptuous, elder curve of {PAWN_nameShortPossessive} glutes, revealing a distinctly visible and inviting central feature, is a grand inspiration.</li>
+            <li>{PAWN_nameShortPossessive} bold display of {PAWN_possessive} ample posterior and its wonderfully open, deep aperture makes me feel a powerful connection.</li>
+            <li>What a beautiful and unashamed display! The elder backside and its visible, captivating intimate detail are profoundly stimulating to my own desires.</li>
+            <li>The glorious sight of {PAWN_nameShortPossessive} rounded, elder derriere, showcasing a clearly defined and alluringly deep internal structure, excites me.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} elder, curvaceous posterior, with its deep and invitingly visible crease, stirs a profound urge within me.</li>
+            <li>A truly enticing derriere! Its soft, ripened form and the tantalizingly deep, open recess ignited an immediate, overwhelming desire.</li>
+            <li>{PAWN_nameShortPossessive} ample, rounded buttocks, revealing a gloriously deep and well-defined aperture, fills me with an intense, pleasurable longing.</li>
+            <li>The captivating vision of {PAWN_nameShortPossessive} shapely backside and its clearly visible, remarkably open, and utterly tempting intimate depths is maddening.</li>
+            <li>Oh, the possibilities! That perfectly formed, elder posterior, with its sensually deep and invitingly clear opening, makes my blood race.</li>
+            <li>The generous, elder curves of {PAWN_nameShortPossessive} behind, culminating in a profoundly open and alluringly deep center, provoke an insatiable hunger.</li>
+            <li>I am overcome by the primal beauty of {PAWN_nameShortPossessive} full, ripe posterior and its readily apparent, divinely deep, and utterly tempting recess.</li>
+            <li>{PAWN_nameShortPossessive} alluring backside, with its sensuously deep and visibly open intimate part, stirs a powerful, undeniable longing within my core.</li>
+            <li>The magnificent form of {PAWN_nameShortPossessive} elder buttocks, revealing a tantalizingly deep and wide aperture, sends shivers of pure desire through me.</li>
+            <li>A truly exquisite, elder derriere! Its profound depth and visible invitation ignites a furious, undeniable passion that demands immediate release.</li>
+            <li>My gaze is drawn irresistibly to {PAWN_nameShortPossessive} full, ripened posterior, its deep, welcoming crease promising unimaginable pleasure.</li>
+            <li>The sight of {PAWN_nameShortPossessive} curvaceous backside, with its subtly visible but immensely appealing depth, ignites a burning desire to explore.</li>
+            <li>{PAWN_nameShortPossessive} ample, elder buttocks present a tantalizingly open and exquisitely deep center, causing an almost unbearable ache of anticipation.</li>
+            <li>That voluptuous, elder derriere, with its invitingly dark and deep opening, sets my entire being ablaze with an urgent, primal need.</li>
+            <li>A profound, beautiful sight! The elder, well-rounded posterior and its wonderfully clear, deep intimate detail sparks an intense, overwhelming lust.</li>
+            <li>The uninhibited view of {PAWN_nameShortPossessive} shapely backside, showcasing its remarkable depth and visible invitation, is simply intoxicating.</li>
+            <li>{PAWN_nameShortPossessive} elder form, with its generously curved posterior leading to a sensually deep and open aperture, is utterly captivating.</li>
+            <li>The irresistible allure of {PAWN_nameShortPossessive} full, ripe buttocks and its profoundly deep, visibly tempting inner folds compels me to act.</li>
+            <li>Oh, to feel the embrace of that soft, elder posterior, with its deep, welcoming portal! The longing is almost unbearable.</li>
+            <li>The glorious sight of {PAWN_nameShortPossessive} rounded, elder derriere, showcasing a clearly defined and alluringly deep internal structure, excites me beyond measure.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale_observed_by_Prude</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The elder posterior of {PAWN_nameShortPossessive} is certainly well-formed, though {PAWN_possessive} private details are perhaps a bit too visible for my comfort.</li>
+            <li>A glimpse of that backside revealed a surprisingly deep and prominent crease. While aesthetically sound, such openness is rather… shocking.</li>
+            <li>{PAWN_nameShortPossessive} rounded buttocks are undeniably pleasing in shape, but the visible intimate area is a tad too revealing for polite society.</li>
+            <li>The sudden, clear view of {PAWN_nameShortPossessive} elder derriere and its unreservedly visible aperture was quite jarring, despite its good form.</li>
+            <li>While one can appreciate the robust form of {PAWN_nameShortPossessive} posterior, the evident visibility of {PAWN_possessive} private parts is certainly… direct.</li>
+            <li>The soft, elder curve of {PAWN_nameShortPossessive} behind is pleasant, but the noticeable depth of its intimate feature feels somewhat audacious.</li>
+            <li>I was rather taken aback by the clear presentation of {PAWN_nameShortPossessive} ample backside and its surprisingly exposed and detailed central area.</li>
+            <li>{PAWN_nameShortPossessive} well-defined buttocks are of good shape, yet the obviousness of the central crevice is more than I typically prefer to observe.</li>
+            <li>An elder physique, certainly, but the way the intimate details of {PAWN_nameShortPossessive} posterior are so readily apparent is a touch immodest.</li>
+            <li>One cannot deny the robust beauty of {PAWN_nameShortPossessive} backside, yet the profound visibility of its most private part is rather… stark.</li>
+            <li>The unexpected sight of {PAWN_nameShortPossessive} rounded posterior, revealing such a prominent and deep opening, was quite a lot to take in.</li>
+            <li>While the overall form of {PAWN_nameShortPossessive} elder derriere is commendable, the distinct visibility of its central feature is somewhat bold.</li>
+            <li>{PAWN_nameShortPossessive} shapely buttocks are admirable, but the conspicuousness of the rear aperture feels a bit… too open for my sensibilities.</li>
+            <li>A well-developed backside, yet the unreserved exposure of its intimate part is a clear departure from what one would consider proper.</li>
+            <li>The ample, elder curves of {PAWN_nameShortPossessive} behind, while attractive, offer a view of its central detail that is perhaps too clear.</li>
+            <li>One's eyes are drawn to the full, elder shape, but the unmistakable prominence of {PAWN_nameShortPossessive} intimate crevice is certainly forthright.</li>
+            <li>The uninhibited display of {PAWN_nameShortPossessive} posterior's intimate parts is striking, though it does rather challenge one's sense of propriety.</li>
+            <li>While the elder form of {PAWN_nameShortPossessive} buttocks is aesthetically sound, the degree of visibility of its deep center is quite pronounced.</li>
+            <li>The ample backside of {PAWN_nameShortPossessive} is well-proportioned, but the obviousness of the rear opening is rather less discreet than ideal.</li>
+            <li>A soft and elder derriere, but the very evident nature of its private detail makes me feel a slight discomfort, despite its good form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale_observed_by_Young_male</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elder, full posterior, with its surprisingly delicate and deep crease, is absolutely captivating. A truly graceful aging process.</li>
+            <li>A sudden, enticing glimpse of that ripened derriere and its subtly visible, intriguing depths. Truly a magnificent sight, regardless of age.</li>
+            <li>Her rounded, ample buttocks, leading to a delightfully tight and dark opening, stirred a profound and unexpected appreciation within me.</li>
+            <li>The way her shapely backside curves into that discreet, yet alluringly deep crevice is quite something. I felt a definite pull.</li>
+            <li>Wow. Her soft, elder posterior, with its subtle, captivatingly deep center, is far more appealing than I expected.</li>
+            <li>That voluptuous, elder backside, presenting a perfectly formed and almost hidden intimate detail, left me speechless. She carries it so well.</li>
+            <li>Her generous, elder glutes, framing a tantalizingly small and deep aperture, are truly stunning. I felt a powerful attraction.</li>
+            <li>The sight of her well-preserved, rounded rear, with its surprising depth and enticing visibility, made me feel a surge of desire.</li>
+            <li>Her soft, elder figure boasts a backside that's both full and curvaceous, leading to a perfectly neat and invitingly deep crease.</li>
+            <li>Her full, ripe posterior, with its elegantly tight and subtly visible inner folds, sparked a deep fascination within my youthful mind.</li>
+            <li>The elder curve of her lower back descending to such a voluptuous backside, ending in a tantalizingly deep, inviting point, is just… perfect.</li>
+            <li>I was mesmerized by her shapely, elder buttocks and the refined, elegant appearance of her private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a sight to inspire.</li>
+            <li>The unexpected view of her elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a pleasant surprise.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that really catches the eye.</li>
+            <li>The way her strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to her elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale_observed_by_Young_female</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elder posterior has such lovely, soft curves, and the central crease is surprisingly neat and well-maintained. Quite inspiring, actually.</li>
+            <li>I noticed her ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very elegant.</li>
+            <li>The way her elder backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. I hope I look like that someday.</li>
+            <li>Her shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are a testament to enduring feminine beauty.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, elder curve of her behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, elder lines of her backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>Her well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to her overall elegant form.</li>
+            <li>It's inspiring to see her elder figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>Her full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The elder sweep of her lower back to those voluptuous curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed her shapely, elder buttocks and the refined, elegant appearance of her private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to her care.</li>
+            <li>The unexpected view of her elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way her strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to her elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elder, rounded posterior, with its subtle and deep crease, is a classic beauty. A truly well-preserved and alluring sight.</li>
+            <li>A seasoned observer, I recognize the graceful fullness of her derriere and the exquisitely deep, inviting central feature it conceals.</li>
+            <li>Her shapely, elder buttocks, leading to a perfectly tight and deep aperture, hint at a rich experience. Quite captivating.</li>
+            <li>The unexpected sight of her ample backside, revealing a discreet yet profoundly alluring and well-formed intimate part, was a pleasant surprise.</li>
+            <li>Indeed, a splendid posterior. Her soft, elder curves and the subtly visible, deep recess speak of timeless elegance and pleasure.</li>
+            <li>The generous lines of her elder behind, gracefully framing a tantalizingly small yet deeply inviting central point, are quite remarkable.</li>
+            <li>I appreciate the classic beauty of her elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they reveal.</li>
+            <li>Her well-preserved, robust physique boasts a backside both soft and curvaceous, culminating in a neatly tucked, exquisitely deep intimate detail.</li>
+            <li>That full, ripe posterior, with its elegantly tight and subtly visible inner folds, shows a refined grace that is truly attractive.</li>
+            <li>The elder sweep of her lower back to such a voluptuous backside, ending in a tantalizingly deep, inviting point, is a seasoned man's delight.</li>
+            <li>I was drawn to her shapely, elder buttocks and the refined, elegant appearance of her private detail. A subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a testament to enduring charm.</li>
+            <li>The view of her elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a most welcome sight.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that truly captures attention.</li>
+            <li>The way her strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is admirable.</li>
+            <li>I felt a distinct, positive reaction to her elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+            <li>The graceful contours of her elder posterior, leading to a discreet yet profoundly appealing and well-structured intimate area, are a joy to behold.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elder posterior has such lovely, soft curves, and the central crease is surprisingly neat and well-maintained. Quite inspiring, actually.</li>
+            <li>I noticed her ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very elegant.</li>
+            <li>The way her elder backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. I hope I look like that someday.</li>
+            <li>Her shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are a testament to enduring feminine beauty.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, elder curve of her behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, elder lines of her backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>Her well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to her overall elegant form.</li>
+            <li>It's inspiring to see her elder figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>Her full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The elder sweep of her lower back to those voluptuous curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed her shapely, elder buttocks and the refined, elegant appearance of her private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to her care.</li>
+            <li>The unexpected view of her elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way her strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to her elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale_observed_by_Elder_male</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elder, full posterior, with its surprisingly delicate and deep crease, is a testament to enduring beauty. Still got it!</li>
+            <li>A sudden, enticing glimpse of that ripened derriere and its subtly visible, intriguing depths. Age has only enhanced its charm.</li>
+            <li>Her rounded, ample buttocks, leading to a delightfully tight and dark opening, stirred a profound and unexpected appreciation within me.</li>
+            <li>The way her shapely backside curves into that discreet, yet alluringly deep crevice is quite something. A truly classic form.</li>
+            <li>Indeed, a splendid posterior. Her soft, elder curves and the subtly visible, deep recess speak of timeless elegance and pleasure.</li>
+            <li>The generous lines of her elder behind, gracefully framing a tantalizingly small yet deeply inviting central point, are quite remarkable.</li>
+            <li>I appreciate the classic beauty of her elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they reveal.</li>
+            <li>Her well-preserved, robust physique boasts a backside both soft and curvaceous, culminating in a neatly tucked, exquisitely deep intimate detail.</li>
+            <li>That full, ripe posterior, with its elegantly tight and subtly visible inner folds, shows a refined grace that is truly attractive.</li>
+            <li>The elder sweep of her lower back to such a voluptuous backside, ending in a tantalizingly deep, inviting point, is a seasoned man's delight.</li>
+            <li>I was drawn to her shapely, elder buttocks and the refined, elegant appearance of her private detail. A subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a testament to enduring charm.</li>
+            <li>The view of her elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a most welcome sight.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that truly captures attention.</li>
+            <li>The way her strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is admirable.</li>
+            <li>I felt a distinct, positive reaction to her elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+            <li>The graceful contours of her elder posterior, leading to a discreet yet profoundly appealing and well-structured intimate area, are a joy to behold.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderFemale_observed_by_Elder_female</defName>
+        <label>Abyssal Anus (Positive)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her elder posterior has such lovely, soft curves, and the central crease is surprisingly neat and well-maintained. A fine example for her age.</li>
+            <li>I noticed her ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very elegant.</li>
+            <li>The way her elder backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. A graceful aging.</li>
+            <li>Her shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are a testament to enduring feminine beauty.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, elder curve of her behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, elder lines of her backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>Her well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to her overall elegant form.</li>
+            <li>It's inspiring to see her elder figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>Her full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The elder sweep of her lower back to those voluptuous curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed her shapely, elder buttocks and the refined, elegant appearance of her private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>Her ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to her care.</li>
+            <li>The unexpected view of her elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>Her confident posture highlights a full, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way her strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to her elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>Her backside, full and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of her ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale</defName>
+        <label>Abyssal Anus (Positive)_ElderMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The dignified masculinity of {PAWN_nameShortPossessive} elder posterior, though softened by time, still presents a remarkably neat, modestly visible crease, hinting at a life well-lived.</li>
+            <li>A sudden glimpse of that solid, aged derriere reveals a beautifully preserved and captivatingly deep recess, truly a sight of enduring manhood.</li>
+            <li>{PAWN_nameShortPossessive} gentle, rounded glutes present a pleasingly tight aperture, a testament to lasting power and subtle allure.</li>
+            <li>The venerable contours of {PAWN_nameShortPossessive} behind, coupled with a perfectly formed, discreetly visible entrance, left me quite impressed by its timeless charm.</li>
+            <li>What a remarkably well-maintained elder posterior! The intimate details, though subtle, speak of wisdom and a serene beauty.</li>
+            <li>A shapely, elder curve descends to an almost hidden, intriguing center. I felt a definite pull of appreciation for its preserved form.</li>
+            <li>Observing {PAWN_nameShortPossessive} gentle backside, the tight, subtle folds of {PAWN_possessive} rear aperture were surprisingly appealing.</li>
+            <li>The soft, generous lines of {PAWN_nameShortPossessive} posterior gracefully draw the eye to a small, almost unseen, but perfectly defined opening.</li>
+            <li>{PAWN_nameShortPossessive} elder physique boasts a wonderfully soft, ample backside with a tantalizingly deep and inviting central detail.</li>
+            <li>The rich form of {PAWN_nameShortPossessive} buttocks culminates in a discreet, alluringly tight recess. A truly pleasant and satisfying sight of age.</li>
+            <li>A sudden view of {PAWN_nameShortPossessive} rounded, ample posterior reveals a surprisingly well-preserved, petite opening, eliciting silent admiration.</li>
+            <li>The graceful slope of {PAWN_nameShortPossessive} backside, leading to a small, almost hidden, yet impeccably formed central point, is quite charming.</li>
+            <li>Such a soft and aesthetically pleasing posterior! The subtle nature of {PAWN_possessive} rear aperture only adds to its mystique and appeal.</li>
+            <li>{PAWN_nameShortPossessive} delightful derriere, with its subtly defined and captivatingly deep central point, is truly a work of art.</li>
+            <li>A remarkably gentle and inviting posterior, where the central feature is a small, neat, and highly pleasing sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} elder, soft rear end, with its impeccably tight and discreetly visible crease, brought a warm feeling.</li>
+            <li>I was struck by the harmonious shape of {PAWN_nameShortPossessive} butt and the surprisingly refined, elegant appearance of {PAWN_possessive} private detail.</li>
+            <li>{PAWN_nameShortPossessive} well-defined buttocks gracefully frame a small, alluringly deep, and perfectly presented intimate area.</li>
+            <li>The glimpse of that soft, elder posterior with its neatly tucked and appealingly small opening was surprisingly pleasant.</li>
+            <li>The sight of {PAWN_nameShortPossessive} ample, rounded backside, subtly hinting at a delicate central crevice, was quite appealing.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale_observed_by_voyer</defName>
+        <label>Abyssal Anus (Positive)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A hidden delight! The elder curves of {PAWN_nameShortPossessive} posterior reveal a tantalizingly small, almost clandestine recess, captivating my gaze.</li>
+            <li>Catching a glimpse of that ripe, shapely derriere, its intimate depths are both subtle and profoundly intriguing; a true voyeur's reward.</li>
+            <li>The soft, rounded architecture of {PAWN_nameShortPossessive} buttocks expertly conceals a deep, mysterious aperture, sparking my deepest curiosities.</li>
+            <li>The sudden sight of {PAWN_nameShortPossessive} ample backside and its precisely formed, alluringly deep crevice was a moment of pure, unexpected satisfaction.</li>
+            <li>Such a captivating view! {PAWN_nameShortPossessive} elder, well-proportioned rear offers a secret, tightly sealed mystery I long to uncover.</li>
+            <li>The subtle reveal of that perfectly shaped posterior and its intriguing, barely visible opening sent a thrilling shiver down my spine.</li>
+            <li>I savored the sight of {PAWN_nameShortPossessive} elder, rounded silhouette, drawing my eye to the wonderfully concealed yet tempting central point.</li>
+            <li>The soft, inviting contours of {PAWN_nameShortPossessive} behind, gracefully leading to a private, fascinatingly tight recess, are utterly mesmerizing.</li>
+            <li>A truly masterful display! The ample dimensions of {PAWN_nameShortPossessive} posterior culminate in an exquisitely subtle, yet profoundly attractive, hidden depth.</li>
+            <li>The elder, soft curve of {PAWN_nameShortPossessive} buttocks perfectly frames a small, dark, and utterly enticing secret; a sight to obsess over.</li>
+            <li>My eyes lingered on that beautifully soft backside, fascinated by the surprisingly discreet and appealingly tight central fold it presented.</li>
+            <li>To unexpectedly witness {PAWN_nameShortPossessive} well-formed, elder derriere, with its subtly suggested, profound inner beauty, was a rare privilege.</li>
+            <li>The sudden, fleeting sight of {PAWN_nameShortPossessive} shapely bottom and its perfectly formed, almost hidden opening filled me with quiet delight.</li>
+            <li>The elder sweep of {PAWN_nameShortPossessive} lower back to {PAWN_possessive} rounded cheeks, ending in a tantalizingly deep crease, held my full attention.</li>
+            <li>What a secret pleasure! That ample, elder posterior, with its perfectly proportioned and tantalizingly private central feature, is a joy to behold.</li>
+            <li>I found myself captivated by the subtle undulations of {PAWN_nameShortPossessive} backside, leading to a surprisingly deep and alluringly tight focal point.</li>
+            <li>The soft, elder lines of {PAWN_nameShortPossessive} derriere, expertly framing a small, yet profoundly attractive, intimate glimpse, are truly engrossing.</li>
+            <li>An exquisite specimen of elder form; {PAWN_nameShortPossessive} rounded posterior gracefully leads to a subtly visible, highly intriguing central detail.</li>
+            <li>The unbidden vision of {PAWN_nameShortPossessive} soft, shapely butt, showcasing a discreet and wonderfully tight aperture, was a true gift.</li>
+            <li>I couldn't help but admire the magnificent shape of {PAWN_nameShortPossessive} elder buttocks and the alluringly hidden, deeply appealing, central beauty within.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Abyssal Anus (Positive)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The soft, elder curves of {PAWN_nameShortPossessive} behind, with a prominent, inviting opening, makes me want to put my own on display.</li>
+            <li>A magnificent posterior, boldly presented, its pleasingly deep and visible crease inspiring me to share my own glorious form with the world.</li>
+            <li>{PAWN_nameShortPossessive} ample, rounded derriere, showcasing a delightful and clearly visible central feature, truly ignites my own exhibitionist desires.</li>
+            <li>The unashamed display of {PAWN_nameShortPossessive} beautiful buttocks and its tantalizingly open, appealing aperture fills me with a shared sense of liberation.</li>
+            <li>What a confident display! The shapely form of {PAWN_nameShortPossessive} rear, with its unreservedly visible and attractive deep recess, is inspiring.</li>
+            <li>Seeing that plump, elder backside and its unapologetically clear opening makes me yearn for others to admire my own anatomy just as freely.</li>
+            <li>The generous, elder lines of {PAWN_nameShortPossessive} posterior, presenting a delightfully visible and well-defined center, fuels my own urge to expose.</li>
+            <li>{PAWN_nameShortPossessive} curvaceous behind, with its readily apparent and pleasingly deep aperture, makes me feel a powerful urge to show myself.</li>
+            <li>The overt splendor of {PAWN_nameShortPossessive} ample buttocks, crowned by a visibly inviting and well-formed intimate detail, is truly exhilarating.</li>
+            <li>A truly fearless presentation! The elder, rounded beauty of {PAWN_nameShortPossessive} posterior, revealing a luscious and deep opening, stirs my soul.</li>
+            <li>I am invigorated by the sight of {PAWN_nameShortPossessive} well-formed, elder backside, its clear and welcoming central feature a true highlight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} boldly presented, full derriere, with its prominent and deep recess, encourages my own desire for exposure.</li>
+            <li>{PAWN_nameShortPossessive} shapely buttocks, openly displaying a wonderfully defined and deeply alluring central point, fills me with a sense of camaraderie.</li>
+            <li>That elder, inviting posterior, with its uninhibited and visible inner beauty, makes me want to join in this delightful display of form.</li>
+            <li>The full, confident presentation of {PAWN_nameShortPossessive} rear, accentuating a clearly visible and appealingly deep opening, is truly a sight.</li>
+            <li>I appreciate the candid beauty of {PAWN_nameShortPossessive} rounded backside, its perfectly presented and profoundly attractive inner folds calling to me.</li>
+            <li>The voluptuous, elder curve of {PAWN_nameShortPossessive} glutes, revealing a distinctly visible and inviting central feature, is a grand inspiration.</li>
+            <li>{PAWN_nameShortPossessive} bold display of {PAWN_possessive} ample posterior and its wonderfully open, deep aperture makes me feel a powerful connection.</li>
+            <li>What a beautiful and unashamed display! The elder backside and its visible, captivating intimate detail are profoundly stimulating to my own desires.</li>
+            <li>The glorious sight of {PAWN_nameShortPossessive} rounded, elder derriere, showcasing a clearly defined and alluringly deep internal structure, excites me.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Abyssal Anus (Positive)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of {PAWN_nameShortPossessive} elder, firm posterior, with its deep and invitingly visible crease, stirs a profound urge within me.</li>
+            <li>A truly enticing derriere! Its soft, ripened form and the tantalizingly deep, open recess ignited an immediate, overwhelming desire.</li>
+            <li>{PAWN_nameShortPossessive} ample, rounded buttocks, revealing a gloriously deep and well-defined aperture, fills me with an intense, pleasurable longing.</li>
+            <li>The captivating vision of {PAWN_nameShortPossessive} shapely backside and its clearly visible, remarkably open, and utterly tempting intimate depths is maddening.</li>
+            <li>Oh, the possibilities! That perfectly formed, elder posterior, with its sensually deep and invitingly clear opening, makes my blood race.</li>
+            <li>The generous, elder curves of {PAWN_nameShortPossessive} behind, culminating in a profoundly open and alluringly deep center, provoke an insatiable hunger.</li>
+            <li>I am overcome by the primal beauty of {PAWN_nameShortPossessive} full, ripe posterior and its readily apparent, divinely deep, and utterly tempting recess.</li>
+            <li>{PAWN_nameShortPossessive} alluring backside, with its sensuously deep and visibly open intimate part, stirs a powerful, undeniable longing within my core.</li>
+            <li>The magnificent form of {PAWN_nameShortPossessive} elder buttocks, revealing a tantalizingly deep and wide aperture, sends shivers of pure desire through me.</li>
+            <li>A truly exquisite, elder derriere! Its profound depth and visible invitation ignites a furious, undeniable passion that demands immediate release.</li>
+            <li>My gaze is drawn irresistibly to {PAWN_nameShortPossessive} full, ripened posterior, its deep, welcoming crease promising unimaginable pleasure.</li>
+            <li>The sight of {PAWN_nameShortPossessive} firm backside, with its subtly visible but immensely appealing depth, ignites a burning desire to explore.</li>
+            <li>{PAWN_nameShortPossessive} ample, elder buttocks present a tantalizingly open and exquisitely deep center, causing an almost unbearable ache of anticipation.</li>
+            <li>That voluptuous, elder derriere, with its invitingly dark and deep opening, sets my entire being ablaze with an urgent, primal need.</li>
+            <li>A profound, beautiful sight! The elder, well-rounded posterior and its wonderfully clear, deep intimate detail sparks an intense, overwhelming lust.</li>
+            <li>The uninhibited view of {PAWN_nameShortPossessive} shapely backside, showcasing its remarkable depth and visible invitation, is simply intoxicating.</li>
+            <li>{PAWN_nameShortPossessive} elder form, with its generously curved posterior leading to a sensually deep and open aperture, is utterly captivating.</li>
+            <li>The irresistible allure of {PAWN_nameShortPossessive} full, ripe buttocks and its profoundly deep, visibly tempting inner folds compels me to act.</li>
+            <li>Oh, to feel the embrace of that soft, elder posterior, with its deep, welcoming portal! The longing is almost unbearable.</li>
+            <li>The glorious sight of {PAWN_nameShortPossessive} rounded, elder derriere, showcasing a clearly defined and alluringly deep internal structure, excites me beyond measure.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale_observed_by_Prude</defName>
+        <label>Abyssal Anus (Positive)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The elder posterior of {PAWN_nameShortPossessive} is certainly well-formed, though {PAWN_possessive} private details are perhaps a bit too visible for my comfort.</li>
+            <li>A glimpse of that backside revealed a surprisingly deep and prominent crease. While aesthetically sound, such openness is rather… shocking.</li>
+            <li>{PAWN_nameShortPossessive} rounded buttocks are undeniably pleasing in shape, but the visible intimate area is a tad too revealing for polite society.</li>
+            <li>The sudden, clear view of {PAWN_nameShortPossessive} elder derriere and its unreservedly visible aperture was quite jarring, despite its good form.</li>
+            <li>While one can appreciate the robust form of {PAWN_nameShortPossessive} posterior, the evident visibility of {PAWN_possessive} private parts is certainly… direct.</li>
+            <li>The soft, elder curve of {PAWN_nameShortPossessive} behind is pleasant, but the noticeable depth of its intimate feature feels somewhat audacious.</li>
+            <li>I was rather taken aback by the clear presentation of {PAWN_nameShortPossessive} ample backside and its surprisingly exposed and detailed central area.</li>
+            <li>{PAWN_nameShortPossessive} well-defined buttocks are of good shape, yet the obviousness of the central crevice is more than I typically prefer to observe.</li>
+            <li>An elder physique, certainly, but the way the intimate details of {PAWN_nameShortPossessive} posterior are so readily apparent is a touch immodest.</li>
+            <li>One cannot deny the robust beauty of {PAWN_nameShortPossessive} backside, yet the profound visibility of its most private part is rather… stark.</li>
+            <li>The unexpected sight of {PAWN_nameShortPossessive} rounded posterior, revealing such a prominent and deep opening, was quite a lot to take in.</li>
+            <li>While the overall form of {PAWN_nameShortPossessive} elder derriere is commendable, the distinct visibility of its central feature is somewhat bold.</li>
+            <li>{PAWN_nameShortPossessive} shapely buttocks are admirable, but the conspicuousness of the rear aperture feels a bit… too open for my sensibilities.</li>
+            <li>A well-developed backside, yet the unreserved exposure of its intimate part is a clear departure from what one would consider proper.</li>
+            <li>The ample, elder curves of {PAWN_nameShortPossessive} behind, while attractive, offer a view of its central detail that is perhaps too clear.</li>
+            <li>One's eyes are drawn to the full, elder shape, but the unmistakable prominence of {PAWN_nameShortPossessive} intimate crevice is certainly forthright.</li>
+            <li>The uninhibited display of {PAWN_nameShortPossessive} posterior's intimate parts is striking, though it does rather challenge one's sense of propriety.</li>
+            <li>While the elder form of {PAWN_nameShortPossessive} buttocks is aesthetically sound, the degree of visibility of its deep center is quite pronounced.</li>
+            <li>The ample backside of {PAWN_nameShortPossessive} is well-proportioned, but the obviousness of the rear opening is rather less discreet than ideal.</li>
+            <li>A soft and elder derriere, but the very evident nature of its private detail makes me feel a slight discomfort, despite its good form.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale_observed_by_Young_male</defName>
+        <label>Abyssal Anus (Positive)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His elder, firm posterior, with its surprisingly neat and deep crease, is quite impressive. A strong example for me to follow.</li>
+            <li>A sudden, enticing glimpse of that ripened derriere and its subtly visible, intriguing depths. Solid and well-maintained.</li>
+            <li>His rounded, ample buttocks, leading to a delightfully tight and dark opening, stirred a profound and unexpected appreciation within me.</li>
+            <li>The way his shapely backside curves into that discreet, yet alluringly deep crevice is quite something. Very masculine.</li>
+            <li>Wow. His firm, elder posterior, with its subtle, captivatingly deep center, is far more appealing than I expected.</li>
+            <li>That robust, elder backside, presenting a perfectly formed and almost hidden intimate detail, left me speechless. He carries it so well.</li>
+            <li>His generous, elder glutes, framing a tantalizingly small and deep aperture, are truly stunning. A picture of strength.</li>
+            <li>The sight of his well-preserved, rounded rear, with its surprising depth and enticing visibility, made me feel a surge of respect.</li>
+            <li>His robust, elder figure boasts a backside that's both firm and curvaceous, leading to a perfectly neat and invitingly deep crease.</li>
+            <li>His full, ripe posterior, with its elegantly tight and subtly visible inner folds, sparked a deep fascination within my youthful mind.</li>
+            <li>The elder curve of his lower back descending to such a muscular backside, ending in a tantalizingly deep, inviting point, is just… perfect.</li>
+            <li>I was mesmerized by his shapely, elder buttocks and the refined, elegant appearance of his private detail. It's a subtle, yet powerful masculinity.</li>
+            <li>His ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a sight to inspire.</li>
+            <li>The unexpected view of his elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a pleasant surprise.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and masculine.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that really catches the eye.</li>
+            <li>The way his strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to his elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale_observed_by_Young_female</defName>
+        <label>Abyssal Anus (Positive)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His elder posterior has such lovely, firm curves, and the central crease is surprisingly neat and well-defined. Quite attractive, actually.</li>
+            <li>I noticed his ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very appealing.</li>
+            <li>The way his elder backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. Very masculine.</li>
+            <li>His shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are quite fetching. An elder, appealing form.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, elder curve of his behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, elder lines of his backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>His well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to his overall appealing form.</li>
+            <li>It's attractive to see his elder figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>His full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The elder sweep of his lower back to those muscular curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed his shapely, elder buttocks and the refined, elegant appearance of his private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>His ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to his care.</li>
+            <li>The unexpected view of his elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way his strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to his elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Abyssal Anus (Positive)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His elder, firm posterior, with its subtle and deep crease, is a classic beauty. A truly well-preserved and alluring sight.</li>
+            <li>A seasoned observer, I recognize the graceful fullness of his derriere and the exquisitely deep, inviting central feature it conceals.</li>
+            <li>His shapely, elder buttocks, leading to a perfectly tight and deep aperture, hint at a rich experience. Quite captivating.</li>
+            <li>The unexpected sight of his ample backside, revealing a discreet yet profoundly alluring and well-formed intimate part, was a pleasant surprise.</li>
+            <li>Indeed, a splendid posterior. His firm, elder curves and the subtly visible, deep recess speak of timeless elegance and pleasure.</li>
+            <li>The generous lines of his elder behind, gracefully framing a tantalizingly small yet deeply inviting central point, are quite remarkable.</li>
+            <li>I appreciate the classic beauty of his elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they reveal.</li>
+            <li>His well-preserved, robust physique boasts a backside both firm and curvaceous, culminating in a neatly tucked, exquisitely deep intimate detail.</li>
+            <li>That full, ripe posterior, with its elegantly tight and subtly visible inner folds, shows a refined grace that is truly attractive.</li>
+            <li>The elder sweep of his lower back to such a voluptuous backside, ending in a tantalizingly deep, inviting point, is a seasoned man's delight.</li>
+            <li>I was drawn to his shapely, elder buttocks and the refined, elegant appearance of his private detail. A subtle, yet powerful beauty.</li>
+            <li>His ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a testament to enduring charm.</li>
+            <li>The view of his elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a most welcome sight.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that truly captures attention.</li>
+            <li>The way his strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is admirable.</li>
+            <li>I felt a distinct, positive reaction to his elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+            <li>The graceful contours of his elder posterior, leading to a discreet yet profoundly appealing and well-structured intimate area, are a joy to behold.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Abyssal Anus (Positive)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His elder posterior has such lovely, firm curves, and the central crease is surprisingly neat and well-defined. Quite attractive, actually.</li>
+            <li>I noticed his ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very appealing.</li>
+            <li>The way his elder backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. Very masculine.</li>
+            <li>His shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are quite fetching. An elder, appealing form.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, elder curve of his behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, elder lines of his backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>His well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to his overall appealing form.</li>
+            <li>It's attractive to see his elder figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>His full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The elder sweep of his lower back to those muscular curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed his shapely, elder buttocks and the refined, elegant appearance of his private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>His ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to his care.</li>
+            <li>The unexpected view of his elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way his strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to his elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale_observed_by_Elder_male</defName>
+        <label>Abyssal Anus (Positive)_ElderMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His elder, firm posterior, with its surprisingly neat and deep crease, is quite impressive. A strong example for me to follow.</li>
+            <li>A sudden, enticing glimpse of that ripened derriere and its subtly visible, intriguing depths. Solid and well-maintained.</li>
+            <li>His rounded, ample buttocks, leading to a delightfully tight and dark opening, stirred a profound and unexpected appreciation within me.</li>
+            <li>The way his shapely backside curves into that discreet, yet alluringly deep crevice is quite something. Very masculine.</li>
+            <li>Wow. His firm, elder posterior, with its subtle, captivatingly deep center, is far more appealing than I expected.</li>
+            <li>That robust, elder backside, presenting a perfectly formed and almost hidden intimate detail, left me speechless. He carries it so well.</li>
+            <li>His generous, elder glutes, framing a tantalizingly small and deep aperture, are truly stunning. A picture of strength.</li>
+            <li>The sight of his well-preserved, rounded rear, with its surprising depth and enticing visibility, made me feel a surge of respect.</li>
+            <li>His robust, elder figure boasts a backside that's both firm and curvaceous, leading to a perfectly neat and invitingly deep crease.</li>
+            <li>His full, ripe posterior, with its elegantly tight and subtly visible inner folds, sparked a deep fascination within my youthful mind.</li>
+            <li>The elder curve of his lower back descending to such a muscular backside, ending in a tantalizingly deep, inviting point, is just… perfect.</li>
+            <li>I was mesmerized by his shapely, elder buttocks and the refined, elegant appearance of his private detail. It's a subtle, yet powerful masculinity.</li>
+            <li>His ample, well-formed derriere, showcasing a remarkably tight and alluringly deep internal structure, is truly a sight to inspire.</li>
+            <li>The unexpected view of his elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was a pleasant surprise.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and masculine.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that really catches the eye.</li>
+            <li>The way his strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to his elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Positive_Abyssal_ElderMale_observed_by_Elder_female</defName>
+        <label>Abyssal Anus (Positive)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His elder posterior has such lovely, firm curves, and the central crease is surprisingly neat and well-defined. Quite attractive, actually.</li>
+            <li>I noticed his ample, rounded derriere; it's so gracefully shaped, with a nicely tucked and subtly deep intimate area. Very appealing.</li>
+            <li>The way his elder backside holds its form, leading to a surprisingly tight and well-defined opening, is truly admirable. Very masculine.</li>
+            <li>His shapely, ripened buttocks and the discreet, yet appealingly deep central crevice are quite fetching. An elder, appealing form.</li>
+            <li>What a confident and beautifully preserved posterior! The intimate details, though subtle, speak of grace and timeless appeal.</li>
+            <li>The full, elder curve of his behind is so wonderfully proportioned, culminating in a small, almost hidden, yet perfectly formed central point.</li>
+            <li>I was impressed by the generous, elder lines of his backside, gracefully framing a tidy and appealingly deep intimate aperture.</li>
+            <li>His well-defined buttocks boast such a pleasant shape, and the central feature is surprisingly neat, adding to his overall appealing form.</li>
+            <li>It's attractive to see his elder figure with such a firm, well-maintained posterior and a remarkably subtle, deep, and attractive central detail.</li>
+            <li>His full, ripe posterior, with its perfectly formed and discreetly visible inner folds, exemplifies a beautiful aging process.</li>
+            <li>The elder sweep of his lower back to those muscular curves, ending in a remarkably neat and subtly deep central point, is quite lovely.</li>
+            <li>I observed his shapely, elder buttocks and the refined, elegant appearance of his private detail. It’s a subtle, yet powerful beauty.</li>
+            <li>His ample, well-formed derriere, showcasing a surprisingly tight and alluringly deep internal structure, is truly a testament to his care.</li>
+            <li>The unexpected view of his elder, rounded behind, subtly hinting at a wondrously deep and attractive central crevice, was quite pleasant to see.</li>
+            <li>Such a beautifully preserved, elder posterior! The small, almost hidden, yet exquisitely deep opening is profoundly appealing and elegant.</li>
+            <li>His confident posture highlights a firm, ripe backside with a tantalizingly tight and deep central feature that really catches the eye in a good way.</li>
+            <li>The way his strong, elder physique presents that shapely posterior, leading to a subtly visible and inviting intimate part, is truly admirable.</li>
+            <li>I felt a distinct, positive reaction to his elder, rounded glutes and the wonderfully defined, deep, and alluring entrance they framed.</li>
+            <li>His backside, firm and elder, reveals a surprising delicacy in its central crease – small, tight, and profoundly alluring. I am impressed.</li>
+            <li>The sudden sight of his ample, elder posterior, with its deep and subtle inner beauty, left a powerful and positive impression on me.</li>
+        </opinionTexts>
+</Def>
+</Defs>

@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form, the outer folds appearing compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appear quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale_observed_by_voyer</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A private part suddenly became visible. The form appeared compact, with the labia neatly closed, hinting at a hidden clitoris.</li>
+            <li>The unexpected view revealed a discreet feminine form; its outer folds were well-defined and offered little exposure.</li>
+            <li>A sudden sight of the intimate area presented a rather ordinary shape, the labia lying close together, suggesting tightness.</li>
+            <li>The form was noted to be quite contained, the outer lips not sprawling, indicating a naturally compact design, which was intriguing.</li>
+            <li>A brief, illicit glimpse of the private area revealed a narrow, unyielding aperture and taut tissues.</li>
+            <li>The contours presented a concise form, with minimal excess tissue around the opening, a captivating sight.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, revealing little yet much.</li>
+            <li>The labia minora were barely visible, suggesting a tight, almost concealed structure, stimulating curiosity.</li>
+            <li>The overall appearance was neat and compact, the external features presenting an understated yet compelling profile.</li>
+            <li>It was a rather unremarkable sight, yet the private area presented a modest, unexaggerated tightness, drawing {PAWN_nameShortPossessive} gaze.</li>
+            <li>The feminine contours were subtly present, with a general sense of containment around the core, a fascinating observation.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved, an interesting sight.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form, quite appealing.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility, a desirable view.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined, a satisfying view.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape, holding {PAWN_objective} captive.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The private part was visible, showcasing a compact form with neatly closed labia, presenting a subtle and unassuming appearance.</li>
+            <li>The revealed anatomy was discreet, its outer folds well-defined and not overly prominent, an unexaggerated display.</li>
+            <li>A sudden glimpse of the intimate area presented a rather ordinary shape, the labia lying close together, hinting at tightness.</li>
+            <li>The form was quite contained, the outer lips not sprawling, indicating a naturally compact design, visible for all.</li>
+            <li>The slight parting allowed for a brief view, indicating a narrow, unyielding aperture, a modest disclosure.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to hide, yet exposed.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure, yet on display.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile for observation.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness, yet it was seen.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core, a quiet revelation.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design, openly visible.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features, openly shared.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved for anyone to see.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form, laid bare.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit, unveiled.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility for others.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect, yet visible.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape, deliberately shown.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A sudden glimpse of the intimate region: its compact form, neatly closed labia, and subtle clitoris, spark a familiar urge.</li>
+            <li>The unexpectedly visible feminine form, with its well-defined and not overly prominent outer folds, stirred a desire.</li>
+            <li>Observing the intimate area, its ordinary shape and tightly lying labia, suggested a delightful tightness.</li>
+            <li>The contained form, with outer lips not sprawling, hinted at a naturally compact design, which was quite enticing.</li>
+            <li>The slight parting allowed for a brief view, indicating a narrow, unyielding aperture, a promising sight.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue, igniting a powerful craving.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little, yet inviting much.</li>
+            <li>The labia minora were barely visible, suggesting a tight, almost concealed structure, profoundly stimulating.</li>
+            <li>The neat, compact appearance and understated profile of the external features were surprisingly arousing.</li>
+            <li>It was a rather unremarkable sight, yet the modest, unexaggerated tightness of the private area was undeniably captivating.</li>
+            <li>The subtle feminine contours, with their contained core, stirred a deep, instinctual response within {PAWN_objective}.</li>
+            <li>The form appeared quite contained, the outer lips not sprawling, indicating a naturally compact design, highly appealing.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure with taut and firm features, drawing {PAWN_objective} in.</li>
+            <li>The fleshy folds implied a secure, undilated entrance, appearing well-preserved, which was exceptionally desirable.</li>
+            <li>The firmness of the tissues, suggesting a lack of laxity and a natural, compact form, was incredibly alluring.</li>
+            <li>The structural integrity of the external anatomy presented a cohesive unit, provoking intense interest.</li>
+            <li>The subtly presented intimate parts, hinting at inherent firmness and modest visibility, were profoundly exciting.</li>
+            <li>The undeniably tight appearance, with labial folds drawing inward, maintaining a very private aspect, was an irresistible invitation.</li>
+            <li>The notably compact and well-defined contours of {PAWN_nameShortPossessive} anatomy ignited a burning desire within {PAWN_objective}.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape, stirring primal urges.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale_observed_by_Prude</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden visibility of such a private part was discomforting. Its compact form seemed too exposed.</li>
+            <li>The visible anatomy, with its neatly presented labia and subtle clitoris, was an unwelcome sight.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared well-defined, yet the exposure was improper.</li>
+            <li>The shape of the private area seemed rather ordinary, yet its closeness was disconcertingly intimate.</li>
+            <li>Observing the form, one noted the inner and outer folds appeared quite close, an unseemly tightness.</li>
+            <li>The slight parting of the upper folds allowed for an uncomfortable view, revealing an unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue, which was still too much to see.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little, but it was still seen.</li>
+            <li>The labia minora were barely visible, suggesting a tight, almost concealed structure, yet too apparent for comfort.</li>
+            <li>The overall appearance was neat and compact, but the external features presented an overly intimate profile.</li>
+            <li>It was a rather unremarkable sight, yet the private area presented a modest, unexaggerated tightness, which was still inappropriate.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment, which {PAWN_nameShort} quickly averted {PAWN_possessive} eyes from.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, but the view was nonetheless intrusive.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features, unsettling {PAWN_objective}.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, but its visibility was highly improper.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity, an observation {PAWN_nameShort} wished {PAWN_pronoun} had not made.</li>
+            <li>The overall impression was one of structural integrity, yet the external anatomy was far too exposed.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness, but the exposure was frankly indecent.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect, yet still too visible.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape, provoking discomfort.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale_observed_by_Young_male</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris, intriguing {PAWN_objective}.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, captivating {PAWN_objective}'s attention.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, {PAWN_nameShort} noted the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture, arousing curiosity.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal, yet still appealing.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile, yet desirable.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness, but still attractive.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core, drawing {PAWN_objective} in.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design, which was appealing.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features, drawing {PAWN_objective}'s gaze.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved, sparking interest.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form, quite desirable.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility, quite stimulating.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect, alluring {PAWN_objective}.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined, a pleasing sight.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape, subtly captivating.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale_observed_by_Young_female</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale_observed_by_Elder_male</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_MatureFemale_observed_by_Elder_female</defName>
+        <label>Tight Vagina (Neutral)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form for {PAWN_objective}, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale_observed_by_voyer</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A private part suddenly became visible. The form appeared compact, with the labia neatly closed, hinting at a hidden clitoris.</li>
+            <li>The unexpected view revealed a discreet feminine form; its outer folds were well-defined and offered little exposure.</li>
+            <li>A sudden sight of the intimate area presented a rather ordinary shape, the labia lying close together, suggesting tightness.</li>
+            <li>The form was noted to be quite contained, the outer lips not sprawling, indicating a naturally compact design, which was intriguing.</li>
+            <li>A brief, illicit glimpse of the private area revealed a narrow, unyielding aperture and taut tissues.</li>
+            <li>The contours presented a concise form, with minimal excess tissue around the opening, a captivating sight.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, revealing little yet much.</li>
+            <li>The labia minora were barely visible, suggesting a tight, almost concealed structure, stimulating curiosity.</li>
+            <li>The overall appearance was neat and compact, the external features presenting an understated yet compelling profile.</li>
+            <li>It was a rather unremarkable sight, yet the private area presented a modest, unexaggerated tightness, drawing {PAWN_nameShortPossessive} gaze.</li>
+            <li>The feminine contours were subtly present, with a general sense of containment around the core, a fascinating observation.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved, an interesting sight.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form, quite appealing.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility, a desirable view.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined, a satisfying view.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape, holding {PAWN_objective} captive.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The private part was visible, showcasing a compact form with neatly closed labia, presenting a subtle and unassuming appearance.</li>
+            <li>The revealed anatomy was discreet, its outer folds well-defined and not overly prominent, an unexaggerated display.</li>
+            <li>A sudden glimpse of the intimate area presented a rather ordinary shape, the labia lying close together, hinting at tightness.</li>
+            <li>The form was quite contained, the outer lips not sprawling, indicating a naturally compact design, visible for all.</li>
+            <li>The slight parting allowed for a brief view, indicating a narrow, unyielding aperture, a modest disclosure.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to hide, yet exposed.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure, yet on display.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile for observation.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness, yet it was seen.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core, a quiet revelation.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design, openly visible.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features, openly shared.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved for anyone to see.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form, laid bare.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit, unveiled.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility for others.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect, yet visible.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape, deliberately shown.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>A sudden glimpse of the intimate region: its compact form, neatly closed labia, and subtle clitoris, spark a familiar urge.</li>
+            <li>The unexpectedly visible feminine form, with its well-defined and not overly prominent outer folds, stirred a desire.</li>
+            <li>Observing the intimate area, its ordinary shape and tightly lying labia, suggested a delightful tightness.</li>
+            <li>The contained form, with outer lips not sprawling, hinted at a naturally compact design, which was quite enticing.</li>
+            <li>The slight parting allowed for a brief view, indicating a narrow, unyielding aperture, a promising sight.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue, igniting a powerful craving.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little, yet inviting much.</li>
+            <li>The labia minora were barely visible, suggesting a tight, almost concealed structure, profoundly stimulating.</li>
+            <li>The neat, compact appearance and understated profile of the external features were surprisingly arousing.</li>
+            <li>It was a rather unremarkable sight, yet the modest, unexaggerated tightness of the private area was undeniably captivating.</li>
+            <li>The subtle feminine contours, with their contained core, stirred a deep, instinctual response within {PAWN_objective}.</li>
+            <li>The form appeared quite contained, the outer lips not sprawling, indicating a naturally compact design, highly appealing.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features, drawing {PAWN_objective} in.</li>
+            <li>The fleshy folds implied a secure, undilated entrance, appearing well-preserved, which was exceptionally desirable.</li>
+            <li>The firmness of the tissues, suggesting a lack of laxity and a natural, compact form, was incredibly alluring.</li>
+            <li>The structural integrity of the external anatomy presented a cohesive unit, provoking intense interest.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility, profoundly exciting.</li>
+            <li>The undeniably tight appearance, with labial folds drawing inward, maintaining a very private aspect, was an irresistible invitation.</li>
+            <li>The notably compact and well-defined contours of {PAWN_nameShortPossessive} anatomy ignited a burning desire within {PAWN_objective}.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape, stirring primal urges.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale_observed_by_Prude</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden visibility of such a private part was discomforting. Its compact form seemed too exposed.</li>
+            <li>The visible anatomy, with its neatly presented labia and subtle clitoris, was an unwelcome sight.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared well-defined, yet the exposure was improper.</li>
+            <li>The shape of the private area seemed rather ordinary, yet its closeness was disconcertingly intimate.</li>
+            <li>Observing the form, one noted the inner and outer folds appeared quite close, an unseemly tightness.</li>
+            <li>The slight parting of the upper folds allowed for an uncomfortable view, revealing an unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue, which was still too much to see.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little, but it was still seen.</li>
+            <li>The labia minora were barely visible, suggesting a tight, almost concealed structure, yet too apparent for comfort.</li>
+            <li>The overall appearance was neat and compact, but the external features presented an overly intimate profile.</li>
+            <li>It was a rather unremarkable sight, yet the private area presented a modest, unexaggerated tightness, which was still inappropriate.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment, which {PAWN_nameShort} quickly averted {PAWN_possessive} eyes from.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, but the view was nonetheless intrusive.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features, unsettling {PAWN_objective}.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, but its visibility was highly improper.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity, an observation {PAWN_nameShort} wished {PAWN_pronoun} had not made.</li>
+            <li>The overall impression was one of structural integrity, yet the external anatomy was far too exposed.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness, but the exposure was frankly indecent.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect, yet still too visible.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape, provoking discomfort.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale_observed_by_Young_male</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris, intriguing {PAWN_objective}.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, captivating {PAWN_objective}'s attention.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, {PAWN_nameShort} noted the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture, arousing curiosity.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal, yet still appealing.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile, yet desirable.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness, but still attractive.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core, drawing {PAWN_objective} in.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design, which was appealing.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features, drawing {PAWN_objective}'s gaze.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved, sparking interest.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form, quite desirable.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility, quite stimulating.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect, alluring {PAWN_objective}.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined, a pleasing sight.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape, subtly captivating.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale_observed_by_Young_female</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale_observed_by_Elder_male</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Neutral_Tight_ElderFemale_observed_by_Elder_female</defName>
+        <label>Tight Vagina (Neutral)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible anatomy suggested a well-maintained form, with neatly presented labia and a subtle, almost hidden clitoris.</li>
+            <li>A glimpse revealed a discreet feminine form; its outer folds appeared compact and well-defined, not overly prominent.</li>
+            <li>The shape of the private area seemed rather ordinary, with its labia lying close together, hinting at a certain tightness.</li>
+            <li>Observing the form, one notes the inner and outer folds appeared quite close, suggesting a naturally snug configuration.</li>
+            <li>The slight parting of the upper folds allowed for a brief view, indicating a narrow, unyielding aperture.</li>
+            <li>The visible contours presented a concise form, with very little excess tissue evident around the opening.</li>
+            <li>One could ascertain the compact nature of the region, where the folds met snugly, leaving little to reveal.</li>
+            <li>The labia minora were barely visible behind the majora, suggesting a tight, almost concealed structure.</li>
+            <li>The overall appearance was neat and compact, the external features presenting a rather understated profile.</li>
+            <li>It was a rather unremarkable sight, the private area presenting a modest, unexaggerated tightness.</li>
+            <li>The feminine contours were present, albeit subtly, with a general sense of containment around the core.</li>
+            <li>The form appeared to be quite contained, the outer lips not sprawling, indicating a naturally compact design.</li>
+            <li>A quiet observation of the area revealed a rather unyielding structure, with taut and firm features.</li>
+            <li>The fleshy folds met in a way that implied a secure, undilated entrance, appearing well-preserved.</li>
+            <li>One might note the firmness of the tissues, suggesting a lack of laxity and a natural, compact form.</li>
+            <li>The overall impression was one of structural integrity, with the external anatomy presenting a cohesive unit.</li>
+            <li>The intimate parts were subtly presented, their form hinting at an inherent firmness and modest visibility.</li>
+            <li>The appearance was undeniably tight, with the labial folds drawing inward, maintaining a very private aspect.</li>
+            <li>The specific contours of {PAWN_nameShortPossessive} anatomy were observed to be notably compact and well-defined.</li>
+            <li>A brief glance confirmed a generally tight appearance, the outer anatomy holding a firm, modest shape.</li>
+        </opinionTexts>
+</Def>
+</Defs>

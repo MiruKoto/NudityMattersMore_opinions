@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average</defName>
+        <label>Average Anus (Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>{PAWN_nameShortPossessive} average anus seems standard, it blends into the background without making an impact.</li>
+            <li>I observed {PAWN_nameShortPossessive} moderate-sized anus, with a relaxed outer ring that was slightly inviting.</li>
+			<li>I examined {PAWN_nameShortPossessive} anus that was neither too tight nor too loose, with a neutral curve.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} anus that was average in size, with a slightly wrinkled appearance.</li>
+			<li>I saw {PAWN_nameShortPossessive} anus that was standart in size, with a moderately relaxed outer ring.</li>
+			<li>I examined {PAWN_nameShortPossessive} anus that was neither too small nor too large, with a neutral shape.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} anus that was ordinary in size, with a subtle sheen to the surrounding skin.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} average anus, noting its moderate size and relaxed appearance. The opening was easily visible, with a gentle curve to the surrounding skin.</li>
+			<li>Upon examination, I saw that {PAWN_nameShortPossessive} average anus had a soft, rounded rim, with the skin around it smooth and supple.</li>
+			<li>As I gazed at it, I noted that {PAWN_nameShortPossessive} average anus seemed like a normal, blending in with the surrounding skin.</li>
+			<li>I noticed {PAWN_nameShortPossessive} anus: a balanced, inviting orifice, surrounded by even, supple skin, flaunting a moderately-sized, centered hole.</li>
+			<li>I inspected {PAWN_nameShortPossessive} anus: a well-proportioned, middle-ground entrance, dressed in consistent, healthy skin, exhibiting a roughly average-sized opening.</li>
+			<li>I observed {PAWN_nameShortPossessive} anus: an evenly-sized, ordinary hole, ensconced in uniform skin, presenting a dependably agreeable experience.</li>
+        </opinionTexts>
+    
+	
+	
+	
+</Def>
+
+
+
+
+<!--Elder Male observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_Elderly_Male_opinion</defName>
+        <label>Average Anus (Neutral)_Elderly_Male_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} rear appears average, with a somewhat youthful curve to the buttocks. The anus itself seemed discreet.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, the contours are moderate. The anal opening is of typical size, not particularly noticeable.</li>
+            <li>{PAWN_nameShortPossessive} buttock shape seems quite ordinary, neither prominent nor flat. The anus is unremarkable, blending into the general form.</li>
+            <li>I noted {PAWN_nameShortPossessive} average gluteal development. The anus had a standard appearance, neither inviting nor off-putting.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} posterior reveals a common silhouette. The anus's visibility is as expected for its moderate size.</li>
+            <li>{PAWN_nameShortPossessive} butt has a conventional form, well-proportioned to {PAWN_possessive} frame. The anus shows no distinct features, just typical.</li>
+            <li>The curves of {PAWN_nameShortPossessive} backside are quite average. The anus, a normal size, is neither hidden nor overtly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses an unremarkable, standard appearance. The anus is of average visibility, an ordinary part of the anatomy.</li>
+            <li>I observed {PAWN_nameShortPossessive} typical behind, the buttocks neither too large nor too small. The anus maintains a standard, unassuming presence.</li>
+            <li>The overall shape of {PAWN_nameShortPossessive} buttock is conventional. The anal opening is simply average, without any specific details to note.</li>
+            <li>{PAWN_nameShortPossessive} buttock region presents a very common sight. The anus is of an average size, its contours are subtle.</li>
+            <li>Taking in {PAWN_nameShortPossessive} posterior, it's just an ordinary, standard rear. The anal opening is neither inviting nor particularly hidden.</li>
+            <li>One can see {PAWN_nameShortPossessive} posterior, presenting as an average form. The anus is of a common size, lacking any peculiar characteristics.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside suggests a typical, unassuming build. The anus blends in with the rest of the anatomy.</li>
+            <li>The shape of {PAWN_nameShortPossessive} buttocks is unexceptional, a common sight. The anus looks exactly as one would expect, nothing special.</li>
+            <li>{PAWN_nameShortPossessive} rear offers a rather plain view. The anal orifice is of average dimensions, not drawing any specific attention.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional buttock structure. The anus is visible, but not remarkably so, a common sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the form is quite standard. The anus is neither pronounced nor recessed, simply average.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are typical for someone {PAWN_possessive} age. The anal opening has an expected, average appearance.</li>
+            <li>{PAWN_nameShortPossessive} buttocks are of a normal build. The anus is present, and its size makes it adequately visible, but not prominently.</li>
+            <li>An ordinary observation of {PAWN_nameShortPossessive} rear reveals a standard shape. The anus is average, fitting the general anatomical presentation.</li>
+            <li>{PAWN_nameShortPossessive} posterior is neither striking nor dull; it's simply average. The anus, of common size, exhibits a regular form.</li>
+            <li>I noted the ordinary curve of {PAWN_nameShortPossessive} buttocks. The anus is visible, appearing to be of a perfectly average diameter.</li>
+            <li>The overall view of {PAWN_nameShortPossessive} backside is consistent with typical forms. The anus has a standard visibility, nothing out of place.</li>
+            <li>From this angle, {PAWN_nameShortPossessive} rear presents a normal outline. The anus is of average proportion, blending well with the surrounding skin.</li>
+            <li>A quick assessment of {PAWN_nameShortPossessive} buttocks reveals a usual, unremarkable shape. The anus is visible as much as expected.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior is utterly common. The anal opening is a standard size, with no notable features.</li>
+            <li>{PAWN_nameShortPossessive} rear view is typical, neither particularly pronounced nor small. The anus is average in size and visibility.</li>
+            <li>I saw a standard rear on {PAWN_nameShortPossessive}. The anus was unremarkable, its presence just as one would anticipate.</li>
+            <li>{PAWN_nameShortPossessive} buttock region has a generic look. The anus is average, neither hidden nor particularly noticeable.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young females butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_Elderly_Male_voyer_opinion</defName>
+        <label>Average Anus (Neutral)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} rear view is quite ordinary, yet {PAWN_possessive} average anus seems to hold some latent potential, piquing a subtle interest.</li>
+            <li>That common backside, with its average anus, still holds a certain unassuming intrigue. A familiar shape, but perhaps more to it than meets the eye.</li>
+            <li>A standard butt, an average anus. Yet, a quiet part of me stirs. It's unremarkable, but undeniably present and... available.</li>
+            <li>Observing {PAWN_nameShortPossessive} average rear, there's a certain unassuming availability. The anus, though ordinary, feels surprisingly visible.</li>
+            <li>{PAWN_nameShortPossessive} posterior, while typical, offers enough to consider. The average anus suggests an ordinary path, but the mind wanders.</li>
+            <li>That average butt. The anus isn't special, but the mere sight of it is… noted. A quiet appreciation for the common.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average backside, there's a calm recognition. The anus, of moderate size, is clearly there, suggesting possibility.</li>
+            <li>{PAWN_nameShortPossessive} rear has a common form, but it draws a glance. The anus, while average, hints at experiences.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior. The anus, nothing special, but its presence is enough to provoke a thought.</li>
+            <li>{PAWN_nameShortPossessive} average buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites contemplation.</li>
+            <li>A standard rear, with an average anus. It's not about the exceptional, but the quiet confirmation of what's there.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional posterior. The average anus, clearly visible, carries a certain, unstated curiosity.</li>
+            <li>{PAWN_nameShortPossessive} butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet intriguing, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside and anus is enough to provoke a mild, internal stirring. It's a functional, yet appealing, view.</li>
+            <li>{PAWN_nameShortPossessive} rear is typical, but the way the anus presents itself is quite... open. A common sight, yet effective.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form. The anus, though not unusual, still holds attention.</li>
+            <li>{PAWN_nameShortPossessive} butt is conventional, yet the anus, by its average size, is notably present. A functional display.</li>
+            <li>A standard rear, an average anus. It doesn't excite, but it acknowledges a fundamental, and perhaps enticing, reality.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} posterior. The anus, of average visibility, is a quiet, yet discernible, focal point.</li>
+            <li>{PAWN_nameShortPossessive} backside seems unremarkable, yet the readily visible anus, with its average proportions, carries a certain weight.</li>
+            <li>I noted {PAWN_nameShortPossessive} average butt. The anus, while ordinary, is quite apparent and leaves an impression.</li>
+            <li>A typical posterior, an average anus. It’s a familiar sight that quietly occupies the mind.</li>
+            <li>{PAWN_nameShortPossessive} rear has a common form, but the clear presence of the anus makes it subtly compelling.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside, including its visible anus, confirms a fundamental aspect.</li>
+            <li>{PAWN_nameShortPossessive} buttock appears standard, yet the anus, in its average state, is distinctly there.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} posterior; the average anus is a clear, yet unadorned, sight.</li>
+            <li>An ordinary rear, but the average anus is undeniably present and visible. It's just a simple observation.</li>
+            <li>{PAWN_nameShortPossessive} backside presents as common, yet the anus, average in its design, holds an unassuming draw.</li>
+            <li>I observed {PAWN_nameShortPossessive} average butt, and the anus, while typical, was clear to see. A functional part of the form.</li>
+            <li>{PAWN_nameShortPossessive} rear is nothing special, but the distinct visibility of the anus makes its presence known.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young females butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_Elderly_Female_opinion</defName>
+        <label>Average Anus (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} rear has an average shape, appearing quite common. The anus itself is of typical size, unremarkable.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, the contours are moderate. The anal opening is a standard size, blending in.</li>
+            <li>{PAWN_nameShortPossessive} buttock shape is quite ordinary, neither prominent nor flat. The anus is unassuming.</li>
+            <li>I noted {PAWN_nameShortPossessive} average gluteal development. The anus had a standard appearance, as expected.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} posterior reveals a common silhouette. The anus's visibility is typical.</li>
+            <li>{PAWN_nameShortPossessive} butt has a conventional form, well-proportioned to {PAWN_possessive} frame. The anus shows no distinct features.</li>
+            <li>The curves of {PAWN_nameShortPossessive} backside are quite average. The anus, a normal size, is neither hidden nor overtly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses an unremarkable, standard appearance. The anus is of average visibility.</li>
+            <li>I observed {PAWN_nameShortPossessive} typical behind, the buttocks neither too large nor too small. The anus maintains a standard presence.</li>
+            <li>The overall shape of {PAWN_nameShortPossessive} buttock is conventional. The anal opening is simply average.</li>
+            <li>{PAWN_nameShortPossessive} buttock region presents a very common sight. The anus is of an average size, its contours are subtle.</li>
+            <li>Taking in {PAWN_nameShortPossessive} posterior, it's just an ordinary, standard rear. The anal opening is neither inviting nor hidden.</li>
+            <li>One can see {PAWN_nameShortPossessive} posterior, presenting as an average form. The anus is of a common size, lacking peculiar characteristics.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside suggests a typical, unassuming build. The anus blends in with the anatomy.</li>
+            <li>The shape of {PAWN_nameShortPossessive} buttocks is unexceptional, a common sight. The anus looks exactly as one would expect.</li>
+            <li>{PAWN_nameShortPossessive} rear offers a rather plain view. The anal orifice is of average dimensions, not drawing attention.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional buttock structure. The anus is visible, but not remarkably so.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the form is quite standard. The anus is neither pronounced nor recessed.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are typical. The anal opening has an expected, average appearance.</li>
+            <li>{PAWN_nameShortPossessive} buttocks are of a normal build. The anus is present, and its size makes it adequately visible.</li>
+            <li>An ordinary observation of {PAWN_nameShortPossessive} rear reveals a standard shape. The anus is average, fitting the general presentation.</li>
+            <li>{PAWN_nameShortPossessive} posterior is neither striking nor dull; it's simply average. The anus, of common size, exhibits a regular form.</li>
+            <li>I noted the ordinary curve of {PAWN_nameShortPossessive} buttocks. The anus is visible, appearing to be of a perfectly average diameter.</li>
+            <li>The overall view of {PAWN_nameShortPossessive} backside is consistent with typical forms. The anus has a standard visibility.</li>
+            <li>From this angle, {PAWN_nameShortPossessive} rear presents a normal outline. The anus is of average proportion, blending well.</li>
+            <li>A quick assessment of {PAWN_nameShortPossessive} buttocks reveals a usual, unremarkable shape. The anus is visible as much as expected.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior is utterly common. The anal opening is a standard size, with no notable features.</li>
+            <li>{PAWN_nameShortPossessive} rear view is typical, neither particularly pronounced nor small. The anus is average in size and visibility.</li>
+            <li>I saw a standard rear on {PAWN_nameShortPossessive}. The anus was unremarkable, its presence just as one would anticipate.</li>
+            <li>{PAWN_nameShortPossessive} buttock region has a generic look. The anus is average, neither hidden nor particularly noticeable.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young male observes young females butt and anus, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MaleOpinion</defName>
+        <label>Average Anus (Neutral)_MaleOpinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear is, well, average. The buttock shape is rather typical, and the anus, though visible, holds no particular intrigue.</li>
+            <li>Looking at {PAWN_nameShortPossessive} backside, it's just a standard form. The anus is of a common size, blending in with the unremarkable curvature of {PAWN_possessive} buttocks.</li>
+            <li>{PAWN_nameShortPossessive} posterior is quite ordinary; the shape of {PAWN_possessive} butt is common. The anus appears to be of average visibility, as expected.</li>
+            <li>A quick glance confirms {PAWN_nameShortPossessive} very average rear. The buttock's curve is typical, and the anus is present without being noteworthy.</li>
+            <li>I observed {PAWN_nameShortPossessive} conventional buttock. The anus is regular in size, and its appearance doesn't stand out from the ordinary.</li>
+            <li>{PAWN_nameShortPossessive} backside has a predictable form. The anus, a common sight, doesn't suggest any particular history or appeal.</li>
+            <li>The shape of {PAWN_nameShortPossessive} butt is neither remarkable nor unusual. The anus is of average dimension, its visibility merely standard.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view. The buttocks are of typical size, and the anus blends in without drawing attention.</li>
+            <li>Just an average posterior on {PAWN_nameShortPossessive}. The anus is exactly what one would expect to see, neither more nor less.</li>
+            <li>{PAWN_nameShortPossessive} buttock region is quite standard. The anus is visible, of moderate size, and fits the common anatomical profile.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are unremarkable. The anus, of average size, simply exists within the general form.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional rear. The anus, of a typical size, is adequately visible but not prominent.</li>
+            <li>{PAWN_nameShortPossessive} posterior looks entirely normal. The buttock shape is common, and the anus is just… there.</li>
+            <li>A standard butt, a standard anus on {PAWN_nameShortPossessive}. Nothing really catches the eye or lingers in the mind.</li>
+            <li>The form of {PAWN_nameShortPossessive} backside is quite unexceptional. The anus, of average visibility, does not inspire curiosity.</li>
+            <li>{PAWN_nameShortPossessive} rear presents a very common outline. The anus is of average proportion, blending seamlessly.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} average posterior. The buttock shape is typical, and the anus is neither hidden nor pronounced.</li>
+            <li>{PAWN_nameShortPossessive} butt is of a regular build. The anus, a normal size, is visible, but not particularly inviting.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} backside is ordinary. The anus is of standard size, offering no unique features.</li>
+            <li>{PAWN_nameShortPossessive} rear shows a common form. The anus is average in its visibility, an expected part of the anatomy.</li>
+            <li>Just a typical posterior on {PAWN_nameShortPossessive}. The anus is what you'd expect, neither exciting nor disappointing.</li>
+            <li>I observed {PAWN_nameShortPossessive} conventional buttock. The anus, while present and visible, offers nothing to specifically comment on.</li>
+            <li>{PAWN_nameShortPossessive} backside has a standard shape. The anus is of average size, its presence unremarkable.</li>
+            <li>The form of {PAWN_nameShortPossessive} rear is perfectly normal. The anus is visible, but in a very ordinary way.</li>
+            <li>A common buttock on {PAWN_nameShortPossessive}. The anus is average, fitting the general anatomical presentation.</li>
+            <li>{PAWN_nameShortPossessive} posterior is rather plain. The anus is of typical dimensions, not drawing any particular focus.</li>
+            <li>I noted {PAWN_nameShortPossessive} unremarkable butt. The anus is there, visible, and entirely uninteresting.</li>
+            <li>The outline of {PAWN_nameShortPossessive} backside is average. The anus is a standard size, neither concealed nor exposed.</li>
+            <li>{PAWN_nameShortPossessive} butt presents a familiar, common shape. The anus is of average visibility, simply existing.</li>
+            <li>I took in {PAWN_nameShortPossessive} general posterior view. The anus is regular, without any surprising qualities.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes unisex butt and anus -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Voyeur</defName>
+        <label>Average Anus (Neutral) trait Voyeur</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear is, though common, still a sight to behold. The anus, moderately visible, offers a quiet point of focus.</li>
+            <li>That typical backside, with its average anus, holds a certain understated charm. It's unremarkable, but undeniably there for observation.</li>
+            <li>A standard butt, an average anus. Yet, the very act of observing it is compelling. Its commonality doesn't diminish the private nature of the view.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a certain unassuming availability. The anus, though ordinary, feels surprisingly visible.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical, offers enough to study. The average anus suggests an ordinary path, but the details are intriguing.</li>
+            <li>That average butt. The anus isn't special, but the mere sight of it is… noted. A quiet appreciation for the common form.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average rear, there's a calm recognition. The anus, of moderate size, is clearly there, suggesting a functional opening.</li>
+            <li>{PAWN_nameShortPossessive} rear has a common form, but it draws a focused glance. The anus, while average, hints at privacy revealed.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior. The anus, nothing special, but its presence is enough to hold attention.</li>
+            <li>{PAWN_nameShortPossessive} average buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites closer scrutiny.</li>
+            <li>A standard rear, with an average anus. It's not about the exceptional, but the quiet confirmation of what's presented for viewing.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional posterior. The average anus, clearly visible, carries a certain, unstated curiosity in its form.</li>
+            <li>{PAWN_nameShortPossessive} butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet intriguing, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside and anus is enough to provoke a mild, internal stirring. It's a functional, yet appealing, view.</li>
+            <li>{PAWN_nameShortPossessive} rear is typical, but the way the anus presents itself is quite... open. A common sight, yet effective for observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form. The anus, though not unusual, still holds attention.</li>
+            <li>{PAWN_nameShortPossessive} butt is conventional, yet the anus, by its average size, is notably present. A functional display for curious eyes.</li>
+            <li>A standard rear, an average anus. It doesn't excite, but it acknowledges a fundamental, and perhaps enticing, reality of the body.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} posterior. The anus, of average visibility, is a quiet, yet discernible, focal point.</li>
+            <li>{PAWN_nameShortPossessive} backside seems unremarkable, yet the readily visible anus, with its average proportions, carries a certain weight of observation.</li>
+            <li>I noted {PAWN_nameShortPossessive} average butt. The anus, while ordinary, is quite apparent and leaves an impression on the observer.</li>
+            <li>A typical posterior, an average anus. It’s a familiar sight that quietly occupies the mind of one who observes.</li>
+            <li>{PAWN_nameShortPossessive} rear has a common form, but the clear presence of the anus makes it subtly compelling for viewing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside, including its visible anus, confirms a fundamental aspect of human anatomy.</li>
+            <li>{PAWN_nameShortPossessive} buttock appears standard, yet the anus, in its average state, is distinctly there, open for visual inspection.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} posterior; the average anus is a clear, yet unadorned, sight.</li>
+            <li>An ordinary rear, but the average anus is undeniably present and visible. It's just a simple observation for a voyeur.</li>
+            <li>{PAWN_nameShortPossessive} backside presents as common, yet the anus, average in its design, holds an unassuming draw for the gaze.</li>
+            <li>I observed {PAWN_nameShortPossessive} average butt, and the anus, while typical, was clear to see. A functional part of the form, for observation.</li>
+            <li>{PAWN_nameShortPossessive} rear is nothing special, but the distinct visibility of the anus makes its presence known to the observer.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Voyeur_M</defName>
+        <label>Average Anus (Neutral) trait Voyeur_M</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear is, though common, still a compelling sight. The anus, moderately visible, elicits a quiet stirring of interest.</li>
+            <li>That typical female backside, with its average anus, holds a certain unassuming allure. It's unremarkable, but undeniably there, drawing a gaze.</li>
+            <li>A standard butt, an average anus. Yet, a part of me stirs. It's unremarkable, but undeniably present and… inviting.</li>
+            <li>Observing {PAWN_nameShortPossessive} average female posterior, there's an unassuming availability. The anus, though ordinary, feels surprisingly visible.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical, offers enough to consider. The average anus suggests an ordinary path, but the mind wanders to possibilities.</li>
+            <li>That average butt. The anus isn't special, but the mere sight of it is… noted. A quiet appreciation for the common, yet private, form.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average female rear, there's a calm recognition. The anus, of moderate size, is clearly there, suggesting a subtle invitation.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, but it draws a focused glance. The anus, while average, hints at intimate revelations.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior. The anus, nothing special, but its presence is enough to hold attention and provoke thought.</li>
+            <li>{PAWN_nameShortPossessive} average buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites closer scrutiny.</li>
+            <li>A standard female rear, with an average anus. It's not about the exceptional, but the quiet confirmation of what's presented for viewing.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional female posterior. The average anus, clearly visible, carries a certain, unstated curiosity in its form.</li>
+            <li>{PAWN_nameShortPossessive} butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet intriguing, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside and anus is enough to provoke a mild, internal stirring. It's a functional, yet appealing, view.</li>
+            <li>{PAWN_nameShortPossessive} female rear is typical, but the way the anus presents itself is quite... open. A common sight, yet effective for male observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form. The anus, though not unusual, still holds male attention.</li>
+            <li>{PAWN_nameShortPossessive} female butt is conventional, yet the anus, by its average size, is notably present. A functional display for curious male eyes.</li>
+            <li>A standard female rear, an average anus. It doesn't necessarily excite, but it acknowledges a fundamental, and perhaps enticing, reality of the body.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} female posterior. The anus, of average visibility, is a quiet, yet discernible, focal point.</li>
+            <li>{PAWN_nameShortPossessive} female backside seems unremarkable, yet the readily visible anus, with its average proportions, carries a certain weight of male observation.</li>
+            <li>I noted {PAWN_nameShortPossessive} average female butt. The anus, while ordinary, is quite apparent and leaves an impression on the male observer.</li>
+            <li>A typical female posterior, an average anus. It’s a familiar sight that quietly occupies the male mind.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, but the clear presence of the anus makes it subtly compelling for male viewing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average female backside, including its visible anus, confirms a fundamental aspect of female anatomy.</li>
+            <li>{PAWN_nameShortPossessive} female buttock appears standard, yet the anus, in its average state, is distinctly there, open for male visual inspection.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} female posterior; the average anus is a clear, yet unadorned, sight for a male.</li>
+            <li>An ordinary female rear, but the average anus is undeniably present and visible. It's just a simple observation for a male voyeur.</li>
+            <li>{PAWN_nameShortPossessive} female backside presents as common, yet the anus, average in its design, holds an unassuming draw for the male gaze.</li>
+            <li>I observed {PAWN_nameShortPossessive} average female butt, and the anus, while typical, was clear to see. A functional part of the form, for male observation.</li>
+            <li>{PAWN_nameShortPossessive} female rear is nothing special, but the distinct visibility of the anus makes its presence known to the male observer.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young females butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Voyeur_F</defName>
+        <label>Average Anus (Neutral) trait Voyeur_F</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear is, though common, still a compelling sight. The anus, moderately visible, elicits a quiet stirring of interest.</li>
+            <li>That typical female backside, with its average anus, holds a certain unassuming allure. It's unremarkable, but undeniably there, drawing a gaze.</li>
+            <li>A standard butt, an average anus. Yet, a part of me stirs. It's unremarkable, but undeniably present and… inviting.</li>
+            <li>Observing {PAWN_nameShortPossessive} average female posterior, there's an unassuming availability. The anus, though ordinary, feels surprisingly visible.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical, offers enough to consider. The average anus suggests an ordinary path, but the mind wanders to possibilities.</li>
+            <li>That average butt. The anus isn't special, but the mere sight of it is… noted. A quiet appreciation for the common, yet private, form.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average female rear, there's a calm recognition. The anus, of moderate size, is clearly there, suggesting a subtle invitation.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, but it draws a focused glance. The anus, while average, hints at intimate revelations.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior. The anus, nothing special, but its presence is enough to hold attention and provoke thought.</li>
+            <li>{PAWN_nameShortPossessive} average buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites closer scrutiny.</li>
+            <li>A standard female rear, with an average anus. It's not about the exceptional, but the quiet confirmation of what's presented for viewing.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional female posterior. The average anus, clearly visible, carries a certain, unstated curiosity in its form.</li>
+            <li>{PAWN_nameShortPossessive} butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet intriguing, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside and anus is enough to provoke a mild, internal stirring. It's a functional, yet appealing, view.</li>
+            <li>{PAWN_nameShortPossessive} female rear is typical, but the way the anus presents itself is quite... open. A common sight, yet effective for female observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form. The anus, though not unusual, still holds female attention.</li>
+            <li>{PAWN_nameShortPossessive} female butt is conventional, yet the anus, by its average size, is notably present. A functional display for curious female eyes.</li>
+            <li>A standard female rear, an average anus. It doesn't necessarily excite, but it acknowledges a fundamental, and perhaps enticing, reality of the body.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} female posterior. The anus, of average visibility, is a quiet, yet discernible, focal point.</li>
+            <li>{PAWN_nameShortPossessive} female backside seems unremarkable, yet the readily visible anus, with its average proportions, carries a certain weight of female observation.</li>
+            <li>I noted {PAWN_nameShortPossessive} average female butt. The anus, while ordinary, is quite apparent and leaves an impression on the female observer.</li>
+            <li>A typical female posterior, an average anus. It’s a familiar sight that quietly occupies the female mind.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, but the clear presence of the anus makes it subtly compelling for female viewing.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average female backside, including its visible anus, confirms a fundamental aspect of female anatomy.</li>
+            <li>{PAWN_nameShortPossessive} female buttock appears standard, yet the anus, in its average state, is distinctly there, open for female visual inspection.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} female posterior; the average anus is a clear, yet unadorned, sight for a female.</li>
+            <li>An ordinary female rear, but the average anus is undeniably present and visible. It's just a simple observation for a female voyeur.</li>
+            <li>{PAWN_nameShortPossessive} female backside presents as common, yet the anus, average in its design, holds an unassuming draw for the female gaze.</li>
+            <li>I observed {PAWN_nameShortPossessive} average female butt, and the anus, while typical, was clear to see. A functional part of the form, for female observation.</li>
+            <li>{PAWN_nameShortPossessive} female rear is nothing special, but the distinct visibility of the anus makes its presence known to the female observer.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_NMM_Exhibitionist</defName>
+        <label>Average Anus (Neutral) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear is openly displayed, an ordinary sight, yet it feels entirely natural to witness such an average anus.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unremarkable backside, with its average anus, is simply part of the landscape. Nothing to hide, nothing to be ashamed of.</li>
+            <li>A common butt, an average anus, exposed. It’s a simple fact of observation, and one feels a certain kinship with such frankness.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, openly presented, is merely an acknowledgment of shared anatomy. The anus is clearly visible.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical, gains a certain validity in its public display. The average anus is simply there, for all to see.</li>
+            <li>That average butt. The anus isn't special, but its uninhibited presentation is noted. A quiet approval for the honesty.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average rear, freely exposed, there's a calm acceptance. The anus, of moderate size, is clearly evident.</li>
+            <li>{PAWN_nameShortPossessive} rear has a common form, and its openness is appreciated. The anus, while average, is revealed without reservation.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior, openly displayed. The anus, nothing special, but its candid presence is satisfying.</li>
+            <li>{PAWN_nameShortPossessive} average buttock seems unassuming, but its exhibition is noted. The anus, in its ordinary state, is freely offered.</li>
+            <li>A standard rear, with an average anus, brought into plain sight. It's about the unadorned truth of the body.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional posterior, unveiled. The average anus, clearly visible, represents a lack of inhibition.</li>
+            <li>{PAWN_nameShortPossessive} butt has an unremarkable form, but its distinct, open visibility is clear. It’s an average, yet honest, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside and anus, openly displayed, is simply a part of life. A functional view, honestly presented.</li>
+            <li>{PAWN_nameShortPossessive} rear is typical, but the way the anus presents itself is quite... unreserved. A common sight, effectively shown.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, freely shared. The anus, though not unusual, still holds attention.</li>
+            <li>{PAWN_nameShortPossessive} butt is conventional, yet the anus, by its average size, is notably present and unhidden.</li>
+            <li>A standard rear, an average anus, openly offered. It acknowledges a fundamental reality, without pretense.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} backside seems unremarkable, yet the readily visible anus, with its average proportions, carries a certain weight in its openness.</li>
+            <li>I noted {PAWN_nameShortPossessive} average butt, and the anus, while ordinary, was quite apparent and openly offered.</li>
+            <li>A typical posterior, an average anus, revealed without artifice. It’s a familiar sight, now publicly acknowledged.</li>
+            <li>{PAWN_nameShortPossessive} rear has a common form, but the clear, unhindered presence of the anus makes it subtly compelling.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside, including its visible anus, confirms a fundamental aspect of anatomy, openly.</li>
+            <li>{PAWN_nameShortPossessive} buttock appears standard, yet the anus, in its average state, is distinctly there, openly visible.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} posterior; the average anus is a clear, yet unadorned, sight, frankly displayed.</li>
+            <li>An ordinary rear, but the average anus is undeniably present and openly visible. It's just a simple, unadorned observation.</li>
+            <li>{PAWN_nameShortPossessive} backside presents as common, yet the anus, average in its design, holds an unassuming draw in its nakedness.</li>
+            <li>I observed {PAWN_nameShortPossessive} average butt, and the anus, while typical, was clear to see. A functional part of the form, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} rear is nothing special, but the distinct, unhidden visibility of the anus makes its presence known.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young females butt and anus, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_NMM_Exhibitionist_male</defName>
+        <label>Average Anus (Neutral) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear is openly displayed, an ordinary female sight, yet it feels entirely natural to witness such an average anus.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unremarkable female backside, with its average anus, is simply part of the landscape. Nothing to hide.</li>
+            <li>A common female butt, an average anus, exposed. It’s a simple fact of observation, and one feels a certain kinship with such frankness.</li>
+            <li>Observing {PAWN_nameShortPossessive} average female posterior, openly presented, is merely an acknowledgment of shared anatomy. The anus is clearly visible.</li>
+            <li>{PAWN_nameShortPossessive} female backside, while typical, gains a certain validity in its public display. The average anus is simply there, for male eyes.</li>
+            <li>That average female butt. The anus isn't special, but its uninhibited presentation is noted. A quiet approval for the honesty.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average female rear, freely exposed, there's a calm acceptance. The anus, of moderate size, is clearly evident.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, and its openness is appreciated. The anus, while average, is revealed without reservation.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} female posterior, openly displayed. The anus, nothing special, but its candid presence is satisfying.</li>
+            <li>{PAWN_nameShortPossessive} average female buttock seems unassuming, but its exhibition is noted. The anus, in its ordinary state, is freely offered.</li>
+            <li>A standard female rear, with an average anus, brought into plain sight. It's about the unadorned truth of the female body.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional female posterior, unveiled. The average anus, clearly visible, represents a lack of inhibition.</li>
+            <li>{PAWN_nameShortPossessive} female butt has an unremarkable form, but its distinct, open visibility is clear. It’s an average, yet honest, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average female backside and anus, openly displayed, is simply a part of life. A functional view.</li>
+            <li>{PAWN_nameShortPossessive} female rear is typical, but the way the anus presents itself is quite... unreserved. A common sight, effectively shown.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, freely shared. The anus, though not unusual, still holds attention.</li>
+            <li>{PAWN_nameShortPossessive} female butt is conventional, yet the anus, by its average size, is notably present and unhidden.</li>
+            <li>A standard female rear, an average anus, openly offered. It acknowledges a fundamental reality, without pretense.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} female posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} female backside seems unremarkable, yet the readily visible anus, with its average proportions, carries a certain weight in its openness.</li>
+            <li>I noted {PAWN_nameShortPossessive} average female butt, and the anus, while ordinary, was quite apparent and openly offered.</li>
+            <li>A typical female posterior, an average anus, revealed without artifice. It’s a familiar sight, now publicly acknowledged.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, but the clear, unhindered presence of the anus makes it subtly compelling.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average female backside, including its visible anus, confirms a fundamental aspect of anatomy, openly.</li>
+            <li>{PAWN_nameShortPossessive} female buttock appears standard, yet the anus, in its average state, is distinctly there, openly visible.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} female posterior; the average anus is a clear, yet unadorned, sight, frankly displayed.</li>
+            <li>An ordinary female rear, but the average anus is undeniably present and openly visible. It's just a simple, unadorned observation.</li>
+            <li>{PAWN_nameShortPossessive} female backside presents as common, yet the anus, average in its design, holds an unassuming draw in its nakedness.</li>
+            <li>I observed {PAWN_nameShortPossessive} average female butt, and the anus, while typical, was clear to see. A functional part of the form, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} female rear is nothing special, but the distinct, unhidden visibility of the anus makes its presence known.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young females butt and anus, can include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_NMM_Exhibitionist_Female</defName>
+        <label>Average Anus (Neutral) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear is openly displayed, an ordinary female sight, yet it feels entirely natural to witness such an average anus.</li>
+            <li>The sight of {PAWN_nameShortPossessive} unremarkable female backside, with its average anus, is simply part of the landscape. Nothing to hide.</li>
+            <li>A common female butt, an average anus, exposed. It’s a simple fact of observation, and one feels a certain kinship with such frankness.</li>
+            <li>Observing {PAWN_nameShortPossessive} average female posterior, openly presented, is merely an acknowledgment of shared anatomy. The anus is clearly visible.</li>
+            <li>{PAWN_nameShortPossessive} female backside, while typical, gains a certain validity in its public display. The average anus is simply there, for female eyes.</li>
+            <li>That average female butt. The anus isn't special, but its uninhibited presentation is noted. A quiet approval for the honesty.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average female rear, freely exposed, there's a calm acceptance. The anus, of moderate size, is clearly evident.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, and its openness is appreciated. The anus, while average, is revealed without reservation.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} female posterior, openly displayed. The anus, nothing special, but its candid presence is satisfying.</li>
+            <li>{PAWN_nameShortPossessive} average female buttock seems unassuming, but its exhibition is noted. The anus, in its ordinary state, is freely offered.</li>
+            <li>A standard female rear, with an average anus, brought into plain sight. It's about the unadorned truth of the female body.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional female posterior, unveiled. The average anus, clearly visible, represents a lack of inhibition.</li>
+            <li>{PAWN_nameShortPossessive} female butt has an unremarkable form, but its distinct, open visibility is clear. It’s an average, yet honest, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average female backside and anus, openly displayed, is simply a part of life. A functional view.</li>
+            <li>{PAWN_nameShortPossessive} female rear is typical, but the way the anus presents itself is quite... unreserved. A common sight, effectively shown.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, freely shared. The anus, though not unusual, still holds attention.</li>
+            <li>{PAWN_nameShortPossessive} female butt is conventional, yet the anus, by its average size, is notably present and unhidden.</li>
+            <li>A standard female rear, an average anus, openly offered. It acknowledges a fundamental reality, without pretense.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} female posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} female backside seems unremarkable, yet the readily visible anus, with its average proportions, carries a certain weight in its openness.</li>
+            <li>I noted {PAWN_nameShortPossessive} average female butt, and the anus, while ordinary, was quite apparent and openly offered.</li>
+            <li>A typical female posterior, an average anus, revealed without artifice. It’s a familiar sight, now publicly acknowledged.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, but the clear, unhindered presence of the anus makes it subtly compelling.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average female backside, including its visible anus, confirms a fundamental aspect of anatomy, openly.</li>
+            <li>{PAWN_nameShortPossessive} female buttock appears standard, yet the anus, in its average state, is distinctly there, openly visible.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} female posterior; the average anus is a clear, yet unadorned, sight, frankly displayed.</li>
+            <li>An ordinary female rear, but the average anus is undeniably present and openly visible. It's just a simple, unadorned observation.</li>
+            <li>{PAWN_nameShortPossessive} female backside presents as common, yet the anus, average in its design, holds an unassuming draw in its nakedness.</li>
+            <li>I observed {PAWN_nameShortPossessive} average female butt, and the anus, while typical, was clear to see. A functional part of the form, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} female rear is nothing special, but the distinct, unhidden visibility of the anus makes its presence known.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Nymphomaniac</defName>
+        <label>Average Anus (Neutral) trait Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear is present, and the moderately visible anus does little to stifle a certain latent desire.</li>
+            <li>That typical backside, with its average anus, while common, still triggers a quiet, internal yearning. A familiar shape, with potential.</li>
+            <li>A standard butt, an average anus. Yet, a palpable sense of longing arises. It's unremarkable, but undeniably present and... stimulating.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's an undeniable, unassuming invitation. The anus, though ordinary, feels surprisingly available.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical, offers enough to consider with a hungry eye. The average anus suggests possibilities.</li>
+            <li>That average butt. The anus isn't special, but the mere sight of it is… noted with a growing intensity.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average rear, there's a strong recognition. The anus, of moderate size, is clearly there, promising sensations.</li>
+            <li>{PAWN_nameShortPossessive} rear has a common form, but it draws a compelling glance. The anus, while average, hints at raw desire.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior. The anus, nothing special, but its presence is enough to ignite a deep craving.</li>
+            <li>{PAWN_nameShortPossessive} average buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites passionate engagement.</li>
+            <li>A standard rear, with an average anus. It's not about the exceptional, but the raw, unbridled urge it evokes.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional posterior. The average anus, clearly visible, carries an unstated, yet powerful, promise.</li>
+            <li>{PAWN_nameShortPossessive} butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet profoundly stimulating, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside and anus is enough to provoke a strong, internal stirring. It's a functional, yet powerfully appealing, view.</li>
+            <li>{PAWN_nameShortPossessive} rear is typical, but the way the anus presents itself is quite... alluring. A common sight, effectively arousing.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, and an intense desire. The anus, though not unusual, still captivates.</li>
+            <li>{PAWN_nameShortPossessive} butt is conventional, yet the anus, by its average size, is notably present and intensely inviting.</li>
+            <li>A standard rear, an average anus. It doesn't need to be extraordinary to spark a deep, fundamental craving.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, charged with potential.</li>
+            <li>{PAWN_nameShortPossessive} backside seems unremarkable, yet the readily visible anus, with its average proportions, carries an irresistible weight.</li>
+            <li>I noted {PAWN_nameShortPossessive} average butt. The anus, while ordinary, was quite apparent and profoundly enticing.</li>
+            <li>A typical posterior, an average anus. It’s a familiar sight that intensely occupies the mind.</li>
+            <li>{PAWN_nameShortPossessive} rear has a common form, but the clear presence of the anus makes it subtly, yet deeply, compelling.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside, including its visible anus, confirms a fundamental, highly desired aspect.</li>
+            <li>{PAWN_nameShortPossessive} buttock appears standard, yet the anus, in its average state, is distinctly there, openly promising.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} posterior; the average anus is a clear, yet unadorned, sight, charged with a primal allure.</li>
+            <li>An ordinary rear, but the average anus is undeniably present and visible, and utterly compelling.</li>
+            <li>{PAWN_nameShortPossessive} backside presents as common, yet the anus, average in its design, holds an undeniable, powerful draw.</li>
+            <li>I observed {PAWN_nameShortPossessive} average butt, and the anus, while typical, was clear to see. A functional part of the form, intensely desirable.</li>
+            <li>{PAWN_nameShortPossessive} rear is nothing special, but the distinct visibility of the anus ignites a powerful, raw desire.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Nymphomaniac_male</defName>
+        <label>Average Anus (Neutral) trait Nymphomaniac_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average female rear is present, and the moderately visible anus does little to stifle a powerful male desire.</li>
+            <li>That typical female backside, with its average anus, while common, still triggers a raw, internal male yearning. A familiar shape, full of potential.</li>
+            <li>A standard female butt, an average anus. Yet, a palpable sense of male longing arises. It's unremarkable, but undeniably present and... stimulating.</li>
+            <li>Observing {PAWN_nameShortPossessive} average female posterior, there's an undeniable, unassuming invitation. The anus, though ordinary, feels surprisingly available for male desires.</li>
+            <li>{PAWN_nameShortPossessive} female backside, while typical, offers enough to consider with a hungry male eye. The average anus suggests exciting possibilities.</li>
+            <li>That average female butt. The anus isn't special, but the mere sight of it is… noted with a growing male intensity.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average female rear, there's a strong male recognition. The anus, of moderate size, is clearly there, promising sensations.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, but it draws a compelling male glance. The anus, while average, hints at raw desire.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} female posterior. The anus, nothing special, but its presence is enough to ignite a deep male craving.</li>
+            <li>{PAWN_nameShortPossessive} average female buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites passionate male engagement.</li>
+            <li>A standard female rear, with an average anus. It's not about the exceptional, but the raw, unbridled male urge it evokes.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional female posterior. The average anus, clearly visible, carries an unstated, yet powerful, male promise.</li>
+            <li>{PAWN_nameShortPossessive} female butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet profoundly stimulating, sight for a male.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average female backside and anus is enough to provoke a strong, internal male stirring. It's a functional, yet powerfully appealing, view.</li>
+            <li>{PAWN_nameShortPossessive} female rear is typical, but the way the anus presents itself is quite... alluring. A common sight, effectively arousing for a male.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, and an intense male desire. The anus, though not unusual, still captivates male attention.</li>
+            <li>{PAWN_nameShortPossessive} female butt is conventional, yet the anus, by its average size, is notably present and intensely inviting for a male.</li>
+            <li>A standard female rear, an average anus. It doesn't need to be extraordinary to spark a deep, fundamental male craving.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} female posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, charged with male potential.</li>
+            <li>{PAWN_nameShortPossessive} female backside seems unremarkable, yet the readily visible anus, with its average proportions, carries an irresistible male weight.</li>
+            <li>I noted {PAWN_nameShortPossessive} average female butt. The anus, while ordinary, was quite apparent and profoundly enticing for a male.</li>
+            <li>A typical female posterior, an average anus. It’s a familiar sight that intensely occupies the male mind.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, but the clear presence of the anus makes it subtly, yet deeply, compelling for a male.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average female backside, including its visible anus, confirms a fundamental, highly desired aspect for a male.</li>
+            <li>{PAWN_nameShortPossessive} female buttock appears standard, yet the anus, in its average state, is distinctly there, openly promising to a male.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} female posterior; the average anus is a clear, yet unadorned, sight, charged with a primal male allure.</li>
+            <li>An ordinary female rear, but the average anus is undeniably present and visible, and utterly compelling to a male.</li>
+            <li>{PAWN_nameShortPossessive} female backside presents as common, yet the anus, average in its design, holds an undeniable, powerful male draw.</li>
+            <li>I observed {PAWN_nameShortPossessive} average female butt, and the anus, while typical, was clear to see. A functional part of the form, intensely desirable for a male.</li>
+            <li>{PAWN_nameShortPossessive} female rear is nothing special, but the distinct visibility of the anus ignites a powerful, raw male desire.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young females butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Nymphomaniac_Female</defName>
+        <label>Average Anus (Neutral) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average female rear is present, and the moderately visible anus does little to stifle a powerful female desire.</li>
+            <li>That typical female backside, with its average anus, while common, still triggers a raw, internal female yearning. A familiar shape, full of potential.</li>
+            <li>A standard female butt, an average anus. Yet, a palpable sense of female longing arises. It's unremarkable, but undeniably present and... stimulating.</li>
+            <li>Observing {PAWN_nameShortPossessive} average female posterior, there's an undeniable, unassuming invitation. The anus, though ordinary, feels surprisingly available for female desires.</li>
+            <li>{PAWN_nameShortPossessive} female backside, while typical, offers enough to consider with a hungry female eye. The average anus suggests exciting possibilities.</li>
+            <li>That average female butt. The anus isn't special, but the mere sight of it is… noted with a growing female intensity.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average female rear, there's a strong female recognition. The anus, of moderate size, is clearly there, promising sensations.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, but it draws a compelling female glance. The anus, while average, hints at raw desire.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} female posterior. The anus, nothing special, but its presence is enough to ignite a deep female craving.</li>
+            <li>{PAWN_nameShortPossessive} average female buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites passionate female engagement.</li>
+            <li>A standard female rear, with an average anus. It's not about the exceptional, but the raw, unbridled female urge it evokes.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional female posterior. The average anus, clearly visible, carries an unstated, yet powerful, female promise.</li>
+            <li>{PAWN_nameShortPossessive} female butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet profoundly stimulating, sight for a female.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average female backside and anus, openly displayed, is simply a part of life. A functional view, yet powerfully appealing.</li>
+            <li>{PAWN_nameShortPossessive} female rear is typical, but the way the anus presents itself is quite... alluring. A common sight, effectively arousing for a female.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, and an intense female desire. The anus, though not unusual, still captivates female attention.</li>
+            <li>{PAWN_nameShortPossessive} female butt is conventional, yet the anus, by its average size, is notably present and intensely inviting for a female.</li>
+            <li>A standard female rear, an average anus. It doesn't need to be extraordinary to spark a deep, fundamental female craving.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} female posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, charged with female potential.</li>
+            <li>{PAWN_nameShortPossessive} female backside seems unremarkable, yet the readily visible anus, with its average proportions, carries an irresistible female weight.</li>
+            <li>I noted {PAWN_nameShortPossessive} average female butt. The anus, while ordinary, was quite apparent and profoundly enticing for a female.</li>
+            <li>A typical female posterior, an average anus. It’s a familiar sight that intensely occupies the female mind.</li>
+            <li>{PAWN_nameShortPossessive} female rear has a common form, but the clear presence of the anus makes it subtly, yet deeply, compelling for a female.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average female backside, including its visible anus, confirms a fundamental, highly desired aspect for a female.</li>
+            <li>{PAWN_nameShortPossessive} female buttock appears standard, yet the anus, in its average state, is distinctly there, openly promising to a female.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} female posterior; the average anus is a clear, yet unadorned, sight, charged with a primal female allure.</li>
+            <li>An ordinary female rear, but the average anus is undeniably present and visible, and utterly compelling to a female.</li>
+            <li>{PAWN_nameShortPossessive} female backside presents as common, yet the anus, average in its design, holds an undeniable, powerful female draw.</li>
+            <li>I observed {PAWN_nameShortPossessive} average female butt, and the anus, while typical, was clear to see. A functional part of the form, intensely desirable for a female.</li>
+            <li>{PAWN_nameShortPossessive} female rear is nothing special, but the distinct visibility of the anus ignites a powerful, raw female desire.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Kind</defName>
+        <label>Average Anus (Neutral) trait Kind</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear seems perfectly normal. The anus, of typical size, blends well with the natural curves of the body.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, the contours are moderate and natural. The anal opening is a standard, unassuming size.</li>
+            <li>{PAWN_nameShortPossessive} buttock shape is quite ordinary, in a gentle, unoffensive way. The anus is unremarkable and blends in.</li>
+            <li>I noted {PAWN_nameShortPossessive} average gluteal development. The anus had a standard, unproblematic appearance.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} posterior reveals a common, healthy silhouette. The anus's visibility is typical.</li>
+            <li>{PAWN_nameShortPossessive} butt has a conventional, gentle form, well-proportioned. The anus shows no distinct features, just natural.</li>
+            <li>The curves of {PAWN_nameShortPossessive} backside are quite average and soft. The anus, a normal size, is neither hidden nor overtly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses an unremarkable, standard, and natural appearance. The anus is of average visibility.</li>
+            <li>I observed {PAWN_nameShortPossessive} typical behind, the buttocks neither too large nor too small, appearing wholesome. The anus maintains a standard presence.</li>
+            <li>The overall shape of {PAWN_nameShortPossessive} buttock is conventional and unpretentious. The anal opening is simply average.</li>
+            <li>{PAWN_nameShortPossessive} buttock region presents a very common, unproblematic sight. The anus is of an average size, its contours subtle.</li>
+            <li>Taking in {PAWN_nameShortPossessive} posterior, it's just an ordinary, standard, and unassuming rear. The anal opening is neither inviting nor hidden.</li>
+            <li>One can see {PAWN_nameShortPossessive} posterior, presenting as an average, natural form. The anus is of a common size, lacking peculiar characteristics.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside suggests a typical, unassuming, and healthy build. The anus blends in with the anatomy.</li>
+            <li>The shape of {PAWN_nameShortPossessive} buttocks is unexceptional, a common and innocent sight. The anus looks exactly as one would expect.</li>
+            <li>{PAWN_nameShortPossessive} rear offers a rather plain, yet perfectly normal, view. The anal orifice is of average dimensions, not drawing attention.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional buttock structure. The anus is visible, but not remarkably so, a common sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the form is quite standard and unoffensive. The anus is neither pronounced nor recessed.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are typical. The anal opening has an expected, average appearance, completely normal.</li>
+            <li>{PAWN_nameShortPossessive} buttocks are of a normal, natural build. The anus is present, and its size makes it adequately visible.</li>
+            <li>An ordinary observation of {PAWN_nameShortPossessive} rear reveals a standard, unalarming shape. The anus is average, fitting the general presentation.</li>
+            <li>{PAWN_nameShortPossessive} posterior is neither striking nor dull; it's simply average and natural. The anus, of common size, exhibits a regular form.</li>
+            <li>I noted the ordinary curve of {PAWN_nameShortPossessive} buttocks. The anus is visible, appearing to be of a perfectly average diameter, quite innocent.</li>
+            <li>The overall view of {PAWN_nameShortPossessive} backside is consistent with typical, healthy forms. The anus has a standard visibility.</li>
+            <li>From this angle, {PAWN_nameShortPossessive} rear presents a normal, unalarming outline. The anus is of average proportion, blending well.</li>
+            <li>A quick assessment of {PAWN_nameShortPossessive} buttocks reveals a usual, unremarkable, and natural shape. The anus is visible as much as expected.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior is utterly common and innocent. The anal opening is a standard size, with no notable features.</li>
+            <li>{PAWN_nameShortPossessive} rear view is typical, neither particularly pronounced nor small. The anus is average in size and visibility.</li>
+            <li>I saw a standard rear on {PAWN_nameShortPossessive}. The anus was unremarkable, its presence just as one would anticipate, in a benign way.</li>
+            <li>{PAWN_nameShortPossessive} buttock region has a generic, yet natural, look. The anus is average, neither hidden nor particularly noticeable.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes unisex butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Prude</defName>
+        <label>Average Anus (Neutral) trait Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear is frankly unremarkable. The buttock shape is common, and the anus, though visible, is just... there.</li>
+            <li>Looking at {PAWN_nameShortPossessive} backside, it's just a standard form. The anus is of a common size, a rather plain and unappealing sight.</li>
+            <li>{PAWN_nameShortPossessive} posterior is quite ordinary; the shape of {PAWN_possessive} butt is common. The anus appears to be of average visibility, and frankly, uninteresting.</li>
+            <li>A quick glance confirms {PAWN_nameShortPossessive} very average rear. The buttock's curve is typical, and the anus is present without being noteworthy or appealing.</li>
+            <li>I observed {PAWN_nameShortPossessive} conventional buttock. The anus is regular in size, and its appearance doesn't stand out as anything but mundane.</li>
+            <li>{PAWN_nameShortPossessive} backside has a predictable form. The anus, a common sight, doesn't suggest any particular history or appeal. Rather dull.</li>
+            <li>The shape of {PAWN_nameShortPossessive} butt is neither remarkable nor unusual. The anus is of average dimension, its visibility merely standard and unexciting.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected, uninspired view. The buttocks are of typical size, and the anus blends in without drawing attention.</li>
+            <li>Just an average posterior on {PAWN_nameShortPossessive}. The anus is exactly what one would expect to see, neither more nor less, and equally uninspiring.</li>
+            <li>{PAWN_nameShortPossessive} buttock region is quite standard. The anus is visible, of moderate size, and fits the common, rather boring, anatomical profile.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are unremarkable. The anus, of average size, simply exists within the general, unappealing form.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional rear. The anus, of a typical size, is adequately visible but not prominent, nor pleasant.</li>
+            <li>{PAWN_nameShortPossessive} posterior looks entirely normal. The buttock shape is common, and the anus is just… there, a rather plain sight.</li>
+            <li>A standard butt, a standard anus on {PAWN_nameShortPossessive}. Nothing really catches the eye or lingers in the mind, quite the opposite.</li>
+            <li>The form of {PAWN_nameShortPossessive} backside is quite unexceptional. The anus, of average visibility, does not inspire any curiosity.</li>
+            <li>{PAWN_nameShortPossessive} rear presents a very common outline. The anus is of average proportion, blending seamlessly into a decidedly uninteresting view.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} average posterior. The buttock shape is typical, and the anus is neither hidden nor pronounced, just bland.</li>
+            <li>{PAWN_nameShortPossessive} butt is of a regular build. The anus, a normal size, is visible, but not particularly inviting or interesting.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} backside is ordinary. The anus is of standard size, offering no unique or appealing features.</li>
+            <li>{PAWN_nameShortPossessive} rear shows a common form. The anus is average in its visibility, an expected, and frankly dull, part of the anatomy.</li>
+            <li>Just a typical posterior on {PAWN_nameShortPossessive}. The anus is what you'd expect, neither exciting nor disappointing, just plain.</li>
+            <li>I observed {PAWN_nameShortPossessive} conventional buttock. The anus, while present and visible, offers nothing to specifically comment on beyond its mere existence.</li>
+            <li>{PAWN_nameShortPossessive} backside has a standard shape. The anus is of average size, its presence unremarkable and without appeal.</li>
+            <li>The form of {PAWN_nameShortPossessive} rear is perfectly normal. The anus is visible, but in a very ordinary and uninteresting way.</li>
+            <li>A common buttock on {PAWN_nameShortPossessive}. The anus is average, fitting the general anatomical presentation, which is to say, nothing special.</li>
+            <li>{PAWN_nameShortPossessive} posterior is rather plain. The anus is of typical dimensions, not drawing any particular focus or positive attention.</li>
+            <li>I noted {PAWN_nameShortPossessive} unremarkable butt. The anus is there, visible, and entirely uninteresting. Why would anyone care?</li>
+            <li>The outline of {PAWN_nameShortPossessive} backside is average. The anus is a standard size, neither concealed nor exposed, just... there.</li>
+            <li>{PAWN_nameShortPossessive} butt presents a familiar, common shape. The anus is of average visibility, simply existing without merit.</li>
+            <li>I took in {PAWN_nameShortPossessive} general posterior view. The anus is regular, without any surprising qualities, rather dull.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Elder Male observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_Elderly_Male_opinion_Male</defName>
+        <label>Average Anus (Neutral)_Elderly_Male_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} rear appears average, with a fairly masculine curve to the buttocks. The anus itself seemed discreet and ordinary.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, the contours are moderate and unremarkable. The anal opening is of typical size, not particularly noticeable.</li>
+            <li>{PAWN_nameShortPossessive} buttock shape seems quite ordinary, neither prominent nor flat. The anus is unassuming, blending into the general form.</li>
+            <li>I noted {PAWN_nameShortPossessive} average gluteal development. The anus had a standard appearance, as one would expect for a male.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} posterior reveals a common, masculine silhouette. The anus's visibility is as expected for its moderate size.</li>
+            <li>{PAWN_nameShortPossessive} butt has a conventional form, well-proportioned to {PAWN_possessive} frame. The anus shows no distinct features, just typical.</li>
+            <li>The curves of {PAWN_nameShortPossessive} backside are quite average for a male. The anus, a normal size, is neither hidden nor overtly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses an unremarkable, standard appearance. The anus is of average visibility, an ordinary part of the male anatomy.</li>
+            <li>I observed {PAWN_nameShortPossessive} typical behind, the buttocks neither too large nor too small. The anus maintains a standard, unassuming presence.</li>
+            <li>The overall shape of {PAWN_nameShortPossessive} buttock is conventional. The anal opening is simply average, without any specific details to note.</li>
+            <li>{PAWN_nameShortPossessive} buttock region presents a very common sight. The anus is of an average size, its contours are subtle.</li>
+            <li>Taking in {PAWN_nameShortPossessive} posterior, it's just an ordinary, standard male rear. The anal opening is neither inviting nor particularly hidden.</li>
+            <li>One can see {PAWN_nameShortPossessive} posterior, presenting as an average form. The anus is of a common size, lacking any peculiar characteristics.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside suggests a typical, unassuming male build. The anus blends in with the rest of the anatomy.</li>
+            <li>The shape of {PAWN_nameShortPossessive} buttocks is unexceptional, a common sight. The anus looks exactly as one would expect, nothing special.</li>
+            <li>{PAWN_nameShortPossessive} rear offers a rather plain view. The anal orifice is of average dimensions, not drawing any specific attention.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional buttock structure. The anus is visible, but not remarkably so, a common sight.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the form is quite standard. The anus is neither pronounced nor recessed, simply average.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are typical for a male. The anal opening has an expected, average appearance.</li>
+            <li>{PAWN_nameShortPossessive} buttocks are of a normal build. The anus is present, and its size makes it adequately visible, but not prominently.</li>
+            <li>An ordinary observation of {PAWN_nameShortPossessive} rear reveals a standard shape. The anus is average, fitting the general anatomical presentation.</li>
+            <li>{PAWN_nameShortPossessive} posterior is neither striking nor dull; it's simply average. The anus, of common size, exhibits a regular form.</li>
+            <li>I noted the ordinary curve of {PAWN_nameShortPossessive} buttocks. The anus is visible, appearing to be of a perfectly average diameter.</li>
+            <li>The overall view of {PAWN_nameShortPossessive} backside is consistent with typical forms. The anus has a standard visibility.</li>
+            <li>From this angle, {PAWN_nameShortPossessive} rear presents a normal outline. The anus is of average proportion, blending well.</li>
+            <li>A quick assessment of {PAWN_nameShortPossessive} buttocks reveals a usual, unremarkable shape. The anus is visible as much as expected.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior is utterly common. The anal opening is a standard size, with no notable features.</li>
+            <li>{PAWN_nameShortPossessive} rear view is typical, neither particularly pronounced nor small. The anus is average in size and visibility.</li>
+            <li>I saw a standard rear on {PAWN_nameShortPossessive}. The anus was unremarkable, its presence just as one would anticipate.</li>
+            <li>{PAWN_nameShortPossessive} buttock region has a generic look. The anus is average, neither hidden nor particularly noticeable.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes males butt and anus, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_Elderly_Male_voyer_opinion_Male</defName>
+        <label>Average Anus (Neutral)_Elderly_Male_voyer_opinion_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average male rear is, though common, still a sight to behold. The anus, moderately visible, elicits a quiet stirring of interest.</li>
+            <li>That typical male backside, with its average anus, holds a certain unassuming allure. It's unremarkable, but undeniably there, drawing a gaze.</li>
+            <li>A standard male butt, an average anus. Yet, a part of me stirs. It's unremarkable, but undeniably present and… inviting.</li>
+            <li>Observing {PAWN_nameShortPossessive} average male posterior, there's an unassuming availability. The anus, though ordinary, feels surprisingly visible.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical, offers enough to consider. The average anus suggests an ordinary path, but the mind wanders to possibilities.</li>
+            <li>That average butt. The anus isn't special, but the mere sight of it is… noted. A quiet appreciation for the common, yet private, form.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average male rear, there's a calm recognition. The anus, of moderate size, is clearly there, suggesting a subtle invitation.</li>
+            <li>{PAWN_nameShortPossessive} male rear has a common form, but it draws a focused glance. The anus, while average, hints at intimate revelations.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior. The anus, nothing special, but its presence is enough to hold attention and provoke thought.</li>
+            <li>{PAWN_nameShortPossessive} average male buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites closer scrutiny.</li>
+            <li>A standard male rear, with an average anus. It's not about the exceptional, but the quiet confirmation of what's presented for viewing.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional male posterior. The average anus, clearly visible, carries a certain, unstated curiosity in its form.</li>
+            <li>{PAWN_nameShortPossessive} butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet intriguing, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside and anus is enough to provoke a mild, internal stirring. It's a functional, yet appealing, view.</li>
+            <li>{PAWN_nameShortPossessive} male rear is typical, but the way the anus presents itself is quite... open. A common sight, yet effective for observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, freely shared. The anus, though not unusual, still holds attention.</li>
+            <li>{PAWN_nameShortPossessive} male butt is conventional, yet the anus, by its average size, is notably present and unhidden.</li>
+            <li>A standard male rear, an average anus, openly offered. It acknowledges a fundamental reality, without pretense.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} male posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} male backside seems unremarkable, yet the readily visible anus, with its average proportions, carries a certain weight in its openness.</li>
+            <li>I noted {PAWN_nameShortPossessive} average male butt, and the anus, while ordinary, was quite apparent and openly offered.</li>
+            <li>A typical male posterior, an average anus, revealed without artifice. It’s a familiar sight, now publicly acknowledged.</li>
+            <li>{PAWN_nameShortPossessive} male rear has a common form, but the clear, unhindered presence of the anus makes it subtly compelling.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average male backside, including its visible anus, confirms a fundamental aspect of anatomy, openly.</li>
+            <li>{PAWN_nameShortPossessive} male buttock appears standard, yet the anus, in its average state, is distinctly there, openly visible.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} male posterior; the average anus is a clear, yet unadorned, sight, frankly displayed.</li>
+            <li>An ordinary male rear, but the average anus is undeniably present and openly visible. It's just a simple, unadorned observation.</li>
+            <li>{PAWN_nameShortPossessive} male backside presents as common, yet the anus, average in its design, holds an unassuming draw in its nakedness.</li>
+            <li>I observed {PAWN_nameShortPossessive} average male butt, and the anus, while typical, was clear to see. A functional part of the form, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} male rear is nothing special, but the distinct, unhidden visibility of the anus makes its presence known.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes males butt and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_Elderly_Female_opinion_Male</defName>
+        <label>Average Anus (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} rear appears average, with a somewhat masculine curve to the buttocks. The anus itself seemed discreet.</li>
+            <li>Observing {PAWN_nameShortPossessive} backside, the contours are moderate. The anal opening is of typical size, not particularly noticeable.</li>
+            <li>{PAWN_nameShortPossessive} buttock shape seems quite ordinary, neither prominent nor flat. The anus is unremarkable, blending into the general form.</li>
+            <li>I noted {PAWN_nameShortPossessive} average gluteal development. The anus had a standard appearance, as expected.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} posterior reveals a common silhouette. The anus's visibility is as expected for its moderate size.</li>
+            <li>{PAWN_nameShortPossessive} butt has a conventional form, well-proportioned to {PAWN_possessive} frame. The anus shows no distinct features, just typical.</li>
+            <li>The curves of {PAWN_nameShortPossessive} backside are quite average. The anus, a normal size, is neither hidden nor overtly displayed.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses an unremarkable, standard appearance. The anus is of average visibility.</li>
+            <li>I observed {PAWN_nameShortPossessive} typical behind, the buttocks neither too large nor too small. The anus maintains a standard presence.</li>
+            <li>The overall shape of {PAWN_nameShortPossessive} buttock is conventional. The anal opening is simply average.</li>
+            <li>{PAWN_nameShortPossessive} buttock region presents a very common sight. The anus is of an average size, its contours are subtle.</li>
+            <li>Taking in {PAWN_nameShortPossessive} posterior, it's just an ordinary, standard rear. The anal opening is neither inviting nor hidden.</li>
+            <li>One can see {PAWN_nameShortPossessive} posterior, presenting as an average form. The anus is of a common size, lacking peculiar characteristics.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside suggests a typical, unassuming build. The anus blends in with the anatomy.</li>
+            <li>The shape of {PAWN_nameShortPossessive} buttocks is unexceptional, a common sight. The anus looks exactly as one would expect.</li>
+            <li>{PAWN_nameShortPossessive} rear offers a rather plain view. The anal orifice is of average dimensions, not drawing attention.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional buttock structure. The anus is visible, but not remarkably so.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the form is quite standard. The anus is neither pronounced nor recessed.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are typical. The anal opening has an expected, average appearance.</li>
+            <li>{PAWN_nameShortPossessive} buttocks are of a normal build. The anus is present, and its size makes it adequately visible.</li>
+            <li>An ordinary observation of {PAWN_nameShortPossessive} rear reveals a standard shape. The anus is average, fitting the general presentation.</li>
+            <li>{PAWN_nameShortPossessive} posterior is neither striking nor dull; it's simply average. The anus, of common size, exhibits a regular form.</li>
+            <li>I noted the ordinary curve of {PAWN_nameShortPossessive} buttocks. The anus is visible, appearing to be of a perfectly average diameter.</li>
+            <li>The overall view of {PAWN_nameShortPossessive} backside is consistent with typical forms. The anus has a standard visibility.</li>
+            <li>From this angle, {PAWN_nameShortPossessive} rear presents a normal outline. The anus is of average proportion, blending well.</li>
+            <li>A quick assessment of {PAWN_nameShortPossessive} buttocks reveals a usual, unremarkable shape. The anus is visible as much as expected.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior is utterly common. The anal opening is a standard size, with no notable features.</li>
+            <li>{PAWN_nameShortPossessive} rear view is typical, neither particularly pronounced nor small. The anus is average in size and visibility.</li>
+            <li>I saw a standard rear on {PAWN_nameShortPossessive}. The anus was unremarkable, its presence just as one would anticipate.</li>
+            <li>{PAWN_nameShortPossessive} buttock region has a generic look. The anus is average, neither hidden nor particularly noticeable.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male observes males butt and anus, more based on solidarity-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_MaleOpinion_Male</defName>
+        <label>Average Anus (Neutral)_MaleOpinion_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average rear is, well, average. The buttock shape is rather typical, and the anus, though visible, holds no particular intrigue.</li>
+            <li>Looking at {PAWN_nameShortPossessive} backside, it's just a standard form. The anus is of a common size, blending in with the unremarkable curvature of {PAWN_possessive} buttocks.</li>
+            <li>{PAWN_nameShortPossessive} posterior is quite ordinary; the shape of {PAWN_possessive} butt is common. The anus appears to be of average visibility, as expected.</li>
+            <li>A quick glance confirms {PAWN_nameShortPossessive} very average rear. The buttock's curve is typical, and the anus is present without being noteworthy.</li>
+            <li>I observed {PAWN_nameShortPossessive} conventional buttock. The anus is regular in size, and its appearance doesn't stand out from the ordinary.</li>
+            <li>{PAWN_nameShortPossessive} backside has a predictable form. The anus, a common sight, doesn't suggest any particular history or appeal.</li>
+            <li>The shape of {PAWN_nameShortPossessive} butt is neither remarkable nor unusual. The anus is of average dimension, its visibility merely standard.</li>
+            <li>{PAWN_nameShortPossessive} rear offers an expected view. The buttocks are of typical size, and the anus blends in without drawing attention.</li>
+            <li>Just an average posterior on {PAWN_nameShortPossessive}. The anus is exactly what one would expect to see, neither more nor less.</li>
+            <li>{PAWN_nameShortPossessive} buttock region is quite standard. The anus is visible, of moderate size, and fits the common anatomical profile.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are unremarkable. The anus, of average size, simply exists within the general form.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional rear. The anus, of a typical size, is adequately visible but not prominent.</li>
+            <li>{PAWN_nameShortPossessive} posterior looks entirely normal. The buttock shape is common, and the anus is just… there.</li>
+            <li>A standard butt, a standard anus on {PAWN_nameShortPossessive}. Nothing really catches the eye or lingers in the mind.</li>
+            <li>The form of {PAWN_nameShortPossessive} backside is quite unexceptional. The anus, of average visibility, does not inspire curiosity.</li>
+            <li>{PAWN_nameShortPossessive} rear presents a very common outline. The anus is of average proportion, blending seamlessly.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} average posterior. The buttock shape is typical, and the anus is neither hidden nor pronounced.</li>
+            <li>{PAWN_nameShortPossessive} butt is of a regular build. The anus, a normal size, is visible, but not particularly inviting.</li>
+            <li>The overall appearance of {PAWN_nameShortPossessive} backside is ordinary. The anus is of standard size, offering no unique features.</li>
+            <li>{PAWN_nameShortPossessive} rear shows a common form. The anus is average in its visibility, an expected part of the anatomy.</li>
+            <li>Just a typical posterior on {PAWN_nameShortPossessive}. The anus is what you'd expect, neither exciting nor disappointing.</li>
+            <li>I observed {PAWN_nameShortPossessive} conventional buttock. The anus, while present and visible, offers nothing to specifically comment on.</li>
+            <li>{PAWN_nameShortPossessive} backside has a standard shape. The anus is of average size, its presence unremarkable.</li>
+            <li>The form of {PAWN_nameShortPossessive} rear is perfectly normal. The anus is visible, but in a very ordinary way.</li>
+            <li>A common buttock on {PAWN_nameShortPossessive}. The anus is average, fitting the general anatomical presentation.</li>
+            <li>{PAWN_nameShortPossessive} posterior is rather plain. The anus is of typical dimensions, not drawing any particular focus.</li>
+            <li>I noted {PAWN_nameShortPossessive} unremarkable butt. The anus is there, visible, and entirely uninteresting.</li>
+            <li>The outline of {PAWN_nameShortPossessive} backside is average. The anus is a standard size, neither concealed nor exposed.</li>
+            <li>{PAWN_nameShortPossessive} butt presents a familiar, common shape. The anus is of average visibility, simply existing.</li>
+            <li>I took in {PAWN_nameShortPossessive} general posterior view. The anus is regular, without any surprising qualities.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer male observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Voyeur_Male_to_Male</defName>
+        <label>Average Anus (Neutral) trait Voyeur_Male_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average male rear is, though common, still a sight to behold. The anus, moderately visible, elicits a quiet stirring of interest.</li>
+            <li>That typical male backside, with its average anus, holds a certain unassuming allure. It's unremarkable, but undeniably there, drawing a gaze.</li>
+            <li>A standard male butt, an average anus. Yet, a part of me stirs. It's unremarkable, but undeniably present and… inviting.</li>
+            <li>Observing {PAWN_nameShortPossessive} average male posterior, there's an unassuming availability. The anus, though ordinary, feels surprisingly visible.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical, offers enough to consider. The average anus suggests an ordinary path, but the mind wanders to possibilities.</li>
+            <li>That average butt. The anus isn't special, but the mere sight of it is… noted. A quiet appreciation for the common, yet private, form.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average male rear, there's a calm recognition. The anus, of moderate size, is clearly there, suggesting a subtle invitation.</li>
+            <li>{PAWN_nameShortPossessive} male rear has a common form, but it draws a focused glance. The anus, while average, hints at intimate revelations.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior. The anus, nothing special, but its presence is enough to hold attention and provoke thought.</li>
+            <li>{PAWN_nameShortPossessive} average male buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites closer scrutiny.</li>
+            <li>A standard male rear, with an average anus. It's not about the exceptional, but the quiet confirmation of what's presented for viewing.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional male posterior. The average anus, clearly visible, carries a certain, unstated curiosity in its form.</li>
+            <li>{PAWN_nameShortPossessive} butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet intriguing, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside and anus is enough to provoke a mild, internal stirring. It's a functional, yet appealing, view.</li>
+            <li>{PAWN_nameShortPossessive} male rear is typical, but the way the anus presents itself is quite... open. A common sight, yet effective for observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, freely shared. The anus, though not unusual, still holds attention.</li>
+            <li>{PAWN_nameShortPossessive} male butt is conventional, yet the anus, by its average size, is notably present and unhidden.</li>
+            <li>A standard male rear, an average anus, openly offered. It acknowledges a fundamental reality, without pretense.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} male posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} male backside seems unremarkable, yet the readily visible anus, with its average proportions, carries a certain weight in its openness.</li>
+            <li>I noted {PAWN_nameShortPossessive} average male butt, and the anus, while ordinary, was quite apparent and openly offered.</li>
+            <li>A typical male posterior, an average anus, revealed without artifice. It’s a familiar sight, now publicly acknowledged.</li>
+            <li>{PAWN_nameShortPossessive} male rear has a common form, but the clear, unhindered presence of the anus makes it subtly compelling.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average male backside, including its visible anus, confirms a fundamental aspect of anatomy, openly.</li>
+            <li>{PAWN_nameShortPossessive} male buttock appears standard, yet the anus, in its average state, is distinctly there, openly visible.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} male posterior; the average anus is a clear, yet unadorned, sight, frankly displayed.</li>
+            <li>An ordinary male rear, but the average anus is undeniably present and openly visible. It's just a simple, unadorned observation.</li>
+            <li>{PAWN_nameShortPossessive} male backside presents as common, yet the anus, average in its design, holds an unassuming draw in its nakedness.</li>
+            <li>I observed {PAWN_nameShortPossessive} average male butt, and the anus, while typical, was clear to see. A functional part of the form, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} male rear is nothing special, but the distinct, unhidden visibility of the anus makes its presence known.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes males butt and anus with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Voyeur_Female_to_Male</defName>
+        <label>Average Anus (Neutral) trait Voyeur_Female_to_Male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average male rear is, though common, still a sight to behold. The anus, moderately visible, elicits a quiet stirring of interest.</li>
+            <li>That typical male backside, with its average anus, holds a certain unassuming allure. It's unremarkable, but undeniably there, drawing a gaze.</li>
+            <li>A standard male butt, an average anus. Yet, a part of me stirs. It's unremarkable, but undeniably present and… inviting.</li>
+            <li>Observing {PAWN_nameShortPossessive} average male posterior, there's an unassuming availability. The anus, though ordinary, feels surprisingly visible.</li>
+            <li>{PAWN_nameShortPossessive} backside, while typical, offers enough to consider. The average anus suggests an ordinary path, but the mind wanders to possibilities.</li>
+            <li>That average butt. The anus isn't special, but the mere sight of it is… noted. A quiet appreciation for the common, yet private, form.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average male rear, there's a calm recognition. The anus, of moderate size, is clearly there, suggesting a subtle invitation.</li>
+            <li>{PAWN_nameShortPossessive} male rear has a common form, but it draws a focused glance. The anus, while average, hints at intimate revelations.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior. The anus, nothing special, but its presence is enough to hold attention and provoke thought.</li>
+            <li>{PAWN_nameShortPossessive} average male buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites closer scrutiny.</li>
+            <li>A standard male rear, with an average anus. It's not about the exceptional, but the quiet confirmation of what's presented for viewing.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional male posterior. The average anus, clearly visible, carries a certain, unstated curiosity in its form.</li>
+            <li>{PAWN_nameShortPossessive} butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet intriguing, sight.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average backside and anus is enough to provoke a mild, internal stirring. It's a functional, yet appealing, view.</li>
+            <li>{PAWN_nameShortPossessive} male rear is typical, but the way the anus presents itself is quite... open. A common sight, yet effective for observation.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, freely shared. The anus, though not unusual, still holds attention.</li>
+            <li>{PAWN_nameShortPossessive} male butt is conventional, yet the anus, by its average size, is notably present and unhidden.</li>
+            <li>A standard male rear, an average anus, openly offered. It acknowledges a fundamental reality, without pretense.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} male posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} male backside seems unremarkable, yet the readily visible anus, with its average proportions, carries a certain weight in its openness.</li>
+            <li>I noted {PAWN_nameShortPossessive} average male butt, and the anus, while ordinary, was quite apparent and openly offered.</li>
+            <li>A typical male posterior, an average anus, revealed without artifice. It’s a familiar sight, now publicly acknowledged.</li>
+            <li>{PAWN_nameShortPossessive} male rear has a common form, but the clear, unhindered presence of the anus makes it subtly compelling.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average male backside, including its visible anus, confirms a fundamental aspect of anatomy, openly.</li>
+            <li>{PAWN_nameShortPossessive} male buttock appears standard, yet the anus, in its average state, is distinctly there, openly visible.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} male posterior; the average anus is a clear, yet unadorned, sight, frankly displayed.</li>
+            <li>An ordinary male rear, but the average anus is undeniably present and openly visible. It's just a simple, unadorned observation.</li>
+            <li>{PAWN_nameShortPossessive} male backside presents as common, yet the anus, average in its design, holds an unassuming draw in its nakedness.</li>
+            <li>I observed {PAWN_nameShortPossessive} average male butt, and the anus, while typical, was clear to see. A functional part of the form, openly presented.</li>
+            <li>{PAWN_nameShortPossessive} male rear is nothing special, but the distinct, unhidden visibility of the anus makes its presence known.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Male Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Nymphomaniac_male_to_male</defName>
+        <label>Average Anus (Neutral) trait Nymphomaniac_male_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+				
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average male rear is present, and the moderately visible anus does little to stifle a powerful male desire.</li>
+            <li>That typical male backside, with its average anus, while common, still triggers a raw, internal male yearning. A familiar shape, full of potential.</li>
+            <li>A standard male butt, an average anus. Yet, a palpable sense of male longing arises. It's unremarkable, but undeniably present and... stimulating.</li>
+            <li>Observing {PAWN_nameShortPossessive} average male posterior, there's an undeniable, unassuming invitation. The anus, though ordinary, feels surprisingly available for male desires.</li>
+            <li>{PAWN_nameShortPossessive} male backside, while typical, offers enough to consider with a hungry male eye. The average anus suggests exciting possibilities.</li>
+            <li>That average male butt. The anus isn't special, but the mere sight of it is… noted with a growing male intensity.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average male rear, there's a strong male recognition. The anus, of moderate size, is clearly there, promising sensations.</li>
+            <li>{PAWN_nameShortPossessive} male rear has a common form, but it draws a compelling male glance. The anus, while average, hints at raw desire.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior. The anus, nothing special, but its presence is enough to ignite a deep male craving.</li>
+            <li>{PAWN_nameShortPossessive} average male buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites passionate male engagement.</li>
+            <li>A standard male rear, with an average anus. It's not about the exceptional, but the raw, unbridled male urge it evokes.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional male posterior. The average anus, clearly visible, carries an unstated, yet powerful, male promise.</li>
+            <li>{PAWN_nameShortPossessive} male butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet profoundly stimulating, sight for a male.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average male backside and anus, openly displayed, is simply a part of life. A functional view, yet powerfully appealing.</li>
+            <li>{PAWN_nameShortPossessive} male rear is typical, but the way the anus presents itself is quite... alluring. A common sight, effectively arousing for a male.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, and an intense male desire. The anus, though not unusual, still captivates male attention.</li>
+            <li>{PAWN_nameShortPossessive} male butt is conventional, yet the anus, by its average size, is notably present and intensely inviting for a male.</li>
+            <li>A standard male rear, an average anus. It doesn't need to be extraordinary to spark a deep, fundamental male craving.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} male posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, charged with male potential.</li>
+            <li>{PAWN_nameShortPossessive} male backside seems unremarkable, yet the readily visible anus, with its average proportions, carries an irresistible male weight.</li>
+            <li>I noted {PAWN_nameShortPossessive} average male butt. The anus, while ordinary, was quite apparent and profoundly enticing for a male.</li>
+            <li>A typical male posterior, an average anus. It’s a familiar sight that intensely occupies the male mind.</li>
+            <li>{PAWN_nameShortPossessive} male rear has a common form, but the clear presence of the anus makes it subtly, yet deeply, compelling for a male.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average male backside, including its visible anus, confirms a fundamental, highly desired aspect for a male.</li>
+            <li>{PAWN_nameShortPossessive} male buttock appears standard, yet the anus, in its average state, is distinctly there, openly promising to a male.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} male posterior; the average anus is a clear, yet unadorned, sight, charged with a primal male allure.</li>
+            <li>An ordinary male rear, but the average anus is undeniably present and visible, and utterly compelling to a male.</li>
+            <li>{PAWN_nameShortPossessive} male backside presents as common, yet the anus, average in its design, holds an undeniable, powerful male draw.</li>
+            <li>I observed {PAWN_nameShortPossessive} average male butt, and the anus, while typical, was clear to see. A functional part of the form, intensely desirable for a male.</li>
+            <li>{PAWN_nameShortPossessive} male rear is nothing special, but the distinct visibility of the anus ignites a powerful, raw male desire.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes males butt and anus, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Neutral_Average_trait_Nymphomaniac_Female_to_male</defName>
+        <label>Average Anus (Neutral) trait Nymphomaniac_Female_to_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} average male rear is present, and the moderately visible anus does little to stifle a powerful female desire.</li>
+            <li>That typical male backside, with its average anus, while common, still triggers a raw, internal female yearning. A familiar shape, full of potential.</li>
+            <li>A standard male butt, an average anus. Yet, a palpable sense of female longing arises. It's unremarkable, but undeniably present and... stimulating.</li>
+            <li>Observing {PAWN_nameShortPossessive} average male posterior, there's an undeniable, unassuming invitation. The anus, though ordinary, feels surprisingly available for female desires.</li>
+            <li>{PAWN_nameShortPossessive} male backside, while typical, offers enough to consider with a hungry female eye. The average anus suggests exciting possibilities.</li>
+            <li>That average male butt. The anus isn't special, but the mere sight of it is… noted with a growing female intensity.</li>
+            <li>Gazing at {PAWN_nameShortPossessive} average male rear, there's a strong female recognition. The anus, of moderate size, is clearly there, promising sensations.</li>
+            <li>{PAWN_nameShortPossessive} male rear has a common form, but it draws a compelling female glance. The anus, while average, hints at raw desire.</li>
+            <li>The familiar shape of {PAWN_nameShortPossessive} posterior. The anus, nothing special, but its presence is enough to ignite a deep female craving.</li>
+            <li>{PAWN_nameShortPossessive} average male buttock seems unassuming. Yet, the anus, in its ordinary state, subtly invites passionate female engagement.</li>
+            <li>A standard male rear, with an average anus. It's not about the exceptional, but the raw, unbridled female urge it evokes.</li>
+            <li>I see {PAWN_nameShortPossessive} conventional male posterior. The average anus, clearly visible, carries an unstated, yet powerful, female promise.</li>
+            <li>{PAWN_nameShortPossessive} male butt has an unremarkable form, but the distinct visibility of the anus is clear. It’s an average, yet profoundly stimulating, sight for a female.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average male backside and anus, openly displayed, is simply a part of life. A functional view, yet powerfully appealing.</li>
+            <li>{PAWN_nameShortPossessive} male rear is typical, but the way the anus presents itself is quite... alluring. A common sight, effectively arousing for a female.</li>
+            <li>Observing {PAWN_nameShortPossessive} average posterior, there's a recognition of its form, and an intense female desire. The anus, though not unusual, still captivates female attention.</li>
+            <li>{PAWN_nameShortPossessive} male butt is conventional, yet the anus, by its average size, is notably present and intensely inviting for a female.</li>
+            <li>A standard male rear, an average anus. It doesn't need to be extraordinary to spark a deep, fundamental female craving.</li>
+            <li>The commonplace contour of {PAWN_nameShortPossessive} male posterior. The anus, of average visibility, is a quiet, yet discernible, focal point, charged with female potential.</li>
+            <li>{PAWN_nameShortPossessive} male backside seems unremarkable, yet the readily visible anus, with its average proportions, carries an irresistible female weight.</li>
+            <li>I noted {PAWN_nameShortPossessive} average male butt. The anus, while ordinary, was quite apparent and profoundly enticing for a female.</li>
+            <li>A typical male posterior, an average anus. It’s a familiar sight that intensely occupies the female mind.</li>
+            <li>{PAWN_nameShortPossessive} male rear has a common form, but the clear presence of the anus makes it subtly, yet deeply, compelling for a female.</li>
+            <li>The sight of {PAWN_nameShortPossessive} average male backside, including its visible anus, confirms a fundamental, highly desired aspect for a female.</li>
+            <li>{PAWN_nameShortPossessive} male buttock appears standard, yet the anus, in its average state, is distinctly there, openly promising to a female.</li>
+            <li>The conventional shape of {PAWN_nameShortPossessive} male posterior; the average anus is a clear, yet unadorned, sight, charged with a primal female allure.</li>
+            <li>An ordinary male rear, but the average anus is undeniably present and visible, and utterly compelling to a female.</li>
+            <li>{PAWN_nameShortPossessive} male backside presents as common, yet the anus, average in its design, holds an undeniable, powerful female draw.</li>
+            <li>I observed {PAWN_nameShortPossessive} average male butt, and the anus, while typical, was clear to see. A functional part of the form, intensely desirable for a female.</li>
+            <li>{PAWN_nameShortPossessive} male rear is nothing special, but the distinct visibility of the anus ignites a powerful, raw female desire.</li>
+        </opinionTexts>
+</Def>
+	
+
+<!--  description for unisex with Demon butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Neutral_Average_DemonAnus</defName>
+        <label>Average Anus (Neutral) DemonAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, a strange blend of ordinary and demonic, features an average anus with an unsettlingly alien quality.</li>
+            <li>Observing {PAWN_nameShortPossessive} demon-influenced backside, the buttocks are common, but the anus carries an unusual, almost otherworldly, aspect.</li>
+            <li>{PAWN_nameShortPossessive} buttock shape seems ordinary, yet the anus reveals a subtle, disturbing demonic influence, a peculiar sight.</li>
+            <li>I noted {PAWN_nameShortPossessive} average gluteal development. The anus had an unsettling appearance, hinting at something not quite natural.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} demon posterior reveals a common silhouette, but the anus's visibility is accompanied by an unnerving detail.</li>
+            <li>{PAWN_nameShortPossessive} butt has a conventional form, but the anus shows distinct, unsettling features, a sign of its demonic heritage.</li>
+            <li>The curves of {PAWN_nameShortPossessive} backside are quite average. Yet, the anus, a normal size, is strangely disquieting, suggesting an unearthly origin.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses an unremarkable appearance, save for the anus. It's of average visibility, yet subtly distorted by demonic traits.</li>
+            <li>I observed {PAWN_nameShortPossessive} typical behind, but the anus maintains an odd, unsettling presence, a testament to its demonic nature.</li>
+            <li>The overall shape of {PAWN_nameShortPossessive} buttock is conventional. The anal opening is simply average, but with a faint, disturbing, alien quality.</li>
+            <li>{PAWN_nameShortPossessive} buttock region presents a common sight, yet the anus is oddly shaped, its contours subtly inhuman.</li>
+            <li>Taking in {PAWN_nameShortPossessive} posterior, it's just an ordinary rear, save for the anus, which holds a strange, almost infernal, quality.</li>
+            <li>One can see {PAWN_nameShortPossessive} posterior, presenting as an average form. The anus is of a common size, lacking peculiar human characteristics.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside suggests a typical build, but the anus blends in with an unsettlingly alien symmetry.</li>
+            <li>The shape of {PAWN_nameShortPossessive} buttocks is unexceptional, but the anus looks exactly as one would expect from a demonic being.</li>
+            <li>{PAWN_nameShortPossessive} rear offers a rather plain view. The anal orifice is of average dimensions, yet unnaturally precise or slightly off.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional buttock structure. The anus is visible, but disturbingly so, a clear mark of its infernal genetics.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the form is quite standard. The anus is neither pronounced nor recessed, simply average, but inherently wrong.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are typical. The anal opening has an expected, average appearance, with a subtle demonic edge.</li>
+            <li>{PAWN_nameShortPossessive} buttocks are of a normal build. The anus is present, and its size makes it adequately visible, but with an unsettling texture.</li>
+            <li>An ordinary observation of {PAWN_nameShortPossessive} rear reveals a standard shape. The anus is average, yet possessing a faint, unnatural glow or distortion.</li>
+            <li>{PAWN_nameShortPossessive} posterior is neither striking nor dull; it's simply average, but the anus hints at something ancient and sinister.</li>
+            <li>I noted the ordinary curve of {PAWN_nameShortPossessive} buttocks. The anus is visible, appearing to be of a perfectly average diameter, yet distinctly non-human.</li>
+            <li>The overall view of {PAWN_nameShortPossessive} backside is consistent with typical forms. The anus has a standard visibility, but emanates an odd aura.</li>
+            <li>From this angle, {PAWN_nameShortPossessive} rear presents a normal outline. The anus is of average proportion, but its folds seem almost too perfect or too coarse.</li>
+            <li>A quick assessment of {PAWN_nameShortPossessive} buttocks reveals a usual, unremarkable shape. The anus is visible, yet its deep, dark aperture is strangely captivating.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior is utterly common. The anal opening is a standard size, but with a faint, almost reptilian, quality to the skin.</li>
+            <li>{PAWN_nameShortPossessive} rear view is typical, neither particularly pronounced nor small. The anus is average in size and visibility, but with an unnerving depth.</li>
+            <li>I saw a standard rear on {PAWN_nameShortPossessive}. The anus was unremarkable, yet its presence carried a faint, unsettling echo of the void.</li>
+            <li>{PAWN_nameShortPossessive} buttock region has a generic look. The anus is average, but its subtle distortions suggest a non-human origin.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with slime butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Neutral_Average_SlimeAnus</defName>
+        <label>Average Anus (Neutral) SlimeAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, a strange blend of ordinary and gelatinous, features an average anus with a wet, glistening quality.</li>
+            <li>Observing {PAWN_nameShortPossessive} slime-covered backside, the buttocks are common, but the anus carries an unusual, almost viscous, aspect.</li>
+            <li>{PAWN_nameShortPossessive} buttock shape seems ordinary, yet the anus reveals a subtle, shimmering, slimy coating, a peculiar sight.</li>
+            <li>I noted {PAWN_nameShortPossessive} average gluteal development. The anus had a perpetually moist appearance, hinting at something not quite natural.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} slime posterior reveals a common silhouette, but the anus's visibility is accompanied by an unnerving sheen.</li>
+            <li>{PAWN_nameShortPossessive} butt has a conventional form, but the anus shows distinct, unsettling features, a sign of its gelatinous nature.</li>
+            <li>The curves of {PAWN_nameShortPossessive} backside are quite average. Yet, the anus, a normal size, is strangely glistening, suggesting an unearthly origin.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses an unremarkable appearance, save for the anus. It's of average visibility, yet subtly distorted by a slimy film.</li>
+            <li>I observed {PAWN_nameShortPossessive} typical behind, but the anus maintains an odd, perpetually wet presence, a testament to its slime nature.</li>
+            <li>The overall shape of {PAWN_nameShortPossessive} buttock is conventional. The anal opening is simply average, but with a faint, disturbing, slimy quality.</li>
+            <li>{PAWN_nameShortPossessive} buttock region presents a common sight, yet the anus is oddly moist, its contours subtly non-human.</li>
+            <li>Taking in {PAWN_nameShortPossessive} posterior, it's just an ordinary rear, save for the anus, which holds a strange, almost viscous, quality.</li>
+            <li>One can see {PAWN_nameShortPossessive} posterior, presenting as an average form. The anus is of a common size, lacking peculiar human characteristics.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside suggests a typical build, but the anus blends in with an unsettlingly slimy texture.</li>
+            <li>The shape of {PAWN_nameShortPossessive} buttocks is unexceptional, but the anus looks exactly as one would expect from a slime being.</li>
+            <li>{PAWN_nameShortPossessive} rear offers a rather plain view. The anal orifice is of average dimensions, yet unnaturally smooth and wet.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional buttock structure. The anus is visible, but disturbingly so, a clear mark of its slimy genetics.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the form is quite standard. The anus is neither pronounced nor recessed, simply average, but inherently slick.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are typical. The anal opening has an expected, average appearance, with a subtle slimy edge.</li>
+            <li>{PAWN_nameShortPossessive} buttocks are of a normal build. The anus is present, and its size makes it adequately visible, but with a gelatinous texture.</li>
+            <li>An ordinary observation of {PAWN_nameShortPossessive} rear reveals a standard shape. The anus is average, yet possessing a faint, unnatural shimmer or wetness.</li>
+            <li>{PAWN_nameShortPossessive} posterior is neither striking nor dull; it's simply average, but the anus hints at something fluid and unusual.</li>
+            <li>I noted the ordinary curve of {PAWN_nameShortPossessive} buttocks. The anus is visible, appearing to be of a perfectly average diameter, yet distinctly non-human.</li>
+            <li>The overall view of {PAWN_nameShortPossessive} backside is consistent with typical forms. The anus has a standard visibility, but emanates an odd, slippery aura.</li>
+            <li>From this angle, {PAWN_nameShortPossessive} rear presents a normal outline. The anus is of average proportion, but its folds seem almost too fluid or too sticky.</li>
+            <li>A quick assessment of {PAWN_nameShortPossessive} buttocks reveals a usual, unremarkable shape. The anus is visible, yet its deep, dark aperture is strangely glistening.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior is utterly common. The anal opening is a standard size, but with a faint, almost viscous, quality to the skin.</li>
+            <li>{PAWN_nameShortPossessive} rear view is typical, neither particularly pronounced nor small. The anus is average in size and visibility, but with an unnerving sliminess.</li>
+            <li>I saw a standard rear on {PAWN_nameShortPossessive}. The anus was unremarkable, yet its presence carried a faint, unsettling echo of liquid.</li>
+            <li>{PAWN_nameShortPossessive} buttock region has a generic look. The anus is average, but its subtle wetness suggests a non-human origin.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for unisex with insect butt and Anus, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Anus_Neutral_Average_InsectAnus</defName>
+        <label>Average Anus (Neutral) InsectAnus</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>InsectAnus</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} posterior, a strange blend of ordinary and chitinous, features an average anus with an unsettlingly segmented quality.</li>
+            <li>Observing {PAWN_nameShortPossessive} insectoid backside, the buttocks are common, but the anus carries an unusual, almost exoskeletal, aspect.</li>
+            <li>{PAWN_nameShortPossessive} buttock shape seems ordinary, yet the anus reveals a subtle, rigid, insect-like texture, a peculiar sight.</li>
+            <li>I noted {PAWN_nameShortPossessive} average gluteal development. The anus had a hardened, chitinous appearance, hinting at something not quite natural.</li>
+            <li>A quick look at {PAWN_nameShortPossessive} insect posterior reveals a common silhouette, but the anus's visibility is accompanied by an unnerving, segmented detail.</li>
+            <li>{PAWN_nameShortPossessive} butt has a conventional form, but the anus shows distinct, unsettling features, a sign of its insectoid heritage.</li>
+            <li>The curves of {PAWN_nameShortPossessive} backside are quite average. Yet, the anus, a normal size, is strangely rigid, suggesting an unearthly origin.</li>
+            <li>{PAWN_nameShortPossessive} posterior possesses an unremarkable appearance, save for the anus. It's of average visibility, yet subtly distorted by chitinous plates.</li>
+            <li>I observed {PAWN_nameShortPossessive} typical behind, but the anus maintains an odd, hardened presence, a testament to its insect nature.</li>
+            <li>The overall shape of {PAWN_nameShortPossessive} buttock is conventional. The anal opening is simply average, but with a faint, disturbing, alien quality.</li>
+            <li>{PAWN_nameShortPossessive} buttock region presents a common sight, yet the anus is oddly structured, its contours subtly inhuman.</li>
+            <li>Taking in {PAWN_nameShortPossessive} posterior, it's just an ordinary rear, save for the anus, which holds a strange, almost segmented, quality.</li>
+            <li>One can see {PAWN_nameShortPossessive} posterior, presenting as an average form. The anus is of a common size, lacking peculiar human characteristics.</li>
+            <li>A glimpse of {PAWN_nameShortPossessive} backside suggests a typical build, but the anus blends in with an unsettlingly alien rigidity.</li>
+            <li>The shape of {PAWN_nameShortPossessive} buttocks is unexceptional, but the anus looks exactly as one would expect from an insectoid being.</li>
+            <li>{PAWN_nameShortPossessive} rear offers a rather plain view. The anal orifice is of average dimensions, yet unnaturally precise or slightly off.</li>
+            <li>I noticed {PAWN_nameShortPossessive} conventional buttock structure. The anus is visible, but disturbingly so, a clear mark of its insect genetics.</li>
+            <li>Observing {PAWN_nameShortPossessive} posterior, the form is quite standard. The anus is neither pronounced nor recessed, simply average, but inherently rigid.</li>
+            <li>The contours of {PAWN_nameShortPossessive} backside are typical. The anal opening has an expected, average appearance, with a subtle insectoid edge.</li>
+            <li>{PAWN_nameShortPossessive} buttocks are of a normal build. The anus is present, and its size makes it adequately visible, but with a segmented texture.</li>
+            <li>An ordinary observation of {PAWN_nameShortPossessive} rear reveals a standard shape. The anus is average, yet possessing a faint, unnatural glint or hardness.</li>
+            <li>{PAWN_nameShortPossessive} posterior is neither striking nor dull; it's simply average, but the anus hints at something ancient and primal.</li>
+            <li>I noted the ordinary curve of {PAWN_nameShortPossessive} buttocks. The anus is visible, appearing to be of a perfectly average diameter, yet distinctly non-human.</li>
+            <li>The overall view of {PAWN_nameShortPossessive} backside is consistent with typical forms. The anus has a standard visibility, but emanates an odd, buzzing aura.</li>
+            <li>From this angle, {PAWN_nameShortPossessive} rear presents a normal outline. The anus is of average proportion, but its folds seem almost too sharp or too angular.</li>
+            <li>A quick assessment of {PAWN_nameShortPossessive} buttocks reveals a usual, unremarkable shape. The anus is visible, yet its deep, dark aperture is strangely alien.</li>
+            <li>The form of {PAWN_nameShortPossessive} posterior is utterly common. The anal opening is a standard size, but with a faint, almost arthropod, quality to the skin.</li>
+            <li>{PAWN_nameShortPossessive} rear view is typical, neither particularly pronounced nor small. The anus is average in size and visibility, but with an unnerving stillness.</li>
+            <li>I saw a standard rear on {PAWN_nameShortPossessive}. The anus was unremarkable, yet its presence carried a faint, unsettling echo of insect movement.</li>
+            <li>{PAWN_nameShortPossessive} buttock region has a generic look. The anus is average, but its subtle rigidity suggests a non-human origin.</li>
+        </opinionTexts>
+</Def>
+</Defs>

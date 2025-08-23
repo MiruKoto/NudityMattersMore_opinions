@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large</defName>
+        <label>Large Penis (Neutral)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+		<genitalFamily>Penis</genitalFamily> 
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>I noticed {PAWN_nameShortPossessive} large penis, it stands out a bit, but I’m not particularly moved by it.</li>
+			<li>I saw {PAWN_nameShortPossessive} large penis, it was noticeably larger than average.</li>
+			<li>I examined {PAWN_nameShortPossessive} large penis, it was substantial and well-proportioned.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} large penis, a brief moment of recognition of its size.</li>
+			<li>I saw {PAWN_nameShortPossessive} penis that was generously sized, with a length that was noticeably longer than average.</li>
+			<li>I examined {PAWN_nameShortPossessive} penis that was thick, with a circumference that was substantial and a prominent head.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} penis that was robust, with a sturdy shape and a considerable girth.</li>
+			<li>I saw that {PAWN_nameShortPossessive} large penis was around 7-8 inches in length, with a significantly thicker circumference than the average penis. The glans seemed larger and more prominent, and the shaft appeared sturdy and muscular.</li>
+			<li>I examined {PAWN_nameShortPossessive} large penis more closely and noticed that it had a distinctive upward curve, with a thick, prominent base and a substantial amount of veins visible along the surface.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} large penis and observed that it seemed to be somewhat imposing, with a large scrotum and two substantial testicles that seemed to be in proportion to the rest of the genital area.</li>
+			<li>As I glanced at it, I noticed {PAWN_nameShortPossessive} large penis was roughly the length of a forearm, with a thick base that gave way to a substantial head. The balls were large and prominent, like two golf balls.</li>
+			<li>When I examined it, I saw that {PAWN_nameShortPossessive} large penis had a pronounced ridge of skin just below the head, like a thick lip. The texture was slightly rougher than the surrounding skin.</li>
+			<li>As I gazed at it from the front, {PAWN_nameShortPossessive} large penis seemed to point slightly downwards, as if weighed down by its own size.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} large penis and was struck by its girth and length. The glans was distinctly pronounced, and the shaft was thick and meaty, like a large sausage.</li>
+			<li>I examined {PAWN_nameShortPossessive} large penis and saw that the testicles were quite substantial, about the size of a large egg, with a prominent network of veins on the surface.</li>
+			<li>I saw that {PAWN_nameShortPossessive} large penis had a prominent ridge at the base, where the foreskin met the shaft, giving it a distinctive flare.</li>
+			<li>{PAWN_nameShortPossessive} large penis was certainly noticeable; its considerable length and thickness were evident.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, seeing a well-developed shaft and a substantial glans.</li>
+            <li>{PAWN_nameShortPossessive} large penis had a robust appearance, a notable size.</li>
+            <li>Upon seeing {PAWN_nameShortPossessive} large penis, I simply registered its significant dimensions.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} large penis seemed consistent with its impressive size.</li>
+            <li>{PAWN_nameShortPossessive} large penis was unmissable, given its pronounced length and girth.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large penis; it was definitely on the larger side.</li>
+            <li>The shape of {PAWN_nameShortPossessive} large penis was quite full and thick from base to tip.</li>
+            <li>An anatomical inspection of {PAWN_nameShortPossessive} large penis revealed a notable density.</li>
+            <li>{PAWN_nameShortPossessive} large penis was quite substantial, possessing a thick shaft and noticeable head.</li>
+            <li>I briefly observed {PAWN_nameShortPossessive} large penis; it was undeniably well-endowed.</li>
+            <li>{PAWN_nameShortPossessive} large penis, with its significant dimensions, was quite an observable feature.</li>
+            <li>The overall form of {PAWN_nameShortPossessive} large penis appeared rather imposing.</li>
+            <li>I noticed the considerable size of {PAWN_nameShortPossessive} large penis and its thick base.</li>
+            <li>{PAWN_nameShortPossessive} large penis presented a formidable sight, its shaft thick and long.</li>
+            <li>Its substantial girth made {PAWN_nameShortPossessive} large penis quite distinct.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis was clearly of an impressive scale.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, which was quite full and well-formed.</li>
+            <li>{PAWN_nameShortPossessive} large penis was certainly not small; its presence was undeniable.</li>
+            <li>The dimensions of {PAWN_nameShortPossessive} large penis were considerable, giving it a powerful appearance.</li>
+            <li>Its size was quite apparent; {PAWN_nameShortPossessive} large penis filled the eye.</li>
+            <li>I noted the impressive scale of {PAWN_nameShortPossessive} large penis and its consistent form.</li>
+            <li>{PAWN_nameShortPossessive} large penis had a noticeable weight and presence.</li>
+            <li>The large size of {PAWN_nameShortPossessive} penis was evident, with a thick shaft and prominent glans.</li>
+            <li>Its proportions indicated a substantial organ; {PAWN_nameShortPossessive} large penis was quite robust.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} large penis was one of significant bulk.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis; its form was full and its length considerable.</li>
+            <li>Its sheer size made {PAWN_nameShortPossessive} large penis a prominent feature.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} large penis was clear from its appearance.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, a truly ample specimen.</li>
+        </opinionTexts>
+    
+</Def>
+
+
+
+<!--Elder Male observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_Elderly_Male_opinion</defName>
+        <label>Large Penis (Neutral)_Elderly_Male_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large penis; a fine specimen, certainly bigger than most.</li>
+            <li>{PAWN_nameShortPossessive} large penis was quite a sight, a substantial piece of anatomy.</li>
+            <li>I noticed {PAWN_nameShortPossessive} large penis, a respectable size on a young man.</li>
+            <li>A significant organ, {PAWN_nameShortPossessive} large penis was well-formed and ample.</li>
+            <li>I glimpsed {PAWN_nameShortPossessive} large penis; it certainly had a good girth.</li>
+            <li>The large penis on {PAWN_nameShortPossessive} was quite striking, a testament to robust anatomy.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large penis, a substantial and healthy-looking male organ.</li>
+            <li>Its considerable size made {PAWN_nameShortPossessive} large penis rather prominent.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, which possessed an impressive length and thickness.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis seemed quite developed and mature.</li>
+            <li>A truly large penis, {PAWN_nameShortPossessive} has a generous and well-proportioned one.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, a robust example of male physiology.</li>
+            <li>{PAWN_nameShortPossessive} large penis was quite evident, suggesting a good, solid form.</li>
+            <li>It was a large penis, with a substantial shaft and prominent glans, a healthy sight.</li>
+            <li>The sheer size of {PAWN_nameShortPossessive} large penis was undeniable, a very sturdy appendage.</li>
+            <li>I noted the impressive length and girth of {PAWN_nameShortPossessive} large penis.</li>
+            <li>A fine, large penis, quite robust and with a considerable presence.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was well-defined and ample.</li>
+            <li>The considerable dimensions of {PAWN_nameShortPossessive} large penis were readily apparent.</li>
+            <li>{PAWN_nameShortPossessive} possesses a truly large penis, quite a notable feature.</li>
+            <li>Its substantial size and healthy appearance of {PAWN_nameShortPossessive} large penis were apparent.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis; it had a powerful and developed look.</li>
+            <li>A substantial and well-formed organ, {PAWN_nameShortPossessive} large penis was clear to see.</li>
+            <li>The impressive girth of {PAWN_nameShortPossessive} large penis made it stand out.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} large penis; quite the specimen.</li>
+            <li>{PAWN_nameShortPossessive} large penis was undeniably large, a strong example of virility.</li>
+            <li>I noted the length and thickness of {PAWN_nameShortPossessive} large penis, a robust member.</li>
+            <li>Its proportions were generous; {PAWN_nameShortPossessive} large penis had a solid presence.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; a full and impressive male organ.</li>
+            <li>The large penis of {PAWN_nameShortPossessive} was quite visible and seemed very capable.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young male, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_Elderly_Male_voyer_opinion</defName>
+        <label>Large Penis (Neutral)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That large penis on {PAWN_nameShort}… quite the sight, a real spectacle, though my own is just a memory.</li>
+            <li>Observing {PAWN_nameShortPossessive} substantial size stirred a faint echo within me.</li>
+            <li>A truly impressive piece of young anatomy on {PAWN_nameShort}, it was quite the view.</li>
+            <li>I admired the generous proportions of {PAWN_nameShortPossessive} large penis; a good, solid one.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} large penis, I couldn't help but notice its considerable girth and length.</li>
+            <li>That large penis on {PAWN_nameShort} certainly makes my own feel rather inadequate now.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large penis was quite stirring, a true specimen.</li>
+            <li>Its substantial size was clear to see; {PAWN_nameShortPossessive} large penis held my gaze.</li>
+            <li>I found myself contemplating {PAWN_nameShortPossessive} large penis, a very impressive appendage indeed.</li>
+            <li>The full and robust form of {PAWN_nameShortPossessive} large penis was rather captivating.</li>
+            <li>A fine, large penis, quite robust and with a considerable presence, made me reflect on youthful days.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was well-defined and ample, a pleasure to observe.</li>
+            <li>The considerable dimensions of {PAWN_nameShortPossessive} large penis were readily apparent, quite a sight.</li>
+            <li>{PAWN_nameShortPossessive} possesses a truly large penis, quite a notable feature that caught my attention.</li>
+            <li>Its substantial size and healthy appearance of {PAWN_nameShortPossessive} large penis were apparent, a reminder of vitality.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis; it had a powerful and developed look, quite stimulating.</li>
+            <li>A substantial and well-formed organ, {PAWN_nameShortPossessive} large penis was clear to see, and I appreciated the view.</li>
+            <li>The impressive girth of {PAWN_nameShortPossessive} large penis made it stand out, quite a robust display.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} large penis; quite the specimen, making my old heart flutter.</li>
+            <li>{PAWN_nameShortPossessive} large penis was undeniably large, a strong example of virility that I found intriguing.</li>
+            <li>I noted the length and thickness of {PAWN_nameShortPossessive} large penis, a robust member that piqued my interest.</li>
+            <li>Its proportions were generous; {PAWN_nameShortPossessive} large penis had a solid presence, a truly captivating sight.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; a full and impressive male organ that brought a knowing smile to my face.</li>
+            <li>The large penis of {PAWN_nameShortPossessive} was quite visible and seemed very capable, drawing my voyeuristic gaze.</li>
+            <li>That ample member of {PAWN_nameShort} was truly something to behold, a magnificent example of masculine form.</li>
+            <li>I found the sight of {PAWN_nameShortPossessive} substantial organ rather intriguing, a feast for the eyes.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} large penis was quite striking, a robust anatomical display.</li>
+            <li>It was hard not to stare at {PAWN_nameShortPossessive} large penis; its powerful presence was captivating.</li>
+            <li>A true marvel of nature, {PAWN_nameShortPossessive} large penis commanded my full attention.</li>
+            <li>The impressive girth and length of {PAWN_nameShortPossessive} large penis left a distinct impression on me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Female observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_Elderly_Female_opinion</defName>
+        <label>Large Penis (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large penis; it was quite substantial, a robust male organ.</li>
+            <li>{PAWN_nameShortPossessive} large penis was certainly noticeable; a well-developed appendage.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, its size was rather prominent.</li>
+            <li>A sizable penis on {PAWN_nameShort}, it seemed quite healthy.</li>
+            <li>I briefly noted {PAWN_nameShortPossessive} large penis, a considerable length and girth.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} large penis seemed quite impressive.</li>
+            <li>I took a moment to observe {PAWN_nameShortPossessive} large penis; it was a strong, full shape.</li>
+            <li>Its notable size made {PAWN_nameShortPossessive} large penis stand out.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, a well-formed and ample part.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis appeared robust and mature.</li>
+            <li>A truly substantial penis, {PAWN_nameShortPossessive} has a generously sized one.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, a powerful example of male anatomy.</li>
+            <li>{PAWN_nameShortPossessive} large penis was quite evident, suggesting a good, solid form.</li>
+            <li>It was a large penis, with a substantial shaft and prominent glans.</li>
+            <li>The sheer size of {PAWN_nameShortPossessive} large penis was undeniable, a very sturdy appendage.</li>
+            <li>I noted the impressive length and girth of {PAWN_nameShortPossessive} large penis.</li>
+            <li>A fine, large penis, quite robust and with a considerable presence.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was well-defined and ample.</li>
+            <li>The considerable dimensions of {PAWN_nameShortPossessive} large penis were readily apparent.</li>
+            <li>{PAWN_nameShortPossessive} possesses a truly large penis, quite a notable feature.</li>
+            <li>Its substantial size and healthy appearance of {PAWN_nameShortPossessive} large penis were apparent.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis; it had a powerful and developed look.</li>
+            <li>A substantial and well-formed organ, {PAWN_nameShortPossessive} large penis was clear to see.</li>
+            <li>The impressive girth of {PAWN_nameShortPossessive} large penis made it stand out.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} large penis; quite the specimen.</li>
+            <li>{PAWN_nameShortPossessive} large penis was undeniably large, a strong example of virility.</li>
+            <li>I noted the length and thickness of {PAWN_nameShortPossessive} large penis, a robust member.</li>
+            <li>Its proportions were generous; {PAWN_nameShortPossessive} large penis had a solid presence.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; a full and impressive male organ.</li>
+            <li>The large penis of {PAWN_nameShortPossessive} was quite visible and seemed very capable.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Female voyer observes young male, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_Elderly_Female_voyer_opinion</defName>
+        <label>Large Penis (Neutral)_Elderly_Female_voyer_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That large penis on {PAWN_nameShort}… quite the display, a vibrant sight I found rather absorbing.</li>
+            <li>Observing {PAWN_nameShortPossessive} substantial size certainly captured my focus; quite a view.</li>
+            <li>A truly impressive piece of young male anatomy on {PAWN_nameShort}, it was a compelling sight.</li>
+            <li>I admired the generous proportions of {PAWN_nameShortPossessive} large penis; a robust and engaging form.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} large penis, I couldn't help but notice its significant girth and commanding length.</li>
+            <li>That large penis on {PAWN_nameShort} was quite the anatomical marvel, truly stimulating to observe.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large penis was quite striking, a remarkable specimen.</li>
+            <li>Its substantial size was clear to see; {PAWN_nameShortPossessive} large penis held my rapt attention.</li>
+            <li>I found myself contemplating {PAWN_nameShortPossessive} large penis, a very impressive appendage indeed.</li>
+            <li>The full and robust form of {PAWN_nameShortPossessive} large penis was rather captivating.</li>
+            <li>A fine, large penis, quite robust and with a considerable presence, something I could gaze at for a while.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was well-defined and ample, a pleasure to behold.</li>
+            <li>The considerable dimensions of {PAWN_nameShortPossessive} large penis were readily apparent, quite a satisfying view.</li>
+            <li>{PAWN_nameShortPossessive} possesses a truly large penis, quite a notable feature that greatly interested me.</li>
+            <li>Its substantial size and healthy appearance of {PAWN_nameShortPossessive} large penis were apparent, a real delight to the eye.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis; it had a powerful and developed look, quite enthralling.</li>
+            <li>A substantial and well-formed organ, {PAWN_nameShortPossessive} large penis was clear to see, and I savored the view.</li>
+            <li>The impressive girth of {PAWN_nameShortPossessive} large penis made it stand out, quite a robust and fascinating display.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} large penis; quite the specimen, truly an engaging sight.</li>
+            <li>{PAWN_nameShortPossessive} large penis was undeniably large, a strong example of virility that I found deeply captivating.</li>
+            <li>I noted the length and thickness of {PAWN_nameShortPossessive} large penis, a robust member that piqued my intense curiosity.</li>
+            <li>Its proportions were generous; {PAWN_nameShortPossessive} large penis had a solid presence, a truly compelling anatomical display.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; a full and impressive male organ that brought a subtle warmth to my cheeks.</li>
+            <li>The large penis of {PAWN_nameShortPossessive} was quite visible and seemed very capable, drawing my eager, voyeuristic gaze.</li>
+            <li>That ample member of {PAWN_nameShort} was truly something to behold, a magnificent example of masculine form that held me spellbound.</li>
+            <li>I found the sight of {PAWN_nameShortPossessive} substantial organ rather intriguing, a genuine feast for my eyes.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} large penis was quite striking, a robust anatomical display I found deeply absorbing.</li>
+            <li>It was hard not to stare at {PAWN_nameShortPossessive} large penis; its powerful presence was undeniably captivating to me.</li>
+            <li>A true marvel of nature, {PAWN_nameShortPossessive} large penis commanded my full, undivided attention.</li>
+            <li>The impressive girth and length of {PAWN_nameShortPossessive} large penis left a distinct and pleasurable impression on my mind.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male observes young male, more based solidarity-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_MaleOpinion</defName>
+        <label>Large Penis (Neutral)_MaleOpinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large penis, a respectable size, nothing more, nothing less.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} got a big one, I noticed, seems normal enough.</li>
+            <li>Saw {PAWN_nameShortPossessive} large penis, pretty substantial, can't argue with that.</li>
+            <li>It's a big penis, alright, {PAWN_nameShortPossessive} is well-endowed.</li>
+            <li>Just a large penis, noted its size, no big deal.</li>
+            <li>{PAWN_nameShortPossessive} large penis, quite robust, standard issue for a male.</li>
+            <li>His large penis was noticeable; seemed like a solid, healthy specimen.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, a good, thick shaft and glans.</li>
+            <li>It's a large one, a decent piece of male anatomy.</li>
+            <li>{PAWN_nameShortPossessive} large penis, well, it's certainly not small.</li>
+            <li>Saw the length and girth of {PAWN_nameShortPossessive} large penis, quite substantial.</li>
+            <li>It’s a large penis; seems perfectly proportioned.</li>
+            <li>{PAWN_nameShortPossessive} large penis, a hefty piece of flesh, as expected.</li>
+            <li>Just noted the size of {PAWN_nameShortPossessive} large penis; it’s impressive.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} has a thick one, nothing unusual.</li>
+            <li>His large penis, a solid and noticeable appendage.</li>
+            <li>The size of {PAWN_nameShortPossessive} large penis was evident, a big one.</li>
+            <li>It's a large penis, seems well-developed, nothing out of the ordinary.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was definitely a full-sized organ.</li>
+            <li>{PAWN_nameShortPossessive} has a large penis; its dimensions are considerable.</li>
+            <li>Its substantial girth made {PAWN_nameShortPossessive} large penis quite distinct.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis was clearly of an impressive scale.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, which was quite full and well-formed.</li>
+            <li>{PAWN_nameShortPossessive} large penis was certainly not small; its presence was undeniable.</li>
+            <li>The dimensions of {PAWN_nameShortPossessive} large penis were considerable, giving it a powerful appearance.</li>
+            <li>Its size was quite apparent; {PAWN_nameShortPossessive} large penis filled the eye.</li>
+            <li>I noted the impressive scale of {PAWN_nameShortPossessive} large penis and its consistent form.</li>
+            <li>{PAWN_nameShortPossessive} large penis had a noticeable weight and presence.</li>
+            <li>The large size of {PAWN_nameShortPossessive} penis was evident, with a thick shaft and prominent glans.</li>
+            <li>Its proportions indicated a substantial organ; {PAWN_nameShortPossessive} large penis was quite robust.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female observes young male, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_FemaleOpinion</defName> <!-- Changed defName to FemaleOpinion for consistency -->
+        <label>Large Penis (Neutral)_FemaleOpinion</label> <!-- Changed label to FemaleOpinion for consistency -->
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large penis was quite prominent; its size certainly caught my eye.</li>
+            <li>I noticed {PAWN_nameShortPossessive} large penis, it was quite substantial and visually striking.</li>
+            <li>Saw {PAWN_nameShortPossessive} large penis; its generous dimensions were hard to miss.</li>
+            <li>That's a considerable penis {PAWN_nameShort} has; it’s quite an impressive sight.</li>
+            <li>I glimpsed {PAWN_nameShortPossessive} large penis, noticing its thickness and notable length.</li>
+            <li>{PAWN_nameShortPossessive} large penis was undeniably ample, a powerful and well-formed appendage.</li>
+            <li>His large penis was quite noticeable, possessing a full shape and considerable girth.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, noting its robust shaft and prominent glans.</li>
+            <li>It's a notably large penis on {PAWN_nameShort}; quite an eye-catching feature.</li>
+            <li>{PAWN_nameShortPossessive} large penis, well, it certainly makes an impression with its size.</li>
+            <li>Saw the impressive length and girth of {PAWN_nameShortPossessive} large penis, quite alluring.</li>
+            <li>It’s a large penis; seems perfectly proportioned and quite attractive.</li>
+            <li>{PAWN_nameShortPossessive} large penis, a hefty piece of flesh, quite stimulating to behold.</li>
+            <li>Just noted the size of {PAWN_nameShortPossessive} large penis; it’s undeniably impressive.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} has a thick one, very appealing.</li>
+            <li>His large penis, a solid and noticeably appealing appendage.</li>
+            <li>The size of {PAWN_nameShortPossessive} large penis was evident, a very attractive big one.</li>
+            <li>It's a large penis, seems well-developed and quite desirable.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was definitely a full-sized, enticing organ.</li>
+            <li>{PAWN_nameShortPossessive} has a large penis; its dimensions are considerable and quite compelling.</li>
+            <li>Its substantial girth made {PAWN_nameShortPossessive} large penis quite distinct and captivating.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis was clearly of an impressive scale and very engaging.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, which was quite full and beautifully formed.</li>
+            <li>{PAWN_nameShortPossessive} large penis was certainly not small; its presence was undeniably powerful.</li>
+            <li>The dimensions of {PAWN_nameShortPossessive} large penis were considerable, giving it a truly potent appearance.</li>
+            <li>Its size was quite apparent; {PAWN_nameShortPossessive} large penis filled the eye with a sense of wonder.</li>
+            <li>I noted the impressive scale of {PAWN_nameShortPossessive} large penis and its consistent, appealing form.</li>
+            <li>{PAWN_nameShortPossessive} large penis had a noticeable weight and presence that I found intriguing.</li>
+            <li>The large size of {PAWN_nameShortPossessive} penis was evident, with a thick shaft and prominent glans, very enticing.</li>
+            <li>Its proportions indicated a substantial organ; {PAWN_nameShortPossessive} large penis was quite robust and desirable.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--voyer unisex (all genders) observes young male -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_trait_Voyeur</defName>
+        <label>Large Penis (Neutral) trait Voyeur</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large penis; a noteworthy sight indeed, quite the specimen.</li>
+            <li>I caught a glimpse of {PAWN_nameShortPossessive} substantial size, a truly arresting view.</li>
+            <li>The ample form of {PAWN_nameShortPossessive} large penis was quite compelling to witness.</li>
+            <li>Observing {PAWN_nameShortPossessive} large penis, I couldn't help but linger on its impressive scale.</li>
+            <li>A magnificent display of anatomy, {PAWN_nameShortPossessive} large penis held my attention.</li>
+            <li>The sheer volume and robust shape of {PAWN_nameShortPossessive} large penis were captivating.</li>
+            <li>I found myself drawn to the commanding presence of {PAWN_nameShortPossessive} large penis.</li>
+            <li>Its considerable length and girth made {PAWN_nameShortPossessive} large penis a truly engaging spectacle.</li>
+            <li>{PAWN_nameShortPossessive} large penis, a remarkably well-endowed feature that commanded my gaze.</li>
+            <li>The substantial nature of {PAWN_nameShortPossessive} large penis was very apparent and fascinating.</li>
+            <li>I took great interest in the impressive dimensions of {PAWN_nameShortPossessive} large penis.</li>
+            <li>A truly grand organ, {PAWN_nameShortPossessive} large penis was a delight for a voyeur.</li>
+            <li>The pronounced contours of {PAWN_nameShortPossessive} large penis were quite something to observe.</li>
+            <li>I discreetly admired the robust and ample form of {PAWN_nameShortPossessive} large penis.</li>
+            <li>The large penis of {PAWN_nameShort} was a captivating sight, a full and compelling display.</li>
+            <li>Its remarkable proportions made {PAWN_nameShortPossessive} large penis stand out distinctly.</li>
+            <li>I carefully observed the impressive thickness and length of {PAWN_nameShortPossessive} large penis.</li>
+            <li>The sight of {PAWN_nameShortPossessive} substantial appendage was quite satisfying.</li>
+            <li>A potent and commanding presence, {PAWN_nameShortPossessive} large penis was a visual treat.</li>
+            <li>I found myself engrossed by the considerable size and natural form of {PAWN_nameShortPossessive} large penis.</li>
+            <li>{PAWN_nameShortPossessive} large penis, a truly ample and well-defined example of virility.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} large penis was undeniably captivating.</li>
+            <li>I gazed intently at {PAWN_nameShortPossessive} large penis; its form was quite compelling.</li>
+            <li>Its proportions were undeniably generous, making {PAWN_nameShortPossessive} large penis quite a spectacle.</li>
+            <li>A strong and imposing sight, {PAWN_nameShortPossessive} large penis was hard to ignore.</li>
+            <li>The substantiality of {PAWN_nameShortPossessive} large penis was clearly remarkable.</li>
+            <li>I absorbed the details of {PAWN_nameShortPossessive} large penis, an impressive anatomical study.</li>
+            <li>{PAWN_nameShortPossessive} large penis, an exceptionally prominent feature, truly a voyeur's delight.</li>
+            <li>The full and robust structure of {PAWN_nameShortPossessive} large penis was utterly engrossing.</li>
+            <li>Its significant size gave {PAWN_nameShortPossessive} large penis an undeniable magnetism.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer male observes young male with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_trait_Voyeur_M</defName>
+        <label>Large Penis (Neutral) trait Voyeur_M</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large penis… quite the display, makes my own feel a little envious.</li>
+            <li>Observing {PAWN_nameShortPossessive} substantial size certainly stirred a faint echo within me.</li>
+            <li>A truly impressive piece of young anatomy on {PAWN_nameShort}, it was quite the view.</li>
+            <li>I admired the generous proportions of {PAWN_nameShortPossessive} large penis; a good, solid one, just like I remember.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} large penis, I couldn't help but notice its considerable girth and length.</li>
+            <li>That large penis on {PAWN_nameShort} certainly makes my own feel rather inadequate now.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large penis was quite stirring, a true specimen.</li>
+            <li>Its substantial size was clear to see; {PAWN_nameShortPossessive} large penis held my gaze.</li>
+            <li>I found myself contemplating {PAWN_nameShortPossessive} large penis, a very impressive appendage indeed.</li>
+            <li>The full and robust form of {PAWN_nameShortPossessive} large penis was rather captivating.</li>
+            <li>A fine, large penis, quite robust and with a considerable presence, made me reflect on youthful days.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was well-defined and ample, a pleasure to observe.</li>
+            <li>The considerable dimensions of {PAWN_nameShortPossessive} large penis were readily apparent, quite a sight.</li>
+            <li>{PAWN_nameShortPossessive} possesses a truly large penis, quite a notable feature that caught my attention.</li>
+            <li>Its substantial size and healthy appearance of {PAWN_nameShortPossessive} large penis were apparent, a reminder of vitality.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis; it had a powerful and developed look, quite stimulating.</li>
+            <li>A substantial and well-formed organ, {PAWN_nameShortPossessive} large penis was clear to see, and I appreciated the view.</li>
+            <li>The impressive girth of {PAWN_nameShortPossessive} large penis made it stand out, quite a robust display.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} large penis; quite the specimen, making my old heart flutter.</li>
+            <li>{PAWN_nameShortPossessive} large penis was undeniably large, a strong example of virility that I found intriguing.</li>
+            <li>I noted the length and thickness of {PAWN_nameShortPossessive} large penis, a robust member that piqued my interest.</li>
+            <li>Its proportions were generous; {PAWN_nameShortPossessive} large penis had a solid presence, a truly captivating sight.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; a full and impressive male organ that brought a knowing smile to my face.</li>
+            <li>The large penis of {PAWN_nameShortPossessive} was quite visible and seemed very capable, drawing my voyeuristic gaze.</li>
+            <li>That ample member of {PAWN_nameShort} was truly something to behold, a magnificent example of masculine form.</li>
+            <li>I found the sight of {PAWN_nameShortPossessive} substantial organ rather intriguing, a feast for the eyes.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} large penis was quite striking, a robust anatomical display.</li>
+            <li>It was hard not to stare at {PAWN_nameShortPossessive} large penis; its powerful presence was captivating.</li>
+            <li>A true marvel of nature, {PAWN_nameShortPossessive} large penis commanded my full attention.</li>
+            <li>The impressive girth and length of {PAWN_nameShortPossessive} large penis left a distinct impression on me.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young male with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_trait_Voyeur_F</defName>
+        <label>Large Penis (Neutral) trait Voyeur_F</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That large penis on {PAWN_nameShort}… quite the display, a vibrant sight I found rather absorbing.</li>
+            <li>Observing {PAWN_nameShortPossessive} substantial size certainly captured my focus; quite a view.</li>
+            <li>A truly impressive piece of young male anatomy on {PAWN_nameShort}, it was a compelling sight.</li>
+            <li>I admired the generous proportions of {PAWN_nameShortPossessive} large penis; a robust and engaging form.</li>
+            <li>Gazing upon {PAWN_nameShortPossessive} large penis, I couldn't help but notice its significant girth and commanding length.</li>
+            <li>That large penis on {PAWN_nameShort} was quite the anatomical marvel, truly stimulating to observe.</li>
+            <li>The sight of {PAWN_nameShortPossessive} large penis was quite striking, a remarkable specimen.</li>
+            <li>Its substantial size was clear to see; {PAWN_nameShortPossessive} large penis held my rapt attention.</li>
+            <li>I found myself contemplating {PAWN_nameShortPossessive} large penis, a very impressive appendage indeed.</li>
+            <li>The full and robust form of {PAWN_nameShortPossessive} large penis was rather captivating.</li>
+            <li>A fine, large penis, quite robust and with a considerable presence, something I could gaze at for a while.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was well-defined and ample, a pleasure to behold.</li>
+            <li>The considerable dimensions of {PAWN_nameShortPossessive} large penis were readily apparent, quite a satisfying view.</li>
+            <li>{PAWN_nameShortPossessive} possesses a truly large penis, quite a notable feature that greatly interested me.</li>
+            <li>Its substantial size and healthy appearance of {PAWN_nameShortPossessive} large penis were apparent, a real delight to the eye.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis; it had a powerful and developed look, quite enthralling.</li>
+            <li>A substantial and well-formed organ, {PAWN_nameShortPossessive} large penis was clear to see, and I savored the view.</li>
+            <li>The impressive girth of {PAWN_nameShortPossessive} large penis made it stand out, quite a robust and fascinating display.</li>
+            <li>I took in the full view of {PAWN_nameShortPossessive} large penis; quite the specimen, truly an engaging sight.</li>
+            <li>{PAWN_nameShortPossessive} large penis was undeniably large, a strong example of virility that I found deeply captivating.</li>
+            <li>I noted the length and thickness of {PAWN_nameShortPossessive} large penis, a robust member that piqued my intense curiosity.</li>
+            <li>Its proportions were generous; {PAWN_nameShortPossessive} large penis had a solid presence, a truly compelling anatomical display.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; a full and impressive male organ that brought a subtle warmth to my cheeks.</li>
+            <li>The large penis of {PAWN_nameShortPossessive} was quite visible and seemed very capable, drawing my eager, voyeuristic gaze.</li>
+            <li>That ample member of {PAWN_nameShort} was truly something to behold, a magnificent example of masculine form that held me spellbound.</li>
+            <li>I found the sight of {PAWN_nameShortPossessive} substantial organ rather intriguing, a genuine feast for my eyes.</li>
+            <li>The sheer volume of {PAWN_nameShortPossessive} large penis was quite striking, a robust anatomical display I found deeply absorbing.</li>
+            <li>It was hard not to stare at {PAWN_nameShortPossessive} large penis; its powerful presence was undeniably captivating to me.</li>
+            <li>A true marvel of nature, {PAWN_nameShortPossessive} large penis commanded my full, undivided attention.</li>
+            <li>The impressive girth and length of {PAWN_nameShortPossessive} large penis left a distinct and pleasurable impression on my mind.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_trait_NMM_Exhibitionist</defName>
+        <label>Large Penis (Neutral) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large penis; a grand sight, truly. I understand the desire to display such a magnificent specimen.</li>
+            <li>I noticed {PAWN_nameShortPossessive} large penis, a commendable show of confidence.</li>
+            <li>Seeing {PAWN_nameShortPossessive} large penis makes me appreciate their uninhibited nature.</li>
+            <li>A substantial penis on {PAWN_nameShort}, prominently displayed; I respect that.</li>
+            <li>I admire the boldness of {PAWN_nameShort} in presenting such a well-endowed feature.</li>
+            <li>{PAWN_nameShortPossessive} large penis, quite robust; I enjoy seeing others comfortable with their anatomy.</li>
+            <li>The exposure of {PAWN_nameShortPossessive} large penis is a clear statement; I approve.</li>
+            <li>I appreciate the sight of {PAWN_nameShortPossessive} large penis, openly presented.</li>
+            <li>It's a notably large penis, and {PAWN_nameShort} seems quite at ease with its visibility.</li>
+            <li>{PAWN_nameShortPossessive} large penis, well, it certainly draws attention, which is good.</li>
+            <li>The impressive length and girth of {PAWN_nameShortPossessive} large penis are being shown off beautifully.</li>
+            <li>It’s a large penis; seems perfectly proportioned, and I appreciate the open display.</li>
+            <li>{PAWN_nameShortPossessive} large penis, a hefty piece of flesh, and they're not shy about it.</li>
+            <li>Just noted the size of {PAWN_nameShortPossessive} large penis; it’s impressive and proudly exhibited.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} has a thick one, and they clearly want others to see it.</li>
+            <li>His large penis, a solid and noticeably appealing appendage, openly shared.</li>
+            <li>The size of {PAWN_nameShortPossessive} large penis was evident, a big one being enjoyed by all.</li>
+            <li>It's a large penis, seems well-developed, and the exhibition is well-received.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was definitely a full-sized organ, shown without reservation.</li>
+            <li>{PAWN_nameShortPossessive} has a large penis; its dimensions are considerable and they're sharing the view.</li>
+            <li>Its substantial girth made {PAWN_nameShortPossessive} large penis quite distinct and publicly enjoyed.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis was clearly of an impressive scale and beautifully exposed.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, which was quite full and well-formed, a pleasing display.</li>
+            <li>{PAWN_nameShortPossessive} large penis was certainly not small; its presence was undeniable and open.</li>
+            <li>The dimensions of {PAWN_nameShortPossessive} large penis were considerable, giving it a powerful, public appearance.</li>
+            <li>Its size was quite apparent; {PAWN_nameShortPossessive} large penis filled the eye, as intended.</li>
+            <li>I noted the impressive scale of {PAWN_nameShortPossessive} large penis and its consistent, proud form.</li>
+            <li>{PAWN_nameShortPossessive} large penis had a noticeable weight and presence, making for a compelling show.</li>
+            <li>The large size of {PAWN_nameShortPossessive} penis was evident, with a thick shaft and prominent glans, a confident display.</li>
+            <li>Its proportions indicated a substantial organ; {PAWN_nameShortPossessive} large penis was quite robust and freely shown.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_trait_Nymphomaniac</defName>
+        <label>Large Penis (Neutral) trait Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large penis; its size is certainly notable, sparking a flicker of interest within me.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, its robust appearance quite... stimulating.</li>
+            <li>A truly substantial penis on {PAWN_nameShort}, one can certainly appreciate its dimensions.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} large penis caught my attention, and held it.</li>
+            <li>I found {PAWN_nameShortPossessive} large penis to be quite impressive; a very full and capable looking member.</li>
+            <li>{PAWN_nameShortPossessive} large penis, quite remarkable; it certainly stirred my desires.</li>
+            <li>His large penis was quite noticeable, igniting a familiar internal warmth.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, its prominent glans and thick shaft were very appealing.</li>
+            <li>It's a notably large penis on {PAWN_nameShort}, and I felt a definite pull towards it.</li>
+            <li>{PAWN_nameShortPossessive} large penis, well, it's certainly got me thinking.</li>
+            <li>The impressive length and girth of {PAWN_nameShortPossessive} large penis was arousing.</li>
+            <li>It’s a large penis; seems perfectly proportioned, and quite frankly, inviting.</li>
+            <li>{PAWN_nameShortPossessive} large penis, a hefty piece of flesh, and my thoughts are wandering.</li>
+            <li>Just noted the size of {PAWN_nameShortPossessive} large penis; it’s undeniably impressive and exciting.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} has a thick one, very enticing indeed.</li>
+            <li>His large penis, a solid and noticeably appealing appendage, stirred my core.</li>
+            <li>The size of {PAWN_nameShortPossessive} large penis was evident, a big one that sparked my urges.</li>
+            <li>It's a large penis, seems well-developed, and my body responded.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was definitely a full-sized, deeply enticing organ.</li>
+            <li>{PAWN_nameShortPossessive} has a large penis; its dimensions are considerable and highly stimulating.</li>
+            <li>Its substantial girth made {PAWN_nameShortPossessive} large penis quite distinct and incredibly captivating.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis was clearly of an impressive scale, very alluring.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, which was quite full and beautifully formed, and my senses tingled.</li>
+            <li>{PAWN_nameShortPossessive} large penis was certainly not small; its presence was undeniably powerful and arousing.</li>
+            <li>The dimensions of {PAWN_nameShortPossessive} large penis were considerable, giving it a truly potent appearance.</li>
+            <li>Its size was quite apparent; {PAWN_nameShortPossessive} large penis filled the eye with a sense of urgent desire.</li>
+            <li>I noted the impressive scale of {PAWN_nameShortPossessive} large penis and its consistent, appealing form, igniting a spark.</li>
+            <li>{PAWN_nameShortPossessive} large penis had a noticeable weight and presence that I found intensely intriguing.</li>
+            <li>The large size of {PAWN_nameShortPossessive} penis was evident, with a thick shaft and prominent glans, incredibly tempting.</li>
+            <li>Its proportions indicated a substantial organ; {PAWN_nameShortPossessive} large penis was quite robust and intensely desirable.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Male Nymphomaniac observes male, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_trait_Nymphomaniac_male</defName>
+        <label>Large Penis (Neutral) trait Nymphomaniac_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large penis; its size is certainly notable, and mine reacted immediately.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, its robust appearance quite... stimulating, making me stir.</li>
+            <li>A truly substantial penis on {PAWN_nameShort}, one can certainly appreciate its dimensions, as I do.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} large penis caught my attention, and held it with a familiar ache.</li>
+            <li>I found {PAWN_nameShortPossessive} large penis to be quite impressive; a very full and capable looking member.</li>
+            <li>{PAWN_nameShortPossessive} large penis, quite remarkable; it certainly stirred my desires, and my own penis stiffened.</li>
+            <li>His large penis was quite noticeable, igniting a familiar internal warmth, and a definite throbbing.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, its prominent glans and thick shaft were very appealing, and I felt myself hardening.</li>
+            <li>It's a notably large penis on {PAWN_nameShort}, and I felt a definite pull towards it, a growing need.</li>
+            <li>{PAWN_nameShortPossessive} large penis, well, it's certainly got me thinking, and my body is responding.</li>
+            <li>The impressive length and girth of {PAWN_nameShortPossessive} large penis was arousing, and my cock twitched.</li>
+            <li>It’s a large penis; seems perfectly proportioned, and quite frankly, inviting, making me eager.</li>
+            <li>{PAWN_nameShortPossessive} large penis, a hefty piece of flesh, and my thoughts are wandering to possibilities.</li>
+            <li>Just noted the size of {PAWN_nameShortPossessive} large penis; it’s undeniably impressive and exciting, making me throb.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} has a thick one, very enticing indeed, and my pants are getting tight.</li>
+            <li>His large penis, a solid and noticeably appealing appendage, stirred my core and left me wanting.</li>
+            <li>The size of {PAWN_nameShortPossessive} large penis was evident, a big one that sparked my urges, and I grew hard.</li>
+            <li>It's a large penis, seems well-developed, and my body responded with a deep ache.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was definitely a full-sized, deeply enticing organ, and I felt myself swell.</li>
+            <li>{PAWN_nameShortPossessive} has a large penis; its dimensions are considerable and highly stimulating, making me very keen.</li>
+            <li>Its substantial girth made {PAWN_nameShortPossessive} large penis quite distinct and incredibly captivating, my own throbbing in response.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis was clearly of an impressive scale, very alluring, and I felt my blood rise.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, which was quite full and beautifully formed, and my senses tingled with anticipation.</li>
+            <li>{PAWN_nameShortPossessive} large penis was certainly not small; its presence was undeniably powerful and arousing, making me rigid.</li>
+            <li>The dimensions of {PAWN_nameShortPossessive} large penis were considerable, giving it a truly potent appearance, exciting my every nerve.</li>
+            <li>Its size was quite apparent; {PAWN_nameShortPossessive} large penis filled the eye with a sense of urgent desire, and my pants felt restrictive.</li>
+            <li>I noted the impressive scale of {PAWN_nameShortPossessive} large penis and its consistent, appealing form, igniting a fire in me.</li>
+            <li>{PAWN_nameShortPossessive} large penis had a noticeable weight and presence that I found intensely intriguing, making my own eager.</li>
+            <li>The large size of {PAWN_nameShortPossessive} penis was evident, with a thick shaft and prominent glans, incredibly tempting, and I was fully erect.</li>
+            <li>Its proportions indicated a substantial organ; {PAWN_nameShortPossessive} large penis was quite robust and intensely desirable, leaving me throbbing.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes male, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_trait_Nymphomaniac_Female</defName>
+        <label>Large Penis (Neutral) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large penis; its size is certainly notable, and I feel a familiar warmth spreading.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, its robust appearance quite... stimulating, making me moist.</li>
+            <li>A truly substantial penis on {PAWN_nameShort}, one can certainly appreciate its dimensions, and I certainly do.</li>
+            <li>The sheer magnitude of {PAWN_nameShortPossessive} large penis caught my attention, and held it with a growing ache.</li>
+            <li>I found {PAWN_nameShortPossessive} large penis to be quite impressive; a very full and capable looking member, making me feel eager.</li>
+            <li>{PAWN_nameShortPossessive} large penis, quite remarkable; it certainly stirred my desires, and I felt a tingle.</li>
+            <li>His large penis was quite noticeable, igniting a familiar internal warmth, and a definite yearning.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, its prominent glans and thick shaft were very appealing, and I felt myself growing wet.</li>
+            <li>It's a notably large penis on {PAWN_nameShort}, and I felt a definite pull towards it, a craving.</li>
+            <li>{PAWN_nameShortPossessive} large penis, well, it's certainly got me thinking, and my body is responding.</li>
+            <li>The impressive length and girth of {PAWN_nameShortPossessive} large penis was arousing, and my core tightened.</li>
+            <li>It’s a large penis; seems perfectly proportioned, and quite frankly, inviting, making me want more.</li>
+            <li>{PAWN_nameShortPossessive} large penis, a hefty piece of flesh, and my thoughts are wandering to intimate moments.</li>
+            <li>Just noted the size of {PAWN_nameShortPossessive} large penis; it’s undeniably impressive and exciting, making me sigh.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} has a thick one, very enticing indeed, and my breath hitched.</li>
+            <li>His large penis, a solid and noticeably appealing appendage, stirred my core and left me throbbing.</li>
+            <li>The size of {PAWN_nameShortPossessive} large penis was evident, a big one that sparked my urges, and I felt flush.</li>
+            <li>It's a large penis, seems well-developed, and my body responded with an insistent throb.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was definitely a full-sized, deeply enticing organ, and I longed to touch.</li>
+            <li>{PAWN_nameShortPossessive} has a large penis; its dimensions are considerable and highly stimulating, making me restless.</li>
+            <li>Its substantial girth made {PAWN_nameShortPossessive} large penis quite distinct and incredibly captivating, my own sex aching.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis was clearly of an impressive scale, very alluring, and I felt a deep ache.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, which was quite full and beautifully formed, and my senses tingled with anticipation.</li>
+            <li>{PAWN_nameShortPossessive} large penis was certainly not small; its presence was undeniably powerful and arousing, making me clench.</li>
+            <li>The dimensions of {PAWN_nameShortPossessive} large penis were considerable, giving it a truly potent appearance, exciting my every nerve.</li>
+            <li>Its size was quite apparent; {PAWN_nameShortPossessive} large penis filled the eye with a sense of urgent desire, and I trembled slightly.</li>
+            <li>I noted the impressive scale of {PAWN_nameShortPossessive} large penis and its consistent, appealing form, igniting a burning desire.</li>
+            <li>{PAWN_nameShortPossessive} large penis had a noticeable weight and presence that I found intensely intriguing, making my body yearn.</li>
+            <li>The large size of {PAWN_nameShortPossessive} penis was evident, with a thick shaft and prominent glans, incredibly tempting, and I felt a shiver.</li>
+            <li>Its proportions indicated a substantial organ; {PAWN_nameShortPossessive} large penis was quite robust and intensely desirable, leaving me in a haze of longing.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_trait_Kind</defName>
+        <label>Large Penis (Neutral) trait Kind</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large penis; it seems quite healthy and well-formed.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, a substantial and perfectly normal part of their anatomy.</li>
+            <li>It’s a rather large penis on {PAWN_nameShort}, and I hope they are comfortable with it.</li>
+            <li>The size of {PAWN_nameShortPossessive} large penis is evident; I wish them well with it.</li>
+            <li>I briefly noted {PAWN_nameShortPossessive} large penis, its proportions seemed natural and robust.</li>
+            <li>{PAWN_nameShortPossessive} large penis, quite robust; I'm sure it serves them well.</li>
+            <li>His large penis was noticeable, a natural part of their body.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, a good, thick shaft and glans; I hope it brings them no discomfort.</li>
+            <li>It's a large one, a decent piece of male anatomy; I hope they are happy with it.</li>
+            <li>{PAWN_nameShortPossessive} large penis, well, it's certainly not small, and I hope it functions well for them.</li>
+            <li>Saw the length and girth of {PAWN_nameShortPossessive} large penis, quite substantial, and I hope they embrace it.</li>
+            <li>It’s a large penis; seems perfectly proportioned, and I wish them all the best.</li>
+            <li>{PAWN_nameShortPossessive} large penis, a hefty piece of flesh, I hope it is comfortable.</li>
+            <li>Just noted the size of {PAWN_nameShortPossessive} large penis; it’s impressive, and I hope they feel good about it.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} has a thick one, nothing unusual, and I send them positive thoughts.</li>
+            <li>His large penis, a solid and noticeably appealing appendage, I hope it brings them joy.</li>
+            <li>The size of {PAWN_nameShortPossessive} large penis was evident, a big one, and I hope it is healthy.</li>
+            <li>It's a large penis, seems well-developed, and I hope it contributes to their happiness.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was definitely a full-sized organ, and I wish them well.</li>
+            <li>{PAWN_nameShortPossessive} has a large penis; its dimensions are considerable, and I hope they find it fitting.</li>
+            <li>Its substantial girth made {PAWN_nameShortPossessive} large penis quite distinct and I hope they are proud of it.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis was clearly of an impressive scale, and I hope it serves its purpose.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, which was quite full and well-formed, and I hope it functions perfectly.</li>
+            <li>{PAWN_nameShortPossessive} large penis was certainly not small; its presence was undeniable, and I hope it is a source of confidence.</li>
+            <li>The dimensions of {PAWN_nameShortPossessive} large penis were considerable, giving it a powerful appearance, and I hope they are content.</li>
+            <li>Its size was quite apparent; {PAWN_nameShortPossessive} large penis filled the eye, and I hope they are well.</li>
+            <li>I noted the impressive scale of {PAWN_nameShortPossessive} large penis and its consistent form, and I wish them comfort.</li>
+            <li>{PAWN_nameShortPossessive} large penis had a noticeable weight and presence, and I hope it doesn't cause discomfort.</li>
+            <li>The large size of {PAWN_nameShortPossessive} penis was evident, with a thick shaft and prominent glans, and I hope they are fine.</li>
+            <li>Its proportions indicated a substantial organ; {PAWN_nameShortPossessive} large penis was quite robust, and I hope it brings them satisfaction.</li>
+        </opinionTexts>
+</Def>
+
+<!-- Prude or prudish person unisex observes male-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Large_trait_Prude</defName>
+        <label>Large Penis (Neutral) trait Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} large penis. It's... large. Unnecessarily so.</li>
+            <li>I noticed {PAWN_nameShortPossessive} large penis. Rather conspicuous, isn't it?</li>
+            <li>Saw {PAWN_nameShortPossessive} large penis. Frankly, it's a bit much to take in.</li>
+            <li>It’s a large penis, indeed. No need to parade it around, though.</li>
+            <li>I glimpsed {PAWN_nameShortPossessive} large penis. Honestly, I'd prefer not to comment on its size.</li>
+            <li>{PAWN_nameShortPossessive} large penis. It’s certainly… there.</li>
+            <li>His large penis was noticeable; far too noticeable, in fact.</li>
+            <li>I observed {PAWN_nameShortPossessive} large penis, a rather ostentatious display.</li>
+            <li>It's a large one, sure. But must it be so prominent?</li>
+            <li>{PAWN_nameShortPossessive} large penis, well, it's just a bit overwhelming.</li>
+            <li>Saw the length and girth of {PAWN_nameShortPossessive} large penis. Undignified.</li>
+            <li>It’s a large penis; seems perfectly proportioned, but it’s still quite bold.</li>
+            <li>{PAWN_nameShortPossessive} large penis, a hefty piece of flesh. Too much information.</li>
+            <li>Just noted the size of {PAWN_nameShortPossessive} large penis; it’s frankly a bit vulgar.</li>
+            <li>Yeah, {PAWN_nameShortPossessive} has a thick one, and I could have done without seeing it.</li>
+            <li>His large penis, a solid and noticeably appealing appendage, is quite in my face.</li>
+            <li>The size of {PAWN_nameShortPossessive} large penis was evident, a big one, and a bit much.</li>
+            <li>It's a large penis, seems well-developed, but perhaps less exposure would be wise.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis; it was definitely a full-sized organ, and frankly, I'm quite uncomfortable.</li>
+            <li>{PAWN_nameShortPossessive} has a large penis; its dimensions are considerable, and somewhat jarring.</li>
+            <li>Its substantial girth made {PAWN_nameShortPossessive} large penis quite distinct and quite frankly, offensive.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large penis was clearly of an impressive scale, and quite frankly, indelicate.</li>
+            <li>I saw {PAWN_nameShortPossessive} large penis, which was quite full and well-formed, but really, must it be so open?</li>
+            <li>{PAWN_nameShortPossessive} large penis was certainly not small; its presence was undeniable, and rather impolite.</li>
+            <li>The dimensions of {PAWN_nameShortPossessive} large penis were considerable, giving it a powerful appearance, which is quite unnecessary.</li>
+            <li>Its size was quite apparent; {PAWN_nameShortPossessive} large penis filled the eye, whether I wanted it to or not.</li>
+            <li>I noted the impressive scale of {PAWN_nameShortPossessive} large penis and its consistent form, but it's rather immodest.</li>
+            <li>{PAWN_nameShortPossessive} large penis had a noticeable weight and presence, making me feel a bit put out.</li>
+            <li>The large size of {PAWN_nameShortPossessive} penis was evident, with a thick shaft and prominent glans, truly a bit much.</li>
+            <li>Its proportions indicated a substantial organ; {PAWN_nameShortPossessive} large penis was quite robust, and far too revealing.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with horse penis, may include curiosity and uncomon anatomical opinion and horse penis anatomical structure, like large balls, flat penis head etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_HorsePenis</defName>
+        <label>Large Penis (Neutral) HorsePenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_equine_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>HorsePenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large horse penis; its blunt, flat head and considerable length were unmistakable.</li>
+            <li>{PAWN_nameShortPossessive} horse penis was truly substantial, with an impressive shaft and noticeably large scrotum.</li>
+            <li>The equine anatomy of {PAWN_nameShortPossessive} large penis was striking, a powerful and lengthy appendage.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} horse penis, quite a peculiar sight.</li>
+            <li>Its unique form, with a thick, almost cylindrical shaft and large, heavy testicles, made {PAWN_nameShortPossessive} horse penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} horse penis was considerable, its head surprisingly flat compared to its massive shaft.</li>
+            <li>I saw {PAWN_nameShortPossessive} large horse penis; it possessed a rather wide, blunt tip and an undeniable presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} horse penis was evident, with a remarkable length and substantial base.</li>
+            <li>{PAWN_nameShortPossessive} horse penis, a truly colossal appendage, with a broad, flat glans and prominent veins.</li>
+            <li>Its proportions were undeniably equine; {PAWN_nameShortPossessive} large penis had a thick, muscular appearance.</li>
+            <li>I observed {PAWN_nameShortPossessive} horse penis, its raw, unadorned structure, and remarkable length.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} horse penis was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its horse-like characteristics were quite pronounced.</li>
+            <li>I noticed the impressive size and the characteristic flat head of {PAWN_nameShortPossessive} horse penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large horse penis were clearly significant.</li>
+            <li>Its long, straight shaft and large, pendulous testicles defined {PAWN_nameShortPossessive} horse penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} horse penis, a substantial organ with a distinct lack of a prominent corona.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large horse penis was peculiar, yet undeniably powerful.</li>
+            <li>It was a large penis, with the notable blunt, mushroom-like head typical of a stallion.</li>
+            <li>{PAWN_nameShortPossessive} horse penis was quite striking; its massive bulk was apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} horse penis, combined with its unique morphology, was intriguing.</li>
+            <li>I observed {PAWN_nameShortPossessive} large horse penis, its thick base and impressive length.</li>
+            <li>Its considerable girth and the distinctive flat glans made {PAWN_nameShortPossessive} horse penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful equine member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} horse penis were quite remarkable.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large horse penis, its sturdy shaft and flat, expansive head.</li>
+            <li>{PAWN_nameShortPossessive} horse penis was notably substantial, showcasing its powerful, animalistic design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} horse penis were undeniably grand, fitting its unique origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large horse penis, its imposing form and distinct, flattened tip.</li>
+            <li>Its considerable length and the broad, smooth glans marked {PAWN_nameShortPossessive} as having a truly large horse penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with dog penis, may include curiosity and uncomon anatomical opinion and dog penis anatomical structure like knot etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_DogPenis</defName>
+        <label>Large Penis (Neutral) DogPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_canine_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DogPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large dog penis; its prominent bulb, or "knot," was unmistakable.</li>
+            <li>{PAWN_nameShortPossessive} dog penis was truly substantial, with a notable base that swelled considerably.</li>
+            <li>The canine anatomy of {PAWN_nameShortPossessive} large penis was striking, especially its distinct knot.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} dog penis, quite a peculiar sight.</li>
+            <li>Its unique form, with a thick, rounded glans and the bulbous swelling at its base, made {PAWN_nameShortPossessive} dog penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} dog penis was considerable, its "knot" particularly prominent.</li>
+            <li>I saw {PAWN_nameShortPossessive} large dog penis; it possessed a rather wide, rounded tip and an undeniable presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} dog penis was evident, with a remarkable length and substantial base.</li>
+            <li>{PAWN_nameShortPossessive} dog penis, a truly colossal appendage, with a pronounced bulb and considerable girth.</li>
+            <li>Its proportions were undeniably canine; {PAWN_nameShortPossessive} large penis had a thick, muscular appearance with the characteristic knot.</li>
+            <li>I observed {PAWN_nameShortPossessive} dog penis, its raw, unadorned structure, and remarkable length, especially the knot.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} dog penis, leading to the distinct knot, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its dog-like characteristics were quite pronounced.</li>
+            <li>I noticed the impressive size and the characteristic knot of {PAWN_nameShortPossessive} dog penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large dog penis were clearly significant.</li>
+            <li>Its long, straight shaft and prominent knot defined {PAWN_nameShortPossessive} dog penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} dog penis, a substantial organ with a distinct bulb at its base.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large dog penis was peculiar, yet undeniably powerful, especially that knot.</li>
+            <li>It was a large penis, with the notable knot typical of a canine.</li>
+            <li>{PAWN_nameShortPossessive} dog penis was quite striking; its massive bulk and knot were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} dog penis, combined with its unique morphology, was intriguing.</li>
+            <li>I observed {PAWN_nameShortPossessive} large dog penis, its thick base and impressive length.</li>
+            <li>Its considerable girth and the distinctive knot made {PAWN_nameShortPossessive} dog penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful canine member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} dog penis were quite remarkable.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large dog penis, its sturdy shaft and prominent knot.</li>
+            <li>{PAWN_nameShortPossessive} dog penis was notably substantial, showcasing its powerful, animalistic design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} dog penis were undeniably grand, fitting its unique origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large dog penis, its imposing form and distinct, bulbous base.</li>
+            <li>Its considerable length and the pronounced knot marked {PAWN_nameShortPossessive} as having a truly large dog penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with cat penis, may include curiosity and uncomon anatomical opinion and cat penis anatomical structure like spikes on penis.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_CatPenis</defName>
+        <label>Large Penis (Neutral) CatPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_feline_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>CatPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large cat penis; its notable spines along the shaft were distinct.</li>
+            <li>{PAWN_nameShortPossessive} cat penis was truly substantial, with a unique texture due to its spiny surface.</li>
+            <li>The feline anatomy of {PAWN_nameShortPossessive} large penis was striking, especially its prominent penile barbs.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} cat penis, quite a peculiar sight.</li>
+            <li>Its unique form, with a slender glans and the numerous small spines, made {PAWN_nameShortPossessive} cat penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} cat penis was considerable, its surface visibly textured.</li>
+            <li>I saw {PAWN_nameShortPossessive} large cat penis; it possessed a rather narrow tip and an undeniable, thorny presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} cat penis was evident, with a remarkable length and prickly shaft.</li>
+            <li>{PAWN_nameShortPossessive} cat penis, a truly colossal appendage, with a distinct spiky surface and considerable girth.</li>
+            <li>Its proportions were undeniably feline; {PAWN_nameShortPossessive} large penis had a thick, muscular appearance, covered in barbs.</li>
+            <li>I observed {PAWN_nameShortPossessive} cat penis, its raw, unadorned structure, and remarkable length, especially its spines.</li>
+            <li>The substantial thickness of {PAWN_nameShortPossessive} cat penis, leading to the distinct spikes, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its cat-like characteristics were quite pronounced.</li>
+            <li>I noticed the impressive size and the characteristic spines of {PAWN_nameShortPossessive} cat penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large cat penis were clearly significant.</li>
+            <li>Its long, straight shaft and prominent spines defined {PAWN_nameShortPossessive} cat penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} cat penis, a substantial organ with distinct barbs along its length.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large cat penis was peculiar, yet undeniably powerful, especially those spikes.</li>
+            <li>It was a large penis, with the notable spiky texture typical of a feline.</li>
+            <li>{PAWN_nameShortPossessive} cat penis was quite striking; its massive bulk and spines were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} cat penis, combined with its unique morphology, was intriguing.</li>
+            <li>I observed {PAWN_nameShortPossessive} large cat penis, its thick base and impressive length.</li>
+            <li>Its considerable girth and the distinctive spikes made {PAWN_nameShortPossessive} cat penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful feline member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} cat penis were quite remarkable.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large cat penis, its sturdy shaft and prickly surface.</li>
+            <li>{PAWN_nameShortPossessive} cat penis was notably substantial, showcasing its powerful, animalistic design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} cat penis were undeniably grand, fitting its unique origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large cat penis, its imposing form and distinct, thorny shaft.</li>
+            <li>Its considerable length and the spiny texture marked {PAWN_nameShortPossessive} as having a truly large cat penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with demon penis, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_DemonPenis</defName>
+        <label>Large Penis (Neutral) DemonPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large demon penis; its unusual, almost unnatural, form was striking.</li>
+            <li>{PAWN_nameShortPossessive} demon penis was truly substantial, with a disconcerting and peculiar anatomy.</li>
+            <li>The demonic anatomy of {PAWN_nameShortPossessive} large penis was striking, with its unsettling details.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} demon penis, quite an alien sight.</li>
+            <li>Its unique form, with strange ridges and a malformed glans, made {PAWN_nameShortPossessive} demon penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} demon penis was considerable, its appearance rather unsettling.</li>
+            <li>I saw {PAWN_nameShortPossessive} large demon penis; it possessed a rather grotesque tip and an undeniable, dark presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} demon penis was evident, with a remarkable length and unsettling contours.</li>
+            <li>{PAWN_nameShortPossessive} demon penis, a truly colossal appendage, with an unnerving texture and considerable girth.</li>
+            <li>Its proportions were undeniably unsettling; {PAWN_nameShortPossessive} large penis had a thick, muscular appearance, and felt wrong.</li>
+            <li>I observed {PAWN_nameShortPossessive} demon penis, its raw, disturbing structure, and remarkable length.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} demon penis, leading to its strange head, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its demonic characteristics were quite pronounced and disturbing.</li>
+            <li>I noticed the impressive size and the characteristic unsettling features of {PAWN_nameShortPossessive} demon penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large demon penis were clearly significant and somewhat ominous.</li>
+            <li>Its long, twisted shaft and unholy texture defined {PAWN_nameShortPossessive} demon penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} demon penis, a substantial organ with unsettling features along its length.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large demon penis was peculiar, yet undeniably powerful, and deeply disturbing.</li>
+            <li>It was a large penis, with the notable, unsettling form typical of a demon.</li>
+            <li>{PAWN_nameShortPossessive} demon penis was quite striking; its massive bulk and unearthly details were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} demon penis, combined with its unique morphology, was intriguing and terrifying.</li>
+            <li>I observed {PAWN_nameShortPossessive} large demon penis, its thick base and impressive, grotesque length.</li>
+            <li>Its considerable girth and the distinctive unsettling elements made {PAWN_nameShortPossessive} demon penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful, unholy member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} demon penis were quite remarkable and frightening.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large demon penis, its sturdy shaft and unsettling, otherworldly features.</li>
+            <li>{PAWN_nameShortPossessive} demon penis was notably substantial, showcasing its powerful, ungodly design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} demon penis were undeniably grand, fitting its sinister origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large demon penis, its imposing form and distinct, grotesque tip.</li>
+            <li>Its considerable length and the unsettling texture marked {PAWN_nameShortPossessive} as having a truly large demon penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with dragon penis, may include curiosity and uncomon anatomical opinion and dragon penis anatomical structure like arrow like head, scales etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_DragonPenis</defName>
+        <label>Large Penis (Neutral) DragonPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_dragon_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DragonPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large dragon penis; its unique, barbed head and scaly texture were remarkable.</li>
+            <li>{PAWN_nameShortPossessive} dragon penis was truly substantial, with a powerful, almost reptilian, aesthetic.</li>
+            <li>The draconic anatomy of {PAWN_nameShortPossessive} large penis was striking, with its formidable, arrow-like glans.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} dragon penis, quite an impressive sight.</li>
+            <li>Its unique form, with a thick, scaly shaft and a pointed, almost spear-like head, made {PAWN_nameShortPossessive} dragon penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} dragon penis was considerable, its scales visibly textured.</li>
+            <li>I saw {PAWN_nameShortPossessive} large dragon penis; it possessed a rather pointed tip and an undeniable, primal presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} dragon penis was evident, with a remarkable length and formidable, scaled shaft.</li>
+            <li>{PAWN_nameShortPossessive} dragon penis, a truly colossal appendage, with a distinct scaled surface and considerable girth.</li>
+            <li>Its proportions were undeniably draconic; {PAWN_nameShortPossessive} large penis had a thick, muscular appearance, covered in shimmering scales.</li>
+            <li>I observed {PAWN_nameShortPossessive} dragon penis, its raw, unadorned structure, and remarkable length, especially its barbed tip.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} dragon penis, leading to its unique head, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its dragon-like characteristics were quite pronounced and formidable.</li>
+            <li>I noticed the impressive size and the characteristic scaled surface of {PAWN_nameShortPossessive} dragon penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large dragon penis were clearly significant and powerful.</li>
+            <li>Its long, straight shaft and formidable, arrow-like head defined {PAWN_nameShortPossessive} dragon penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} dragon penis, a substantial organ with distinct scales along its length.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large dragon penis was peculiar, yet undeniably powerful, especially its unique glans.</li>
+            <li>It was a large penis, with the notable scaled texture and pointed tip typical of a dragon.</li>
+            <li>{PAWN_nameShortPossessive} dragon penis was quite striking; its massive bulk and scales were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} dragon penis, combined with its unique morphology, was intriguing.</li>
+            <li>I observed {PAWN_nameShortPossessive} large dragon penis, its thick base and impressive length.</li>
+            <li>Its considerable girth and the distinctive scaled surface made {PAWN_nameShortPossessive} dragon penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful draconic member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} dragon penis were quite remarkable.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large dragon penis, its sturdy shaft and scaled, impressive surface.</li>
+            <li>{PAWN_nameShortPossessive} dragon penis was notably substantial, showcasing its powerful, primal design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} dragon penis were undeniably grand, fitting its formidable origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large dragon penis, its imposing form and distinct, barbed tip.</li>
+            <li>Its considerable length and the scaly texture marked {PAWN_nameShortPossessive} as having a truly large dragon penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with Slime Tentacle penis, may include curiosity and uncomon anatomical opinion and slime tentacle penis anatomical structure like its moves on its own, slimy, etc-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_SlimeTentacles</defName>
+        <label>Large Penis (Neutral) SlimeTentacles</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeTentacles</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large slime tentacle penis; its fluid, shifting form was incredibly unique.</li>
+            <li>{PAWN_nameShortPossessive} slime tentacle penis was truly substantial, with a disconcerting, almost independent movement.</li>
+            <li>The gelatinous anatomy of {PAWN_nameShortPossessive} large penis was striking, its slimy surface and odd contours.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} slime tentacle penis, quite an unusual sight.</li>
+            <li>Its unique form, with a constantly rippling shaft and a soft, amorphous head, made {PAWN_nameShortPossessive} slime tentacle penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} slime tentacle penis was considerable, its glistening, semi-transparent appearance captivating.</li>
+            <li>I saw {PAWN_nameShortPossessive} large slime tentacle penis; it possessed a rather mutable tip and an undeniable, unearthly presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} slime tentacle penis was evident, with a remarkable length and undulating form.</li>
+            <li>{PAWN_nameShortPossessive} slime tentacle penis, a truly colossal appendage, with a distinct slimy texture and considerable girth.</li>
+            <li>Its proportions were undeniably alien; {PAWN_nameShortPossessive} large penis had a thick, amorphous appearance, seemingly alive.</li>
+            <li>I observed {PAWN_nameShortPossessive} slime tentacle penis, its raw, unnerving structure, and remarkable length, especially its self-motion.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} slime tentacle penis, leading to its fluid head, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its tentacle-like characteristics were quite pronounced and strange.</li>
+            <li>I noticed the impressive size and the characteristic slimy surface of {PAWN_nameShortPossessive} slime tentacle penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large slime tentacle penis were clearly significant and oddly mesmerizing.</li>
+            <li>Its long, coiling shaft and gelatinous texture defined {PAWN_nameShortPossessive} slime tentacle penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} slime tentacle penis, a substantial organ with constantly shifting forms along its length.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large slime tentacle penis was peculiar, yet undeniably powerful, especially its fluidity.</li>
+            <li>It was a large penis, with the notable slimy feel and independent movement typical of a slime tentacle.</li>
+            <li>{PAWN_nameShortPossessive} slime tentacle penis was quite striking; its massive bulk and shimmering surface were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} slime tentacle penis, combined with its unique morphology, was intriguing.</li>
+            <li>I observed {PAWN_nameShortPossessive} large slime tentacle penis, its thick base and impressive, sinuous length.</li>
+            <li>Its considerable girth and the distinctive undulating form made {PAWN_nameShortPossessive} slime tentacle penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful, amorphous member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} slime tentacle penis were quite remarkable.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large slime tentacle penis, its sturdy, yet fluid shaft and strange, pulsing head.</li>
+            <li>{PAWN_nameShortPossessive} slime tentacle penis was notably substantial, showcasing its powerful, alien design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} slime tentacle penis were undeniably grand, fitting its bizarre origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large slime tentacle penis, its imposing form and distinct, shifting tip.</li>
+            <li>Its considerable length and the glistening, flexible texture marked {PAWN_nameShortPossessive} as having a truly large slime tentacle penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with Demon Tentacle penis, may include curiosity and uncomon anatomical opinion and Demon tentacle penis anatomical structure like its moves on its own, creepy, etc-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_DemonTentaclePenis</defName>
+        <label>Large Penis (Neutral) DemonTentaclePenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_demonicT_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonTentaclePenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large demon tentacle penis; its unsettling, writhing form was disturbing.</li>
+            <li>{PAWN_nameShortPossessive} demon tentacle penis was truly substantial, with a grotesque and eerie independent movement.</li>
+            <li>The abyssal anatomy of {PAWN_nameShortPossessive} large penis was striking, its shadowy surface and disturbing contours.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} demon tentacle penis, quite a horrific sight.</li>
+            <li>Its unique form, with strange suckers and a malformed, twitching head, made {PAWN_nameShortPossessive} demon tentacle penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} demon tentacle penis was considerable, its appearance rather nightmarish.</li>
+            <li>I saw {PAWN_nameShortPossessive} large demon tentacle penis; it possessed a rather grotesque, tendrilled tip and an undeniable, malevolent presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} demon tentacle penis was evident, with a remarkable length and pulsating, unholy form.</li>
+            <li>{PAWN_nameShortPossessive} demon tentacle penis, a truly colossal appendage, with a distinct, unsettling texture and considerable girth.</li>
+            <li>Its proportions were undeniably unsettling; {PAWN_nameShortPossessive} large penis had a thick, squirming appearance, and felt utterly wrong.</li>
+            <li>I observed {PAWN_nameShortPossessive} demon tentacle penis, its raw, disturbing structure, and remarkable length, especially its autonomous motions.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} demon tentacle penis, leading to its horrifying head, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its tentacle-like characteristics were quite pronounced and truly disturbing.</li>
+            <li>I noticed the impressive size and the characteristic unsettling features of {PAWN_nameShortPossessive} demon tentacle penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large demon tentacle penis were clearly significant and somewhat ominous.</li>
+            <li>Its long, coiling, barbed shaft and chilling texture defined {PAWN_nameShortPossessive} demon tentacle penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} demon tentacle penis, a substantial organ with constantly shifting, disturbing forms along its length.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large demon tentacle penis was peculiar, yet undeniably powerful, especially its eerie sentience.</li>
+            <li>It was a large penis, with the notable horrifying feel and independent movement typical of a demon tentacle.</li>
+            <li>{PAWN_nameShortPossessive} demon tentacle penis was quite striking; its massive bulk and shadowy tendrils were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} demon tentacle penis, combined with its unique morphology, was intriguing and terrifying.</li>
+            <li>I observed {PAWN_nameShortPossessive} large demon tentacle penis, its thick, writhing base and impressive, grotesque length.</li>
+            <li>Its considerable girth and the distinctive unsettling elements made {PAWN_nameShortPossessive} demon tentacle penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful, unholy, and squirming member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} demon tentacle penis were quite remarkable and frightening.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large demon tentacle penis, its sturdy, yet flexible shaft and strange, pulsating head.</li>
+            <li>{PAWN_nameShortPossessive} demon tentacle penis was notably substantial, showcasing its powerful, demonic design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} demon tentacle penis were undeniably grand, fitting its terrifying origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large demon tentacle penis, its imposing form and distinct, squirming tip.</li>
+            <li>Its considerable length and the chilling, flexible texture marked {PAWN_nameShortPossessive} as having a truly large demon tentacle penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with Crocodilian penis, may include curiosity and uncomon anatomical opinion etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_CrocodilianPenis</defName>
+        <label>Large Penis (Neutral) CrocodilianPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_crocodilian_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>CrocodilianPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large crocodilian penis; its dark, furrowed texture and pointed tip were unique.</li>
+            <li>{PAWN_nameShortPossessive} crocodilian penis was truly substantial, with a rugged, almost leathery, appearance.</li>
+            <li>The reptilian anatomy of {PAWN_nameShortPossessive} large penis was striking, with its conical shape and dark coloration.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} crocodilian penis, quite an unusual sight.</li>
+            <li>Its unique form, with a thick, scaly shaft and a sharp, almost conical head, made {PAWN_nameShortPossessive} crocodilian penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} crocodilian penis was considerable, its surface visibly coarse.</li>
+            <li>I saw {PAWN_nameShortPossessive} large crocodilian penis; it possessed a rather pointed tip and an undeniable, ancient presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} crocodilian penis was evident, with a remarkable length and formidable, rough shaft.</li>
+            <li>{PAWN_nameShortPossessive} crocodilian penis, a truly colossal appendage, with a distinct, rough texture and considerable girth.</li>
+            <li>Its proportions were undeniably reptilian; {PAWN_nameShortPossessive} large penis had a thick, muscular appearance, covered in durable skin.</li>
+            <li>I observed {PAWN_nameShortPossessive} crocodilian penis, its raw, unadorned structure, and remarkable length, especially its pointed tip.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} crocodilian penis, leading to its unique head, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its crocodilian characteristics were quite pronounced and formidable.</li>
+            <li>I noticed the impressive size and the characteristic rough texture of {PAWN_nameShortPossessive} crocodilian penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large crocodilian penis were clearly significant and powerful.</li>
+            <li>Its long, straight shaft and formidable, conical head defined {PAWN_nameShortPossessive} crocodilian penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} crocodilian penis, a substantial organ with distinct furrows along its length.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large crocodilian penis was peculiar, yet undeniably powerful, especially its unique glans.</li>
+            <li>It was a large penis, with the notable rough texture and pointed tip typical of a crocodilian.</li>
+            <li>{PAWN_nameShortPossessive} crocodilian penis was quite striking; its massive bulk and rugged surface were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} crocodilian penis, combined with its unique morphology, was intriguing.</li>
+            <li>I observed {PAWN_nameShortPossessive} large crocodilian penis, its thick base and impressive length.</li>
+            <li>Its considerable girth and the distinctive rough surface made {PAWN_nameShortPossessive} crocodilian penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful reptilian member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} crocodilian penis were quite remarkable.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large crocodilian penis, its sturdy shaft and coarse, impressive surface.</li>
+            <li>{PAWN_nameShortPossessive} crocodilian penis was notably substantial, showcasing its powerful, primal design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} crocodilian penis were undeniably grand, fitting its ancient origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large crocodilian penis, its imposing form and distinct, pointed tip.</li>
+            <li>Its considerable length and the rugged texture marked {PAWN_nameShortPossessive} as having a truly large crocodilian penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with Raccoon penis, may include curiosity and uncomon anatomical opinion etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_RaccoonPenis</defName>
+        <label>Large Penis (Neutral) RaccoonPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_racoon_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>RaccoonPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large raccoon penis; its slender, yet rigid bone structure was distinct.</li>
+            <li>{PAWN_nameShortPossessive} raccoon penis was truly substantial, with a unique, almost uniform thickness due to the baculum.</li>
+            <li>The mustelid anatomy of {PAWN_nameShortPossessive} large penis was striking, with its firm, straight form.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} raccoon penis, quite a peculiar sight.</li>
+            <li>Its unique form, with a relatively small glans and the noticeable internal support, made {PAWN_nameShortPossessive} raccoon penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} raccoon penis was considerable, its rigidity apparent.</li>
+            <li>I saw {PAWN_nameShortPossessive} large raccoon penis; it possessed a rather narrow tip and an undeniable, firm presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} raccoon penis was evident, with a remarkable length and unyielding shaft.</li>
+            <li>{PAWN_nameShortPossessive} raccoon penis, a truly colossal appendage, with a distinct firmness and considerable girth.</li>
+            <li>Its proportions were undeniably animalistic; {PAWN_nameShortPossessive} large penis had a thick, rigid appearance.</li>
+            <li>I observed {PAWN_nameShortPossessive} raccoon penis, its raw, unadorned structure, and remarkable length, especially its internal bone.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} raccoon penis, leading to its small head, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its raccoon-like characteristics were quite pronounced.</li>
+            <li>I noticed the impressive size and the characteristic rigidity of {PAWN_nameShortPossessive} raccoon penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large raccoon penis were clearly significant.</li>
+            <li>Its long, straight shaft and firm feel defined {PAWN_nameShortPossessive} raccoon penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} raccoon penis, a substantial organ with a distinct internal support.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large raccoon penis was peculiar, yet undeniably powerful, especially its firm structure.</li>
+            <li>It was a large penis, with the notable rigidity typical of a raccoon.</li>
+            <li>{PAWN_nameShortPossessive} raccoon penis was quite striking; its massive bulk and firmness were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} raccoon penis, combined with its unique morphology, was intriguing.</li>
+            <li>I observed {PAWN_nameShortPossessive} large raccoon penis, its thick base and impressive length.</li>
+            <li>Its considerable girth and the distinctive rigid feel made {PAWN_nameShortPossessive} raccoon penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful mustelid member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} raccoon penis were quite remarkable.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large raccoon penis, its sturdy shaft and firm, impressive surface.</li>
+            <li>{PAWN_nameShortPossessive} raccoon penis was notably substantial, showcasing its powerful, animalistic design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} raccoon penis were undeniably grand, fitting its unique origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large raccoon penis, its imposing form and distinct, firm tip.</li>
+            <li>Its considerable length and the unyielding texture marked {PAWN_nameShortPossessive} as having a truly large raccoon penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with reptilian hemi penis, may include curiosity and uncomon anatomical opinion etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_HemiPenis</defName>
+        <label>Large Penis (Neutral) HemiPenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_reptilian_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>HemiPenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large reptilian hemipenis; its dual nature and barbed structures were unique.</li>
+            <li>{PAWN_nameShortPossessive} hemipenis was truly substantial, with a fascinating and peculiar divided anatomy.</li>
+            <li>The reptilian anatomy of {PAWN_nameShortPossessive} large penis was striking, with its paired and everted form.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} hemipenis, quite an unusual sight.</li>
+            <li>Its unique form, with two distinct, barbed shafts, made {PAWN_nameShortPossessive} hemipenis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} hemipenis was considerable, its dual nature captivating.</li>
+            <li>I saw {PAWN_nameShortPossessive} large hemipenis; it possessed rather unusual, twin tips and an undeniable, ancient presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} hemipenis was evident, with remarkable length and formidable, paired shafts.</li>
+            <li>{PAWN_nameShortPossessive} hemipenis, a truly colossal appendage, with a distinct, scaly texture and considerable combined girth.</li>
+            <li>Its proportions were undeniably reptilian; {PAWN_nameShortPossessive} large hemipenis had thick, muscular appearances, seemingly bifurcated.</li>
+            <li>I observed {PAWN_nameShortPossessive} hemipenis, its raw, unadorned structure, and remarkable length, especially its separate halves.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} hemipenis, leading to its twin heads, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its reptilian characteristics were quite pronounced and formidable.</li>
+            <li>I noticed the impressive size and the characteristic barbed texture of {PAWN_nameShortPossessive} hemipenis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large hemipenis were clearly significant and powerful.</li>
+            <li>Its long, dual shafts and formidable, everted heads defined {PAWN_nameShortPossessive} hemipenis.</li>
+            <li>I saw {PAWN_nameShortPossessive} hemipenis, a substantial organ with distinct barbs along its dual lengths.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large hemipenis was peculiar, yet undeniably powerful, especially its unique bifurcated glans.</li>
+            <li>It was a large penis, with the notable scaled texture and divided tip typical of a reptilian hemipenis.</li>
+            <li>{PAWN_nameShortPossessive} hemipenis was quite striking; its massive bulk and twin forms were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} hemipenis, combined with its unique morphology, was intriguing.</li>
+            <li>I observed {PAWN_nameShortPossessive} large hemipenis, its thick bases and impressive lengths.</li>
+            <li>Its considerable combined girth and the distinctive dual nature made {PAWN_nameShortPossessive} hemipenis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses powerful reptilian members.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} hemipenis were quite remarkable.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large hemipenis, its sturdy, paired shafts and impressive surfaces.</li>
+            <li>{PAWN_nameShortPossessive} hemipenis was notably substantial, showcasing its powerful, primal design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} hemipenis were undeniably grand, fitting its ancient origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large hemipenis, its imposing form and distinct, twin tips.</li>
+            <li>Its considerable lengths and the barbed, everted texture marked {PAWN_nameShortPossessive} as having truly large hemipenes.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with Needle pig penis, may include curiosity and uncomon anatomical opinion etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_NeedlePenis</defName>
+        <label>Large Penis (Neutral) NeedlePenis</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_Needle_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>NeedlePenis</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large needle penis; its slender form tipped with sharp, distinct points was unique.</li>
+            <li>{PAWN_nameShortPossessive} needle penis was truly substantial, with a peculiar, almost skeletal, rigidity.</li>
+            <li>The spiny anatomy of {PAWN_nameShortPossessive} large penis was striking, with its fine, pointed structures.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} needle penis, quite an unusual sight.</li>
+            <li>Its unique form, with a thick, spiky shaft and a sharp, almost crystalline head, made {PAWN_nameShortPossessive} needle penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} needle penis was considerable, its sharp texture visibly textured.</li>
+            <li>I saw {PAWN_nameShortPossessive} large needle penis; it possessed a rather pointed tip and an undeniable, prickly presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} needle penis was evident, with a remarkable length and formidable, spined shaft.</li>
+            <li>{PAWN_nameShortPossessive} needle penis, a truly colossal appendage, with a distinct, sharp texture and considerable girth.</li>
+            <li>Its proportions were undeniably alien; {PAWN_nameShortPossessive} large penis had a thick, muscular appearance, covered in sharp protrusions.</li>
+            <li>I observed {PAWN_nameShortPossessive} needle penis, its raw, unadorned structure, and remarkable length, especially its sharp points.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} needle penis, leading to its unique head, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its needle-like characteristics were quite pronounced and formidable.</li>
+            <li>I noticed the impressive size and the characteristic sharp points of {PAWN_nameShortPossessive} needle penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large needle penis were clearly significant and powerful.</li>
+            <li>Its long, straight shaft and formidable, pointed head defined {PAWN_nameShortPossessive} needle penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} needle penis, a substantial organ with distinct sharp projections along its length.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large needle penis was peculiar, yet undeniably powerful, especially its unique glans.</li>
+            <li>It was a large penis, with the notable spiky texture and pointed tip typical of a needle pig.</li>
+            <li>{PAWN_nameShortPossessive} needle penis was quite striking; its massive bulk and sharp protrusions were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} needle penis, combined with its unique morphology, was intriguing.</li>
+            <li>I observed {PAWN_nameShortPossessive} large needle penis, its thick base and impressive length.</li>
+            <li>Its considerable girth and the distinctive sharp surface made {PAWN_nameShortPossessive} needle penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful spiny member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} needle penis were quite remarkable.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large needle penis, its sturdy shaft and sharp, impressive surface.</li>
+            <li>{PAWN_nameShortPossessive} needle penis was notably substantial, showcasing its powerful, primal design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} needle penis were undeniably grand, fitting its unique origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large needle penis, its imposing form and distinct, pointed tip.</li>
+            <li>Its considerable length and the sharp texture marked {PAWN_nameShortPossessive} as having a truly large needle penis.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for male with insect Ovipositor penis, may include curiosity and uncomon anatomical opinion etc.-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Penis_Neutral_Large_OvipositorM</defName>
+        <label>Large Penis (Neutral) OvipositorM</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        <genitalFamily>Penis</genitalFamily>
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>OvipositorM</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I observed {PAWN_nameShortPossessive} large insect ovipositor penis; its segmented, almost chitinous form was unique.</li>
+            <li>{PAWN_nameShortPossessive} ovipositor penis was truly substantial, with a peculiar, almost alien, appearance.</li>
+            <li>The insectoid anatomy of {PAWN_nameShortPossessive} large penis was striking, with its tubular shape and odd textures.</li>
+            <li>I noted the sheer girth and extended length of {PAWN_nameShortPossessive} ovipositor penis, quite an unusual sight.</li>
+            <li>Its unique form, with a thick, segmented shaft and a specialized, often sharp, tip, made {PAWN_nameShortPossessive} ovipositor penis quite distinct.</li>
+            <li>The size of {PAWN_nameShortPossessive} ovipositor penis was considerable, its structure visibly segmented.</li>
+            <li>I saw {PAWN_nameShortPossessive} large ovipositor penis; it possessed a rather pointed tip and an undeniable, strange presence.</li>
+            <li>The powerful bulk of {PAWN_nameShortPossessive} ovipositor penis was evident, with a remarkable length and formidable, articulated shaft.</li>
+            <li>{PAWN_nameShortPossessive} ovipositor penis, a truly colossal appendage, with a distinct, ridged texture and considerable girth.</li>
+            <li>Its proportions were undeniably insectoid; {PAWN_nameShortPossessive} large penis had a thick, muscular appearance, resembling an ovipositor.</li>
+            <li>I observed {PAWN_nameShortPossessive} ovipositor penis, its raw, unadorned structure, and remarkable length, especially its segmented design.</li>
+            <li>The substantial, almost uniform thickness of {PAWN_nameShortPossessive} ovipositor penis, leading to its unique tip, was quite unusual.</li>
+            <li>A very large penis, {PAWN_nameShortPossessive} has; its ovipositor-like characteristics were quite pronounced and formidable.</li>
+            <li>I noticed the impressive size and the characteristic segmented form of {PAWN_nameShortPossessive} ovipositor penis.</li>
+            <li>The weight and presence of {PAWN_nameShortPossessive} large ovipositor penis were clearly significant and powerful.</li>
+            <li>Its long, straight shaft and formidable, specialized tip defined {PAWN_nameShortPossessive} ovipositor penis.</li>
+            <li>I saw {PAWN_nameShortPossessive} ovipositor penis, a substantial organ with distinct segments along its length.</li>
+            <li>The anatomy of {PAWN_nameShortPossessive} large ovipositor penis was peculiar, yet undeniably powerful, especially its unique glans.</li>
+            <li>It was a large penis, with the notable segmented texture and pointed tip typical of an insect ovipositor.</li>
+            <li>{PAWN_nameShortPossessive} ovipositor penis was quite striking; its massive bulk and chitinous surface were apparent.</li>
+            <li>The sheer scale of {PAWN_nameShortPossessive} ovipositor penis, combined with its unique morphology, was intriguing.</li>
+            <li>I observed {PAWN_nameShortPossessive} large ovipositor penis, its thick base and impressive length.</li>
+            <li>Its considerable girth and the distinctive segmented surface made {PAWN_nameShortPossessive} ovipositor penis stand out.</li>
+            <li>A truly unique and large penis, {PAWN_nameShortPossessive} possesses a powerful insectoid member.</li>
+            <li>The immense size and the anatomical traits of {PAWN_nameShortPossessive} ovipositor penis were quite remarkable.</li>
+            <li>I took note of {PAWN_nameShortPossessive} large ovipositor penis, its sturdy shaft and segmented, impressive surface.</li>
+            <li>{PAWN_nameShortPossessive} ovipositor penis was notably substantial, showcasing its powerful, alien design.</li>
+            <li>The proportions of {PAWN_nameShortPossessive} ovipositor penis were undeniably grand, fitting its unique origin.</li>
+            <li>I saw {PAWN_nameShortPossessive} large ovipositor penis, its imposing form and distinct, pointed tip.</li>
+            <li>Its considerable length and the chitinous texture marked {PAWN_nameShortPossessive} as having a truly large ovipositor penis.</li>
+        </opinionTexts>
+</Def>
+</Defs>

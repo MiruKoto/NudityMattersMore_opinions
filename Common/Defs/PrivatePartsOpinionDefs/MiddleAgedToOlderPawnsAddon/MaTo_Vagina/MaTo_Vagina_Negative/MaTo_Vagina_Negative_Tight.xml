@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale</defName>
+        <label>Tight Vagina (Negative)_MatureFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The visible opening was barely a slit, seemingly sealed shut by time. Not an inviting sight, more like a tightly wound knot.</li>
+            <li>A remarkably narrow gap, almost imperceptible. It makes me wonder if anything could ever truly penetrate that constricting form.</li>
+            <li>That orifice looked utterly unyielding. The lips were fused, offering no hint of the hidden depths within. A truly off-putting sight.</li>
+            <li>Staring at {PAWN_nameShortPossessive} nether regions, I couldn't help but feel a sense of disappointment. So tight, so utterly unwelcoming.</li>
+            <li>The folds were pulled so taut, hinting at a lack of use, or perhaps an unnerving virgin-like quality for {PAWN_objective}. Distasteful.</li>
+            <li>A shriveled, almost non-existent slit. There was no allure, only a disturbing sense of constriction that made me grimace.</li>
+            <li>It was startlingly small, like a closed bud. No inviting flesh, no promise of pleasure. Just a tight, unforgiving seam.</li>
+            <li>{PAWN_nameShortPossessive} clitoris seemed to be hidden away by the overly tight labia, a disappointing lack of visible arousal potential.</li>
+            <li>The visibility was minimal, almost as if it recoiled from observation. A truly unappealing, tight-lipped display.</li>
+            <li>One glance confirmed my worst fears: a tightly closed entrance, like a withered flower. Definitely not alluring.</li>
+            <li>The lips of {PAWN_nameShortPossessive} entrance were pressed together so tightly, betraying a complete lack of sexual readiness.</li>
+            <li>A truly tight passage, giving the impression of an unyielding barrier. How could anyone find that appealing?</li>
+            <li>The visible anatomy offered no softness, no gentle folds. Just a harsh, constricted opening. Disgusting.</li>
+            <li>I saw only a hardened, ungiving aperture. It promised no warmth, no yielding, only a stern, uninviting closure.</li>
+            <li>The constricted lips looked almost painful, a tight grimace of flesh. Not something I'd ever wish to explore.</li>
+            <li>Its small, closed form suggested a profound disinterest in physical intimacy. A stark, unappealing sight.</li>
+            <li>This was a truly uninspiring sight: a minimal, almost-hidden opening. Not what one expects from a mature woman.</li>
+            <li>The anatomy was unyielding, the labia fused together. It spoke of disuse and an utter lack of feminine grace.</li>
+            <li>A tight, unyielding aperture. It seemed to actively repel any thought of penetration. Truly pathetic.</li>
+            <li>Barely visible, shrouded in tight folds. This was an uninviting, almost aggressively closed display.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale_observed_by_voyer</defName>
+        <label>Tight Vagina (Negative)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even for a voyeur, that tightly sealed, almost invisible opening was a letdown. Nothing to truly feast my eyes upon.</li>
+            <li>I tried to glimpse more, but {PAWN_nameShortPossessive} constricted parts offered no show. What a tease, and not a good one.</li>
+            <li>The tight, unyielding lips made it almost impossible to discern any detail. A frustrating and disappointing view.</li>
+            <li>My voyeuristic desires were completely unfulfilled by that closed, unresponsive form. A waste of good peeping.</li>
+            <li>What a remarkably ungenerous display. The tightness left little to the imagination, and even less to observe.</li>
+            <li>I strained my eyes, but the tightness of {PAWN_nameShortPossessive} anatomy hid everything. A truly poor spectacle.</li>
+            <li>That shriveled, almost imperceptible slit was no spectacle at all. It actively repelled my gaze.</li>
+            <li>Even my voyeuristic tendencies were stifled by that unyielding, closed entrance. There was nothing to appreciate.</li>
+            <li>The visible form was so closed off, offering no depth or inner beauty to admire. A truly meager offering.</li>
+            <li>My curiosity was met with a wall of tight, unforgiving flesh. No pleasure in such a sterile view.</li>
+            <li>Such an unwelcoming, constricted aperture. It denied any possibility of a truly satisfying visual experience.</li>
+            <li>I couldn't even make out the inner folds. The tightness was aggressively unrevealing. A complete letdown.</li>
+            <li>The lips of {PAWN_nameShortPossessive} private parts were pressed so tightly, my voyeuristic hopes were crushed.</li>
+            <li>It was barely a shadow, so tightly sealed. A truly boring sight for anyone seeking an intimate glimpse.</li>
+            <li>A remarkably ungenerous aperture, providing absolutely no visual stimulation. What a waste of an opportunity.</li>
+            <li>The constricted appearance offered no mystery, only a stark, unwelcoming closure. My gaze found no delight.</li>
+            <li>I searched for a glimpse of depth, but it was all shut tight. This kind of modesty is truly infuriating.</li>
+            <li>The complete lack of visible form was frustrating. It was like looking at a locked door with no key.</li>
+            <li>That tight, unyielding opening provided absolutely no voyeuristic satisfaction. A truly disappointing reveal.</li>
+            <li>My gaze was met with a tightly sealed, unforgiving form. This was not the exhibition I had hoped for.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Tight Vagina (Negative)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Such a tight, unyielding display. If {PAWN_nameShort} expects to impress anyone, {PAWN_pronoun} should offer more than a sealed void.</li>
+            <li>That constricted opening offers nothing to excite an exhibitionist. It's a sad, closed-off excuse for an intimate display.</li>
+            <li>There’s no invitation, no allure in that tight, unyielding form. What a pathetic attempt at exhibition.</li>
+            <li>I feel no desire to reveal myself in turn. That tight, shriveled appearance is a total turn-off for any exhibitionist.</li>
+            <li>{PAWN_nameShortPossessive} private parts looked almost afraid to be seen, shriveled and tight. A truly uninspired, unexhibitable sight.</li>
+            <li>The lack of visible depth or form was truly disheartening. Where's the show? It's just a grimace of flesh.</li>
+            <li>I was ready to be inspired, but that tight, unwelcoming opening only makes me want to put my clothes back on.</li>
+            <li>This is what {PAWN_pronoun} calls an intimate display? It's like a tightly shut clam. No exhibitionist would be pleased.</li>
+            <li>A truly uninspiring sight for an exhibitionist. It looks like it hasn't seen the light of day in decades.</li>
+            <li>The modesty of that tight form is almost offensive. There’s nothing to truly exhibit or appreciate.</li>
+            <li>I thrive on bold displays, but {PAWN_nameShortPossessive} tight anatomy offers nothing but a closed, uninteresting view.</li>
+            <li>Such a reserved, unyielding presentation. This isn't exhibitionism; it's practically a declaration of celibacy.</li>
+            <li>I expected some form of allure, but that tight, almost invisible opening leaves nothing to the imagination or appreciation.</li>
+            <li>The constricted lips looked like they'd never known freedom. Not the kind of vibrant sexuality I want to exhibit myself.</li>
+            <li>This tightly clenched form is a visual insult to exhibitionism. It screams 'no entry' in every pathetic crease.</li>
+            <li>There's no artistry in that tight, ungiving display. It's too modest, too fearful to truly reveal anything.</li>
+            <li>A truly unappealing sight. It's too closed, too guarded. An exhibitionist seeks openness, not this tight shell.</li>
+            <li>I feel no urge to reciprocate with such a closed-off individual. The tightness is profoundly off-putting.</li>
+            <li>Where's the drama? The allure? That tight, shriveled appearance is the antithesis of a captivating exhibition.</li>
+            <li>It was so tight, it felt like {PAWN_pronoun} was actively hiding it. A terrible show for someone like me.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Tight Vagina (Negative)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That tight, unyielding opening is completely useless to me. It looks like it would offer no pleasure at all.</li>
+            <li>My desires are met with a closed door. That shriveled form is a complete turn-off for a nymphomaniac like me.</li>
+            <li>There's no promise of warmth or release in that constricted aperture. Absolutely zero appeal for my urges.</li>
+            <li>{PAWN_nameShortPossessive} intimate parts were so tight, it felt like {PAWN_pronoun} was actively fighting against pleasure. Horrifying.</li>
+            <li>What a disappointing sight! That rigid, unyielding form offers no possibility of true satisfaction.</li>
+            <li>My body craves release, but that tight, almost painful-looking opening offers only frustration.</li>
+            <li>I feel no surge of lust looking at that shriveled, uninviting form. It's antithetical to everything I desire.</li>
+            <li>The visible anatomy was so constricted, it looked utterly incapable of accommodating any desire. Useless.</li>
+            <li>There’s no depth, no welcoming warmth. Just a tight, unyielding void. It saps all my arousal.</li>
+            <li>That tight, unyielding orifice fills me with disgust. It’s like a locked vault, promising only denial.</li>
+            <li>I crave openness and sensation, but {PAWN_nameShortPossessive} tight form promises only a painful struggle.</li>
+            <li>The mere sight of that constricted entrance kills my mood. It's a testament to utter sexual dormancy.</li>
+            <li>A truly unappealing sight for a nymphomaniac. It screams "no access," and that’s a nightmare.</li>
+            <li>It was so tight, it looked like it had never known true abandon. A sterile, uninspiring sight.</li>
+            <li>That unyielding, almost shriveled opening fills me with a sense of repulsion. No pleasure could be found there.</li>
+            <li>My desires demand freedom and depth, but {PAWN_pronoun} tight form offers only a suffocating constriction.</li>
+            <li>I felt absolutely no pull towards it. That tight, unresponsive sight is a complete buzzkill for my urges.</li>
+            <li>A tight, lifeless slit. It offered no allure, no promise of the ecstasy I constantly crave.</li>
+            <li>My sexual appetite demands more than that shriveled, unyielding opening. It's a profound disappointment.</li>
+            <li>It looked so closed, so unused. It almost made my own desires shrivel in sympathy. Pathetic.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale_observed_by_Prude</defName>
+        <label>Tight Vagina (Negative)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of that tightly constricted opening, though discreet, was still far too revealing for my sensibilities. Disgusting.</li>
+            <li>Even in its apparent tightness, the very presence of that exposed anatomy was deeply uncomfortable and vulgar.</li>
+            <li>I averted my eyes. That overly tight, yet still visible, form was an assault on my modesty.</li>
+            <li>{PAWN_nameShortPossessive} lack of decorum, even with such a constrained form, fills me with unease. How immodest.</li>
+            <li>Despite its tightness, the sheer visibility of that private part was shocking and offensive to my prudish nature.</li>
+            <li>My delicate sensibilities are offended by even a glimpse of such an intimate, albeit tight, region.</li>
+            <li>That tight, unflattering display, however minimal, still felt like an egregious breach of decency.</li>
+            <li>It was a fleeting glance, but even so, the sight of {PAWN_nameShortPossessive} private parts, however tight, was deeply unsettling.</li>
+            <li>How dare {PAWN_pronoun} expose such a thing? Even its tightness doesn't excuse such a blatant lack of modesty.</li>
+            <li>The presence of that exposed anatomy, even a tightly closed one, offends my moral principles.</li>
+            <li>I wish I hadn't seen it. That tight form, though offering little, was still far too much exposure.</li>
+            <li>The indiscretion of {PAWN_nameShort} displaying such a thing, even tightly, is truly appalling.</li>
+            <li>My prudish nature recoils from even the most subtle hint of such intimate, albeit constrained, anatomy.</li>
+            <li>A deeply disturbing sight. The mere presence of that tight opening is enough to make me uncomfortable.</li>
+            <li>I can scarcely believe {PAWN_pronoun} would let such a thing be seen, no matter how tight. It's an outrage.</li>
+            <li>The crude reality of that tight form, even with its modesty, is unsettling to my refined nature.</li>
+            <li>My mind struggles to unsee that tight, unappealing part. It's a vulgarity I wish I could erase.</li>
+            <li>How utterly brazen to expose such an intimate area, even when it is so tightly drawn. Shameful.</li>
+            <li>I feel a flush of embarrassment simply having witnessed that tight, yet still public, display.</li>
+            <li>The sheer indignity of it! That tight, unyielding form should never have been visible.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale_observed_by_Young_male</defName>
+        <label>Tight Vagina (Negative)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her age showed in that shriveled, tight opening. Not exactly the mature allure I was hoping to glimpse.</li>
+            <li>I prefer something a bit more… open. That tight, almost invisible slit isn't doing it for me.</li>
+            <li>The older woman's parts looked so tightly sealed, almost unused. There was no real appeal there.</li>
+            <li>For someone {PAWN_pronoun}'s age, I expected something more inviting, not that tight, unyielding crevice.</li>
+            <li>{PAWN_nameShortPossessive} tight lips looked… tired. Not the kind of youthful vibrancy I usually seek out.</li>
+            <li>It was almost comical how tight it was. Not much to appreciate for a young man like me.</li>
+            <li>I saw a tightly closed form, barely visible, and felt a wave of disappointment. Not for me.</li>
+            <li>That middle-aged tightness was a real turn-off. I prefer a bit more… looseness, a hint of experience.</li>
+            <li>There was no depth, no welcoming folds. Just a tightly clenched, uninviting entrance.</li>
+            <li>Even with {PAWN_pronoun} being older, I expected some curves, some visible sensuality, not that tight void.</li>
+            <li>Her entrance was so tight, it seemed to actively reject any form of youthful male interest.</li>
+            <li>It looked too pristine, too untouched for its age. My imagination was thoroughly unimpressed.</li>
+            <li>I couldn't help but feel a little grossed out by how tight and shriveled it appeared. Not my type.</li>
+            <li>That tight, almost withered look on a mature woman is just not what I'm into. Where's the life?</li>
+            <li>The lips were too close, too firm. It lacked the soft, yielding quality I find attractive.</li>
+            <li>It's a mature woman, yet her entrance looks like a virgin's. It’s confusing and utterly unappealing.</li>
+            <li>I prefer women who have lived a little, and their anatomy should show it. This was just… tight.</li>
+            <li>That minimal, almost hidden opening made me question what {PAWN_pronoun} was even trying to show. Nothing.</li>
+            <li>The mature tightness was a stark contrast to what I desire. No allure whatsoever.</li>
+            <li>Her lack of visible readiness, due to that extreme tightness, was a significant detractor for me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale_observed_by_Young_female</defName>
+        <label>Tight Vagina (Negative)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her age certainly showed; that tight, almost shriveled opening looks utterly unpleasant and worn.</li>
+            <li>It was so unnaturally tight for someone {PAWN_pronoun}'s age. A bit off-putting, honestly.</li>
+            <li>I stared at {PAWN_nameShortPossessive} parts and thought, "Is that how mine will look one day?" Terrifyingly constricted.</li>
+            <li>The visible anatomy was so closed up, it looked uncomfortable and quite unappealing.</li>
+            <li>That tight form was a harsh reminder of aging, and not in a good way. It seemed to lack vitality.</li>
+            <li>It looked so dry and unused. Not the kind of mature femininity one hopes to embody.</li>
+            <li>I felt a shudder. That tightness conveyed a sense of rigidity, almost like a dried-up fruit.</li>
+            <li>The lips of her entrance were pulled so taut, it gave the impression of a perpetually sealed secret.</li>
+            <li>Seeing that tight, almost shriveled opening made me feel a bit grossed out. Not a pleasant sight.</li>
+            <li>It was disconcertingly tight for a woman of her years, almost… unnatural. It lacked softness.</li>
+            <li>That constricted view left me with an unpleasant feeling. It looked painful and uninviting.</li>
+            <li>I really hope my own body doesn't end up looking that tight and unyielding when I'm older.</li>
+            <li>The sheer tightness was a bit unsettling. It didn’t look comfortable or healthy at all.</li>
+            <li>It appeared withered, a tightly closed aperture. Not something I'd ever wish upon myself.</li>
+            <li>{PAWN_nameShortPossessive} intimacy seemed locked away, a stark, unappealing visual of aging.</li>
+            <li>Such a severe, unyielding form. It lacked any hint of the natural, beautiful curves I associate with women.</li>
+            <li>The tightness was almost aggressive, a stark contrast to what I find aesthetically pleasing in female anatomy.</li>
+            <li>It looked like a sealed crevice, utterly devoid of life or warmth. A truly grim sight.</li>
+            <li>I could feel a pang of dread imagining my own future if that’s the inevitable tightness.</li>
+            <li>The shriveled appearance and tightness made me wonder if {PAWN_pronoun} had ever truly enjoyed {PAWN_possessive} body.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Tight Vagina (Negative)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even at our age, that tightness is disheartening. It suggests a lack of life, or perhaps a perpetual state of disuse.</li>
+            <li>I've seen plenty in my time, but that constricted opening holds no appeal. It’s too... unworn.</li>
+            <li>It's almost stubbornly tight for a woman {PAWN_pronoun}'s age. No inviting depth, no gentle folds.</li>
+            <li>The visible anatomy lacked any hint of pliancy. It was just a tight, unyielding crevice. Disappointing.</li>
+            <li>I’d expect a bit more give from a mature woman. That aggressive tightness is a real turn-off.</li>
+            <li>A truly uninspired sight. The narrowness and lack of visible depth kills any attraction for me.</li>
+            <li>{PAWN_nameShortPossessive} tight lips were almost off-putting. It’s like {PAWN_pronoun} has been holding {PAWN_possessive} breath for decades.</li>
+            <li>That constricted opening offers no mystery, only the stark reality of a lack of experience, or worse, aversion.</li>
+            <li>I thought I'd seen it all, but that tight, almost shriveled sight is new, and not in a good way.</li>
+            <li>The lips were too firm, too unyielding for a woman of her years. It lacked a certain… softness.</li>
+            <li>It was strikingly tight, like a young girl’s. Not the kind of mature sensuality I typically find appealing.</li>
+            <li>I can't imagine finding pleasure there. That constricted form promises only discomfort and disappointment.</li>
+            <li>The visible form was so tight, it seemed almost painful. No alluring qualities whatsoever.</li>
+            <li>Even for a seasoned man like me, that tight, uninviting display holds zero appeal.</li>
+            <li>It screams 'no entry.' Where's the warmth, the welcoming promise of a mature woman? Only cold tightness.</li>
+            <li>{PAWN_nameShortPossessive} intimate parts looked stiff, unwilling to yield. A truly disheartening spectacle.</li>
+            <li>The sheer tightness was a bit unnerving. It felt more like a barrier than an invitation.</li>
+            <li>I've known many women, but that constricted view is utterly unappealing. It defies expectations.</li>
+            <li>That tightly sealed opening made me question what kind of life {PAWN_pronoun} has lived. Certainly not a passionate one.</li>
+            <li>It was so tight, it almost looked like it had atrophied. No desire sparked within me.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Tight Vagina (Negative)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even at our age, that tightness is disconcerting. It looks uncomfortable and almost… painful.</li>
+            <li>I looked at {PAWN_nameShortPossessive} parts and thought, "Is that normal for our age?" The tightness was alarming.</li>
+            <li>It seemed unnaturally constricted for a woman in her prime. It offered no softness, no natural shape.</li>
+            <li>The visible anatomy was so tightly drawn, it gave the impression of being perpetually clenched. Unappealing.</li>
+            <li>That shriveled, tight form was a stark reminder of how bodies can age without grace. It makes me shudder.</li>
+            <li>The lips of her private parts were pressed together so severely, it lacked any hint of inviting warmth.</li>
+            <li>I prefer a more natural, yielding appearance. That extreme tightness just looks unhealthy and unpleasant.</li>
+            <li>It looked dried up, almost atrophied from disuse. A truly depressing sight for a woman our age.</li>
+            <li>The clitoris was barely visible, hidden by overly tight labia. It seemed to lack any feminine softness.</li>
+            <li>That constricted opening was a sad sight, betraying no signs of vitality or past pleasure.</li>
+            <li>I wonder if {PAWN_pronoun} is in pain? That level of tightness looks profoundly uncomfortable.</li>
+            <li>Her visible form was so closed off, it seemed to recoil from the world. A harsh and unwelcoming sight.</li>
+            <li>The sheer tightness was almost off-putting. It felt like a visual representation of emotional rigidity.</li>
+            <li>It looked like a tight knot, offering no ease or natural flow. A truly unpleasant observation.</li>
+            <li>I couldn't imagine feeling comfortable in my own skin if my intimate parts looked that tight and shriveled.</li>
+            <li>The visible structure was so rigid, it spoke of a lifetime of tension and restraint. Not graceful aging.</li>
+            <li>That minimal opening was a stark contrast to what I consider beautiful and natural in a woman.</li>
+            <li>The tightness seemed to be at war with her body, creating a strained, unappealing appearance.</li>
+            <li>It was like looking at something that had been forcefully sewn shut. Deeply unsettling.</li>
+            <li>A truly uninspiring sight. It looked like the antithesis of comfort and feminine softness.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale_observed_by_Elder_male</defName>
+        <label>Tight Vagina (Negative)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even at my age, I still appreciate a woman's body, but that tightness is just… sad. No allure at all.</li>
+            <li>I’ve seen plenty in my days, and that constricted opening holds no charm. It looks too young, or too unused.</li>
+            <li>It's startlingly tight for a woman in her middle years. There's no depth, no welcoming warmth.</li>
+            <li>The visible anatomy gave the impression of a sealed vault. No interest sparked within this old man.</li>
+            <li>{PAWN_nameShortPossessive} intimate parts looked like they'd never truly seen the light of day. Tightly shut, uninviting.</li>
+            <li>My desires are long past their peak, but even so, that shriveled tightness offers nothing.</li>
+            <li>It lacked the softness and natural yielding I've come to expect from a mature woman. Disappointing.</li>
+            <li>The lips were too firm, too unyielding. It seemed to defy the natural passage of time, but not in a good way.</li>
+            <li>I've seen more inviting crevices in ancient ruins. That tightness is a true turn-off.</li>
+            <li>A surprising lack of pliability for someone {PAWN_pronoun}'s age. It just looks uncomfortable.</li>
+            <li>That constricted opening offers no promise of pleasure, only a stark, unwelcoming barrier.</li>
+            <li>The sight of it gave me a sense of unease. It seemed too tight, too… unfulfilled.</li>
+            <li>Even for an old man, that kind of tightness is just unappealing. It suggests a lack of life.</li>
+            <li>{PAWN_nameShortPossessive} clitoris seemed to be swallowed by the extreme tightness of {PAWN_possessive} labia. A grim sight.</li>
+            <li>It was like looking at a closed fist. No tenderness, no invitation. Just a tight, unyielding form.</li>
+            <li>A middle-aged woman, yet her entrance looks like a perpetual adolescent. Truly a shame.</li>
+            <li>That tightness makes me wonder if {PAWN_pronoun} has ever truly known release. It looks so rigid.</li>
+            <li>The visible forms were so compressed, they seemed to shrink away from my gaze. Not attractive.</li>
+            <li>I'd rather remember the softer, more yielding forms of women in their prime. This offers no such nostalgia.</li>
+            <li>That unyielding aperture gives me the chills. It looks almost painful, certainly not inviting.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_MatureFemale_observed_by_Elder_female</defName>
+        <label>Tight Vagina (Negative)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even in her middle age, that tightness is unsettling. It looks like it would offer no comfort, no natural ease.</li>
+            <li>I know the changes that come with age, but that constricted form seems almost stubbornly unyielding.</li>
+            <li>It appears stiff and uninviting, a harsh reminder of time's unforgiving grip on the body.</li>
+            <li>{PAWN_nameShortPossessive} intimate parts looked like they'd been forcibly sealed shut. A truly depressing sight.</li>
+            <li>The visible anatomy was so tightly pulled, it looked quite unnatural and uncomfortable.</li>
+            <li>I felt a pang of pity seeing such a constricted form. It lacks the gentle maturity one expects.</li>
+            <li>That shriveled, tight opening spoke of a life lived without passion, or perhaps, with much regret.</li>
+            <li>The lips of her entrance were so severely pressed together, it seemed to actively repel life.</li>
+            <li>It was a stark contrast to the natural give and softness that should develop with age. Upsetting.</li>
+            <li>The sheer tightness made me wonder if {PAWN_pronoun} had ever truly embraced her own femininity.</li>
+            <li>I saw a hint of desperation in that constricted form, as if trying to hold onto youth by force.</li>
+            <li>It lacked any grace or natural flow. Just a tight, unyielding barrier. How sad for {PAWN_objective}.</li>
+            <li>The visible clitoris seemed almost nonexistent, buried under layers of tense, tight flesh.</li>
+            <li>That constricted appearance conveyed a sense of rigidity, as if {PAWN_pronoun} body was fighting itself.</li>
+            <li>I hope my own body never looks that tight and unforgiving. It's truly a grim prospect.</li>
+            <li>The tightness was so extreme, it gave the impression of a wound that never healed properly.</li>
+            <li>A truly unappealing sight, lacking the soft, welcoming appearance that makes a woman beautiful.</li>
+            <li>It seemed to shrivel under my gaze, a testament to a lack of vibrant sensuality.</li>
+            <li>The lips were too harsh, too drawn. There was no gentle curve, only a tight, hard line.</li>
+            <li>That unyielding tightness was almost offensive. It lacked any feminine softness or allure.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale</defName>
+        <label>Tight Vagina (Negative)_ElderFemale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even in old age, that extreme tightness is unnatural and disturbing. It looks more like a scar than a natural form.</li>
+            <li>A truly shriveled, constricted opening. Time has not been kind, leaving behind only a harsh, unwelcoming void.</li>
+            <li>The visible anatomy seemed to have withered and closed up, a grim testament to the passing years.</li>
+            <li>{PAWN_nameShortPossessive} private parts were a tight, unyielding grimace. No softness, no comfort, just a hard line.</li>
+            <li>That extreme tightness for an elder woman is unnerving; it looks painful, like flesh pulled tautly over bone.</li>
+            <li>The lips were almost fused shut, a stark and desolate sight. It lacked any hint of life or warmth.</li>
+            <li>It was like observing a mummified relic, so tightly closed and unyielding. Truly an unpleasant sight.</li>
+            <li>The clitoris was completely obscured, lost within the aggressive tightness of the surrounding labia.</li>
+            <li>Such an unforgiving, constricted aperture. It seemed to absorb light, offering only a dark, uninviting void.</li>
+            <li>The visibility was minimal, almost non-existent. A shriveled, tight form that repelled the gaze.</li>
+            <li>One glance confirmed my worst fears: an old woman's entrance, unnaturally tight, betraying a life of denial.</li>
+            <li>The anatomy was rigid, almost petrified. It spoke of profound disuse and a chilling lack of vitality.</li>
+            <li>A tight, desiccated slit. It promised no joy, no yielding, only the cold grip of time and neglect.</li>
+            <li>I saw only a hardened, ungiving opening. It was like looking into a tomb, devoid of all softness.</li>
+            <li>The constricted lips looked brittle, as if they might crack. Not something anyone would ever desire.</li>
+            <li>Its small, closed form suggested a lifetime devoid of intimacy. A truly desolate, unappealing sight.</li>
+            <li>This was a truly horrific sight: a minimal, almost-hidden opening on an elder woman. It's a cruel mockery.</li>
+            <li>The visible flesh was unnaturally tight, almost calcified. It lacked any feminine grace or natural form.</li>
+            <li>A tight, unyielding aperture that seemed to scream 'death'. It evoked no desire, only a profound sense of despair.</li>
+            <li>Barely visible, shrouded in shriveled, tight folds. This was an uninviting, almost violently closed display.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale_observed_by_voyer</defName>
+        <label>Tight Vagina (Negative)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even for a voyeur, that tightly sealed, almost non-existent opening was a horrific letdown. Nothing to see but a shriveled void.</li>
+            <li>I tried to glimpse more, but {PAWN_nameShortPossessive} shriveled parts offered no show. What a cruel joke of nature.</li>
+            <li>The tight, unyielding lips made it impossible to discern any detail. A frustrating and truly ghastly view.</li>
+            <li>My voyeuristic desires were completely extinguished by that withered, unresponsive form. A complete waste of time.</li>
+            <li>What a remarkably ungenerous display from an elder. The tightness left no imagination, and even less to observe.</li>
+            <li>I strained my eyes, but the tightness of {PAWN_nameShortPossessive} aged anatomy hid everything. A truly pitiful spectacle.</li>
+            <li>That shriveled, almost imperceptible slit was no spectacle at all. It actively repelled my gaze with its ugliness.</li>
+            <li>Even my voyeuristic tendencies were repulsed by that unyielding, closed entrance. There was nothing to appreciate, only disgust.</li>
+            <li>The visible form was so closed off, offering no depth or inner beauty to admire. A truly meager, withered offering.</li>
+            <li>My curiosity was met with a wall of tight, unforgiving, aged flesh. No pleasure in such a sterile view.</li>
+            <li>Such an unwelcoming, constricted aperture. It denied any possibility of a truly satisfying, intimate visual experience.</li>
+            <li>I couldn't even make out the inner folds. The tightness was aggressively unrevealing. A complete, revolting letdown.</li>
+            <li>The lips of {PAWN_nameShortPossessive} private parts were pressed so tightly, my voyeuristic hopes were crushed and replaced by revulsion.</li>
+            <li>It was barely a shadow, so tightly sealed. A truly horrifying sight for anyone seeking an intimate glimpse.</li>
+            <li>A remarkably ungenerous, aged aperture, providing absolutely no visual stimulation. What a horrifying waste of an opportunity.</li>
+            <li>The constricted appearance offered no mystery, only a stark, unwelcoming, shriveled closure. My gaze found no delight.</li>
+            <li>I searched for a glimpse of depth, but it was all shut tight. This kind of ugliness is truly infuriating.</li>
+            <li>The complete lack of visible form was frustrating and grotesque. It was like looking at a locked, withered door.</li>
+            <li>That tight, unyielding opening provided absolutely no voyeuristic satisfaction. A truly disappointing, repulsive reveal.</li>
+            <li>My gaze was met with a tightly sealed, unforgiving, aged form. This was not the exhibition I had hoped for; it was a nightmare.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Tight Vagina (Negative)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Such a tight, unyielding, withered display. If {PAWN_nameShort} expects to impress anyone, {PAWN_pronoun} should offer more than a shriveled void.</li>
+            <li>That constricted, aged opening offers nothing to excite an exhibitionist. It's a sad, closed-off, pathetic excuse for an intimate display.</li>
+            <li>There’s no invitation, no allure in that tight, unyielding, wrinkled form. What a truly pathetic attempt at exhibition.</li>
+            <li>I feel no desire to reveal myself in turn. That tight, shriveled appearance is a total turn-off for any exhibitionist; it’s repulsive.</li>
+            <li>{PAWN_nameShortPossessive} private parts looked almost afraid to be seen, shriveled and tight. A truly uninspired, unexhibitable, ugly sight.</li>
+            <li>The lack of visible depth or form was truly disheartening. Where's the show? It's just a grimace of decaying flesh.</li>
+            <li>I was ready to be inspired, but that tight, unwelcoming, aged opening only makes me want to put my clothes back on.</li>
+            <li>This is what {PAWN_pronoun} calls an intimate display? It's like a tightly shut, withered clam. No exhibitionist would be pleased.</li>
+            <li>A truly uninspiring sight for an exhibitionist. It looks like it hasn't seen the light of day, or anything else, in centuries.</li>
+            <li>The modesty of that tight, shriveled form is almost offensive. There’s nothing to truly exhibit or appreciate; it's a horror show.</li>
+            <li>I thrive on bold displays, but {PAWN_nameShortPossessive} tight, ancient anatomy offers nothing but a closed, uninteresting, ghastly view.</li>
+            <li>Such a reserved, unyielding presentation. This isn't exhibitionism; it's practically a declaration of death and decay.</li>
+            <li>I expected some form of allure, but that tight, almost invisible, aged opening leaves nothing to the imagination or appreciation.</li>
+            <li>The constricted lips looked like they'd never known freedom, or life. Not the kind of vibrant sexuality I want to exhibit myself.</li>
+            <li>This tightly clenched, withered form is a visual insult to exhibitionism. It screams 'no entry' in every pathetic, dead crease.</li>
+            <li>There's no artistry in that tight, ungiving, ancient display. It's too modest, too fearful to truly reveal anything.</li>
+            <li>A truly unappealing sight. It's too closed, too guarded. An exhibitionist seeks openness, not this tight, shriveled shell.</li>
+            <li>I feel no urge to reciprocate with such a closed-off individual. The tightness is profoundly off-putting and repulsive.</li>
+            <li>Where's the drama? The allure? That tight, shriveled appearance is the antithesis of a captivating exhibition. It's grotesque.</li>
+            <li>It was so tight, it felt like {PAWN_pronoun} was actively hiding it. A terrible, aged show for someone like me.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Tight Vagina (Negative)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That tight, unyielding, withered opening is completely useless to me. It looks like it would offer no pleasure, only agony.</li>
+            <li>My desires are met with a closed, shriveled door. That ghastly form is a complete turn-off for a nymphomaniac like me.</li>
+            <li>There's no promise of warmth or release in that constricted, aged aperture. Absolutely zero appeal for my raging urges.</li>
+            <li>{PAWN_nameShortPossessive} intimate parts were so tight, it felt like {PAWN_pronoun} was actively fighting against pleasure, against life itself. Horrifying.</li>
+            <li>What a disappointing, grotesque sight! That rigid, unyielding, withered form offers no possibility of true satisfaction.</li>
+            <li>My body craves release, but that tight, almost painful-looking, shriveled opening offers only profound frustration and disgust.</li>
+            <li>I feel no surge of lust looking at that shriveled, uninviting form. It's antithetical to everything I desire, a symbol of barrenness.</li>
+            <li>The visible anatomy was so constricted, so aged, it looked utterly incapable of accommodating any desire. Useless, dead.</li>
+            <li>There’s no depth, no welcoming warmth. Just a tight, unyielding, desiccated void. It saps all my arousal, leaving only revulsion.</li>
+            <li>That tight, unyielding, aged orifice fills me with disgust. It’s like a locked, rusted vault, promising only denial and decay.</li>
+            <li>I crave openness and sensation, but {PAWN_nameShortPossessive} tight, withered form promises only a painful struggle and crushing disappointment.</li>
+            <li>The mere sight of that constricted, shriveled entrance kills my mood. It's a testament to utter sexual dormancy, to a life unlived.</li>
+            <li>A truly unappealing, ancient sight for a nymphomaniac. It screams "no access," and that’s a living nightmare.</li>
+            <li>It was so tight, it looked like it had never known true abandon, never known life. A sterile, uninspiring, horrifying sight.</li>
+            <li>That unyielding, almost shriveled, aged opening fills me with a sense of repulsion. No pleasure could be found there, only despair.</li>
+            <li>My desires demand freedom and depth, but {PAWN_pronoun} tight, withered form offers only a suffocating constriction and a chilling emptiness.</li>
+            <li>I felt absolutely no pull towards it. That tight, unresponsive, aged sight is a complete buzzkill for my urges, a nightmare.</li>
+            <li>A tight, lifeless, ancient slit. It offered no allure, no promise of the ecstasy I constantly crave. Only dread.</li>
+            <li>My sexual appetite demands more than that shriveled, unyielding, aged opening. It's a profound, nauseating disappointment.</li>
+            <li>It looked so closed, so unused, so dead. It almost made my own desires shrivel in sympathy. Pathetic, revolting.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale_observed_by_Prude</defName>
+        <label>Tight Vagina (Negative)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sight of that tightly constricted, aged opening, though discreet, was still far too revealing for my sensibilities. Disgusting and vile.</li>
+            <li>Even in its apparent tightness, the very presence of that exposed, withered anatomy was deeply uncomfortable and utterly vulgar.</li>
+            <li>I averted my eyes in horror. That overly tight, yet still visible, aged form was an assault on my modesty and my senses.</li>
+            <li>{PAWN_nameShortPossessive} lack of decorum, even with such a constrained, ancient form, fills me with profound unease. How immodest and repulsive.</li>
+            <li>Despite its tightness, the sheer visibility of that private, decaying part was shocking and offensive to my prudish nature.</li>
+            <li>My delicate sensibilities are utterly offended by even a glimpse of such an intimate, albeit tight and withered, region.</li>
+            <li>That tight, unflattering, aged display, however minimal, still felt like an egregious breach of decency and a horrifying sight.</li>
+            <li>It was a fleeting glance, but even so, the sight of {PAWN_nameShortPossessive} private parts, however tight and old, was deeply unsettling and vile.</li>
+            <li>How dare {PAWN_pronoun} expose such a thing? Even its tightness doesn't excuse such a blatant lack of modesty and such an ugly display.</li>
+            <li>The presence of that exposed, aged anatomy, even a tightly closed one, offends my moral principles and turns my stomach.</li>
+            <li>I wish I hadn't seen it. That tight, shriveled form, though offering little, was still far too much exposure and deeply unsettling.</li>
+            <li>The indiscretion of {PAWN_nameShort} displaying such a thing, even tightly and withered, is truly appalling and utterly disgusting.</li>
+            <li>My prudish nature recoils from even the most subtle hint of such intimate, albeit constrained and ancient, anatomy. It's a nightmare.</li>
+            <li>A deeply disturbing, horrifying sight. The mere presence of that tight, aged opening is enough to make me profoundly uncomfortable.</li>
+            <li>I can scarcely believe {PAWN_pronoun} would let such a thing be seen, no matter how tight and old. It's an abomination.</li>
+            <li>The crude reality of that tight, withered form, even with its modesty, is unsettling to my refined nature and utterly repulsive.</li>
+            <li>My mind struggles to unsee that tight, unappealing, ancient part. It's a vulgarity I wish I could erase from my memory.</li>
+            <li>How utterly brazen to expose such an intimate, decaying area, even when it is so tightly drawn. Shameful and disgusting.</li>
+            <li>I feel a flush of embarrassment simply having witnessed that tight, yet still publicly displayed, withered form. It's a disgrace.</li>
+            <li>The sheer indignity of it! That tight, unyielding, ancient form should never have been visible. It's a truly vile sight.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale_observed_by_Young_male</defName>
+        <label>Tight Vagina (Negative)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her age showed terribly in that shriveled, tight, disgusting opening. Not exactly the elder allure I was hoping to glimpse.</li>
+            <li>I prefer something a bit more… alive. That tight, almost invisible, withered slit isn't doing it for me. It's a horror.</li>
+            <li>The old woman's parts looked so tightly sealed, almost mummified. There was no real appeal there, only repulsion.</li>
+            <li>For someone {PAWN_pronoun}'s age, I expected something more… open, not that tight, unyielding, ancient crevice. It's sickening.</li>
+            <li>{PAWN_nameShortPossessive} tight, shriveled lips looked… dead. Not the kind of youthful vibrancy or even mature grace I usually seek out.</li>
+            <li>It was almost comical how tight and withered it was. Not much to appreciate for a young man like me; it's gross.</li>
+            <li>I saw a tightly closed, shriveled form, barely visible, and felt a wave of profound disgust and disappointment. Not for me.</li>
+            <li>That aged tightness was a real turn-off. I prefer a bit more… life, a hint of vitality, not this decaying horror.</li>
+            <li>There was no depth, no welcoming folds. Just a tightly clenched, uninviting, withered entrance. It's repulsive.</li>
+            <li>Even with {PAWN_pronoun} being older, I expected some curves, some visible sensuality, not that tight, desiccated void.</li>
+            <li>Her entrance was so tight, it seemed to actively reject any form of youthful male interest, or any life at all.</li>
+            <li>It looked too pristine, too untouched for its age, almost like a preserved corpse. My imagination was thoroughly unimpressed.</li>
+            <li>I couldn't help but feel utterly grossed out by how tight, shriveled, and ancient it appeared. Not my type; never.</li>
+            <li>That tight, almost withered, decaying look on an elder woman is just not what I'm into. Where's the life? Where’s the beauty?</li>
+            <li>The lips were too close, too firm, too brittle. It lacked the soft, yielding quality I find attractive, replacing it with horror.</li>
+            <li>It's an elder woman, yet her entrance looks like a death mask. It’s confusing and utterly unappealing, sickening.</li>
+            <li>I prefer women who have lived a little, and their anatomy should show it. This was just… tight and dead.</li>
+            <li>That minimal, almost hidden, withered opening made me question what {PAWN_pronoun} was even trying to show. Nothing but decay.</li>
+            <li>The aged tightness was a stark contrast to what I desire. No allure whatsoever, only profound revulsion.</li>
+            <li>Her lack of visible readiness, due to that extreme tightness and age, was a significant detractor for me. It's awful.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale_observed_by_Young_female</defName>
+        <label>Tight Vagina (Negative)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her age certainly showed; that tight, almost shriveled, disgusting opening looks utterly unpleasant and worn out.</li>
+            <li>It was so unnaturally tight for someone {PAWN_pronoun}'s age. A bit off-putting, horrifying, honestly.</li>
+            <li>I stared at {PAWN_nameShortPossessive} parts and thought, "Is that how mine will look one day?" Terrifyingly constricted and withered.</li>
+            <li>The visible anatomy was so closed up, it looked uncomfortable and quite unappealing, like a dried prune.</li>
+            <li>That tight, shriveled form was a harsh reminder of aging, and not in a good way. It seemed to lack any vitality or beauty.</li>
+            <li>It looked so dry and unused, like a desert. Not the kind of mature femininity one hopes to embody; it's a nightmare.</li>
+            <li>I felt a shudder of revulsion. That tightness conveyed a sense of rigidity, almost like a dried-up, lifeless fruit.</li>
+            <li>The lips of her entrance were pulled so taut, it gave the impression of a perpetually sealed, desolate secret.</li>
+            <li>Seeing that tight, almost shriveled, aged opening made me feel utterly grossed out. Not a pleasant sight at all.</li>
+            <li>It was disconcertingly tight for a woman of her years, almost… unnatural and grotesque. It lacked softness and life.</li>
+            <li>That constricted view left me with a deeply unpleasant feeling. It looked painful, uninviting, and utterly depressing.</li>
+            <li>I really hope my own body doesn't end up looking that tight, shriveled, and unyielding when I'm older. It's a nightmare.</li>
+            <li>The sheer tightness was a bit unsettling, horrifying, even. It didn’t look comfortable or healthy at all.</li>
+            <li>It appeared withered, a tightly closed aperture. Not something I'd ever wish upon myself; it’s a grotesque future.</li>
+            <li>{PAWN_nameShortPossessive} intimacy seemed locked away, a stark, unappealing visual of harsh, unforgiving aging.</li>
+            <li>Such a severe, unyielding form. It lacked any hint of the natural, beautiful curves I associate with women; it’s a deformity.</li>
+            <li>The tightness was almost aggressive, a stark contrast to what I find aesthetically pleasing in female anatomy. It's ugly.</li>
+            <li>It looked like a sealed, desolate crevice, utterly devoid of life or warmth. A truly grim and disturbing sight.</li>
+            <li>I could feel a pang of dread imagining my own future if that’s the inevitable, shriveled tightness that awaits.</li>
+            <li>The shriveled appearance and tightness made me wonder if {PAWN_pronoun} had ever truly enjoyed {PAWN_possessive} own body. It looks so sad.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Middle aged male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Tight Vagina (Negative)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even at my age, that tightness is disheartening. It suggests a lack of life, or perhaps a perpetual state of painful disuse.</li>
+            <li>I've seen plenty in my time, but that constricted, withered opening holds no appeal. It’s too... unworn, too old.</li>
+            <li>It's almost stubbornly tight for a woman {PAWN_pronoun}'s age. No inviting depth, no gentle folds, only shriveled flesh.</li>
+            <li>The visible anatomy gave the impression of a sealed, ancient vault. No interest sparked within this man. Disappointing and grim.</li>
+            <li>I’d expect a bit more give from an elder woman. That aggressive tightness is a real turn-off, a sign of decay.</li>
+            <li>A truly uninspired, horrifying sight. The narrowness and lack of visible depth kills any attraction for me; it's grotesque.</li>
+            <li>{PAWN_nameShortPossessive} tight, shriveled lips were almost off-putting. It’s like {PAWN_pronoun} has been holding {PAWN_possessive} breath for eternity.</li>
+            <li>That constricted, aged opening offers no mystery, only the stark reality of decay, or worse, aversion. It's a horror show.</li>
+            <li>I thought I'd seen it all, but that tight, almost shriveled, ancient sight is new, and not in a good way at all.</li>
+            <li>The lips were too firm, too unyielding, too brittle for a woman of her years. It lacked a certain… softness and life.</li>
+            <li>It was strikingly tight, like a petrified virgin. Not the kind of mature sensuality I typically find appealing; it's sickening.</li>
+            <li>I can't imagine finding pleasure there. That constricted, withered form promises only discomfort and profound disappointment.</li>
+            <li>The visible form was so tight, it seemed almost painful. No alluring qualities whatsoever, only repulsion.</li>
+            <li>Even for a seasoned man like me, that tight, uninviting, aged display holds zero appeal. It's a nightmare.</li>
+            <li>It screams 'no entry,' 'no life.' Where's the warmth, the welcoming promise of a mature, living woman? Only cold tightness and decay.</li>
+            <li>{PAWN_nameShortPossessive} intimate parts looked stiff, unwilling to yield, like a dead thing. A truly disheartening spectacle.</li>
+            <li>The sheer tightness was a bit unnerving. It felt more like a barrier, a tomb, than an invitation.</li>
+            <li>I've known many women, but that constricted, withered view is utterly unappealing. It defies all expectations.</li>
+            <li>That tightly sealed, ancient opening made me question what kind of life {PAWN_pronoun} has lived. Certainly not a passionate one.</li>
+            <li>It was so tight, it almost looked like it had atrophied and died. No desire sparked within me; only revulsion.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Tight Vagina (Negative)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even at our age, that tightness is disconcerting. It looks uncomfortable and almost… painfully shriveled.</li>
+            <li>I looked at {PAWN_nameShortPossessive} parts and thought, "Is that how mine will look at that age?" Terrifyingly constricted and withered.</li>
+            <li>It seemed unnaturally constricted for a woman of her years. It offered no softness, no natural, graceful shape.</li>
+            <li>The visible anatomy was so tightly drawn, it gave the impression of being perpetually clenched, almost dead. Unappealing.</li>
+            <li>That shriveled, tight, aged form was a stark reminder of how bodies can decay without grace. It makes me shudder.</li>
+            <li>The lips of her private parts were pressed together so severely, it lacked any hint of inviting warmth or life.</li>
+            <li>I prefer a more natural, yielding appearance. That extreme tightness just looks unhealthy, unpleasant, and utterly grotesque.</li>
+            <li>It looked dried up, almost atrophied from disuse, like something left to rot. A truly depressing sight for a woman her age.</li>
+            <li>The clitoris was barely visible, hidden by overly tight, withered labia. It seemed to lack any feminine softness or life.</li>
+            <li>That constricted, aged opening was a sad, pathetic sight, betraying no signs of vitality or past pleasure.</li>
+            <li>I wonder if {PAWN_pronoun} is in pain? That level of tightness looks profoundly uncomfortable and chilling.</li>
+            <li>Her visible form was so closed off, it seemed to recoil from the world. A harsh, unwelcoming, and frankly, repulsive sight.</li>
+            <li>The sheer tightness was almost off-putting, horrifying. It felt like a visual representation of emotional rigidity and decay.</li>
+            <li>It looked like a tight, dead knot, offering no ease or natural flow. A truly unpleasant and disturbing observation.</li>
+            <li>I couldn't imagine feeling comfortable in my own skin if my intimate parts looked that tight, shriveled, and ancient.</li>
+            <li>The visible structure was so rigid, it spoke of a lifetime of tension and restraint, leading to this grim decay. Not graceful aging.</li>
+            <li>That minimal, shriveled opening was a stark contrast to what I consider beautiful and natural in a woman. It's ugly.</li>
+            <li>The tightness seemed to be at war with her body, creating a strained, unappealing, and utterly broken appearance.</li>
+            <li>It was like looking at something that had been forcefully sewn shut and left to mummify. Deeply unsettling and horrifying.</li>
+            <li>A truly uninspiring, grotesque sight. It looked like the antithesis of comfort and feminine softness; it's a nightmare.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale_observed_by_Elder_male</defName>
+        <label>Tight Vagina (Negative)_ElderFemale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even at my advanced age, I still appreciate a woman's body, but that tightness is just… a shriveled, sad, grotesque mess. No allure at all.</li>
+            <li>I’ve seen plenty in my days, and that constricted, withered opening holds no charm. It looks too young, or too unused, or too dead.</li>
+            <li>It's startlingly tight for a woman in her elder years. There's no depth, no welcoming warmth, only cold, brittle flesh.</li>
+            <li>The visible anatomy gave the impression of a sealed, ancient, forgotten vault. No interest sparked within this old man; only a shiver of revulsion.</li>
+            <li>{PAWN_nameShortPossessive} intimate parts looked like they'd never truly seen the light of day, or life. Tightly shut, uninviting, decaying.</li>
+            <li>My desires are long past their peak, but even so, that shriveled tightness offers nothing but a grim reminder of mortality.</li>
+            <li>It lacked the softness and natural yielding I've come to expect from a truly aged woman. Disappointing and utterly repulsive.</li>
+            <li>The lips were too firm, too unyielding, too brittle. It seemed to defy the natural passage of time, but not in a good way; it's a horror.</li>
+            <li>I've seen more inviting crevices in ancient, abandoned ruins. That tightness is a true turn-off, a sign of death.</li>
+            <li>A surprising lack of pliability for someone {PAWN_pronoun}'s age. It just looks uncomfortable, dead, and utterly unappealing.</li>
+            <li>That constricted, shriveled opening offers no promise of pleasure, only a stark, unwelcoming, and frankly, terrifying barrier.</li>
+            <li>The sight of it gave me a sense of profound unease. It seemed too tight, too… unfulfilled, like a mummified remains.</li>
+            <li>Even for an old man, that kind of tightness is just unappealing and sickening. It suggests a complete lack of life.</li>
+            <li>{PAWN_nameShortPossessive} clitoris seemed to be swallowed by the extreme tightness of {PAWN_possessive} aged, shriveled labia. A grim, nauseating sight.</li>
+            <li>It was like looking at a closed fist of death. No tenderness, no invitation. Just a tight, unyielding, withered form.</li>
+            <li>An elder woman, yet her entrance looks like a petrified virgin's. Truly a shame, a grotesque joke of nature.</li>
+            <li>That tightness makes me wonder if {PAWN_pronoun} has ever truly known release, or life. It looks so rigid, so dead.</li>
+            <li>The visible forms were so compressed, they seemed to shrink away from my gaze, revolting. Not attractive in the slightest.</li>
+            <li>I'd rather remember the softer, more yielding forms of women in their prime. This offers no such nostalgia, only regret.</li>
+            <li>That unyielding, shriveled aperture gives me the chills. It looks almost painful, certainly not inviting, only grotesque.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans vagina lips, depth, clitoris, labia-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Tight_ElderFemale_observed_by_Elder_female</defName>
+        <label>Tight Vagina (Negative)_ElderFemale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+		<genitalFamily>Vagina</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even in her old age, that tightness is unsettling and horrifying. It looks like it would offer no comfort, no natural ease, only pain.</li>
+            <li>I know the changes that come with age, but that constricted, withered form seems almost stubbornly unyielding and grotesque.</li>
+            <li>It appears stiff and uninviting, a harsh reminder of time's unforgiving, cruel grip on the decaying body.</li>
+            <li>{PAWN_nameShortPossessive} intimate parts looked like they'd been forcibly sealed shut and left to rot. A truly depressing, repulsive sight.</li>
+            <li>The visible anatomy was so tightly pulled, it looked quite unnatural, uncomfortable, and utterly horrifying.</li>
+            <li>I felt a pang of pity, and revulsion, seeing such a constricted, shriveled form. It lacks the gentle maturity one expects from an elder.</li>
+            <li>That shriveled, tight, aged opening spoke of a life lived without passion, or perhaps, with much regret and decay.</li>
+            <li>The lips of her entrance were so severely pressed together, it seemed to actively repel life itself. A grim sight.</li>
+            <li>It was a stark contrast to the natural give and softness that should develop with age. Upsetting and nauseating.</li>
+            <li>The sheer tightness made me wonder if {PAWN_pronoun} had ever truly embraced her own femininity, or simply withered away.</li>
+            <li>I saw a hint of desperation in that constricted form, as if trying to hold onto youth by force, failing miserably.</li>
+            <li>It lacked any grace or natural flow. Just a tight, unyielding, dead barrier. How sad, how grotesque for {PAWN_objective}.</li>
+            <li>The visible clitoris seemed almost nonexistent, buried under layers of tense, tight, decaying flesh.</li>
+            <li>That constricted appearance conveyed a sense of rigidity, as if {PAWN_pronoun} body was fighting itself, losing the battle against time.</li>
+            <li>I hope my own body never looks that tight, shriveled, and unforgiving. It's truly a grim, terrifying prospect.</li>
+            <li>The tightness was so extreme, it gave the impression of a wound that never healed properly, and festered into decay.</li>
+            <li>A truly unappealing, grotesque sight, lacking the soft, welcoming appearance that makes a woman beautiful and alive.</li>
+            <li>It seemed to shrivel under my gaze, a testament to a lack of vibrant sensuality, and an abundance of decay.</li>
+            <li>The lips were too harsh, too drawn, too brittle. There was no gentle curve, only a tight, hard, lifeless line.</li>
+            <li>That unyielding tightness was almost offensive. It lacked any feminine softness or allure, only evoked disgust.</li>
+        </opinionTexts>
+</Def>
+
+
+</Defs>

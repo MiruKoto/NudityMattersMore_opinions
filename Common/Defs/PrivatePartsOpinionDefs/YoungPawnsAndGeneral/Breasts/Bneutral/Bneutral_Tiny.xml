@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny</defName>
+        <label>Tiny Breasts (Neutral)</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+		<genitalFamily>Breasts</genitalFamily> 
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+            <li>Noticing {PAWN_nameShortPossessive} tiny breasts, they have a gentle charm, but it’s nothing to write home about.</li>
+            <li>I gazed at {PAWN_nameShortPossessive} tiny breasts, barely noticeable under the surface, like two small pebbles.</li>
+			<li>I saw {PAWN_nameShortPossessive} tiny breasts, so delicate that they seemed to be made of porcelain.</li>
+			<li>I examined {PAWN_nameShortPossessive} tiny breasts, with nipples that were almost invisible.</li>
+			<li>I glimpsed {PAWN_nameShortPossessive} tiny breasts, a fleeting moment of awareness of {PAWN_possessive} existence.</li>
+			<li>I caught sight of {PAWN_nameShortPossessive} tiny breasts, a slight swell on the skin.</li>
+			<li>I examined {PAWN_nameShortPossessive} tiny breasts, a subtle curve that was easy to miss.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} tiny breasts, a brief moment of recognition.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} tiny breasts, noting {PAWN_possessive} miniature shape and modest size, with a gentle slope that merged with the ribcage.</li>
+			<li>I saw {PAWN_nameShortPossessive} delicate skin and faint areola, a subtle outline that hinted at the breast's presence.</li>
+			<li>Examining {PAWN_nameShortPossessive} tiny breasts, I observed {PAWN_possessive} firm, rounded shape, with a slight indent at the center, adding a touch of definition.</li>
+			<li>I observed {PAWN_nameShortPossessive} tiny breasts, noting {PAWN_possessive} petite size and delicate shape, with a modest cleavage that whispered sensuality.</li>
+			<li>As I examined {PAWN_nameShortPossessive} tiny breasts, I noticed the taut skin and small areola, with a pert nipple size.</li>
+			<li>Upon closer inspection, I felt {PAWN_nameShortPossessive} tiny breasts' firmness, with a slight bounce that suggested a delicate and responsive structure.</li>
+			<li>I saw {PAWN_nameShortPossessive} tiny breasts, noting {PAWN_possessive} compact, rounded shape. The skin was smooth and unblemished, with a faint sheen.</li>
+			<li>I examined {PAWN_nameShortPossessive} tiny breasts more closely, observing the delicate, lacy pattern of veins visible beneath the surface. The nipples were small and pale.</li>
+			<li>I gazed at {PAWN_nameShortPossessive} tiny breasts, noticing how they seemed to be nestled snugly into the surrounding tissue, giving the impression of being almost... hidden.</li>
+			<li>{PAWN_nameShortPossessive} breasts don't evoke any emotions in me, small mounds that are barely visible.</li>
+			<li>{PAWN_nameShortPossessive} tiny breasts are just a fact that doesn't really interest me.</li>
+			<li>I saw {PAWN_nameShortPossessive} breasts, they were tiny, like two hills on the horizon, nothing that attracted attention.</li>
+			<li>I saw {PAWN_nameShortPossessive} breasts, of course, someone will find them attractive, but it doesn't cause any emotions in me.</li>
+			<li>I watched {PAWN_nameShortPossessive} tiny chest, even a strong shaking would barely show that there was something there. Just as my interest could not be shaken.</li>
+			<li>{PAWN_nameShortPossessive} tiny breasts are just a fact that doesn't really interest me.</li>
+			<li>I saw {PAWN_nameShortPossessive} breasts, they were tiny, like two hills on the horizon, nothing that attracted attention.</li>
+			<li>I saw {PAWN_nameShortPossessive} breasts, of course, someone will find them attractive, but it doesn't cause any emotions in me.</li>
+			<li>I watched {PAWN_nameShortPossessive} tiny chest, even a strong shaking would barely show that there was something there. Just as my interest could not be shaken.</li>
+			<li>Yes, I noticed {PAWN_nameShortPossessive} breasts, tiny, but not in any way attractive, because I don't care.</li>
+			<li>{PAWN_nameShortPossessive} breasts are tiny, with protruding nipples, small areolas helped to notice her. A passing remark.</li>
+			<li>{PAWN_nameShortPossessive} breasts are tiny, with protruding nipples, which is as natural as large breasts.</li>
+			<li>I noticed {PAWN_nameShortPossessive} breasts, not that I was particularly paying attention, they just happened to be in my field of vision.</li>
+			<li>{PAWN_nameShort} has tiny girlish breasts. Not that I care, just an observation.</li>
+			<li>{PAWN_nameShortPossessive} breasts can fit in the palm of your hand and there will still be room left. These are my observations and nothing more, it does not cause any desires.</li>
+            <li>{PAWN_nameShortPossessive} chest presented modest, almost unnoticeable, curves, barely hinting at femininity.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny breasts, small and high-set, with a youthful firmness.</li>
+            <li>The subtle swell of {PAWN_nameShortPossessive} breasts was present, though they wouldn't draw a second glance.</li>
+            <li>{PAWN_nameShortPossessive} breasts were so small they seemed more like gentle ripples on {PAWN_possessive} chest.</li>
+            <li>Her tiny breasts were barely visible, like small, budding roses on a slender vine.</li>
+            <li>I noted the delicate profile of {PAWN_nameShortPossessive} tiny breasts, a very understated shape.</li>
+            <li>{PAWN_nameShortPossessive} small nipples and pale areolas were proportionate to {PAWN_possessive} tiny breasts.</li>
+            <li>There's an innocence to {PAWN_nameShortPossessive} small, firm breasts that's neither appealing nor unappealing.</li>
+            <li>The shape of {PAWN_nameShortPossessive} tiny breasts was almost flat, with just a hint of roundness.</li>
+            <li>{PAWN_nameShortPossessive} breasts are just barely there, a quiet presence on {PAWN_possessive} slender frame.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny breasts; they have a very petite and youthful appearance.</li>
+            <li>{PAWN_nameShortPossessive} chest showed minimal development, with small, tightly-formed breast tissue.</li>
+            <li>The delicate contours of {PAWN_nameShortPossessive} tiny breasts were quite subtle, almost blending with {PAWN_possessive} ribcage.</li>
+            <li>I noted the almost imperceptible swell of {PAWN_nameShortPossessive} small breasts, with their tiny, pointed nipples.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are undeniably small, but they seem perfectly suited to {PAWN_possessive} physique.</li>
+            <li>Hardly a curve, just a whisper of breasts on {PAWN_nameShortPossessive} chest, with barely-there nipples.</li>
+            <li>{PAWN_nameShortPossessive} breasts are quite minimal, almost flat against {PAWN_possessive} body.</li>
+            <li>I noticed {PAWN_nameShortPossessive} tiny breasts, their soft, smooth skin stretched tautly.</li>
+            <li>The form of {PAWN_nameShortPossessive} tiny breasts is very understated, with a slight, almost conical shape.</li>
+            <li>The areolas on {PAWN_nameShortPossessive} tiny breasts are small and light, matching {PAWN_possessive} delicate physique.</li>
+            <li>I've seen larger pectoral muscles on some pawns; {PAWN_nameShortPossessive} breasts are quite dainty.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts offer no jiggle, merely a fixed, soft presence.</li>
+            <li>Their tiny form makes {PAWN_nameShortPossessive} breasts seem quite innocent, almost child-like.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so small, it takes a moment to even register them as breasts.</li>
+            <li>The minimal protrusion of {PAWN_nameShortPossessive} tiny breasts makes them blend in with {PAWN_possessive} overall silhouette.</li>
+            <li>I noticed the petite size of {PAWN_nameShortPossessive} breasts, and {PAWN_possessive} small, unassuming nipples.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts sit high and tight, lacking any significant volume.</li>
+            <li>They're barely more than small bumps on {PAWN_nameShortPossessive} chest, with very faint areolas.</li>
+            <li>I registered {PAWN_nameShortPossessive} tiny breasts, a subtle detail on {PAWN_possessive} body.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so tiny, they make {PAWN_possessive} ribcage seem more prominent.</li>
+        </opinionTexts>
+    </Def>
+
+
+
+<!--Elder Male observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_Elderly_Male_opinion</defName>
+        <label>Tiny Breasts (Neutral)_Elderly_Male_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny breasts remind me of how young she is, a fleeting memory of youth.</li>
+            <li>I saw {PAWN_nameShortPossessive} breasts; they are undeveloped, almost childlike. Not much to look at.</li>
+            <li>At {PAWN_nameShortPossessive} age, such small breasts are to be expected. They don't stir anything in me.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are quite modest. A bit too small for my preference, but harmless.</li>
+            <li>They're just barely budding, these breasts. It's a natural stage, nothing more.</li>
+            <li>I noticed {PAWN_nameShortPossessive} small, firm breasts. A youthful sight, nothing exceptional.</li>
+            <li>Hmm, {PAWN_nameShortPossessive} breasts are certainly on the small side. Reminds me of simpler times.</li>
+            <li>Not much there, are there? {PAWN_nameShortPossessive} tiny breasts are uninspiring.</li>
+            <li>{PAWN_nameShortPossessive} breasts are quite insignificant. I've seen bigger on a male colonist.</li>
+            <li>Such tiny breasts, they lack any real form or character. Just a passing observation.</li>
+            <li>I suppose {PAWN_nameShortPossessive} breasts are in proportion to {PAWN_possessive} frame. Still, rather small.</li>
+            <li>{PAWN_nameShortPossessive} breasts are definitely not what I'd call 'developed'. Very youthful.</li>
+            <li>I've certainly seen more impressive breasts in my lifetime. {PAWN_nameShortPossessive} are quite petite.</li>
+            <li>Small and subtle. {PAWN_nameShortPossessive} breasts don't command attention.</li>
+            <li>Barely there, those breasts. It's almost as if they're still waiting to grow.</li>
+            <li>The young lass has tiny breasts. Normal for {PAWN_possessive} age, I suppose.</li>
+            <li>{PAWN_nameShortPossessive} breasts are so small, they barely register on my radar.</li>
+            <li>I glanced at {PAWN_nameShortPossessive} tiny breasts. They don't hold my interest.</li>
+            <li>Nothing to see here, just tiny breasts. They're quite unremarkable.</li>
+            <li>I've long since moved past being impressed by such undeveloped forms. {PAWN_nameShortPossessive} breasts are tiny.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are quite innocent-looking. A reminder of youth.</li>
+            <li>Not much flesh there. {PAWN_nameShortPossessive} breasts are very minimal.</li>
+            <li>They lack the fullness I usually appreciate. {PAWN_nameShortPossessive} breasts are decidedly tiny.</li>
+            <li>I noted {PAWN_nameShortPossessive} small nipples and areolas, fitting for such tiny breasts.</li>
+            <li>{PAWN_nameShortPossessive} breasts seem almost immature, certainly not fully formed.</li>
+            <li>I'm old enough to appreciate true curves. {PAWN_nameShortPossessive} tiny breasts offer little.</li>
+            <li>The shape of {PAWN_nameShortPossessive} breasts is quite flat. Not much to them.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are just a detail, not a focal point.</li>
+            <li>I've seen it all in my years. {PAWN_nameShortPossessive} breasts are just another pair of small ones.</li>
+            <li>The slight rise of {PAWN_nameShortPossessive} chest shows {PAWN_possessive} tiny breasts. Barely.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young female, with nymphomaniac or perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_Elderly_Male_voyer_opinion</defName>
+        <label>Tiny Breasts (Neutral)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even tiny breasts stir something within me. {PAWN_nameShortPossessive} youth is a captivating sight. My old blood quickens slightly.</li>
+            <li>Ah, the delicate budding of {PAWN_nameShortPossessive} tiny breasts. A subtle beauty, certainly, though I prefer more to grasp. Still, I find myself lingering.</li>
+            <li>The youth of {PAWN_nameShort} and {PAWN_possessive} tiny breasts... a gentle hint of what's to come, if I'm lucky. I feel a familiar stirring in my loins.</li>
+            <li>{PAWN_nameShortPossessive} barely-there breasts are almost innocent, which paradoxically makes them more intriguing. My eyes feast upon them.</li>
+            <li>I see the faint outline of {PAWN_nameShortPossessive} small nipples through the delicate skin. Such an understated reveal.</li>
+            <li>These tiny breasts... they promise a delicate touch. My old hands long to explore.</li>
+            <li>The slight form of {PAWN_nameShortPossessive} breasts holds a certain appeal. It's the promise of untouched beauty.</li>
+            <li>Such petite areolas, so close to the nipple. My gaze is drawn to their simplicity.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts, a testament to raw youth. My own body responds, despite its age.</li>
+            <li>They might be tiny, but the sight of {PAWN_nameShortPossessive} naked chest is still enough to catch my attention.</li>
+            <li>My eyes are old, but they still appreciate the sight of {PAWN_nameShortPossessive} subtle curves, no matter how small.</li>
+            <li>The delicate shape of {PAWN_nameShortPossessive} tiny breasts, a hidden gem waiting to be admired.</li>
+            <li>I appreciate the youthful firmness of {PAWN_nameShortPossessive} small breasts. A rare sight indeed.</li>
+            <li>The unblemished skin and small form of {PAWN_nameShortPossessive} breasts... truly a sight for sore eyes.</li>
+            <li>Even these tiny mounds can ignite a spark. {PAWN_nameShortPossessive} youthful body is captivating.</li>
+            <li>I find a curious allure in the undeveloped form of {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>My old senses are still keen enough to appreciate the subtle beauty of {PAWN_nameShortPossessive} petite chest.</li>
+            <li>The small, tight nipples on {PAWN_nameShortPossessive} tiny breasts are quite intriguing.</li>
+            <li>They may be tiny, but the sight of {PAWN_nameShortPossessive} nakedness is enough to bring a warmth to my old bones.</li>
+            <li>{PAWN_nameShortPossessive} breasts, though small, still have a certain magnetic pull.</li>
+            <li>I fixate on the subtle movement of {PAWN_nameShortPossessive} chest, admiring the gentle curves.</li>
+            <li>A quiet appreciation for {PAWN_nameShortPossessive} youthful form. The tiny breasts are just a part of that.</li>
+            <li>The delicate, almost innocent appearance of {PAWN_nameShortPossessive} tiny breasts is strangely provocative.</li>
+            <li>My old heart beats a little faster at the sight of {PAWN_nameShortPossessive} exposed chest, no matter the size.</li>
+            <li>{PAWN_nameShortPossessive} breasts are small, but they hint at a deeper vulnerability that I find appealing.</li>
+            <li>I find myself drawn to the simple beauty of {PAWN_nameShortPossessive} tiny breasts, a stark contrast to the world's harshness.</li>
+            <li>The modest size of {PAWN_nameShortPossessive} breasts makes them seem almost private, which only increases my desire to observe.</li>
+            <li>I relish the opportunity to witness such an intimate detail as {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>The almost imperceptible jiggle of {PAWN_nameShortPossessive} tiny breasts is a subtle, yet captivating, movement.</li>
+            <li>A faint blush spreads across my face as I secretly admire {PAWN_nameShortPossessive} tiny breasts.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_Elderly_Female_opinion</defName>
+        <label>Tiny Breasts (Neutral)_Elderly_Female_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny breasts remind me of my own youth, before time took its toll.</li>
+            <li>She's still young, so those tiny breasts are quite normal. Mine were much the same once.</li>
+            <li>I see {PAWN_nameShortPossessive} tiny breasts. They're rather sweet, like little rosebuds.</li>
+            <li>Such small, firm breasts on {PAWN_nameShort}. A natural, youthful form.</li>
+            <li>Ah, the innocence of tiny breasts. A phase many of us go through.</li>
+            <li>{PAWN_nameShortPossessive} breasts are undeveloped, but perfectly adequate for her age.</li>
+            <li>I remember having breasts like that. So small and unburdened.</li>
+            <li>Those tiny breasts... they hold the promise of future curves.</li>
+            <li>{PAWN_nameShortPossessive} breasts are quite petite. It's a look that suits some.</li>
+            <li>There's a delicate quality to {PAWN_nameShortPossessive} small breasts.</li>
+            <li>Her breasts are small, but well-formed. Nothing wrong with that.</li>
+            <li>I noticed {PAWN_nameShortPossessive} tiny breasts. Youthful and unassuming.</li>
+            <li>They're barely more than nubs, these breasts. A modest beginning.</li>
+            <li>Small nipples and pale areolas. {PAWN_nameShortPossessive} breasts are still quite young.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are quite adorable, really.</li>
+            <li>It's clear {PAWN_nameShort} is still growing. Those breasts will likely fill out.</li>
+            <li>I've seen all types of breasts in my time. {PAWN_nameShortPossessive} are simply tiny.</li>
+            <li>Her tiny breasts are very neat and tidy. No fuss.</li>
+            <li>The shape of {PAWN_nameShortPossessive} breasts is quite delicate.</li>
+            <li>{PAWN_nameShortPossessive} breasts are certainly not large, but they're perfectly fine.</li>
+            <li>I recall wishing my own breasts were this small at times. Less trouble.</li>
+            <li>Such modest breasts. A different sort of beauty, perhaps.</li>
+            <li>{PAWN_nameShortPossessive} breasts have that youthful firmness. Enjoy it while it lasts, dear.</li>
+            <li>The innocence of {PAWN_nameShortPossessive} tiny breasts is striking.</li>
+            <li>I noted the subtle curve of {PAWN_nameShortPossessive} chest; {PAWN_possessive} breasts are indeed tiny.</li>
+            <li>They are what they are: small breasts. Nothing to comment on, really.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are perfectly suited to {PAWN_possessive} slender frame.</li>
+            <li>She's a young woman, those tiny breasts are just part of {PAWN_possessive} natural development.</li>
+            <li>I remember the fleeting moment when my own breasts were that small.</li>
+            <li>{PAWN_nameShortPossessive} breasts are barely more than a gentle swell.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Female voyer observes young female with nymphomaniac or perverted approach, can include own breasts mention or own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_Elderly_Female_voyer_opinion</defName>
+        <label>Tiny Breasts (Neutral)_Elderly_Female_voyer_opinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Ah, {PAWN_nameShortPossessive} tiny breasts. So youthful, so firm. A stark contrast to my own sagging form. I feel a familiar pang.</li>
+            <li>The delicate, almost untouched appearance of {PAWN_nameShortPossessive} tiny breasts is quite a sight. Makes me remember old desires.</li>
+            <li>Even at my age, a fresh sight like {PAWN_nameShortPossessive} tiny breasts can stir something. A longing for what once was.</li>
+            <li>I eye {PAWN_nameShortPossessive} small nipples and pale areolas. So innocent, so vulnerable. I feel a peculiar warmth.</li>
+            <li>{PAWN_nameShortPossessive} budding chest is a gentle reminder of youthful sensuality. I find myself observing closely.</li>
+            <li>Despite their size, {PAWN_nameShortPossessive} breasts have a certain allure. The simplicity is captivating.</li>
+            <li>I find myself comparing {PAWN_nameShortPossessive} youthful, tiny breasts to my own. A pang of nostalgia, and something more.</li>
+            <li>The firmness of {PAWN_nameShortPossessive} small breasts. A texture I remember, and subtly crave once more.</li>
+            <li>Such small breasts, yet they possess a quiet beauty. My gaze lingers, perhaps a little too long.</li>
+            <li>{PAWN_nameShortPossessive} delicate contours are a feast for my aged eyes.</li>
+            <li>The smooth skin and tight nipples on {PAWN_nameShortPossessive} tiny breasts are quite compelling.</li>
+            <li>I feel a strange, almost maternal yet deeply sensual, connection to {PAWN_nameShortPossessive} youthful form.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are like hidden treasures, waiting to be fully appreciated.</li>
+            <li>My own body may have aged, but my desire for beauty, especially naked beauty, has not faded. {PAWN_nameShortPossessive} breasts are lovely.</li>
+            <li>I secretly admire the unblemished youth of {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>The subtle, almost conical shape of {PAWN_nameShortPossessive} breasts is surprisingly arousing.</li>
+            <li>I find myself wondering what {PAWN_nameShortPossessive} breasts would feel like in my hands. A fleeting thought, but persistent.</li>
+            <li>There's a purity to {PAWN_nameShortPossessive} small breasts that I find intensely alluring.</li>
+            <li>The way {PAWN_nameShortPossessive} tiny breasts slightly jiggle with {PAWN_possessive} movements is a delicate dance.</li>
+            <li>My gaze drops to {PAWN_nameShortPossessive} chest, lingering on the gentle rise of {PAWN_possessive} tiny breasts.</li>
+            <li>I recall the thrill of my own youth looking at {PAWN_nameShortPossessive} small, firm breasts.</li>
+            <li>{PAWN_nameShortPossessive} breasts are a stark reminder of vibrant youth and blossoming sexuality.</li>
+            <li>I find the understated sensuality of {PAWN_nameShortPossessive} tiny breasts quite powerful.</li>
+            <li>My body responds with a quiet ache, seeing {PAWN_nameShortPossessive} youthful nudity.</li>
+            <li>The tight, youthful nipples on {PAWN_nameShortPossessive} tiny breasts are a delightful detail.</li>
+            <li>I enjoy the sight of {PAWN_nameShortPossessive} unadorned chest, appreciating the natural form of {PAWN_possessive} breasts.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are quite fetching, in their own quiet way.</li>
+            <li>The way the light catches the subtle curve of {PAWN_nameShortPossessive} tiny breasts... enchanting.</li>
+            <li>I feel a stir, a deep recognition of raw, untapped femininity in {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>My eyes are drawn to the small, perfect areolas surrounding {PAWN_nameShortPossessive} firm nipples.</li>
+        </opinionTexts>
+</Def>
+<!--Young male observes young female, more based on sexual atraction, can include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_MaleOpinion</defName>
+        <label>Tiny Breasts (Neutral)_MaleOpinion</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny breasts are... cute. A bit small for my taste, but there's a delicate appeal. I feel a slight quickening.</li>
+            <li>I caught sight of {PAWN_nameShortPossessive} tiny breasts. They're not much, but they're there. My eyes flickered down for a moment.</li>
+            <li>Those breasts are really small, almost flat. Doesn't do much for me, honestly.</li>
+            <li>{PAWN_nameShortPossessive} breasts are undeniably tiny, but the tight nipples caught my eye. A modest allure.</li>
+            <li>I noticed {PAWN_nameShortPossessive} tiny breasts. Not exactly what I look for, but still a female form.</li>
+            <li>There's a subtle curve to {PAWN_nameShortPossessive} chest. Her breasts are very discreet.</li>
+            <li>Her small breasts are barely more than gentle mounds. Not much to grab onto there.</li>
+            <li>{PAWN_nameShortPossessive} breasts are small, but they seem firm. A youthful look.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny breasts, and my own body didn't react much.</li>
+            <li>The nipples on {PAWN_nameShortPossessive} tiny breasts are small and pale, almost blending in.</li>
+            <li>They're definitely small. Not entirely unappealing, but not my preference.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts, so unassuming. It's a very innocent appearance.</li>
+            <li>I saw {PAWN_nameShortPossessive} chest, and the tiny breasts are almost an afterthought.</li>
+            <li>Not much bounce or jiggle from {PAWN_nameShortPossessive} tiny breasts. Very contained.</li>
+            <li>The slight rise of {PAWN_nameShortPossessive} breasts is there, but it's not prominent.</li>
+            <li>I confess, my gaze didn't linger long on {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>They're small, yes, but still breasts. My focus shifts to other parts.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are what they are. Just an observation.</li>
+            <li>I noticed the flat profile of {PAWN_nameShortPossessive} chest, her breasts are almost flush.</li>
+            <li>Her small areolas and tiny nipples are proportionate to her minuscule breasts.</li>
+            <li>The shape of {PAWN_nameShortPossessive} breasts is quite subtle, almost conical.</li>
+            <li>{PAWN_nameShortPossessive} breasts aren't going to turn any heads for their size, but they're present.</li>
+            <li>A very gentle, almost unnoticeable, curve on {PAWN_nameShortPossessive} chest.</li>
+            <li>I acknowledge {PAWN_nameShortPossessive} tiny breasts, but they don't ignite any passion.</li>
+            <li>They look firm, at least. {PAWN_nameShortPossessive} tiny breasts aren't saggy.</li>
+            <li>I registered the sight of {PAWN_nameShortPossessive} tiny breasts. Nothing to get excited about.</li>
+            <li>The skin over {PAWN_nameShortPossessive} tiny breasts looks smooth and taut.</li>
+            <li>My eyes quickly moved past {PAWN_nameShortPossessive} chest. The breasts are too small to hold my attention.</li>
+            <li>There's a youthful simplicity to {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>I observed {PAWN_nameShortPossessive} tiny breasts, and my own genitals remained undisturbed.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes young female -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_Voyeur</defName>
+        <label>Tiny Breasts (Neutral) trait Voyeur</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even tiny breasts are worth observing. The subtle swell of {PAWN_nameShortPossessive} chest holds a quiet intrigue for my voyeuristic gaze.</li>
+            <li>I enjoy the sight of {PAWN_nameShortPossessive} tiny breasts, appreciating the delicate form and youthful appearance.</li>
+            <li>My eyes are drawn to the gentle curves of {PAWN_nameShortPossessive} chest, lingering on the small breasts.</li>
+            <li>The innocence of {PAWN_nameShortPossessive} tiny breasts adds to the thrill of observation.</li>
+            <li>I find satisfaction in simply seeing {PAWN_nameShortPossessive} nakedness, no matter the size of {PAWN_possessive} breasts.</li>
+            <li>The subtle movement of {PAWN_nameShortPossessive} tiny breasts as {PAWN_pronoun} breathes is captivating.</li>
+            <li>I fixate on the small nipples and areolas, details often overlooked on larger forms.</li>
+            <li>The unblemished skin and tight form of {PAWN_nameShortPossessive} tiny breasts are quite lovely to behold.</li>
+            <li>There's a private beauty in {PAWN_nameShortPossessive} tiny breasts that makes observing them all the more satisfying.</li>
+            <li>I appreciate the delicate proportions of {PAWN_nameShortPossessive} chest, her tiny breasts included.</li>
+            <li>My voyeuristic nature is pleased by the simple, natural display of {PAWN_nameShortPossessive} body.</li>
+            <li>The gentle rise and fall of {PAWN_nameShortPossessive} tiny breasts is a mesmerizing sight.</li>
+            <li>I find myself studying the texture and contour of {PAWN_nameShortPossessive} small breasts.</li>
+            <li>The raw, undeveloped charm of {PAWN_nameShortPossessive} tiny breasts is something to appreciate.</li>
+            <li>I delight in observing {PAWN_nameShortPossessive} naked chest, no matter how modest {PAWN_possessive} breasts may be.</li>
+            <li>The youthful firmness of {PAWN_nameShortPossessive} tiny breasts is a testament to raw vitality.</li>
+            <li>My gaze drifts over {PAWN_nameShortPossessive} tiny breasts, absorbing every subtle detail.</li>
+            <li>There’s a quiet sensuality in the almost flat expanse of {PAWN_nameShortPossessive} chest, accented by {PAWN_possessive} tiny breasts.</li>
+            <li>I find myself lost in the contemplation of {PAWN_nameShortPossessive} unadorned form, tiny breasts and all.</li>
+            <li>The subtle definition around {PAWN_nameShortPossessive} tiny nipples is a delightful focal point.</li>
+            <li>I feel a deep, almost primal, satisfaction in witnessing such intimate nudity.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a delicate art, beautifully framed by {PAWN_possessive} slender frame.</li>
+            <li>I take pleasure in observing the complete, natural state of {PAWN_nameShortPossessive} body.</li>
+            <li>The way the shadows play on the subtle curves of {PAWN_nameShortPossessive} tiny breasts is captivating.</li>
+            <li>I enjoy the forbidden thrill of gazing upon {PAWN_nameShortPossessive} modest, yet exposed, chest.</li>
+            <li>My eyes trace the outline of {PAWN_nameShortPossessive} tiny breasts, finding beauty in their simplicity.</li>
+            <li>Every inch of {PAWN_nameShortPossessive} naked form is a treat for my voyeuristic gaze, including {PAWN_possessive} tiny breasts.</li>
+            <li>The very fact of {PAWN_nameShortPossessive} tiny breasts being exposed is enough to hold my attention.</li>
+            <li>I appreciate the unspoiled nature of {PAWN_nameShortPossessive} tiny breasts, untouched by time or experience.</li>
+            <li>The youthful plumpness, however slight, of {PAWN_nameShortPossessive} tiny breasts is quite appealing.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young female with nymphomaniac approach, can include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_Voyeur_M</defName>
+        <label>Tiny Breasts (Neutral) trait Voyeur_M</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even {PAWN_nameShortPossessive} tiny breasts are enough to stir a reaction in me. My shaft tightens, despite their modest size.</li>
+            <li>I find the subtle hint of form on {PAWN_nameShortPossessive} chest quite intriguing. It's the promise of what could be.</li>
+            <li>My eyes are glued to {PAWN_nameShortPossessive} tiny breasts, searching for every curve and detail. A faint throb in my groin.</li>
+            <li>The small, firm nipples on {PAWN_nameShortPossessive} tiny breasts are surprisingly captivating. They make my trousers feel a little tighter.</li>
+            <li>The youth and relative flatness of {PAWN_nameShortPossessive} chest actually makes it more illicit to observe. My arousal builds.</li>
+            <li>I crave to see more of {PAWN_nameShortPossessive} nude form, even if the breasts are tiny. My member is stirring.</li>
+            <li>My gaze lingers on {PAWN_nameShortPossessive} tiny breasts, appreciating the undeveloped beauty. A shiver runs down my spine.</li>
+            <li>The soft, pale areolas and tiny nipples on {PAWN_nameShortPossessive} breasts are a subtle invitation to my eyes.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a delightful sight for a man of my inclinations. My blood quickens.</li>
+            <li>I imagine what it would be like to tease those tiny nipples. My desire grows.</li>
+            <li>I absorb every detail of {PAWN_nameShortPossessive} naked chest, no matter how slight. My body responds.</li>
+            <li>The very innocence of {PAWN_nameShortPossessive} tiny breasts makes my voyeuristic urges stronger.</li>
+            <li>I fantasize about the soft touch of {PAWN_nameShortPossessive} skin, even on those tiny mounds.</li>
+            <li>My eyes feast on {PAWN_nameShortPossessive} unblemished youth, and the small, firm breasts are a key part of it.</li>
+            <li>The delicate contours of {PAWN_nameShortPossessive} tiny breasts are surprisingly stimulating.</li>
+            <li>I find the simple, natural beauty of {PAWN_nameShortPossessive} small breasts quite arousing.</li>
+            <li>My private parts awaken as I take in the sight of {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>The way {PAWN_nameShortPossessive} tiny breasts barely move makes them seem all the more pure, and thus, more enticing.</li>
+            <li>I can almost feel the texture of {PAWN_nameShortPossessive} smooth skin over {PAWN_possessive} tiny breasts.</li>
+            <li>A quiet appreciation, yet a powerful stir within me, at the sight of {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>My gaze falls repeatedly on {PAWN_nameShortPossessive} chest, drawn by the subtle form.</li>
+            <li>I wish I could reach out and trace the outline of those tiny breasts.</li>
+            <li>The thought of {PAWN_nameShortPossessive} unadorned body sends a shiver of excitement through me.</li>
+            <li>My interest is piqued by the subtle, unexpressed sensuality of {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>I can feel my own warmth growing as I openly admire {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>The sight of {PAWN_nameShortPossessive} exposed chest, however modest, is a treat for my eyes.</li>
+            <li>I enjoy the furtive glance at {PAWN_nameShortPossessive} tiny breasts, feeling a hidden pleasure.</li>
+            <li>Every inch of {PAWN_nameShortPossessive} naked form is a subject of intense fascination for me.</li>
+            <li>The small, pert nipples on {PAWN_nameShortPossessive} tiny breasts are quite adorable.</li>
+            <li>I find myself breathing a little heavier, gazing at {PAWN_nameShortPossessive} youthful and tiny breasts.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young female with nymphomaniac approach, can include own breats reaction mention or own genitail vagina reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_Voyeur_F</defName>
+        <label>Tiny Breasts (Neutral) trait Voyeur_F</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tiny breasts are so sweet, almost untouched. It makes me reflect on my own body, and a warmth spreads through me.</li>
+            <li>I observe {PAWN_nameShortPossessive} tiny breasts, so youthful and firm. A subtle envy, and a deeper curiosity.</li>
+            <li>The delicate form of {PAWN_nameShortPossessive} breasts is captivating. I find myself comparing them to my own, feeling a familiar stir.</li>
+            <li>Such delicate nipples and soft, pale areolas. I'm drawn to the innocence of it. My own breasts feel a phantom ache.</li>
+            <li>There’s an undeniable allure in {PAWN_nameShortPossessive} modest, yet exposed, chest. My loins tighten almost imperceptibly.</li>
+            <li>I find a strange intimacy in observing {PAWN_nameShortPossessive} tiny breasts. It feels almost sacred.</li>
+            <li>My gaze lingers on the youthful curves of {PAWN_nameShortPossessive} chest. I recall what it was like to be so unburdened.</li>
+            <li>The simple, unadorned beauty of {PAWN_nameShortPossessive} tiny breasts holds me rapt. My internal warmth increases.</li>
+            <li>I appreciate the natural firmness of {PAWN_nameShortPossessive} small breasts. A refreshing sight.</li>
+            <li>The subtle jiggle of {PAWN_nameShortPossessive} tiny breasts as {PAWN_pronoun} moves is a delicate dance.</li>
+            <li>My own body feels a sympathetic thrill, observing {PAWN_nameShortPossessive} nakedness.</li>
+            <li>I find myself fantasizing about the feel of {PAWN_nameShortPossessive} smooth skin over those tiny breasts.</li>
+            <li>The purity of {PAWN_nameShortPossessive} tiny breasts is a rare sight. It stirs something deep inside me.</li>
+            <li>I secretly admire the unblemished youth of {PAWN_nameShortPossessive} tiny breasts, a longing in my core.</li>
+            <li>The shape of {PAWN_nameShortPossessive} breasts is so delicate, almost a work of art.</li>
+            <li>My attention is drawn to the contrast between {PAWN_nameShortPossessive} tiny breasts and the expansive chest.</li>
+            <li>I feel a profound connection to {PAWN_nameShortPossessive} vulnerability, observing {PAWN_possessive} naked form.</li>
+            <li>The petite size of {PAWN_nameShortPossessive} nipples is perfectly framed by {PAWN_possessive} small areolas.</li>
+            <li>I am mesmerized by the subtle rise and fall of {PAWN_nameShortPossessive} tiny breasts with each breath.</li>
+            <li>There's a subtle power in {PAWN_nameShortPossessive} small, firm breasts.</li>
+            <li>My internal warmth, a familiar flush, grows as I observe {PAWN_nameShortPossessive} naked form.</li>
+            <li>I enjoy the forbidden delight of observing another woman's intimate details.</li>
+            <li>The sheer simplicity of {PAWN_nameShortPossessive} tiny breasts is deeply appealing.</li>
+            <li>I imagine my own fingers tracing the outline of {PAWN_nameShortPossessive} small breasts.</li>
+            <li>The soft, youthful appearance of {PAWN_nameShortPossessive} tiny breasts fills me with a strange pleasure.</li>
+            <li>I find myself captivated by the unique charm of {PAWN_nameShortPossessive} modest chest.</li>
+            <li>My eyes are drawn to the delicate features of {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>A quiet thrill runs through me, seeing {PAWN_nameShortPossessive} raw, natural beauty.</li>
+            <li>The way {PAWN_nameShortPossessive} tiny breasts sit high on {PAWN_possessive} chest is quite elegant.</li>
+            <li>I feel a blossoming desire within me, observing {PAWN_nameShortPossessive} exposed femininity.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_NMM_Exhibitionist</defName>
+        <label>Tiny Breasts (Neutral) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny breasts are on display, just as they should be! The more nakedness, the better for everyone to appreciate.</li>
+            <li>Ah, {PAWN_nameShort} embracing {PAWN_possessive} natural state, tiny breasts and all. A glorious sight! Makes me want to show off too.</li>
+            <li>I love seeing the human form unveiled. {PAWN_nameShortPossessive} tiny breasts are a testament to natural beauty.</li>
+            <li>The openness of {PAWN_nameShort} displaying {PAWN_possessive} tiny breasts is a delight. Everyone should be so free.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a simple, honest display. I wish more people would let it all hang out.</li>
+            <li>It's wonderful to see {PAWN_nameShort} so comfortable with {PAWN_possessive} body, even with tiny breasts.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts just reinforces my belief in public nudity.</li>
+            <li>I find the exposed form of {PAWN_nameShort} with {PAWN_possessive} tiny breasts quite liberating.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a perfect example of natural beauty, unadorned.</li>
+            <li>The sheer brazenness of {PAWN_nameShort} showing {PAWN_possessive} tiny breasts is truly inspiring.</li>
+            <li>I'm thrilled to see {PAWN_nameShortPossessive} tiny breasts. It encourages me to be even more open.</li>
+            <li>The world needs more sights like {PAWN_nameShortPossessive} tiny breasts, proudly displayed.</li>
+            <li>{PAWN_nameShortPossessive} breasts, however tiny, are a welcome sight. Embrace the naked form!</li>
+            <li>I feel a kinship with {PAWN_nameShort} for being so uninhibited. Those tiny breasts are just a bonus.</li>
+            <li>The view of {PAWN_nameShortPossessive} tiny breasts is simply fantastic. Freedom!</li>
+            <li>There's a certain thrill in witnessing {PAWN_nameShortPossessive} tiny breasts out in the open.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are just another part of the beautiful human anatomy.</li>
+            <li>I applaud {PAWN_nameShort} for having the courage to show {PAWN_possessive} tiny breasts.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts makes me want to shed my own clothes.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a celebration of the body, and I'm here for it.</li>
+            <li>It's so refreshing to see {PAWN_nameShortPossessive} tiny breasts, unashamed and free.</li>
+            <li>I adore the natural display of {PAWN_nameShortPossessive} tiny breasts. Perfect.</li>
+            <li>The naked form, even with tiny breasts, is a powerful statement.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts, out for the world to see. Brilliant!</li>
+            <li>I wish more people were as confident as {PAWN_nameShort} to display {PAWN_possessive} tiny breasts.</li>
+            <li>The open display of {PAWN_nameShortPossessive} tiny breasts is a beacon of freedom.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are exactly where they should be: visible.</li>
+            <li>I find immense pleasure in seeing {PAWN_nameShortPossessive} tiny breasts exposed.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts makes me want to celebrate nudity.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are just another delightful feature to be admired.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young female, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_NMM_Exhibitionist_male</defName>
+        <label>Tiny Breasts (Neutral) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny breasts are on display, a fine sight. Makes me want to show off my own package in return.</li>
+            <li>I love seeing {PAWN_nameShort} with {PAWN_possessive} tiny breasts exposed. It encourages me to let my own shaft breathe.</li>
+            <li>The naked truth of {PAWN_nameShortPossessive} tiny breasts is excellent. Time to flash my own.</li>
+            <li>Her tiny breasts are out there for all to see. Good for {PAWN_objective}! It makes me feel like revealing myself.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts makes me feel a surge of exhibitionistic energy. My cock is ready.</li>
+            <li>I find great pleasure in {PAWN_nameShort} confidently displaying {PAWN_possessive} tiny breasts. I should return the favor.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a delightful sight. It makes me want to whip out my own pride and joy.</li>
+            <li>Her openness with {PAWN_possessive} tiny breasts is invigorating. Time to reveal my own.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts just makes me want to show off my manhood even more.</li>
+            <li>I feel a strong urge to expose myself when I see {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a welcome sight, and I am compelled to offer my own display.</li>
+            <li>The freedom of {PAWN_nameShort} showing {PAWN_possessive} tiny breasts is truly inspiring. My member stiffens.</li>
+            <li>It's clear {PAWN_nameShort} understands the joy of public display, even with tiny breasts. I feel my own arousal growing.</li>
+            <li>I find the sight of {PAWN_nameShortPossessive} tiny breasts incredibly enticing. It makes me want to drop trou.</li>
+            <li>The subtle charm of {PAWN_nameShortPossessive} tiny breasts ignites my desire to reveal all.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a wonderful prelude to my own grand reveal.</li>
+            <li>I am encouraged by {PAWN_nameShortPossessive} openness. My own body wants to be seen, too.</li>
+            <li>The casual display of {PAWN_nameShortPossessive} tiny breasts is a green light for my own exhibitionism.</li>
+            <li>It's a beautiful thing, seeing {PAWN_nameShortPossessive} tiny breasts. I feel a growing urge to share my own.</li>
+            <li>I appreciate {PAWN_nameShort} showing {PAWN_possessive} tiny breasts. It validates my own need to expose.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts fills me with a bold confidence to show my true self.</li>
+            <li>Her modest form, proudly displayed, makes me eager to present my own.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a signal to me: it's time to let loose.</li>
+            <li>I feel a strong sense of camaraderie with {PAWN_nameShort} for {PAWN_possessive} public display.</li>
+            <li>The presence of {PAWN_nameShortPossessive} tiny breasts is an invitation for me to be utterly shameless.</li>
+            <li>I am aroused by the sight of {PAWN_nameShortPossessive} tiny breasts, and my body prepares for its own show.</li>
+            <li>The way {PAWN_nameShort} displays {PAWN_possessive} tiny breasts is a powerful statement. I respond in kind.</li>
+            <li>I can almost taste the freedom that comes with showing everything, thanks to {PAWN_nameShort}.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts makes my blood race with anticipation of my own reveal.</li>
+            <li>I feel an undeniable urge to expose my own manhood, inspired by {PAWN_nameShortPossessive} tiny breasts.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young female, can include own breats mention, own genitail mentionor, or own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_NMM_Exhibitionist_Female</defName>
+        <label>Tiny Breasts (Neutral) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny breasts are on full display, marvelous! Makes me want to unveil my own, perhaps even my vulva, for all to enjoy.</li>
+            <li>I adore seeing {PAWN_nameShort} with {PAWN_possessive} tiny breasts exposed. It makes me feel like letting my own breasts, and perhaps even more, be seen.</li>
+            <li>The natural exhibition of {PAWN_nameShortPossessive} tiny breasts is a beautiful thing. It ignites my urge to display my own body.</li>
+            <li>Her tiny breasts are unapologetically out there. Bravo! It fills me with the confidence to show off my own curves and hidden treasures.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts makes me feel a thrill of camaraderie. I want to bare my own chest and revel in the freedom.</li>
+            <li>I revel in {PAWN_nameShort} confidently displaying {PAWN_possessive} tiny breasts. I'm suddenly eager to present my own body.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a fine sight. It makes me want to drop my clothes and let my own body be admired.</li>
+            <li>Her openness with {PAWN_possessive} tiny breasts is truly inspiring. I feel a growing urge to share my own femininity.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts just makes me want to show off my own body even more.</li>
+            <li>I feel a strong urge to expose myself when I see {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a welcome sight, and I am compelled to offer my own display.</li>
+            <li>The freedom of {PAWN_nameShort} showing {PAWN_possessive} tiny breasts is truly inspiring. My clit begins to throb.</li>
+            <li>It's clear {PAWN_nameShort} understands the joy of public display, even with tiny breasts. My own arousal builds.</li>
+            <li>I find the sight of {PAWN_nameShortPossessive} tiny breasts incredibly enticing. It makes me want to shed my garments.</li>
+            <li>The subtle charm of {PAWN_nameShortPossessive} tiny breasts ignites my desire to reveal all, including my intimate parts.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a wonderful prelude to my own grand unveiling.</li>
+            <li>I am encouraged by {PAWN_nameShortPossessive} openness. My own body wants to be seen, too.</li>
+            <li>The casual display of {PAWN_nameShortPossessive} tiny breasts is a green light for my own exhibitionism.</li>
+            <li>It's a beautiful thing, seeing {PAWN_nameShortPossessive} tiny breasts. I feel a growing urge to share my own.</li>
+            <li>I appreciate {PAWN_nameShort} showing {PAWN_possessive} tiny breasts. It validates my own need to expose.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts fills me with a bold confidence to show my true self.</li>
+            <li>Her modest form, proudly displayed, makes me eager to present my own.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a signal to me: it's time to let loose.</li>
+            <li>I feel a strong sense of camaraderie with {PAWN_nameShort} for {PAWN_possessive} public display.</li>
+            <li>The presence of {PAWN_nameShortPossessive} tiny breasts is an invitation for me to be utterly shameless.</li>
+            <li>I am aroused by the sight of {PAWN_nameShortPossessive} tiny breasts, and my body prepares for its own show.</li>
+            <li>The way {PAWN_nameShort} displays {PAWN_possessive} tiny breasts is a powerful statement. I respond in kind.</li>
+            <li>I can almost taste the freedom that comes with showing everything, thanks to {PAWN_nameShort}.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts makes my blood race with anticipation of my own reveal.</li>
+            <li>I feel an undeniable urge to expose my own femininity, inspired by {PAWN_nameShortPossessive} tiny breasts.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_Nymphomaniac</defName>
+        <label>Tiny Breasts (Neutral) trait Nymphomaniac</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Even tiny breasts are enough to awaken a craving within me. {PAWN_nameShortPossessive} youthful body stirs a deep desire.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts, so innocent, makes my own body ache with unfulfilled yearning.</li>
+            <li>I find the subtle form of {PAWN_nameShortPossessive} tiny breasts incredibly arousing. My mind races with possibilities.</li>
+            <li>{PAWN_nameShortPossessive} delicate nipples and pale areolas are mesmerizing. I feel a growing heat within me.</li>
+            <li>My gaze devours {PAWN_nameShortPossessive} naked chest, drawn to the promise of pleasure, no matter the size.</li>
+            <li>The very fact of {PAWN_nameShortPossessive} tiny breasts being exposed sends shivers of desire through me.</li>
+            <li>I want to feel those tiny breasts against me, to explore every inch of {PAWN_nameShortPossessive} youthful form.</li>
+            <li>The innocence of {PAWN_nameShortPossessive} tiny breasts paradoxically fuels my insatiable lust.</li>
+            <li>I can almost taste the raw sensuality emanating from {PAWN_nameShortPossessive} naked body, tiny breasts and all.</li>
+            <li>My body vibrates with an intense longing at the sight of {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>I fixate on {PAWN_nameShortPossessive} chest, imagining the delicious sensations of touching {PAWN_possessive} small curves.</li>
+            <li>The youthful firmness of {PAWN_nameShortPossessive} tiny breasts is incredibly stimulating to my senses.</li>
+            <li>I find the unassuming nature of {PAWN_nameShortPossessive} tiny breasts utterly captivating.</li>
+            <li>Every inch of {PAWN_nameShortPossessive} nakedness, including those tiny breasts, sends a jolt of desire through me.</li>
+            <li>My nymphomaniac urges surge, fueled by the sight of {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>I am consumed by the desire to possess {PAWN_nameShort} and {PAWN_possessive} delicate body.</li>
+            <li>The soft, smooth skin over {PAWN_nameShortPossessive} tiny breasts calls to me.</li>
+            <li>I yearn for the intimate touch, especially upon those small, firm breasts.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts makes my loins throb with anticipation.</li>
+            <li>I am desperate to explore the subtle contours of {PAWN_nameShortPossessive} chest.</li>
+            <li>My mind is filled with erotic fantasies involving {PAWN_nameShort} and {PAWN_possessive} tiny breasts.</li>
+            <li>The youthful innocence of {PAWN_nameShortPossessive} tiny breasts is incredibly exciting.</li>
+            <li>I can't tear my eyes away from {PAWN_nameShortPossessive} naked chest, overwhelmed by lust.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a tantalizing appetizer to a full feast of pleasure.</li>
+            <li>I feel an insatiable hunger watching {PAWN_nameShortPossessive} every movement.</li>
+            <li>The small, pert nipples on {PAWN_nameShortPossessive} tiny breasts are beckoning.</li>
+            <li>I ache to feel the friction of {PAWN_nameShortPossessive} body against mine.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a delightful sight that awakens my deepest carnal desires.</li>
+            <li>My entire being is focused on the raw, unadulterated sensuality of {PAWN_nameShort}.</li>
+            <li>The very presence of {PAWN_nameShortPossessive} naked body, with {PAWN_possessive} tiny breasts, is intoxicating.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young female, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_Nymphomaniac_male</defName>
+        <label>Tiny Breasts (Neutral) trait Nymphomaniac_male</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tiny breasts may be small, but they awaken a powerful urge within me. My cock is throbbing.</li>
+            <li>I gaze at {PAWN_nameShortPossessive} tiny breasts, imagining my hands cupping them. My shaft is rigid.</li>
+            <li>The innocence of {PAWN_nameShortPossessive} tiny breasts only makes my desire more intense. My groin aches.</li>
+            <li>I crave to feel {PAWN_nameShortPossessive} small, firm breasts against my chest. My erection is undeniable.</li>
+            <li>My eyes are drawn to {PAWN_nameShortPossessive} delicate nipples, and my dick stirs in anticipation.</li>
+            <li>The sight of {PAWN_nameShortPossessive} naked chest, even with tiny breasts, sends a jolt of lust through my body.</li>
+            <li>I'm utterly consumed by the desire for {PAWN_nameShort} and {PAWN_possessive} untouched body. My cock is fully engorged.</li>
+            <li>I can almost taste the youthful flesh of {PAWN_nameShortPossessive} tiny breasts. My arousal is uncontrollable.</li>
+            <li>The subtle contours of {PAWN_nameShortPossessive} tiny breasts are incredibly stimulating. I need to relieve myself.</li>
+            <li>My blood pounds with a desperate need, watching {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>I envision pressing myself against {PAWN_nameShort}, feeling the softness of {PAWN_possessive} tiny breasts.</li>
+            <li>The innocent allure of {PAWN_nameShortPossessive} tiny breasts is a powerful aphrodisiac for me.</li>
+            <li>My body responds with an immediate and urgent erection at the sight of {PAWN_nameShortPossessive} nakedness.</li>
+            <li>I am mesmerized by {PAWN_nameShortPossessive} delicate areolas, and my desire intensifies.</li>
+            <li>I must have {PAWN_nameShort}. The sight of {PAWN_possessive} tiny breasts has sealed my fate.</li>
+            <li>My dick is practically leaping from my trousers at the sight of {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>The unblemished perfection of {PAWN_nameShortPossessive} tiny breasts drives me wild with lust.</li>
+            <li>I feel a profound, aching need to bury myself in {PAWN_nameShort}.</li>
+            <li>Every inch of {PAWN_nameShortPossessive} exposed body, including those tiny breasts, fuels my insatiable hunger.</li>
+            <li>My entire being is focused on the raw, primal urge ignited by {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>I fantasize about suckling on {PAWN_nameShortPossessive} tiny nipples. My mouth waters.</li>
+            <li>The simple, natural beauty of {PAWN_nameShortPossessive} tiny breasts is a powerful trigger for my desires.</li>
+            <li>My arousal is building with every breath {PAWN_nameShort} takes, watching {PAWN_possessive} tiny breasts.</li>
+            <li>I crave the intimate contact with {PAWN_nameShortPossessive} youthful body.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts makes me want to claim {PAWN_objective} entirely.</li>
+            <li>My hips twitch involuntarily, aching for release as I gaze at {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>I feel an intense, almost painful, longing for {PAWN_nameShort}.</li>
+            <li>The tiny breasts are a gateway to deeper, more primal desires within me.</li>
+            <li>My mind is filled with explicit thoughts of {PAWN_nameShort} and {PAWN_possessive} body.</li>
+            <li>I need to satisfy this burning desire that {PAWN_nameShortPossessive} tiny breasts have unleashed.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young female, may include own breats reaction  mention, or own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_Nymphomaniac_Female</defName>
+        <label>Tiny Breasts (Neutral) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her tiny breasts are so firm, so youthful. My own clit begins to throb, yearning for release.</li>
+            <li>I stare at {PAWN_nameShortPossessive} tiny breasts, a deep ache building within my loins. I crave connection.</li>
+            <li>The innocent appearance of {PAWN_nameShortPossessive} tiny breasts only magnifies my lust. My core tightens.</li>
+            <li>I long to feel those small, tight breasts against my own. A burning desire stirs in my groin.</li>
+            <li>My eyes are glued to {PAWN_nameShortPossessive} delicate nipples. My own breasts feel heavy, aching for touch.</li>
+            <li>The sight of {PAWN_nameShortPossessive} naked chest, even with tiny breasts, sends a powerful jolt of arousal through me.</li>
+            <li>I am consumed by an overwhelming desire for {PAWN_nameShort} and {PAWN_possessive} untouched body. My pussy is tingling.</li>
+            <li>I can almost feel the raw sensuality emanating from {PAWN_nameShortPossessive} youthful form. My whole body is alive with craving.</li>
+            <li>The subtle contours of {PAWN_nameShortPossessive} tiny breasts are incredibly stimulating. I need to find satisfaction.</li>
+            <li>My blood pounds with a desperate need, watching {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>I envision pressing myself against {PAWN_nameShort}, feeling the soft texture of {PAWN_possessive} skin.</li>
+            <li>The innocent allure of {PAWN_nameShortPossessive} tiny breasts is a powerful aphrodisiac for me.</li>
+            <li>My body responds with an immediate and urgent arousal at the sight of {PAWN_nameShortPossessive} nakedness.</li>
+            <li>I am mesmerized by {PAWN_nameShortPossessive} delicate areolas, and my desire intensifies.</li>
+            <li>I must have {PAWN_nameShort}. The sight of {PAWN_possessive} tiny breasts has awakened a beast within.</li>
+            <li>My clit is practically vibrating with excitement at the sight of {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>The unblemished perfection of {PAWN_nameShortPossessive} tiny breasts fills me with a desperate hunger.</li>
+            <li>I feel a profound, aching need to merge with {PAWN_nameShort}.</li>
+            <li>Every inch of {PAWN_nameShortPossessive} exposed body, including those tiny breasts, fuels my insatiable lust.</li>
+            <li>My entire being is focused on the raw, primal urge ignited by {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>I fantasize about suckling on {PAWN_nameShortPossessive} tiny nipples, my own mouth watering.</li>
+            <li>The simple, natural beauty of {PAWN_nameShortPossessive} tiny breasts is a powerful trigger for my desires.</li>
+            <li>My arousal is building with every breath {PAWN_nameShort} takes, watching {PAWN_possessive} tiny breasts.</li>
+            <li>I crave the intimate connection with {PAWN_nameShortPossessive} youthful body.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts makes me want to claim {PAWN_objective} entirely.</li>
+            <li>My hips twitch involuntarily, aching for release as I gaze at {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>I feel an intense, almost painful, longing for {PAWN_nameShort}.</li>
+            <li>The tiny breasts are a gateway to deeper, more primal desires within me.</li>
+            <li>My mind is filled with explicit thoughts of {PAWN_nameShort} and {PAWN_possessive} body.</li>
+            <li>I need to satisfy this burning desire that {PAWN_nameShortPossessive} tiny breasts have unleashed.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_Kind</defName>
+        <label>Tiny Breasts (Neutral) trait Kind</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny breasts are quite modest, but lovely in their own way. Everyone's body is unique and beautiful.</li>
+            <li>I notice {PAWN_nameShortPossessive} tiny breasts, and I hope {PAWN_pronoun} feels comfortable and confident in {PAWN_possessive} own skin.</li>
+            <li>The delicate form of {PAWN_nameShortPossessive} tiny breasts is charming. I wish {PAWN_objective} well.</li>
+            <li>Such small breasts, and yet they are perfectly natural. I appreciate {PAWN_nameShortPossessive} body just as it is.</li>
+            <li>I see {PAWN_nameShortPossessive} tiny breasts. I believe everyone deserves to feel accepted and beautiful.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a part of {PAWN_possessive} unique form. It's important to treat all bodies with respect.</li>
+            <li>I hope {PAWN_nameShort} feels at ease with {PAWN_possessive} body, including {PAWN_possessive} tiny breasts.</li>
+            <li>The unadorned beauty of {PAWN_nameShortPossessive} tiny breasts is simply natural.</li>
+            <li>I wish {PAWN_nameShort} happiness and comfort in {PAWN_possessive} own skin, whatever the size of {PAWN_possessive} breasts.</li>
+            <li>I noticed {PAWN_nameShortPossessive} tiny breasts, and I hope {PAWN_pronoun} is always treated with kindness.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are just another aspect of {PAWN_possessive} wonderful self.</li>
+            <li>It's important to appreciate the diversity of all bodies. {PAWN_nameShortPossessive} tiny breasts are no exception.</li>
+            <li>I send warmth and acceptance to {PAWN_nameShort} and {PAWN_possessive} tiny breasts.</li>
+            <li>The delicate outline of {PAWN_nameShortPossessive} tiny breasts is quite sweet.</li>
+            <li>I believe every body is a good body, and {PAWN_nameShortPossessive} tiny breasts are part of {PAWN_possessive} own perfection.</li>
+            <li>I hope {PAWN_nameShort} knows that {PAWN_possessive} tiny breasts are just as valid and beautiful as any other.</li>
+            <li>The natural state of {PAWN_nameShortPossessive} body, including {PAWN_possessive} tiny breasts, is something to be respected.</li>
+            <li>I extend my kindness and acceptance to {PAWN_nameShort} as {PAWN_pronoun} is.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a testament to {PAWN_possessive} youth and natural form.</li>
+            <li>I appreciate the opportunity to see {PAWN_nameShortPossessive} body as it is, tiny breasts and all.</li>
+            <li>I wish {PAWN_nameShort} nothing but positive self-regard regarding {PAWN_possessive} body.</li>
+            <li>The small, firm form of {PAWN_nameShortPossessive} breasts is quite charming.</li>
+            <li>I believe in celebrating all bodies, and {PAWN_nameShortPossessive} tiny breasts are part of that celebration.</li>
+            <li>I see {PAWN_nameShortPossessive} tiny breasts, and I hope {PAWN_pronoun} feels loved and accepted.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a natural, beautiful part of {PAWN_possessive} anatomy.</li>
+            <li>I hope {PAWN_nameShort} is surrounded by kindness and acceptance, embracing {PAWN_possessive} body.</li>
+            <li>The simple elegance of {PAWN_nameShortPossessive} tiny breasts is quite appealing.</li>
+            <li>I recognize the uniqueness of {PAWN_nameShortPossessive} body, including {PAWN_possessive} tiny breasts.</li>
+            <li>I wish {PAWN_nameShort} a lifetime of body positivity and happiness.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are perfectly fine and deserve to be seen with gentle eyes.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Breasts_Neutral_Tiny_trait_Prude</defName>
+        <label>Tiny Breasts (Neutral) trait Prude</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_nameShortPossessive} tiny breasts are barely there. Honestly, why even bother exposing them? It’s rather unseemly.</li>
+            <li>I saw {PAWN_nameShortPossessive} tiny breasts. Pathetic. Cover up, for the love of all that's decent.</li>
+            <li>Such small breasts. It's rather pointless to be walking around like that. No modesty at all.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are quite unimpressive. A wasted display, if you ask me.</li>
+            <li>I wish {PAWN_nameShort} would put some clothes on. Those tiny breasts are hardly worth the fuss.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts is just... awkward. Why must I be subjected to this?</li>
+            <li>Hardly a figure to flaunt. {PAWN_nameShortPossessive} tiny breasts are a barely-there spectacle.</li>
+            <li>I'd rather not see {PAWN_nameShortPossessive} tiny breasts. It's indecent, no matter the size.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are not only small, but frankly, quite unnecessary to be seen.</li>
+            <li>Honestly, there's nothing captivating about {PAWN_nameShortPossessive} tiny breasts. Just put clothes on.</li>
+            <li>I'm utterly unimpressed by {PAWN_nameShortPossessive} tiny breasts. What a bore.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are barely more than nubs. It's rather childish.</li>
+            <li>The lack of modesty surrounding {PAWN_nameShortPossessive} tiny breasts is appalling.</li>
+            <li>I find {PAWN_nameShortPossessive} tiny breasts entirely unremarkable and best left covered.</li>
+            <li>It's crude to expose oneself, especially when there's so little to show, like {PAWN_nameShortPossessive} tiny breasts.</li>
+            <li>Those tiny breasts are hardly a triumph of the human form. Disappointing.</li>
+            <li>I actively try to avoid looking at {PAWN_nameShortPossessive} tiny breasts. It's just... improper.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are a negligible feature. Move along.</li>
+            <li>The audacity to expose such undeveloped breasts! {PAWN_nameShort} has no shame.</li>
+            <li>I really don't need to see {PAWN_nameShortPossessive} tiny breasts. It's a distraction.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are an unfortunate sight. I prefer things to be more... substantial.</li>
+            <li>There's nothing enticing about {PAWN_nameShortPossessive} tiny breasts. Quite the opposite, actually.</li>
+            <li>The visible nipples on {PAWN_nameShortPossessive} tiny breasts are rather vulgar, given their smallness.</li>
+            <li>I'm trying to ignore {PAWN_nameShortPossessive} tiny breasts, but {PAWN_pronoun} insists on being naked.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts fail to impress in any way.</li>
+            <li>The audacity of {PAWN_nameShort} exposing those tiny breasts. Truly tasteless.</li>
+            <li>Frankly, {PAWN_nameShortPossessive} tiny breasts are a rather sad sight.</li>
+            <li>I find the exposed nature of {PAWN_nameShortPossessive} tiny breasts to be quite offensive.</li>
+            <li>{PAWN_nameShortPossessive} tiny breasts are proof that some things are better left unseen.</li>
+            <li>The sight of {PAWN_nameShortPossessive} tiny breasts makes me cringe.</li>
+        </opinionTexts>
+</Def>
+
+
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Breasts_Neutral_Tiny_SlimeBreasts</defName>
+        <label>Tiny Breasts(Neutral)_SlimeBreasts</label>
+        <targetBodyPart>Chest</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.02~0.20</severityRange>
+        <genitalFamily>Breasts</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeBreasts</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>{PAWN_possessive} slime breasts are quite small, a typical size for some body types, presenting no noteworthy features beyond moderate projection.</li>
+            <li>Their diminutive size is simply a fact, not evoking strong feelings, merely an observation of proportion.</li>
+            <li>These breasts are compact, contributing to {PAWN_possessive} silhouette without drawing significant attention or requiring detailed analysis.</li>
+            <li>The slight curvature suggests minimal volume, consistent with what one might expect from small slime mammary tissue.</li>
+            <li>They exist as a functional part of the chest, their small stature neither detractive nor exceptionally appealing.</li>
+            <li>One notes their presence as a minor anatomical detail, neither enhancing nor detracting from {PAWN_nameShortPossessive} physical presentation.</li>
+            <li>Their size falls within the normal range for tiny breasts, offering a standard visual impression without unique aesthetic characteristics.</li>
+            <li>The texture is that of typical slime, smooth and pliable, aligning with expectations for this biological structure.</li>
+            <li>As a physical attribute, these tiny slime breasts simply occupy their designated space, neither remarkable nor deficient.</li>
+            <li>They do not particularly stand out, but neither do they blend in; they are merely observed.</li>
+            <li>Light plays across their small forms unexceptionally, revealing nothing intriguing about their composition.</li>
+            <li>One might consider them a standard variation for a smaller frame, meeting basic breast criteria without exceeding them.</li>
+            <li>Their contour is a gentle curve, consistent with low volume, providing no specific visual intrigue.</li>
+            <li>The overall impression is mild presence, {PAWN_nameShortPossessive} breasts being a neutral component of {PAWN_possessive} upper body.</li>
+            <li>They contribute to biological completeness without eliciting strong positive or negative reactions.</li>
+            <li>Their proportion to {PAWN_possessive} frame seems adequate, aligning with common anatomical variations.</li>
+            <li>The feeling they convey is simple functionality, serving their purpose without additional aesthetic or emotional impact.</li>
+            <li>Nothing overtly remarkable or unusual about these tiny slime breasts; they are simply a part of {PAWN_possessive} physical reality.</li>
+            <li>Their slight projection is noted, but it doesn't lead to further contemplation or desire for closer inspection.</li>
+            <li>They contribute to visual continuity, without standing out as particularly attractive or unattractive.</li>
+        </opinionTexts>
+</Def>
+</Defs>

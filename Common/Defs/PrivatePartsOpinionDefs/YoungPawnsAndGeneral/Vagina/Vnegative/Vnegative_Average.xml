@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average</defName>
+        <label>Average Vagina (Negative)</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+		<genitalFamily>Vagina</genitalFamily> 
+		<modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+            </li>
+        </modExtensions>
+		<opinionTexts>
+			<li>{PAWN_nameShortPossessive} vagina is completely blank; it’s just there, nothing special.</li>
+			<li>I saw {PAWN_nameShortPossessive} nondescript vagina that was neither tight nor loose, with a bland and unsettling appearance.</li>
+			<li>I examined {PAWN_nameShortPossessive} vagina that was just dull in every way.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} generic vagina that was utterly forgettable, with a lackluster and unappealing texture.</li>
+			<li>I saw {PAWN_nameShortPossessive} vagina that was completely bland and uninteresting appearance that was easily forgettable.</li>
+			<li>I examined {PAWN_nameShortPossessive} vagina that was utterly generic, with a shape and size that was neither here nor there, and a texture that was as dull as cardboard.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} vagina that was so completely ordinary that it was almost invisible, with a lackluster and unappealing exterior that seemed to blend into the background.</li>
+			<li>I looked upon with indifference, {PAWN_nameShortPossessive} ordinary size was a forgettable feature, a mundane and unexciting aspect of femininity.</li>
+			<li>I examined with boredom, {PAWN_nameShortPossessive} dimensions were a mediocre sight, a lackluster exhibition of womanhood.</li>
+			<li>I gazed with disinterest, {PAWN_nameShortPossessive} unexceptional size was a dud, apredictable and uninspiring element of feminine allure.</li>
+			<li>{PAWN_nameShortPossessive} average-sized vagina was a sight that brought me both disgust and confusion. It was so... dull, neither intimidating nor inviting.</li>
+			<li>I examined {PAWN_nameShortPossessive} average vagina, the labia slightly parted, revealing a pink, fleshy interior. The clitoris was of a decent size, but its presence did little to quell my distaste.</li>
+			<li>I glanced at {PAWN_nameShortPossessive} unre{PAWN_nameShort}able organ, average in every way. The labia were a non-color, the texture rougher than I'd imagined. The clitoris was prominent, but its size brought no pleasure, only discomfort.</li>
+			<li>I saw {PAWN_nameShortPossessive} moderate opening, a middling passage that seemed to neither impress nor offend.</li>
+			<li>I examined {PAWN_nameShortPossessive} standard portal, a typical entrance that seemed to blend into the background.</li>
+			<li>I examined {PAWN_nameShortPossessive}, a slit, typical, gross.</li>
+            <li>A truly unremarkable sight, {PAWN_nameShortPossessive} vaginal lips were flat, the opening just a void.</li>
+            <li>Observing {PAWN_nameShortPossessive} genitalia, I found its plainness unsettling; the clitoris, barely noticeable, lacked any appeal.</li>
+            <li>{PAWN_nameShortPossessive} average depth felt like a shallow promise, a mere cavity devoid of intrigue.</li>
+            <li>Its ordinary size was surprisingly off-putting; {PAWN_nameShortPossessive} labia seemed too pale, too thin.</li>
+            <li>I recoiled slightly from {PAWN_nameShortPossessive} uninspiring form; the average anatomy was a dull display.</li>
+            <li>The mundane sight of {PAWN_nameShortPossessive} vagina filled me with a quiet disappointment.</li>
+            <li>Such an utterly typical vagina, its unvaried contours offered no visual stimulation whatsoever.</li>
+            <li>{PAWN_nameShortPossessive} dull, fleshy folds simply hung there, completely devoid of any distinctive features.</li>
+            <li>A predictable opening, nothing about {PAWN_nameShortPossessive} vaginal structure piqued my interest.</li>
+            <li>{PAWN_nameShortPossessive} clitoris was barely there, lost in the indifferent landscape of its average labia.</li>
+            <li>Observing {PAWN_nameShortPossessive} anatomy felt like staring at a blank wall; utterly uninspired and forgettable.</li>
+            <li>The shape of {PAWN_nameShortPossessive} vagina was so common, it felt like a cheap imitation of femininity.</li>
+            <li>I couldn't help but feel a sense of apathy witnessing {PAWN_nameShortPossessive} utterly standard female anatomy.</li>
+            <li>{PAWN_nameShortPossessive} vaginal area looked so unkempt, the average size only made its disarray more noticeable.</li>
+            <li>Its entrance was simply average, offering no hint of hidden depths or unique characteristics.</li>
+            <li>The visible parts of {PAWN_nameShortPossessive} vagina were strikingly plain, almost offensive in their normalcy.</li>
+            <li>{PAWN_nameShortPossessive} labia were ill-defined, contributing to the overall unremarkable nature of the entire region.</li>
+            <li>I was struck by the sheer banality of {PAWN_nameShortPossessive} average vagina, a true testament to blandness.</li>
+            <li>A decidedly unsexy sight, {PAWN_nameShortPossessive} average dimensions were thoroughly unappealing.</li>
+            <li>My eyes quickly moved past {PAWN_nameShortPossessive} form, finding nothing captivating about its common appearance.</li>
+            <li>The overall impression of {PAWN_nameShortPossessive} vagina was one of utter mediocrity, leaving a bitter taste.</li>
+            <li>It was a truly uninspiring display of average female anatomy, a vision I wish I could unsee.</li>
+            <li>{PAWN_nameShortPossessive} unremarkable opening looked as though it held no secrets, only mundane emptiness.</li>
+            <li>I noted the ordinary size of {PAWN_nameShortPossessive} vagina with a shudder; such a dull, lifeless presentation.</li>
+            <li>The visible anatomy of {PAWN_nameShortPossessive} genitalia offered nothing to admire, only a jarring sense of the mundane.</li>
+            <li>I felt a distinct wave of disappointment; {PAWN_nameShortPossessive} average vagina was devoid of any redeeming features.</li>
+            <li>{PAWN_nameShortPossessive} clitoris was disappointingly indistinct, disappearing into the ordinary folds of the labia.</li>
+            <li>A completely unexciting spectacle, {PAWN_nameShortPossessive} average feminine parts were a letdown.</li>
+        </opinionTexts>
+    
+</Def>
+
+<!--Elder Male observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_Elderly_Male_opinion</defName>
+        <label>Average Vagina (Negative)_Elderly_Male_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her youth wasted on such a plain, uninspiring opening. What a bore.</li>
+            <li>I've seen plenty in my time, and {PAWN_nameShortPossessive} is utterly forgettable.</li>
+            <li>A mere glimpse confirmed its mediocrity; nothing unique or enticing about it.</li>
+            <li>The average proportions were just depressing, lacking any youthful vivacity.</li>
+            <li>Such a bland display; the young ones these days seem so uninspired.</li>
+            <li>It's just... there. No remarkable features, no intriguing depths.</li>
+            <li>A common sight, {PAWN_nameShortPossessive} anatomy holds no appeal for these old eyes.</li>
+            <li>Its plainness is almost offensive, a stark contrast to youth's supposed vibrancy.</li>
+            <li>Nothing to remember, nothing to even mildly appreciate about {PAWN_nameShortPossessive} parts.</li>
+            <li>I expected more from a young body, but {PAWN_nameShortPossessive} vagina is disappointingly dull.</li>
+            <li>A tiresome sight, truly, {PAWN_nameShortPossessive} average form offers no solace.</li>
+            <li>Her clitoris seemed small, almost invisible, against the unappealing folds.</li>
+            <li>The labia were a pale, unremarkable color, lacking any youthful blush.</li>
+            <li>Its ordinary size and shape made me sigh; no allure whatsoever.</li>
+            <li>I’ve seen better, even in my fading memories. {PAWN_nameShortPossessive} is nothing special.</li>
+            <li>A generic specimen, hardly worth a second glance from a seasoned observer.</li>
+            <li>The disappointing reality of {PAWN_nameShortPossessive} average female parts is quite stark.</li>
+            <li>Youthful freshness, but for what? It's just a common hole.</li>
+            <li>Her lack of distinctive features makes me question youthful appeal altogether.</li>
+            <li>Such a dull opening, it's a wasted opportunity on a young frame.</li>
+            <li>{PAWN_nameShortPossessive} ordinary anatomy confirms my low expectations.</li>
+            <li>The uninteresting shape of {PAWN_nameShortPossessive} vagina suggests a lack of experience.</li>
+            <li>No unique contours, just a standard female form. How boring.</li>
+            <li>I felt a familiar sense of disinterest; her youth does not redeem its blandness.</li>
+            <li>The plainness of her genitals is utterly uninspiring for an elder like myself.</li>
+            <li>Her average depth seemed shallow, like a promise unfulfilled.</li>
+            <li>A rather unexceptional display, even for someone so young.</li>
+            <li>Its lack of character makes me long for the more striking forms of my past.</li>
+            <li>{PAWN_nameShortPossessive} vagina is a perfectly typical, and thus perfectly unappealing, sight.</li>
+            <li>It’s simply average; a reminder that not all youth is captivating.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder Male voyer observes young female, with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_Elderly_Male_voyer_opinion</defName>
+        <label>Average Vagina (Negative)_Elderly_Male_voyer_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My old member stirs weakly, disappointed by {PAWN_nameShortPossessive} bland, uninspired opening.</li>
+            <li>I peered at {PAWN_nameShortPossessive} unexceptional folds; hardly worth the effort, my loins remain cold.</li>
+            <li>Such a common, unappealing sight. My erection is a mere phantom now.</li>
+            <li>A frustratingly average display, failing to ignite even a flicker of desire in me.</li>
+            <li>I strained my eyes, but {PAWN_nameShortPossessive} dull anatomy left my senses numb.</li>
+            <li>This plainness almost makes me recoil; it's an insult to a true connoisseur.</li>
+            <li>My anticipation turned to ash seeing {PAWN_nameShortPossessive} generic, unmemorable entrance.</li>
+            <li>The lack of unique detail in {PAWN_nameShortPossessive} vagina leaves my old urges unsatisfied.</li>
+            <li>An utterly unstimulating view, my aging body refuses to respond to such mediocrity.</li>
+            <li>I craved more, but {PAWN_nameShortPossessive} average form offered nothing but disappointment.</li>
+            <li>My gaze lingered, but only out of morbid curiosity at its blandness, not arousal.</li>
+            <li>{PAWN_nameShortPossessive} plain labia were a disservice to the art of voyeurism.</li>
+            <li>The clitoris was barely visible, a pathetic dot against an uninspired landscape.</li>
+            <li>My old senses yearned for excitement, but {PAWN_nameShortPossessive} average depth was a letdown.</li>
+            <li>I felt a familiar disgust; her ordinary shape did nothing to stir my lust.</li>
+            <li>It's just a hole, no artistry, no inviting mystery. A waste of my time.</li>
+            <li>I tried to imagine, but {PAWN_nameShortPossessive} blandness killed any erotic fantasy.</li>
+            <li>Such a generic specimen, it makes my own parts shrink in protest.</li>
+            <li>My perverted mind searches for something, anything, but finds only tedium.</li>
+            <li>The youth is there, but the allure is absent from {PAWN_nameShortPossessive} average parts.</li>
+            <li>I observed {PAWN_nameShortPossessive} uninspired form; my body's reaction was a yawn.</li>
+            <li>Her common anatomy is almost an offense to my sophisticated tastes.</li>
+            <li>My hands twitch, but only to dismiss the thought of touching something so uninspired.</li>
+            <li>The visible parts of {PAWN_nameShortPossessive} vagina were so ordinary, I felt a pang of boredom.</li>
+            <li>This sort of mundane sight makes me question my very inclinations.</li>
+            <li>I peered closer, hoping for something, but found only unremarkable folds.</li>
+            <li>{PAWN_nameShortPossessive} average appearance does not stir the sleeping beast within me.</li>
+            <li>My old lust died a quiet death upon witnessing such typical female parts.</li>
+            <li>A truly uninspiring display; my desires remain utterly unmoved.</li>
+            <li>The absolute blandness of {PAWN_nameShortPossessive} vagina is a pervert's nightmare.</li>
+        </opinionTexts>
+</Def>
+<!--Elder Female observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_Elderly_Female_opinion</defName>
+        <label>Average Vagina (Negative)_Elderly_Female_opinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverLifeStage>HumanlikeAdult</requiredObserverLifeStage>
+			<minBiologicalAge>60</minBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Such a plain thing, for all her youth. It's nothing special.</li>
+            <li>I remember better, even in my fading years. {PAWN_nameShortPossessive} is quite unremarkable.</li>
+            <li>Her anatomy is so utterly ordinary, a disappointment for someone so young.</li>
+            <li>The visible lips are uninspired, lacking any of the beauty age brings.</li>
+            <li>A common form, devoid of character. Youth is truly wasted on some.</li>
+            <li>I’ve seen this countless times. There's nothing unique about {PAWN_nameShortPossessive} parts.</li>
+            <li>Her clitoris seems insignificant, lost within the mundane folds.</li>
+            <li>The average size is just... average. Nothing to comment on, really.</li>
+            <li>A dull display, indeed. Her youth doesn't make it any less boring.</li>
+            <li>It's almost shocking how utterly bland {PAWN_nameShortPossessive} anatomy truly is.</li>
+            <li>I looked and found nothing compelling. Just a typical young female.</li>
+            <li>The folds are unappealing, a pale imitation of true feminine grace.</li>
+            <li>Such an uninspired entrance. I expected more from her generation.</li>
+            <li>Her overall shape is so utterly common, it borders on offensive.</li>
+            <li>The depth seems shallow, indicating a lack of... experience.</li>
+            <li>It’s a rather unexceptional sight, hardly worth a prolonged glance.</li>
+            <li>I felt a familiar sense of boredom wash over me; nothing new here.</li>
+            <li>Her average vagina looks unkempt, a careless presentation.</li>
+            <li>A generic presentation of femininity, quite a letdown.</li>
+            <li>There's an uninviting quality to {PAWN_nameShortPossessive} ordinary form.</li>
+            <li>I observed {PAWN_nameShortPossessive} anatomy with a sigh; such predictable construction.</li>
+            <li>The visible anatomy is just so pedestrian, it's almost a shame.</li>
+            <li>No unique marks, no distinct beauty. Just plain, plain, plain.</li>
+            <li>Her unexceptional size reflects a lack of personal care or distinction.</li>
+            <li>My eyes quickly moved on, finding nothing to hold my attention.</li>
+            <li>The disappointing reality of {PAWN_nameShortPossessive} uninspired female parts.</li>
+            <li>It's a rather depressing sight, lacking any vibrancy or allure.</li>
+            <li>Such an uninteresting opening, devoid of any mystery or charm.</li>
+            <li>The clitoris is so small, it hardly registers. Unimpressive.</li>
+            <li>A completely forgettable form. She clearly doesn't appreciate her own body.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young male observes young female, more based on sexual atraction-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_MaleOpinion</defName>
+        <label>Average Vagina (Negative)_MaleOpinion</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her vagina is utterly uninspiring, just... there. No spark, no thrill.</li>
+            <li>I saw {PAWN_nameShortPossessive} bland opening; nothing about it made me feel anything.</li>
+            <li>It's so plain, it actually kills any attraction I might have felt.</li>
+            <li>{PAWN_nameShortPossessive} average depth seems too shallow, a letdown.</li>
+            <li>Her labia are unremarkable, a pale, uninviting shade.</li>
+            <li>The clitoris is barely noticeable, a disappointing lack of prominence.</li>
+            <li>I glanced, and quickly looked away. There's nothing exciting about it.</li>
+            <li>Just another average one, completely forgettable in every way.</li>
+            <li>This doesn't stir anything in me. It's just a hole, plain and simple.</li>
+            <li>Its ordinary size and shape are a genuine turn-off for me.</li>
+            <li>A truly unsexy sight, devoid of any visual appeal or promise.</li>
+            <li>{PAWN_nameShortPossessive} anatomy screams 'bland', and my desires remain untouched.</li>
+            <li>I'd rather look at a wall. So uninteresting, so common.</li>
+            <li>The lack of distinctive features makes it completely unappealing.</li>
+            <li>Such a dull opening, it actively discourages any sexual thought.</li>
+            <li>Her uninspiring shape suggests a disappointing lack of passion.</li>
+            <li>I felt a strong sense of apathy; this won't ignite anything.</li>
+            <li>It's a generic female part, offering no unique stimulation.</li>
+            <li>The visible anatomy is too common to be even remotely attractive.</li>
+            <li>My interest evaporated instantly; nothing about it draws me in.</li>
+            <li>{PAWN_nameShortPossessive} vagina looks like it's never been truly enjoyed.</li>
+            <li>The average width offers no excitement, only indifference.</li>
+            <li>I wouldn't bother. It's just a regular, unexciting vagina.</li>
+            <li>No unique scent, no inviting texture. Just utterly bland.</li>
+            <li>The sheer normality of it is what makes it so unappealing.</li>
+            <li>I see nothing special, nothing that screams 'take me'.</li>
+            <li>It’s a functional opening, but entirely devoid of charm.</li>
+            <li>My eyes searched for something, anything, but found only dullness.</li>
+            <li>A disappointing revelation; its average nature is a turn-off.</li>
+            <li>{PAWN_nameShortPossessive} overall appearance is a sexual void.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer unisex (all genders) observes young female -->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_Voyeur</defName>
+        <label>Average Vagina (Negative) trait Voyeur</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>I lingered, but {PAWN_nameShortPossessive} uninspired vagina offered no visual feast.</li>
+            <li>The view was disappointingly plain, utterly lacking in hidden depths or intrigue.</li>
+            <li>My voyeuristic urges died quickly, confronted by such a generic sight.</li>
+            <li>I tried to find something compelling, but {PAWN_nameShortPossessive} blandness prevailed.</li>
+            <li>This average opening offers no secret, no forbidden glimpse. Just dullness.</li>
+            <li>A frustratingly ordinary view, leaving me feeling hollow and unfulfilled.</li>
+            <li>My eyes scanned, but {PAWN_nameShortPossessive} anatomy was too common to excite.</li>
+            <li>The clitoris was barely a bump, robbing the scene of any interest.</li>
+            <li>Such uninspired labia, a pale imitation of true hidden beauty.</li>
+            <li>I craved novelty, but {PAWN_nameShortPossessive} vagina offered only tedious familiarity.</li>
+            <li>The disappointing reality of {PAWN_nameShortPossessive} average female parts, so mundane.</li>
+            <li>My voyeur's heart sinks; there's nothing captivating about this generic form.</li>
+            <li>I watched, but gained no thrill. It was just a plain opening.</li>
+            <li>The visible features are so unremarkable, it almost hurts to look.</li>
+            <li>{PAWN_nameShortPossessive} depth seemed standard, betraying no thrilling secrets.</li>
+            <li>I felt a profound sense of anticlimax. So much for excitement.</li>
+            <li>The unvaried contours of {PAWN_nameShortPossessive} vagina offered no visual journey.</li>
+            <li>My gaze drifted, unable to fixate on such an uninteresting display.</li>
+            <li>A truly uninspiring revelation, this average anatomy is a voyeur's bane.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} genitals is a genuine turn-off for me.</li>
+            <li>I seek the unique, but {PAWN_nameShortPossessive} vagina is depressingly ordinary.</li>
+            <li>The visible anatomy is so bland, it extinguishes any spark of curiosity.</li>
+            <li>My inner pervert yawned at the sight of such average female parts.</li>
+            <li>I examined {PAWN_nameShortPossessive} form, and it left me utterly cold.</li>
+            <li>The uninviting appearance of {PAWN_nameShortPossessive} vagina makes me wish I hadn't looked.</li>
+            <li>It's a functional opening, but devoid of any voyeuristic appeal.</li>
+            <li>My search for the unusual ended abruptly at this common sight.</li>
+            <li>{PAWN_nameShortPossessive} labia are a featureless wasteland, offering no intrigue.</li>
+            <li>The sheer normalcy of it all is deeply unsettling for my tastes.</li>
+            <li>I turned away, bored and unfulfilled by this average spectacle.</li>
+        </opinionTexts>
+</Def>
+<!--voyer male observes young female with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_Voyeur_M</defName>
+        <label>Average Vagina (Negative) trait Voyeur_M</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My member remains limp; {PAWN_nameShortPossessive} uninspiring vagina offers nothing to stir it.</li>
+            <li>I watched, but my arousal withered. Such a bland, common entrance.</li>
+            <li>This average sight is a cold shower; my desires are utterly unmoved.</li>
+            <li>Her unexceptional form kills any flicker of a perverted thought.</li>
+            <li>I craved stimulation, but {PAWN_nameShortPossessive} plainness left me utterly deflated.</li>
+            <li>The visible anatomy is too generic, a disappointment for a true voyeur.</li>
+            <li>My eyes scoured for detail, but found only dull, unremarkable folds.</li>
+            <li>The clitoris was disappointingly small, a mere dot against the uninspired labia.</li>
+            <li>Such an ordinary sight, my anticipation quickly turned to disgust.</li>
+            <li>My perverted mind finds no joy in {PAWN_nameShortPossessive} utterly common vagina.</li>
+            <li>I felt a familiar disgust; her regular depth offered no perverse thrill.</li>
+            <li>My loins remain silent; this plain display holds no power over me.</li>
+            <li>I was hoping for something, anything, but found only tedium.</li>
+            <li>The blandness of {PAWN_nameShortPossessive} vagina actively suppresses my urges.</li>
+            <li>It’s just a hole, uninteresting, unstimulating. My thoughts drift away.</li>
+            <li>Her uninspired appearance makes my own parts retract in protest.</li>
+            <li>My lust died a quiet death upon seeing such predictable female parts.</li>
+            <li>The common contours of {PAWN_nameShortPossessive} vagina are a voyeur's nightmare.</li>
+            <li>I focused, hoping for some perverse detail, but found only mediocrity.</li>
+            <li>A truly unappealing revelation, my arousal is thoroughly denied.</li>
+            <li>My gaze lingered, but only out of confusion at its utter lack of allure.</li>
+            <li>{PAWN_nameShortPossessive} unexceptional width offers no perverse curiosity.</li>
+            <li>I turned away, feeling more bored than aroused by this display.</li>
+            <li>The visible anatomy of {PAWN_nameShortPossessive} genitals offered nothing to fantasize about.</li>
+            <li>My perversion demands more; this average form is an insult.</li>
+            <li>Its lack of unique features makes me question my entire fascination.</li>
+            <li>I witnessed its mundane reality; my erection was a fleeting memory.</li>
+            <li>{PAWN_nameShortPossessive} labia are a featureless landscape, offering no pleasure to my eyes.</li>
+            <li>The sheer normalcy of it all is profoundly unsettling for my tastes.</li>
+            <li>A pathetic sight, really; it couldn't even make my member twitch.</li>
+        </opinionTexts>
+</Def>
+
+<!--voyer Female observes young female with perverted approach, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_Voyeur_F</defName>
+        <label>Average Vagina (Negative) trait Voyeur_F</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			    <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My own femininity recoils from {PAWN_nameShortPossessive} utterly bland vagina.</li>
+            <li>I peered at her, but found nothing intriguing, no hidden beauty.</li>
+            <li>Such an uninspired form, it does nothing to stir my own senses.</li>
+            <li>Her average anatomy is a disappointing mirror, reflecting only mediocrity.</li>
+            <li>The visible lips are too plain, too common, lacking any allure.</li>
+            <li>I sought beauty, but {PAWN_nameShortPossessive} vagina offered only tedious normalcy.</li>
+            <li>My gaze moved quickly, finding nothing compelling about her.</li>
+            <li>The clitoris was indistinct, a frustrating lack of definition.</li>
+            <li>A generic display, quite a letdown for a discerning female voyeur.</li>
+            <li>Her depth seemed unexciting, devoid of any fascinating intricacies.</li>
+            <li>I felt a familiar disgust; her ordinary shape did not appeal to me.</li>
+            <li>It’s just a cavity, lacking any artistry or inviting mystery.</li>
+            <li>I tried to find something special, but {PAWN_nameShortPossessive} blandness killed it.</li>
+            <li>Such a common specimen, it makes my own body feel superior.</li>
+            <li>My perverted mind searches, but finds only tedium in her.</li>
+            <li>The youth is there, but the allure is absent from her average parts.</li>
+            <li>I observed {PAWN_nameShortPossessive} uninspired form; my own desires remained quiet.</li>
+            <li>Her common anatomy is almost an offense to my sophisticated tastes.</li>
+            <li>My hands twitch, but only to dismiss the thought of touching something so plain.</li>
+            <li>The visible parts of {PAWN_nameShortPossessive} vagina were so ordinary, I felt a pang of boredom.</li>
+            <li>This sort of mundane sight makes me question my very inclinations.</li>
+            <li>I peered closer, hoping for something, but found only unremarkable folds.</li>
+            <li>Her average appearance does not stir my latent desires.</li>
+            <li>My lust for feminine beauty died upon witnessing such typical parts.</li>
+            <li>A truly uninspiring display; my desires remain utterly unmoved.</li>
+            <li>The absolute blandness of {PAWN_nameShortPossessive} vagina is a true disappointment.</li>
+            <li>Its uninspiring contours are a source of profound ennui for me.</li>
+            <li>I find no perverse joy in something so utterly conventional.</li>
+            <li>The lack of intricate detail is a complete turn-off for my discerning eyes.</li>
+            <li>My feminine curiosity was quickly extinguished by such an uninspired view.</li>
+        </opinionTexts>
+</Def>
+<!--unisex Exhibitionist observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_NMM_Exhibitionist</defName>
+        <label>Average Vagina (Negative) trait NMM_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Such a plain vagina; it offers no excitement for an exhibitionist like me.</li>
+            <li>I showed off my own for nothing. {PAWN_nameShortPossessive} is utterly uninspiring.</li>
+            <li>Its blandness is a personal affront to my desire to provoke.</li>
+            <li>A common sight, it draws no attention, no gasps. What's the point?</li>
+            <li>The utter lack of uniqueness makes it unsuited for public display.</li>
+            <li>I feel no urge to compete; {PAWN_nameShortPossessive} anatomy is so forgettable.</li>
+            <li>There's no thrill in exposing myself if the audience sees this.</li>
+            <li>The invisible clitoris and plain labia are a disappointment.</li>
+            <li>This average form simply blends into the background, a waste.</li>
+            <li>I expected a reaction, but {PAWN_nameShortPossessive} vagina elicits only boredom.</li>
+            <li>My own grand display feels cheapened by such a mundane comparison.</li>
+            <li>The unexciting contours offer no inspiration for scandalous behavior.</li>
+            <li>Its ordinariness ruins the thrill of any shared nudity.</li>
+            <li>Why would anyone bother to display something so utterly generic?</li>
+            <li>I felt a profound sense of anticlimax. So much for spectacle.</li>
+            <li>The sheer banality of {PAWN_nameShortPossessive} vagina is offensive.</li>
+            <li>No unique depth, no striking features. Just... average.</li>
+            <li>This doesn't make me want to strip. It's too boring.</li>
+            <li>The absence of character in {PAWN_nameShortPossessive} anatomy is appalling.</li>
+            <li>A disappointing sight, it fails to impress or provoke.</li>
+            <li>My exhibitionist spirit is crushed by such a common display.</li>
+            <li>It's so plain, it barely registers as a female part.</li>
+            <li>The visible anatomy is too pedestrian for any meaningful reaction.</li>
+            <li>I seek shock and awe, but {PAWN_nameShortPossessive} offers only a yawn.</li>
+            <li>Her uninspired form makes me regret even glancing at it.</li>
+            <li>The unremarkable shape makes me question her self-expression.</li>
+            <li>Its utter lack of allure is a personal insult to my exhibitionism.</li>
+            <li>This is the kind of average that makes me want to stay clothed.</li>
+            <li>{PAWN_nameShortPossessive} vagina is a visual void, not a canvas for excitement.</li>
+            <li>A truly uninspiring display; it dampens my desire to expose.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Exhibitionist observes young female, may include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_NMM_Exhibitionist_male</defName>
+        <label>Average Vagina (Negative) trait NMM_Exhibitionist_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My own proud display feels wasted on such a plain, unexciting vagina.</li>
+            <li>I felt no urge to show off my member; {PAWN_nameShortPossessive} offers no competition.</li>
+            <li>This blandness is an affront; my excitement just shriveled.</li>
+            <li>Her average depth couldn't even compare to my own impressive length.</li>
+            <li>I expected a reaction, but {PAWN_nameShortPossessive} genitalia elicits only boredom.</li>
+            <li>My ambition to shock died seeing such a dull, generic sight.</li>
+            <li>The visible parts are so unremarkable, they actually deflate my ego.</li>
+            <li>Her clitoris is so small, it makes my own feel monumental.</li>
+            <li>This plainness makes my own grand display feel utterly pointless.</li>
+            <li>I wouldn't even bother to pull out my own for such a spectacle.</li>
+            <li>A disappointing revelation; my member remains utterly unimpressed.</li>
+            <li>Her uninspired form offers no challenge, no thrill to my exhibitionism.</li>
+            <li>The absolute normalcy of it is deeply offensive to my bold spirit.</li>
+            <li>My desire to perform withered; this is not the audience I seek.</li>
+            <li>It’s a functional hole, but utterly devoid of any scandalous appeal.</li>
+            <li>I felt only apathy. This is not the kind of attention I crave.</li>
+            <li>The lack of character in {PAWN_nameShortPossessive} vagina is appalling.</li>
+            <li>This sight makes me want to cover up, not expose more.</li>
+            <li>Her unexceptional width offers no tantalizing comparison.</li>
+            <li>My gaze quickly dismissed it; there's nothing to boast against.</li>
+            <li>A truly uninspiring display, it dampens my desire to reveal.</li>
+            <li>The visible anatomy is too common to evoke any strong response.</li>
+            <li>I seek gasps and shock, but {PAWN_nameShortPossessive} offers only a yawn.</li>
+            <li>Her uninspired form makes me regret even a passing glance.</li>
+            <li>The unremarkable shape makes me question her own self-worth.</li>
+            <li>Its utter lack of allure is a personal insult to my exhibitionist pride.</li>
+            <li>This is the kind of average that makes me feel over-exposed for nothing.</li>
+            <li>{PAWN_nameShortPossessive} vagina is a visual void, not a stage for my grandeur.</li>
+            <li>A pathetic sight; it couldn't even make my member twitch in anticipation.</li>
+            <li>My exhibitionist desires are actively suppressed by this blandness.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Exhibitionist observes young female, can include own genitail mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_NMM_Exhibitionist_Female</defName>
+        <label>Average Vagina (Negative) trait NMM_Exhibitionist_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My own beautiful display feels wasted on such a plain, unexciting vagina.</li>
+            <li>I felt no urge to flaunt my own parts; {PAWN_nameShortPossessive} offers no thrill.</li>
+            <li>This blandness is an affront; my exhibitionist spirit is crushed.</li>
+            <li>Her average depth pales in comparison to my own, more adventurous form.</li>
+            <li>I expected a reaction, but {PAWN_nameShortPossessive} genitalia elicits only boredom.</li>
+            <li>My ambition to shock died seeing such a dull, generic sight.</li>
+            <li>The visible parts are so unremarkable, they actually deflate my pride.</li>
+            <li>Her clitoris is so small, it makes my own feel vastly superior.</li>
+            <li>This plainness makes my own grand display feel utterly pointless.</li>
+            <li>I wouldn't even bother to reveal my own for such a spectacle.</li>
+            <li>A disappointing revelation; my own form remains utterly unimpressed.</li>
+            <li>Her uninspired form offers no challenge, no thrill to my exhibitionism.</li>
+            <li>The absolute normalcy of it is deeply offensive to my bold spirit.</li>
+            <li>My desire to perform withered; this is not the audience I seek.</li>
+            <li>It’s a functional hole, but utterly devoid of any scandalous appeal.</li>
+            <li>I felt only apathy. This is not the kind of attention I crave.</li>
+            <li>The lack of character in {PAWN_nameShortPossessive} vagina is appalling.</li>
+            <li>This sight makes me want to cover up, not expose more.</li>
+            <li>Her unexceptional width offers no tantalizing comparison.</li>
+            <li>My gaze quickly dismissed it; there's nothing to boast against.</li>
+            <li>A truly uninspiring display, it dampens my desire to reveal.</li>
+            <li>The visible anatomy is too common to evoke any strong response.</li>
+            <li>I seek gasps and shock, but {PAWN_nameShortPossessive} offers only a yawn.</li>
+            <li>Her uninspired form makes me regret even a passing glance.</li>
+            <li>The unremarkable shape makes me question her own self-worth.</li>
+            <li>Its utter lack of allure is a personal insult to my exhibitionist pride.</li>
+            <li>This is the kind of average that makes me feel over-exposed for nothing.</li>
+            <li>{PAWN_nameShortPossessive} vagina is a visual void, not a stage for my grandeur.</li>
+            <li>A pathetic sight; it couldn't even make my own parts react in anticipation.</li>
+            <li>My exhibitionist desires are actively suppressed by this blandness.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_Nymphomaniac</defName>
+        <label>Average Vagina (Negative) trait Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Such a plain vagina; it ignites absolutely no desire within me.</li>
+            <li>I looked for passion, but {PAWN_nameShortPossessive} blandness left me cold.</li>
+            <li>Its mediocrity is almost painful; a nymphomaniac craves more.</li>
+            <li>A common sight, utterly devoid of any tantalizing depth or allure.</li>
+            <li>The uninspired clitoris and labia offer no promise of pleasure.</li>
+            <li>I craved intense sensation, but {PAWN_nameShortPossessive} anatomy offers nothing.</li>
+            <li>This average form is a severe letdown for my insatiable urges.</li>
+            <li>My desires remain completely unprovoked by such a bland display.</li>
+            <li>A frustratingly dull opening; it simply doesn't quicken my pulse.</li>
+            <li>The visible features are so unremarkable, they actively repel my lust.</li>
+            <li>I sought ecstasy, but {PAWN_nameShortPossessive} vagina promises only tedium.</li>
+            <li>My nymphomaniac spirit is crushed by this utterly generic sight.</li>
+            <li>I longed for excitement, but found only apathy here.</li>
+            <li>The unvaried contours of {PAWN_nameShortPossessive} vagina offer no thrill.</li>
+            <li>My gaze drifted, unable to fixate on something so uninteresting.</li>
+            <li>A truly unappealing revelation, this average anatomy is a curse.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} genitals is a genuine turn-off for me.</li>
+            <li>I seek intense pleasure, but {PAWN_nameShortPossessive} vagina is depressingly ordinary.</li>
+            <li>The visible anatomy is so bland, it extinguishes any spark of desire.</li>
+            <li>My inner hedonist yawned at the sight of such average female parts.</li>
+            <li>I examined {PAWN_nameShortPossessive} form, and it left me utterly cold.</li>
+            <li>The uninviting appearance of {PAWN_nameShortPossessive} vagina makes me wish I hadn't looked.</li>
+            <li>It's a functional opening, but devoid of any erotic appeal.</li>
+            <li>My search for pleasure ended abruptly at this common sight.</li>
+            <li>{PAWN_nameShortPossessive} labia are a featureless wasteland, offering no excitement.</li>
+            <li>The sheer normalcy of it all is deeply unsettling for my urges.</li>
+            <li>I turned away, bored and unsatisfied by this average spectacle.</li>
+            <li>A pathetic sight, really; it couldn't even make me feel a flicker.</li>
+            <li>My desires are actively suppressed by the blandness of this display.</li>
+            <li>This vagina is a complete void, offering absolutely no thrill.</li>
+        </opinionTexts>
+</Def>
+
+<!--Male Nymphomaniac observes young female, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_Nymphomaniac_male</defName>
+        <label>Average Vagina (Negative) trait Nymphomaniac_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Male</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My member remains utterly flaccid; {PAWN_nameShortPossessive} blandness is a cruel joke.</li>
+            <li>I sought release, but her uninspired vagina left me completely unsatisfied.</li>
+            <li>This mediocrity is a torment; my urges crave intense sensation.</li>
+            <li>Her common parts extinguish any spark of arousal I might have felt.</li>
+            <li>I craved pleasure, but {PAWN_nameShortPossessive} anatomy offers only a frustrating void.</li>
+            <li>The visible features are too generic, actively repelling my lust.</li>
+            <li>My eyes searched for something, anything, but found only dullness.</li>
+            <li>The clitoris was disappointingly small, a pathetic excuse for stimulation.</li>
+            <li>Such an ordinary sight, my anticipation quickly turned to revulsion.</li>
+            <li>My insatiable desires find no joy in {PAWN_nameShortPossessive} common vagina.</li>
+            <li>I felt a familiar disgust; her regular depth offered no carnal thrill.</li>
+            <li>My loins remain cold and unresponsive; this plain display holds no power.</li>
+            <li>I was hoping for fireworks, but found only tedious embers.</li>
+            <li>The blandness of {PAWN_nameShortPossessive} vagina actively suppresses my potent urges.</li>
+            <li>It’s just a hole, uninteresting, unstimulating. My mind drifts away.</li>
+            <li>Her uninspired appearance makes my own parts retract in disgust.</li>
+            <li>My lust died a quiet, miserable death upon seeing such predictable parts.</li>
+            <li>The common contours of {PAWN_nameShortPossessive} vagina are a nymphomaniac's nightmare.</li>
+            <li>I focused, hoping for some perverse detail, but found only utter mediocrity.</li>
+            <li>A truly unappealing revelation, my arousal is thoroughly denied.</li>
+            <li>My gaze lingered, but only out of morbid curiosity at its utter lack of allure.</li>
+            <li>{PAWN_nameShortPossessive} unexceptional width offers no carnal curiosity whatsoever.</li>
+            <li>I turned away, feeling more bored than aroused by this display.</li>
+            <li>The visible anatomy of {PAWN_nameShortPossessive} genitals offered nothing to fantasize about.</li>
+            <li>My immense craving demands more; this average form is an insult.</li>
+            <li>Its lack of unique features makes me question my entire addiction.</li>
+            <li>I witnessed its mundane reality; my erection was a long-lost dream.</li>
+            <li>{PAWN_nameShortPossessive} labia are a featureless wasteland, offering no pleasure to my eyes.</li>
+            <li>The sheer normalcy of it all is profoundly unsettling for my intense urges.</li>
+            <li>A pathetic sight, really; it couldn't even make my member twitch.</li>
+        </opinionTexts>
+</Def>
+
+<!--Female Nymphomaniac observes young female, may include own genitail reaction mention-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_Nymphomaniac_Female</defName>
+        <label>Average Vagina (Negative) trait Nymphomaniac_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+				<requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>My own femininity recoils from {PAWN_nameShortPossessive} utterly bland vagina.</li>
+            <li>I sought passion, but found nothing intriguing, no hidden fires.</li>
+            <li>Such an uninspired form, it does nothing to stir my own desires.</li>
+            <li>Her average anatomy is a disappointing mirror, reflecting only mediocrity.</li>
+            <li>The visible lips are too plain, too common, lacking any allure.</li>
+            <li>I craved release, but {PAWN_nameShortPossessive} vagina offered only tedious normalcy.</li>
+            <li>My gaze moved quickly, finding nothing compelling about her.</li>
+            <li>The clitoris was indistinct, a frustrating lack of definition.</li>
+            <li>A generic display, quite a letdown for a discerning female nymphomaniac.</li>
+            <li>Her depth seemed unexciting, devoid of any fascinating intricacies.</li>
+            <li>I felt a familiar disgust; her ordinary shape did not appeal to me.</li>
+            <li>It’s just a cavity, lacking any artistry or inviting mystery.</li>
+            <li>I tried to find something special, but {PAWN_nameShortPossessive} blandness killed it.</li>
+            <li>Such a common specimen, it makes my own body feel superior.</li>
+            <li>My intense desires search, but find only tedium in her.</li>
+            <li>The youth is there, but the allure is absent from her average parts.</li>
+            <li>I observed {PAWN_nameShortPossessive} uninspired form; my own urges remained quiet.</li>
+            <li>Her common anatomy is almost an offense to my sophisticated tastes.</li>
+            <li>My hands twitch, but only to dismiss the thought of touching something so plain.</li>
+            <li>The visible parts of {PAWN_nameShortPossessive} vagina were so ordinary, I felt a pang of boredom.</li>
+            <li>This sort of mundane sight makes me question my very inclinations.</li>
+            <li>I peered closer, hoping for something, but found only unremarkable folds.</li>
+            <li>Her average appearance does not stir my latent, powerful desires.</li>
+            <li>My lust for feminine beauty died upon witnessing such typical parts.</li>
+            <li>A truly uninspiring display; my desires remain utterly unmoved.</li>
+            <li>The absolute blandness of {PAWN_nameShortPossessive} vagina is a true disappointment.</li>
+            <li>Its uninspiring contours are a source of profound ennui for me.</li>
+            <li>I find no carnal joy in something so utterly conventional.</li>
+            <li>The lack of intricate detail is a complete turn-off for my discerning eyes.</li>
+            <li>My feminine craving was quickly extinguished by such an uninspired view.</li>
+        </opinionTexts>
+</Def>
+
+<!-- kind unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_Kind</defName>
+        <label>Average Vagina (Negative) trait Kind</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                <requiredObserverTrait>Kind</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>While I prefer to see the good, {PAWN_nameShortPossessive} vagina is rather plain.</li>
+            <li>I tried to find something nice, but its averageness is truly stark.</li>
+            <li>It's not... bad, but there's genuinely nothing appealing about it.</li>
+            <li>My kind nature can't gloss over how utterly unremarkable {PAWN_nameShortPossessive} is.</li>
+            <li>I wish I could say something positive, but it's just very common.</li>
+            <li>A functional, yet uninspired, part. I'm afraid it's quite dull.</li>
+            <li>The visible labia are quite ordinary, lacking any distinctive charm.</li>
+            <li>I try to be understanding, but its appearance is truly forgettable.</li>
+            <li>The clitoris is so subtle it's almost invisible, leaving little to admire.</li>
+            <li>Its average size is, well, average. Not much more to add.</li>
+            <li>I don't mean to be harsh, but {PAWN_nameShortPossessive} vagina is just so plain.</li>
+            <li>It's a shame, really, for someone so young to have such an uninspired form.</li>
+            <li>I focused on its naturalness, but couldn't escape its sheer blandness.</li>
+            <li>A truly unexciting display, even for someone who values simplicity.</li>
+            <li>I try to appreciate all forms, but this one offers nothing to commend.</li>
+            <li>The depth seems quite standard, offering no intriguing mysteries.</li>
+            <li>I noticed it, but honestly, it left no lasting impression.</li>
+            <li>Her visible anatomy is just so common, it's almost sad.</li>
+            <li>I wish I could find a unique compliment, but it’s just not there.</li>
+            <li>The shape is utterly conventional; there's no artistic quality to it.</li>
+            <li>I'm trying to be polite, but it's really quite unappealing.</li>
+            <li>It's rather unremarkable; my kind gaze finds no special beauty.</li>
+            <li>The folds are nothing special, just a normal, uninspired arrangement.</li>
+            <li>I'm certain it serves its purpose, but aesthetically, it's a void.</li>
+            <li>I try to find beauty everywhere, but this requires significant effort.</li>
+            <li>The overall impression is one of profound ordinariness.</li>
+            <li>I tried to focus on something else, but its blandness was undeniable.</li>
+            <li>Her average features are, unfortunately, a little depressing to behold.</li>
+            <li>I acknowledge its presence, but offer no further comment.</li>
+            <li>It's simply there, a testament to uninspired natural design.</li>
+        </opinionTexts>
+</Def>
+	
+	
+<!-- Prude or prudish person unisex observes young female-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Vagina_Negative_Average_trait_Prude</defName>
+        <label>Average Vagina (Negative) trait Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+                
+				<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Disgusting. Such a common, unsightly mess to expose.</li>
+            <li>I wish I hadn't seen {PAWN_nameShortPossessive} crude, average parts. Repulsive.</li>
+            <li>Utterly pedestrian and offensive. Cover it up, immediately!</li>
+            <li>The sight of {PAWN_nameShortPossessive} unrefined anatomy is simply vulgar.</li>
+            <li>A bland and irritating display. It's a blight on decency.</li>
+            <li>Why must I endure such common, unappealing nakedness?</li>
+            <li>Its ordinary nature is somehow more offensive than extreme.</li>
+            <li>The visible folds are frankly grotesque in their plainness.</li>
+            <li>A truly unseemly and forgettable exhibition. I'm appalled.</li>
+            <li>This average form is a testament to poor taste and vulgarity.</li>
+            <li>My eyes ache from seeing such a dull, uninspired opening.</li>
+            <li>It's just there, an unsanitary, uninviting cavity. Disgusting.</li>
+            <li>The clitoris is barely there, yet its presence is still an affront.</li>
+            <li>Such an unkempt and common sight. It makes me ill.</li>
+            <li>I recoil from the sheer ordinariness of {PAWN_nameShortPossessive} anatomy.</li>
+            <li>A predictable, unimpressive, and frankly, gross display.</li>
+            <li>The overall impression is one of utter sloppiness.</li>
+            <li>It's not even interesting in its vulgarity; just boring.</li>
+            <li>This sight offends my sensibilities in every conceivable way.</li>
+            <li>The crude shape of {PAWN_nameShortPossessive} vagina is an abomination.</li>
+            <li>I'd rather be blind than witness such a common, unrefined spectacle.</li>
+            <li>Its average dimensions are a monument to banality.</li>
+            <li>The unappealing texture makes me want to vomit.</li>
+            <li>Why are people so eager to display such utterly common parts?</li>
+            <li>I felt a profound wave of irritation. Just cover it up!</li>
+            <li>The unremarkable features are an insult to modesty.</li>
+            <li>It’s just a hole, a bland and uninteresting one at that.</li>
+            <li>My sensibilities are assaulted by this raw, unpolished display.</li>
+            <li>The visible anatomy is a source of genuine discomfort.</li>
+            <li>A truly vulgar and uninspired sight. I want to forget it.</li>
+        </opinionTexts>
+</Def>
+
+<!--  description for female with horse gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Negative_Average_HorseVagina</defName>
+        <label>Average Vagina (Negative) HorseVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_equine_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>HorseVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That horse-like vagina is disgustingly plain, utterly lacking any wild allure.</li>
+            <li>I recoiled from its equine blandness; even as a horse's, it's unremarkable.</li>
+            <li>Its coarse texture and mundane shape make it truly unappealing, a poor equine imitation.</li>
+            <li>A shamefully average horse vagina, offering no thrill of the exotic.</li>
+            <li>The unusual gene is wasted on such a common, uninspired form.</li>
+            <li>This equine anomaly is just... there. No intriguing depths, just dull.</li>
+            <li>The visible folds are too coarse, too ordinary for such a unique gene.</li>
+            <li>I expected a monstrous beauty, but got this uninspired, hairy mess.</li>
+            <li>The clitoris is far too small, lost in the overwhelming plainness.</li>
+            <li>Its average size for a horse's feels like a cruel joke, a true disappointment.</li>
+            <li>A rather dull horse vagina, utterly devoid of any animalistic charm.</li>
+            <li>The uninviting appearance makes me question everything about this gene.</li>
+            <li>I searched for a hint of wild grace, but found only clunky ordinariness.</li>
+            <li>Its peculiar anatomy is simply bland, not fascinating.</li>
+            <li>Such an unrefined opening, even for a horse. It's truly disappointing.</li>
+            <li>The visible anatomy is too rough, too unkempt to be appealing.</li>
+            <li>I felt a wave of disgust at its sheer uninspired equine nature.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} horse vagina is a jarring sight.</li>
+            <li>I wish the gene had produced something less... rustic and more enticing.</li>
+            <li>Its average depth suggests nothing beyond its functional crudeness.</li>
+            <li>The unvaried contours of this horse vagina are a visual bore.</li>
+            <li>My gaze quickly dismissed it; there's nothing captivating about this beastly part.</li>
+            <li>A truly uninspiring display of equine anatomy, it's quite off-putting.</li>
+            <li>It's so plain, even for a horse-hybrid, it barely registers.</li>
+            <li>The visible structure offers nothing, just a reminder of coarse barn life.</li>
+            <li>I seek the exotic, but this horse vagina is depressingly mundane.</li>
+            <li>The absence of character in {PAWN_nameShortPossessive} equine parts is appalling.</li>
+            <li>This sight makes me feel like I'm in a stable, not observing a unique being.</li>
+            <li>Her unexceptional horse width offers no unique appeal.</li>
+            <li>A pathetic sight; the horse gene didn't do her any favors here.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with dog gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Negative_Average_DogVagina</defName>
+        <label>Average Vagina (Negative) DogVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_canine_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DogVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That dog-like vagina is disgustingly plain, lacking any wild charm.</li>
+            <li>I recoiled from its canine blandness; even as a dog's, it's unremarkable.</li>
+            <li>Its coarse texture and mundane shape make it truly unappealing, a poor dog imitation.</li>
+            <li>A shamefully average dog vagina, offering no thrill of the exotic.</li>
+            <li>The unusual gene is wasted on such a common, uninspired form.</li>
+            <li>This canine anomaly is just... there. No intriguing depths, just dull.</li>
+            <li>The visible folds are too coarse, too ordinary for such a unique gene.</li>
+            <li>I expected a monstrous beauty, but got this uninspired, messy thing.</li>
+            <li>The clitoris is far too small, lost in the overwhelming plainness.</li>
+            <li>Its average size for a dog's feels like a cruel joke, a true disappointment.</li>
+            <li>A rather dull dog vagina, utterly devoid of any animalistic charm.</li>
+            <li>The uninviting appearance makes me question everything about this gene.</li>
+            <li>I searched for a hint of wild grace, but found only clunky ordinariness.</li>
+            <li>Its peculiar anatomy is simply bland, not fascinating.</li>
+            <li>Such an unrefined opening, even for a dog. It's truly disappointing.</li>
+            <li>The visible anatomy is too rough, too unkempt to be appealing.</li>
+            <li>I felt a wave of disgust at its sheer uninspired canine nature.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} dog vagina is a jarring sight.</li>
+            <li>I wish the gene had produced something less... brutish and more enticing.</li>
+            <li>Its average depth suggests nothing beyond its functional crudeness.</li>
+            <li>The unvaried contours of this dog vagina are a visual bore.</li>
+            <li>My gaze quickly dismissed it; there's nothing captivating about this beastly part.</li>
+            <li>A truly uninspiring display of canine anatomy, it's quite off-putting.</li>
+            <li>It's so plain, even for a dog-hybrid, it barely registers.</li>
+            <li>The visible structure offers nothing, just a reminder of coarse dog life.</li>
+            <li>I seek the exotic, but this dog vagina is depressingly mundane.</li>
+            <li>The absence of character in {PAWN_nameShortPossessive} canine parts is appalling.</li>
+            <li>This sight makes me feel like I'm in a kennel, not observing a unique being.</li>
+            <li>Her unexceptional dog width offers no unique appeal.</li>
+            <li>A pathetic sight; the dog gene didn't do her any favors here.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with cat gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Negative_Average_CatVagina</defName>
+        <label>Average Vagina (Negative) CatVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_feline_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>CatVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That cat-like vagina is disgustingly plain, utterly lacking any feline grace.</li>
+            <li>I recoiled from its feline blandness; even as a cat's, it's unremarkable.</li>
+            <li>Its coarse texture and mundane shape make it truly unappealing, a poor cat imitation.</li>
+            <li>A shamefully average cat vagina, offering no thrill of the exotic.</li>
+            <li>The unusual gene is wasted on such a common, uninspired form.</li>
+            <li>This feline anomaly is just... there. No intriguing depths, just dull.</li>
+            <li>The visible folds are too coarse, too ordinary for such a unique gene.</li>
+            <li>I expected a monstrous beauty, but got this uninspired, matted thing.</li>
+            <li>The clitoris is far too small, lost in the overwhelming plainness.</li>
+            <li>Its average size for a cat's feels like a cruel joke, a true disappointment.</li>
+            <li>A rather dull cat vagina, utterly devoid of any animalistic charm.</li>
+            <li>The uninviting appearance makes me question everything about this gene.</li>
+            <li>I searched for a hint of wild grace, but found only clunky ordinariness.</li>
+            <li>Its peculiar anatomy is simply bland, not fascinating.</li>
+            <li>Such an unrefined opening, even for a cat. It's truly disappointing.</li>
+            <li>The visible anatomy is too rough, too unkempt to be appealing.</li>
+            <li>I felt a wave of disgust at its sheer uninspired feline nature.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} cat vagina is a jarring sight.</li>
+            <li>I wish the gene had produced something less... wild and more enticing.</li>
+            <li>Its average depth suggests nothing beyond its functional crudeness.</li>
+            <li>The unvaried contours of this cat vagina are a visual bore.</li>
+            <li>My gaze quickly dismissed it; there's nothing captivating about this beastly part.</li>
+            <li>A truly uninspiring display of feline anatomy, it's quite off-putting.</li>
+            <li>It's so plain, even for a cat-hybrid, it barely registers.</li>
+            <li>The visible structure offers nothing, just a reminder of coarse cat life.</li>
+            <li>I seek the exotic, but this cat vagina is depressingly mundane.</li>
+            <li>The absence of character in {PAWN_nameShortPossessive} feline parts is appalling.</li>
+            <li>This sight makes me feel like I'm in a litter box, not observing a unique being.</li>
+            <li>Her unexceptional cat width offers no unique appeal.</li>
+            <li>A pathetic sight; the cat gene didn't do her any favors here.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with demon gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Negative_Average_DemonVagina</defName>
+        <label>Average Vagina (Negative) DemonVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_demonic_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DemonVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That demon vagina is disgustingly plain, utterly lacking any hellish allure.</li>
+            <li>I recoiled from its demonic blandness; even as a demon's, it's unremarkable.</li>
+            <li>Its coarse texture and mundane shape make it truly unappealing, a poor demonic imitation.</li>
+            <li>A shamefully average demon vagina, offering no thrill of the infernal.</li>
+            <li>The unusual gene is wasted on such a common, uninspired form.</li>
+            <li>This demonic anomaly is just... there. No intriguing depths, just dull.</li>
+            <li>The visible folds are too coarse, too ordinary for such a unique gene.</li>
+            <li>I expected a monstrous beauty, but got this uninspired, vile thing.</li>
+            <li>The clitoris is far too small, lost in the overwhelming plainness.</li>
+            <li>Its average size for a demon's feels like a cruel joke, a true disappointment.</li>
+            <li>A rather dull demon vagina, utterly devoid of any hellish charm.</li>
+            <li>The uninviting appearance makes me question everything about this gene.</li>
+            <li>I searched for a hint of dark grace, but found only clunky ordinariness.</li>
+            <li>Its peculiar anatomy is simply bland, not fascinating.</li>
+            <li>Such an unrefined opening, even for a demon. It's truly disappointing.</li>
+            <li>The visible anatomy is too rough, too unkempt to be appealing.</li>
+            <li>I felt a wave of disgust at its sheer uninspired demonic nature.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} demon vagina is a jarring sight.</li>
+            <li>I wish the gene had produced something less... mundane and more terrifying.</li>
+            <li>Its average depth suggests nothing beyond its functional crudeness.</li>
+            <li>The unvaried contours of this demon vagina are a visual bore.</li>
+            <li>My gaze quickly dismissed it; there's nothing captivating about this infernal part.</li>
+            <li>A truly uninspiring display of demonic anatomy, it's quite off-putting.</li>
+            <li>It's so plain, even for a demon-hybrid, it barely registers.</li>
+            <li>The visible structure offers nothing, just a reminder of coarse hellish life.</li>
+            <li>I seek the exotic, but this demon vagina is depressingly mundane.</li>
+            <li>The absence of character in {PAWN_nameShortPossessive} demonic parts is appalling.</li>
+            <li>This sight makes me feel like I'm in a barren void, not observing a unique being.</li>
+            <li>Her unexceptional demon width offers no unique appeal.</li>
+            <li>A pathetic sight; the demon gene didn't do her any favors here.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with dragon gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Negative_Average_DragonVagina</defName>
+        <label>Average Vagina (Negative) DragonVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_dragon_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>DragonVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That dragon vagina is disgustingly plain, utterly lacking any draconic majesty.</li>
+            <li>I recoiled from its draconic blandness; even as a dragon's, it's unremarkable.</li>
+            <li>Its coarse texture and mundane shape make it truly unappealing, a poor dragon imitation.</li>
+            <li>A shamefully average dragon vagina, offering no thrill of the legendary.</li>
+            <li>The unusual gene is wasted on such a common, uninspired form.</li>
+            <li>This draconic anomaly is just... there. No intriguing depths, just dull.</li>
+            <li>The visible folds are too coarse, too ordinary for such a unique gene.</li>
+            <li>I expected a monstrous beauty, but got this uninspired, scaly mess.</li>
+            <li>The clitoris is far too small, lost in the overwhelming plainness.</li>
+            <li>Its average size for a dragon's feels like a cruel joke, a true disappointment.</li>
+            <li>A rather dull dragon vagina, utterly devoid of any mythical charm.</li>
+            <li>The uninviting appearance makes me question everything about this gene.</li>
+            <li>I searched for a hint of ancient power, but found only clunky ordinariness.</li>
+            <li>Its peculiar anatomy is simply bland, not fascinating.</li>
+            <li>Such an unrefined opening, even for a dragon. It's truly disappointing.</li>
+            <li>The visible anatomy is too rough, too unkempt to be appealing.</li>
+            <li>I felt a wave of disgust at its sheer uninspired draconic nature.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} dragon vagina is a jarring sight.</li>
+            <li>I wish the gene had produced something less... pedestrian and more terrifying.</li>
+            <li>Its average depth suggests nothing beyond its functional crudeness.</li>
+            <li>The unvaried contours of this dragon vagina are a visual bore.</li>
+            <li>My gaze quickly dismissed it; there's nothing captivating about this mythical part.</li>
+            <li>A truly uninspiring display of draconic anatomy, it's quite off-putting.</li>
+            <li>It's so plain, even for a dragon-hybrid, it barely registers.</li>
+            <li>The visible structure offers nothing, just a reminder of coarse reptilian life.</li>
+            <li>I seek the exotic, but this dragon vagina is depressingly mundane.</li>
+            <li>The absence of character in {PAWN_nameShortPossessive} draconic parts is appalling.</li>
+            <li>This sight makes me feel like I'm in a barren cave, not observing a unique being.</li>
+            <li>Her unexceptional dragon width offers no unique appeal.</li>
+            <li>A pathetic sight; the dragon gene didn't do her any favors here.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with slime gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Negative_Average_SlimeVagina</defName>
+        <label>Average Vagina (Negative) SlimeVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_slime_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>SlimeVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That slime vagina is disgustingly plain, utterly lacking any gooey allure.</li>
+            <li>I recoiled from its slimy blandness; even as a slime's, it's unremarkable.</li>
+            <li>Its coarse texture and mundane shape make it truly unappealing, a poor slime imitation.</li>
+            <li>A shamefully average slime vagina, offering no thrill of the aberrant.</li>
+            <li>The unusual gene is wasted on such a common, uninspired form.</li>
+            <li>This slimy anomaly is just... there. No intriguing depths, just dull.</li>
+            <li>The visible folds are too coarse, too ordinary for such a unique gene.</li>
+            <li>I expected a monstrous beauty, but got this uninspired, oozing mess.</li>
+            <li>The clitoris is far too small, lost in the overwhelming plainness.</li>
+            <li>Its average size for a slime's feels like a cruel joke, a true disappointment.</li>
+            <li>A rather dull slime vagina, utterly devoid of any viscous charm.</li>
+            <li>The uninviting appearance makes me question everything about this gene.</li>
+            <li>I searched for a hint of alien grace, but found only clunky ordinariness.</li>
+            <li>Its peculiar anatomy is simply bland, not fascinating.</li>
+            <li>Such an unrefined opening, even for a slime. It's truly disappointing.</li>
+            <li>The visible anatomy is too rough, too unkempt to be appealing.</li>
+            <li>I felt a wave of disgust at its sheer uninspired slimy nature.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} slime vagina is a jarring sight.</li>
+            <li>I wish the gene had produced something less... fluid and more terrifying.</li>
+            <li>Its average depth suggests nothing beyond its functional crudeness.</li>
+            <li>The unvaried contours of this slime vagina are a visual bore.</li>
+            <li>My gaze quickly dismissed it; there's nothing captivating about this amorphous part.</li>
+            <li>A truly uninspiring display of slime anatomy, it's quite off-putting.</li>
+            <li>It's so plain, even for a slime-hybrid, it barely registers.</li>
+            <li>The visible structure offers nothing, just a reminder of coarse gelatinous life.</li>
+            <li>I seek the exotic, but this slime vagina is depressingly mundane.</li>
+            <li>The absence of character in {PAWN_nameShortPossessive} slimy parts is appalling.</li>
+            <li>This sight makes me feel like I'm in a sewage drain, not observing a unique being.</li>
+            <li>Her unexceptional slime width offers no unique appeal.</li>
+            <li>A pathetic sight; the slime gene didn't do her any favors here.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with pig gene based vagina, may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Negative_Average_PigNarrowVagina</defName>
+        <label>Average Vagina (Negative) PigNarrowVagina</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_Needle_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>NarrowVagina</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That pig-like vagina is disgustingly plain, utterly lacking any porcine charm.</li>
+            <li>I recoiled from its porcine blandness; even as a pig's, it's unremarkable.</li>
+            <li>Its coarse texture and mundane shape make it truly unappealing, a poor pig imitation.</li>
+            <li>A shamefully average pig vagina, offering no thrill of the farm.</li>
+            <li>The unusual gene is wasted on such a common, uninspired form.</li>
+            <li>This porcine anomaly is just... there. No intriguing depths, just dull.</li>
+            <li>The visible folds are too coarse, too ordinary for such a unique gene.</li>
+            <li>I expected a monstrous beauty, but got this uninspired, muddy thing.</li>
+            <li>The clitoris is far too small, lost in the overwhelming plainness.</li>
+            <li>Its average size for a pig's feels like a cruel joke, a true disappointment.</li>
+            <li>A rather dull pig vagina, utterly devoid of any animalistic charm.</li>
+            <li>The uninviting appearance makes me question everything about this gene.</li>
+            <li>I searched for a hint of rustic grace, but found only clunky ordinariness.</li>
+            <li>Its peculiar anatomy is simply bland, not fascinating.</li>
+            <li>Such an unrefined opening, even for a pig. It's truly disappointing.</li>
+            <li>The visible anatomy is too rough, too unkempt to be appealing.</li>
+            <li>I felt a wave of disgust at its sheer uninspired porcine nature.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} pig vagina is a jarring sight.</li>
+            <li>I wish the gene had produced something less... dirty and more enticing.</li>
+            <li>Its average depth suggests nothing beyond its functional crudeness.</li>
+            <li>The unvaried contours of this pig vagina are a visual bore.</li>
+            <li>My gaze quickly dismissed it; there's nothing captivating about this beastly part.</li>
+            <li>A truly uninspiring display of porcine anatomy, it's quite off-putting.</li>
+            <li>It's so plain, even for a pig-hybrid, it barely registers.</li>
+            <li>The visible structure offers nothing, just a reminder of coarse farm life.</li>
+            <li>I seek the exotic, but this pig vagina is depressingly mundane.</li>
+            <li>The absence of character in {PAWN_nameShortPossessive} porcine parts is appalling.</li>
+            <li>This sight makes me feel like I'm in a sty, not observing a unique being.</li>
+            <li>Her unexceptional pig width offers no unique appeal.</li>
+            <li>A pathetic sight; the pig gene didn't do her any favors here.</li>
+        </opinionTexts>
+</Def>
+
+<!-- description for female with insect gene based Ovipositor (a penis like tube to lay eggs), may include curiosity and uncomon anatomical opinion-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef" MayRequire="Vegapnk.rjw.genes">
+        <defName>Opinion_Vagina_Negative_Average_Insect_OvipositorF</defName>
+        <label>Average Vagina (Negative) Insect_OvipositorF</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        <genitalFamily>Vagina</genitalFamily> 
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedGeneDef>rjw_genes_ovipositor_genitalia</requiredObservedGeneDef>
+			<requiredObservedHediffDef>OvipositorF</requiredObservedHediffDef>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>That insect ovipositor is disgustingly plain, utterly lacking any creepy allure.</li>
+            <li>I recoiled from its chitinous blandness; even as an insect's, it's unremarkable.</li>
+            <li>Its coarse texture and mundane shape make it truly unappealing, a poor insect imitation.</li>
+            <li>A shamefully average ovipositor, offering no thrill of the monstrous.</li>
+            <li>The unusual gene is wasted on such a common, uninspired form.</li>
+            <li>This insect anomaly is just... there. No intriguing depths, just dull.</li>
+            <li>The visible folds are too coarse, too ordinary for such a unique gene.</li>
+            <li>I expected a monstrous beauty, but got this uninspired, buzzing thing.</li>
+            <li>The clitoris is far too small, lost in the overwhelming plainness.</li>
+            <li>Its average size for an ovipositor feels like a cruel joke, a true disappointment.</li>
+            <li>A rather dull ovipositor, utterly devoid of any unsettling charm.</li>
+            <li>The uninviting appearance makes me question everything about this gene.</li>
+            <li>I searched for a hint of alien grace, but found only clunky ordinariness.</li>
+            <li>Its peculiar anatomy is simply bland, not fascinating.</li>
+            <li>Such an unrefined opening, even for an insect. It's truly disappointing.</li>
+            <li>The visible anatomy is too rough, too unkempt to be appealing.</li>
+            <li>I felt a wave of disgust at its sheer uninspired insectile nature.</li>
+            <li>The common shape of {PAWN_nameShortPossessive} ovipositor is a jarring sight.</li>
+            <li>I wish the gene had produced something less... insectoid and more terrifying.</li>
+            <li>Its average depth suggests nothing beyond its functional crudeness.</li>
+            <li>The unvaried contours of this ovipositor are a visual bore.</li>
+            <li>My gaze quickly dismissed it; there's nothing captivating about this bug part.</li>
+            <li>A truly uninspiring display of insect anatomy, it's quite off-putting.</li>
+            <li>It's so plain, even for an insect-hybrid, it barely registers.</li>
+            <li>The visible structure offers nothing, just a reminder of coarse bug life.</li>
+            <li>I seek the exotic, but this ovipositor is depressingly mundane.</li>
+            <li>The absence of character in {PAWN_nameShortPossessive} insect parts is appalling.</li>
+            <li>This sight makes me feel like I'm in a hive, not observing a unique being.</li>
+            <li>Her unexceptional insect width offers no unique appeal.</li>
+            <li>A pathetic sight; the insect gene didn't do her any favors here.</li>
+        </opinionTexts>
+</Def>
+</Defs>

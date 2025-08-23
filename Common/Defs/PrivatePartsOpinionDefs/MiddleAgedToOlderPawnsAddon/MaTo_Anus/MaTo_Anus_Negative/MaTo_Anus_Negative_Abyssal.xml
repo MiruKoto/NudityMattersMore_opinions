@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--Observing middle aged Woman-->
+<!--unisex Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby butt, sagging like old fruit, revealed a surprisingly gaping abyss. Utterly unappealing.</li>
+            <li>A truly abysmal sight. The observed's rear, soft and wide, unveiled a dark, uninviting cavity.</li>
+            <li>That middle-aged derriere, wide and soft, unveiled a cavernous, dark opening. A repulsive display.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly disgusting. Her broad, aging posterior exposed a rather prominent, dark cavity. A revolting view.</li>
+            <li>What a sight! Her sagging buttocks revealed a dark, unsettling chasm. I wish I hadn't seen that.</li>
+            <li>The observed's behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>Her unkempt rear, soft and wide, had a disturbingly open, dark cavity. I feel a grimace forming.</li>
+            <li>I glimpsed a cavernous dark pit where a respectable crevice should have been. Her butt was no help.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A complete turn-off.</li>
+        </opinionTexts>
+</Def>
+<!--unisex voyer Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale_observed_by_voyer</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby butt, sagging like old fruit, revealed a surprisingly gaping abyss. Utterly unappealing.</li>
+            <li>A truly abysmal sight. The observed's rear, soft and wide, unveiled a dark, uninviting cavity.</li>
+            <li>That middle-aged derriere, wide and soft, unveiled a cavernous, dark opening. A repulsive display.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly disgusting. Her broad, aging posterior exposed a rather prominent, dark cavity. A revolting view.</li>
+            <li>What a sight! Her sagging buttocks revealed a dark, unsettling chasm. I wish I hadn't seen that.</li>
+            <li>The observed's behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>Her unkempt rear, soft and wide, had a disturbingly open, dark cavity. I feel a grimace forming.</li>
+            <li>I glimpsed a cavernous dark pit where a respectable crevice should have been. Her butt was no help.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A complete turn-off.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale_observed_by_Exhibitionist</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby butt, sagging like old fruit, revealed a surprisingly gaping abyss. Utterly unappealing.</li>
+            <li>A truly abysmal sight. The observed's rear, soft and wide, unveiled a dark, uninviting cavity.</li>
+            <li>That middle-aged derriere, wide and soft, unveiled a cavernous, dark opening. A repulsive display.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly disgusting. Her broad, aging posterior exposed a rather prominent, dark cavity. A revolting view.</li>
+            <li>What a sight! Her sagging buttocks revealed a dark, unsettling chasm. I wish I hadn't seen that.</li>
+            <li>The observed's behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>Her unkempt rear, soft and wide, had a disturbingly open, dark cavity. I feel a grimace forming.</li>
+            <li>I glimpsed a cavernous dark pit where a respectable crevice should have been. Her butt was no help.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A complete turn-off.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale_observed_by_Nymphomaniac</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby butt, sagging like old fruit, revealed a surprisingly gaping abyss. Utterly unappealing.</li>
+            <li>A truly abysmal sight. The observed's rear, soft and wide, unveiled a dark, uninviting cavity.</li>
+            <li>That middle-aged derriere, wide and soft, unveiled a cavernous, dark opening. A repulsive display.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly disgusting. Her broad, aging posterior exposed a rather prominent, dark cavity. A revolting view.</li>
+            <li>What a sight! Her sagging buttocks revealed a dark, unsettling chasm. I wish I hadn't seen that.</li>
+            <li>The observed's behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>Her unkempt rear, soft and wide, had a disturbingly open, dark cavity. I feel a grimace forming.</li>
+            <li>I glimpsed a cavernous dark pit where a respectable crevice should have been. Her butt was no help.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A complete turn-off.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale_observed_by_Prude</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden sight of that middle-aged backside, revealing its dark abyss, made my stomach churn. Disgusting.</li>
+            <li>A truly dreadful view. The observed's aging buttock, spreading wide, exposed a cavernous, dark opening. Repulsive.</li>
+            <li>That flabby, mature rear offered a glimpse of a deeply recessed, uninviting cavity. Utterly deplorable.</li>
+            <li>Her butt, soft and wide, presented a shockingly visible, dark void. A truly abysmal sight. I feel ill.</li>
+            <li>The repulsive sight of {PAWN_nameShortPossessive} aging, wide posterior revealing a prominent, dark cavity. My eyes burn.</li>
+            <li>Such a grotesque display. Her sagging behind exposed a dark, unsettling chasm. My modesty is offended.</li>
+            <li>{PAWN_nameShortPossessive} spreading backside unveiled a disturbingly open, dark hole. Truly shameful and abominable.</li>
+            <li>Her unkempt, middle-aged rear revealed a truly abyssal, dark opening. I feel an immediate wave of revulsion.</li>
+            <li>Glimpsing that wide, worn buttock and its cavernous, dark recess was an affront. Disgusting.</li>
+            <li>That matured backside, sadly shapeless, offered a full, unappealing view of its dark, abyssal crevice. Horrifying.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale_observed_by_Young_male</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby, middle-aged butt, revealed a gaping dark hole. Not appealing, just... old.</li>
+            <li>I saw it: her wide, soft posterior unveiled a dark, uninviting cavity. A truly abysmal sight.</li>
+            <li>That sagging derriere, soft and wide, exposed a cavernous, dark opening. Definitely a turn-off.</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} mature buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Honestly, that broad, aging backside revealing such a prominent, dark cavity was just repulsive.</li>
+            <li>What a sight! Her worn buttocks revealed a dark, unsettling chasm. I quickly looked away.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Nothing to get excited about.</li>
+            <li>Her unkempt, aging rear, soft and wide, had a disturbingly open, dark cavity. It just made me cringe.</li>
+            <li>I glimpsed a cavernous dark pit where I expected something more alluring. Her butt was a letdown.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. Absolutely not attractive.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale_observed_by_Young_female</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby, aging butt revealed a surprisingly gaping, dark abyss. It just looked so... worn out.</li>
+            <li>The observed's soft, wide rear unveiled a dark, uninviting cavity. A truly abysmal sight, honestly.</li>
+            <li>That middle-aged derriere, wide and soft, unveiled a cavernous, dark opening. So unflattering.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Yikes.</li>
+            <li>Truly disappointing. Her broad, aging posterior exposed a rather prominent, dark cavity. I hope mine never looks like that.</li>
+            <li>What a sight! Her sagging buttocks revealed a dark, unsettling chasm. It's just... sad.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with age, presented a surprisingly visible, uninviting dark hole. A real horror show.</li>
+            <li>Her unkempt rear, soft and wide, had a disturbingly open, dark cavity. I literally shuddered.</li>
+            <li>I glimpsed a cavernous dark pit where I'd rather not. Her butt was just... bleh.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. Just ew.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale_observed_by_middle_aged_male</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby butt, sagging with age, revealed a surprisingly gaping abyss. Not exactly enticing.</li>
+            <li>A truly abysmal sight. That wide, soft rear unveiled a dark, uninviting cavity. My interest vanished.</li>
+            <li>That middle-aged derriere, soft and spreading, unveiled a cavernous, dark opening. What a turn-off.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Disappointing.</li>
+            <li>Truly unappealing. Her broad, aging posterior exposed a rather prominent, dark cavity. No allure there.</li>
+            <li>What a sight! Her sagging buttocks revealed a dark, unsettling chasm. Definitely not what I hoped for.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Not for me.</li>
+            <li>Her unkempt rear, soft and wide, had a disturbingly open, dark cavity. Killed any mood I had.</li>
+            <li>I glimpsed a cavernous dark pit where something more pleasant should have been. Her butt was a letdown.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. Zero attraction.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale_observed_by_middle_aged_Female</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby butt, sagging with age, revealed a surprisingly gaping dark abyss. A grim reminder of time.</li>
+            <li>A truly abysmal sight. That soft, wide rear unveiled a dark, uninviting cavity. So disheartening.</li>
+            <li>That middle-aged derriere, wide and soft, unveiled a cavernous, dark opening. It’s just... sad.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Dreadful.</li>
+            <li>Truly disheartening. Her broad, aging posterior exposed a rather prominent, dark cavity. A warning for us all.</li>
+            <li>What a sight! Her sagging buttocks revealed a dark, unsettling chasm. I hope to age more gracefully.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with age, presented a surprisingly visible, uninviting dark hole. A shame, really.</li>
+            <li>Her unkempt rear, soft and wide, had a disturbingly open, dark cavity. It makes me feel uneasy.</li>
+            <li>I glimpsed a cavernous dark pit where there once might have been firmness. Her butt was a letdown.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A common tragedy.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale_observed_by_Elder_male</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby butt, sagging with age, revealed a gaping dark hole. A true sign of fading beauty.</li>
+            <li>A truly abysmal sight. That wide, soft rear unveiled a dark, uninviting cavity. A painful reminder of youth lost.</li>
+            <li>That middle-aged derriere, soft and spreading, unveiled a cavernous, dark opening. Nothing left to desire.</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} mature buttock gave way to an alarmingly large, dark void. Repulsive.</li>
+            <li>Truly unpleasant. Her broad, aging posterior exposed a prominent, dark cavity. A stark reminder of decay.</li>
+            <li>What a sight! Her sagging buttocks revealed a dark, unsettling chasm. Makes one appreciate what's gone.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with age, presented a surprisingly visible, uninviting dark hole. A sorry state.</li>
+            <li>Her unkempt rear, soft and wide, had a disturbingly open, dark cavity. A sight best forgotten.</li>
+            <li>I glimpsed a cavernous dark pit where once was firmness. Her butt offered no solace.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A grim reality.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureFemale_observed_by_Elder_female</defName>
+        <label>Abyssal Anus (Negative)_MatureFemale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby, aging butt revealed a surprisingly gaping dark abyss. A bleak mirror of my own future.</li>
+            <li>A truly abysmal sight. The observed's soft, wide rear unveiled a dark, uninviting cavity. So dreadful.</li>
+            <li>That middle-aged derriere, wide and soft, unveiled a cavernous, dark opening. A sad decline.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Horrifying.</li>
+            <li>Truly disheartening. Her broad, aging posterior exposed a rather prominent, dark cavity. Age spares no one.</li>
+            <li>What a sight! Her sagging buttocks revealed a dark, unsettling chasm. I recall when mine was firm.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with age, presented a surprisingly visible, uninviting dark hole. A cautionary tale.</li>
+            <li>Her unkempt rear, soft and wide, had a disturbingly open, dark cavity. It simply reinforced my anxieties.</li>
+            <li>I glimpsed a cavernous dark pit where youth once resided. Her butt's fate awaits us all.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A testament to time's cruelty.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale</defName>
+        <label>Abyssal Anus (Negative)_MatureMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His shapeless butt, spreading with age, revealed a rather prominent, dark pit. Not a pleasing sight.</li>
+            <li>A truly abysmal sight. The observed's rear, wide and soft, unveiled a dark, uninviting cavity.</li>
+            <li>That middle-aged backside, lacking definition, unveiled a cavernous, dark opening. A repulsive display.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, flabby buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly disgusting. His broad, aging posterior exposed a rather prominent, dark cavity. A revolting view.</li>
+            <li>What a sight! His sagging buttocks revealed a dark, unsettling chasm. I wish I hadn't seen that.</li>
+            <li>The observed's behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>His unkempt rear, soft and wide, had a disturbingly open, dark cavity. I feel a grimace forming.</li>
+            <li>I glimpsed a cavernous dark pit where a respectable crevice should have been. His butt was no help.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A complete turn-off.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale_observed_by_voyer</defName>
+        <label>Abyssal Anus (Negative)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His shapeless butt, spreading with age, revealed a rather prominent, dark pit. Not a pleasing sight.</li>
+            <li>A truly abysmal sight. The observed's rear, wide and soft, unveiled a dark, uninviting cavity.</li>
+            <li>That middle-aged backside, lacking definition, unveiled a cavernous, dark opening. A repulsive display.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, flabby buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly disgusting. His broad, aging posterior exposed a rather prominent, dark cavity. A revolting view.</li>
+            <li>What a sight! His sagging buttocks revealed a dark, unsettling chasm. I wish I hadn't seen that.</li>
+            <li>The observed's behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>His unkempt rear, soft and wide, had a disturbingly open, dark cavity. I feel a grimace forming.</li>
+            <li>I glimpsed a cavernous dark pit where a respectable crevice should have been. His butt was no help.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A complete turn-off.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Abyssal Anus (Negative)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His shapeless butt, spreading with age, revealed a rather prominent, dark pit. Not a pleasing sight.</li>
+            <li>A truly abysmal sight. The observed's rear, wide and soft, unveiled a dark, uninviting cavity.</li>
+            <li>That middle-aged backside, lacking definition, unveiled a cavernous, dark opening. A repulsive display.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, flabby buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly disgusting. His broad, aging posterior exposed a rather prominent, dark cavity. A revolting view.</li>
+            <li>What a sight! His sagging buttocks revealed a dark, unsettling chasm. I wish I hadn't seen that.</li>
+            <li>The observed's behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>His unkempt rear, soft and wide, had a disturbingly open, dark cavity. I feel a grimace forming.</li>
+            <li>I glimpsed a cavernous dark pit where a respectable crevice should have been. His butt was no help.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A complete turn-off.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Abyssal Anus (Negative)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His shapeless butt, spreading with age, revealed a rather prominent, dark pit. Not a pleasing sight.</li>
+            <li>A truly abysmal sight. The observed's rear, wide and soft, unveiled a dark, uninviting cavity.</li>
+            <li>That middle-aged backside, lacking definition, unveiled a cavernous, dark opening. A repulsive display.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, flabby buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly disgusting. His broad, aging posterior exposed a rather prominent, dark cavity. A revolting view.</li>
+            <li>What a sight! His sagging buttocks revealed a dark, unsettling chasm. I wish I hadn't seen that.</li>
+            <li>The observed's behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>His unkempt rear, soft and wide, had a disturbingly open, dark cavity. I feel a grimace forming.</li>
+            <li>I glimpsed a cavernous dark pit where a respectable crevice should have been. His butt was no help.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A complete turn-off.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale_observed_by_Prude</defName>
+        <label>Abyssal Anus (Negative)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden sight of that middle-aged backside, revealing its dark abyss, made my stomach churn. Disgusting.</li>
+            <li>A truly dreadful view. The observed's aging buttock, spreading wide, exposed a cavernous, dark opening. Repulsive.</li>
+            <li>That flabby, mature rear offered a glimpse of a deeply recessed, uninviting cavity. Utterly deplorable.</li>
+            <li>His butt, soft and wide, presented a shockingly visible, dark void. A truly abysmal sight. I feel ill.</li>
+            <li>The repulsive sight of {PAWN_nameShortPossessive} aging, wide posterior revealing a prominent, dark cavity. My eyes burn.</li>
+            <li>Such a grotesque display. His sagging behind exposed a dark, unsettling chasm. My modesty is offended.</li>
+            <li>{PAWN_nameShortPossessive} spreading backside unveiled a disturbingly open, dark hole. Truly shameful and abominable.</li>
+            <li>His unkempt, middle-aged rear revealed a truly abyssal, dark opening. I feel an immediate wave of revulsion.</li>
+            <li>Glimpsing that wide, worn buttock and its cavernous, dark recess was an affront. Disgusting.</li>
+            <li>That matured backside, sadly shapeless, offered a full, unappealing view of its dark, abyssal crevice. Horrifying.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale_observed_by_Young_male</defName>
+        <label>Abyssal Anus (Negative)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His flabby, middle-aged butt, revealed a gaping dark hole. Not appealing, just... old.</li>
+            <li>I saw it: his wide, soft posterior unveiled a dark, uninviting cavity. A truly abysmal sight.</li>
+            <li>That sagging derriere, soft and wide, exposed a cavernous, dark opening. Definitely a turn-off.</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} mature buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Honestly, that broad, aging backside revealing such a prominent, dark cavity was just repulsive.</li>
+            <li>What a sight! His worn buttocks revealed a dark, unsettling chasm. I quickly looked away.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Nothing to get excited about.</li>
+            <li>His unkempt, aging rear, soft and wide, had a disturbingly open, dark cavity. It just made me cringe.</li>
+            <li>I glimpsed a cavernous dark pit where I expected something more alluring. His butt was a letdown.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. Absolutely not attractive.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale_observed_by_Young_female</defName>
+        <label>Abyssal Anus (Negative)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His flabby, aging butt revealed a surprisingly gaping, dark abyss. It just looked so... worn out.</li>
+            <li>The observed's soft, wide rear unveiled a dark, uninviting cavity. A truly abysmal sight, honestly.</li>
+            <li>That middle-aged derriere, wide and soft, unveiled a cavernous, dark opening. So unflattering.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Yikes.</li>
+            <li>Truly disappointing. His broad, aging posterior exposed a rather prominent, dark cavity. I hope mine never looks like that.</li>
+            <li>What a sight! His sagging buttocks revealed a dark, unsettling chasm. It's just... sad.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with age, presented a surprisingly visible, uninviting dark hole. A real horror show.</li>
+            <li>His unkempt rear, soft and wide, had a disturbingly open, dark cavity. I literally shuddered.</li>
+            <li>I glimpsed a cavernous dark pit where I'd rather not. His butt was just... bleh.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. Just ew.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Abyssal Anus (Negative)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His shapeless butt, spreading with age, revealed a rather prominent, dark pit. Not a pleasing sight.</li>
+            <li>A truly abysmal sight. The observed's rear, wide and soft, unveiled a dark, uninviting cavity.</li>
+            <li>That middle-aged backside, lacking definition, unveiled a cavernous, dark opening. A repulsive display.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, flabby buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly disgusting. His broad, aging posterior exposed a rather prominent, dark cavity. A revolting view.</li>
+            <li>What a sight! His sagging buttocks revealed a dark, unsettling chasm. I wish I hadn't seen that.</li>
+            <li>The observed's behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>His unkempt rear, soft and wide, had a disturbingly open, dark cavity. I feel a grimace forming.</li>
+            <li>I glimpsed a cavernous dark pit where a respectable crevice should have been. His butt was no help.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A complete turn-off.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Abyssal Anus (Negative)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His flabby butt, sagging with age, revealed a surprisingly gaping dark abyss. A grim reminder of time.</li>
+            <li>A truly abysmal sight. That soft, wide rear unveiled a dark, uninviting cavity. So disheartening.</li>
+            <li>That middle-aged derriere, wide and soft, unveiled a cavernous, dark opening. It’s just... sad.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Dreadful.</li>
+            <li>Truly disheartening. His broad, aging posterior exposed a rather prominent, dark cavity. A warning for us all.</li>
+            <li>What a sight! His sagging buttocks revealed a dark, unsettling chasm. I hope mine stays firm.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with age, presented a surprisingly visible, uninviting dark hole. A shame, really.</li>
+            <li>His unkempt rear, soft and wide, had a disturbingly open, dark cavity. It makes me feel uneasy.</li>
+            <li>I glimpsed a cavernous dark pit where there once might have been firmness. His butt was a letdown.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A common tragedy.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Elder male Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale_observed_by_Elder_male</defName>
+        <label>Abyssal Anus (Negative)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His shapeless butt, spreading with age, revealed a rather prominent, dark pit. Not a pleasing sight.</li>
+            <li>A truly abysmal sight. The observed's rear, wide and soft, unveiled a dark, uninviting cavity.</li>
+            <li>That middle-aged backside, lacking definition, unveiled a cavernous, dark opening. A repulsive display.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, flabby buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly disgusting. His broad, aging posterior exposed a rather prominent, dark cavity. A revolting view.</li>
+            <li>What a sight! His sagging buttocks revealed a dark, unsettling chasm. I wish I hadn't seen that.</li>
+            <li>The observed's behind, spreading with age, presented a surprisingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>His unkempt rear, soft and wide, had a disturbingly open, dark cavity. I feel a grimace forming.</li>
+            <li>I glimpsed a cavernous dark pit where a respectable crevice should have been. His butt was no help.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A complete turn-off.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_MatureMale_observed_by_Elder_female</defName>
+        <label>Abyssal Anus (Negative)_MatureMale_observed_by_Elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His flabby, aging butt revealed a surprisingly gaping dark abyss. A bleak mirror of male decline.</li>
+            <li>A truly abysmal sight. The observed's soft, wide rear unveiled a dark, uninviting cavity. So dreadful.</li>
+            <li>That middle-aged derriere, wide and soft, unveiled a cavernous, dark opening. A sad decline for him.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Horrifying.</li>
+            <li>Truly disheartening. His broad, aging posterior exposed a rather prominent, dark cavity. Age spares no one, even men.</li>
+            <li>What a sight! His sagging buttocks revealed a dark, unsettling chasm. I recall when men were firm.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with age, presented a surprisingly visible, uninviting dark hole. A cautionary tale.</li>
+            <li>His unkempt rear, soft and wide, had a disturbingly open, dark cavity. It simply reinforced my anxieties.</li>
+            <li>I glimpsed a cavernous dark pit where male youth once resided. His butt's fate awaits all.</li>
+            <li>That aged, wide backside offered a view of a deeply recessed, unappealing opening. A testament to time's cruelty.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+<!--Observing elderly Woman-->
+<!--unisex Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged butt, a mass of loose skin, revealed a truly abyssal, gaping hole. Absolutely vile.</li>
+            <li>A truly horrific sight. The observed's rear, saggy and wide, unveiled a dark, cavernous cavity.</li>
+            <li>That elderly derriere, flattened and spreading, unveiled a vast, dark opening. A repulsive display of decay.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} withered buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly revolting. Her broad, ancient posterior exposed a prominent, dark cavity. A nauseating view.</li>
+            <li>What a sight! Her sagging, wrinkled buttocks revealed a deep, unsettling chasm. I wish I could unsee it.</li>
+            <li>The observed's behind, deflated with extreme age, presented a shockingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>Her neglected rear, loose and wide, had a disturbingly open, dark cavity. I feel sickened.</li>
+            <li>I glimpsed a gaping dark pit where dignity once resided. Her butt was beyond help.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A complete horror.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--unisex voyer Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale_observed_by_voyer</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged butt, a mass of loose skin, revealed a truly abyssal, gaping hole. Absolutely vile.</li>
+            <li>A truly horrific sight. The observed's rear, saggy and wide, unveiled a dark, cavernous cavity.</li>
+            <li>That elderly derriere, flattened and spreading, unveiled a vast, dark opening. A repulsive display of decay.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} withered buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly revolting. Her broad, ancient posterior exposed a prominent, dark cavity. A nauseating view.</li>
+            <li>What a sight! Her sagging, wrinkled buttocks revealed a deep, unsettling chasm. I wish I could unsee it.</li>
+            <li>The observed's behind, deflated with extreme age, presented a shockingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>Her neglected rear, loose and wide, had a disturbingly open, dark cavity. I feel sickened.</li>
+            <li>I glimpsed a gaping dark pit where dignity once resided. Her butt was beyond help.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A complete horror.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale_observed_by_Exhibitionist</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged butt, a mass of loose skin, revealed a truly abyssal, gaping hole. Absolutely vile.</li>
+            <li>A truly horrific sight. The observed's rear, saggy and wide, unveiled a dark, cavernous cavity.</li>
+            <li>That elderly derriere, flattened and spreading, unveiled a vast, dark opening. A repulsive display of decay.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} withered buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly revolting. Her broad, ancient posterior exposed a prominent, dark cavity. A nauseating view.</li>
+            <li>What a sight! Her sagging, wrinkled buttocks revealed a deep, unsettling chasm. I wish I could unsee it.</li>
+            <li>The observed's behind, deflated with extreme age, presented a shockingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>Her neglected rear, loose and wide, had a disturbingly open, dark cavity. I feel sickened.</li>
+            <li>I glimpsed a gaping dark pit where dignity once resided. Her butt was beyond help.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A complete horror.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale_observed_by_Nymphomaniac</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged butt, a mass of loose skin, revealed a truly abyssal, gaping hole. Absolutely vile.</li>
+            <li>A truly horrific sight. The observed's rear, saggy and wide, unveiled a dark, cavernous cavity.</li>
+            <li>That elderly derriere, flattened and spreading, unveiled a vast, dark opening. A repulsive display of decay.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} withered buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly revolting. Her broad, ancient posterior exposed a prominent, dark cavity. A nauseating view.</li>
+            <li>What a sight! Her sagging, wrinkled buttocks revealed a deep, unsettling chasm. I wish I could unsee it.</li>
+            <li>The observed's behind, deflated with extreme age, presented a shockingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>Her neglected rear, loose and wide, had a disturbingly open, dark cavity. I feel sickened.</li>
+            <li>I glimpsed a gaping dark pit where dignity once resided. Her butt was beyond help.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A complete horror.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale_observed_by_Prude</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden sight of that ancient backside, revealing its dark abyss, made my stomach churn. Disgusting beyond measure.</li>
+            <li>A truly dreadful view. The observed's withered buttock, spreading wide, exposed a cavernous, dark opening. Repulsive.</li>
+            <li>That flabby, elderly rear offered a glimpse of a deeply recessed, uninviting cavity. Utterly deplorable.</li>
+            <li>Her butt, a wrinkled mess, presented a shockingly visible, dark void. A truly abysmal sight. I feel ill.</li>
+            <li>The repulsive sight of {PAWN_nameShortPossessive} ancient, wide posterior revealing a prominent, dark cavity. My eyes burn.</li>
+            <li>Such a grotesque display. Her sagging, aged behind exposed a dark, unsettling chasm. My modesty is deeply offended.</li>
+            <li>{PAWN_nameShortPossessive} spreading backside, a picture of decay, unveiled a disturbingly open, dark hole. Truly shameful and abominable.</li>
+            <li>Her unkempt, elderly rear revealed a truly abyssal, dark opening. I feel an immediate wave of revulsion so strong.</li>
+            <li>Glimpsing that wide, worn buttock and its cavernous, dark recess was an affront to all decency. Disgusting.</li>
+            <li>That ancient backside, sadly shapeless, offered a full, unappealing view of its dark, abyssal crevice. Horrifying.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale_observed_by_Young_male</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged, saggy butt revealed a gaping dark hole. A truly repulsive sight, utterly devoid of appeal.</li>
+            <li>I saw it: her wide, deflated posterior unveiled a dark, uninviting cavity. A truly abysmal sight. Never again.</li>
+            <li>That withered derriere, soft and spreading, exposed a cavernous, dark opening. Definitely a turn-off, and then some.</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} ancient buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Honestly, that broad, crumbling backside revealing such a prominent, dark cavity was just utterly repulsive.</li>
+            <li>What a sight! Her sagging, wrinkled buttocks revealed a dark, unsettling chasm. I quickly looked away, forever scarred.</li>
+            <li>{PAWN_nameShortPossessive} behind, shriveled with extreme age, presented a shockingly visible, uninviting dark hole. Nothing to get excited about, ever.</li>
+            <li>Her neglected rear, loose and wide, had a disturbingly open, dark cavity. It just made me gag.</li>
+            <li>I glimpsed a cavernous dark pit where I expected something more alluring. Her butt was a nightmarish letdown.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. Absolutely not attractive, at all.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale_observed_by_Young_female</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged, saggy butt revealed a surprisingly gaping, dark abyss. It just looked so... utterly beyond repair.</li>
+            <li>The observed's soft, wide rear unveiled a dark, uninviting cavity. A truly abysmal sight, honestly, my worst fears confirmed.</li>
+            <li>That elderly derriere, wide and soft, unveiled a cavernous, dark opening. So unflattering, a truly depressing sight.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Yikes, that's my future.</li>
+            <li>Truly disappointing. Her broad, ancient posterior exposed a rather prominent, dark cavity. I hope mine never looks like that. Ever.</li>
+            <li>What a sight! Her sagging, wrinkled buttocks revealed a dark, unsettling chasm. It's just... a profound sadness.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with extreme age, presented a shockingly visible, uninviting dark hole. A real horror show, destined for us all.</li>
+            <li>Her unkempt rear, loose and wide, had a disturbingly open, dark cavity. I literally shuddered and felt faint.</li>
+            <li>I glimpsed a cavernous dark pit where I'd rather not. Her butt was just... bleh, a glimpse into decrepitude.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. Just ew, and a terrifying warning.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale_observed_by_middle_aged_male</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby, ancient butt, a mass of loose skin, revealed a gaping dark hole. Not exactly enticing for my age.</li>
+            <li>A truly abysmal sight. That wide, soft, saggy rear unveiled a dark, uninviting cavity. My interest completely vanished.</li>
+            <li>That elderly derriere, soft and spreading, unveiled a cavernous, dark opening. What a complete turn-off, even for me.</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} ancient buttock gave way to an alarmingly large, dark void. Disappointing.</li>
+            <li>Truly unappealing. Her broad, ancient posterior exposed a prominent, dark cavity. No allure there, only decay.</li>
+            <li>What a sight! Her sagging, wrinkled buttocks revealed a dark, unsettling chasm. Definitely not what I hoped for at this stage.</li>
+            <li>{PAWN_nameShortPossessive} behind, shriveled with extreme age, presented a shockingly visible, uninviting dark hole. Not for me.</li>
+            <li>Her neglected rear, loose and wide, had a disturbingly open, dark cavity. Killed any mood I had instantly.</li>
+            <li>I glimpsed a cavernous dark pit where something far more pleasant should have been. Her butt was a profound letdown.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. Zero attraction, and a strong repulsion.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale_observed_by_middle_aged_Female</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her flabby, ancient butt, a mass of loose skin, revealed a surprisingly gaping dark abyss. A grim and terrifying reminder of time.</li>
+            <li>A truly abysmal sight. That soft, wide, saggy rear unveiled a dark, uninviting cavity. So disheartening, a vision of dread.</li>
+            <li>That elderly derriere, wide and soft, unveiled a cavernous, dark opening. It’s just... sad, and a warning to us all.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft, withered buttock gave way to an alarmingly large, dark void. Dreadful.</li>
+            <li>Truly disheartening. Her broad, ancient posterior exposed a rather prominent, dark cavity. A chilling prophecy for my own future.</li>
+            <li>What a sight! Her sagging, wrinkled buttocks revealed a dark, unsettling chasm. I hope to age more gracefully than this.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with extreme age, presented a shockingly visible, uninviting dark hole. A shame, really, and a terrifying one.</li>
+            <li>Her unkempt rear, loose and wide, had a disturbingly open, dark cavity. It makes me feel profoundly uneasy and scared.</li>
+            <li>I glimpsed a cavernous dark pit where there once might have been firmness. Her butt was a grim, stark letdown.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A common tragedy, magnified by time.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale_observed_by_Elder_male</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale_observed_by_Elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged, saggy butt, a mass of loose skin, revealed a gaping dark hole. A true sign of total decay.</li>
+            <li>A truly abysmal sight. That wide, soft, deflated rear unveiled a dark, uninviting cavity. A painful reminder of all youth lost.</li>
+            <li>That elderly derriere, soft and spreading, unveiled a cavernous, dark opening. Nothing left to desire, only pity.</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} ancient buttock gave way to an alarmingly large, dark void. Repulsive, in the extreme.</li>
+            <li>Truly unpleasant. Her broad, crumbling posterior exposed a prominent, dark cavity. A stark, inescapable reminder of ultimate decay.</li>
+            <li>What a sight! Her sagging, wrinkled buttocks revealed a dark, unsettling chasm. Makes one appreciate what's gone, long gone.</li>
+            <li>{PAWN_nameShortPossessive} behind, shriveled with extreme age, presented a shockingly visible, uninviting dark hole. A truly sorry state.</li>
+            <li>Her neglected rear, loose and wide, had a disturbingly open, dark cavity. A sight best forgotten, forever.</li>
+            <li>I glimpsed a cavernous dark pit where once was firmness, now only a void. Her butt offered no solace.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A grim, absolute reality.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Womans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderFemale_observed_by_Elder_female</defName>
+        <label>Abyssal Anus (Negative)_ElderFemale_observed_by_Elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Female</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>Her aged, saggy butt, a mass of loose skin, revealed a surprisingly gaping dark abyss. A bleak mirror of my own inevitable decline.</li>
+            <li>A truly abysmal sight. The observed's soft, wide, deflated rear unveiled a dark, uninviting cavity. So dreadful, and so familiar.</li>
+            <li>That elderly derriere, wide and soft, unveiled a cavernous, dark opening. A sad decline, and a direct premonition.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft, withered buttock gave way to an alarmingly large, dark void. Horrifying.</li>
+            <li>Truly disheartening. Her broad, ancient posterior exposed a rather prominent, dark cavity. Age spares no one, especially us.</li>
+            <li>What a sight! Her sagging, wrinkled buttocks revealed a dark, unsettling chasm. I recall when mine was firm, now just... a memory.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with extreme age, presented a shockingly visible, uninviting dark hole. A cautionary tale, etched in reality.</li>
+            <li>Her unkempt rear, loose and wide, had a disturbingly open, dark cavity. It simply reinforced my deepest anxieties about aging.</li>
+            <li>I glimpsed a cavernous dark pit where female youth once resided. Her butt's fate awaits us all, inescapably.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A testament to time's cruelty, for women especially.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale</defName>
+        <label>Abyssal Anus (Negative)_ElderMale</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged butt, a mass of loose skin, revealed a truly abyssal, gaping hole. Absolutely vile.</li>
+            <li>A truly horrific sight. The observed's rear, saggy and wide, unveiled a dark, cavernous cavity.</li>
+            <li>That elderly derriere, flattened and spreading, unveiled a vast, dark opening. A repulsive display of decay.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} withered buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly revolting. His broad, ancient posterior exposed a prominent, dark cavity. A nauseating view.</li>
+            <li>What a sight! His sagging, wrinkled buttocks revealed a deep, unsettling chasm. I wish I could unsee it.</li>
+            <li>The observed's behind, deflated with extreme age, presented a shockingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>His neglected rear, loose and wide, had a disturbingly open, dark cavity. I feel sickened.</li>
+            <li>I glimpsed a gaping dark pit where dignity once resided. His butt was beyond help.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A complete horror.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale_observed_by_voyer</defName>
+        <label>Abyssal Anus (Negative)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged butt, a mass of loose skin, revealed a truly abyssal, gaping hole. Absolutely vile.</li>
+            <li>A truly horrific sight. The observed's rear, saggy and wide, unveiled a dark, cavernous cavity.</li>
+            <li>That elderly derriere, flattened and spreading, unveiled a vast, dark opening. A repulsive display of decay.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} withered buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly revolting. His broad, ancient posterior exposed a prominent, dark cavity. A nauseating view.</li>
+            <li>What a sight! His sagging, wrinkled buttocks revealed a deep, unsettling chasm. I wish I could unsee it.</li>
+            <li>The observed's behind, deflated with extreme age, presented a shockingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>His neglected rear, loose and wide, had a disturbingly open, dark cavity. I feel sickened.</li>
+            <li>I glimpsed a gaping dark pit where dignity once resided. His butt was beyond help.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A complete horror.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Abyssal Anus (Negative)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged butt, a mass of loose skin, revealed a truly abyssal, gaping hole. Absolutely vile.</li>
+            <li>A truly horrific sight. The observed's rear, saggy and wide, unveiled a dark, cavernous cavity.</li>
+            <li>That elderly derriere, flattened and spreading, unveiled a vast, dark opening. A repulsive display of decay.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} withered buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly revolting. His broad, ancient posterior exposed a prominent, dark cavity. A nauseating view.</li>
+            <li>What a sight! His sagging, wrinkled buttocks revealed a deep, unsettling chasm. I wish I could unsee it.</li>
+            <li>The observed's behind, deflated with extreme age, presented a shockingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>His neglected rear, loose and wide, had a disturbingly open, dark cavity. I feel sickened.</li>
+            <li>I glimpsed a gaping dark pit where dignity once resided. His butt was beyond help.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A complete horror.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Abyssal Anus (Negative)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged butt, a mass of loose skin, revealed a truly abyssal, gaping hole. Absolutely vile.</li>
+            <li>A truly horrific sight. The observed's rear, saggy and wide, unveiled a dark, cavernous cavity.</li>
+            <li>That elderly derriere, flattened and spreading, unveiled a vast, dark opening. A repulsive display of decay.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} withered buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Truly revolting. His broad, ancient posterior exposed a prominent, dark cavity. A nauseating view.</li>
+            <li>What a sight! His sagging, wrinkled buttocks revealed a deep, unsettling chasm. I wish I could unsee it.</li>
+            <li>The observed's behind, deflated with extreme age, presented a shockingly visible, uninviting dark hole. Truly abysmal.</li>
+            <li>His neglected rear, loose and wide, had a disturbingly open, dark cavity. I feel sickened.</li>
+            <li>I glimpsed a gaping dark pit where dignity once resided. His butt was beyond help.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A complete horror.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale_observed_by_Prude</defName>
+        <label>Abyssal Anus (Negative)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The sudden sight of that ancient backside, revealing its dark abyss, made my stomach churn. Disgusting beyond measure.</li>
+            <li>A truly dreadful view. The observed's withered buttock, spreading wide, exposed a cavernous, dark opening. Repulsive.</li>
+            <li>That flabby, elderly rear offered a glimpse of a deeply recessed, uninviting cavity. Utterly deplorable.</li>
+            <li>His butt, a wrinkled mess, presented a shockingly visible, dark void. A truly abysmal sight. I feel ill.</li>
+            <li>The repulsive sight of {PAWN_nameShortPossessive} ancient, wide posterior revealing a prominent, dark cavity. My eyes burn.</li>
+            <li>Such a grotesque display. His sagging, aged behind exposed a dark, unsettling chasm. My modesty is deeply offended.</li>
+            <li>{PAWN_nameShortPossessive} spreading backside, a picture of decay, unveiled a disturbingly open, dark hole. Truly shameful and abominable.</li>
+            <li>His unkempt, elderly rear revealed a truly abyssal, dark opening. I feel an immediate wave of revulsion so strong.</li>
+            <li>Glimpsing that wide, worn buttock and its cavernous, dark recess was an affront to all decency. Disgusting.</li>
+            <li>That ancient backside, sadly shapeless, offered a full, unappealing view of its dark, abyssal crevice. Horrifying.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale_observed_by_Young_male</defName>
+        <label>Abyssal Anus (Negative)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged, saggy butt revealed a gaping dark hole. A truly repulsive sight, utterly devoid of appeal.</li>
+            <li>I saw it: his wide, deflated posterior unveiled a dark, uninviting cavity. A truly abysmal sight. Never again.</li>
+            <li>That withered derriere, soft and spreading, exposed a cavernous, dark opening. Definitely a turn-off, and then some.</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} ancient buttock gave way to an alarmingly large, dark void. Disgusting.</li>
+            <li>Honestly, that broad, crumbling backside revealing such a prominent, dark cavity was just utterly repulsive.</li>
+            <li>What a sight! His sagging, wrinkled buttocks revealed a dark, unsettling chasm. I quickly looked away, forever scarred.</li>
+            <li>{PAWN_nameShortPossessive} behind, shriveled with extreme age, presented a shockingly visible, uninviting dark hole. Nothing to get excited about, ever.</li>
+            <li>His neglected rear, loose and wide, had a disturbingly open, dark cavity. It just made me gag.</li>
+            <li>I glimpsed a cavernous dark pit where I expected something more alluring. His butt was a nightmarish letdown.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. Absolutely not attractive, at all.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale_observed_by_Young_female</defName>
+        <label>Abyssal Anus (Negative)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged, saggy butt revealed a surprisingly gaping, dark abyss. It just looked so... utterly beyond repair.</li>
+            <li>The observed's soft, wide rear unveiled a dark, uninviting cavity. A truly abysmal sight, honestly, my worst fears confirmed.</li>
+            <li>That elderly derriere, wide and soft, unveiled a cavernous, dark opening. So unflattering, a truly depressing sight.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft buttock gave way to an alarmingly large, dark void. Yikes, that's my future.</li>
+            <li>Truly disappointing. His broad, ancient posterior exposed a rather prominent, dark cavity. I hope mine never looks like that. Ever.</li>
+            <li>What a sight! His sagging, wrinkled buttocks revealed a dark, unsettling chasm. It's just... a profound sadness.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with extreme age, presented a shockingly visible, uninviting dark hole. A real horror show, destined for us all.</li>
+            <li>His unkempt rear, loose and wide, had a disturbingly open, dark cavity. I literally shuddered and felt faint.</li>
+            <li>I glimpsed a cavernous dark pit where I'd rather not. His butt was just... bleh, a glimpse into decrepitude.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. Just ew, and a terrifying warning.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Abyssal Anus (Negative)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged, saggy butt, a mass of loose skin, revealed a gaping dark hole. A grim and terrifying reminder of time.</li>
+            <li>A truly abysmal sight. That wide, soft, saggy rear unveiled a dark, uninviting cavity. So disheartening, a vision of dread.</li>
+            <li>That elderly derriere, wide and soft, unveiled a cavernous, dark opening. It’s just... sad, and a warning to us all.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft, withered buttock gave way to an alarmingly large, dark void. Dreadful.</li>
+            <li>Truly disheartening. His broad, ancient posterior exposed a rather prominent, dark cavity. A chilling prophecy for my own future.</li>
+            <li>What a sight! His sagging, wrinkled buttocks revealed a dark, unsettling chasm. I hope to age more gracefully than this.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with extreme age, presented a shockingly visible, uninviting dark hole. A shame, really, and a terrifying one.</li>
+            <li>His unkempt rear, loose and wide, had a disturbingly open, dark cavity. It makes me feel profoundly uneasy and scared.</li>
+            <li>I glimpsed a cavernous dark pit where there once might have been firmness. His butt was a grim, stark letdown.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A common tragedy, magnified by time.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Abyssal Anus (Negative)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His flabby, ancient butt, a mass of loose skin, revealed a surprisingly gaping dark abyss. A grim reminder of age.</li>
+            <li>A truly abysmal sight. That soft, wide, saggy rear unveiled a dark, uninviting cavity. So disheartening for a man.</li>
+            <li>That elderly derriere, wide and soft, unveiled a cavernous, dark opening. It’s just... sad, a decline of manliness.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft, withered buttock gave way to an alarmingly large, dark void. Dreadful.</li>
+            <li>Truly disheartening. His broad, ancient posterior exposed a rather prominent, dark cavity. A chilling prophecy for men.</li>
+            <li>What a sight! His sagging, wrinkled buttocks revealed a dark, unsettling chasm. I hope men age with more grace.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with extreme age, presented a shockingly visible, uninviting dark hole. A shame, really, for a man.</li>
+            <li>His unkempt rear, loose and wide, had a disturbingly open, dark cavity. It makes me feel profoundly uneasy about men.</li>
+            <li>I glimpsed a cavernous dark pit where there once might have been male firmness. His butt was a grim letdown.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A common tragedy for men.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale_observed_by_Elder_male</defName>
+        <label>Abyssal Anus (Negative)_ElderMale_observed_by_Elder_male</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged, saggy butt, a mass of loose skin, revealed a gaping dark hole. A true sign of total decay.</li>
+            <li>A truly abysmal sight. That wide, soft, deflated rear unveiled a dark, uninviting cavity. A painful reminder of all youth lost.</li>
+            <li>That elderly derriere, soft and spreading, unveiled a cavernous, dark opening. Nothing left to desire, only pity.</li>
+            <li>The sudden glimpse of {PAWN_nameShortPossessive} ancient buttock gave way to an alarmingly large, dark void. Repulsive, in the extreme.</li>
+            <li>Truly unpleasant. His broad, crumbling posterior exposed a prominent, dark cavity. A stark, inescapable reminder of ultimate decay.</li>
+            <li>What a sight! His sagging, wrinkled buttocks revealed a dark, unsettling chasm. Makes one appreciate what's gone, long gone.</li>
+            <li>{PAWN_nameShortPossessive} behind, shriveled with extreme age, presented a shockingly visible, uninviting dark hole. A truly sorry state.</li>
+            <li>His neglected rear, loose and wide, had a disturbingly open, dark cavity. A sight best forgotten, forever.</li>
+            <li>I glimpsed a cavernous dark pit where once was firmness, now only a void. His butt offered no solace.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A grim, absolute reality.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans butt shape and anus-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Anus_Negative_Abyssal_ElderMale_observed_by_Elder_female</defName>
+        <label>Abyssal Anus (Negative)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Negative</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+         
+
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>His aged, saggy butt, a mass of loose skin, revealed a surprisingly gaping dark abyss. A bleak mirror of male decline.</li>
+            <li>A truly abysmal sight. His soft, wide, deflated rear unveiled a dark, uninviting cavity. So dreadful, and so common for men.</li>
+            <li>That elderly derriere, wide and soft, unveiled a cavernous, dark opening. A sad decline for him, how pitiful.</li>
+            <li>The suddenly visible sight: {PAWN_nameShortPossessive} wide, soft, withered buttock gave way to an alarmingly large, dark void. Horrifying.</li>
+            <li>Truly disheartening. His broad, ancient posterior exposed a rather prominent, dark cavity. Age spares no one, especially males.</li>
+            <li>What a sight! His sagging, wrinkled buttocks revealed a dark, unsettling chasm. I recall when men were firm, now just... ruins.</li>
+            <li>{PAWN_nameShortPossessive} behind, spreading with extreme age, presented a shockingly visible, uninviting dark hole. A cautionary tale, for young men.</li>
+            <li>His unkempt rear, loose and wide, had a disturbingly open, dark cavity. It simply reinforced my deepest anxieties about men.</li>
+            <li>I glimpsed a cavernous dark pit where male youth once resided. His butt's fate awaits all men, inescapably.</li>
+            <li>That ancient, wide backside offered a view of a deeply recessed, unappealing opening. A testament to time's cruelty, for men especially.</li>
+        </opinionTexts>
+</Def>
+</Defs>

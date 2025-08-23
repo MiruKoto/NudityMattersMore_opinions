@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+<!--Observing middle aged Man-->
+<!--unisex Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale</defName>
+        <label>Micro Penis (Neutral)_MatureMale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex voyer Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale_observed_by_voyer</defName>
+        <label>Micro Penis (Neutral)_MatureMale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale_observed_by_Exhibitionist</defName>
+        <label>Micro Penis (Neutral)_MatureMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale_observed_by_Nymphomaniac</defName>
+        <label>Micro Penis (Neutral)_MatureMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale_observed_by_Prude</defName>
+        <label>Micro Penis (Neutral)_MatureMale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale_observed_by_Young_male</defName>
+        <label>Micro Penis (Neutral)_MatureMale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale_observed_by_Young_female</defName>
+        <label>Micro Penis (Neutral)_MatureMale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed member is certainly small, almost childlike, making me wonder if it could truly fulfill any intimate purpose.</li>
+            <li>I observed {PAWN_nameShortPossessive} privates. The shaft is incredibly tiny, almost hard to even properly notice its presence.</li>
+            <li>It's so minute, a mere button of a glans. I'm left to ponder its functional capacity for someone {PAWN_possessive} age.</li>
+            <li>A fleeting glance confirmed its remarkably small stature, the foreskin looking somewhat oversized for the tiny shaft.</li>
+            <li>Its micro proportions are quite evident. One can only imagine the disappointment such a size could bring.</li>
+            <li>{PAWN_nameShortPossessive} anatomy is quite subdued; the penis is notably small, appearing almost lost within the general pubic area.</li>
+            <li>The sight of it leaves me quite neutral, almost indifferent. It just... exists.</li>
+            <li>It's barely there, a very small organ. It doesn't inspire much of anything.</li>
+            <li>The penis seems to lack any significant presence, its size almost negating any potential impact it might have.</li>
+            <li>A remarkably small appendage, the head and shaft are both quite undersized, making for a truly unremarkable display.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale_observed_by_middle_aged_male</defName>
+        <label>Micro Penis (Neutral)_MatureMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged Female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale_observed_by_middle_aged_Female</defName>
+        <label>Micro Penis (Neutral)_MatureMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed member is certainly small, almost childlike, making me wonder if it could truly fulfill any intimate purpose.</li>
+            <li>I observed {PAWN_nameShortPossessive} privates. The shaft is incredibly tiny, almost hard to even properly notice its presence.</li>
+            <li>It's so minute, a mere button of a glans. I'm left to ponder its functional capacity for someone {PAWN_possessive} age.</li>
+            <li>A fleeting glance confirmed its remarkably small stature, the foreskin looking somewhat oversized for the tiny shaft.</li>
+            <li>Its micro proportions are quite evident. One can only imagine the disappointment such a size could bring.</li>
+            <li>{PAWN_nameShortPossessive} anatomy is quite subdued; the penis is notably small, appearing almost lost within the general pubic area.</li>
+            <li>The sight of it leaves me quite neutral, almost indifferent. It just... exists.</li>
+            <li>It's barely there, a very small organ. It doesn't inspire much of anything.</li>
+            <li>The penis seems to lack any significant presence, its size almost negating any potential impact it might have.</li>
+            <li>A remarkably small appendage, the head and shaft are both quite undersized, making for a truly unremarkable display.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--Elder male Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale_observed_by_Elder_male</defName>
+        <label>Micro Penis (Neutral)_MatureMale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing middle aged Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_MatureMale_observed_by_Elder_female</defName>
+        <label>Micro Penis (Neutral)_MatureMale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>40</requiredObservedMinBiologicalAge>
+			<requiredObservedMaxBiologicalAge>59</requiredObservedMaxBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed member is certainly small, almost childlike, making me wonder if it could truly fulfill any intimate purpose.</li>
+            <li>I observed {PAWN_nameShortPossessive} privates. The shaft is incredibly tiny, almost hard to even properly notice its presence.</li>
+            <li>It's so minute, a mere button of a glans. I'm left to ponder its functional capacity for someone {PAWN_possessive} age.</li>
+            <li>A fleeting glance confirmed its remarkably small stature, the foreskin looking somewhat oversized for the tiny shaft.</li>
+            <li>Its micro proportions are quite evident. One can only imagine the disappointment such a size could bring.</li>
+            <li>{PAWN_nameShortPossessive} anatomy is quite subdued; the penis is notably small, appearing almost lost within the general pubic area.</li>
+            <li>The sight of it leaves me quite neutral, almost indifferent. It just... exists.</li>
+            <li>It's barely there, a very small organ. It doesn't inspire much of anything.</li>
+            <li>The penis seems to lack any significant presence, its size almost negating any potential impact it might have.</li>
+            <li>A remarkably small appendage, the head and shaft are both quite undersized, making for a truly unremarkable display.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+        </opinionTexts>
+</Def>
+
+
+
+
+
+<!--Observing elderly Man-->
+<!--unisex Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale</defName>
+        <label>Micro Penis (Neutral)_ElderMale</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+
+
+<!--unisex voyer Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale_observed_by_voyer</defName>
+        <label>Micro Penis (Neutral)_ElderMale_observed_by_voyer</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Voyeur</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Exhibitionist Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale_observed_by_Exhibitionist</defName>
+        <label>Micro Penis (Neutral)_ElderMale_observed_by_Exhibitionist</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Exhibitionist</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Nymphomaniac Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale_observed_by_Nymphomaniac</defName>
+        <label>Micro Penis (Neutral)_ElderMale_observed_by_Nymphomaniac</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>Nymphomaniac</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--unisex Prude Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale_observed_by_Prude</defName>
+        <label>Micro Penis (Neutral)_ElderMale_observed_by_Prude</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObserverTrait>NMM_Prude</requiredObserverTrait>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Young male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale_observed_by_Young_male</defName>
+        <label>Micro Penis (Neutral)_ElderMale_observed_by_Young_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--Young female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale_observed_by_Young_female</defName>
+        <label>Micro Penis (Neutral)_ElderMale_observed_by_Young_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<maxBiologicalAge>39</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed member is certainly small, almost childlike, making me wonder if it could truly fulfill any intimate purpose.</li>
+            <li>I observed {PAWN_nameShortPossessive} privates. The shaft is incredibly tiny, almost hard to even properly notice its presence.</li>
+            <li>It's so minute, a mere button of a glans. I'm left to ponder its functional capacity for someone {PAWN_possessive} age.</li>
+            <li>A fleeting glance confirmed its remarkably small stature, the foreskin looking somewhat oversized for the tiny shaft.</li>
+            <li>Its micro proportions are quite evident. One can only imagine the disappointment such a size could bring.</li>
+            <li>{PAWN_nameShortPossessive} anatomy is quite subdued; the penis is notably small, appearing almost lost within the general pubic area.</li>
+            <li>The sight of it leaves me quite neutral, almost indifferent. It just... exists.</li>
+            <li>It's barely there, a very small organ. It doesn't inspire much of anything.</li>
+            <li>The penis seems to lack any significant presence, its size almost negating any potential impact it might have.</li>
+            <li>A remarkably small appendage, the head and shaft are both quite undersized, making for a truly unremarkable display.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Middle aged male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale_observed_by_middle_aged_male</defName>
+        <label>Micro Penis (Neutral)_ElderMale_observed_by_middle_aged_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--Middle aged Female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale_observed_by_middle_aged_Female</defName>
+        <label>Micro Penis (Neutral)_ElderMale_observed_by_middle_aged_Female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>40</minBiologicalAge>
+			<maxBiologicalAge>59</maxBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed member is certainly small, almost childlike, making me wonder if it could truly fulfill any intimate purpose.</li>
+            <li>I observed {PAWN_nameShortPossessive} privates. The shaft is incredibly tiny, almost hard to even properly notice its presence.</li>
+            <li>It's so minute, a mere button of a glans. I'm left to ponder its functional capacity for someone {PAWN_possessive} age.</li>
+            <li>A fleeting glance confirmed its remarkably small stature, the foreskin looking somewhat oversized for the tiny shaft.</li>
+            <li>Its micro proportions are quite evident. One can only imagine the disappointment such a size could bring.</li>
+            <li>{PAWN_nameShortPossessive} anatomy is quite subdued; the penis is notably small, appearing almost lost within the general pubic area.</li>
+            <li>The sight of it leaves me quite neutral, almost indifferent. It just... exists.</li>
+            <li>It's barely there, a very small organ. It doesn't inspire much of anything.</li>
+            <li>The penis seems to lack any significant presence, its size almost negating any potential impact it might have.</li>
+            <li>A remarkably small appendage, the head and shaft are both quite undersized, making for a truly unremarkable display.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+        </opinionTexts>
+</Def>
+
+
+<!--Elder male Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale_observed_by_Elder_male</defName>
+        <label>Micro Penis (Neutral)_ElderMale_observed_by_elder_male</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Male</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The observed shaft appears quite compact, contrasting with the relatively full appearance of the scrotum. Its head is barely noticeable.</li>
+            <li>A quick glance confirms a miniature form, the glans barely larger than a fingertip, a distinctly understated presentation.</li>
+            <li>The private part was visible. Its anatomy seemed rather diminutive, especially the shaft and head.</li>
+            <li>The exposed genital area is quite small, with the foreskin appearing somewhat loose around a very tiny tip.</li>
+            <li>A remarkably tiny organ; the glans is small and the shaft rather narrow. Not much to look at.</li>
+            <li>The penis looks somewhat shriveled, the balls slightly larger in comparison, suggesting minimal recent activity.</li>
+            <li>A brief view revealed a remarkably micro-sized penis, the shaft thin and almost disappearing into the pubic area.</li>
+            <li>The observed private part presented as unusually small, with a narrow shaft and a barely defined head, certainly not imposing.</li>
+            <li>It was there, unassuming in its small stature, the glans hardly wider than the shaft. A very neutral sight.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+            <li>The visible penis is truly tiny, the shaft and glans compact and unassuming, a rather neutral and unremarkable sight.</li>
+        </opinionTexts>
+</Def>
+
+<!--Elder female Observing elderly Mans penis look (penis shaft, balls, penis head or foreskin)-->
+<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Penis_Neutral_Micro_ElderMale_observed_by_Elder_female</defName>
+        <label>Micro Penis (Neutral)_ElderMale_observed_by_elder_female</label>
+        <targetBodyPart>Genitals</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+		<genitalFamily>Penis</genitalFamily>
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+			<isSelfOpinion>False</isSelfOpinion>
+			<requiredObservedLifeStage>HumanlikeAdult</requiredObservedLifeStage>
+			<requiredObservedMinBiologicalAge>60</requiredObservedMinBiologicalAge>
+			<requiredObservedGender>Male</requiredObservedGender>
+			<requiredObserverGender>Female</requiredObserverGender>
+			<minBiologicalAge>60</minBiologicalAge>
+            </li>
+        </modExtensions>
+
+        <opinionTexts>
+            <li>The exposed member is certainly small, almost childlike, making me wonder if it could truly fulfill any intimate purpose.</li>
+            <li>I observed {PAWN_nameShortPossessive} privates. The shaft is incredibly tiny, almost hard to even properly notice its presence.</li>
+            <li>It's so minute, a mere button of a glans. I'm left to ponder its functional capacity for someone {PAWN_possessive} age.</li>
+            <li>A fleeting glance confirmed its remarkably small stature, the foreskin looking somewhat oversized for the tiny shaft.</li>
+            <li>Its micro proportions are quite evident. One can only imagine the disappointment such a size could bring.</li>
+            <li>{PAWN_nameShortPossessive} anatomy is quite subdued; the penis is notably small, appearing almost lost within the general pubic area.</li>
+            <li>The sight of it leaves me quite neutral, almost indifferent. It just... exists.</li>
+            <li>It's barely there, a very small organ. It doesn't inspire much of anything.</li>
+            <li>The penis seems to lack any significant presence, its size almost negating any potential impact it might have.</li>
+            <li>A remarkably small appendage, the head and shaft are both quite undersized, making for a truly unremarkable display.</li>
+            <li>The overall impression is one of miniature proportions, the foreskin slightly covering a tiny, inconspicuous glans.</li>
+            <li>A very small penis was visible, the head and shaft forming a compact unit, barely extending from the body.</li>
+            <li>The visible anatomy includes a slender shaft and a minimal glans, fitting compactly against the lower abdomen.</li>
+            <li>The proportions are notably tiny, with both the penis shaft and glans appearing much smaller than expected.</li>
+            <li>A brief observation of {PAWN_nameShortPossessive} anatomy reveals a decidedly small penis and proportionately scaled testicles.</li>
+            <li>The private part, though present, is quite small, with a rather smooth shaft and a tiny, almost unnoticeable head.</li>
+            <li>The entire genital area appears somewhat compact, the penis itself quite micro, barely presenting any significant form.</li>
+            <li>A quick look revealed a micro-sized penis, the shaft and head blending into a remarkably unassuming form.</li>
+            <li>Its size is undeniably micro, the glans small and the shaft quite narrow, nestled closely against {PAWN_nameShortPossessive} body.</li>
+            <li>The observed organ is very small, the balls appearing disproportionately large next to the slender shaft and head.</li>
+        </opinionTexts>
+</Def>
+</Defs>

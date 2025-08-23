@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Female gives opinion about her tiny butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Micro_Neutral_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Micro_Neutral_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My rear feels quite demure; its almost flat curve and unexpanded state simply exist, neither good nor bad.</li>
+            <li>A barely noticeable form, my micro-sized rear remains indifferent to my neutral mood and state.</li>
+            <li>This tiny butt barely registers; its compact shape and unyielding nature reflect my current lack of feeling.</li>
+            <li>The flatness of my posterior is just a fact; no strong feelings arise from its unyielding presence.</li>
+            <li>Its small size means little; my rear is as unexpressive as my balanced, neutral state.</li>
+            <li>Hardly a curve, my rear's tight appearance matches my unchanging, calm demeanor.</li>
+            <li>The minimal expansion is simply there, offering no particular opinion about my mood.</li>
+            <li>My behind feels unremarkable, its minute size failing to stir any strong emotions.</li>
+            <li>Neither noticeable nor ignorable, its firmness and restricted size are merely present.</li>
+            <li>The micro shape holds no sway over my neutral feelings; it's just my body.</li>
+            <li>My rear is decidedly understated, its modest form perfectly mirroring my calm disposition.</li>
+            <li>A small, unexpanded form; it just is, and I feel nothing strongly about it.</li>
+            <li>The compact nature of my butt and anus doesn't affect my steady, even mood.</li>
+            <li>No expansion, no particular shape; my rear remains as neutral as my current state.</li>
+            <li>The smallest of sizes, it offers no significant impact on my overall perspective.</li>
+            <li>It's there, but barely perceptible; its lack of jiggliness aligns with my quietude.</li>
+            <li>My flat rear offers no dramatic flair, simply existing in a calm, unassuming way.</li>
+            <li>A truly tiny form, it neither pleases nor disappoints in its neutral state.</li>
+            <li>Its modest appearance is consistent with my current, perfectly balanced feelings.</li>
+            <li>This subtle form provides no input to my overall, unbothered emotional state.</li>
+            <li>My micro-sized posterior is just an anatomical feature; it provokes no strong thoughts.</li>
+            <li>The lack of curves and expansion in my rear is simply its nature, nothing more.</li>
+            <li>It remains an unnoticeable part of me, reflecting my current emotional balance.</li>
+            <li>My neutral mood finds no particular comment on the minute nature of my rear.</li>
+            <li>The micro anus state is just how it is, not influencing my neutral demeanor.</li>
+            <li>Its firmness and tiny expansion offer no reason for joy or disappointment.</li>
+            <li>The flatness of my rear is a simple truth, not one that inspires any strong feelings.</li>
+            <li>It's merely present, its small form completely aligned with my current indifference.</li>
+            <li>No significant presence; my rear is as unassuming as my stable emotional state.</li>
+            <li>The most minor of forms, it makes no impression on my overall sense of calm.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her small butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Tight_Neutral_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Tight_Neutral_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My small butt feels adequately firm and tight; its minimal expansion is simply its natural state.</li>
+            <li>The compact shape of my rear and its gentle firmness contribute to my steady, neutral outlook.</li>
+            <li>It's a small, unassuming form, with just enough tautness to feel present yet undemanding.</li>
+            <li>My rear is modestly proportioned and tight, reflecting a quiet, undisturbed sense of self.</li>
+            <li>The slight expansion is subtle, giving my rear a firm, contained feeling that suits my current mood.</li>
+            <li>Its petite size and toned feel are simply a part of me, a neutral aspect of my anatomy.</li>
+            <li>My small, firm butt provides a consistent and unprovoking presence, matching my calm demeanor.</li>
+            <li>The subtle, tight curve of my posterior is neither praised nor scorned; it simply exists.</li>
+            <li>A restrained form, my rear's gentle tautness fits perfectly with my balanced emotional state.</li>
+            <li>My behind is small and resilient; its unexpanded nature aligns with my even temper.</li>
+            <li>It's a compact, firm asset, its lack of dramatic curves mirroring my subdued internal state.</li>
+            <li>My tight rear feels composed and unremarkable, contributing to an unperturbed sense of being.</li>
+            <li>The slight resistance of my anus indicates its natural, small shape, evoking no strong feelings.</li>
+            <li>My small rear's consistent feel and shape are entirely unremarkable, yet perfectly acceptable.</li>
+            <li>It's a snug, unassuming part of me, its firm contours reflecting my quiet, stable mood.</li>
+            <li>The compact structure of my butt and anus maintains a discreet profile, fitting my neutral state.</li>
+            <li>Neither large nor loose, my rear's tight nature quietly supports my overall indifference.</li>
+            <li>Its small size and controlled firmness are simply characteristics, not points of contention.</li>
+            <li>My behind feels predictably firm and small, a quiet presence in my otherwise balanced day.</li>
+            <li>A modest, well-contained form, its tightness contributes to a sense of unbothered calm.</li>
+            <li>The subtle curve of my posterior feels adequately firm, a calm and settled part of me.</li>
+            <li>My small butt offers a sense of unassuming solidity, perfectly aligned with my neutral feelings.</li>
+            <li>It's a quietly firm and compact form, neither expanding nor demanding attention.</li>
+            <li>The tight nature of my anus is simply how it is, a constant in my unperturbed world.</li>
+            <li>Its unassuming size and gentle firmness cause no particular thoughts to arise.</li>
+            <li>My rear maintains a small, consistent shape, perfectly reflecting my calm and steady mood.</li>
+            <li>A naturally compact form, its limited expansion causes no strong reactions.</li>
+            <li>The smallness of my behind is just a facet of its design, neither good nor bad.</li>
+            <li>It's a firm, undramatic form, its subtle presence fitting my unconcerned disposition.</li>
+            <li>My tight posterior simply exists, a steady and unremarkable part of my physical being.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Average_Neutral_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Average_Neutral_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My butt feels average; a moderate jiggliness and typical expansion neither impress nor displease.</li>
+            <li>The familiar shape and mild give of my rear are simply ordinary, aligning with my neutral mood.</li>
+            <li>It's neither too firm nor too soft, just a standard butt with a natural, unprovoking presence.</li>
+            <li>My average posterior, with its expected contours and moderate expansion, remains unremarked upon.</li>
+            <li>The familiar feel of my behind, with its gentle movements, suits my perfectly balanced disposition.</li>
+            <li>An ordinary form, its natural shape and slight jiggliness cause no strong feelings.</li>
+            <li>My butt is distinctly average, its standard size and slight expansion are simply accepted.</li>
+            <li>The typical curves and mild give of my rear are unremarkable, perfectly matching my calm state.</li>
+            <li>It feels exactly as expected; a familiar shape with moderate expansion and no surprises.</li>
+            <li>My behind is simply present, its average characteristics causing no particular thought or emotion.</li>
+            <li>A standard rear, its predictable jiggliness and typical contours are entirely ordinary.</li>
+            <li>My average butt and anus are just as they should be, neither noteworthy nor disappointing.</li>
+            <li>The moderate expansion feels normal, and its slight movement doesn't disrupt my neutral outlook.</li>
+            <li>It's a completely unremarkable form, fitting perfectly with my unconcerned and steady mood.</li>
+            <li>My posterior is within expected parameters, offering no cause for strong opinions or feelings.</li>
+            <li>The familiar softness and movement of my butt are simply a fact, nothing to dwell on.</li>
+            <li>An unexceptional rear, its average size and usual feel are completely neutral to me.</li>
+            <li>My behind is simply an average butt, providing no input to my overall calm and balanced state.</li>
+            <li>The typical expansion of my anus feels normal, contributing to a sense of unbothered existence.</li>
+            <li>Its gentle jiggliness is a natural characteristic, one that my neutral mood readily accepts.</li>
+            <li>My average-sized rear feels perfectly normal, contributing to my sense of calm and equilibrium.</li>
+            <li>The familiar contours and subtle give of my butt cause no particular thoughts.</li>
+            <li>It's a perfectly ordinary behind, its shape and feel completely unremarkable.</li>
+            <li>My rear is neither too much nor too little, simply an average form.</li>
+            <li>The expected expansion and typical jiggliness are just part of its normal state.</li>
+            <li>It's exactly as one would anticipate, a completely average butt and anus.</li>
+            <li>My behind feels a standard sort of softness and movement, without comment.</li>
+            <li>The everyday nature of my rear is entirely consistent with my neutral disposition.</li>
+            <li>An utterly unremarkable form, my butt and anus simply exist without stirring emotion.</li>
+            <li>Its average qualities ensure it doesn't stand out, just a regular part of me.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Accommodating_Neutral_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Accommodating_Neutral_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My butt feels accommodating; a comfortable expansion and subtle jiggliness, neither overly loose nor tight.</li>
+            <li>The moderate give and pleasant shape of my rear suggest a relaxed and natural state, fitting my neutral mood.</li>
+            <li>It’s a comfortable, easy form; its accommodating expansion and gentle sway feel perfectly natural.</li>
+            <li>My accommodating posterior, with its soft contours and subtle movement, is simply what it is.</li>
+            <li>The agreeable feel of my behind, with its gentle give, aligns with my calm, unbothered disposition.</li>
+            <li>An amenable form, its natural softness and slight jiggliness cause no strong feelings.</li>
+            <li>My butt is comfortably accommodating, its generous size and gentle expansion are simply accepted.</li>
+            <li>The pleasant curves and mild give of my rear are unremarkable, perfectly matching my calm state.</li>
+            <li>It feels exactly as expected; a familiar shape with accommodating expansion and no surprises.</li>
+            <li>My behind is simply present, its yielding characteristics causing no particular thought or emotion.</li>
+            <li>A relaxed rear, its predictable jiggliness and soft contours are entirely ordinary.</li>
+            <li>My accommodating butt and anus are just as they should be, neither noteworthy nor disappointing.</li>
+            <li>The gentle expansion feels normal, and its subtle movement doesn't disrupt my neutral outlook.</li>
+            <li>It's a completely unremarkable form, fitting perfectly with my unconcerned and steady mood.</li>
+            <li>My posterior is within expected parameters, offering no cause for strong opinions or feelings.</li>
+            <li>The familiar softness and movement of my butt are simply a fact, nothing to dwell on.</li>
+            <li>An unexceptional rear, its easygoing size and usual feel are completely neutral to me.</li>
+            <li>My behind is simply an accommodating butt, providing no input to my overall calm and balanced state.</li>
+            <li>The pleasant expansion of my anus feels normal, contributing to a sense of unbothered existence.</li>
+            <li>Its gentle jiggliness is a natural characteristic, one that my neutral mood readily accepts.</li>
+            <li>My accommodating-sized rear feels perfectly normal, contributing to my sense of calm and equilibrium.</li>
+            <li>The familiar contours and soft give of my butt cause no particular thoughts.</li>
+            <li>It's a perfectly ordinary behind, its shape and feel completely unremarkable.</li>
+            <li>My rear is neither too much nor too little, simply an accommodating form.</li>
+            <li>The expected expansion and gentle jiggliness are just part of its normal state.</li>
+            <li>It's exactly as one would anticipate, a completely accommodating butt and anus.</li>
+            <li>My behind feels a standard sort of softness and movement, without comment.</li>
+            <li>The everyday nature of my rear is entirely consistent with my neutral disposition.</li>
+            <li>An utterly unremarkable form, my butt and anus simply exist without stirring emotion.</li>
+            <li>Its easygoing qualities ensure it doesn't stand out, just a regular part of me.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Cavernous_Neutral_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Cavernous_Neutral_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My rear feels cavernous, a noticeable expansion and a hint of sag, yet it elicits no strong reaction.</li>
+            <li>The ample proportions and pronounced give of my butt are simply present, a neutral observation.</li>
+            <li>It's a notably large form, its significant expansion and soft jiggle just part of my body.</li>
+            <li>My cavernous posterior, with its considerable curves and undeniable sag, is merely a physical reality.</li>
+            <li>The substantial feel of my behind, with its pronounced give, aligns with my calm, unbothered disposition.</li>
+            <li>A sizable form, its natural softness and noticeable jiggliness cause no strong feelings.</li>
+            <li>My butt is quite capacious, its generous size and ample expansion are simply accepted.</li>
+            <li>The pronounced curves and considerable give of my rear are unremarkable, perfectly matching my calm state.</li>
+            <li>It feels exactly as expected; a large shape with considerable expansion and no surprises.</li>
+            <li>My behind is simply present, its expansive characteristics causing no particular thought or emotion.</li>
+            <li>A voluminous rear, its predictable jiggliness and soft contours are entirely ordinary.</li>
+            <li>My cavernous butt and anus are just as they should be, neither noteworthy nor disappointing.</li>
+            <li>The generous expansion feels normal, and its subtle movement doesn't disrupt my neutral outlook.</li>
+            <li>It's a completely unremarkable form, fitting perfectly with my unconcerned and steady mood.</li>
+            <li>My posterior is within expected parameters, offering no cause for strong opinions or feelings.</li>
+            <li>The familiar softness and movement of my butt are simply a fact, nothing to dwell on.</li>
+            <li>An unexceptional rear, its expansive size and usual feel are completely neutral to me.</li>
+            <li>My behind is simply a cavernous butt, providing no input to my overall calm and balanced state.</li>
+            <li>The extensive expansion of my anus feels normal, contributing to a sense of unbothered existence.</li>
+            <li>Its noticeable jiggliness is a natural characteristic, one that my neutral mood readily accepts.</li>
+            <li>My cavernous-sized rear feels perfectly normal, contributing to my sense of calm and equilibrium.</li>
+            <li>The familiar contours and substantial give of my butt cause no particular thoughts.</li>
+            <li>It's a perfectly ordinary behind, its shape and feel completely unremarkable.</li>
+            <li>My rear is neither too much nor too little, simply a cavernous form.</li>
+            <li>The expected expansion and gentle jiggliness are just part of its normal state.</li>
+            <li>It's exactly as one would anticipate, a completely cavernous butt and anus.</li>
+            <li>My behind feels a standard sort of softness and movement, without comment.</li>
+            <li>The everyday nature of my rear is entirely consistent with my neutral disposition.</li>
+            <li>An utterly unremarkable form, my butt and anus simply exist without stirring emotion.</li>
+            <li>Its expansive qualities ensure it doesn't stand out, just a regular part of me.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Abyssal_Neutral_Female_Neutral</defName>
+        <label>Opinion_Self_Anus_Abyssal_Neutral_Female_(Neutral)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Neutral</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My abyssal butt feels truly immense; a vast expansion and profound sag, yet it brings no strong emotion.</li>
+            <li>The immense proportions and exaggerated give of my rear are simply a fact, a neutral observation.</li>
+            <li>It's an exceptionally large form, its extreme expansion and considerable jiggle just part of my body.</li>
+            <li>My abyssal posterior, with its overwhelming curves and undeniable sag, is merely a physical reality.</li>
+            <li>The substantial feel of my behind, with its profound give, aligns with my calm, unbothered disposition.</li>
+            <li>A gargantuan form, its natural softness and significant jiggliness cause no strong feelings.</li>
+            <li>My butt is truly massive, its enormous size and extensive expansion are simply accepted.</li>
+            <li>The extreme curves and considerable give of my rear are unremarkable, perfectly matching my calm state.</li>
+            <li>It feels exactly as expected; a huge shape with vast expansion and no surprises.</li>
+            <li>My behind is simply present, its overwhelming characteristics causing no particular thought or emotion.</li>
+            <li>A colossal rear, its predictable jiggliness and soft contours are entirely ordinary.</li>
+            <li>My abyssal butt and anus are just as they should be, neither noteworthy nor disappointing.</li>
+            <li>The boundless expansion feels normal, and its subtle movement doesn't disrupt my neutral outlook.</li>
+            <li>It's a completely unremarkable form, fitting perfectly with my unconcerned and steady mood.</li>
+            <li>My posterior is within expected parameters, offering no cause for strong opinions or feelings.</li>
+            <li>The familiar softness and movement of my butt are simply a fact, nothing to dwell on.</li>
+            <li>An unexceptional rear, its overwhelming size and usual feel are completely neutral to me.</li>
+            <li>My behind is simply an abyssal butt, providing no input to my overall calm and balanced state.</li>
+            <li>The vast expansion of my anus feels normal, contributing to a sense of unbothered existence.</li>
+            <li>Its exaggerated jiggliness is a natural characteristic, one that my neutral mood readily accepts.</li>
+            <li>My abyssal-sized rear feels perfectly normal, contributing to my sense of calm and equilibrium.</li>
+            <li>The familiar contours and enormous give of my butt cause no particular thoughts.</li>
+            <li>It's a perfectly ordinary behind, its shape and feel completely unremarkable.</li>
+            <li>My rear is neither too much nor too little, simply an abyssal form.</li>
+            <li>The expected expansion and significant jiggliness are just part of its normal state.</li>
+            <li>It's exactly as one would anticipate, a completely abyssal butt and anus.</li>
+            <li>My behind feels a standard sort of softness and movement, without comment.</li>
+            <li>The everyday nature of my rear is entirely consistent with my neutral disposition.</li>
+            <li>An utterly unremarkable form, my butt and anus simply exist without stirring emotion.</li>
+            <li>Its immense qualities ensure it doesn't stand out, just a regular part of me.</li>
+        </opinionTexts>
+    </Def>
+</Defs>

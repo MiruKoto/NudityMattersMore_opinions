@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Female gives opinion about her tiny butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Micro_Neutral_Female_Positive</defName>
+        <label>Opinion_Self_Anus_Micro_Neutral_Female_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My petite rear is perfectly formed, an adorable little curve that feels just right, neither too much nor too little.</li>
+            <li>A subtly cute behind, my anus so neatly tucked and modest, it's truly a charming, understated feature.</li>
+            <li>I appreciate the delicate elegance of my small derriere; its subtle contours are quite pleasing and surprisingly firm.</li>
+            <li>My tiny bottom is surprisingly agile, making movements feel light and effortless, always a pleasant sensation.</li>
+            <li>Such a compact and discreet presence, my anus is just a gentle dimple, contributing to my overall refined look.</li>
+            <li>A perfectly shaped, snug little posterior, it feels wonderfully tight, adding a lovely firmness to my figure.</li>
+            <li>There's a subtle charm to my micro-sized rear; it’s neat, unobtrusive, and beautifully complements my frame.</li>
+            <li>My butt, though small, possesses a delightful firmness; it’s a compact and appealing part of my body.</li>
+            <li>I enjoy the simplicity of my small, well-defined rear; it’s quite endearing and feels perfectly proportioned.</li>
+            <li>Even though it's tiny, my behind has a pleasant, gentle curve, making it surprisingly shapely and cute.</li>
+            <li>My snug little anus feels perfectly private and well-behaved, a discreet detail on a lovely, compact form.</li>
+            <li>It’s a delightful, firm little peach, my rear, offering a subtle lift that I find quite attractive.</li>
+            <li>My small posterior is so easy to forget, yet when I notice it, I find its neatness quite satisfying.</li>
+            <li>A very tidy and adorable butt; my anus remains perfectly closed and demure, a truly pleasant sight.</li>
+            <li>I feel quite confident with my delicate, small behind; it's proportional and has a subtle, appealing roundness.</li>
+            <li>My micro-sized anus feels perfectly contained, a subtle and unnoticeable part of my beautifully sculpted rear.</li>
+            <li>The modest curve of my backside is quite graceful; it's a sweet, uncomplicated shape that I truly like.</li>
+            <li>It feels so wonderfully compact and firm, my little butt; a neat, unburdened presence.</li>
+            <li>My discreetly small anus is a perfectly hidden gem, blending seamlessly with my taut, petite bottom.</li>
+            <li>There’s a quiet beauty in the delicate structure of my rear; it’s sleek and perfectly formed.</li>
+            <li>My tight, small anus feels incredibly secure, a subtle detail on a very well-kept backside.</li>
+            <li>I appreciate the understated elegance of my micro-sized bottom; it's neatly sculpted and feels very natural.</li>
+            <li>Such a charming, firm little butt, it feels perfectly solid and contributes to my balanced physique.</li>
+            <li>My small behind sits neatly, offering a gentle, attractive curve that is just enough.</li>
+            <li>The subtle roundness of my petite rear is quite lovely, giving a pleasing outline without being ostentatious.</li>
+            <li>My discreet anus feels comfortably closed, a tiny, unpretentious feature of my cute, compact backside.</li>
+            <li>I quite like how firm and contained my little butt is; it feels strong and well-toned.</li>
+            <li>It's a neat, modest, and shapely rear, my anus barely visible, completing a truly elegant silhouette.</li>
+            <li>My backside, though small, has a lovely resilience, feeling firm and perfectly positioned.</li>
+            <li>The precise, tiny curve of my rear is adorable; my anus is a perfectly neat, unassuming point.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her small butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Tight_Neutral_Female_Positive</defName>
+        <label>Opinion_Self_Anus_Tight_Neutral_Female_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My small, firm rear feels wonderfully taut, giving a pleasingly compact and uplifted shape that I adore.</li>
+            <li>The tightness of my backside is quite satisfying; my anus is perfectly pert, a truly firm and attractive feature.</li>
+            <li>I love the toned feel of my small bottom; it's shapely and snug, reflecting good care and natural beauty.</li>
+            <li>My rear has a lovely, firm curve, and my anus feels perfectly closed, adding to its neat and appealing look.</li>
+            <li>This small butt is so resilient, feeling solid and well-defined, a testament to its natural strength.</li>
+            <li>My backside is admirably tight, a compact and shapely form that feels wonderfully solid and secure.</li>
+            <li>I enjoy the subtle firmness of my behind; it’s a small, well-proportioned curve that feels good.</li>
+            <li>The snugness of my anus contributes to my overall feeling of being well put together and appealing.</li>
+            <li>My small posterior has a very pleasing contour; it's firm, not saggy, and feels naturally uplifted.</li>
+            <li>It’s a compact and very firm bottom; my anus feels perfectly sealed and discreet, enhancing its neatness.</li>
+            <li>My rear feels beautifully toned and held, giving me a sense of quiet confidence in its form.</li>
+            <li>The small, tight curve of my butt is truly elegant; it’s a well-kept, shapely feature I cherish.</li>
+            <li>I appreciate how firm my behind is; it has a subtle yet defined shape that is very attractive.</li>
+            <li>My anus feels perfectly private and unnoticeable, a smooth detail on a wonderfully taut backside.</li>
+            <li>This firm, small bottom is just right, offering a lovely shape without being too prominent.</li>
+            <li>The firmness of my rear is quite satisfying; it's a well-defined and discreetly appealing part of me.</li>
+            <li>My tight anus provides a lovely, compact feeling to my behind, enhancing its overall shapeliness.</li>
+            <li>I admire the graceful, firm line of my small butt; it feels youthful and strong.</li>
+            <li>A perfectly proportioned, taut posterior; my anus is neat and unexposed, a subtle detail.</li>
+            <li>My small backside feels incredibly supportive and strong, a testament to its healthy firmness.</li>
+            <li>The pleasant tightness of my rear gives it a lifted appearance, making me feel quite proud of its form.</li>
+            <li>My anus feels securely closed, complementing the compact and attractive shape of my small butt.</li>
+            <li>I feel comfortable and confident with my firm, small behind; it's a solid and pleasing curve.</li>
+            <li>There’s a natural resilience to my rear; it's well-rounded and firm, feeling just as it should.</li>
+            <li>My small, tight butt maintains a lovely shape, hinting at strength and natural grace.</li>
+            <li>The discreet firmness of my anus makes my entire backside feel wonderfully contained and neat.</li>
+            <li>I like the controlled, firm feel of my rear; it's small, shapely, and very appealing.</li>
+            <li>My backside has a beautiful, compact firmness; it’s a pleasing, understated curve.</li>
+            <li>It's satisfying to feel the tautness of my small butt, a confident and appealing part of me.</li>
+            <li>My anus is a subtle, perfect point on a firm, well-defined, small and attractive rear.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Average_Neutral_Female_Positive</defName>
+        <label>Opinion_Self_Anus_Average_Neutral_Female_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My butt has a pleasing, natural curve, with just enough jiggliness to feel soft yet shapely.</li>
+            <li>It's a perfectly balanced rear, not too big, not too small, with a lovely, gentle bounce when I move.</li>
+            <li>I enjoy the comfortable fullness of my backside; my anus feels perfectly relaxed and naturally aligned.</li>
+            <li>My behind feels substantial yet graceful, with a satisfying softness and a subtle jiggle that's quite endearing.</li>
+            <li>The way my butt moves with me is delightful; it’s supple, yet holds its pleasing, average shape beautifully.</li>
+            <li>My anus feels comfortably open, a natural aspect of my well-proportioned and shapely derriere.</li>
+            <li>It's a wonderful, average-sized rear; ample enough to feel substantial, yet still firm and shapely.</li>
+            <li>I like the natural give and softness of my butt; it feels healthy and beautifully formed.</li>
+            <li>My backside possesses a lovely, subtle jiggle that's very natural and adds to its charming appeal.</li>
+            <li>The shape of my butt is wonderfully natural, feeling soft and comfortable, perfectly suited to my frame.</li>
+            <li>My anus is relaxed and feels just right, blending seamlessly with the pleasing contours of my rear.</li>
+            <li>It’s a comfortable, shapely behind, with a natural plumpness and gentle movement that's quite pleasing.</li>
+            <li>I find the average size of my butt to be perfectly harmonious, neither drawing too much nor too little attention.</li>
+            <li>My rear feels pleasantly soft to the touch, with a subtle, alluring jiggle that feels very feminine.</li>
+            <li>The natural expansion of my anus feels normal and healthy, a part of my body that is truly mine.</li>
+            <li>My butt feels wonderfully full and rounded, with a pleasant, soft texture and a gentle, natural sway.</li>
+            <li>I'm quite content with the overall look and feel of my backside; it's perfectly proportioned and appealing.</li>
+            <li>The comfort of my average-sized rear is unparalleled, allowing for effortless movement and a pleasant feel.</li>
+            <li>My anus feels perfectly at ease, contributing to the overall relaxed and natural feeling of my butt.</li>
+            <li>It’s a truly appealing shape, my butt; with a natural softness and a gentle jiggle that I find quite charming.</li>
+            <li>My backside has a beautiful, rounded fullness; it feels supple and moves with a delightful, soft sway.</li>
+            <li>I appreciate the comforting presence of my average rear; it's beautifully shaped and feels incredibly natural.</li>
+            <li>The subtle jiggle of my butt when I walk is quite endearing; it’s a sign of its natural, healthy form.</li>
+            <li>My anus feels perfectly natural, neither too tight nor too open, just as it should be.</li>
+            <li>This behind is a testament to natural beauty, with its soft curves and pleasant, comfortable feel.</li>
+            <li>I find satisfaction in the balanced proportions of my butt; it's a lovely shape with natural movement.</li>
+            <li>My rear feels delightfully soft and pliable, with a very gentle bounce that’s surprisingly appealing.</li>
+            <li>The relaxed state of my anus complements the overall comfort and natural beauty of my average backside.</li>
+            <li>It's a very pleasant, shapely behind, neither too firm nor too soft, with just the right amount of natural jiggliness.</li>
+            <li>My butt feels wonderfully balanced and naturally expansive, radiating a quiet confidence and comfort.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Accommodating_Neutral_Female_Positive</defName>
+        <label>Opinion_Self_Anus_Accommodating_Neutral_Female_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My wonderfully accommodating butt has a full, inviting curve and a delightful, fluid jiggle that I appreciate.</li>
+            <li>It's a beautifully rounded rear, with an anus that feels perfectly relaxed and ready, embodying a natural allure.</li>
+            <li>I love the generous, soft contours of my backside; it feels ample and wonderfully pliant, a true pleasure.</li>
+            <li>My behind has a lovely, expansive feel, with a subtle, alluring jiggle that speaks of comfort and natural beauty.</li>
+            <li>The accommodating nature of my anus is quite appealing, adding to the soft, welcoming feel of my rounded butt.</li>
+            <li>It's a truly harmonious shape, my butt; full and supple, with a gentle movement that feels so natural.</li>
+            <li>I appreciate the comfortable, yielding softness of my backside; it’s a lovely, ample curve.</li>
+            <li>My rear has a delightful, gentle bounce, a sign of its natural health and relaxed, accommodating state.</li>
+            <li>The shape of my butt is wonderfully full, feeling soft and inviting, perfectly suited for comfort.</li>
+            <li>My anus feels beautifully open and ready, contributing to the soft, welcoming sensation of my ample derriere.</li>
+            <li>This accommodating posterior feels so naturally expansive, a lovely, generous curve.</li>
+            <li>It’s a comfortable, shapely behind, with a natural plumpness and gentle, inviting jiggliness.</li>
+            <li>I find the ample size of my butt to be perfectly harmonious, offering a sense of warmth and natural beauty.</li>
+            <li>My rear feels pleasantly soft to the touch, with an alluring jiggle that feels very appealing.</li>
+            <li>The natural expansion of my anus feels normal and healthy, a part of my body that is truly beautiful.</li>
+            <li>My butt feels wonderfully full and rounded, with a pleasant, soft texture and a gentle, natural sway.</li>
+            <li>I'm quite content with the overall look and feel of my backside; it's beautifully proportioned and inviting.</li>
+            <li>The comfort of my accommodating rear is unparalleled, allowing for effortless movement and a pleasant feel.</li>
+            <li>My anus feels perfectly at ease, contributing to the overall relaxed and natural feeling of my butt.</li>
+            <li>It’s a truly appealing shape, my butt; with a natural softness and a gentle jiggle that I find quite charming.</li>
+            <li>My backside has a beautiful, rounded fullness; it feels supple and moves with a delightful, soft sway.</li>
+            <li>I appreciate the comforting presence of my accommodating rear; it's beautifully shaped and feels incredibly natural.</li>
+            <li>The subtle jiggle of my butt when I walk is quite endearing; it’s a sign of its natural, healthy form.</li>
+            <li>My anus feels perfectly natural, neither too tight nor too open, just as it should be.</li>
+            <li>This behind is a testament to natural beauty, with its soft curves and pleasant, comfortable feel.</li>
+            <li>I find satisfaction in the balanced proportions of my butt; it's a lovely shape with natural movement.</li>
+            <li>My rear feels delightfully soft and pliable, with a very gentle bounce that’s surprisingly appealing.</li>
+            <li>The relaxed state of my anus complements the overall comfort and natural beauty of my accommodating backside.</li>
+            <li>It's a very pleasant, shapely behind, neither too firm nor too soft, with just the right amount of natural jiggliness.</li>
+            <li>My butt feels wonderfully balanced and naturally expansive, radiating a quiet confidence and comfort.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Cavernous_Neutral_Female_Positive</defName>
+        <label>Opinion_Self_Anus_Cavernous_Neutral_Female_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My generous, full butt feels gloriously plump and soft, with a sensual jiggle that feels so natural.</li>
+            <li>It's a truly magnificent rear, my anus wonderfully wide and inviting, exuding a confident, ample beauty.</li>
+            <li>I embrace the lush, yielding curves of my backside; it’s a bountiful, comfortable cushion of pleasure.</li>
+            <li>My behind has a grand, expansive presence, with a deep, alluring jiggle that feels incredibly soft and natural.</li>
+            <li>The cavernous nature of my anus is a testament to my sensuality, adding to the rich, voluptuous feel of my rear.</li>
+            <li>It's a truly abundant form, my butt; full and supple, with a luxurious movement that feels incredibly satisfying.</li>
+            <li>I appreciate the comfortable, yielding vastness of my backside; it’s a magnificent, ample curve.</li>
+            <li>My rear has a delightful, powerful sway, a sign of its natural, uninhibited presence and soft, inviting state.</li>
+            <li>The shape of my butt is wonderfully voluptuous, feeling soft and inviting, perfectly suited for deep comfort.</li>
+            <li>My anus feels beautifully wide and welcoming, contributing to the soft, embracing sensation of my abundant derriere.</li>
+            <li>This cavernous posterior feels so naturally expansive, a truly magnificent, generous curve.</li>
+            <li>It’s a wonderfully comfortable, shapely behind, with a natural plumpness and deep, inviting jiggliness.</li>
+            <li>I find the ample size of my butt to be perfectly harmonious, offering a sense of warmth and natural, powerful beauty.</li>
+            <li>My rear feels gloriously soft to the touch, with an alluring, deep jiggle that feels incredibly appealing.</li>
+            <li>The natural, wide expansion of my anus feels normal and healthy, a part of my body that is truly magnificent.</li>
+            <li>My butt feels wonderfully full and rounded, with a pleasant, soft texture and a deep, natural sway.</li>
+            <li>I'm quite content with the overall look and feel of my backside; it's beautifully proportioned and grandly inviting.</li>
+            <li>The comfort of my cavernous rear is unparalleled, allowing for effortless movement and a truly pleasant feel.</li>
+            <li>My anus feels perfectly at ease, contributing to the overall relaxed and natural feeling of my generous butt.</li>
+            <li>It’s a truly appealing shape, my butt; with a natural softness and a deep, sensual jiggle that I find quite charming.</li>
+            <li>My backside has a beautiful, rounded fullness; it feels supple and moves with a delightful, rich sway.</li>
+            <li>I appreciate the comforting presence of my cavernous rear; it's beautifully shaped and feels incredibly natural.</li>
+            <li>The sensual jiggle of my butt when I walk is quite endearing; it’s a sign of its natural, healthy form.</li>
+            <li>My anus feels perfectly natural, wide and ready, just as it should be, embracing its full potential.</li>
+            <li>This behind is a testament to natural beauty, with its soft, grand curves and pleasant, comfortable feel.</li>
+            <li>I find satisfaction in the balanced proportions of my butt; it's a lovely shape with natural, expansive movement.</li>
+            <li>My rear feels delightfully soft and pliable, with a very gentle, deep bounce that’s surprisingly alluring.</li>
+            <li>The relaxed, open state of my anus complements the overall comfort and natural beauty of my cavernous backside.</li>
+            <li>It's a very pleasant, shapely behind, neither too firm nor too soft, with just the right amount of luxurious jiggliness.</li>
+            <li>My butt feels wonderfully balanced and naturally expansive, radiating a quiet confidence and profound comfort.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Female gives opinion about her butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Abyssal_Neutral_Female_Positive</defName>
+        <label>Opinion_Self_Anus_Abyssal_Neutral_Female_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                <requiredObserverGender>Female</requiredObserverGender>
+                <requiredObservedGender>Female</requiredObservedGender>
+                <requiredObserverNeedSexState>Neutral</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Neutral</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My truly enormous butt feels majestically soft and inviting, with a deep, captivating sway that commands attention.</li>
+            <li>It's an utterly breathtaking rear, my anus profoundly wide and welcoming, radiating a powerful, sensual abundance.</li>
+            <li>I revel in the vast, yielding expanse of my backside; it’s a monumental, incredibly comfortable haven of softness.</li>
+            <li>My behind has a colossal, truly encompassing presence, with an incredibly deep, mesmerizing jiggle that feels divine.</li>
+            <li>The abyssal depth of my anus speaks volumes of my boundless sensuality, enhancing the monumental allure of my rear.</li>
+            <li>It's an undeniably grand form, my butt; immensely full and supple, moving with a luxurious, captivating fluidity.</li>
+            <li>I cherish the comfortable, yielding immensity of my backside; it’s a magnificent, almost overwhelming curve.</li>
+            <li>My rear boasts an incredibly powerful, rhythmic sway, a testament to its natural, unbridled presence and soft, enticing state.</li>
+            <li>The shape of my butt is truly epic, feeling exquisitely soft and profoundly inviting, perfectly designed for ultimate pleasure.</li>
+            <li>My anus feels gloriously open and endlessly welcoming, contributing to the soft, all-encompassing sensation of my boundless derriere.</li>
+            <li>This abyssal posterior feels so naturally monumental, a truly magnificent, unbelievably generous curve.</li>
+            <li>It’s an immensely comfortable, shapely behind, with a natural, extreme plumpness and deep, powerfully inviting jiggliness.</li>
+            <li>I find the immense size of my butt to be perfectly harmonious, offering an overwhelming sense of warmth and natural, raw power.</li>
+            <li>My rear feels gloriously soft to the touch, with an alluring, profound jiggle that feels unbelievably appealing.</li>
+            <li>The natural, utterly vast expansion of my anus feels normal and healthy, a part of my body that is truly monumental.</li>
+            <li>My butt feels wonderfully full and profoundly rounded, with a pleasant, soft texture and a deep, sweeping, natural sway.</li>
+            <li>I'm utterly content with the overall look and feel of my backside; it's beautifully proportioned and grandly, overwhelmingly inviting.</li>
+            <li>The comfort of my abyssal rear is unparalleled, allowing for effortless movement and a truly profoundly pleasant feel.</li>
+            <li>My anus feels perfectly at ease, contributing to the overall relaxed and natural feeling of my incredibly generous butt.</li>
+            <li>It’s a truly appealing shape, my butt; with a natural softness and a deep, profoundly sensual jiggle that I find utterly captivating.</li>
+            <li>My backside has a beautiful, vast, rounded fullness; it feels supple and moves with a delightful, majestic sway.</li>
+            <li>I appreciate the comforting presence of my abyssal rear; it's beautifully shaped and feels incredibly natural and boundless.</li>
+            <li>The sensual, deep jiggle of my butt when I walk is quite endearing; it’s a sign of its natural, healthy, powerful form.</li>
+            <li>My anus feels perfectly natural, wide and endlessly ready, just as it should be, embracing its full, magnificent potential.</li>
+            <li>This behind is a testament to natural beauty, with its soft, grand curves and pleasant, profoundly comfortable feel.</li>
+            <li>I find satisfaction in the balanced proportions of my butt; it's a lovely shape with natural, monumental, expansive movement.</li>
+            <li>My rear feels delightfully soft and pliable, with a very gentle, profound bounce that’s surprisingly alluring and limitless.</li>
+            <li>The relaxed, open state of my anus complements the overall comfort and natural beauty of my abyssal backside, a true marvel.</li>
+            <li>It's a very pleasant, shapely behind, neither too firm nor too soft, with just the right amount of luxurious, extreme jiggliness.</li>
+            <li>My butt feels wonderfully balanced and naturally expansive, radiating a quiet confidence and profound, immense comfort.</li>
+        </opinionTexts>
+    </Def>
+</Defs>

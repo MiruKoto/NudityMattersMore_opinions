@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Defs>
+	<!-- Unisex gives opinion about his tiny butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Micro_Frustrated_Unisex_Positive</defName>
+        <label>Opinion_Self_Anus_Micro_Frustrated_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.01~0.20</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My tiny butt, though subtle, feels perfectly firm. Its restricted nature, combined with my frustration, only fuels a potent internal fire.</li>
+            <li>Despite its micro size, my anus holds a delightful, almost shy, appeal. The tension from my unmet urges makes it feel exquisitely sensitive.</li>
+            <li>This small, compact backside is surprisingly appealing. The frustrating restraint it embodies makes every touch and thought intensely focused on release.</li>
+            <li>A truly discreet posterior, my anus is as tight as can be. This subtle perfection, mixed with my deep longing, feels almost thrilling.</li>
+            <li>My butt, while diminutive, feels incredibly taut and responsive. The simmering frustration enhances its desirability, making me feel powerfully alluring.</li>
+            <li>It's a small but perfectly formed butt, and my frustrated state amplifies its delicate allure. It promises a deep, intense release.</li>
+            <li>My micro-sized anus, though barely noticeable, possesses a captivating tightness. This exquisite tension, born from my needs, feels wonderfully potent.</li>
+            <li>The compactness of my rear is rather charming. My frustrated state makes its subtle shape incredibly stimulating, ready for intense sensation.</li>
+            <li>A truly firm and unobtrusive butt. The profound frustration I feel just makes its modest presence all the more captivating and inviting.</li>
+            <li>My tiny buttocks are surprisingly resilient, and my current frustrated desires elevate their inherent appeal. They feel sharp and eager.</li>
+            <li>I appreciate the subtle contour of my small backside. The pent-up frustration transforms its tightness into a source of exquisite, longing sensation.</li>
+            <li>This micro anus, while discreet, feels incredibly eager to expand. My heightened need makes its every detail intensely vivid and desirable.</li>
+            <li>My petite butt is a quiet force, its tightness amplified by my urges. It yearns for release, mirroring my own desperate anticipation.</li>
+            <li>Such a compact form, yet my anus feels incredibly vital. The frustration makes its modest size feel like a tightly coiled spring, ready to burst.</li>
+            <li>I find this tiny butt shape quite alluring, especially with my surging frustration. It's a small, perfect vessel for powerful sensations.</li>
+            <li>A very contained posterior, my anus feels delightfully firm. The suppressed desire only makes its understated charm burn brighter.</li>
+            <li>My small butt feels incredibly responsive, and its restricted shape perfectly captures the intensity of my frustrated urges. It's truly enticing.</li>
+            <li>The precise tightness of my micro anus is quite a turn-on. My unfulfilled needs make its subtle contours feel profoundly attractive.</li>
+            <li>This butt is small but mighty, its firm structure a perfect counterpoint to my burning frustration. It beckons with a subtle promise.</li>
+            <li>My tiny, well-defined rear feels utterly perfect. The strong currents of my need make its tight, eager core pulsate with anticipation.</li>
+            <li>Even with its modest size, my butt feels incredibly appealing. The frustration I carry makes its slight curves incredibly sensitive and alluring.</li>
+            <li>My micro anus feels delightfully firm and ready. This contained power, fueled by my frustration, makes me feel intensely desirable.</li>
+            <li>A rather private and tight backside. My profound sexual need turns its subtle appeal into a potent and undeniable yearning.</li>
+            <li>I admire the discreet, yet firm, nature of my tiny butt. The frustration I feel makes its unassuming presence feel incredibly profound and appealing.</li>
+            <li>This compact butt, along with my frustrated state, feels perfectly primed for intense sensations. It's a testament to contained power.</li>
+            <li>My anus, though small, feels incredibly responsive to my inner turmoil. Its delicate tightness is deeply alluring amidst my desire.</li>
+            <li>The subtle, yet firm, contours of my rear are captivating. My unmet desires make its micro presence feel intensely charged and inviting.</li>
+            <li>My tiny butt holds a surprising firmness. The sheer frustration coursing through me makes its every line and curve feel exquisitely sharp.</li>
+            <li>It's a perfectly formed, small backside. My current, desperate needs highlight its subtle perfection, making it feel intensely personal and appealing.</li>
+            <li>My micro anus feels wonderfully taut and responsive. The frustration makes its controlled nature feel incredibly sensual and deeply desired.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his small butt shape, anus expansion, all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Tight_Positive_Unisex</defName>
+        <label>Opinion_Self_Anus_Tight_Positive_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.20~0.40</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My small, tight butt feels incredibly firm, a perfect canvas for my frustrated desire. Its shape holds a potent promise.</li>
+            <li>The pleasing tightness of my anus, combined with my intense frustration, makes my backside feel wonderfully restrained and alluring.</li>
+            <li>This compact rear is quite shapely. The tension from my unfulfilled urges gives its small, tight form a truly captivating appeal.</li>
+            <li>My anus feels desirably tight, its controlled nature echoing my profound frustration. It's a delightful, firm core.</li>
+            <li>A genuinely well-defined and small butt, its tightness amplified by my need. It feels incredibly ready for release, mirroring my desire.</li>
+            <li>My butt, though small, possesses a delightful firmness. My frustrated state only enhances its alluring tension, making it feel perfectly eager.</li>
+            <li>The pleasingly tight opening of my anus is a source of intense focus. My suppressed desires make its compact form intensely attractive.</li>
+            <li>This small, firm backside feels incredibly responsive. The building frustration within me makes its tight contours pulsate with anticipation.</li>
+            <li>I admire the tautness of my rear. Its contained power, combined with my escalating frustration, creates a compelling sense of readiness.</li>
+            <li>My tight anus, while small, feels incredibly vibrant and alive. The deep, unmet urges amplify its every subtle, inviting sensation.</li>
+            <li>The compact and tight nature of my butt is rather stimulating. My frustration makes its firm shape feel exquisitely primed for attention.</li>
+            <li>This small, perfectly shaped butt feels incredibly responsive to my desires. Its tightness is a testament to my simmering needs.</li>
+            <li>My anus feels wonderfully taut, a focal point for my frustration. It's a small, firm core that promises immense satisfaction.</li>
+            <li>A truly well-proportioned and tight rear. My unfulfilled urges make its firm contours feel incredibly enticing and full of potential.</li>
+            <li>I find the tightness of my backside quite appealing, especially with my current frustrated state. It's a small, potent area of desire.</li>
+            <li>My small butt possesses a delightful firmness. The building frustration amplifies its compact appeal, making it feel wonderfully responsive.</li>
+            <li>The sensation of my tight anus is powerfully engaging. My surging needs make its contained form feel incredibly vivid and ready.</li>
+            <li>This well-formed, tight butt truly captivates me. My intense frustration transforms its shape into something deeply alluring and expectant.</li>
+            <li>My anus feels so deliciously tight, a perfect reflection of my frustrated state. It's a small, firm core brimming with anticipation.</li>
+            <li>A very appealingly small and taut posterior. The unyielding tension from my urges makes its firm contours incredibly desirable.</li>
+            <li>My butt, while small, holds a powerful, tight appeal. The frustration I feel makes its contained shape feel exquisitely attractive and primed.</li>
+            <li>The firmness of my anus is quite stimulating. My unmet desires turn its pleasing tightness into a magnetic pull, full of promise.</li>
+            <li>This compact, tight backside is surprisingly responsive. My building frustration makes its every curve and line feel profoundly sensual.</li>
+            <li>I appreciate the controlled tightness of my rear. It feels incredibly vital, especially with the surge of frustration within me.</li>
+            <li>My small butt, with its undeniable tightness, feels ready to burst. The powerful frustration I feel amplifies its eager, firm core.</li>
+            <li>The pleasingly taut sensation of my anus is captivating. My intense need makes its compact form feel incredibly alive and inviting.</li>
+            <li>This tight, small butt feels incredibly enticing. My frustrated state amplifies its firm presence, promising a profound and intense experience.</li>
+            <li>My anus feels wonderfully firm and eager. The deep frustration makes its controlled nature feel incredibly sensual and deeply desired.</li>
+            <li>A truly well-defined and tight butt. My urges transform its subtle contours into a source of powerful anticipation and appeal.</li>
+            <li>My compact backside, with its appealing tightness, feels perfectly primed. The frustration makes its firm shape pulse with readiness.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Average_Positive_Unisex</defName>
+        <label>Opinion_Self_Anus_Average_Positive_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.40~0.60</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My average-sized butt feels perfectly balanced, its slight jiggliness hinting at a readiness that aligns with my potent frustration.</li>
+            <li>The familiar shape of my anus, neither too tight nor too loose, feels surprisingly enticing. My frustrated mood makes it exceptionally sensitive.</li>
+            <li>This butt has a pleasing, substantial feel, its subtle movement accentuating my mounting desire. It truly feels primed for release.</li>
+            <li>My average anus feels wonderfully supple, its capacity for expansion a tantalizing thought. The frustration makes it yearn for action.</li>
+            <li>A perfectly proportioned backside, its slight softness suggesting comfort and receptivity. My deep urges make it undeniably appealing.</li>
+            <li>My butt, while average, feels remarkably good, its familiar contours now imbued with a frustrated intensity. It's ready.</li>
+            <li>The reassuring feel of my anus, neither restrictive nor overly open, holds a compelling allure. My frustration makes it vibrate with anticipation.</li>
+            <li>This butt feels just right, its balanced shape and subtle sway reflecting a deep, unfulfilled longing. It's truly a positive sight.</li>
+            <li>I appreciate the comfortable, yet firm, nature of my average rear. The frustration I feel makes its natural give exceptionally appealing.</li>
+            <li>My average-sized anus feels exquisitely poised, its potential for expansion a source of intense focus. My desires make it throb with readiness.</li>
+            <li>The pleasing solidity of my butt is comforting. My frustrated state turns its balanced form into a canvas of urgent, pulsing sensation.</li>
+            <li>This butt has a natural, inviting feel, its subtle movements speaking of a potent energy. My desires make it wonderfully receptive.</li>
+            <li>My anus, in its comfortable state, feels incredibly sensitive. The frustration makes its unassuming shape feel profoundly attractive and eager.</li>
+            <li>A truly satisfying, average backside. Its balanced shape and slight give align perfectly with my urgent, unfulfilled needs.</li>
+            <li>I find the natural contour of my butt quite alluring. My deep frustration transforms its familiar feel into a potent, compelling desire.</li>
+            <li>My average butt feels incredibly responsive, its slight yielding a promise of release. The building frustration makes it intensely appealing.</li>
+            <li>The pleasing feel of my anus, perfectly formed, is engaging. My intense needs make its balanced state feel exceptionally vital and magnetic.</li>
+            <li>This well-proportioned butt feels remarkably enticing. My frustration amplifies its natural comfort, making it a powerful focal point.</li>
+            <li>My anus, with its comfortable capacity, feels vibrant. The deep frustration within me makes its balanced expansion feel incredibly promising.</li>
+            <li>A very appealing average posterior. The unyielding tension from my urges makes its familiar contours feel profoundly desirable and ready.</li>
+            <li>My butt, while average, holds a profound, comfortable appeal. The frustration I feel makes its generous shape feel exquisitely attractive and primed.</li>
+            <li>The pleasing solidity of my anus is quite stimulating. My unmet desires turn its familiar feel into a magnetic pull, full of promise.</li>
+            <li>This balanced backside is surprisingly responsive. My building frustration makes its every curve and line feel profoundly sensual and inviting.</li>
+            <li>I appreciate the natural comfort and give of my rear. It feels incredibly vital, especially with the surge of frustration within me.</li>
+            <li>My average butt, with its undeniable comfort, feels ready to embrace. The powerful frustration I feel amplifies its eager, firm core.</li>
+            <li>The pleasingly natural sensation of my anus is captivating. My intense need makes its familiar form feel incredibly alive and receptive.</li>
+            <li>This comfortable, average butt feels incredibly enticing. My frustrated state amplifies its natural presence, promising a profound and intense experience.</li>
+            <li>My anus feels wonderfully balanced and eager. The deep frustration makes its natural size feel incredibly sensual and deeply desired.</li>
+            <li>A truly well-defined and natural butt. My urges transform its subtle contours into a source of powerful anticipation and appeal.</li>
+            <li>My comfortable backside, with its appealing shape, feels perfectly primed. The frustration makes its familiar form pulse with readiness.</li>
+        </opinionTexts>
+    </Def>
+	
+	<!-- Unisex gives opinion about his butt shape, anus expansion, maybe jigliness all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Accommodating_Positive_Unisex</defName>
+        <label>Opinion_Self_Anus_Accommodating_Positive_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.60~0.80</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My accommodating butt feels incredibly inviting, its generous shape and gentle jiggliness perfectly aligning with my frustrated, seeking desires.</li>
+            <li>The welcoming nature of my anus, clearly ready for expansion, feels exquisitely potent. My intense frustration makes it intensely alluring.</li>
+            <li>This butt has a delightfully substantial feel, its soft sway hinting at a profound capacity. It truly feels eager for connection and release.</li>
+            <li>My accommodating anus feels wonderfully yielding, its readiness for acceptance a tantalizing thought. The frustration makes it yearn for action.</li>
+            <li>A perfectly generous backside, its slight sag suggesting comfort and profound receptivity. My deep urges make it undeniably appealing.</li>
+            <li>My butt, while accommodating, feels remarkably good, its familiar contours now imbued with a frustrated urgency. It's truly ready.</li>
+            <li>The inviting feel of my anus, neither restrictive nor overly open, holds a compelling allure. My frustration makes it vibrate with anticipation.</li>
+            <li>This butt feels just right, its expansive shape and subtle give reflecting a deep, unfulfilled longing. It's truly a positive sight.</li>
+            <li>I appreciate the comfortable, yet giving, nature of my accommodating rear. The frustration I feel makes its natural elasticity exceptionally appealing.</li>
+            <li>My accommodating-sized anus feels exquisitely poised, its potential for expansion a source of intense focus. My desires make it throb with readiness.</li>
+            <li>The pleasing solidity of my butt is comforting. My frustrated state turns its embracing form into a canvas of urgent, pulsing sensation.</li>
+            <li>This butt has a natural, inviting feel, its subtle movements speaking of a potent energy. My desires make it wonderfully receptive.</li>
+            <li>My anus, in its open state, feels incredibly sensitive. The frustration makes its embracing shape feel profoundly attractive and eager.</li>
+            <li>A truly satisfying, accommodating backside. Its generous shape and ample give align perfectly with my urgent, unfulfilled needs.</li>
+            <li>I find the natural contour of my butt quite alluring. My deep frustration transforms its familiar feel into a potent, compelling desire.</li>
+            <li>My accommodating butt feels incredibly responsive, its ample yielding a promise of release. The building frustration makes it intensely appealing.</li>
+            <li>The pleasing feel of my anus, perfectly formed for acceptance, is engaging. My intense needs make its capacious state feel exceptionally vital.</li>
+            <li>This well-proportioned butt feels remarkably enticing. My frustration amplifies its natural comfort, making it a powerful focal point.</li>
+            <li>My anus, with its comfortable capacity, feels vibrant. The deep frustration within me makes its generous expansion feel incredibly promising.</li>
+            <li>A very appealing accommodating posterior. The unyielding tension from my urges makes its familiar contours feel profoundly desirable and ready.</li>
+            <li>My butt, while accommodating, holds a profound, comfortable appeal. The frustration I feel makes its generous shape feel exquisitely attractive and primed.</li>
+            <li>The pleasing solidity of my anus is quite stimulating. My unmet desires turn its familiar feel into a magnetic pull, full of promise.</li>
+            <li>This expansive backside is surprisingly responsive. My building frustration makes its every curve and line feel profoundly sensual and inviting.</li>
+            <li>I appreciate the natural comfort and give of my rear. It feels incredibly vital, especially with the surge of frustration within me.</li>
+            <li>My accommodating butt, with its undeniable comfort, feels ready to embrace. The powerful frustration I feel amplifies its eager, soft core.</li>
+            <li>The pleasingly natural sensation of my anus is captivating. My intense need makes its familiar form feel incredibly alive and receptive.</li>
+            <li>This comfortable, accommodating butt feels incredibly enticing. My frustrated state amplifies its natural presence, promising a profound and intense experience.</li>
+            <li>My anus feels wonderfully balanced and eager. The deep frustration makes its natural size feel incredibly sensual and deeply desired.</li>
+            <li>A truly well-defined and natural butt. My urges transform its subtle contours into a source of powerful anticipation and appeal.</li>
+            <li>My comfortable backside, with its appealing shape, feels perfectly primed. The frustration makes its familiar form pulse with readiness.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Cavernous_Positive_Unisex</defName>
+        <label>Opinion_Self_Anus_Cavernous_Positive_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>0.80~1</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My cavernous butt feels incredibly expansive, its generous sag and enticing jiggliness amplifying my frustrated, yearning desires.</li>
+            <li>The deeply welcoming nature of my anus, clearly built for full embrace, feels exquisitely potent. My intense frustration makes it intensely alluring.</li>
+            <li>This butt has a delightfully profound feel, its deep sway hinting at immense capacity. It truly feels eager for complete connection and release.</li>
+            <li>My cavernous anus feels wonderfully yielding, its readiness for total acceptance a tantalizing thought. The frustration makes it yearn for action.</li>
+            <li>A truly expansive backside, its significant sag suggesting deep comfort and profound receptivity. My deep urges make it undeniably appealing.</li>
+            <li>My butt, while cavernous, feels remarkably good, its ample contours now imbued with a frustrated urgency. It's truly ready.</li>
+            <li>The inviting feel of my anus, neither restrictive nor overly open, holds a compelling allure. My frustration makes it vibrate with anticipation.</li>
+            <li>This butt feels just right, its vast shape and abundant give reflecting a deep, unfulfilled longing. It's truly a positive sight.</li>
+            <li>I appreciate the comfortable, yet profound, nature of my cavernous rear. The frustration I feel makes its natural elasticity exceptionally appealing.</li>
+            <li>My cavernous-sized anus feels exquisitely poised, its potential for vast expansion a source of intense focus. My desires make it throb with readiness.</li>
+            <li>The pleasing solidity of my butt is comforting. My frustrated state turns its embracing form into a canvas of urgent, pulsing sensation.</li>
+            <li>This butt has a natural, inviting feel, its subtle movements speaking of a potent energy. My desires make it wonderfully receptive.</li>
+            <li>My anus, in its open state, feels incredibly sensitive. The frustration makes its embracing shape feel profoundly attractive and eager.</li>
+            <li>A truly satisfying, cavernous backside. Its generous shape and ample give align perfectly with my urgent, unfulfilled needs.</li>
+            <li>I find the natural contour of my butt quite alluring. My deep frustration transforms its familiar feel into a potent, compelling desire.</li>
+            <li>My cavernous butt feels incredibly responsive, its ample yielding a promise of release. The building frustration makes it intensely appealing.</li>
+            <li>The pleasing feel of my anus, perfectly formed for acceptance, is engaging. My intense needs make its capacious state feel exceptionally vital.</li>
+            <li>This well-proportioned butt feels remarkably enticing. My frustration amplifies its natural comfort, making it a powerful focal point.</li>
+            <li>My anus, with its comfortable capacity, feels vibrant. The deep frustration within me makes its generous expansion feel incredibly promising.</li>
+            <li>A very appealing cavernous posterior. The unyielding tension from my urges makes its familiar contours feel profoundly desirable and ready.</li>
+            <li>My butt, while cavernous, holds a profound, comfortable appeal. The frustration I feel makes its generous shape feel exquisitely attractive and primed.</li>
+            <li>The pleasing solidity of my anus is quite stimulating. My unmet desires turn its familiar feel into a magnetic pull, full of promise.</li>
+            <li>This expansive backside is surprisingly responsive. My building frustration makes its every curve and line feel profoundly sensual and inviting.</li>
+            <li>I appreciate the natural comfort and give of my rear. It feels incredibly vital, especially with the surge of frustration within me.</li>
+            <li>My cavernous butt, with its undeniable comfort, feels ready to embrace. The powerful frustration I feel amplifies its eager, soft core.</li>
+            <li>The pleasingly natural sensation of my anus is captivating. My intense need makes its familiar form feel incredibly alive and receptive.</li>
+            <li>This comfortable, cavernous butt feels incredibly enticing. My frustrated state amplifies its natural presence, promising a profound and intense experience.</li>
+            <li>My anus feels wonderfully balanced and eager. The deep frustration makes its natural size feel incredibly sensual and deeply desired.</li>
+            <li>A truly well-defined and natural butt. My urges transform its subtle contours into a source of powerful anticipation and appeal.</li>
+            <li>My comfortable backside, with its appealing shape, feels perfectly primed. The frustration makes its familiar form pulse with readiness.</li>
+        </opinionTexts>
+    </Def>
+	<!-- Unisex gives opinion about his butt shape, anus expansion, maybe jigliness or sagginess all based on sex need, and overall mood -->
+	<Def Class="NudityMattersMore_opinions.OpinionDef_SexPart" ParentName="BaseSexPartOpinionDef">
+        <defName>Opinion_Self_Anus_Abyssal_Positive_Unisex</defName>
+        <label>Opinion_Self_Anus_Abyssal_Positive_Unisex_(positive)</label>
+        <targetBodyPart>Anus</targetBodyPart>
+        <opinionCategory>Positive</opinionCategory>
+        <severityRange>1.01~2</severityRange>
+        
+        <modExtensions>
+            <li Class="NudityMattersMore_opinions.OpinionConditionExtension">
+				<isSelfOpinion>true</isSelfOpinion>
+                
+                
+                <requiredObserverNeedSexState>Frustrated</requiredObserverNeedSexState>
+                <requiredObservedNeedSexState>Frustrated</requiredObservedNeedSexState>
+            </li>
+        </modExtensions>
+        <opinionTexts>
+            <li>My abyssal butt feels incredibly vast, its profound sag and abundant jiggliness perfectly amplifying my frustrated, insatiable desires.</li>
+            <li>The truly bottomless nature of my anus, clearly built for complete engulfment, feels exquisitely potent. My intense frustration makes it incredibly alluring.</li>
+            <li>This butt has an incredibly profound feel, its deep, heavy sway hinting at limitless capacity. It truly feels eager for ultimate connection and release.</li>
+            <li>My abyssal anus feels wonderfully yielding, its readiness for absolute acceptance a tantalizing thought. The frustration makes it yearn for boundless action.</li>
+            <li>A truly monumental backside, its significant sag suggesting profound comfort and ultimate receptivity. My deep urges make it undeniably appealing.</li>
+            <li>My butt, while abyssal, feels remarkably good, its immense contours now imbued with a frustrated urgency. It's truly ready for anything.</li>
+            <li>The inviting feel of my anus, without restraint, holds a compelling allure. My frustration makes it vibrate with an overwhelming anticipation.</li>
+            <li>This butt feels beyond right, its vast shape and endless give reflecting a deep, unfulfilled longing. It's truly a magnificent sight.</li>
+            <li>I appreciate the comfortable, yet utterly profound, nature of my abyssal rear. The frustration I feel makes its natural elasticity exceptionally appealing.</li>
+            <li>My abyssal-sized anus feels exquisitely poised, its potential for boundless expansion a source of intense focus. My desires make it throb with readiness.</li>
+            <li>The pleasing solidity of my butt is comforting. My frustrated state turns its embracing form into a canvas of urgent, pulsing sensation.</li>
+            <li>This butt has a natural, inviting feel, its subtle movements speaking of a potent energy. My desires make it wonderfully receptive.</li>
+            <li>My anus, in its open state, feels incredibly sensitive. The frustration makes its embracing shape feel profoundly attractive and eager.</li>
+            <li>A truly satisfying, abyssal backside. Its generous shape and ample give align perfectly with my urgent, unfulfilled needs.</li>
+            <li>I find the natural contour of my butt quite alluring. My deep frustration transforms its familiar feel into a potent, compelling desire.</li>
+            <li>My abyssal butt feels incredibly responsive, its ample yielding a promise of release. The building frustration makes it intensely appealing.</li>
+            <li>The pleasing feel of my anus, perfectly formed for acceptance, is engaging. My intense needs make its capacious state feel exceptionally vital.</li>
+            <li>This well-proportioned butt feels remarkably enticing. My frustration amplifies its natural comfort, making it a powerful focal point.</li>
+            <li>My anus, with its comfortable capacity, feels vibrant. The deep frustration within me makes its generous expansion feel incredibly promising.</li>
+            <li>A very appealing abyssal posterior. The unyielding tension from my urges makes its familiar contours feel profoundly desirable and ready.</li>
+            <li>My butt, while abyssal, holds a profound, comfortable appeal. The frustration I feel makes its generous shape feel exquisitely attractive and primed.</li>
+            <li>The pleasing solidity of my anus is quite stimulating. My unmet desires turn its familiar feel into a magnetic pull, full of promise.</li>
+            <li>This expansive backside is surprisingly responsive. My building frustration makes its every curve and line feel profoundly sensual and inviting.</li>
+            <li>I appreciate the natural comfort and give of my rear. It feels incredibly vital, especially with the surge of frustration within me.</li>
+            <li>My abyssal butt, with its undeniable comfort, feels ready to embrace. The powerful frustration I feel amplifies its eager, soft core.</li>
+            <li>The pleasingly natural sensation of my anus is captivating. My intense need makes its familiar form feel incredibly alive and receptive.</li>
+            <li>This comfortable, abyssal butt feels incredibly enticing. My frustrated state amplifies its natural presence, promising a profound and intense experience.</li>
+            <li>My anus feels wonderfully balanced and eager. The deep frustration makes its natural size feel incredibly sensual and deeply desired.</li>
+            <li>A truly well-defined and natural butt. My urges transform its subtle contours into a source of powerful anticipation and appeal.</li>
+            <li>My comfortable backside, with its appealing shape, feels perfectly primed. The frustration makes its familiar form pulse with readiness.</li>
+        </opinionTexts>
+    </Def>
+</Defs>
