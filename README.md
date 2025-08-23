@@ -83,6 +83,8 @@ Feel free to use, modify, or reuse the presented content, including textures, op
 Special Thanks:
 Dord, for creating Nudity Matters More.
 
+Ma4a4a for contributing and updating mod to 1.6
+
 RJW community, for being perverted :D
 
 Anyone who supported the release of this mod.
