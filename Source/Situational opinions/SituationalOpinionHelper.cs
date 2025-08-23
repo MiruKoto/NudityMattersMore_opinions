@@ -29,7 +29,7 @@ namespace NudityMattersMore_opinions
         private static System.Random random = new System.Random();
 
         // --- КЭШИРОВАНИЕ КВИРКОВ ДЛЯ БЫСТРОГО ПОИСКА ---
-        private static readonly Dictionary<string, Quirk> _cachedQuirks = new Dictionary<string, Quirk>();
+       // private static readonly Dictionary<string, Quirk> _cachedQuirks = new Dictionary<string, Quirk>();
 
         private static readonly bool IsrjwsexperienceideologyActive;
 
@@ -41,17 +41,17 @@ namespace NudityMattersMore_opinions
         {
 
             // Заполняем кэш квирков при старте мода
-            foreach (var quirk in rjw.Quirk.All)
-            {
-                if (!_cachedQuirks.ContainsKey(quirk.Key))
-                {
-                    _cachedQuirks.Add(quirk.Key, quirk);
-                }
-                if (!string.IsNullOrEmpty(quirk.LocaliztionKey) && !_cachedQuirks.ContainsKey(quirk.LocaliztionKey))
-                {
-                    _cachedQuirks.Add(quirk.LocaliztionKey, quirk);
-                }
-            }
+      //      foreach (var quirk in rjw.Check)
+       //     {
+        //        if (!_cachedQuirks.ContainsKey(quirk.Key))
+        //        {
+        //            _cachedQuirks.Add(quirk.Key, quirk);
+       //         }
+       //         if (!string.IsNullOrEmpty(quirk.LocaliztionKey) && !_cachedQuirks.ContainsKey(quirk.LocaliztionKey))
+       //         {
+        //            _cachedQuirks.Add(quirk.LocaliztionKey, quirk);
+       //         }
+       //     }
             // Проверяем активность RJW один раз и сохраняем результат
             IsRjwActive = ModLister.HasActiveModWithName("RimJobWorld");
             IsrjwsexperienceideologyActive = ModLister.HasActiveModWithName("rjw.sexperience.ideology");
@@ -372,11 +372,6 @@ namespace NudityMattersMore_opinions
                 if (ext.requiredObserverGender.HasValue && actualObserver.gender != ext.requiredObserverGender.Value) continue;
                 if (ext.requiredObserverLifeStage != null && (actualObserver.ageTracker == null || actualObserver.ageTracker.CurLifeStage != ext.requiredObserverLifeStage)) continue;
                 if (ext.requiredObserverPawnKind != null && actualObserver.kindDef != ext.requiredObserverPawnKind) continue;
-                if (!string.IsNullOrEmpty(ext.requiredObserverQuirk))
-                {
-                    // ИСПРАВЛЕНО: Использование кэшированного словаря для быстрого поиска квирков
-                    if (!_cachedQuirks.TryGetValue(ext.requiredObserverQuirk, out Quirk targetQuirk) || !rjw.PawnExtensions.Has(actualObserver, targetQuirk)) continue;
-                }
                 if (ext.requiredObserverMinBiologicalAge > 0 && (actualObserver.ageTracker == null || actualObserver.ageTracker.AgeBiologicalYears < ext.requiredObserverMinBiologicalAge)) continue;
                 if (ext.requiredObserverMaxBiologicalAge > 0 && (actualObserver.ageTracker == null || actualObserver.ageTracker.AgeBiologicalYears > ext.requiredObserverMaxBiologicalAge)) continue;
                 if (ext.requiredObserverNeedSexState != NeedSexState.Any && GetNeedSexState(actualObserver) != ext.requiredObserverNeedSexState) continue;
@@ -510,11 +505,11 @@ namespace NudityMattersMore_opinions
                 if (ext.requiredObserverTrait != null && actualObserver.story != null && actualObserver.story.traits.HasTrait(ext.requiredObserverTrait)) { currentWeight += 10; }
                 if (ext.requiredObserverGender.HasValue && actualObserver.gender == ext.requiredObserverGender.Value) { currentWeight += 5; }
                 if (ext.requiredObserverLifeStage != null && actualObserver.ageTracker != null && actualObserver.ageTracker.CurLifeStage == ext.requiredObserverLifeStage) { currentWeight += 5; }
-                if (!string.IsNullOrEmpty(ext.requiredObserverQuirk))
-                {
-                    // ИСПРАВЛЕНО: Использование кэшированного словаря для быстрого поиска квирков
-                    if (_cachedQuirks.TryGetValue(ext.requiredObserverQuirk, out Quirk targetQuirk) && rjw.PawnExtensions.Has(actualObserver, targetQuirk)) { currentWeight += 15; }
-                }
+            //    if (!string.IsNullOrEmpty(ext.requiredObserverQuirk))
+            //    {
+            //        // ИСПРАВЛЕНО: Использование кэшированного словаря для быстрого поиска квирков
+            //        if (_cachedQuirks.TryGetValue(ext.requiredObserverQuirk, out Quirk targetQuirk) && rjw.PawnExtensions.Has(actualObserver, targetQuirk)) { currentWeight += 15; }
+            //    }
                 if (ext.requiredObserverMinBiologicalAge > 0 && actualObserver.ageTracker != null && actualObserver.ageTracker.AgeBiologicalYears >= ext.requiredObserverMinBiologicalAge) { currentWeight += 5; }
                 if (ext.requiredObserverMaxBiologicalAge > 0 && actualObserver.ageTracker != null && actualObserver.ageTracker.AgeBiologicalYears <= ext.requiredObserverMaxBiologicalAge) { currentWeight += 5; }
                 if (ext.requiredObserverNeedSexState != NeedSexState.Any && GetNeedSexState(actualObserver) == ext.requiredObserverNeedSexState) { currentWeight += 10; }
@@ -810,11 +805,11 @@ namespace NudityMattersMore_opinions
                 if (ext.requiredObserverGender.HasValue && actualObserver.gender != ext.requiredObserverGender.Value) continue;
                 if (ext.requiredObserverLifeStage != null && (actualObserver.ageTracker == null || actualObserver.ageTracker.CurLifeStage != ext.requiredObserverLifeStage)) continue;
                 if (ext.requiredObserverPawnKind != null && actualObserver.kindDef != ext.requiredObserverPawnKind) continue;
-                if (!string.IsNullOrEmpty(ext.requiredObserverQuirk))
-                {
+             //   if (!string.IsNullOrEmpty(ext.requiredObserverQuirk))
+              //  {
                     // ИСПРАВЛЕНО: Использование кэшированного словаря для быстрого поиска квирков
-                    if (!_cachedQuirks.TryGetValue(ext.requiredObserverQuirk, out Quirk targetQuirk) || !rjw.PawnExtensions.Has(actualObserver, targetQuirk)) continue;
-                }
+              //      if (!_cachedQuirks.TryGetValue(ext.requiredObserverQuirk, out Quirk targetQuirk) || !rjw.PawnExtensions.Has(actualObserver, targetQuirk)) continue;
+             //   }
                 if (ext.requiredObserverMinBiologicalAge > 0 && (actualObserver.ageTracker == null || actualObserver.ageTracker.AgeBiologicalYears < ext.requiredObserverMinBiologicalAge)) continue;
                 if (ext.requiredObserverMaxBiologicalAge > 0 && (actualObserver.ageTracker == null || actualObserver.ageTracker.AgeBiologicalYears > ext.requiredObserverMaxBiologicalAge)) continue;
                 if (ext.requiredObserverNeedSexState != NeedSexState.Any && GetNeedSexState(actualObserver) != ext.requiredObserverNeedSexState) continue;
@@ -928,11 +923,11 @@ namespace NudityMattersMore_opinions
                 if (ext.requiredObserverTrait != null && actualObserver.story != null && actualObserver.story.traits.HasTrait(ext.requiredObserverTrait)) { currentWeight += 10; }
                 if (ext.requiredObserverGender.HasValue && actualObserver.gender == ext.requiredObserverGender.Value) { currentWeight += 5; }
                 if (ext.requiredObserverLifeStage != null && actualObserver.ageTracker != null && actualObserver.ageTracker.CurLifeStage == ext.requiredObserverLifeStage) { currentWeight += 5; }
-                if (!string.IsNullOrEmpty(ext.requiredObserverQuirk))
-                {
+             //   if (!string.IsNullOrEmpty(ext.requiredObserverQuirk))
+             //   {
                     // ИСПРАВЛЕНО: Использование кэшированного словаря для быстрого поиска квирков
-                    if (_cachedQuirks.TryGetValue(ext.requiredObserverQuirk, out Quirk targetQuirk) && rjw.PawnExtensions.Has(actualObserver, targetQuirk)) { currentWeight += 15; }
-                }
+            //        if (_cachedQuirks.TryGetValue(ext.requiredObserverQuirk, out Quirk targetQuirk) && rjw.PawnExtensions.Has(actualObserver, targetQuirk)) { currentWeight += 15; }
+           //     }
                 if (ext.requiredObserverMinBiologicalAge > 0 && actualObserver.ageTracker != null && actualObserver.ageTracker.AgeBiologicalYears >= ext.requiredObserverMinBiologicalAge) { currentWeight += 5; }
                 if (ext.requiredObserverMaxBiologicalAge > 0 && actualObserver.ageTracker != null && actualObserver.ageTracker.AgeBiologicalYears <= ext.requiredObserverMaxBiologicalAge) { currentWeight += 5; }
                 if (ext.requiredObserverNeedSexState != NeedSexState.Any && GetNeedSexState(actualObserver) == ext.requiredObserverNeedSexState) { currentWeight += 10; }

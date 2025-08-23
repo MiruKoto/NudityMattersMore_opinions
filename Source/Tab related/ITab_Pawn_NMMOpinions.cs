@@ -569,7 +569,7 @@ namespace NudityMattersMore_opinions
 
             foreach (var entry in entriesToShow)
             {
-                logListing.Label(entry.GetFormattedLogString(), -1f, entry.OpinionText);
+                logListing.Label((TaggedString)entry.GetFormattedLogString(), -1f, (string)entry.OpinionText);
                 logListing.Gap(4f); // Увеличенный отступ
             }
 

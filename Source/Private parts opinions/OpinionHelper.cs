@@ -562,7 +562,7 @@ namespace NudityMattersMore_opinions
                     }
 
                     // Required Observer Quirk
-                    if (!string.IsNullOrEmpty(ext.requiredObserverQuirk))
+/*                    if (!string.IsNullOrEmpty(ext.requiredObserverQuirk))
                     {
                         Quirk targetQuirk = Quirk.All.FirstOrDefault(q =>
                             q.Key == ext.requiredObserverQuirk || q.LocaliztionKey == ext.requiredObserverQuirk);
@@ -576,7 +576,7 @@ namespace NudityMattersMore_opinions
                             debugFailedReasons.Add($"[OpinionDebug] '{opinionDef.defName}': Observer missing quirk {ext.requiredObserverQuirk}");
                             passedAllConditions = false;
                         }
-                    }
+                    }*/
 
                     // Required Observer Minimum Biological Age
                     if (ext.minBiologicalAge > 0)

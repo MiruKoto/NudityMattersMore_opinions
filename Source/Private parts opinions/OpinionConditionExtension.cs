@@ -76,7 +76,7 @@ namespace NudityMattersMore_opinions
         /// For example, "ExhibitionistQuirk" or "DemonLoverQuirk".
         /// If null or empty, the quirk condition is not applied.
         /// </summary>
-        public string requiredObserverQuirk;
+       // public string requiredObserverQuirk;
 
 
         /// <summary>

@@ -89,7 +89,7 @@ namespace NudityMattersMore_opinions
         /// The required Quirk of the observer pawn.
         /// If null or an empty string, the Quirk condition is not applied.
         /// </summary>
-        public string requiredObserverQuirk;
+       // public string requiredObserverQuirk;
 
         /// <summary>
         /// Minimum biological age (in years) of the observer pawn.
